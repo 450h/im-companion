@@ -1,0 +1,4463 @@
+{
+ "topicId": "neph-ckd",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "neph-ckd.s1",
+   "title": "Definition, staging and epidemiology",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Chronic kidney disease (CKD)** is a loss of kidney function that has lasted **more than 3 months**, is usually **irreversible** and often creeps forward over years. Early on it is only an abnormal blood or urine result. Later, loss of the excretory, endocrine and metabolic roles of the kidney produces the multisystem syndrome called **uraemia**. **Stage 5**, where the patient is likely to die without renal replacement therapy (RRT), is called **end-stage renal disease (ESRD)**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 437,
+       "page": 415
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1405,
+       "page": 1392
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 303,
+       "page": 303
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "GFR (G) categories (eGFR in mL/min/1.73 m²)",
+     "columns": [
+      "Stage",
+      "eGFR",
+      "Label",
+      "Typical picture"
+     ],
+     "rows": [
+      [
+       "G1",
+       "> 90 **plus** evidence of kidney damage",
+       "Normal function",
+       "No symptoms"
+      ],
+      [
+       "G2",
+       "60–89 **plus** evidence of kidney damage",
+       "Mild",
+       "No symptoms"
+      ],
+      [
+       "G3a",
+       "45–59",
+       "Mild to moderate",
+       "Usually no symptoms"
+      ],
+      [
+       "G3b",
+       "30–44",
+       "Moderate to severe",
+       "Anaemia in some; most progress slowly or not at all"
+      ],
+      [
+       "G4",
+       "15–29",
+       "Severe",
+       "First symptoms often below eGFR 20; electrolyte problems likely"
+      ],
+      [
+       "G5",
+       "< 15 or on dialysis",
+       "Kidney failure",
+       "Symptoms and complications usual; dialysis usually starts below 10"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 410,
+       "page": 388
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 257,
+       "page": 257
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 258,
+       "page": 258
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Albuminuria (A) categories: same cut-offs in different units",
+     "columns": [
+      "Category",
+      "Urine ACR (UK, mg/mmol)",
+      "Albumin excretion (mg/24 h or mg/g creatinine)"
+     ],
+     "rows": [
+      [
+       "A1",
+       "< 3",
+       "< 30"
+      ],
+      [
+       "A2",
+       "3–30",
+       "30–300"
+      ],
+      [
+       "A3",
+       "> 30",
+       "> 300"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 410,
+       "page": 388
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 258,
+       "page": 258
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 303,
+       "page": 303
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Rules for making and labelling the diagnosis",
+     "items": [
+      "Use an **eGFR equation**, not creatinine alone, and get **two values about 3 months apart** before assigning a stage.",
+      "Stages G1 and G2 count as CKD **only with a marker of damage**: albuminuria or proteinuria, haematuria, abnormal imaging (e.g. structural abnormality), an inherited kidney disease or abnormal biopsy.",
+      "Report **both letters**, e.g. **G3bA3**. The A suffix is added because albuminuria strongly predicts outcome."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 410,
+       "page": 388
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1406,
+       "page": 1393
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 303,
+       "page": 303
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 258,
+       "page": 258
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "About **5–7%** of adults have CKD G3–G5 (eGFR < 60), mostly aged over 65. More than **a quarter of people over 75** have eGFR < 60, mostly G3a. In them it mainly signals **cardiovascular risk**, and very few ever reach ESRD. Most people with stage 1–3 disease do not lose function steadily and do not die of kidney failure.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 437,
+       "page": 415
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1405,
+       "page": 1392
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Faced with a raised creatinine, the first question is **\"what was it before?\"** Previous results separate **AKI, CKD and acute-on-chronic** disease.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Renal and genitourinary disease",
+       "pdfPage": 667,
+       "page": 667
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 437,
+       "page": 415
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Classic trap: **eGFR 60–90 with A1 albuminuria and no other marker of damage is not CKD**. You need eGFR < 60 or evidence of kidney damage.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 258,
+       "page": 258
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1406,
+       "page": 1393
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The albuminuria cut-offs look different between books (3 vs 30 for A1). They are the same categories in different units: UK texts use ACR in mg/mmol, US texts use mg/g or mg/24 h. Check the unit before you stage.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 410,
+       "page": 388
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 258,
+       "page": 258
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 303,
+       "page": 303
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Kidney and urinary tract disease",
+      "pdfPage": 1406,
+      "page": 1393,
+      "figure": "Fig. 36.46"
+     },
+     "note": "Look at: the classification grid that combines GFR (G) and albumin:creatinine ratio (A) categories."
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.s2",
+   "title": "Causes and how CKD progresses",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Common causes of CKD (Davidson)",
+     "columns": [
+      "Cause",
+      "Share",
+      "Comment"
+     ],
+     "rows": [
+      [
+       "Diabetes mellitus",
+       "20–40%",
+       "Varies greatly by race and region"
+      ],
+      [
+       "Interstitial disease",
+       "20–30%",
+       "Often drug-induced"
+      ],
+      [
+       "Glomerular disease",
+       "10–20%",
+       "**IgA nephropathy** is the most common"
+      ],
+      [
+       "Hypertension",
+       "5–20%",
+       "Causal role debated; may be secondary to another renal disease"
+      ],
+      [
+       "Systemic inflammatory disease",
+       "5–10%",
+       "SLE, vasculitis"
+      ],
+      [
+       "Renovascular disease",
+       "5%",
+       "Mostly atheromatous"
+      ],
+      [
+       "Congenital / inherited",
+       "5%",
+       "Polycystic kidney disease, Alport syndrome"
+      ],
+      [
+       "Unknown",
+       "5–20%",
+       "Especially in older people with stage 3"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 437,
+       "page": 415
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Causes grouped by site",
+     "items": [
+      "**Congenital / inherited**: polycystic kidney disease, tuberous sclerosis, cystinosis.",
+      "**Glomerular**: primary glomerulonephritis, diabetes, lupus, amyloid.",
+      "**Vascular**: hypertensive nephrosclerosis, renovascular disease, vasculitis.",
+      "**Tubulointerstitial**: drugs and analgesics (also NSAIDs, PPIs, lithium), reflux, TB, myeloma.",
+      "**Obstruction**: stones, prostatic disease, retroperitoneal fibrosis; schistosomiasis in parts of the Middle East."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1405,
+       "page": 1392
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Renal disease",
+       "pdfPage": 431,
+       "page": 394
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 257,
+       "page": 257
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Diabetic kidney disease** is the commonest cause of ESRD in many countries: about **26% in the UK** and almost **half in the USA**. Diabetes, hypertension and atherosclerosis together account for over 70% of CKD. ESKD is 3–4 times commoner in people of black African descent, in whom hypertensive nephropathy is frequent.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 442,
+       "page": 420
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1406,
+       "page": 1393
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "The common pathway of progression",
+     "items": [
+      "Loss of nephrons makes the **survivors hyperfilter and hypertrophy**.",
+      "Their **raised intraglomerular pressure** and shear stress injure them in turn. This shows as **new or rising proteinuria**.",
+      "**Angiotensin II** narrows the **efferent arteriole**, raising glomerular pressure further. It also drives **TGF-β** (pro-fibrotic) and **PAI-1** (blocks matrix breakdown).",
+      "Filtered protein is itself **toxic to proximal tubules**.",
+      "Whatever the first insult, the end result is **fibrosis** of glomeruli, tubules and small vessels."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1406,
+       "page": 1393
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Renal disease",
+       "pdfPage": 431,
+       "page": 394
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Outlook is predicted by **hypertension** (especially when poorly controlled), **proteinuria** and the amount of **interstitial scarring** on biopsy, not by the glomerular lesion. Glomerular diseases tend to progress faster than tubulointerstitial ones.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1407,
+       "page": 1394
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1406,
+       "page": 1393
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Why the main complications happen",
+     "columns": [
+      "Complication",
+      "Mechanism"
+     ],
+     "rows": [
+      [
+       "Renal bone disease (CKD-MBD)",
+       "Two drivers: **phosphate retention** and **failure of 1α-hydroxylation** of 25(OH)D. High phosphate raises **FGF23 and PTH**. Low calcitriol cuts gut calcium absorption, so calcium falls and PTH rises further (**secondary hyperparathyroidism**)."
+      ],
+      [
+       "Tertiary hyperparathyroidism",
+       "Long-standing stimulation makes the enlarged glands **autonomous**, giving **hypercalcaemia**."
+      ],
+      [
+       "Anaemia",
+       "Mainly **erythropoietin deficiency**, plus uraemic marrow suppression, shorter red cell survival, blood loss and poor iron intake/use."
+      ],
+      [
+       "Metabolic acidosis",
+       "Less renal mass makes less ammonia to buffer acid, and H⁺ excretion fails."
+      ],
+      [
+       "Hyperkalaemia, hypermagnesaemia",
+       "Reduced urinary losses."
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 440,
+       "page": 418
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 441,
+       "page": 419
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1408,
+       "page": 1395
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Renal and genitourinary disease",
+       "pdfPage": 670,
+       "page": 670
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Renal disease",
+       "pdfPage": 431,
+       "page": 394
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 259,
+       "page": 259
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Nephrology and urology",
+      "pdfPage": 441,
+      "page": 419,
+      "figure": "Fig. 15.24"
+     },
+     "note": "Look at: the flow from impaired renal function to high phosphate, low calcitriol, low calcium, high PTH and bone resorption, with FGF23 as a partial compensation."
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.s3",
+   "title": "Symptoms and signs",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "CKD is usually picked up **incidentally** as a raised urea and creatinine on routine bloods, often while screening people with diabetes or hypertension. Most patients feel well until eGFR is **below about 30**. **Nocturia** (loss of concentrating ability) is an early but non-specific symptom.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 437,
+       "page": 415
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 257,
+       "page": 257
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "As eGFR falls below 15–20",
+     "items": [
+      "First: **tiredness and breathlessness** (anaemia, fluid overload).",
+      "Then: **pruritus, anorexia, weight loss, nausea, vomiting, hiccups**.",
+      "Very advanced: **Kussmaul breathing** (acidosis), muscle twitching, fits, drowsiness and coma."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 437,
+       "page": 415
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Uraemia by system",
+     "columns": [
+      "System",
+      "Features"
+     ],
+     "rows": [
+      [
+       "Skin",
+       "Sallow/yellow complexion, pallor, pruritus with scratch marks, easy bruising, brown-line nails, uraemic frost, **calciphylaxis**"
+      ],
+      [
+       "Cardiovascular",
+       "Hypertension (CKD is the commonest cause of **secondary hypertension**), LVH, heart failure, **pericarditis**, accelerated atheroma"
+      ],
+      [
+       "Neurological",
+       "Encephalopathy, asterixis, myoclonus, seizures, symmetrical **peripheral neuropathy**, restless legs, **carpal tunnel** (β2-microglobulin amyloid)"
+      ],
+      [
+       "Blood",
+       "Normocytic normochromic anaemia; bleeding from **platelet dysfunction**"
+      ],
+      [
+       "Endocrine / sexual",
+       "Raised prolactin, low testosterone and erectile dysfunction, oligo-/amenorrhoea, poor growth in children; use **TSH** to judge thyroid status"
+      ],
+      [
+       "Other",
+       "Uraemic fetor and metallic taste, hypothermia, peptic ulcer, pancreatitis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 303,
+       "page": 303
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 304,
+       "page": 304
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Renal and genitourinary disease",
+       "pdfPage": 669,
+       "page": 669
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1410,
+       "page": 1397
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 438,
+       "page": 416
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1411,
+       "page": 1398
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Signs to look for at the bedside (OSCE)",
+     "items": [
+      "Pallor, yellow tinge, excoriations, bruising, brown-line nail pigmentation.",
+      "Raised JVP and oedema (fluid overload); pericardial rub; pulsus paradoxus if tamponade.",
+      "Deep, fast breathing of acidosis.",
+      "Neuropathy: absent reflexes, reduced sensation, paraesthesia.",
+      "**Clues to RRT**: arteriovenous fistula, central dialysis line, **Tenckhoff catheter**, iliac-fossa transplant scar."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 438,
+       "page": 416
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Cardiovascular disease is the leading cause of death** in CKD, roughly **16 times** commoner than in the general population. Risk climbs as GFR falls and with proteinuria. **Sudden cardiac death** is especially common (LVH, vascular and valve calcification). **Infection** is the other major cause of death, as uraemia impairs cellular and humoral immunity. A successful transplant removes the excess cardiovascular risk of stage 5.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1409,
+       "page": 1396
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 442,
+       "page": 420
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Renal disease",
+       "pdfPage": 433,
+       "page": 396
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Renal and genitourinary disease",
+       "pdfPage": 670,
+       "page": 670
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Renal and genitourinary disease",
+       "pdfPage": 671,
+       "page": 671
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Calciphylaxis** (calcific uraemic arteriolopathy): painful skin plaques that ulcerate into non-healing black eschars. Histology shows **calcification of small dermal vessels** with thrombosis and no vasculitis. Risks: hyperparathyroidism, high phosphate, obesity, diabetes, female sex and **warfarin**. Mortality is high, with many dying within a year.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1409,
+       "page": 1396
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 305,
+       "page": 305
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Uraemic pericarditis** (severe uraemia or under-dialysis) is often **haemorrhagic** and can cause tamponade and atrial arrhythmias, so be cautious with anticoagulation. It is an indication for (more intensive) dialysis.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1410,
+       "page": 1397
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 444,
+       "page": 422
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Pruritus in CKD has several causes: retained waste, high calcium × phosphate product, hyperparathyroidism and iron deficiency. **Inadequate dialysis** is a treatable cause.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1410,
+       "page": 1397
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Nephrology and urology",
+      "pdfPage": 438,
+      "page": 416,
+      "figure": "Fig. 15.22"
+     },
+     "note": "Look at: physical signs of advanced CKD, including the RRT clues (fistula, central line, Tenckhoff catheter, transplant scar)."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kcEssentials",
+      "chapter": "Renal disease",
+      "pdfPage": 432,
+      "page": 395,
+      "figure": "Fig. 9.6"
+     },
+     "note": "Look at: body map of CKD symptoms and signs grouped by system."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Kidney and urinary tract disease",
+      "pdfPage": 1409,
+      "page": 1396,
+      "figure": "Fig. 36.48"
+     },
+     "note": "Look at: calcified arterioles in the skin without vasculitis (calciphylaxis)."
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.s4",
+   "title": "Investigations and referral",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "What the work-up is for",
+     "items": [
+      "Exclude **AKI**: if urea and creatinine are unexpectedly high (a rise, or no old results), **repeat within 2 weeks**.",
+      "Find the **cause**, since it may change treatment.",
+      "Find **reversible factors** such as hypertension or obstruction.",
+      "Screen for **complications** (anaemia, bone disease) and **cardiovascular risk factors**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 437,
+       "page": 415
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Core tests in CKD",
+     "columns": [
+      "Test",
+      "Why"
+     ],
+     "rows": [
+      [
+       "Urea, creatinine, eGFR",
+       "Compare with previous results to judge stability"
+      ],
+      [
+       "Urinalysis + quantified proteinuria (ACR/PCR)",
+       "Haematuria + proteinuria suggests glomerular disease; proteinuria predicts progression and calls for ACEi/ARB"
+      ],
+      [
+       "Electrolytes",
+       "Hyperkalaemia, acidosis"
+      ],
+      [
+       "Calcium, phosphate, PTH, 25(OH)D",
+       "Renal bone disease"
+      ],
+      [
+       "Albumin",
+       "Malnutrition, inflammation, nephrotic syndrome"
+      ],
+      [
+       "FBC ± ferritin, folate, B12",
+       "Exclude non-renal causes before calling it renal anaemia"
+      ],
+      [
+       "Lipids, glucose ± HbA1c",
+       "Cardiovascular risk"
+      ],
+      [
+       "Hepatitis B, C and HIV serology",
+       "Before dialysis or transplant; vaccinate against hepatitis B if not immune"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 438,
+       "page": 416
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Renal and genitourinary disease",
+       "pdfPage": 671,
+       "page": 671
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Renal ultrasound",
+     "items": [
+      "Indications: obstructive symptoms, persistent haematuria, family history of **polycystic kidney disease**, or **progressive / accelerated** CKD.",
+      "**Small kidneys** = chronic disease with little chance of recovery.",
+      "**Asymmetric** kidneys suggest renovascular or developmental disease.",
+      "Normal-sized or **large kidneys do not exclude CKD** (e.g. diabetes, polycystic disease)."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 438,
+       "page": 416
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Renal and genitourinary disease",
+       "pdfPage": 671,
+       "page": 671
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 257,
+       "page": 257
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Features that favour **chronic** over acute disease: **normochromic normocytic anaemia**, **small kidneys** and evidence of **renal osteodystrophy**. Renal anaemia can be severe (Hb 50–70 g/L in stage 5) but is often milder in polycystic kidney disease.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Renal disease",
+       "pdfPage": 434,
+       "page": 397
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 441,
+       "page": 419
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Reading the bone biochemistry and X-rays",
+     "columns": [
+      "Pattern",
+      "Blood tests",
+      "Imaging / notes"
+     ],
+     "rows": [
+      [
+       "Secondary hyperparathyroidism",
+       "↓ Ca, ↑ PO4, ↑ PTH, ↑ ALP",
+       "Subperiosteal erosions of fingers, **pepperpot skull**, osteitis fibrosa cystica"
+      ],
+      [
+       "Tertiary hyperparathyroidism",
+       "**↑ Ca**, high PTH",
+       "Autonomous glands after long-standing secondary disease"
+      ],
+      [
+       "Osteosclerosis",
+       "—",
+       "**Rugger-jersey spine**: dense end-plates with less dense centres"
+      ],
+      [
+       "Osteomalacia",
+       "Low calcitriol, low Ca",
+       "Looser's zones (pseudofractures)"
+      ],
+      [
+       "Adynamic bone disease",
+       "**Low PTH, normal ALP**, Ca may be high",
+       "Over-treatment with active vitamin D, after parathyroidectomy, aluminium binders, diabetes"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1408,
+       "page": 1395
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 440,
+       "page": 418
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 259,
+       "page": 259
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Refer to a nephrologist if",
+     "items": [
+      "eGFR **< 30**.",
+      "Rapid decline: a fall of **> 25%**, or **> 15 mL/min/1.73 m² in a year**.",
+      "Heavy proteinuria: **ACR > 70** or PCR > 100 mg/mmol (unless known diabetic and already treated).",
+      "ACR > 30 mg/mmol **with** non-visible haematuria.",
+      "Hypertension uncontrolled on **4 or more** drugs.",
+      "Suspected renal involvement in a **multisystem disease**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 439,
+       "page": 417
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 258,
+       "page": 258
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A renal **biopsy is rarely done** when both kidneys are small: it is riskier, less likely to give a diagnosis and seldom changes management.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 437,
+       "page": 415
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Dipstick haematuria of 1+ or more is significant. It should also prompt a search for urinary tract malignancy (e.g. **bladder cancer**), not just kidney disease.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 257,
+       "page": 257
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Urgent threats to check in any sick CKD patient: **hyperkalaemia** (get an ECG, but a normal ECG does not exclude it), **pulmonary oedema** (ask about recent weight gain) and **infection**. A **high FGF23** is the strongest independent predictor of death in CKD.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Renal and genitourinary disease",
+       "pdfPage": 671,
+       "page": 671
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1408,
+       "page": 1395
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Nephrology and urology",
+      "pdfPage": 439,
+      "page": 417,
+      "figure": "Fig. 15.23"
+     },
+     "note": "Look at: serial eGFR plotted over time; better BP control and less proteinuria flatten the slope and push back the date dialysis is needed (eGFR about 10)."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Kidney and urinary tract disease",
+      "pdfPage": 1408,
+      "page": 1395,
+      "figure": "Fig. 36.47"
+     },
+     "note": "Look at: CKD-MBD map linking each mechanism to its bone disease and X-ray sign."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kcEssentials",
+      "chapter": "Renal disease",
+      "pdfPage": 433,
+      "page": 396,
+      "figure": "Fig. 9.7"
+     },
+     "note": "Look at: renal osteodystrophy diagram (Looser zones, erosions, pepperpot skull, rugger-jersey spine, brown tumours)."
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.s5",
+   "title": "Conservative management: slowing progression and treating complications",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Aims of care",
+     "items": [
+      "Monitor function: every **6 months in stage 3**, more often in stages 4–5 or if falling fast. A plot of eGFR against time shows whether treatment works and predicts when RRT will be needed.",
+      "Slow progression: treat the cause, control **BP**, cut **proteinuria**, control diabetes.",
+      "Limit complications and treat **cardiovascular risk** (exercise, weight, stop smoking, statin).",
+      "Prepare for **RRT** in good time."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 437,
+       "page": 415
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 258,
+       "page": 258
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Blood pressure targets (Davidson)",
+     "columns": [
+      "Albuminuria",
+      "Suggested target (mmHg)"
+     ],
+     "rows": [
+      [
+       "None (ACR < 3 mg/mmol)",
+       "140/90"
+      ],
+      [
+       "Moderate (ACR 3–30)",
+       "Consider 130/80"
+      ],
+      [
+       "ACR > 30 mg/mmol",
+       "130/80 recommended"
+      ],
+      [
+       "Heavy (ACR > 70 or PCR > 100)",
+       "Possibly 125/75"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 439,
+       "page": 417
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Books disagree on BP targets: NICE-based Zero to Finals uses < 140/90, or < 130/80 only if ACR > 70; Pocket Medicine and K&C Essentials aim for < 120/80. Follow **Davidson** (table above). All agree that any fall in BP helps.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 439,
+       "page": 417
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 259,
+       "page": 259
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 304,
+       "page": 304
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Renal disease",
+       "pdfPage": 434,
+       "page": 397
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "ACE inhibitors and ARBs",
+     "items": [
+      "Give to **all patients with diabetic nephropathy** and to CKD with proteinuria (**PCR > 50 or ACR > 30 mg/mmol**), **even if BP is normal**. They lower proteinuria, slow decline and reduce cardiovascular events and death.",
+      "Recheck U&E **7–10 days** after starting or increasing the dose. **Continue if eGFR falls ≤ 25%** and the fall is not progressive.",
+      "Do not start if **K⁺ > 5.5 mmol/L**. If K⁺ > 6.0, reduce or stop, but only after other potassium measures.",
+      "**Never combine ACEi + ARB** (or a direct renin inhibitor): no renal benefit, more hyperkalaemia and AKI."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 439,
+       "page": 417
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 304,
+       "page": 304
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "K&C Essentials still suggests adding an ARB to a maximal ACE inhibitor for proteinuria > 1 g/day. **Davidson (and Pocket Medicine) say avoid dual blockade.** In an exam, dual ACEi + ARB is the wrong answer.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 439,
+       "page": 417
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Renal disease",
+       "pdfPage": 434,
+       "page": 397
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 304,
+       "page": 304
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**SGLT2 inhibitors** cause a small early dip in eGFR, then cut the risk of CKD progression by about **30–40%** and lower mortality in proteinuric CKD, with or without diabetes (minimum eGFR about 25–30). Davidson notes the same benefit at the cost of more **genital infections**. Mineralocorticoid antagonists also slow progression in diabetic CKD.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 304,
+       "page": 304
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 431,
+       "page": 409
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1413,
+       "page": 1400
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "\"Sick-day rules\": stop these during vomiting, diarrhoea or fever",
+     "items": [
+      "ACE inhibitors (-pril) and ARBs (-sartan).",
+      "NSAIDs.",
+      "Diuretics.",
+      "Metformin.",
+      "Restart after **24–48 hours** of eating and drinking normally."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 440,
+       "page": 418
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Treating the complications",
+     "columns": [
+      "Problem",
+      "Management"
+     ],
+     "rows": [
+      [
+       "Salt and water overload",
+       "Sodium < 100 mmol/day, fluid restriction if severe, **loop diuretics** (escalating doses or combinations)"
+      ],
+      [
+       "Hyperkalaemia",
+       "Potassium < 70 mmol/day (bananas, tomatoes, potatoes, chocolate, salt substitutes); **calcium resonium only short-term** (bowel necrosis); **patiromer / sodium zirconium cyclosilicate** for chronic use; treat acidosis"
+      ],
+      [
+       "Metabolic acidosis",
+       "**Oral sodium bicarbonate** to keep plasma HCO₃⁻ **> 22 mmol/L** (Davidson starts at 1 g 8-hourly)"
+      ],
+      [
+       "Hyperphosphataemia",
+       "Low-phosphate diet; **binders with meals** (calcium carbonate, sevelamer, lanthanum, aluminium hydroxide); aim **PO4 ≤ 1.5 mmol/L**"
+      ],
+      [
+       "Low calcium / high PTH",
+       "**Alfacalcidol or calcitriol** if hypocalcaemic or PTH > 2× ULN; titrate PTH to **2–4× ULN** to avoid adynamic bone"
+      ],
+      [
+       "Tertiary hyperparathyroidism",
+       "**Parathyroidectomy**; cinacalcet (calcimimetic) if surgery fails or is not possible"
+      ],
+      [
+       "Anaemia",
+       "Correct iron first (often IV), then an **ESA**; target **Hb 100–120 g/L**"
+      ],
+      [
+       "Cardiovascular risk",
+       "Lifestyle, statin (e.g. atorvastatin 20 mg in NICE guidance); vaccinate against influenza and pneumococcus"
+      ],
+      [
+       "Uraemic bleeding",
+       "Desmopressin"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 440,
+       "page": 418
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 441,
+       "page": 419
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 258,
+       "page": 258
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Renal disease",
+       "pdfPage": 435,
+       "page": 398
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 304,
+       "page": 304
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**ESAs** (epoetin, darbepoetin): correcting Hb to normal brings **hypertension and thrombosis** without a mortality gain, hence the 100–120 g/L target. About 30% develop hypertension. Poor response: look for **iron deficiency**, bleeding, infection/inflammation, malignancy (especially **myeloma**) and rarely anti-EPO antibodies (**pure red cell aplasia**). Avoid transfusion where possible: it **sensitises** against a future graft.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 441,
+       "page": 419
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1407,
+       "page": 1394
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 259,
+       "page": 259
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Numbers that differ between books (follow Davidson): **Hb target** 100–120 g/L (Pocket 10–11.5 g/dL, K&C Essentials 11–12 g/dL); **PTH target** 2–4× ULN (Kumar: 2–3× ULN once on dialysis); **protein intake**: avoid excess but **do not restrict severely**, as it causes malnutrition without slowing decline (Step-Up suggests 0.7–0.8 g/kg/day).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 441,
+       "page": 419
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 440,
+       "page": 418
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 304,
+       "page": 304
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Renal disease",
+       "pdfPage": 435,
+       "page": 398
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1408,
+       "page": 1395
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Renal and genitourinary disease",
+       "pdfPage": 671,
+       "page": 671
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Drugs to avoid or adjust",
+     "items": [
+      "**NSAIDs** and potassium-sparing diuretics or **potassium salt substitutes**.",
+      "**Opioids** accumulate and can cause narcosis; many drugs need dose adjustment.",
+      "**Gadolinium** contrast if eGFR < 30 or on dialysis: risk of **nephrogenic systemic fibrosis**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 440,
+       "page": 418
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1411,
+       "page": 1398
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1410,
+       "page": 1397
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In the **SHARP** trial, simvastatin plus ezetimibe prevented about a quarter of major atherosclerotic events in CKD, but did not improve survival or prevent ESKD. Lipid-lowering helps less once patients are on dialysis.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1410,
+       "page": 1397
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 442,
+       "page": 420
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.s6",
+   "title": "Renal replacement therapy: when, which, or none",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Start RRT when uraemic symptoms begin to **affect quality of life** but **before serious complications**, typically as eGFR approaches **10 mL/min/1.73 m²**. Starting earlier brings no benefit. Preparation should begin **at least 12 months** ahead: choice of modality, **access** (fistula or PD catheter), **hepatitis B vaccination** and psychological and social support. Late referral is linked to worse outcomes.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 442,
+       "page": 420
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 445,
+       "page": 423
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Indications for dialysis",
+     "columns": [
+      "Indication",
+      "Acute example",
+      "Chronic example"
+     ],
+     "rows": [
+      [
+       "Fluid overload",
+       "Acute pulmonary oedema",
+       "Oedema or pulmonary oedema despite diuretics; severe hypertension"
+      ],
+      [
+       "Hyperkalaemia",
+       "K⁺ generally > 6.5 mmol/L with ECG changes",
+       "K⁺ resistant to diet and drugs"
+      ],
+      [
+       "Uraemia",
+       "**Pericarditis**, **encephalopathy**",
+       "Anorexia, nausea, lethargy; usually only when eGFR < 10"
+      ],
+      [
+       "Acidosis",
+       "pH < 7.1",
+       "Acidosis despite bicarbonate"
+      ],
+      [
+       "Other (relative)",
+       "Uraemic bleeding",
+       "Anaemia despite EPO and iron; phosphate despite binders"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 444,
+       "page": 422
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Mnemonic for acute indications, **AEIOU**: **A**cidosis, **E**lectrolytes (resistant K⁺), **I**ntoxication with a dialysable drug (methanol, ethylene glycol, lithium, aspirin), **O**edema (refractory pulmonary), **U**raemia (pericarditis, encephalopathy, seizures).",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 260,
+       "page": 260
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Renal and genitourinary disease",
+       "pdfPage": 673,
+       "page": 673
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A creatinine or urea **number alone is not an indication** for dialysis. The decision is clinical; uraemic pericarditis and encephalopathy are absolute indications.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Renal and genitourinary disease",
+       "pdfPage": 673,
+       "page": 673
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 444,
+       "page": 422
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Haemodialysis vs peritoneal dialysis",
+     "columns": [
+      "Feature",
+      "Haemodialysis (HD)",
+      "Peritoneal dialysis (PD)"
+     ],
+     "rows": [
+      [
+       "Efficiency / schedule",
+       "Efficient; about 4 h three times a week",
+       "Less efficient; CAPD four exchanges a day, or APD overnight for 8–10 h"
+      ],
+      [
+       "Where",
+       "Usually hospital or unit (home possible)",
+       "Home; patient runs it"
+      ],
+      [
+       "Needs",
+       "Good vessels for **vascular access**",
+       "An **intact peritoneal cavity** without major surgical scarring"
+      ],
+      [
+       "Diet and fluid",
+       "Strict limits between sessions",
+       "Less restricted"
+      ],
+      [
+       "Fluid removal",
+       "Compressed into sessions: hypotension, instability",
+       "Slow and continuous"
+      ],
+      [
+       "Infection",
+       "Access-related bloodstream infection",
+       "Peritonitis, exit-site infection"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 442,
+       "page": 420
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 260,
+       "page": 260
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Haemodialysis: key numbers",
+     "items": [
+      "Blood is pumped through a dialyser; solutes diffuse across a semipermeable membrane down a concentration gradient. Blood flow at least 200 mL/min, with **heparin** anticoagulation.",
+      "Usually **3–5 hours, three times a week** (Davidson; Kumar and K&C Essentials say 4–5 h).",
+      "Adequacy: **urea reduction ratio > 65%**; below this, mortality rises.",
+      "More dialysis (extra sessions, short daily, or nocturnal) improves fluid and phosphate control."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 443,
+       "page": 421
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 445,
+       "page": 423
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Renal disease",
+       "pdfPage": 436,
+       "page": 399
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Peritoneal dialysis: key facts",
+     "items": [
+      "A permanent catheter (**Tenckhoff**) sits in the peritoneal cavity.",
+      "**CAPD**: about **2 L** of glucose-containing fluid is left for 4–6 h, four times a day. The hyperosmolar fluid draws water out (ultrafiltration).",
+      "**APD**: a machine does the exchanges overnight.",
+      "Suits children, adults with **residual renal function** and older people with cardiovascular instability."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 446,
+       "page": 424
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 260,
+       "page": 260
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Conservative (non-dialytic) care** of stage 5 CKD is a positive choice for **older patients with many comorbidities**. Survival may be similar or only slightly shorter, without the admissions and procedures of dialysis. It includes treating anaemia and other complications and **palliative care** at the end. Stopping dialysis is appropriate when quality of life falls irreversibly.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 443,
+       "page": 421
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 444,
+       "page": 422
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "UK picture (Davidson): of patients on RRT, about **53% have a working transplant**, 41% are on HD and 6% on PD. Transplantation is the **only cure**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 442,
+       "page": 420
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Renal and genitourinary disease",
+       "pdfPage": 672,
+       "page": 672
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Nephrology and urology",
+      "pdfPage": 443,
+      "page": 421,
+      "figure": "Fig. 15.25"
+     },
+     "note": "Look at: the four RRT options: haemodialysis, haemofiltration, peritoneal dialysis and a transplant joined to the external iliac vessels."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kcEssentials",
+      "chapter": "Renal disease",
+      "pdfPage": 436,
+      "page": 399,
+      "figure": "Fig. 9.8"
+     },
+     "note": "Look at: diffusion across the dialyser: K⁺, urea and water leave the blood; bicarbonate enters it."
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.s7",
+   "title": "Dialysis access and its complications",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Haemodialysis access options",
+     "columns": [
+      "Access",
+      "Ready to use",
+      "Pros",
+      "Cons"
+     ],
+     "rows": [
+      [
+       "**AV fistula** (radiocephalic, brachiocephalic, brachiobasilic)",
+       "Arterialises in about **4–6 weeks** (Davidson); create up to a year before dialysis",
+       "Best patency, **lowest infection** and mortality",
+       "Needs good arm vessels; thrombosis, aneurysm, steal"
+      ],
+      [
+       "**AV graft** (PTFE)",
+       "About 2–3 weeks",
+       "Option when veins are poor",
+       "More infection and thrombosis than a fistula"
+      ],
+      [
+       "**Tunnelled cuffed central catheter** (internal jugular)",
+       "**Immediately**",
+       "Short-term or bridging access",
+       "**Highest bloodstream infection risk**, thrombosis, malfunction, **central venous stenosis**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 444,
+       "page": 422
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 445,
+       "page": 423
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 309,
+       "page": 309
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1413,
+       "page": 1400
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 261,
+       "page": 261
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Protect the veins.** In anyone with progressive CKD, do not put cannulas, take blood or measure BP in the arm needed for a future fistula (usually the **non-dominant** forearm for a radiocephalic fistula). For temporary access use the **internal jugular or femoral** vein and **avoid subclavian lines**: they bleed, and stenosis there can ruin a fistula in that arm.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 444,
+       "page": 422
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 445,
+       "page": 423
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1411,
+       "page": 1398
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 304,
+       "page": 304
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Fistula maturation times differ: Davidson 4–6 weeks; Zero to Finals 4 weeks to 4 months; Pocket Medicine 2–6 months. Follow Davidson. Kumar adds that the fistula is made when creatinine is about **400–500 µmol/L**, and earlier in diabetics.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 444,
+       "page": 422
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 261,
+       "page": 261
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 309,
+       "page": 309
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1411,
+       "page": 1398
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Examining an AV fistula (OSCE)",
+     "items": [
+      "Look: skin integrity, scars, **aneurysms**, signs of infection.",
+      "Feel: a continuous **thrill** over the anastomosis.",
+      "Listen: a **\"machinery\" bruit**.",
+      "**No thrill and no bruit = thrombosed fistula.**",
+      "Never take blood from or cannulate the fistula for routine bloods."
+     ],
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 261,
+       "page": 261
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Renal and genitourinary disease",
+       "pdfPage": 675,
+       "page": 675
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 262,
+       "page": 262
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Fistula complications",
+     "items": [
+      "Thrombosis and stenosis.",
+      "Aneurysm and infection.",
+      "**Steal syndrome**: distal hand ischaemia because blood is diverted through the fistula.",
+      "**High-output heart failure** from the extra preload."
+     ],
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 261,
+       "page": 261
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 262,
+       "page": 262
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Line-related sepsis.** Bloodstream infection between or during sessions presents with **rigors, fever and hypotension**, and the source is usually the **access** (especially a catheter, which leaves a foreign body in the circulation). Take **blood cultures**, start empirical **vancomycin plus Gram-negative cover** (Gram-positive cocci, notably _S. aureus_, are commonest), then remove or exchange the catheter depending on the organism; antibiotic **\"locks\"** are an option. Seeding causes **endocarditis**, septic arthritis and **vertebral infection**. Sepsis is, after cardiovascular disease, a leading cause of death on dialysis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 446,
+       "page": 424
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 308,
+       "page": 308
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1413,
+       "page": 1400
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Renal disease",
+       "pdfPage": 437,
+       "page": 400
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Problems during or between haemodialysis sessions",
+     "columns": [
+      "Problem",
+      "Clue",
+      "Cause / action"
+     ],
+     "rows": [
+      [
+       "Hypotension (commonest)",
+       "Sudden fall in BP, leg cramps, sometimes chest pain",
+       "Fluid removal; give **saline**, exclude ischaemia"
+      ],
+      [
+       "Arrhythmia",
+       "Hypotension, chest pain",
+       "K⁺ and acid–base shifts; check K⁺ and gases"
+      ],
+      [
+       "Bleeding",
+       "Overt or hidden blood loss",
+       "Heparin, needle disconnection; consider heparin-free dialysis"
+      ],
+      [
+       "Air embolism",
+       "Sudden collapse",
+       "Faulty or disconnected lines; stop dialysis"
+      ],
+      [
+       "Dialyser reaction (\"first-use\")",
+       "Collapse, chest or back pain soon after starting",
+       "Reaction to membrane or sterilant; change dialyser"
+      ],
+      [
+       "**Disequilibrium**",
+       "Headache, vomiting, confusion, **fits** in the first sessions",
+       "Cerebral oedema from rapid urea removal; start with **short 1–2 h sessions**"
+      ],
+      [
+       "Systemic sepsis",
+       "Rigors, fever, low BP",
+       "Access infection; cultures and antibiotics"
+      ],
+      [
+       "Long-term: **β2-microglobulin amyloid**",
+       "Bilateral **carpal tunnel**, arthropathy, bone cysts",
+       "Years of dialysis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 446,
+       "page": 424
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 444,
+       "page": 422
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Renal and genitourinary disease",
+       "pdfPage": 676,
+       "page": 676
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Renal and genitourinary disease",
+       "pdfPage": 677,
+       "page": 677
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1413,
+       "page": 1400
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Renal disease",
+       "pdfPage": 436,
+       "page": 399
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Peritoneal dialysis complications",
+     "columns": [
+      "Problem",
+      "Features",
+      "Management"
+     ],
+     "rows": [
+      [
+       "**PD peritonitis**",
+       "**Cloudy effluent** (> 100 white cells/mm³, mostly neutrophils), abdominal pain; about 1 episode per 2 patient-years",
+       "Culture fluid; **intraperitoneal** antibiotics (e.g. vancomycin, tobramycin); remove catheter for fungi or _Pseudomonas_ or if refractory"
+      ],
+      [
+       "Organisms",
+       "_S. epidermidis_ 40–50%, Gram-negatives ~25%, _S. aureus_ ~15%; TB and fungi rare",
+       "Usually skin contaminants entering via the catheter"
+      ],
+      [
+       "Exit-site infection",
+       "Redness and pus at exit site",
+       "Antibiotics, sometimes drainage"
+      ],
+      [
+       "Ultrafiltration failure",
+       "Fluid overload as glucose is absorbed and the gradient lost",
+       "**Icodextrin** for some exchanges"
+      ],
+      [
+       "**Encapsulating (sclerosing) peritonitis**",
+       "Recurrent small-bowel obstruction, malnutrition, after many years",
+       "Switch to HD; surgery, tamoxifen"
+      ],
+      [
+       "Others",
+       "Hernias, weight gain/hyperglycaemia, protein loss, right pleural effusion",
+       "—"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 447,
+       "page": 425
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1414,
+       "page": 1401
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 310,
+       "page": 310
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 261,
+       "page": 261
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Renal disease",
+       "pdfPage": 437,
+       "page": 400
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 308,
+       "page": 308
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Nephrology and urology",
+      "pdfPage": 445,
+      "page": 423,
+      "figure": "Fig. 15.27"
+     },
+     "note": "Look at: the three HD access types: tunnelled catheter into the right atrium, AV fistula with a distended vein, and AV graft."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Kidney and urinary tract disease",
+      "pdfPage": 1411,
+      "page": 1398,
+      "figure": "Fig. 36.49"
+     },
+     "note": "Look at: an IV cannula sited in the non-dominant forearm of a CKD patient, exactly where a future fistula is needed."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Kidney and urinary tract disease",
+      "pdfPage": 1412,
+      "page": 1399,
+      "figure": "Fig. 36.51"
+     },
+     "note": "Look at: a radiocephalic fistula in the left forearm, with a warning not to compress it during surgery."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Kidney and urinary tract disease",
+      "pdfPage": 1414,
+      "page": 1401,
+      "figure": "Fig. 36.54"
+     },
+     "note": "Look at: the course of a Tenckhoff PD catheter with its tip in the pelvis."
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.s8",
+   "title": "Renal transplantation",
+   "objectiveIdx": [
+    4,
+    6
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Transplantation gives the **best long-term survival** in ESRD and is the **most cost-effective** RRT. Everyone with ESRD should be considered; there is **no absolute age limit**. Common contraindications: **active malignancy**, active vasculitis, significant **cardiovascular disease**, active infection, non-adherence or substance misuse, and a high risk of disease recurrence. **Living-donor** and **pre-emptive** (before dialysis) transplants do best. Benefits include freedom from dialysis diet and fluid limits, correction of anaemia and infertility, and less need for parathyroidectomy.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 446,
+       "page": 424
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 310,
+       "page": 310
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1415,
+       "page": 1402
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 263,
+       "page": 263
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Matching and surgery",
+     "items": [
+      "**ABO compatibility** is usually required.",
+      "HLA matching (especially **HLA-DR**) reduces rejection; HLA genes sit on chromosome 6.",
+      "A positive **cross-match** for anti-HLA antibodies predicts early rejection. Incompatible living-donor transplants are possible after desensitisation, and paired exchange schemes help.",
+      "Graft goes in the **iliac fossa** (pelvis): donor artery and vein to the **external iliac** vessels, donor ureter to the **bladder**. Native kidneys usually stay (removed only for recurrent sepsis or huge polycystic kidneys). Look for a **\"hockey-stick\" scar** and a palpable graft."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 446,
+       "page": 424
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 263,
+       "page": 263
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Immunosuppressants",
+     "columns": [
+      "Drug",
+      "Role",
+      "Key toxicity"
+     ],
+     "rows": [
+      [
+       "Prednisolone",
+       "Maintenance; IV methylprednisolone for rejection",
+       "Diabetes, osteoporosis"
+      ],
+      [
+       "**Tacrolimus / ciclosporin** (calcineurin inhibitors)",
+       "Maintenance backbone",
+       "**Nephrotoxicity** (monitor levels), hypertension, diabetes, hirsutism"
+      ],
+      [
+       "Mycophenolate (MMF)",
+       "Antimetabolite (preferred)",
+       "Cytopenias, **diarrhoea**"
+      ],
+      [
+       "Azathioprine",
+       "Antimetabolite",
+       "Cytopenias; **dangerous interaction with allopurinol**"
+      ],
+      [
+       "Sirolimus",
+       "Later alternative",
+       "**Impaired wound healing**, so not used early"
+      ],
+      [
+       "Basiliximab",
+       "**Induction** (IL-2 receptor antagonist)",
+       "—"
+      ],
+      [
+       "Anti-thymocyte globulin",
+       "Steroid-resistant rejection",
+       "—"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 447,
+       "page": 425
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1416,
+       "page": 1403
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 263,
+       "page": 263
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 310,
+       "page": 310
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Graft dysfunction by time after transplant",
+     "columns": [
+      "When",
+      "Main causes"
+     ],
+     "rows": [
+      [
+       "Hours–days",
+       "Renal artery/vein **thrombosis**, ureteric leak, **delayed graft function** (ATN), **hyperacute rejection** (pre-formed anti-HLA antibodies)"
+      ],
+      [
+       "Weeks",
+       "**Acute rejection**, especially in the first 3 months"
+      ],
+      [
+       "Months",
+       "**BK virus nephropathy**, renal artery stenosis"
+      ],
+      [
+       "Years",
+       "**Chronic allograft injury** (often antibody-mediated)"
+      ],
+      [
+       "Any time",
+       "**Calcineurin inhibitor toxicity**, sepsis, **recurrent disease**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 447,
+       "page": 425
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1416,
+       "page": 1403
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Delayed graft function** from ATN is the commonest early problem in deceased-donor grafts (up to **40–50%**). Risks: donation after circulatory death, long **cold ischaemia time**, high tacrolimus level. Do not call it rejection: acute rejection (10–30%) usually shows up within the first 3 months, and needs biopsy.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1416,
+       "page": 1403
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 447,
+       "page": 425
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Treating rejection",
+     "items": [
+      "**Acute cellular rejection**: IV **methylprednisolone** on 3 consecutive days; **ATG** if steroid-resistant.",
+      "**Antibody-mediated rejection**: donor-specific anti-HLA antibodies plus **C4d** staining on biopsy. Treat with **plasma exchange, IVIG** and anti-CD20 (rituximab).",
+      "Late dysfunction work-up: drug levels, donor-specific antibodies, BK viral load, ultrasound, then biopsy."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 447,
+       "page": 425
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 448,
+       "page": 426
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1417,
+       "page": 1404
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 310,
+       "page": 310
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Infection and late complications",
+     "items": [
+      "Early: ordinary **bacterial** infections (urine, wound, chest).",
+      "**CMV**, especially a seronegative recipient of a seropositive kidney: prevent with **valganciclovir**.",
+      "**Pneumocystis**: prevent with **co-trimoxazole**.",
+      "**BK polyomavirus** nephropathy: **reduce immunosuppression**.",
+      "Malignancy: **skin cancer** (especially **SCC**; about half of white recipients by 15 years), **EBV-related PTLD** / non-Hodgkin lymphoma.",
+      "**Cardiovascular disease** causes about half of deaths; steroid diabetes and osteoporosis.",
+      "Recurrence: **FSGS** (often early) and MCGN; later IgA and membranous nephropathy."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1417,
+       "page": 1404
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 447,
+       "page": 425
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 448,
+       "page": 426
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 263,
+       "page": 263
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Outcomes (UK, deceased donor; Davidson)",
+     "columns": [
+      "Time",
+      "Patient survival",
+      "Graft survival"
+     ],
+     "rows": [
+      [
+       "1 year",
+       "96%",
+       "93%"
+      ],
+      [
+       "5 years",
+       "88%",
+       "84% (living donor: 91%)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 448,
+       "page": 426
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Transplant adds roughly **10 years of life** compared with staying on dialysis, and it reverses the excess cardiovascular risk of stage 5.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "chapter": "Nephrology",
+       "pdfPage": 263,
+       "page": 263
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1409,
+       "page": 1396
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Kidney and urinary tract disease",
+      "pdfPage": 1417,
+      "page": 1404,
+      "figure": "Fig. 36.56"
+     },
+     "note": "Look at: (A) acute vascular rejection with endothelialitis; (B) antibody-mediated rejection with glomerulitis and peritubular capillary C4d staining."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "neph-ckd.c1",
+   "sectionId": "neph-ckd.s1",
+   "front": "What do you need before assigning a CKD stage?",
+   "back": "Two eGFR values about **3 months apart** (CKD = abnormality lasting > 3 months).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 410,
+     "page": 388
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Nephrology",
+     "pdfPage": 257,
+     "page": 257
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c2",
+   "sectionId": "neph-ckd.s1",
+   "front": "eGFR range of CKD G3a and G3b?",
+   "back": "G3a **45–59**; G3b **30–44** mL/min/1.73 m².",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 410,
+     "page": 388
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c3",
+   "sectionId": "neph-ckd.s1",
+   "front": "Albuminuria categories in UK units (ACR, mg/mmol)?",
+   "back": "A1 **< 3**, A2 **3–30**, A3 **> 30** (equal to < 30, 30–300, > 300 mg/24 h).",
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "chapter": "Nephrology",
+     "pdfPage": 258,
+     "page": 258
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 410,
+     "page": 388
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c4",
+   "sectionId": "neph-ckd.s1",
+   "front": "Is eGFR 75 with ACR 1 mg/mmol and normal urine and imaging CKD?",
+   "back": "**No.** G1–G2 needs a marker of kidney damage to count as CKD.",
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "chapter": "Nephrology",
+     "pdfPage": 258,
+     "page": 258
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1406,
+     "page": 1393
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c5",
+   "sectionId": "neph-ckd.s2",
+   "front": "Commonest cause of ESRD in many countries?",
+   "back": "**Diabetic kidney disease** (about 26% in the UK, nearly 50% in the USA).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 442,
+     "page": 420
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c6",
+   "sectionId": "neph-ckd.s2",
+   "front": "How does angiotensin II drive CKD progression?",
+   "back": "Constricts the **efferent arteriole** (↑ glomerular pressure) and upregulates **TGF-β** and **PAI-1**, promoting fibrosis.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1406,
+     "page": 1393
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c7",
+   "sectionId": "neph-ckd.s2",
+   "front": "The two primary drivers of renal bone disease?",
+   "back": "**Phosphate retention** and failure to convert 25(OH)D to **1,25(OH)₂D**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 440,
+     "page": 418
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c8",
+   "sectionId": "neph-ckd.s3",
+   "front": "Below what eGFR do most CKD patients first get symptoms?",
+   "back": "Usually below **30**; symptoms common below **15–20**. Nocturia is an early non-specific symptom.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 437,
+     "page": 415
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c9",
+   "sectionId": "neph-ckd.s3",
+   "front": "Risk factors for calciphylaxis?",
+   "back": "Hyperparathyroidism, high phosphate, obesity, diabetes, female sex and **warfarin**.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1409,
+     "page": 1396
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Nephrology",
+     "pdfPage": 305,
+     "page": 305
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c10",
+   "sectionId": "neph-ckd.s3",
+   "front": "Leading cause of death in CKD?",
+   "back": "**Cardiovascular disease** (about 16-fold excess), especially sudden cardiac death.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1409,
+     "page": 1396
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Renal disease",
+     "pdfPage": 433,
+     "page": 396
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c11",
+   "sectionId": "neph-ckd.s4",
+   "front": "Unexpectedly high creatinine with no old results: next step?",
+   "back": "**Repeat renal function within 2 weeks** so AKI is not missed.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 437,
+     "page": 415
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c12",
+   "sectionId": "neph-ckd.s4",
+   "front": "Indications for renal ultrasound in CKD?",
+   "back": "Obstructive symptoms, persistent haematuria, family history of **PKD**, or **progressive** CKD.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 438,
+     "page": 416
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Nephrology",
+     "pdfPage": 257,
+     "page": 257
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c13",
+   "sectionId": "neph-ckd.s4",
+   "front": "What is a \"rugger-jersey spine\"?",
+   "back": "Bands of sclerotic end-plates and less dense vertebral centres: **osteosclerosis** from long-standing hyperparathyroidism in CKD.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1408,
+     "page": 1395
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Nephrology",
+     "pdfPage": 259,
+     "page": 259
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c14",
+   "sectionId": "neph-ckd.s4",
+   "front": "Rapid-decline criterion for nephrology referral?",
+   "back": "eGFR fall **> 25%** or **> 15 mL/min/1.73 m² per year**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 439,
+     "page": 417
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Nephrology",
+     "pdfPage": 258,
+     "page": 258
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c15",
+   "sectionId": "neph-ckd.s5",
+   "front": "After starting an ACEi in CKD: when to recheck and what fall is acceptable?",
+   "back": "Recheck at **7–10 days**; continue if eGFR falls **≤ 25%** and is not progressive.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 439,
+     "page": 417
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c16",
+   "sectionId": "neph-ckd.s5",
+   "front": "Which drugs go on a CKD sick-day card?",
+   "back": "ACE inhibitors, ARBs, NSAIDs, diuretics and metformin.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 440,
+     "page": 418
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c17",
+   "sectionId": "neph-ckd.s5",
+   "front": "Target Hb on ESA therapy (Davidson)?",
+   "back": "**100–120 g/L**. Normalising Hb raises hypertension and thrombosis with no survival gain.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 441,
+     "page": 419
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c18",
+   "sectionId": "neph-ckd.s5",
+   "front": "Targets for bicarbonate and phosphate in CKD?",
+   "back": "Bicarbonate **> 22 mmol/L**; phosphate **≤ 1.5 mmol/L**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 440,
+     "page": 418
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 441,
+     "page": 419
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c19",
+   "sectionId": "neph-ckd.s6",
+   "front": "When is RRT usually started in CKD?",
+   "back": "When symptoms impair quality of life, before serious complications; typically **eGFR about 10**. Early start gives no benefit.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 442,
+     "page": 420
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c20",
+   "sectionId": "neph-ckd.s6",
+   "front": "Haemodialysis adequacy target?",
+   "back": "**Urea reduction ratio > 65%**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 445,
+     "page": 423
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c21",
+   "sectionId": "neph-ckd.s7",
+   "front": "Why avoid subclavian lines in kidney patients?",
+   "back": "Bleeding risk, and **subclavian stenosis/thrombosis** can wreck a future arm fistula.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 444,
+     "page": 422
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c22",
+   "sectionId": "neph-ckd.s7",
+   "front": "Commonest organism in PD peritonitis?",
+   "back": "_Staphylococcus epidermidis_ (40–50%).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1414,
+     "page": 1401
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Renal disease",
+     "pdfPage": 437,
+     "page": 400
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c23",
+   "sectionId": "neph-ckd.s7",
+   "front": "How do you know an AV fistula is patent?",
+   "back": "Palpable **thrill** and audible **machinery bruit**; their absence suggests thrombosis.",
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "chapter": "Nephrology",
+     "pdfPage": 261,
+     "page": 261
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Renal and genitourinary disease",
+     "pdfPage": 675,
+     "page": 675
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c24",
+   "sectionId": "neph-ckd.s8",
+   "front": "Where is a kidney transplant placed?",
+   "back": "In the **iliac fossa**: vessels to the **external iliac** artery and vein, ureter to the bladder; native kidneys usually left.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 446,
+     "page": 424
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Nephrology",
+     "pdfPage": 263,
+     "page": 263
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c25",
+   "sectionId": "neph-ckd.s8",
+   "front": "Standard maintenance immunosuppression after kidney transplant?",
+   "back": "**Tacrolimus (or ciclosporin) + mycophenolate (or azathioprine) + prednisolone**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 447,
+     "page": 425
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Nephrology",
+     "pdfPage": 263,
+     "page": 263
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.c26",
+   "sectionId": "neph-ckd.s8",
+   "front": "Dangerous interaction for a transplant patient on azathioprine?",
+   "back": "**Allopurinol** (marrow toxicity).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1416,
+     "page": 1403
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 46,
+     "page": 24
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "neph-ckd.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A man aged 58 who has type 2 diabetes has an eGFR of 52 mL/min/1.73 m² and, three months later, 49 mL/min/1.73 m². His urine albumin:creatinine ratio is 45 mg/mmol on two samples.",
+   "leadIn": "How should his chronic kidney disease be classified?",
+   "options": [
+    "G2A2",
+    "G3aA2",
+    "G3aA3",
+    "G3bA3",
+    "G4A3"
+   ],
+   "answer": 2,
+   "explanation": "Both eGFR values (3 months apart) sit in **45–59 = G3a**. An ACR **above 30 mg/mmol = A3**. So the label is **G3aA3**.",
+   "whyNot": [
+    "G2 needs eGFR 60–89.",
+    "A2 is ACR 3–30 mg/mmol; his is 45.",
+    "",
+    "G3b is eGFR 30–44.",
+    "G4 is eGFR 15–29."
+   ],
+   "studyRef": {
+    "sectionId": "neph-ckd.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 410,
+     "page": 388
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Nephrology",
+     "pdfPage": 258,
+     "page": 258
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 31-year-old woman has a routine eGFR of 84 mL/min/1.73 m², repeated at 3 months as 86. Urine ACR is 1.2 mg/mmol, dipstick shows no blood and a renal ultrasound is normal. She has no family history of kidney disease.",
+   "leadIn": "Which is the correct classification?",
+   "options": [
+    "CKD G2A1",
+    "CKD G1A1",
+    "CKD G2A2",
+    "No chronic kidney disease",
+    "CKD G3aA1"
+   ],
+   "answer": 3,
+   "explanation": "An eGFR of 60–89 only counts as CKD when there is a **marker of kidney damage** (albuminuria, haematuria, structural or inherited disease, biopsy change). She has none, so she **does not have CKD**.",
+   "whyNot": [
+    "G2 requires evidence of kidney damage, which she lacks.",
+    "G1 is eGFR > 90 and also needs evidence of damage.",
+    "A2 needs ACR 3–30 mg/mmol; hers is 1.2.",
+    "",
+    "G3a needs eGFR 45–59."
+   ],
+   "studyRef": {
+    "sectionId": "neph-ckd.s1"
+   },
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "chapter": "Nephrology",
+     "pdfPage": 258,
+     "page": 258
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1406,
+     "page": 1393
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 410,
+     "page": 388
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 45-year-old man lost about half his nephrons to reflux nephropathy in childhood. The original cause has long been inactive, yet over 10 years his eGFR keeps falling and new proteinuria has appeared.",
+   "leadIn": "Which process best explains his continuing decline?",
+   "options": [
+    "Afferent arteriolar constriction lowering glomerular pressure",
+    "Hyperfiltration and raised glomerular pressure in surviving nephrons",
+    "Excess erythropoietin causing glomerular thrombosis",
+    "Suppression of TGF-β in the interstitium",
+    "Hypercalcaemia from tertiary hyperparathyroidism"
+   ],
+   "answer": 1,
+   "explanation": "After nephron loss, the **remaining nephrons hyperfilter and hypertrophy**. Raised intraglomerular pressure (worsened by angiotensin II on the efferent arteriole) damages them, shown by **new or rising proteinuria**, and leads to fibrosis whatever the first insult was.",
+   "whyNot": [
+    "Angiotensin II constricts the efferent, not afferent, arteriole and pressure rises, not falls.",
+    "",
+    "CKD causes erythropoietin deficiency, not excess.",
+    "TGF-β is upregulated and drives fibrosis.",
+    "Hypercalcaemia does not explain progressive proteinuria and decline."
+   ],
+   "studyRef": {
+    "sectionId": "neph-ckd.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1406,
+     "page": 1393
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Renal disease",
+     "pdfPage": 431,
+     "page": 394
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 63-year-old woman with CKD G4 has calcium 2.02 mmol/L, phosphate 1.9 mmol/L and a PTH four times the upper limit of normal.",
+   "leadIn": "Which change most directly reduces her intestinal calcium absorption?",
+   "options": [
+    "Raised FGF23",
+    "Reduced renal conversion of 25(OH)D to 1,25(OH)₂D",
+    "Raised PTH",
+    "Metabolic acidosis",
+    "Hypermagnesaemia"
+   ],
+   "answer": 1,
+   "explanation": "The failing tubules cannot **1α-hydroxylate 25(OH)D**, so calcitriol is low and **gut calcium absorption falls**. Together with phosphate binding calcium, this causes hypocalcaemia and secondary hyperparathyroidism.",
+   "whyNot": [
+    "FGF23 is a response to high phosphate and mainly increases phosphate excretion; low calcitriol is the direct cause of poor gut uptake.",
+    "",
+    "PTH is a consequence of low calcium, and it raises rather than lowers calcium.",
+    "Acidosis worsens bone disease but is not the main cause of low gut calcium uptake.",
+    "Not a recognised driver of reduced calcium absorption here."
+   ],
+   "studyRef": {
+    "sectionId": "neph-ckd.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 440,
+     "page": 418
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 441,
+     "page": 419
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 66-year-old man with CKD G5 who has refused dialysis planning has 4 days of sharp central chest pain, worse lying flat. His JVP is raised, there is a scratchy sound at the left sternal edge and the ECG shows widespread changes with atrial fibrillation. Urea is 48 mmol/L.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Uraemic pericarditis",
+    "Acute myocardial infarction",
+    "Pulmonary embolism",
+    "Aortic dissection",
+    "Musculoskeletal chest pain"
+   ],
+   "answer": 0,
+   "explanation": "Positional chest pain with a **friction rub** in severe **untreated uraemia** points to **uraemic pericarditis**. It is often haemorrhagic, can cause tamponade (raised JVP) and atrial arrhythmias, and is an indication for dialysis.",
+   "whyNot": [
+    "",
+    "MI pain is not positional and a rub would be unusual at onset.",
+    "PE does not cause a pericardial rub.",
+    "Dissection gives tearing pain radiating to the back and pulse deficits.",
+    "Would not explain the rub, raised JVP or arrhythmia."
+   ],
+   "studyRef": {
+    "sectionId": "neph-ckd.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1410,
+     "page": 1397
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 438,
+     "page": 416
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 444,
+     "page": 422
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 52-year-old obese woman with diabetes has been on haemodialysis for 5 years and takes long-term warfarin for atrial fibrillation. Her PTH and phosphate are persistently high. She now has exquisitely painful purple plaques on both thighs, some with black, non-healing centres.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Calciphylaxis",
+    "Nephrogenic systemic fibrosis",
+    "Cellulitis",
+    "Pyoderma gangrenosum",
+    "Cutaneous vasculitis"
+   ],
+   "answer": 0,
+   "explanation": "**Calciphylaxis** (calcific uraemic arteriolopathy): painful plaques that ulcerate to eschar, from **calcification of small skin vessels** with thrombosis. Her risk factors are dialysis, hyperparathyroidism, high phosphate, obesity, diabetes, female sex and warfarin.",
+   "whyNot": [
+    "",
+    "NSF follows gadolinium and gives thickened, tethered skin, not necrotic eschars.",
+    "Cellulitis is a spreading erythema with fever, not bilateral necrotic plaques in this setting.",
+    "No associated inflammatory disease is described, and her dialysis-related risk factors point to calciphylaxis.",
+    "Histology of calciphylaxis shows calcification without vasculitis."
+   ],
+   "studyRef": {
+    "sectionId": "neph-ckd.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1409,
+     "page": 1396
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Nephrology",
+     "pdfPage": 305,
+     "page": 305
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "Blood tests at his new GP practice show a creatinine of 210 µmol/L in a 70-year-old man. He feels well and there are no previous results available.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Repeat renal function within 2 weeks",
+    "Diagnose CKD G3b and repeat in 6 months",
+    "Arrange renal biopsy",
+    "Refer for dialysis access",
+    "CT urogram with contrast"
+   ],
+   "answer": 0,
+   "explanation": "With an unexpectedly high creatinine and **no baseline**, AKI must be excluded: **repeat within 2 weeks**. CKD can only be diagnosed when abnormality persists over 3 months.",
+   "whyNot": [
+    "",
+    "A single value cannot establish CKD, and AKI could be missed.",
+    "Biopsy is not a first step and is rarely done when kidneys are small.",
+    "There is no indication for RRT planning yet.",
+    "Iodinated contrast in possible AKI adds risk without first answering the key question."
+   ],
+   "studyRef": {
+    "sectionId": "neph-ckd.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 437,
+     "page": 415
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 3,
+   "stem": "A 60-year-old diabetic woman on haemodialysis has taken high-dose alfacalcidol and a calcium-based binder for years. Bloods: calcium 2.74 mmol/L (high), phosphate 1.4 mmol/L, alkaline phosphatase normal and PTH below the target range. DXA shows osteopenia.",
+   "leadIn": "What is the most likely bone disorder?",
+   "options": [
+    "Secondary hyperparathyroidism",
+    "Tertiary hyperparathyroidism",
+    "Adynamic bone disease",
+    "Osteomalacia",
+    "Osteitis fibrosa cystica"
+   ],
+   "answer": 2,
+   "explanation": "**Low PTH, normal ALP and high calcium** after over-treatment with active vitamin D (diabetes also raises risk) = **adynamic bone disease**: low turnover, so excess calcium cannot be laid down in bone.",
+   "whyNot": [
+    "Secondary hyperparathyroidism has low calcium and high PTH and ALP.",
+    "Tertiary disease has hypercalcaemia but with a very high PTH.",
+    "",
+    "Osteomalacia has low calcium and Looser zones, not low PTH with hypercalcaemia.",
+    "This is the high-turnover lesion of hyperparathyroidism, with high PTH."
+   ],
+   "studyRef": {
+    "sectionId": "neph-ckd.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1408,
+     "page": 1395
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 440,
+     "page": 418
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 59-year-old man with CKD G3b and ACR 60 mg/mmol starts ramipril. Ten days later his creatinine has risen from 180 to 205 µmol/L (eGFR down about 15%) and potassium is 5.1 mmol/L. He feels well.",
+   "leadIn": "What is the most appropriate action?",
+   "options": [
+    "Continue ramipril and recheck renal function",
+    "Stop ramipril permanently",
+    "Add losartan to increase antiproteinuric effect",
+    "Switch to aliskiren",
+    "Start calcium resonium long term"
+   ],
+   "answer": 0,
+   "explanation": "A small early fall in eGFR is expected as glomerular pressure drops. **Continue** if the fall is **≤ 25%** and not progressive, and K⁺ is acceptable. Recheck to make sure it stabilises.",
+   "whyNot": [
+    "",
+    "Stopping would lose the renal and cardiovascular benefit; the fall is within the accepted limit.",
+    "Dual ACEi + ARB gives no renal benefit and more hyperkalaemia and AKI.",
+    "A direct renin inhibitor is also not a useful addition or swap here and is avoided in combination.",
+    "Calcium resonium is only for very short-term use (bowel necrosis); his K⁺ does not need it."
+   ],
+   "studyRef": {
+    "sectionId": "neph-ckd.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 439,
+     "page": 417
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 440,
+     "page": 418
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 67-year-old woman with CKD G4 is tired. Hb is 88 g/L, normocytic. Ferritin is 60 µg/L and transferrin saturation 14%. B12 and folate are normal and there is no bleeding.",
+   "leadIn": "What is the most appropriate first treatment for her anaemia?",
+   "options": [
+    "Intravenous iron, then review for an ESA",
+    "Start epoetin now with a target Hb of 140 g/L",
+    "Regular blood transfusion",
+    "Oral folic acid alone",
+    "Darbepoetin without checking iron again"
+   ],
+   "answer": 0,
+   "explanation": "She is **iron deficient**. Correct iron first (often **IV**), then start an **ESA** if still anaemic. ESAs work poorly in iron deficiency, and the Hb target is **100–120 g/L**.",
+   "whyNot": [
+    "",
+    "Normalising Hb increases hypertension and thrombosis without lowering mortality; iron first.",
+    "Transfusion sensitises against a future graft and is not first-line.",
+    "Folate levels are normal.",
+    "ESAs work poorly in iron deficiency."
+   ],
+   "studyRef": {
+    "sectionId": "neph-ckd.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 441,
+     "page": 419
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Nephrology",
+     "pdfPage": 259,
+     "page": 259
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Nephrology",
+     "pdfPage": 304,
+     "page": 304
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 61-year-old man with CKD G5 (eGFR 8) awaiting a fistula becomes drowsy and confused over 2 days. He has a flapping tremor. Potassium is 5.6 mmol/L, bicarbonate 17 mmol/L and creatinine 780 µmol/L.",
+   "leadIn": "Which finding is the clearest indication to start dialysis now?",
+   "options": [
+    "Uraemic encephalopathy",
+    "Creatinine of 780 µmol/L",
+    "Potassium of 5.6 mmol/L",
+    "Bicarbonate of 17 mmol/L",
+    "eGFR below 10"
+   ],
+   "answer": 0,
+   "explanation": "Confusion with asterixis in advanced CKD is **uraemic encephalopathy**, an **absolute** indication for dialysis. The decision is clinical, not driven by a creatinine number.",
+   "whyNot": [
+    "",
+    "A creatinine value alone is never an indication.",
+    "K⁺ 5.6 can be managed medically; dialysis is for K⁺ resistant to treatment or > 6.5 with ECG changes.",
+    "Mild acidosis is treated with oral bicarbonate; severe means pH < 7.1.",
+    "A low eGFR alone, without symptoms or complications, does not mandate dialysis."
+   ],
+   "studyRef": {
+    "sectionId": "neph-ckd.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 444,
+     "page": 422
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Renal and genitourinary disease",
+     "pdfPage": 673,
+     "page": 673
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 48-year-old man with CKD G5 wants to dialyse at home and keep working. He has had three laparotomies for adhesional bowel obstruction.",
+   "leadIn": "Which feature makes peritoneal dialysis least suitable for him?",
+   "options": [
+    "Extensive peritoneal scarring from previous surgery",
+    "His wish to keep working",
+    "Residual urine output",
+    "Preference for home treatment",
+    "His age"
+   ],
+   "answer": 0,
+   "explanation": "PD needs an **intact peritoneal cavity**. Major scarring from previous abdominal surgery prevents effective exchanges. The other features actually favour PD.",
+   "whyNot": [
+    "",
+    "PD at home suits people who want to work.",
+    "Residual renal function favours PD as a first treatment.",
+    "PD is done at home, which suits him.",
+    "Age is not a contraindication to PD."
+   ],
+   "studyRef": {
+    "sectionId": "neph-ckd.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 442,
+     "page": 420
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 446,
+     "page": 424
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 57-year-old woman dialyses through a tunnelled right internal jugular catheter while her fistula matures. One hour into a session she develops rigors, temperature 39.2 °C and BP 86/50 mmHg. The exit site looks normal.",
+   "leadIn": "What is the most appropriate immediate management?",
+   "options": [
+    "Blood cultures, then IV vancomycin plus Gram-negative cover",
+    "Oral amoxicillin and continue the session",
+    "Intraperitoneal vancomycin",
+    "Remove the fistula",
+    "Paracetamol and review at the next session"
+   ],
+   "answer": 0,
+   "explanation": "Rigors, fever and hypotension on HD point to **access-related bloodstream infection**. Take **blood cultures** and give empirical **vancomycin with Gram-negative cover** (Gram-positive cocci are commonest); then remove or exchange the catheter according to the organism.",
+   "whyNot": [
+    "",
+    "Oral narrow-spectrum treatment is inadequate for septic shock and misses staphylococci.",
+    "Intraperitoneal antibiotics treat PD peritonitis, not line sepsis.",
+    "The infected device is the catheter, not the immature fistula.",
+    "This is sepsis and needs immediate treatment."
+   ],
+   "studyRef": {
+    "sectionId": "neph-ckd.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 446,
+     "page": 424
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Nephrology",
+     "pdfPage": 308,
+     "page": 308
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1413,
+     "page": 1400
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 44-year-old man on CAPD notices that his drained fluid is cloudy and he has mild abdominal pain. The effluent white cell count is 420/mm³, 85% neutrophils.",
+   "leadIn": "Which organism is most likely?",
+   "options": [
+    "_Staphylococcus epidermidis_",
+    "_Escherichia coli_",
+    "_Pseudomonas aeruginosa_",
+    "_Candida albicans_",
+    "_Mycobacterium tuberculosis_"
+   ],
+   "answer": 0,
+   "explanation": "**PD peritonitis** (cloudy effluent, > 100 cells/mm³) is usually caused by **skin contaminants** entering via the catheter, most often _S. epidermidis_ (40–50%).",
+   "whyNot": [
+    "",
+    "Gram-negatives cause about a quarter; bowel organisms are less common.",
+    "An uncommon cause; it often needs catheter removal.",
+    "Fungi cause only about 2%.",
+    "TB causes only about 2% of CAPD peritonitis."
+   ],
+   "studyRef": {
+    "sectionId": "neph-ckd.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1414,
+     "page": 1401
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 447,
+     "page": 425
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Renal disease",
+     "pdfPage": 437,
+     "page": 400
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "Six weeks after a deceased-donor kidney transplant, a 39-year-old woman’s creatinine rises from 120 to 190 µmol/L. Her tacrolimus level is in range, ultrasound shows good perfusion and no obstruction, and biopsy shows tubulitis and endothelialitis with negative C4d.",
+   "leadIn": "What is the most appropriate first treatment?",
+   "options": [
+    "IV methylprednisolone on 3 consecutive days",
+    "Reduce the tacrolimus dose",
+    "Plasma exchange and IVIG",
+    "Valganciclovir",
+    "Start allopurinol"
+   ],
+   "answer": 0,
+   "explanation": "Weeks after transplant, with C4d-negative cellular infiltrates, this is **acute cellular rejection**. First-line treatment is **pulsed IV methylprednisolone for 3 days**, with ATG if steroid-resistant.",
+   "whyNot": [
+    "",
+    "Reducing immunosuppression suits CNI toxicity or BK virus, not rejection; levels are in range.",
+    "This is for antibody-mediated rejection (C4d positive, donor-specific antibodies).",
+    "Treats CMV, which the biopsy does not suggest.",
+    "Irrelevant here, and dangerous with azathioprine."
+   ],
+   "studyRef": {
+    "sectionId": "neph-ckd.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 447,
+     "page": 425
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1417,
+     "page": 1404
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 50-year-old kidney transplant recipient on prednisolone, ciclosporin and azathioprine is started on a new drug for recurrent gout. Three weeks later he has mouth ulcers and his FBC shows pancytopenia.",
+   "leadIn": "Which drug was most likely added?",
+   "options": [
+    "Allopurinol",
+    "Colchicine",
+    "Paracetamol",
+    "Codeine",
+    "Topical diclofenac"
+   ],
+   "answer": 0,
+   "explanation": "**Allopurinol** blocks xanthine oxidase, which breaks down azathioprine. Azathioprine levels rise and cause **marrow suppression**. This interaction is classic in transplant patients.",
+   "whyNot": [
+    "",
+    "Colchicine does not interact with azathioprine in this way.",
+    "Paracetamol does not cause this interaction.",
+    "Opioids accumulate in renal impairment and cause narcosis, not marrow suppression.",
+    "Topical NSAIDs have minimal systemic effect and do not raise azathioprine levels."
+   ],
+   "studyRef": {
+    "sectionId": "neph-ckd.s8"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1416,
+     "page": 1403
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 46,
+     "page": 24
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1411,
+     "page": 1398
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q17",
+   "kind": "emq",
+   "pool": "worked",
+   "difficulty": 1,
+   "theme": "Staging chronic kidney disease",
+   "leadIn": "For each patient below, choose the single most likely answer from the list. Any option can be picked once, several times or not at all.",
+   "options": [
+    "Not CKD",
+    "G1A2",
+    "G2A1",
+    "G2A2",
+    "G3aA1",
+    "G3aA2",
+    "G3bA1",
+    "G3bA3",
+    "G4A2",
+    "G4A3",
+    "G5A3",
+    "G5 on dialysis"
+   ],
+   "items": [
+    {
+     "stem": "A 64-year-old woman with hypertension has eGFR values of 40 and 38 mL/min/1.73 m², 3 months apart. Urine ACR is 45 mg/mmol on repeat.",
+     "answer": 7,
+     "explanation": "Step 1: confirm chronicity (two values 3 months apart). Step 2: eGFR 30–44 = **G3b**. Step 3: ACR > 30 mg/mmol = **A3**. Answer **G3bA3**.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s1"
+     }
+    },
+    {
+     "stem": "A 46-year-old man with type 1 diabetes has eGFR 75 mL/min/1.73 m² on two occasions and a persistent ACR of 12 mg/mmol.",
+     "answer": 3,
+     "explanation": "Step 1: eGFR 75 alone would not be CKD. Step 2: ACR 3–30 is **A2 albuminuria**, a marker of kidney damage, so it is CKD. Step 3: eGFR 60–89 = **G2**. Answer **G2A2**.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s1"
+     }
+    },
+    {
+     "stem": "A 29-year-old athlete has eGFR 82 mL/min/1.73 m² on two tests. ACR is 1 mg/mmol, dipstick is clear and an ultrasound is normal.",
+     "answer": 0,
+     "explanation": "Step 1: eGFR is ≥ 60. Step 2: look for any marker of damage: none (A1, no haematuria, normal imaging). Step 3: G1/G2 with A1 and no damage is **not CKD**.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 410,
+     "page": 388
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Nephrology",
+     "pdfPage": 258,
+     "page": 258
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1406,
+     "page": 1393
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q18",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 54-year-old man receives a kidney from a donor after circulatory death, with a cold ischaemia time of 22 hours. On day 2 his urine output is minimal and he needs dialysis. Ultrasound shows a well-perfused graft with no hydronephrosis or collection, and his tacrolimus level is in range.",
+   "leadIn": "What is the most likely cause of graft dysfunction?",
+   "options": [
+    "Delayed graft function due to acute tubular necrosis",
+    "Hyperacute rejection",
+    "Acute cellular rejection",
+    "BK virus nephropathy",
+    "Chronic allograft injury"
+   ],
+   "answer": 0,
+   "explanation": "Step 1, **timing**: day 2 points to the \"hours to days\" group (vessel thrombosis, ureteric leak, delayed graft function, hyperacute rejection). Step 2, **ultrasound**: good perfusion rules out vessel thrombosis, and no collection or hydronephrosis makes a leak or obstruction unlikely. Step 3, **risk factors**: DCD donor and long cold ischaemia are classic for **delayed graft function from ATN**, which affects up to 40–50% of deceased-donor grafts. Hyperacute rejection is caused by pre-formed anti-HLA antibodies, which the pre-transplant cross-match is designed to detect, and nothing here points to it over the classic DGF risk factors.",
+   "whyNot": [
+    "",
+    "Hyperacute rejection is due to pre-formed anti-HLA antibodies picked up by the pre-transplant cross-match; the DCD donor and long cold ischaemia point to DGF instead.",
+    "Acute rejection usually appears after the first days, mostly within 3 months.",
+    "BK nephropathy appears months after transplant.",
+    "Chronic injury develops over years."
+   ],
+   "studyRef": {
+    "sectionId": "neph-ckd.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 447,
+     "page": 425
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1416,
+     "page": 1403
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 446,
+     "page": 424
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q19",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Complications of chronic kidney disease",
+   "leadIn": "For each patient below, choose the single most likely answer from the list. Any option can be picked once, several times or not at all.",
+   "options": [
+    "Renal anaemia (erythropoietin deficiency)",
+    "Iron deficiency anaemia",
+    "Secondary hyperparathyroidism",
+    "Tertiary hyperparathyroidism",
+    "Adynamic bone disease",
+    "Calciphylaxis",
+    "Uraemic pericarditis",
+    "Hyperkalaemia",
+    "Metabolic acidosis",
+    "Nephrogenic systemic fibrosis",
+    "β2-microglobulin amyloidosis",
+    "Uraemic platelet dysfunction"
+   ],
+   "items": [
+    {
+     "stem": "A 66-year-old man who has been on haemodialysis for 14 years wakes at night with numbness in both hands. Tinel’s sign is positive bilaterally and he has aching shoulders.",
+     "answer": 10,
+     "explanation": "Long-term dialysis plus **bilateral carpal tunnel** and arthropathy = **β2-microglobulin amyloid**.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s7"
+     }
+    },
+    {
+     "stem": "A 58-year-old woman with CKD G4 has calcium 1.98 mmol/L, phosphate 2.0 mmol/L, raised ALP and PTH four times the upper limit. Hand X-rays show erosions along the radial sides of the middle phalanges.",
+     "answer": 2,
+     "explanation": "Low calcium, high phosphate, high ALP and high PTH with **subperiosteal erosions** = **secondary hyperparathyroidism**.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s4"
+     }
+    },
+    {
+     "stem": "A 47-year-old man had years of poorly controlled PTH on dialysis. Alfacalcidol was stopped 3 months ago, yet his calcium remains 2.85 mmol/L and his PTH is still very high.",
+     "answer": 3,
+     "explanation": "Two steps: hypercalcaemia persists **after** stopping vitamin D, so it is not iatrogenic; with a **very high PTH** the glands have become **autonomous** = **tertiary hyperparathyroidism** (treated by parathyroidectomy).",
+     "studyRef": {
+      "sectionId": "neph-ckd.s4"
+     }
+    },
+    {
+     "stem": "A 59-year-old woman on haemodialysis had an MRI with contrast for back pain. Two months later the skin of her legs has become thickened, tight and tethered, limiting movement.",
+     "answer": 9,
+     "explanation": "**Gadolinium** in a patient with eGFR < 30 or on dialysis → **nephrogenic systemic fibrosis**.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1413,
+     "page": 1400
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1408,
+     "page": 1395
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 440,
+     "page": 418
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1410,
+     "page": 1397
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q20",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Next step in the assessment of reduced kidney function",
+   "leadIn": "For each patient below, choose the most appropriate next step from the list. Any option can be picked once, several times or not at all.",
+   "options": [
+    "Repeat renal function within 2 weeks",
+    "Repeat eGFR in 3 months before staging",
+    "Urine albumin:creatinine ratio",
+    "Renal ultrasound",
+    "Renal biopsy",
+    "Refer to nephrology",
+    "12-lead ECG",
+    "Hepatitis B, C and HIV serology",
+    "Ferritin and transferrin saturation",
+    "Start an ACE inhibitor",
+    "Cystoscopy and urology referral",
+    "DXA scan"
+   ],
+   "items": [
+    {
+     "stem": "A 42-year-old man with hypertension has eGFR 56 mL/min/1.73 m². His father and an aunt both needed dialysis for \"cysts on the kidneys\".",
+     "answer": 3,
+     "explanation": "A **family history of polycystic kidney disease** is an indication for **renal ultrasound**.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s4"
+     }
+    },
+    {
+     "stem": "A 62-year-old woman with CKD has had eGFR measurements of 48 and then 31 mL/min/1.73 m² twelve months apart. Her BP is controlled on two drugs.",
+     "answer": 5,
+     "explanation": "Two steps: the fall is 17 mL/min in a year (> 15) and about 35% (> 25%), which is **rapid decline**, so **refer to nephrology**.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s4"
+     }
+    },
+    {
+     "stem": "A 74-year-old man with CKD G4 on ramipril and spironolactone feels weak. Potassium is 6.8 mmol/L on a non-haemolysed sample.",
+     "answer": 6,
+     "explanation": "Severe hyperkalaemia: get an **ECG** immediately to look for changes that need emergency treatment (bearing in mind a normal ECG does not exclude danger).",
+     "studyRef": {
+      "sectionId": "neph-ckd.s4"
+     }
+    },
+    {
+     "stem": "A 66-year-old smoker has eGFR 72 mL/min/1.73 m², ACR < 3 mg/mmol and 2+ blood on dipstick on two occasions. Urine culture is negative.",
+     "answer": 10,
+     "explanation": "Significant haematuria **without proteinuria** in an older smoker needs a **malignancy work-up** of the urinary tract (e.g. bladder cancer).",
+     "studyRef": {
+      "sectionId": "neph-ckd.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 438,
+     "page": 416
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 439,
+     "page": 417
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Renal and genitourinary disease",
+     "pdfPage": 671,
+     "page": 671
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Nephrology",
+     "pdfPage": 257,
+     "page": 257
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q21",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Managing complications of chronic kidney disease",
+   "leadIn": "For each patient below, choose the most appropriate treatment from the list. Any option can be picked once, several times or not at all.",
+   "options": [
+    "Oral sodium bicarbonate",
+    "Intravenous iron",
+    "Erythropoiesis-stimulating agent",
+    "Phosphate binder taken with meals",
+    "Alfacalcidol",
+    "Parathyroidectomy",
+    "Dietary potassium restriction",
+    "Loop diuretic with sodium restriction",
+    "Patiromer or sodium zirconium cyclosilicate",
+    "Desmopressin",
+    "Temporarily stop the ACE inhibitor",
+    "Statin"
+   ],
+   "items": [
+    {
+     "stem": "A 69-year-old man with CKD G4 is well. Venous bicarbonate is 16 mmol/L on two occasions; potassium is 4.9 mmol/L.",
+     "answer": 0,
+     "explanation": "Chronic acidosis worsens catabolism and bone disease and may speed decline: give **oral sodium bicarbonate** to keep HCO₃⁻ > 22 mmol/L.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s5"
+     }
+    },
+    {
+     "stem": "A 63-year-old woman with CKD G4 has Hb 91 g/L. Ferritin is 420 µg/L, transferrin saturation 31%, B12 and folate are normal and there is no bleeding.",
+     "answer": 2,
+     "explanation": "Two steps: iron stores are **replete** and other causes excluded, so this is renal anaemia from EPO deficiency: start an **ESA**, aiming for Hb 100–120 g/L.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s5"
+     }
+    },
+    {
+     "stem": "A 57-year-old man with CKD G3b takes lisinopril, furosemide and metformin. He has had diarrhoea and vomiting for 2 days and is struggling to drink.",
+     "answer": 10,
+     "explanation": "Sick-day rules: **temporarily stop** ACEi/ARB (and diuretics, metformin, NSAIDs) until eating and drinking normally for 24–48 h.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s5"
+     }
+    },
+    {
+     "stem": "A 52-year-old woman on haemodialysis has a phosphate of 2.3 mmol/L on repeated checks despite seeing the dietitian. Calcium is normal and PTH is within target.",
+     "answer": 3,
+     "explanation": "Persistent **hyperphosphataemia** despite diet needs a **phosphate binder** taken with food, aiming for phosphate ≤ 1.5 mmol/L.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 440,
+     "page": 418
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 441,
+     "page": 419
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q22",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Complications of dialysis access and treatment",
+   "leadIn": "For each patient below, choose the single most likely answer from the list. Any option can be picked once, several times or not at all.",
+   "options": [
+    "Catheter-related bloodstream infection",
+    "Fistula thrombosis",
+    "Steal syndrome",
+    "Fistula aneurysm",
+    "High-output heart failure",
+    "Central venous stenosis",
+    "Dialysis disequilibrium syndrome",
+    "Intradialytic hypotension",
+    "Air embolism",
+    "Dialyser hypersensitivity reaction",
+    "PD peritonitis",
+    "PD exit-site infection",
+    "Encapsulating peritoneal sclerosis",
+    "Ultrafiltration failure"
+   ],
+   "items": [
+    {
+     "stem": "A 71-year-old man with a left radiocephalic fistula had a long episode of low blood pressure during yesterday’s dialysis. This morning there is no thrill over the fistula and no bruit.",
+     "answer": 1,
+     "explanation": "Loss of **thrill and bruit**, especially after hypotension, = **fistula thrombosis**.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s7"
+     }
+    },
+    {
+     "stem": "A 64-year-old diabetic woman has a new left brachiocephalic fistula. During each session her left fingers become cold, pale and painful.",
+     "answer": 2,
+     "explanation": "Distal hand ischaemia because blood is diverted through the fistula = **steal syndrome**.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s7"
+     }
+    },
+    {
+     "stem": "A 35-year-old man with severe AKI and a urea of 62 mmol/L has his first haemodialysis, a 4-hour session. Near the end he develops headache, vomiting and then a seizure.",
+     "answer": 6,
+     "explanation": "Too rapid urea removal causes **cerebral oedema** = **disequilibrium syndrome**. First sessions should be short (1–2 h).",
+     "studyRef": {
+      "sectionId": "neph-ckd.s7"
+     }
+    },
+    {
+     "stem": "A 58-year-old woman had several temporary subclavian dialysis lines before a fistula was formed in the same arm. Her whole arm is now swollen with distended veins over the shoulder and chest wall.",
+     "answer": 5,
+     "explanation": "Previous subclavian/central catheters → **central venous stenosis**, which obstructs outflow from a fistula in that arm.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s7"
+     }
+    },
+    {
+     "stem": "A 49-year-old man stopped peritoneal dialysis after 9 years. He now has weight loss and repeated episodes of vomiting, colicky pain and distension due to small-bowel obstruction.",
+     "answer": 12,
+     "explanation": "Long-term PD with **recurrent small-bowel obstruction** and malnutrition = **encapsulating (sclerosing) peritonitis**.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "chapter": "Nephrology",
+     "pdfPage": 261,
+     "page": 261
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Renal and genitourinary disease",
+     "pdfPage": 675,
+     "page": 675
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 444,
+     "page": 422
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1413,
+     "page": 1400
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 447,
+     "page": 425
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Nephrology",
+     "pdfPage": 262,
+     "page": 262
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q23",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Problems after renal transplantation",
+   "leadIn": "For each patient below, choose the single most likely answer from the list. Any option can be picked once, several times or not at all.",
+   "options": [
+    "Delayed graft function (acute tubular necrosis)",
+    "Hyperacute rejection",
+    "Acute T-cell-mediated rejection",
+    "Antibody-mediated rejection",
+    "Calcineurin inhibitor toxicity",
+    "BK polyomavirus nephropathy",
+    "Cytomegalovirus infection",
+    "Pneumocystis pneumonia",
+    "Transplant renal artery stenosis",
+    "Recurrent focal segmental glomerulosclerosis",
+    "Post-transplant lymphoproliferative disorder",
+    "Cutaneous squamous cell carcinoma"
+   ],
+   "items": [
+    {
+     "stem": "Five months after a kidney transplant on intensive immunosuppression, with a ureteric stent left in for 6 weeks, a 45-year-old man’s creatinine is creeping up. Tacrolimus level is in range and a plasma viral PCR shows a high polyomavirus load.",
+     "answer": 5,
+     "explanation": "Months after transplant, intensive immunosuppression, ureteric stent and high polyomavirus load = **BK nephropathy**: reduce immunosuppression.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s8"
+     }
+    },
+    {
+     "stem": "A CMV-seronegative woman received a kidney from a seropositive donor. Her prophylaxis was stopped early. Seven weeks later she has fever and malaise, and a viral PCR on blood is positive.",
+     "answer": 6,
+     "explanation": "Two steps: **D+/R−** mismatch is the highest-risk group, and missed **valganciclovir** prophylaxis leaves her exposed = **CMV** infection.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s8"
+     }
+    },
+    {
+     "stem": "A 33-year-old whose own kidneys failed from primary FSGS has heavy proteinuria within 3 weeks of a living-donor transplant.",
+     "answer": 9,
+     "explanation": "**FSGS** recurs early and often in the graft.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s8"
+     }
+    },
+    {
+     "stem": "Eight years after transplant, a 41-year-old man on long-term immunosuppression develops fevers, night sweats and widespread lymph node enlargement. EBV DNA is detectable in the blood.",
+     "answer": 10,
+     "explanation": "EBV-driven lymphoid proliferation in a transplant recipient = **PTLD**.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s8"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 447,
+     "page": 425
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1417,
+     "page": 1404
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Nephrology",
+     "pdfPage": 310,
+     "page": 310
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q24",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 55-year-old man without diabetes has IgA nephropathy, eGFR 42 mL/min/1.73 m² and ACR 85 mg/mmol despite a maximum dose of ramipril. BP is 128/78 mmHg and potassium 4.6 mmol/L.",
+   "leadIn": "Which additional drug class is best supported to slow his progression?",
+   "options": [
+    "SGLT2 inhibitor",
+    "Angiotensin receptor blocker",
+    "Direct renin inhibitor",
+    "Non-steroidal anti-inflammatory drug",
+    "Potassium-sparing diuretic with salt substitute"
+   ],
+   "answer": 0,
+   "explanation": "**SGLT2 inhibitors** reduce the risk of progression by about 30–40% in proteinuric CKD **with or without diabetes** (eGFR above about 25). Dual RAAS blockade is avoided.",
+   "whyNot": [
+    "",
+    "Adding an ARB to an ACEi gives no renal benefit and more hyperkalaemia and AKI.",
+    "Combining a renin inhibitor with an ACEi is avoided for the same reason.",
+    "NSAIDs are nephrotoxic and should be avoided in CKD.",
+    "Raises potassium dangerously alongside an ACE inhibitor."
+   ],
+   "studyRef": {
+    "sectionId": "neph-ckd.s5"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Nephrology",
+     "pdfPage": 304,
+     "page": 304
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 439,
+     "page": 417
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 431,
+     "page": 409
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q25",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Causes of chronic kidney disease",
+   "leadIn": "For each patient below, choose the single most likely answer from the list. Any option can be picked once, several times or not at all.",
+   "options": [
+    "Diabetic nephropathy",
+    "Hypertensive nephrosclerosis",
+    "IgA nephropathy",
+    "Autosomal dominant polycystic kidney disease",
+    "Atheromatous renovascular disease",
+    "Lupus nephritis",
+    "Drug-induced interstitial nephritis",
+    "Myeloma kidney",
+    "Reflux nephropathy",
+    "Obstruction from prostatic enlargement",
+    "Schistosomiasis-related obstruction",
+    "Alport syndrome"
+   ],
+   "items": [
+    {
+     "stem": "A 41-year-old woman with hypertension has eGFR 50 mL/min/1.73 m². Her mother started dialysis at 55. Ultrasound shows two large kidneys.",
+     "answer": 3,
+     "explanation": "Inherited disease with **large kidneys** and a parent on dialysis = **ADPKD** (a reminder that big kidneys do not exclude CKD).",
+     "studyRef": {
+      "sectionId": "neph-ckd.s2"
+     }
+    },
+    {
+     "stem": "A 72-year-old smoker with intermittent claudication and previous MI has slowly falling eGFR. Ultrasound shows one kidney 2 cm smaller than the other; urine is bland.",
+     "answer": 4,
+     "explanation": "Asymmetric kidneys in a vasculopath suggest **atheromatous renovascular disease**.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s2"
+     }
+    },
+    {
+     "stem": "A 60-year-old man has had type 2 diabetes for 20 years. His ACR has risen steadily over the past 8 years and his eGFR is now 38 mL/min/1.73 m². There is no haematuria.",
+     "answer": 0,
+     "explanation": "Long-standing diabetes with **progressive albuminuria** and bland sediment = **diabetic nephropathy**, the commonest cause of ESRD.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s2"
+     }
+    },
+    {
+     "stem": "A 38-year-old farmer grew up in a rural part of the Middle East where schistosomiasis is endemic. He has bilateral hydronephrosis with no stones and a normal prostate, and eGFR 35 mL/min/1.73 m².",
+     "answer": 10,
+     "explanation": "Two steps: hydronephrosis without stones or prostatic disease = obstruction of another cause; a background in an endemic part of the Middle East = **schistosomiasis**.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 437,
+     "page": 415
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 438,
+     "page": 416
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1405,
+     "page": 1392
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1406,
+     "page": 1393
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 442,
+     "page": 420
+    }
+   ]
+  },
+  {
+   "id": "neph-ckd.q26",
+   "kind": "emq",
+   "pool": "mock",
+   "difficulty": 2,
+   "theme": "Indications for dialysis",
+   "leadIn": "For each patient below, choose the main indication for dialysis from the list, or that none is present. Any option can be picked once, several times or not at all.",
+   "options": [
+    "Refractory hyperkalaemia",
+    "Refractory pulmonary oedema",
+    "Uraemic pericarditis",
+    "Uraemic encephalopathy",
+    "Severe metabolic acidosis",
+    "Poisoning with a dialysable drug",
+    "Uraemic bleeding",
+    "Symptomatic uraemia impairing quality of life",
+    "No current indication for dialysis",
+    "Hyperphosphataemia despite binders"
+   ],
+   "items": [
+    {
+     "stem": "A 44-year-old woman on long-term lithium for bipolar disorder has vomiting, coarse tremor and confusion after a dehydrating illness. Her lithium level is markedly raised and creatinine has doubled.",
+     "answer": 5,
+     "explanation": "Lithium is a **dialysable toxin** (the \"I\" of AEIOU).",
+     "studyRef": {
+      "sectionId": "neph-ckd.s6"
+     }
+    },
+    {
+     "stem": "A 68-year-old man with CKD G5 (eGFR 9) has had months of poor appetite, nausea, itching, weight loss and fatigue that stop him gardening. K⁺ 5.4 mmol/L, bicarbonate 20 mmol/L, chest clear.",
+     "answer": 7,
+     "explanation": "No emergency, but **uraemic symptoms** now impair his quality of life at eGFR about 10: the usual reason to start chronic dialysis.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s6"
+     }
+    },
+    {
+     "stem": "A 57-year-old woman with CKD G4 (eGFR 18, creatinine 340 µmol/L) feels well. K⁺ is 5.2 mmol/L, bicarbonate 23 mmol/L, and she has no oedema.",
+     "answer": 8,
+     "explanation": "Two steps: a lab number alone is not an indication, and she has no symptoms or refractory complications = **no current indication**. Plan access and preparation instead.",
+     "studyRef": {
+      "sectionId": "neph-ckd.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 444,
+     "page": 422
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Nephrology",
+     "pdfPage": 260,
+     "page": 260
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Renal and genitourinary disease",
+     "pdfPage": 673,
+     "page": 673
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 804,
+     "page": 784
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "neph-ckd.o1",
+   "sectionId": "neph-ckd.s3",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Nephrology and urology",
+    "pdfPage": 438,
+    "page": 416,
+    "figure": "Fig. 15.22"
+   },
+   "identify": "Signs of advanced CKD: pallor, yellow tinge, scratch marks, bruising, brown-line nails, raised JVP, and RRT clues (fistula, dialysis line, Tenckhoff catheter, transplant scar)."
+  },
+  {
+   "id": "neph-ckd.o2",
+   "sectionId": "neph-ckd.s3",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Kidney and urinary tract disease",
+    "pdfPage": 1409,
+    "page": 1396,
+    "figure": "Fig. 36.48"
+   },
+   "identify": "Skin biopsy: calcified small arteries without vasculitis → calciphylaxis (calcific uraemic arteriolopathy)."
+  },
+  {
+   "id": "neph-ckd.o3",
+   "sectionId": "neph-ckd.s4",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Kidney and urinary tract disease",
+    "pdfPage": 1408,
+    "page": 1395,
+    "figure": "Fig. 36.47"
+   },
+   "identify": "CKD-MBD X-ray signs: subperiosteal erosions and pepperpot skull (hyperparathyroidism), rugger-jersey spine (osteosclerosis), Looser zones (osteomalacia)."
+  },
+  {
+   "id": "neph-ckd.o4",
+   "sectionId": "neph-ckd.s7",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Nephrology and urology",
+    "pdfPage": 445,
+    "page": 423,
+    "figure": "Fig. 15.27"
+   },
+   "identify": "Haemodialysis access: tunnelled cuffed catheter into the right atrium vs AV fistula (distended arterialised vein) vs AV graft."
+  },
+  {
+   "id": "neph-ckd.o5",
+   "sectionId": "neph-ckd.s7",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Kidney and urinary tract disease",
+    "pdfPage": 1411,
+    "page": 1398,
+    "figure": "Fig. 36.49"
+   },
+   "identify": "IV cannula in the non-dominant forearm of a CKD patient → wrong site: these veins must be saved for a future fistula."
+  },
+  {
+   "id": "neph-ckd.o6",
+   "sectionId": "neph-ckd.s7",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Kidney and urinary tract disease",
+    "pdfPage": 1412,
+    "page": 1399,
+    "figure": "Fig. 36.51"
+   },
+   "identify": "Left forearm radiocephalic AV fistula in a dialysis patient: flag it before surgery and never compress it, as it may thrombose."
+  },
+  {
+   "id": "neph-ckd.o7",
+   "sectionId": "neph-ckd.s7",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Kidney and urinary tract disease",
+    "pdfPage": 1414,
+    "page": 1401,
+    "figure": "Fig. 36.54"
+   },
+   "identify": "Tenckhoff catheter for peritoneal dialysis, tip lying in the pelvis."
+  },
+  {
+   "id": "neph-ckd.o8",
+   "sectionId": "neph-ckd.s8",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Kidney and urinary tract disease",
+    "pdfPage": 1417,
+    "page": 1404,
+    "figure": "Fig. 36.56"
+   },
+   "identify": "Transplant biopsy: endothelialitis (acute vascular rejection) vs glomerulitis with peritubular capillary C4d (antibody-mediated rejection)."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:07:56.952Z",
+  "contentHash": "f1500fb0e62d158d1f900eb201901866f4857cd2fd0fcd08f5188198627746f5"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:07:56.973Z",
+  "contentHash": "f1500fb0e62d158d1f900eb201901866f4857cd2fd0fcd08f5188198627746f5",
+  "checkerVersion": "source-check-v1"
+ }
+}

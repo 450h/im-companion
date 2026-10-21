@@ -1,0 +1,3586 @@
+{
+ "topicId": "id-antimicrobials",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "id-antimicrobials.s1",
+   "title": "Gram-positive cover: penicillins, glycopeptides and MRSA agents",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Beta-lactams are bactericidal.** They competitively block the transpeptidases (**penicillin-binding proteins, PBPs**) that cross-link peptidoglycan. **Glycopeptides** (vancomycin, teicoplanin) also stop cell-wall building, but they do it by clinging to the **D-alanine ends of peptidoglycan precursors**. Both groups kill in a **time-dependent** way: what matters is how long the level stays above the MIC. That is why benzylpenicillin is given 4-hourly in severe infection.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 138,
+       "page": 116,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 141,
+       "page": 119,
+       "chapter": "Principles of infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Penicillin families at a glance",
+     "columns": [
+      "Group",
+      "Examples",
+      "What it covers / key point"
+     ],
+     "rows": [
+      [
+       "Natural penicillins",
+       "Benzylpenicillin (IV), phenoxymethylpenicillin (oral)",
+       "Gram-positives and anaerobes. **Strep. pyogenes is still sensitive everywhere.** Most staphylococci make penicillinase, so they are resistant"
+      ],
+      [
+       "Penicillinase-resistant",
+       "Flucloxacillin (UK); oxacillin, nafcillin (US)",
+       "**Mainstay for meticillin-sensitive Staph. aureus (MSSA)**. Useless against MRSA"
+      ],
+      [
+       "Aminopenicillins",
+       "Amoxicillin, ampicillin",
+       "Penicillin spectrum plus Enterobacteriaceae, but E. coli resistance is common (about 57% across Europe in 2014). **Not suitable as empirical Gram-negative cover**"
+      ],
+      [
+       "With a beta-lactamase inhibitor",
+       "Co-amoxiclav, ampicillin–sulbactam",
+       "Clavulanate or sulbactam restores activity against beta-lactamase producers"
+      ],
+      [
+       "Antipseudomonal",
+       "Piperacillin–tazobactam, ticarcillin",
+       "Strong Gram-negative cover, including Pseudomonas (see next section)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 142,
+       "page": 120,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 143,
+       "page": 121,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1238,
+       "page": 1238
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Gram-positive organisms: Davidson’s suggested agents",
+     "columns": [
+      "Organism",
+      "Options"
+     ],
+     "rows": [
+      [
+       "MSSA (Staph. aureus)",
+       "Flucloxacillin, clindamycin"
+      ],
+      [
+       "Strep. pyogenes",
+       "Penicillin; clindamycin or vancomycin as alternatives"
+      ],
+      [
+       "Strep. pneumoniae",
+       "Penicillin, cephalosporins, levofloxacin, vancomycin"
+      ],
+      [
+       "Enterococcus faecalis",
+       "Ampicillin, or a glycopeptide as the alternative"
+      ],
+      [
+       "Enterococcus faecium",
+       "A glycopeptide or linezolid"
+      ],
+      [
+       "Glycopeptide-resistant enterococci (GRE/VRE)",
+       "Linezolid, tigecycline, daptomycin"
+      ],
+      [
+       "MRSA",
+       "Vancomycin, linezolid, daptomycin, clindamycin, tetracyclines, tigecycline, co-trimoxazole; rifampicin only as part of a combination"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 139,
+       "page": 117,
+       "chapter": "Principles of infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "How Gram-positives escape",
+     "items": [
+      "**MRSA:** the _mecA_ gene codes for **PBP2a**, a penicillin-binding protein with low affinity for beta-lactams. Flucloxacillin and meticillin can no longer stop cross-linking.",
+      "**VRE:** the cell-wall precursor ends in **D-Ala-D-Lac** instead of D-Ala-D-Ala, so vancomycin and teicoplanin cannot bind. The only oral option is linezolid; IV options are daptomycin and tigecycline.",
+      "Some MRSA strains also show reduced glycopeptide susceptibility because their cell wall becomes relatively impermeable."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 138,
+       "page": 116,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 186,
+       "page": 167,
+       "chapter": "Sepsis and the treatment of bacterial infection"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Reserve agents for resistant Gram-positives",
+     "columns": [
+      "Drug",
+      "Use",
+      "Watch for"
+     ],
+     "rows": [
+      [
+       "**Vancomycin / teicoplanin** (glycopeptides)",
+       "Gram-positive only: MRSA, ampicillin-resistant enterococci. Not absorbed orally, so **oral vancomycin treats C. difficile**. Keep IV vancomycin pre-dose levels >10 mg/L (15–20 mg/L in serious staphylococcal infection)",
+       "“Red man” histamine reaction if infused too fast; nephrotoxicity and ototoxicity, especially alongside aminoglycosides"
+      ],
+      [
+       "**Daptomycin** (cyclic lipopeptide)",
+       "IV only; bactericidal against Gram-positives including MRSA and GRE (skin infection, Staph. aureus endocarditis). No Gram-negative activity",
+       "**Fails in community-acquired pneumonia**; raised creatine kinase; eosinophilic pneumonitis"
+      ],
+      [
+       "**Linezolid** (oxazolidinone)",
+       "Oral or IV for MRSA and GRE; excellent oral bioavailability",
+       "**MAO-inhibitor activity: serotonin syndrome with SSRIs**; long courses cause marrow suppression (mainly thrombocytopenia, so FBC weekly) and peripheral/optic neuropathy"
+      ],
+      [
+       "**Clindamycin** (lincosamide)",
+       "Gram-positive cocci and anaerobes; concentrates in bone (osteomyelitis); damps down TSST-1 and alpha-toxin in severe streptococcal or staphylococcal cellulitis",
+       "Strong link with **C. difficile infection**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 145,
+       "page": 123,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 146,
+       "page": 124,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 185,
+       "page": 166,
+       "chapter": "Sepsis and the treatment of bacterial infection"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 186,
+       "page": 167,
+       "chapter": "Sepsis and the treatment of bacterial infection"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Macrolides** (erythromycin, clarithromycin, azithromycin) and **lincosamides** are bacteriostatic and bind the **same ribosomal site**, so they are never combined. Macrolides are the classic choice for **Legionella, Mycoplasma, Chlamydia and Bordetella**. Side effects: GI upset (about 30% of young adults on erythromycin), cholestatic jaundice with erythromycin estolate, and **QT prolongation leading to torsades de pointes**. Macrolides also interact with theophylline, carbamazepine, digoxin and ciclosporin, so the doses of those drugs sometimes need adjusting.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 143,
+       "page": 121,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 144,
+       "page": 122,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1246,
+       "page": 1246
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 184,
+       "page": 165
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "A ladder for remembering cover: **amoxicillin** (strep, Listeria, enterococci) → **co-amoxiclav** (adds staph, Haemophilus, E. coli) → **piperacillin–tazobactam** (adds Pseudomonas) → **meropenem** (adds ESBL producers). Add **vancomycin/teicoplanin for MRSA** and a macrolide or doxycycline for atypicals.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 144,
+       "page": 144
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Three classic traps: **rifampicin must never be given alone** for MRSA (resistance appears fast); **daptomycin does not work for pneumonia**; and **linezolid with an SSRI** risks serotonin syndrome.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 139,
+       "page": 117,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 145,
+       "page": 123,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 146,
+       "page": 124,
+       "chapter": "Principles of infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Serious hepatitis is a recognised beta-lactam effect, mainly with **flucloxacillin and co-amoxiclav**. Kumar notes that co-amoxiclav and flucloxacillin cause cholestatic jaundice about six times as often as plain amoxicillin.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 142,
+       "page": 120,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 182,
+       "page": 163,
+       "chapter": "Sepsis and the treatment of bacterial infection"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.s2",
+   "title": "Gram-negative cover: cephalosporins, carbapenems, aminoglycosides and others",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Cephalosporin generations",
+     "columns": [
+      "Generation",
+      "Examples",
+      "Spectrum"
+     ],
+     "rows": [
+      [
+       "1st",
+       "Cefalexin, cefradine (oral); cefazolin (IV)",
+       "Excellent Gram-positive, modest Gram-negative"
+      ],
+      [
+       "2nd",
+       "Cefuroxime, cefaclor; cefoxitin (a cephamycin)",
+       "Keeps Gram-positive cover, wider Gram-negative; cephamycins also hit anaerobic Gram-negative bacilli"
+      ],
+      [
+       "3rd",
+       "Cefixime (oral); cefotaxime, ceftriaxone, ceftazidime (IV)",
+       "Better Gram-negative cover; **ceftazidime covers Pseudomonas**. Ceftriaxone is once daily, so suits OPAT"
+      ],
+      [
+       "4th",
+       "Cefepime",
+       "Broad: streptococci and Gram-negatives **including P. aeruginosa**"
+      ],
+      [
+       "5th",
+       "Ceftaroline, ceftobiprole",
+       "**Cover MRSA**, plus Gram-negatives; ceftobiprole also covers P. aeruginosa"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 143,
+       "page": 121,
+       "chapter": "Principles of infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Cephalosporin rules to remember",
+     "items": [
+      "**No cephalosporin covers enterococci** (ceftobiprole is the one exception).",
+      "**ESBLs inactivate every cephalosporin.**",
+      "Use is strongly linked to **C. difficile** infection.",
+      "Third-generation agents reach the CSF, so ceftriaxone is used for empirical meningitis; 1st- and 2nd-generation drugs are not used for CNS infection."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 143,
+       "page": 121,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1241,
+       "page": 1241
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1242,
+       "page": 1242
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Other beta-lactams for Gram-negatives",
+     "columns": [
+      "Agent",
+      "Spectrum",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "**Piperacillin–tazobactam**",
+       "Gram-positives, Gram-negatives (including P. aeruginosa) and anaerobes",
+       "IV 4.5 g 8-hourly, 6-hourly in neutropenic sepsis"
+      ],
+      [
+       "**Aztreonam** (the only monobactam)",
+       "Aerobic Gram-negatives only (not ESBL producers); no Gram-positive or anaerobic activity",
+       "IV only. **Safe in most penicillin-allergic patients**, except those allergic to **ceftazidime** (same side chain)"
+      ],
+      [
+       "**Carbapenems** (imipenem, meropenem, ertapenem)",
+       "Widest beta-lactam spectrum: Gram-positives, Gram-negatives and anaerobes, **but not MRSA**",
+       "**Ertapenem misses Pseudomonas and Acinetobacter.** Imipenem is paired with cilastatin. Imipenem and ertapenem can provoke seizures, so **meropenem is the carbapenem for meningitis**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 143,
+       "page": 121,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 182,
+       "page": 163,
+       "chapter": "Sepsis and the treatment of bacterial infection"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 99,
+       "page": 62
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Gram-negative organisms: Davidson’s suggested agents",
+     "columns": [
+      "Organism",
+      "Options"
+     ],
+     "rows": [
+      [
+       "E. coli and other coliforms",
+       "Amoxicillin, trimethoprim, cefuroxime, ciprofloxacin, co-amoxiclav (local resistance decides)"
+      ],
+      [
+       "ESBL-producing Enterobacteriaceae",
+       "Meropenem, ertapenem, ciprofloxacin, temocillin, aminoglycosides (if sensitive)"
+      ],
+      [
+       "Carbapenemase-producing Enterobacteriaceae",
+       "Ciprofloxacin, aminoglycosides, tigecycline, colistin"
+      ],
+      [
+       "Pseudomonas aeruginosa",
+       "Ciprofloxacin, piperacillin–tazobactam, aztreonam, meropenem, aminoglycosides, ceftazidime or cefepime"
+      ],
+      [
+       "Haemophilus influenzae",
+       "Amoxicillin, co-amoxiclav, macrolides, cefuroxime, cefotaxime, ciprofloxacin"
+      ],
+      [
+       "Legionella pneumophila",
+       "Azithromycin, levofloxacin, doxycycline"
+      ],
+      [
+       "Neisseria meningitidis",
+       "Penicillin, cefotaxime or ceftriaxone, chloramphenicol"
+      ],
+      [
+       "Bacteroides spp. (strict anaerobes)",
+       "Metronidazole, clindamycin, co-amoxiclav, piperacillin–tazobactam, meropenem"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 139,
+       "page": 117,
+       "chapter": "Principles of infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Aminoglycosides** (gentamicin, tobramycin, amikacin) work mainly against Gram-negatives and act synergistically with beta-lactams. Their killing is **concentration-dependent** (it rises with the Cmax : MIC ratio), so they are given **once, at a high dose (gentamicin 7 mg/kg)**. A level taken **6–14 hours after the dose** is read on the **Hartford nomogram** to set a 24-, 36- or 48-hourly interval. For synergy in endocarditis, gentamicin is given in small divided doses with targets of pre-dose <1 mg/L and post-dose 3–5 mg/L. Oral absorption and **CSF penetration are negligible**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 140,
+       "page": 118,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 141,
+       "page": 119,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 144,
+       "page": 122,
+       "chapter": "Principles of infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Aminoglycoside toxicity",
+     "items": [
+      "**Nephrotoxicity**: usually reversible; worse with other nephrotoxins.",
+      "**Cochlear damage**: irreversible; the risk rises with age and with an inherited mitochondrial mutation.",
+      "**Neuromuscular blockade** after rapid IV infusion: potentiated by **myasthenia gravis**, calcium-channel blockers and low magnesium.",
+      "Monitor renal function and levels, and keep courses short."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 144,
+       "page": 122,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 101,
+       "page": 64
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 144,
+      "page": 122,
+      "chapter": "Principles of infectious disease",
+      "figure": "Fig. 6.18"
+     },
+     "note": "Look at: the Hartford nomogram. The plasma gentamicin level (y-axis) at 6–14 h after a 7 mg/kg dose (x-axis) falls in a 24-, 36- or 48-hourly band."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 141,
+      "page": 119,
+      "chapter": "Principles of infectious disease",
+      "figure": "Fig. 6.17"
+     },
+     "note": "Look at: the single-dose concentration curve with Cmax, MIC line, time above MIC and AUC. Concentration-dependent drugs depend on Cmax : MIC; time-dependent drugs depend on time above MIC."
+    },
+    {
+     "type": "table",
+     "title": "Non-beta-lactam Gram-negative agents",
+     "columns": [
+      "Drug / class",
+      "Action and cover",
+      "Key adverse effects"
+     ],
+     "rows": [
+      [
+       "**Fluoroquinolones** (ciprofloxacin, levofloxacin, moxifloxacin)",
+       "Block DNA gyrase and topoisomerase IV. Ciprofloxacin covers Pseudomonas, but resistance develops quickly. Levofloxacin and moxifloxacin add pneumococcal cover; moxifloxacin also covers anaerobes and mycobacteria",
+       "Tendinitis and **Achilles rupture** (older people, steroids); delirium and seizures; **QT prolongation**; raise theophylline levels; ciprofloxacin use is linked to MRSA and C. difficile ribotype 027"
+      ],
+      [
+       "**Colistin** (polymyxin)",
+       "Disrupts the Gram-negative outer membrane: P. aeruginosa, Acinetobacter, carbapenemase producers. A **last-resort** drug",
+       "Neurotoxicity (including encephalopathy) and nephrotoxicity"
+      ],
+      [
+       "**Metronidazole** (nitroimidazole)",
+       "Strict anaerobes (Bacteroides fragilis, Clostridium spp.), amoebae and Giardia; good brain and CSF levels",
+       "Metallic taste; **disulfiram-like reaction with alcohol**; neuropathy with long use"
+      ],
+      [
+       "**Co-trimoxazole** (sulfamethoxazole + trimethoprim)",
+       "Blocks two successive steps of folate synthesis. **First-line for Pneumocystis jirovecii**",
+       "Trimethoprim resembles amiloride: **hyperkalaemia** (especially with ACE inhibitors). Sulphonamides: Stevens–Johnson/TEN, haemolysis in G6PD deficiency"
+      ],
+      [
+       "**Tetracyclines** (doxycycline) / tigecycline",
+       "Mycoplasma, Chlamydia, Rickettsia, Borrelia, H. pylori. Tigecycline covers MRSA and ESBL producers but not Pseudomonas",
+       "Avoid in children and pregnancy (teeth and bone); phototoxicity; tigecycline showed excess mortality in trials"
+      ],
+      [
+       "**Nitrofurantoin**",
+       "Urinary tract infection only",
+       "Not for pyelonephritis or anything outside the bladder; long courses can cause lung fibrosis and neuropathy"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 145,
+       "page": 123,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 146,
+       "page": 124,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 185,
+       "page": 166,
+       "chapter": "Sepsis and the treatment of bacterial infection"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1254,
+       "page": 1254
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1245,
+       "page": 1245
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 184,
+       "page": 165
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Antimicrobials in pregnancy (Davidson)",
+     "columns": [
+      "Category",
+      "Drugs"
+     ],
+     "rows": [
+      [
+       "Contraindicated",
+       "Chloramphenicol (grey baby syndrome); fluconazole (high doses); quinolones; sulphonamides (neonatal haemolysis); tetracyclines; trimethoprim in the first trimester"
+      ],
+      [
+       "Relatively contraindicated",
+       "Aminoglycosides (fetal auditory/vestibular damage); high-dose metronidazole"
+      ],
+      [
+       "Not known to be harmful",
+       "Penicillins, cephalosporins, erythromycin, clarithromycin, clindamycin, glycopeptides, linezolid, meropenem, aciclovir"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 142,
+       "page": 120,
+       "chapter": "Principles of infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**ESBL producers:** for serious infection use a **carbapenem**, even if the lab reports piperacillin–tazobactam as sensitive. Piperacillin–tazobactam did worse than a carbapenem in a trial. Once-daily ertapenem allows OPAT.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 186,
+       "page": 167,
+       "chapter": "Sepsis and the treatment of bacterial infection"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A good blood level of gentamicin is useless in **meningitis**, because almost none crosses into the CSF. Always ask whether the drug reaches the site of infection.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 140,
+       "page": 118,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 144,
+       "page": 122,
+       "chapter": "Principles of infectious disease"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.s3",
+   "title": "Antimycobacterial agents",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "First-line antituberculous drugs",
+     "columns": [
+      "Drug",
+      "How it works",
+      "Key adverse effects / notes"
+     ],
+     "rows": [
+      [
+       "**Isoniazid (H)**",
+       "Activated by mycobacterial KatG; inhibits InhA, blocking **mycolic acid** synthesis. Cleared by hepatic acetylation",
+       "Hepatitis; **peripheral neuropathy (prevent with pyridoxine 10 mg daily)**; hypersensitivity"
+      ],
+      [
+       "**Rifampicin (R)**",
+       "Inhibits DNA-dependent **RNA polymerase**; bactericidal, also sterilises necrotic foci",
+       "**Potent P450 inducer** (contraceptive pill, warfarin and many others fail); **orange urine, tears and secretions**; hepatitis; flu-like symptoms; rarely thrombocytopenia"
+      ],
+      [
+       "**Pyrazinamide (Z)**",
+       "Kills semidormant bacilli in an acidic environment",
+       "Hepatitis; **raised urate (gout)**; myalgia, nausea. **M. bovis is intrinsically resistant**"
+      ],
+      [
+       "**Ethambutol (E)**",
+       "Inhibits arabinosyl transferase (cell wall arabinogalactan); bacteriostatic; renally excreted; poor CSF penetration",
+       "**Optic (retrobulbar) neuritis**: red–green colour loss, falling acuity, central scotoma"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 147,
+       "page": 125,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 581,
+       "page": 544
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 989,
+       "page": 971
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Standard regimens and durations",
+     "items": [
+      "Fully sensitive pulmonary TB: **2 months HRZE, then 4 months HR = 6 months**.",
+      "Keep all four drugs beyond 2 months if susceptibility results are still pending.",
+      "**TB meningitis: 12 months**; bone TB: 9 months (KC Essentials).",
+      "Treatment failure is mostly due to prescribing errors and poor adherence; **directly observed therapy (DOT)** helps.",
+      "Never use one drug alone: **combination therapy prevents resistance** emerging."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 138,
+       "page": 116,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 141,
+       "page": 119,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 581,
+       "page": 544
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Drug-resistant TB",
+     "items": [
+      "**MDR-TB** = resistant to **isoniazid and rifampicin**.",
+      "**XDR-TB** = MDR plus resistance to **any fluoroquinolone and at least one injectable** second-line drug (amikacin, capreomycin or kanamycin).",
+      "Second-line drugs: moxifloxacin/levofloxacin, injectable aminoglycosides, cycloserine (neurological effects), ethionamide, linezolid (good CSF penetration).",
+      "Newer agents **bedaquiline and delamanid prolong the QT interval**, so take care when combining them with fluoroquinolones."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 140,
+       "page": 118,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 147,
+       "page": 125,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 453,
+       "page": 453
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other mycobacterial uses",
+     "items": [
+      "Latent TB at risk of reactivation: isoniazid + rifampicin for 3 months, or isoniazid alone for 6 months.",
+      "Rifampicin (or ciprofloxacin) is prophylaxis for close contacts of meningococcal disease.",
+      "**M. bovis** (unpasteurised milk, farm and abattoir workers; often lymph nodes) is treated with **isoniazid, rifampicin and ethambutol**, because pyrazinamide resistance is the rule.",
+      "**M. avium-intracellulare** in advanced HIV (CD4 <50/mm³) resists standard therapy: use **ethambutol + rifabutin + clarithromycin**.",
+      "Active pulmonary TB in hospital: isolate (negative-pressure room) until established on treatment, usually about 2 weeks."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 141,
+       "page": 119,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 168,
+       "page": 168
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 97,
+       "page": 60
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 989,
+       "page": 971,
+       "chapter": "Respiratory disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Ethambutol:** check visual acuity (Snellen) and colour vision (Ishihara) **before starting**. Stopping the drug when symptoms appear usually lets vision recover.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 989,
+       "page": 971,
+       "chapter": "Respiratory disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 581,
+       "page": 544
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Drug-induced hepatitis:** isoniazid, rifampicin and pyrazinamide are all hepatotoxic. A mild transaminase rise is common. **Stop the drugs only if bilirubin rises or transaminases exceed three times normal**, then reintroduce them one at a time.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 989,
+       "page": 971,
+       "chapter": "Respiratory disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 147,
+       "page": 125,
+       "chapter": "Principles of infectious disease"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.s4",
+   "title": "Antiviral agents",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Antiviral drugs: mechanism, use and toxicity",
+     "columns": [
+      "Drug",
+      "Mechanism",
+      "Main uses",
+      "Key toxicity"
+     ],
+     "rows": [
+      [
+       "**Aciclovir**, valaciclovir (prodrug), famciclovir",
+       "Guanosine analogues; **viral thymidine kinase** phosphorylates them, then they block viral DNA polymerase, so only infected cells are hit",
+       "HSV (IV for encephalitis, 2–3 weeks), VZV (chickenpox, shingles)",
+       "Very little; **crystals in renal tubules** with high-dose IV, so hydrate well"
+      ],
+      [
+       "**Ganciclovir** (IV) / **valganciclovir** (oral)",
+       "Phosphorylated by the CMV UL97 kinase",
+       "**First-line for CMV disease** in the immunosuppressed (reserved for life- or sight-threatening infection)",
+       "**Myelosuppression (neutropenia)**, thrombocytopenia, possible teratogenicity and infertility"
+      ],
+      [
+       "**Foscarnet**",
+       "Pyrophosphate analogue; **needs no phosphorylation**",
+       "Aciclovir-resistant HSV/VZV; ganciclovir-resistant CMV",
+       "Renal impairment, **electrolyte disturbance**, genital ulcers, neurotoxicity"
+      ],
+      [
+       "**Cidofovir**",
+       "Inhibits viral DNA polymerase",
+       "CMV (including most ganciclovir-resistant strains), resistant HSV",
+       "Nephrotoxicity, neutropenia"
+      ],
+      [
+       "**Oseltamivir** (oral), **zanamivir** (inhaled)",
+       "**Neuraminidase inhibitors**: stop release of new virions; influenza A and B",
+       "Treatment within 48 h, and prophylaxis in high-risk groups",
+       "GI upset (oseltamivir); allergy very rare"
+      ],
+      [
+       "**Amantadine**",
+       "Blocks the M2 ion channel (influenza A only)",
+       "Largely obsolete because resistance is widespread",
+       "CNS effects, nausea"
+      ],
+      [
+       "**Ribavirin**",
+       "Nucleoside analogue",
+       "Lassa fever (IV); RSV in infants (inhaled); combination therapy for hepatitis C",
+       "**Haemolytic anaemia**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 148,
+       "page": 126,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 149,
+       "page": 127,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 556,
+       "page": 534,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 141,
+       "page": 119
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Influenza regimens (high-risk patients)",
+     "items": [
+      "**Treatment:** oral oseltamivir 75 mg BD, or zanamivir 10 mg BD by inhaler, for **5 days**; start within 48 h of symptom onset.",
+      "**Post-exposure prophylaxis:** same drugs **once daily for 10 days**, within 48 h of contact.",
+      "Healthy low-risk adults do not need antivirals."
+     ],
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 158,
+       "page": 158
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 159,
+       "page": 159
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 149,
+       "page": 127,
+       "chapter": "Principles of infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Antiretroviral classes (HIV)",
+     "columns": [
+      "Class",
+      "Examples",
+      "Point to remember"
+     ],
+     "rows": [
+      [
+       "NRTIs",
+       "Tenofovir, emtricitabine, lamivudine, abacavir",
+       "Chain terminators of reverse transcription; the backbone of most regimens"
+      ],
+      [
+       "NNRTIs",
+       "Efavirenz, rilpivirine",
+       "Bind reverse transcriptase directly"
+      ],
+      [
+       "Protease inhibitors",
+       "Darunavir, atazanavir",
+       "**Ritonavir** (or cobicistat) is used in low dose as a **booster**"
+      ],
+      [
+       "Integrase inhibitors",
+       "Dolutegravir, raltegravir",
+       "Stop HIV DNA being inserted into the host genome"
+      ],
+      [
+       "Fusion inhibitor / CCR5 blocker",
+       "Enfuvirtide / maraviroc",
+       "Enfuvirtide is the only ARV given by subcutaneous injection"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 92,
+       "page": 55
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 93,
+       "page": 56
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other antiviral facts",
+     "items": [
+      "Start ART in **all** people with HIV regardless of CD4 count: **two NRTIs plus** a boosted protease inhibitor, an NNRTI or an integrase inhibitor. Aim for viral load <50 copies/mL within 3–6 months.",
+      "Hepatitis B: **entecavir and tenofovir** have replaced lamivudine and adefovir because they are more potent and resistance is much rarer.",
+      "Aciclovir does not clear latent virus, so recurrences still happen.",
+      "Palivizumab, a monoclonal antibody, prevents RSV in high-risk infants."
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 93,
+       "page": 56
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 94,
+       "page": 57
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 556,
+       "page": 534,
+       "chapter": "Infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Aciclovir resistance usually comes from **viral thymidine kinase (or polymerase) mutations**. Ganciclovir still needs phosphorylation, so it may also fail. **Foscarnet** does not need activation, so it works against TK-deficient HSV and VZV.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 148,
+       "page": 126,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 149,
+       "page": 127,
+       "chapter": "Principles of infectious disease"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.s5",
+   "title": "Antifungal agents",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Antifungal classes",
+     "columns": [
+      "Class / drug",
+      "Mechanism",
+      "Spectrum and use",
+      "Key toxicity / notes"
+     ],
+     "rows": [
+      [
+       "**Triazoles**: fluconazole",
+       "Block **ergosterol synthesis**; inhibit cytochrome P450",
+       "**Yeasts: Candida and Cryptococcus**; enters CSF; half-life about 30 h",
+       "Some non-albicans Candida are intrinsically resistant; all triazoles can prolong QTc"
+      ],
+      [
+       "Itraconazole",
+       "As above",
+       "Yeasts, dermatophytes, dimorphic fungi, Aspergillus; reaches nails",
+       "Erratic absorption, so needs TDM; poor CSF levels"
+      ],
+      [
+       "**Voriconazole**",
+       "As above",
+       "**Drug of choice for invasive aspergillosis**",
+       "Needs TDM; photosensitivity, hepatitis, visual disturbance"
+      ],
+      [
+       "Posaconazole, isavuconazole",
+       "As above",
+       "Broad, including most **mucoraceous moulds**; posaconazole prophylaxis in high-risk haematology patients",
+       "P450 interactions"
+      ],
+      [
+       "**Echinocandins** (caspofungin, micafungin, anidulafungin)",
+       "Inhibit **beta-1,3-glucan** synthesis in the cell wall",
+       "IV only. **Candidaemia/systemic candidiasis**; caspofungin also for aspergillosis",
+       "**No activity against Cryptococcus or Mucorales**; few side effects"
+      ],
+      [
+       "**Amphotericin B** (polyene)",
+       "**Binds ergosterol** and damages the membrane",
+       "Broadest spectrum, **including Mucorales**; cryptococcal meningitis; empirical in neutropenic fever",
+       "Infusion reactions, **nephrotoxicity** (saline loading helps); lipid/liposomal forms much less toxic"
+      ],
+      [
+       "**Flucytosine**",
+       "Antimetabolite",
+       "Yeasts, in combination with amphotericin",
+       "**Never alone** (rapid resistance); myelosuppression"
+      ],
+      [
+       "Nystatin",
+       "Polyene",
+       "Topical only: oral and vaginal candidiasis",
+       "Too toxic for systemic use"
+      ],
+      [
+       "**Terbinafine**, griseofulvin",
+       "Terbinafine is an allylamine concentrated in skin and sebum",
+       "Dermatophytes; **oral terbinafine for onychomycosis**; griseofulvin still used in children",
+       "Terbinafine hepatotoxicity about 1 in 50 000"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 147,
+       "page": 125,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 148,
+       "page": 126,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 584,
+       "page": 562,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 141,
+       "page": 119
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Choosing an antifungal by infection",
+     "columns": [
+      "Infection",
+      "Choice"
+     ],
+     "rows": [
+      [
+       "Oral/vaginal thrush",
+       "Topical nystatin or clotrimazole; oral fluconazole"
+      ],
+      [
+       "Candidaemia, not neutropenic",
+       "**Echinocandin** (micafungin first line) and **remove the central line**; Candida in blood culture is never a contaminant"
+      ],
+      [
+       "Invasive aspergillosis",
+       "**Voriconazole** (or posaconazole) in preference to amphotericin"
+      ],
+      [
+       "Mucormycosis",
+       "**Surgical debridement + amphotericin B**, later step down to posaconazole or isavuconazole"
+      ],
+      [
+       "Cryptococcal meningitis",
+       "**Amphotericin B ± flucytosine for 2 weeks** (induction), then fluconazole; repeated LPs for raised pressure"
+      ],
+      [
+       "Neutropenic fever still present after ≥4 days of antibiotics",
+       "Add an antifungal: echinocandin, liposomal amphotericin B, voriconazole or posaconazole"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 424,
+       "page": 424
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 425,
+       "page": 425
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 414,
+       "page": 414
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 95,
+       "page": 58
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Know the gaps: **echinocandins miss Cryptococcus and Mucorales**; **fluconazole misses Aspergillus and Mucorales** and some non-albicans Candida; **voriconazole misses Mucorales**. For mucormycosis, think amphotericin (or posaconazole/isavuconazole).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 147,
+       "page": 125,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 584,
+       "page": 562,
+       "chapter": "Infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Azoles **inhibit** cytochrome P450 and so **raise** levels of other drugs. Rifampicin **induces** P450 and **lowers** them. Expect exam questions that pair the two.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 148,
+       "page": 126,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 147,
+       "page": 125,
+       "chapter": "Principles of infectious disease"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.s6",
+   "title": "Antibiotic abuse: resistance and stewardship",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "What drives resistance",
+     "items": [
+      "Antibiotics for **viral infections** and other inappropriate uses.",
+      "**Doses that are too low** and **courses that are too long**.",
+      "Use of antimicrobials as **growth promoters in farming**.",
+      "**Any** antimicrobial use selects for resistance; **broad-spectrum empirical drugs** select more strongly than narrow ones because they touch more bacteria.",
+      "Resistance patterns vary from place to place (e.g. E. coli resistant to trimethoprim in one area, to nitrofurantoin in another), so **follow local guidelines**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 138,
+       "page": 116,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 140,
+       "page": 118,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 143,
+       "page": 143
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Resistance is either **intrinsic** (a natural property of the organism, e.g. M. bovis and pyrazinamide) or **acquired**, by spontaneous mutation or by **horizontal gene transfer**. **Plasmids** often carry resistance to several antibiotics at once and pass easily between Enterobacteriaceae. ESBLs and carbapenemases such as **NDM-1** spread this way.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 138,
+       "page": 116,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 147,
+       "page": 125,
+       "chapter": "Principles of infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Four mechanisms of resistance",
+     "columns": [
+      "Mechanism",
+      "Classic examples"
+     ],
+     "rows": [
+      [
+       "**Enzymatic degradation**",
+       "Staphylococcal penicillinase; ESBL, AmpC and NDM-1 in Enterobacteriaceae; chloramphenicol acetyltransferase"
+      ],
+      [
+       "**Target modification**",
+       "MRSA (altered PBP); VRE (altered peptidoglycan precursor); rifampicin-resistant TB (RNA polymerase mutation); ciprofloxacin resistance (DNA gyrase mutation); linezolid resistance (23S rRNA methylation)"
+      ],
+      [
+       "**Reduced permeability**",
+       "Carbapenem-resistant Pseudomonas (loss of porins); aminoglycosides in anaerobes (uptake needs oxygen)"
+      ],
+      [
+       "**Active efflux**",
+       "Tetracycline resistance; fluconazole resistance in Candida"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 140,
+       "page": 118,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 186,
+       "page": 167,
+       "chapter": "Sepsis and the treatment of bacterial infection"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 140,
+      "page": 118,
+      "chapter": "Principles of infectious disease",
+      "figure": "Fig. 6.16"
+     },
+     "note": "Look at: a bacterial cell showing the four resistance routes (impermeability, efflux, target change, enzyme breakdown), each labelled with a named example."
+    },
+    {
+     "type": "bullets",
+     "title": "Antimicrobial stewardship: “Start Smart – Then Focus”",
+     "items": [
+      "**Start smart:** in life-threatening infection, give empirical (“blind”) therapy immediately, but **take cultures first** and follow local policy.",
+      "**Then focus:** move from empirical to **targeted, narrow-spectrum** therapy as the organism and its sensitivities become known.",
+      "**72-hour review**, with five possible decisions: **stop**, **switch IV to oral**, **change** the drug, **continue IV**, or **OPAT**.",
+      "Switch IV to oral once the patient is **apyrexial and improving**; stop when there is no longer clinical evidence of infection; use the **shortest effective course**.",
+      "Stewardship tools include treatment guidelines, formularies and infection-specialist ward rounds."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 137,
+       "page": 115,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 138,
+       "page": 116,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 140,
+       "page": 118,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 178,
+       "page": 159,
+       "chapter": "Sepsis and the treatment of bacterial infection"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 98,
+       "page": 61
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 139,
+      "page": 117,
+      "chapter": "Principles of infectious disease",
+      "figure": "Fig. 6.15"
+     },
+     "note": "Look at: the three-step “Start Smart – Then Focus” scheme. Knowledge of the organism rises from empirical to targeted to susceptibility-guided therapy, while the spectrum used narrows."
+    },
+    {
+     "type": "bullets",
+     "title": "Prophylaxis without overuse",
+     "items": [
+      "Surgical prophylaxis rarely needs more than **24 hours**; for most operations a **single dose at induction** is enough.",
+      "Endocarditis prophylaxis is **not recommended** for dental, respiratory, GI or GU procedures in the UK."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 180,
+       "page": 161,
+       "chapter": "Sepsis and the treatment of bacterial infection"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 141,
+       "page": 119,
+       "chapter": "Principles of infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Stewardship and infection prevention and control feed each other: **good stewardship cuts health care-associated infections**, and **good infection control cuts the need for antibiotics**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 137,
+       "page": 115,
+       "chapter": "Principles of infectious disease"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.s7",
+   "title": "Harms of misuse: C. difficile and penicillin-allergy labels",
+   "objectiveIdx": [
+    5,
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Clostridioides (Clostridium) difficile** is the **most common diagnosed cause of antibiotic-associated diarrhoea**. Antibiotics upset the colonic flora, and a patient exposed to spores becomes colonised with a toxin-producing strain (**toxins A and B**). Illness ranges from diarrhoea to **pseudomembranous colitis**, toxic dilatation and perforation. About **80% of cases occur in people over 65**. It usually starts in the first week of antibiotics but can appear **up to 6 weeks after they stop**. **Ribotype 027** is hypervirulent and makes more toxin.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 286,
+       "page": 264,
+       "chapter": "Infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Biggest culprits",
+     "items": [
+      "**Second- and third-generation cephalosporins**",
+      "**Co-amoxiclav**",
+      "**Fluoroquinolones** (ciprofloxacin: also linked to ribotype 027)",
+      "**Clindamycin**",
+      "Proton-pump inhibitors may add to the risk."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 142,
+       "page": 120,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 144,
+       "page": 122,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 145,
+       "page": 123,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 77,
+       "page": 40
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Diagnosis",
+     "items": [
+      "Healthy people carry C. difficile (about 5% of adults, up to 20% of elderly care-home residents), so **a positive culture alone is not diagnostic**.",
+      "**Two-step testing:** screen stool with **GDH** (an enzyme the organism makes) or **PCR/NAAT**, then confirm with a **toxin ELISA**.",
+      "Sigmoidoscopy may show adherent yellow-white pseudomembranes.",
+      "In an ill patient, take **abdominal and erect chest X-rays** to exclude toxic dilatation or perforation; CT if in doubt."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 286,
+       "page": 264,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 77,
+       "page": 40
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 286,
+      "page": 264,
+      "chapter": "Infectious disease",
+      "figure": "Fig. 11.27"
+     },
+     "note": "Look at: the colonoscopic view of pseudomembranous colitis, with many raised, adherent yellow-white plaques on the mucosa."
+    },
+    {
+     "type": "table",
+     "title": "Managing C. difficile infection",
+     "columns": [
+      "Step",
+      "Detail"
+     ],
+     "rows": [
+      [
+       "Always",
+       "**Stop the precipitating antibiotic**, **isolate** the patient, give IV fluids"
+      ],
+      [
+       "First-line (Davidson)",
+       "**Oral metronidazole 500 mg three times daily for 10 days** or **oral vancomycin 125 mg four times daily for 7–10 days**"
+      ],
+      [
+       "Severe disease",
+       "Markers: WCC >15 ×10⁹/L, rising creatinine, temperature >38.5 °C, severe colitis. Use **oral vancomycin** and consider surgery early. KC Essentials says some centres use fidaxomicin here, but Davidson’s notes it has not been assessed in severe CDI"
+      ],
+      [
+       "Relapse (15–30%)",
+       "**Fidaxomicin** (fewer relapses than vancomycin) or tapering vancomycin; **faecal microbiota transplant** for repeated relapses"
+      ],
+      [
+       "Refractory",
+       "IV immunoglobulin and/or glucocorticoids are sometimes used"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 286,
+       "page": 264,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 146,
+       "page": 124,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 77,
+       "page": 40
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 78,
+       "page": 41
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Sources differ on first-line CDI treatment.** Davidson’s accepts **oral metronidazole or oral vancomycin**; vancomycin works better against ribotype 027 but costs more and may promote vancomycin resistance. Kumar and KC Essentials keep metronidazole for **mild/moderate** disease and use vancomycin for **severe** disease. Follow Davidson’s, and let severity guide the choice.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 286,
+       "page": 264,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 185,
+       "page": 166,
+       "chapter": "Sepsis and the treatment of bacterial infection"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 77,
+       "page": 40
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "The penicillin-allergy label",
+     "items": [
+      "About 10% of patients say they are allergic to penicillin, but **around 90% of them are not truly IgE-allergic**.",
+      "A wrong label keeps patients from first-choice penicillins, and the alternatives used instead can give **worse outcomes**.",
+      "Always ask **what actually happened**: diarrhoea or nausea is a side effect, not allergy.",
+      "A rash after amoxicillin in **infectious mononucleosis** is very common (about 90% of cases in Kumar) and does **not** mean lasting allergy.",
+      "Refer selected patients for formal allergy testing; **desensitisation** is possible when a penicillin is essential."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 142,
+       "page": 120,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 179,
+       "page": 160,
+       "chapter": "Sepsis and the treatment of bacterial infection"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 182,
+       "page": 163,
+       "chapter": "Sepsis and the treatment of bacterial infection"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 144,
+       "page": 144
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Cross-reactivity figures disagree.** Davidson’s: real cross-reactivity with **1st-generation** cephalosporins, less with 2nd/3rd, and **avoid all cephalosporins after IgE-mediated penicillin allergy**; carbapenems about **1%**; **aztreonam** is least likely to cross-react. KC Essentials still quotes 10% for cephalosporins, Step-Up <2%. Kumar allows cautious cephalosporin, carbapenem or monobactam use in **non-severe** allergy. For the exam, follow Davidson’s.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 142,
+       "page": 120,
+       "chapter": "Principles of infectious disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 99,
+       "page": 62
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1242,
+       "page": 1242
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 179,
+       "page": 160,
+       "chapter": "Sepsis and the treatment of bacterial infection"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Extra hazards in older people",
+     "items": [
+      "More C. difficile and more hypersensitivity (more previous exposure).",
+      "Renal impairment despite a “normal” creatinine: more nephrotoxicity (aminoglycosides, 1st-generation cephalosporins).",
+      "Beta-lactam accumulation can cause myoclonus, seizures or coma.",
+      "Quinolones cause delirium and lower the seizure threshold; reduced hepatic metabolism raises isoniazid hepatotoxicity."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 142,
+       "page": 120,
+       "chapter": "Principles of infectious disease"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "id-antimicrobials.c1",
+   "sectionId": "id-antimicrobials.s1",
+   "front": "How do beta-lactams and glycopeptides differ in the way they stop cell-wall synthesis?",
+   "back": "Beta-lactams competitively inhibit transpeptidases (PBPs). Glycopeptides bind the D-alanine ends of peptidoglycan precursors.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 138,
+     "page": 116,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.c2",
+   "sectionId": "id-antimicrobials.s1",
+   "front": "What is the molecular basis of MRSA?",
+   "back": "_mecA_ encodes PBP2a, a penicillin-binding protein with low beta-lactam affinity, so flucloxacillin cannot block cross-linking.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 138,
+     "page": 116,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 186,
+     "page": 167,
+     "chapter": "Sepsis and the treatment of bacterial infection"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.c3",
+   "sectionId": "id-antimicrobials.s1",
+   "front": "Which MRSA/GRE drug is dangerous with SSRIs, and why?",
+   "back": "Linezolid: it has MAO-inhibitor activity, so serotonin syndrome can result.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 146,
+     "page": 124,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.c4",
+   "sectionId": "id-antimicrobials.s1",
+   "front": "Which Gram-positive agent must not be used for community-acquired pneumonia?",
+   "back": "Daptomycin (also watch the creatine kinase).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 145,
+     "page": 123,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.c5",
+   "sectionId": "id-antimicrobials.s2",
+   "front": "Which cephalosporins cover Pseudomonas aeruginosa?",
+   "back": "Ceftazidime (3rd), cefepime (4th) and ceftobiprole (5th).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 143,
+     "page": 121,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.c6",
+   "sectionId": "id-antimicrobials.s2",
+   "front": "Which penicillin-allergic patients should not get aztreonam?",
+   "back": "Those allergic to ceftazidime, which shares its side chain.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 143,
+     "page": 121,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.c7",
+   "sectionId": "id-antimicrobials.s2",
+   "front": "Which carbapenem is used in meningitis, and why?",
+   "back": "Meropenem. Imipenem and ertapenem can cause seizures.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 182,
+     "page": 163,
+     "chapter": "Sepsis and the treatment of bacterial infection"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.c8",
+   "sectionId": "id-antimicrobials.s2",
+   "front": "How is once-daily gentamicin dosed and monitored?",
+   "back": "7 mg/kg; a level 6–14 h after the dose is plotted on the Hartford nomogram to choose a 24-, 36- or 48-hourly interval.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 144,
+     "page": 122,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.c9",
+   "sectionId": "id-antimicrobials.s2",
+   "front": "Why can trimethoprim raise potassium?",
+   "back": "It is structurally like amiloride (a potassium-sparing diuretic). The risk is highest with ACE inhibitors.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 185,
+     "page": 166,
+     "chapter": "Sepsis and the treatment of bacterial infection"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.c10",
+   "sectionId": "id-antimicrobials.s3",
+   "front": "What must be checked before starting ethambutol?",
+   "back": "Visual acuity (Snellen) and colour vision (Ishihara), because of optic neuritis.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 989,
+     "page": 971,
+     "chapter": "Respiratory disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.c11",
+   "sectionId": "id-antimicrobials.s3",
+   "front": "Define MDR-TB and XDR-TB.",
+   "back": "MDR: resistant to isoniazid + rifampicin. XDR: MDR plus any fluoroquinolone and at least one injectable (amikacin, capreomycin, kanamycin).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 140,
+     "page": 118,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 147,
+     "page": 125
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.c12",
+   "sectionId": "id-antimicrobials.s3",
+   "front": "When should TB drugs be stopped for hepatitis?",
+   "back": "Only if bilirubin rises or transaminases exceed 3× normal; then reintroduce one at a time.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 989,
+     "page": 971,
+     "chapter": "Respiratory disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.c13",
+   "sectionId": "id-antimicrobials.s4",
+   "front": "Why does foscarnet work against aciclovir-resistant HSV?",
+   "back": "It is a pyrophosphate analogue that needs no viral thymidine kinase phosphorylation.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 149,
+     "page": 127,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.c14",
+   "sectionId": "id-antimicrobials.s4",
+   "front": "What is the main toxicity of ganciclovir/valganciclovir?",
+   "back": "Myelosuppression, especially neutropenia.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 149,
+     "page": 127,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 556,
+     "page": 534,
+     "chapter": "Infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.c15",
+   "sectionId": "id-antimicrobials.s5",
+   "front": "Which fungi do echinocandins not cover?",
+   "back": "Cryptococcus and the mucoraceous moulds.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 147,
+     "page": 125,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.c16",
+   "sectionId": "id-antimicrobials.s5",
+   "front": "What is the induction therapy for cryptococcal meningitis?",
+   "back": "Amphotericin B with flucytosine (about 2 weeks), then fluconazole. Flucytosine is never used alone.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 425,
+     "page": 425
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 148,
+     "page": 126,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.c17",
+   "sectionId": "id-antimicrobials.s6",
+   "front": "Name the four mechanisms of antimicrobial resistance.",
+   "back": "Enzymatic degradation, target modification, reduced permeability, active efflux.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 140,
+     "page": 118,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.c18",
+   "sectionId": "id-antimicrobials.s6",
+   "front": "What are the five options at the 72-hour antibiotic review?",
+   "back": "Stop, switch IV to oral, change, continue IV, or OPAT.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 178,
+     "page": 159,
+     "chapter": "Sepsis and the treatment of bacterial infection"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.c19",
+   "sectionId": "id-antimicrobials.s7",
+   "front": "Why is a toxin test needed to diagnose C. difficile infection?",
+   "back": "Asymptomatic carriage is common, so only toxin A/B detection (after a GDH or PCR screen) confirms disease.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 286,
+     "page": 264,
+     "chapter": "Infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.c20",
+   "sectionId": "id-antimicrobials.s7",
+   "front": "Which antibiotics carry the highest C. difficile risk?",
+   "back": "2nd/3rd-generation cephalosporins, co-amoxiclav, fluoroquinolones and clindamycin.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 142,
+     "page": 120,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 144,
+     "page": 122,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "id-antimicrobials.q1",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the most suitable option from the list. An option may fit several patients, one patient or none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Antibiotics for Gram-positive infections",
+   "options": [
+    "Benzylpenicillin",
+    "Flucloxacillin",
+    "Amoxicillin",
+    "Intravenous vancomycin",
+    "Linezolid",
+    "Daptomycin",
+    "Clindamycin",
+    "Clarithromycin",
+    "Rifampicin alone",
+    "Ceftazidime"
+   ],
+   "items": [
+    {
+     "stem": "A 34-year-old man who injects drugs has fever and a new murmur. Blood cultures grow Staphylococcus aureus that is sensitive to meticillin. He has no drug allergies.",
+     "answer": 1,
+     "explanation": "Meticillin-sensitive Staph. aureus: a **penicillinase-resistant penicillin (flucloxacillin)** is the mainstay. Benzylpenicillin fails because most staphylococci make penicillinase.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s1"
+     }
+    },
+    {
+     "stem": "A 72-year-old woman on haemodialysis has rigors during dialysis. Blood cultures from her tunnelled line grow meticillin-resistant Staph. aureus. She needs an intravenous agent, and drug levels can be monitored on the unit.",
+     "answer": 3,
+     "explanation": "MRSA bacteraemia: **IV vancomycin**, with pre-dose levels kept above 10 mg/L (15–20 mg/L in serious staphylococcal infection). Flucloxacillin is useless against MRSA because of PBP2a.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s1"
+     }
+    },
+    {
+     "stem": "A 58-year-old man has a central-line bacteraemia with Enterococcus faecium resistant to vancomycin and teicoplanin. He takes high-dose sertraline for severe depression that his psychiatrist does not want stopped. An IV bactericidal agent is chosen.",
+     "answer": 5,
+     "explanation": "Two steps: (1) glycopeptide-resistant enterococci are treated with linezolid, tigecycline or daptomycin; (2) linezolid has MAO-inhibitor activity and with an SSRI risks serotonin syndrome. So **daptomycin**, a bactericidal IV lipopeptide, is chosen.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 139,
+     "page": 117,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 143,
+     "page": 121,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 145,
+     "page": 123,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 146,
+     "page": 124,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q2",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the most suitable option from the list. An option may fit several patients, one patient or none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 3,
+   "theme": "Choosing agents for Gram-negative infections",
+   "options": [
+    "Amoxicillin",
+    "Co-amoxiclav",
+    "Ceftriaxone",
+    "Ceftazidime",
+    "Aztreonam",
+    "Meropenem",
+    "Ertapenem",
+    "Imipenem–cilastatin",
+    "Gentamicin",
+    "Ciprofloxacin",
+    "Colistin",
+    "Metronidazole"
+   ],
+   "items": [
+    {
+     "stem": "A 66-year-old woman with pyelonephritis grows an ESBL-producing E. coli. She is now stable and is to finish 10 more days of IV therapy at home through the outpatient (OPAT) service, which needs a once-daily drug.",
+     "answer": 6,
+     "explanation": "Serious ESBL infection needs a carbapenem, and **ertapenem** is given once daily, so it suits OPAT. Its lack of Pseudomonas cover does not matter here.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s2"
+     }
+    },
+    {
+     "stem": "A 50-year-old man had anaphylaxis to amoxicillin last year. He now has a Pseudomonas aeruginosa pneumonia. He has never had ceftazidime. A beta-lactam is wanted.",
+     "answer": 4,
+     "explanation": "**Aztreonam** is the beta-lactam least likely to cross-react in penicillin allergy and covers aerobic Gram-negatives including Pseudomonas. Cephalosporins are avoided after IgE-mediated penicillin allergy.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s2"
+     }
+    },
+    {
+     "stem": "A 45-year-old woman develops meningitis after neurosurgery. The CSF grows an ESBL-producing Klebsiella pneumoniae. A carbapenem is needed, and she has had a seizure before.",
+     "answer": 5,
+     "explanation": "Two steps: ESBL means a carbapenem; in CNS infection, imipenem and ertapenem lower the seizure threshold, so **meropenem** is the carbapenem used for meningitis.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s2"
+     }
+    },
+    {
+     "stem": "A 61-year-old man in ICU has ventilator pneumonia caused by a carbapenemase-producing Acinetobacter baumannii, resistant to all beta-lactams and to ciprofloxacin and gentamicin.",
+     "answer": 10,
+     "explanation": "**Colistin** disrupts the Gram-negative outer membrane and remains active against Acinetobacter and carbapenemase producers. It is a last-resort drug: watch kidneys and nerves.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 139,
+     "page": 117,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 142,
+     "page": 120,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 143,
+     "page": 121,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 145,
+     "page": 123,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 182,
+     "page": 163,
+     "chapter": "Sepsis and the treatment of bacterial infection"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 186,
+     "page": 167,
+     "chapter": "Sepsis and the treatment of bacterial infection"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 41-year-old man started standard quadruple therapy for pulmonary tuberculosis 7 weeks ago. He now says his vision is blurred and he can no longer tell red from green on traffic lights.",
+   "leadIn": "Which drug is most likely responsible?",
+   "options": [
+    "Isoniazid",
+    "Rifampicin",
+    "Pyrazinamide",
+    "Ethambutol",
+    "Pyridoxine"
+   ],
+   "answer": 3,
+   "explanation": "**Ethambutol** causes optic (retrobulbar) neuritis with red–green colour loss and reduced acuity. Acuity and colour vision should be checked before starting; stopping the drug usually lets vision recover.",
+   "whyNot": [
+    "Isoniazid causes peripheral neuropathy and hepatitis, not optic neuritis with colour loss.",
+    "Rifampicin colours tears orange but does not damage the optic nerve.",
+    "Pyrazinamide causes hepatitis, raised urate and arthralgia.",
+    "",
+    "Pyridoxine is given to prevent isoniazid neuropathy; it does not cause visual loss."
+   ],
+   "studyRef": {
+    "sectionId": "id-antimicrobials.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 147,
+     "page": 125,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 989,
+     "page": 971,
+     "chapter": "Respiratory disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 60-year-old man is in the second month of treatment for pulmonary tuberculosis. He wakes with a hot, swollen and exquisitely tender first metatarsophalangeal joint. Serum urate is raised.",
+   "leadIn": "Which drug is most likely responsible?",
+   "options": [
+    "Isoniazid",
+    "Rifampicin",
+    "Pyrazinamide",
+    "Ethambutol",
+    "Pyridoxine"
+   ],
+   "answer": 2,
+   "explanation": "**Pyrazinamide** raises serum uric acid and can trigger acute gout. It is given only in the 2-month initial phase.",
+   "whyNot": [
+    "Isoniazid causes hepatitis and peripheral neuropathy, not hyperuricaemia.",
+    "Rifampicin causes orange secretions, enzyme induction and hepatitis.",
+    "",
+    "Ethambutol mainly causes optic neuritis.",
+    "Pyridoxine prevents isoniazid neuropathy and does not affect urate."
+   ],
+   "studyRef": {
+    "sectionId": "id-antimicrobials.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 147,
+     "page": 125,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 581,
+     "page": 544
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q5",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the most suitable option from the list. An option may fit several patients, one patient or none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Antiviral agents",
+   "options": [
+    "Intravenous aciclovir",
+    "Oral valaciclovir",
+    "Intravenous ganciclovir",
+    "Oral valganciclovir",
+    "Foscarnet",
+    "Famciclovir",
+    "Oseltamivir",
+    "Inhaled zanamivir",
+    "Amantadine",
+    "Intravenous ribavirin",
+    "Entecavir",
+    "Palivizumab"
+   ],
+   "items": [
+    {
+     "stem": "A 30-year-old woman has 2 days of fever, headache, odd behaviour and a seizure. CSF PCR is positive for herpes simplex virus.",
+     "answer": 0,
+     "explanation": "HSV encephalitis is treated with **IV aciclovir** for 2–3 weeks. Oral prodrugs are not used for encephalitis.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s4"
+     }
+    },
+    {
+     "stem": "A 39-year-old man with advanced HIV (CD4 25 cells/mm³) has painful genital herpes ulcers that have kept growing despite high-dose aciclovir. The lab finds a viral thymidine kinase mutation.",
+     "answer": 4,
+     "explanation": "Two steps: TK mutation means aciclovir (and ganciclovir) cannot be activated; **foscarnet** needs no phosphorylation, so it works against TK-deficient HSV.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s4"
+     }
+    },
+    {
+     "stem": "A 52-year-old kidney transplant recipient has rising CMV viraemia with fever and leucopenia. He is well enough to go home and can swallow tablets.",
+     "answer": 3,
+     "explanation": "CMV is treated with ganciclovir; the **oral prodrug valganciclovir** suits an outpatient. Watch for neutropenia.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s4"
+     }
+    },
+    {
+     "stem": "A 35-year-old aid worker becomes febrile and unwell after returning from rural Sierra Leone. Lassa fever is confirmed by the reference laboratory.",
+     "answer": 9,
+     "explanation": "**IV ribavirin** is the antiviral for Lassa fever. Its most frequent adverse effect is haemolytic anaemia.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 141,
+     "page": 119,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 148,
+     "page": 126,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 149,
+     "page": 127,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 556,
+     "page": 534,
+     "chapter": "Infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 48-year-old man is in week 2 of chemotherapy-induced neutropenia for acute myeloid leukaemia. He develops fever, cough and haemoptysis. CT chest shows new nodules, and bronchoalveolar lavage grows Aspergillus fumigatus.",
+   "leadIn": "Which drug is the preferred treatment?",
+   "options": [
+    "Fluconazole",
+    "Voriconazole",
+    "Nystatin",
+    "Terbinafine",
+    "Griseofulvin"
+   ],
+   "answer": 1,
+   "explanation": "This is invasive pulmonary aspergillosis. **Voriconazole** is the main drug for aspergillosis (needs drug-level monitoring; watch for visual disturbance, photosensitivity and hepatitis).",
+   "whyNot": [
+    "Fluconazole covers yeasts (Candida, Cryptococcus) but not Aspergillus.",
+    "",
+    "Nystatin is too toxic for systemic use and is only topical.",
+    "Terbinafine is for dermatophyte skin and nail infection.",
+    "Griseofulvin is a dermatophyte drug used mainly in children."
+   ],
+   "studyRef": {
+    "sectionId": "id-antimicrobials.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 148,
+     "page": 126,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 425,
+     "page": 425
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 32-year-old man with untreated HIV (CD4 40 cells/mm³) has 2 weeks of headache and fever. CSF opening pressure is raised and India ink stain shows encapsulated yeasts.",
+   "leadIn": "What is the most appropriate initial antifungal treatment?",
+   "options": [
+    "Fluconazole alone",
+    "Caspofungin",
+    "Amphotericin B plus flucytosine",
+    "Flucytosine alone",
+    "Topical nystatin"
+   ],
+   "answer": 2,
+   "explanation": "Cryptococcal meningitis needs induction with **amphotericin B plus flucytosine** (about 2 weeks), then fluconazole, with repeated LPs for raised pressure.",
+   "whyNot": [
+    "Fluconazole is used for consolidation after induction, not alone as first treatment of severe meningitis.",
+    "Echinocandins have no activity against Cryptococcus.",
+    "",
+    "Flucytosine alone leads quickly to resistance and must always be combined.",
+    "Nystatin is topical only."
+   ],
+   "studyRef": {
+    "sectionId": "id-antimicrobials.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 147,
+     "page": 125,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 148,
+     "page": 126,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 425,
+     "page": 425
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 584,
+     "page": 562,
+     "chapter": "Infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 63-year-old man was started on IV co-amoxiclav for community-acquired pneumonia. At 72 hours he has been apyrexial for 36 hours, is eating, and his CRP is falling. Blood cultures grew Streptococcus pneumoniae fully sensitive to penicillin.",
+   "leadIn": "What is the best antibiotic decision now?",
+   "options": [
+    "Continue IV co-amoxiclav for 14 days",
+    "Change to IV meropenem",
+    "Switch to oral amoxicillin",
+    "Add IV vancomycin",
+    "Add oral ciprofloxacin"
+   ],
+   "answer": 2,
+   "explanation": "“Start Smart – Then Focus”: at the 72-hour review he is improving and the organism is known, so **switch IV to oral and narrow the spectrum** (oral amoxicillin).",
+   "whyNot": [
+    "Staying on broad IV therapy adds line risks and selection pressure with no benefit.",
+    "Escalating to a carbapenem is the opposite of stewardship and is not needed.",
+    "",
+    "There is no MRSA, so vancomycin adds toxicity only.",
+    "Ciprofloxacin is weak against pneumococci and strongly linked to C. difficile."
+   ],
+   "studyRef": {
+    "sectionId": "id-antimicrobials.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 138,
+     "page": 116,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 140,
+     "page": 118,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 178,
+     "page": 159,
+     "chapter": "Sepsis and the treatment of bacterial infection"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 145,
+     "page": 123
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A Pseudomonas aeruginosa isolate from a ventilated patient is resistant to meropenem. Molecular testing finds no carbapenemase gene, but expression of an outer-membrane porin is markedly reduced.",
+   "leadIn": "Which resistance mechanism is this?",
+   "options": [
+    "Enzymatic inactivation of the drug",
+    "Altered penicillin-binding protein",
+    "Reduced permeability of the cell envelope",
+    "Altered peptidoglycan precursor",
+    "DNA gyrase mutation"
+   ],
+   "answer": 2,
+   "explanation": "Carbapenem resistance in Pseudomonas is the textbook example of **reduced permeability** (loss of porins); increased efflux may add to it.",
+   "whyNot": [
+    "There is no carbapenemase, so the drug is not being destroyed.",
+    "Altered PBP is the MRSA mechanism.",
+    "",
+    "D-Ala-D-Lac precursors explain VRE.",
+    "Gyrase mutations cause quinolone resistance."
+   ],
+   "studyRef": {
+    "sectionId": "id-antimicrobials.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 140,
+     "page": 118,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 186,
+     "page": 167,
+     "chapter": "Sepsis and the treatment of bacterial infection"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q10",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the most suitable option from the list. An option may fit several patients, one patient or none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Next step in suspected C. difficile infection",
+   "options": [
+    "Stool toxin assay",
+    "Stool culture alone",
+    "Oral metronidazole",
+    "Oral vancomycin",
+    "Intravenous vancomycin",
+    "Fidaxomicin",
+    "Faecal microbiota transplant",
+    "Abdominal and erect chest X-ray",
+    "Loperamide",
+    "No test needed"
+   ],
+   "items": [
+    {
+     "stem": "An 81-year-old care-home resident has had watery diarrhoea 5 times a day since finishing cefuroxime a week ago. The stool glutamate dehydrogenase (GDH) screen is positive.",
+     "answer": 0,
+     "explanation": "GDH only shows the organism is present, and carriage is common in the elderly. A positive screen must be confirmed by a **toxin assay**.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s7"
+     }
+    },
+    {
+     "stem": "A 70-year-old man has toxin-positive C. difficile infection. Temperature 38.9 °C, WCC 23 ×10⁹/L and creatinine rising from his baseline. The abdomen is soft and not distended.",
+     "answer": 3,
+     "explanation": "Fever >38.5 °C, WCC >15 and rising creatinine mark **severe** disease, so give **oral vancomycin**. Davidson’s notes that fidaxomicin has not been assessed in severe CDI.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s7"
+     }
+    },
+    {
+     "stem": "A 68-year-old woman has her third episode of C. difficile infection in 6 months, despite courses of vancomycin and then fidaxomicin.",
+     "answer": 6,
+     "explanation": "Repeated relapses after vancomycin and fidaxomicin: **faecal microbiota transplant** restores a healthy colonic flora.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s7"
+     }
+    },
+    {
+     "stem": "A 77-year-old man with toxin-positive C. difficile infection becomes unwell. His stool frequency has fallen, but his abdomen is distended and tender and his pulse is 120/min.",
+     "answer": 7,
+     "explanation": "Two steps: fewer stools with a distended abdomen in CDI suggests ileus or toxic dilatation, not recovery. Take **abdominal and erect chest X-rays** to look for dilatation or perforation.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 286,
+     "page": 264,
+     "chapter": "Infectious disease"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 77,
+     "page": 40
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 78,
+     "page": 41
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 146,
+     "page": 124
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q11",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the most suitable option from the list. An option may fit several patients, one patient or none.",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Drugs causing adverse effects",
+   "options": [
+    "Vancomycin",
+    "Gentamicin",
+    "Linezolid",
+    "Ciprofloxacin",
+    "Clarithromycin",
+    "Metronidazole",
+    "Trimethoprim",
+    "Chloramphenicol",
+    "Daptomycin",
+    "Amphotericin B",
+    "Voriconazole",
+    "Isoniazid",
+    "Ganciclovir",
+    "Rifampicin"
+   ],
+   "items": [
+    {
+     "stem": "A 77-year-old man on long-term prednisolone for polymyalgia is treated for a urinary infection. On day 4 he feels a sudden snap at the back of his ankle while climbing stairs.",
+     "answer": 3,
+     "explanation": "Achilles tendon rupture is a classic **fluoroquinolone (ciprofloxacin)** effect, with older age and corticosteroids raising the risk.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s2"
+     }
+    },
+    {
+     "stem": "During a 20-minute infusion for MRSA bacteraemia, a 45-year-old woman develops flushing and itching over her face, neck and upper chest. Blood pressure is stable.",
+     "answer": 0,
+     "explanation": "Too-rapid **vancomycin** infusion releases histamine: the “red man” reaction. Slow the infusion.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s1"
+     }
+    },
+    {
+     "stem": "A 40-year-old man being treated for a Bacteroides liver abscess vomits violently and flushes after drinking beer at a party.",
+     "answer": 5,
+     "explanation": "**Metronidazole** causes a disulfiram-like (Antabuse) reaction with alcohol.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s2"
+     }
+    },
+    {
+     "stem": "A 69-year-old man on ramipril for heart failure is treated for a lower urinary tract infection. Five days later his potassium is 6.3 mmol/L.",
+     "answer": 6,
+     "explanation": "**Trimethoprim** is structurally like amiloride and blocks potassium excretion; the ACE inhibitor adds to it.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 145,
+     "page": 123,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 146,
+     "page": 124,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 183,
+     "page": 164,
+     "chapter": "Sepsis and the treatment of bacterial infection"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 185,
+     "page": 166,
+     "chapter": "Sepsis and the treatment of bacterial infection"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 59-year-old man is receiving IV daptomycin for MRSA tricuspid endocarditis. After 2 weeks he reports aching, weak thigh muscles.",
+   "leadIn": "Which blood test is most useful?",
+   "options": [
+    "Creatine kinase",
+    "Serum amylase",
+    "Thyroid-stimulating hormone",
+    "Serum urate",
+    "Vitamin B12"
+   ],
+   "answer": 0,
+   "explanation": "Daptomycin can raise **creatine kinase**, so CK is the test to check in a patient with muscle symptoms.",
+   "whyNot": [
+    "",
+    "Amylase is for pancreatitis, not a daptomycin effect.",
+    "Hypothyroidism can cause myopathy but is not the drug-related cause here.",
+    "Raised urate is a pyrazinamide effect.",
+    "B12 is relevant to neuropathy, not this drug-related myalgia."
+   ],
+   "studyRef": {
+    "sectionId": "id-antimicrobials.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 145,
+     "page": 123,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A foundation doctor asks why gentamicin is now given as a single large daily dose rather than small doses three times a day.",
+   "leadIn": "Which is the best explanation?",
+   "options": [
+    "Its killing depends on the time the level stays above the MIC",
+    "Its killing rises with the peak level relative to the MIC",
+    "A single dose achieves useful CSF levels",
+    "It loses activity when bacterial numbers are high",
+    "Divided doses cause less drug accumulation"
+   ],
+   "answer": 1,
+   "explanation": "Aminoglycosides show **concentration-dependent killing**: efficacy increases with Cmax : MIC. A high once-daily dose also lets levels fall between doses, which lowers toxicity.",
+   "whyNot": [
+    "Time above MIC drives beta-lactams and vancomycin, not aminoglycosides.",
+    "",
+    "Aminoglycoside CSF penetration is negligible whatever the regimen.",
+    "Aminoglycosides are not subject to an inoculum effect; beta-lactams are.",
+    "High once-daily dosing reduces accumulation and toxicity, not divided dosing."
+   ],
+   "studyRef": {
+    "sectionId": "id-antimicrobials.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 140,
+     "page": 118,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 141,
+     "page": 119,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 144,
+     "page": 122,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 28-year-old woman who is 9 weeks pregnant needs an antibiotic.",
+   "leadIn": "Which drug is contraindicated at this stage of pregnancy?",
+   "options": [
+    "Amoxicillin",
+    "Cefalexin",
+    "Erythromycin",
+    "Trimethoprim",
+    "Clindamycin"
+   ],
+   "answer": 3,
+   "explanation": "**Trimethoprim** is a folate antagonist and is teratogenic in the first trimester. Penicillins, cephalosporins, erythromycin and clindamycin are not known to be harmful.",
+   "whyNot": [
+    "Penicillins are not known to be harmful in pregnancy.",
+    "Cephalosporins are not known to be harmful.",
+    "Erythromycin is listed as not known to be harmful.",
+    "",
+    "Clindamycin is listed as not known to be harmful."
+   ],
+   "studyRef": {
+    "sectionId": "id-antimicrobials.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 142,
+     "page": 120,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A sputum isolate of Mycobacterium tuberculosis is reported as “MDR”.",
+   "leadIn": "Which resistance pattern does this term mean?",
+   "options": [
+    "Rifampicin alone",
+    "Isoniazid and rifampicin",
+    "Isoniazid, rifampicin, a fluoroquinolone and an injectable agent",
+    "All four first-line drugs",
+    "Isoniazid alone"
+   ],
+   "answer": 1,
+   "explanation": "**MDR-TB = resistance to at least isoniazid and rifampicin.** Add a fluoroquinolone and at least one injectable and it becomes XDR-TB.",
+   "whyNot": [
+    "Rifampicin mono-resistance is not MDR by definition.",
+    "",
+    "That pattern defines XDR-TB.",
+    "MDR does not need resistance to pyrazinamide or ethambutol.",
+    "Isoniazid mono-resistance is not MDR."
+   ],
+   "studyRef": {
+    "sectionId": "id-antimicrobials.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 140,
+     "page": 118,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 453,
+     "page": 453
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q16",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the most suitable option from the list. An option may fit several patients, one patient or none.",
+   "pool": "worked",
+   "difficulty": 2,
+   "theme": "Matching organism to antibiotic",
+   "options": [
+    "Benzylpenicillin",
+    "Flucloxacillin",
+    "Amoxicillin",
+    "Co-amoxiclav",
+    "Ceftriaxone",
+    "Piperacillin–tazobactam",
+    "Meropenem",
+    "Vancomycin",
+    "Gentamicin",
+    "Azithromycin",
+    "Metronidazole",
+    "Colistin"
+   ],
+   "items": [
+    {
+     "stem": "A 55-year-old man develops high fever, confusion and a dry cough a few days after staying at a hotel where a cooling-tower outbreak has been reported. His urinary Legionella antigen test is positive. He wants a short oral course.",
+     "answer": 9,
+     "explanation": "Step 1: a hotel cooling-tower outbreak and a positive urinary Legionella antigen identify **Legionella pneumophila**. Step 2: Legionella is treated with a macrolide (**azithromycin**), levofloxacin or doxycycline, not with beta-lactams; azithromycin is the only one of these offered here.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s2"
+     }
+    },
+    {
+     "stem": "A 25-year-old woman has spreading, well-demarcated erythema of the leg. Swab of a skin break grows group A beta-haemolytic Streptococcus (Strep. pyogenes). She is not allergic to anything.",
+     "answer": 0,
+     "explanation": "Step 1: identify the organism, Strep. pyogenes. Step 2: it has stayed **penicillin-sensitive worldwide**, so plain **benzylpenicillin** is the narrowest effective choice; there is no need for broader cover.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s1"
+     }
+    },
+    {
+     "stem": "A 64-year-old ventilated man has a hospital-acquired pneumonia. Sputum grows Pseudomonas aeruginosa sensitive to piperacillin–tazobactam and meropenem; there is no ESBL. A single beta-lactam is wanted.",
+     "answer": 5,
+     "explanation": "Step 1: the organism is Pseudomonas, which rules out amoxicillin, co-amoxiclav and ceftriaxone, and a beta-lactam is wanted, which rules out gentamicin and colistin. Step 2: of the two active beta-lactams, choose the narrower one and keep the carbapenem in reserve: **piperacillin–tazobactam**. Meropenem would work, but there is no ESBL to justify it.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 139,
+     "page": 117,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 143,
+     "page": 121,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 144,
+     "page": 144
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 605,
+     "page": 583
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 606,
+     "page": 584
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 178,
+     "page": 159
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q17",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 30-year-old woman admitted with cellulitis has “penicillin allergy” on her chart. Asked what happened, she says she had a widespread itchy rash at age 16 when she was given amoxicillin for a sore throat that turned out to be glandular fever. She has had no reaction since.",
+   "leadIn": "What is the best interpretation of her label?",
+   "options": [
+    "A true IgE-mediated allergy; avoid all beta-lactams for life",
+    "An aminopenicillin rash linked to infectious mononucleosis, not proof of lasting allergy",
+    "A cephalosporin will cross-react in about half of such patients",
+    "Only aztreonam may be used for her cellulitis",
+    "She must be desensitised before any penicillin is given"
+   ],
+   "answer": 1,
+   "explanation": "Reason it through: (1) Ask what the reaction was and when. (2) A rash with amoxicillin during **infectious mononucleosis** is extremely common and **does not mean lasting allergy**. (3) Most reported penicillin allergies (around 90%) are not IgE-mediated, and a wrong label drives broader, worse treatment. She should be referred for formal allergy assessment and the label reviewed.",
+   "whyNot": [
+    "There was no anaphylaxis, urticaria with angioedema or wheeze, and the context explains the rash.",
+    "",
+    "Cross-reactivity with cephalosporins is far lower than this, even in true allergy.",
+    "Aztreonam is for proven severe allergy and has no Gram-positive cover, so it would fail in streptococcal cellulitis.",
+    "Desensitisation is for confirmed allergy when a penicillin is essential, not for a doubtful label."
+   ],
+   "studyRef": {
+    "sectionId": "id-antimicrobials.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 142,
+     "page": 120,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 179,
+     "page": 160,
+     "chapter": "Sepsis and the treatment of bacterial infection"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 182,
+     "page": 163,
+     "chapter": "Sepsis and the treatment of bacterial infection"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 144,
+     "page": 144
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q18",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the most suitable option from the list. An option may fit several patients, one patient or none.",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Choosing an antifungal agent",
+   "options": [
+    "Fluconazole",
+    "Itraconazole",
+    "Voriconazole",
+    "Posaconazole",
+    "Caspofungin",
+    "Amphotericin B",
+    "Flucytosine",
+    "Nystatin suspension",
+    "Oral terbinafine",
+    "Griseofulvin",
+    "Clotrimazole cream"
+   ],
+   "items": [
+    {
+     "stem": "A 52-year-old man has had thickened, yellow, crumbling toenails for 2 years. Nail clippings grow Trichophyton rubrum.",
+     "answer": 8,
+     "explanation": "Dermatophyte onychomycosis: **oral terbinafine**, which concentrates in skin, sebum and nail. Rarely it causes liver toxicity.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s5"
+     }
+    },
+    {
+     "stem": "A 67-year-old woman in ICU after bowel surgery has fever and needs vasopressors. Blood cultures from her central line grow Candida glabrata. She is not neutropenic.",
+     "answer": 4,
+     "explanation": "Candidaemia in an unstable, non-neutropenic patient: an **echinocandin** (e.g. caspofungin) plus removal of the central line. Fluconazole is considered only in stable patients without prior azole exposure, and some non-albicans species are intrinsically resistant to it.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s5"
+     }
+    },
+    {
+     "stem": "A 44-year-old woman recovering from diabetic ketoacidosis develops facial pain and swelling with necrotic ulceration inside the nose. Sinus biopsy grows Rhizopus. She has had surgical debridement.",
+     "answer": 5,
+     "explanation": "Two steps: Rhizopus after DKA means **mucormycosis**; Mucorales are missed by voriconazole and echinocandins, so first-line is debridement plus **amphotericin B**.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s5"
+     }
+    },
+    {
+     "stem": "A 73-year-old man who uses a steroid inhaler for COPD has white plaques on his tongue that scrape off, leaving a red base. He takes several drugs metabolised by cytochrome P450, and the pharmacist asks for a treatment that will not raise their levels.",
+     "answer": 7,
+     "explanation": "Two steps: (1) oral thrush can be treated topically or with an oral azole; (2) azoles inhibit cytochrome P450 and raise levels of other drugs, so choose topical **nystatin** suspension, which is not absorbed from the mouth (it is too toxic for systemic use).",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 147,
+     "page": 125,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 148,
+     "page": 126,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 424,
+     "page": 424
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 425,
+     "page": 425
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 584,
+     "page": 562
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q19",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the most suitable option from the list. An option may fit several patients, one patient or none.",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Choosing a mycobacterial treatment regimen",
+   "options": [
+    "Isoniazid plus rifampicin for 3 months",
+    "Isoniazid, rifampicin, pyrazinamide and ethambutol for 2 months, then isoniazid and rifampicin for 4 months",
+    "The same four-drug start, with total treatment extended to 12 months",
+    "Ethambutol, rifabutin and clarithromycin",
+    "Isoniazid, rifampicin and ethambutol, without pyrazinamide",
+    "A second-line regimen built on a fluoroquinolone, an injectable agent and linezolid",
+    "Isoniazid alone for 2 weeks",
+    "Rifampicin alone for 6 months",
+    "No antimycobacterial treatment"
+   ],
+   "items": [
+    {
+     "stem": "A 36-year-old man with untreated HIV (CD4 30 cells/mm³) has fever, night sweats, weight loss and anaemia. Blood cultures grow Mycobacterium avium-intracellulare.",
+     "answer": 3,
+     "explanation": "Disseminated **M. avium-intracellulare** in advanced HIV resists standard TB therapy and is treated with **ethambutol, rifabutin and clarithromycin**.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s3"
+     }
+    },
+    {
+     "stem": "A 48-year-old dairy farmer who drinks unpasteurised milk has a chronically enlarged cervical lymph node. Culture grows Mycobacterium bovis.",
+     "answer": 4,
+     "explanation": "Two steps: the organism is **M. bovis**, which is intrinsically resistant to pyrazinamide, so the regimen is **isoniazid, rifampicin and ethambutol**.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s3"
+     }
+    },
+    {
+     "stem": "A 29-year-old woman has 3 weeks of headache, fever and drowsiness. CSF culture grows Mycobacterium tuberculosis fully sensitive to first-line drugs.",
+     "answer": 2,
+     "explanation": "Tuberculous meningitis is treated with the standard four-drug start but for **12 months in total**, not 6.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s3"
+     }
+    },
+    {
+     "stem": "A 40-year-old man with pulmonary TB has sputum showing resistance to both isoniazid and rifampicin, with fluoroquinolones still active.",
+     "answer": 5,
+     "explanation": "Resistance to isoniazid and rifampicin is **MDR-TB**, which needs a specialist **second-line regimen** (e.g. a fluoroquinolone, an injectable such as amikacin, and linezolid).",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 140,
+     "page": 118,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 141,
+     "page": 119,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 147,
+     "page": 125,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 97,
+     "page": 60
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 989,
+     "page": 971,
+     "chapter": "Respiratory disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q20",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 71-year-old man with COPD develops fever, myalgia and cough during a local influenza outbreak. Symptoms started 30 hours ago. He is not hypoxic.",
+   "leadIn": "What is the most appropriate antiviral management?",
+   "options": [
+    "Oral oseltamivir 75 mg twice daily for 5 days",
+    "Oral amantadine",
+    "Oral aciclovir",
+    "Oral oseltamivir 75 mg once daily for 10 days",
+    "No antiviral, as he presented after 24 hours"
+   ],
+   "answer": 0,
+   "explanation": "He is high-risk (chronic lung disease) and within 48 hours of onset, so he should get **treatment-dose oseltamivir, 75 mg twice daily for 5 days**. The neuraminidase inhibitor stops new virus being released from infected cells.",
+   "whyNot": [
+    "",
+    "Amantadine is no longer recommended because resistance is widespread and it covers influenza A only.",
+    "Aciclovir is for herpesviruses and has no anti-influenza activity.",
+    "Once daily for 10 days is the post-exposure prophylaxis regimen, not treatment.",
+    "The treatment window is 48 hours, not 24."
+   ],
+   "studyRef": {
+    "sectionId": "id-antimicrobials.s4"
+   },
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "pdfPage": 158,
+     "page": 158
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 159,
+     "page": 159
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 149,
+     "page": 127,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q21",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 57-year-old woman on citalopram has been taking oral linezolid for 5 days for an MRSA wound infection. She becomes agitated and sweaty, with tremor, inducible clonus and a temperature of 38.6 °C.",
+   "leadIn": "Which property of linezolid explains this?",
+   "options": [
+    "Cytochrome P450 induction",
+    "Monoamine oxidase inhibition",
+    "QT prolongation",
+    "Histamine release",
+    "Dopamine receptor blockade"
+   ],
+   "answer": 1,
+   "explanation": "Linezolid has **MAO-inhibitor activity**; with an SSRI it can cause **serotonin syndrome** (agitation, clonus, hyperthermia).",
+   "whyNot": [
+    "Linezolid does not induce P450; rifampicin is the classic inducer.",
+    "",
+    "QT prolongation is a macrolide or fluoroquinolone problem and would not cause clonus.",
+    "Histamine release is the vancomycin “red man” reaction.",
+    "Linezolid has no dopamine-blocking action."
+   ],
+   "studyRef": {
+    "sectionId": "id-antimicrobials.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 146,
+     "page": 124,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 1249,
+     "page": 1249
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q22",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 3,
+   "stem": "A 66-year-old man with bronchiectasis grows Pseudomonas aeruginosa. Two years ago he had anaphylaxis during an infusion of ceftazidime. He has never reacted to penicillins.",
+   "leadIn": "Which antipseudomonal agent should be avoided?",
+   "options": [
+    "Aztreonam",
+    "Ciprofloxacin",
+    "Gentamicin",
+    "Colistin",
+    "Amikacin"
+   ],
+   "answer": 0,
+   "explanation": "**Aztreonam** shares a side chain with **ceftazidime**, so a ceftazidime-allergic patient may react to it. This is the one important exception to aztreonam’s safety in beta-lactam allergy.",
+   "whyNot": [
+    "",
+    "Ciprofloxacin is not a beta-lactam and covers Pseudomonas.",
+    "Gentamicin is an aminoglycoside with no beta-lactam cross-reactivity.",
+    "Colistin is a polymyxin, unrelated to ceftazidime.",
+    "Amikacin is an aminoglycoside, unrelated to ceftazidime."
+   ],
+   "studyRef": {
+    "sectionId": "id-antimicrobials.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 143,
+     "page": 121,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A ward audit finds that many elderly patients with no diarrhoea have C. difficile isolated from stool culture.",
+   "leadIn": "What is the main reason the diagnosis of C. difficile infection relies on toxin detection?",
+   "options": [
+    "Culture takes too long to be useful",
+    "Asymptomatic carriage is common, especially in care-home residents",
+    "Toxin assays are cheaper than culture",
+    "Only hypervirulent strains grow in culture",
+    "Culture cannot detect spores"
+   ],
+   "answer": 1,
+   "explanation": "C. difficile is found in about 5% of healthy adults and up to 20% of elderly people in residential care, so finding the organism does not prove disease. **Toxin A/B detection** (after a GDH or PCR screen) confirms infection.",
+   "whyNot": [
+    "Speed is not the main issue; even a positive culture can be a carrier.",
+    "",
+    "Cost is not the reason for the toxin-based approach.",
+    "Ordinary and hypervirulent strains both grow.",
+    "Spores can germinate and grow; this is not the reason."
+   ],
+   "studyRef": {
+    "sectionId": "id-antimicrobials.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 286,
+     "page": 264,
+     "chapter": "Infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q24",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the most suitable option from the list. An option may fit several patients, one patient or none.",
+   "pool": "exam",
+   "difficulty": 3,
+   "theme": "Mechanisms of antimicrobial resistance",
+   "options": [
+    "Penicillinase production",
+    "Extended-spectrum beta-lactamase",
+    "Carbapenemase (NDM-1)",
+    "Altered penicillin-binding protein (PBP2a)",
+    "D-Ala-D-Lac peptidoglycan precursor",
+    "RNA polymerase beta-subunit mutation",
+    "DNA gyrase mutation",
+    "Loss of outer-membrane porins",
+    "Active efflux pump",
+    "23S rRNA methylation"
+   ],
+   "items": [
+    {
+     "stem": "A Staphylococcus aureus blood isolate is resistant to flucloxacillin and to co-amoxiclav. PCR detects the mecA gene.",
+     "answer": 3,
+     "explanation": "_mecA_ codes for **PBP2a**, which has low affinity for beta-lactams. A beta-lactamase inhibitor cannot help, because the target, not the drug, has changed.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s6"
+     }
+    },
+    {
+     "stem": "An Enterococcus faecium isolate from a urinary catheter is resistant to both vancomycin and teicoplanin.",
+     "answer": 4,
+     "explanation": "In VRE the precursor ends in **D-Ala-D-Lac**, so glycopeptides cannot bind.",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s6"
+     }
+    },
+    {
+     "stem": "A patient previously treated for TB relapses. A rapid molecular test on sputum shows resistance to rifampicin.",
+     "answer": 5,
+     "explanation": "Rifampicin resistance comes from mutations in the **beta-subunit of RNA polymerase**, and usually goes with isoniazid resistance (MDR-TB).",
+     "studyRef": {
+      "sectionId": "id-antimicrobials.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 138,
+     "page": 116,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 140,
+     "page": 118,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 147,
+     "page": 125,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 186,
+     "page": 167,
+     "chapter": "Sepsis and the treatment of bacterial infection"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q25",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 55-year-old kidney transplant recipient has been on oral prophylaxis against cytomegalovirus for 6 weeks. Routine bloods show neutrophils 0.6 ×10⁹/L, down from 4.2 before the course. Haemoglobin is stable.",
+   "leadIn": "Which drug is the most likely cause?",
+   "options": [
+    "Valganciclovir",
+    "Aciclovir",
+    "Oseltamivir",
+    "Ribavirin",
+    "Foscarnet"
+   ],
+   "answer": 0,
+   "explanation": "**Valganciclovir** (the oral ganciclovir prodrug) is used against CMV, and **neutropenia** is its main toxicity.",
+   "whyNot": [
+    "",
+    "Aciclovir has very little marrow toxicity.",
+    "Oseltamivir mainly causes GI upset.",
+    "Ribavirin causes haemolytic anaemia, and the haemoglobin is stable.",
+    "Foscarnet is IV and causes renal and electrolyte problems rather than isolated neutropenia."
+   ],
+   "studyRef": {
+    "sectionId": "id-antimicrobials.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 149,
+     "page": 127,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 556,
+     "page": 534,
+     "chapter": "Infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q26",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 63-year-old woman develops a severe community-acquired pneumonia a week after influenza. Sputum and blood cultures grow meticillin-resistant Staph. aureus.",
+   "leadIn": "Which agent should be avoided for this infection?",
+   "options": [
+    "Vancomycin",
+    "Linezolid",
+    "Daptomycin",
+    "Teicoplanin",
+    "Ceftaroline"
+   ],
+   "answer": 2,
+   "explanation": "**Daptomycin is not effective for community-acquired pneumonia**, even though it kills MRSA and is used for MRSA bacteraemia, endocarditis and skin infection.",
+   "whyNot": [
+    "Vancomycin is a standard MRSA treatment.",
+    "Linezolid is an oral or IV option for MRSA.",
+    "",
+    "Teicoplanin is a glycopeptide active against MRSA.",
+    "Ceftaroline is a 5th-generation cephalosporin with MRSA activity."
+   ],
+   "studyRef": {
+    "sectionId": "id-antimicrobials.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 145,
+     "page": 123,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 143,
+     "page": 121,
+     "chapter": "Principles of infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 139,
+     "page": 117,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "id-antimicrobials.q27",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 3,
+   "stem": "A 46-year-old man is 3 weeks into isoniazid, rifampicin, pyrazinamide and ethambutol. He feels well. ALT is twice the upper limit of normal and bilirubin is normal.",
+   "leadIn": "What is the most appropriate action?",
+   "options": [
+    "Stop all four drugs now",
+    "Continue treatment and monitor liver function",
+    "Stop pyrazinamide permanently",
+    "Replace rifampicin with streptomycin",
+    "Halve the dose of every drug"
+   ],
+   "answer": 1,
+   "explanation": "A mild transaminase rise is common. Drugs are stopped only if **bilirubin rises or transaminases exceed three times normal**; then they are restarted one at a time. Here, **continue and monitor**.",
+   "whyNot": [
+    "Stopping now interrupts curative treatment without meeting the stopping threshold.",
+    "",
+    "There is no indication yet to drop pyrazinamide.",
+    "Swapping out the key sterilising drug weakens the regimen without reason.",
+    "Under-dosing promotes resistance and failure."
+   ],
+   "studyRef": {
+    "sectionId": "id-antimicrobials.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 989,
+     "page": 971,
+     "chapter": "Respiratory disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 147,
+     "page": 125,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "id-antimicrobials.o1",
+   "sectionId": "id-antimicrobials.s7",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 286,
+    "page": 264,
+    "chapter": "Infectious disease",
+    "figure": "Fig. 11.27"
+   },
+   "identify": "Pseudomembranous colitis: many raised, adherent yellow-white plaques on inflamed colonic mucosa. This is C. difficile infection after antibiotics."
+  },
+  {
+   "id": "id-antimicrobials.o2",
+   "sectionId": "id-antimicrobials.s2",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 144,
+    "page": 122,
+    "chapter": "Principles of infectious disease",
+    "figure": "Fig. 6.18"
+   },
+   "identify": "Hartford nomogram: read the gentamicin/tobramycin level at its hour after a 7 mg/kg dose to choose a 24-, 36- or 48-hourly dosing interval."
+  },
+  {
+   "id": "id-antimicrobials.o3",
+   "sectionId": "id-antimicrobials.s2",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 141,
+    "page": 119,
+    "chapter": "Principles of infectious disease",
+    "figure": "Fig. 6.17"
+   },
+   "identify": "Pharmacodynamic curve: identify Cmax, the MIC line, time above MIC and AUC. Aminoglycosides depend on Cmax : MIC; beta-lactams and vancomycin depend on time above MIC."
+  },
+  {
+   "id": "id-antimicrobials.o4",
+   "sectionId": "id-antimicrobials.s6",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 140,
+    "page": 118,
+    "chapter": "Principles of infectious disease",
+    "figure": "Fig. 6.16"
+   },
+   "identify": "Resistance mechanisms diagram: impermeability (carbapenem-resistant Pseudomonas), efflux (tetracyclines), target change (MRSA, VRE) and enzyme breakdown (ESBL, NDM-1)."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:06:17.000Z",
+  "contentHash": "f1b8540f1cc193ca8a8aacb5d1a990199a1c76f77c59abff274978ca963764f7"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:06:17.012Z",
+  "contentHash": "f1b8540f1cc193ca8a8aacb5d1a990199a1c76f77c59abff274978ca963764f7",
+  "checkerVersion": "source-check-v1"
+ }
+}

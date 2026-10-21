@@ -1,0 +1,3323 @@
+{
+ "topicId": "id-std",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "id-std.s1",
+   "title": "HIV: virology, transmission and testing",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "HIV is an **enveloped RNA retrovirus of the lentivirus group** that targets cells carrying the **CD4 receptor** (T-helper cells, monocyte–macrophages, dendritic cells, CNS microglia). Entry is a three-step process: **gp120 attaches to CD4**, then binds a chemokine co-receptor (**CCR5** in early infection, **CXCR4** later), and **gp41** drives membrane fusion. Inside the cell, **reverse transcriptase** copies the RNA into DNA, **integrase** splices it into the host genome as **proviral DNA**, and **protease** cuts the viral polyproteins into mature parts. People homozygous for the **CCR5 delta-32** deletion lack CCR5 and resist infection.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 331,
+       "page": 309
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 332,
+       "page": 310
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 959,
+       "page": 959
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "A small pool of **latently infected, long-lived CD4 cells** carries integrated provirus but does not replicate. Drugs act only on replicating virus, so this reservoir is why **current ART controls but cannot eradicate HIV**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 332,
+       "page": 310
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 331,
+      "page": 309,
+      "figure": "Fig. 12.1"
+     },
+     "note": "Look at: the HIV life cycle (CD4 attachment → co-receptor → fusion → reverse transcription → integration → protease cleavage) and where each antiretroviral class acts."
+    },
+    {
+     "type": "table",
+     "title": "Approximate risk of HIV after one exposure to an infected source (Davidson)",
+     "columns": [
+      "Exposure",
+      "Approximate risk"
+     ],
+     "rows": [
+      [
+       "Blood transfusion",
+       "90%"
+      ],
+      [
+       "Vaginal delivery (mother to child)",
+       "15%"
+      ],
+      [
+       "Sharing needles (injecting drug use)",
+       "0.67%"
+      ],
+      [
+       "Receptive anal intercourse",
+       "0.5%"
+      ],
+      [
+       "Needlestick injury",
+       "0.3%"
+      ],
+      [
+       "Vaginal intercourse, male to female",
+       "0.1%"
+      ],
+      [
+       "Mucous membrane splash",
+       "0.09%"
+      ],
+      [
+       "Vaginal intercourse female to male / insertive anal",
+       "0.05%"
+      ],
+      [
+       "Breastfeeding",
+       "0.5% per month"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 330,
+       "page": 308
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "What raises the chance of transmission",
+     "items": [
+      "Any route: **high viral load** in the source",
+      "Sexual: other STIs (especially **genital ulcers**), receptive anal sex, an **uncircumcised** male partner, menstruation, cervical ectopy, rectal/vaginal tears",
+      "Occupational: a **deep** injury, **visible blood** on the device, a needle that had been **in a vessel**",
+      "Vertical: prolonged rupture of membranes"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 331,
+       "page": 309
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "HIV tests and when to use them",
+     "columns": [
+      "Test",
+      "What it detects",
+      "Use / timing"
+     ],
+     "rows": [
+      [
+       "Antibody immunoassay (rapid point-of-care or ELISA)",
+       "Anti-HIV-1/2 antibodies",
+       "Diagnosis; positive on **two different immunoassays** confirms infection"
+      ],
+      [
+       "Fourth-generation antigen/antibody assay",
+       "Antibody **plus p24 antigen**",
+       "Preferred screening test; picks up primary infection before antibodies appear"
+      ],
+      [
+       "HIV RNA PCR",
+       "Viral nucleic acid",
+       "Earliest marker (detectable ~10–15 days after infection); test of choice for **primary infection** and for **infants**"
+      ],
+      [
+       "p24 antigen",
+       "Capsid protein",
+       "Appears ~5–7 days after RNA; usually gone by **8–10 weeks**"
+      ],
+      [
+       "Antibody seroconversion",
+       "—",
+       "Window up to **3 months** (mean ~6 weeks)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 332,
+       "page": 310
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1446,
+       "page": 1433
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 962,
+       "page": 962
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 963,
+       "page": 963
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Babies of HIV-positive mothers** carry passively acquired maternal antibody, so an antibody test is meaningless — use **HIV RNA PCR**. Davidson says the antibody may persist for up to **15 months**; Kumar says up to **18 months**. Follow Davidson for the exam figure.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 332,
+       "page": 310
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1446,
+       "page": 1433
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The **CD4 count is not a diagnostic test** for HIV: an infected person can have a normal count and an uninfected person a low one. After a negative test, advise a **repeat test 3 months after the last exposure** to cover the window period.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 458,
+       "page": 458
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 333,
+       "page": 311
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-std.s2",
+   "title": "HIV: natural history, staging and CD4-guided complications",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Primary HIV infection** is symptomatic in **over half** of cases but is often missed. It begins **2–4 weeks** after exposure and rarely lasts more than 2 weeks. It mimics glandular fever: **fever, sore throat and enlarged nodes**, a **maculopapular rash**, **ulcers in the mouth or on the genitals**, aching joints and muscles, headache and loose stools; rarely meningo-encephalitis or a Bell's palsy. Antibodies appear **2–12 weeks after symptoms** begin.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 333,
+       "page": 311
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 334,
+       "page": 312
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 961,
+       "page": 961
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In a glandular-fever-like illness, a **maculopapular rash or mucosal ulceration** points to **primary HIV**: EBV and CMV usually cause a rash only after an aminopenicillin. **Secondary syphilis** belongs in the same differential.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 334,
+       "page": 312
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "After primary infection comes a long **clinically latent phase** (often persistent generalised lymphadenopathy), during which the CD4 count falls (roughly **50 cells per year** untreated). The **median time from infection to AIDS in untreated adults is about 9 years**. Before AIDS, minor markers of failing cell-mediated immunity appear: oral thrush, **oral hairy leucoplakia**, seborrhoeic dermatitis, zoster, recurrent vaginal candidiasis, night sweats and weight loss.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 334,
+       "page": 312
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 961,
+       "page": 961
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 962,
+       "page": 962
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 334,
+      "page": 312,
+      "figure": "Fig. 12.2"
+     },
+     "note": "Look at: the viral-load peak during primary infection, the set-point plateau, and the slow fall of the CD4 count over years towards opportunistic disease."
+    },
+    {
+     "type": "table",
+     "title": "CD4 count bands and what to expect",
+     "columns": [
+      "CD4 (cells/mm³)",
+      "Meaning",
+      "Typical problems"
+     ],
+     "rows": [
+      [
+       "> 500",
+       "Normal range",
+       "—"
+      ],
+      [
+       "200–500",
+       "Low risk of major opportunistic infection",
+       "Zoster, oral candida, **TB**, bacterial pneumonia, dermatoses, immune thrombocytopenia"
+      ],
+      [
+       "< 200",
+       "Severe immunosuppression; high risk of AIDS-defining illness",
+       "PCP, toxoplasmosis, cryptococcus, PML, candida"
+      ],
+      [
+       "< 50–100",
+       "Advanced disease",
+       "CMV, MAC, primary CNS lymphoma, invasive aspergillosis"
+      ],
+      [
+       "Any count",
+       "—",
+       "TB, pneumococcus, Kaposi sarcoma, lymphoma"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 333,
+       "page": 311
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 461,
+       "page": 461
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**AIDS** means HIV plus a defined opportunistic infection, cancer or severe HIV manifestation (CDC category C / WHO stage 4), for example **PCP, cerebral toxoplasmosis, Kaposi sarcoma, oesophageal candidiasis, invasive cervical cancer, HIV wasting**. US texts also count a **CD4 count below 200** as AIDS. **PCP** presents with fever, dry cough and exertional breathlessness with diffuse interstitial infiltrates. **Cerebral toxoplasmosis** gives multiple ring-enhancing lesions in the basal ganglia.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 334,
+       "page": 312
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 963,
+       "page": 963
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 965,
+       "page": 965
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 329,
+       "page": 307
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Baseline work-up of a new HIV diagnosis",
+     "items": [
+      "CD4 count and viral load",
+      "HBsAg, hepatitis C antibody, liver function, FBC, urinalysis and creatinine",
+      "Syphilis serology and a full STI screen; cervical smear in women",
+      "Tuberculin skin test",
+      "Serum **cryptococcal antigen if CD4 < 100**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 333,
+       "page": 311
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Staging uses the **worst event ever**: a patient who recovers from an AIDS-defining illness **stays at WHO stage 4 / CDC category C**. Do not act on a **single CD4 count**, as it varies by up to 20% day to day.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 333,
+       "page": 311
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Oral candidiasis or oral hairy leucoplakia** calls for opportunistic-infection prophylaxis **whatever the CD4 count**. Worldwide, **TB** is the leading cause of HIV morbidity and death. With a lung infiltrate at CD4 350, think TB; at CD4 50, both TB and PCP are likely.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 334,
+       "page": 312
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-std.s3",
+   "title": "HIV: antiretroviral therapy, prophylaxis and prevention",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Offer ART to everyone with confirmed HIV, whatever the CD4 count or clinical stage**, because early treatment lowers illness and death and cuts transmission. The standard regimen is **two NRTIs plus a third agent**: an NNRTI, a **ritonavir-boosted protease inhibitor**, or an **integrase inhibitor**. Emtricitabine and lamivudine share a mechanism and are **never combined**. Low-dose ritonavir boosts other PIs by blocking **CYP3A and P-glycoprotein**. Rilpivirine is used only if the viral load is below 100 000 copies/mL.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 346,
+       "page": 324
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 347,
+       "page": 325
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 459,
+       "page": 459
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Classic antiretroviral toxicities",
+     "columns": [
+      "Drug / class",
+      "Key toxicity"
+     ],
+     "rows": [
+      [
+       "Abacavir",
+       "Hypersensitivity — **test HLA-B*5701 first**"
+      ],
+      [
+       "Zidovudine",
+       "Marrow suppression, macrocytic anaemia"
+      ],
+      [
+       "Tenofovir disoproxil (TDF)",
+       "Renal toxicity, loss of bone density"
+      ],
+      [
+       "NRTI class",
+       "GI upset, lipoatrophy, lactic acidosis"
+      ],
+      [
+       "Efavirenz",
+       "CNS effects, including depression"
+      ],
+      [
+       "Protease inhibitors",
+       "CYP450 interactions, hyperglycaemia, hyperlipidaemia; atazanavir crystalluria and stones"
+      ],
+      [
+       "Integrase inhibitors",
+       "Weight gain, diarrhoea"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 459,
+       "page": 459
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "When to start ART in someone with an opportunistic infection",
+     "columns": [
+      "Situation",
+      "Timing of ART"
+     ],
+     "rows": [
+      [
+       "Most major opportunistic infections",
+       "Within **2 weeks**"
+      ],
+      [
+       "Cryptococcal meningitis",
+       "Defer about **5 weeks** (earlier start raises mortality)"
+      ],
+      [
+       "Tuberculosis",
+       "Defer to **8 weeks**, unless **CD4 < 50** (then start early); earlier start raises IRIS risk"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 347,
+       "page": 325
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 460,
+       "page": 460
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Monitoring ART",
+     "items": [
+      "**Viral load** is the main measure of whether ART is working",
+      "Expect at least a **10-fold fall by 4 weeks** and **suppression by 6 months**",
+      "Virological failure threshold: **> 200 copies/mL (UK)** or **> 1000 copies/mL (WHO)**; confirm with a repeat before switching, and guide the switch with resistance testing",
+      "A sustained undetectable viral load means sexual transmission does not occur (**U = U**)"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 347,
+       "page": 325
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1462,
+       "page": 1449
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**IRIS (immune reconstitution inflammatory syndrome)** is a common early problem after starting ART, especially with a **starting CD4 < 50**: **paradoxical worsening** of a treated infection or **unmasking** of a hidden one, with marked inflammation while the viral load falls. Mortality is about 5% (higher with CNS infection). Management: **continue ART**, treat the infection, and consider steroids if severe (not with Kaposi sarcoma).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 347,
+       "page": 325
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 460,
+       "page": 460
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 348,
+       "page": 326
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Primary prophylaxis in HIV",
+     "columns": [
+      "Threat",
+      "When",
+      "What"
+     ],
+     "rows": [
+      [
+       "Pneumocystis (PCP)",
+       "CD4 < 200, CD4 < 14% or thrush",
+       "Co-trimoxazole (stop once CD4 > 200 for 3 months)"
+      ],
+      [
+       "Toxoplasma",
+       "CD4 < 100 and Toxoplasma IgG positive",
+       "Co-trimoxazole"
+      ],
+      [
+       "Mycobacterium avium complex",
+       "CD4 < 50",
+       "Macrolide (azithromycin/clarithromycin); stop once CD4 > 100 on ART"
+      ],
+      [
+       "Cryptococcus",
+       "CD4 < 100: check serum cryptococcal antigen",
+       "Pre-emptive fluconazole if antigen positive"
+      ],
+      [
+       "Live vaccines",
+       "—",
+       "**BCG is contraindicated in all people with HIV**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 346,
+       "page": 324
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 460,
+       "page": 460
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Post- and pre-exposure prophylaxis",
+     "items": [
+      "**PEP**: start as soon as possible and **within 72 hours**; give for **4 weeks** (UK: tenofovir-emtricitabine plus raltegravir); test the recipient for HIV at baseline",
+      "PEP is **not recommended** if the source has an **undetectable viral load** (< 200 copies/mL)",
+      "**PrEP**: oral tenofovir-emtricitabine (daily or on-demand) cuts HIV acquisition by **up to ~90%** with good adherence; exclude HIV first and monitor renal function, STIs and HIV every 3 months"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1454,
+       "page": 1441
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1462,
+       "page": 1449
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 458,
+       "page": 458
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-std.s4",
+   "title": "Syphilis: stages, serology and treatment",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Syphilis is caused by the spirochaete **Treponema pallidum**, which enters through small breaks in skin or mucosa — usually during sex, but also **across the placenta**, by transfusion and rarely by kissing. **Penicillin is the drug of choice at every stage.** HIV co-infection is common, so every patient with syphilis needs an **HIV test**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 359,
+       "page": 337
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 1657,
+       "page": 1657
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Stages of acquired syphilis",
+     "columns": [
+      "Stage",
+      "Timing",
+      "Key features"
+     ],
+     "rows": [
+      [
+       "Primary",
+       "Incubation usually **14–28 days** (9–90)",
+       "**Single painless indurated ulcer (chancre)** with painless, rubbery inguinal nodes; heals in 2–6 weeks. Anal chancres can be painful and look like fissures"
+      ],
+      [
+       "Secondary",
+       "**6–8 weeks after the chancre**",
+       "Fever, malaise; **symmetrical non-itchy rash including palms and soles** (> 75%); **condylomata lata**; mucous patches and 'snail-track' oral ulcers; generalised painless lymphadenopathy (> 50%); sometimes uveitis, hepatitis, glomerulonephritis, meningitis"
+      ],
+      [
+       "Early latent",
+       "Within **2 years** of infection (UK)",
+       "Positive serology, no signs; **still sexually infectious**"
+      ],
+      [
+       "Late latent",
+       "After 2 years",
+       "Positive serology, no signs; not sexually infectious"
+      ],
+      [
+       "Benign tertiary",
+       "3–10 years",
+       "**Gummas** (granulomatous lesions of skin, bone, mucosa, viscera)"
+      ],
+      [
+       "Cardiovascular",
+       "Many years",
+       "**Aortitis of the ascending aorta** → aortic regurgitation, angina (coronary ostial narrowing), aneurysm"
+      ],
+      [
+       "Neurosyphilis",
+       "Many years",
+       "Meningovascular disease, **tabes dorsalis**, general paralysis of the insane; **Argyll Robertson pupil** (reacts to accommodation, not light)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 359,
+       "page": 337
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 360,
+       "page": 338
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 1004,
+       "page": 1004
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 359,
+      "page": 337,
+      "figure": "Fig. 13.4"
+     },
+     "note": "Look at: a clean, painless chancre in the coronal sulcus — single, indurated, usually with inguinal nodes."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1436,
+      "page": 1423,
+      "figure": "Fig. 37.9"
+     },
+     "note": "Look at: the coppery maculopapular rash of secondary syphilis on the palms."
+    },
+    {
+     "type": "bullets",
+     "title": "Congenital syphilis",
+     "items": [
+      "Early (neonatal): **snuffles** (rhinitis), maculopapular rash, condylomata lata, **hepatosplenomegaly**, osteochondritis, anaemia/thrombocytopenia",
+      "Late: **interstitial keratitis**, **8th nerve deafness**, **Clutton's joints** (painless knee effusions)",
+      "Stigmata: **Hutchinson's incisors**, mulberry molars, **saddle nose**, **sabre tibia**, frontal bossing, **rhagades**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 360,
+       "page": 338
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Serological tests for syphilis",
+     "columns": [
+      "Type",
+      "Examples",
+      "Behaviour"
+     ],
+     "rows": [
+      [
+       "Treponemal (specific)",
+       "EIA IgG/IgM, TPHA, TPPA, FTA-ABS",
+       "IgM EIA positive at ~**2 weeks**; usually **stay positive for life**, even after cure"
+      ],
+      [
+       "Non-treponemal (non-specific)",
+       "VDRL, RPR",
+       "Positive at ~**4 weeks**; **quantitative titre** used to track treatment response and reinfection"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 360,
+       "page": 338
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 361,
+       "page": 339
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Biological false-positive VDRL/RPR** (treponemal tests negative): acute with infectious mononucleosis, chickenpox, malaria or pregnancy; chronic with autoimmune disease such as SLE. A **falsely negative** non-treponemal test in secondary syphilis, from very high antibody levels, is the **prozone phenomenon**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 360,
+       "page": 338
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 361,
+       "page": 339
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 1005,
+       "page": 1005
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Testing order differs between books.** Davidson notes that many centres now **screen with a treponemal EIA** and confirm positives. US quick sources teach the classic sequence: **RPR/VDRL first** (sensitive, but only ~70% specific), then confirm with a treponemal test. Dark-field microscopy of chancre material gives a direct diagnosis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 360,
+       "page": 338
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 979,
+       "page": 979
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Treatment (Davidson)",
+     "columns": [
+      "Situation",
+      "Regimen"
+     ],
+     "rows": [
+      [
+       "Early syphilis (< 2 years)",
+       "**Benzathine benzylpenicillin 2.4 megaunits IM, single dose**"
+      ],
+      [
+       "Late syphilis",
+       "Benzathine benzylpenicillin 2.4 megaunits IM **weekly for 3 doses**"
+      ],
+      [
+       "Neurosyphilis",
+       "**Procaine penicillin for 14 days** plus 3 days of prednisolone (US texts: IV aqueous penicillin G for 10–14 days)"
+      ],
+      [
+       "Penicillin allergy",
+       "**Doxycycline** — but **not in pregnancy**"
+      ],
+      [
+       "Pregnancy",
+       "Penicillin is the treatment of choice; erythromycin crosses the placenta poorly, so the **newborn must then be treated** with penicillin; many advise **desensitisation**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 361,
+       "page": 339
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 1652,
+       "page": 1652
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 1006,
+       "page": 1006
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Follow-up:** after successful treatment the non-treponemal titre falls, usually becoming undetectable within **6 months for primary** and **12–18 months for secondary** syphilis. A **fourfold fall** in titre counts as an adequate response. Do a **lumbar puncture with CSF VDRL** if there are neurological, eye or hearing symptoms. **Ocular syphilis** can occur at any stage and can blind, so ask about eye symptoms.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 361,
+       "page": 339
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 1658,
+       "page": 1658
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 1659,
+       "page": 1659
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 979,
+       "page": 979
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1437,
+       "page": 1424
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Jarisch–Herxheimer reaction**: fever, headache, malaise and myalgia starting a few hours (~8 h) after the first dose, settling **within 24 hours**. It is caused by inflammatory mediators released from killed treponemes. It is common in early syphilis (~50% of primary, up to 90% of secondary). It can trigger fetal distress or premature labour in pregnancy. Prednisolone 40–60 mg daily for 3 days is given to prevent it in cardiovascular or neurosyphilis. It is **not penicillin allergy**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 361,
+       "page": 339
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1437,
+       "page": 1424
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 1005,
+       "page": 1005
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Early latent cut-off:** Davidson and Kumar (UK) use **2 years** from infection; US sources (Step-Up, Washington) use **1 year**. Use Davidson's 2 years in our exams. HIV co-infection does not change diagnosis or treatment, but untreated disease may progress faster, with more neurosyphilis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 359,
+       "page": 337
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1436,
+       "page": 1423
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1437,
+       "page": 1424
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 977,
+       "page": 977
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 1659,
+       "page": 1659
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-std.s5",
+   "title": "Gonorrhoea",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Neisseria gonorrhoeae** is a **Gram-negative intracellular diplococcus** that infects **columnar epithelium**: urethra, endocervix, rectum, pharynx and conjunctiva. The incubation period is usually **2–10 days**. Men typically get a **profuse purulent urethral discharge** with dysuria, though about **10% have no symptoms**. In women about **80% are asymptomatic**, so complications are found mainly in women. **Rectal and pharyngeal** infections are usually silent.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 355,
+       "page": 333
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 361,
+       "page": 339
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 362,
+       "page": 340
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Complications of delayed treatment",
+     "items": [
+      "Men: acute prostatitis, **epididymo-orchitis**",
+      "Women: **Bartholin's abscess**, **PID** (→ infertility, ectopic pregnancy, chronic pelvic pain), **Fitz-Hugh–Curtis perihepatitis** (RUQ pain, raised transaminases)",
+      "**Disseminated gonococcal infection (DGI)**, ~1–3%: mainly women with silent genital infection — fever, **tenosynovitis** of hands/feet, migratory arthritis or septic arthritis, **haemorrhagic pustules** on distal limbs; rarely endocarditis",
+      "**Ophthalmia neonatorum** from an untreated mother at delivery — urgent treatment to prevent corneal damage"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 362,
+       "page": 340
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 956,
+       "page": 956
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Classic vignette: a **young sexually active woman** with fever, **tenosynovitis of the wrist/hand**, migratory joint pain and a few **haemorrhagic pustules** on the forearms has **DGI** — not reactive arthritis. Gonorrhoea in a child **beyond the neonatal period** usually indicates **sexual abuse**.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 958,
+       "page": 958
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 361,
+       "page": 339
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Investigations",
+     "columns": [
+      "Test",
+      "Points"
+     ],
+     "rows": [
+      [
+       "Gram-stained urethral smear",
+       "**≥ 5 polymorphs per high-power field** = urethritis; **intracellular Gram-negative diplococci** = working diagnosis of gonorrhoea; none seen = non-specific urethritis (NSU)"
+      ],
+      [
+       "Microscopy sensitivity",
+       "**90–95%** in a symptomatic male urethra but only **37–50%** at the endocervix; not used for the pharynx"
+      ],
+      [
+       "NAAT",
+       "**Test of choice**: first-void urine in men, vulvovaginal swab in women; add rectal/pharyngeal swabs according to sexual history"
+      ],
+      [
+       "Culture",
+       "Take **before treatment** for antimicrobial sensitivities, because resistance (even to ceftriaxone) is rising"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 355,
+       "page": 333
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1430,
+       "page": 1417
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 957,
+       "page": 957
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 355,
+      "page": 333,
+      "figure": "Fig. 13.1"
+     },
+     "note": "Look at: Gram-negative diplococci sitting inside polymorphonuclear leucocytes on a urethral smear."
+    },
+    {
+     "type": "table",
+     "title": "Treatment (Davidson, UK)",
+     "columns": [
+      "Situation",
+      "Regimen"
+     ],
+     "rows": [
+      [
+       "Uncomplicated anogenital gonorrhoea",
+       "**Ceftriaxone 500 mg IM plus azithromycin 1 g orally**"
+      ],
+      [
+       "Pregnancy / breastfeeding",
+       "Ceftriaxone 500 mg plus azithromycin 1 g, or spectinomycin 2 g IM"
+      ],
+      [
+       "Chlamydia co-infection (up to 50% of men)",
+       "Also treat for chlamydia"
+      ],
+      [
+       "Pharyngeal infection",
+       "Not reliably cleared by single-dose therapy — test of cure needed"
+      ],
+      [
+       "Partners",
+       "Trace and treat current partners"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 362,
+       "page": 340
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 355,
+       "page": 333
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 357,
+       "page": 335
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Regimens differ by book.** Davidson: **ceftriaxone 500 mg IM + azithromycin 1 g**. Kumar (newer UK guidance): **ceftriaxone 1 g IM alone**, with test of cure at 14 days. Pocket Medicine (CDC 2021): ceftriaxone 500 mg IM alone, adding doxycycline only if chlamydia has not been excluded. For our exams, give **Davidson's regimen**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 362,
+       "page": 340
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1430,
+       "page": 1417
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 432,
+       "page": 432
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Do not use quinolones blind.** Davidson allows ciprofloxacin only where local resistance is under 5% (and never in pregnancy). Kumar uses it only when sensitivity is already known. US texts avoid quinolones altogether. Always test for chlamydia, syphilis and HIV as well.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 362,
+       "page": 340
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1430,
+       "page": 1417
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 959,
+       "page": 959
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 362,
+      "page": 340,
+      "figure": "Fig. 13.5"
+     },
+     "note": "Look at: gonococcal ophthalmia neonatorum — profuse purulent conjunctivitis with swollen eyelids in a newborn."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "fa2ck11",
+      "pdfPage": 1003,
+      "page": 1003,
+      "figure": "FIGURE 2.15-24"
+     },
+     "note": "Look at: painful haemorrhagic pustules on a red base — the skin lesions of disseminated gonococcal infection."
+    }
+   ]
+  },
+  {
+   "id": "id-std.s6",
+   "title": "Trichomoniasis and the vaginal discharge differential",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Trichomonas vaginalis** is a **flagellated protozoon** and, worldwide, the **commonest treatable STI causing vaginal discharge**. In women it infects the vagina and urethra; in men, the urethra and subpreputial sac. **Nearly all infected men and 10–50% of women have no symptoms.** Symptomatic women have a **profuse, frothy yellow-green, malodorous discharge** with **marked vulvovaginal inflammation**, itch, dysuria and dyspareunia. Multiple pinpoint haemorrhages give a **'strawberry cervix'**. It makes **HIV acquisition more likely**, and in pregnancy it is associated with **prematurity and a small baby**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 357,
+       "page": 335
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1433,
+       "page": 1420
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 431,
+       "page": 431
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Diagnosing T. vaginalis",
+     "columns": [
+      "Test",
+      "Yield / role"
+     ],
+     "rows": [
+      [
+       "Wet-mount microscopy",
+       "**Motile flagellates** seen in up to ~50% of infected women; much lower in men"
+      ],
+      [
+       "Culture",
+       "Detects 70–80%"
+      ],
+      [
+       "NAAT",
+       "**> 90% — test of choice** (vulvovaginal swab in women, first-void urine in men)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1433,
+       "page": 1420
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 357,
+       "page": 335
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 432,
+       "page": 432
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Three common causes of vaginal discharge",
+     "columns": [
+      "Feature",
+      "Bacterial vaginosis",
+      "Candidiasis",
+      "Trichomoniasis"
+     ],
+     "rows": [
+      [
+       "Discharge",
+       "Thin, homogeneous, off-white, fishy",
+       "Thick, curdy white, adherent",
+       "Profuse, frothy, yellow-green"
+      ],
+      [
+       "Vulvovaginal inflammation",
+       "**None**",
+       "Yes (itch, erythema)",
+       "**Marked**"
+      ],
+      [
+       "Vaginal pH",
+       "**> 4.5**",
+       "**< 4.5**",
+       "Not given in Davidson — confirm with microscopy or NAAT"
+      ],
+      [
+       "Microscopy",
+       "**Clue cells**, few lactobacilli; positive whiff test",
+       "Spores and **pseudohyphae**",
+       "**Motile flagellates**"
+      ],
+      [
+       "Sexually transmitted?",
+       "No",
+       "No",
+       "**Yes — treat partners**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 357,
+       "page": 335
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 432,
+       "page": 432
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1433,
+       "page": 1420
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 357,
+      "page": 335,
+      "figure": "Fig. 13.3"
+     },
+     "note": "Look at: a clue cell — a vaginal epithelial cell whose edge is blurred by a coat of anaerobic bacteria (bacterial vaginosis, the main differential)."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "fa2ck11",
+      "pdfPage": 690,
+      "page": 690,
+      "figure": "FIG. 2.11-9"
+     },
+     "note": "Look at: the algorithm that uses vaginal pH and wet mount to separate trichomoniasis, bacterial vaginosis and candidiasis."
+    },
+    {
+     "type": "bullets",
+     "title": "Treatment",
+     "items": [
+      "Davidson: **oral metronidazole 400 mg twice daily for 5–7 days**, or **2 g as a single dose**",
+      "Avoid **high-dose** metronidazole in pregnancy and breastfeeding",
+      "**No alcohol** during treatment and for 48 hours after it ends (disulfiram-like reaction: flushing, nausea, vomiting)",
+      "**Do not use intravaginal metronidazole gel** — the urethra stays infected",
+      "Abstain from sex for a week; notify, test and **treat partners**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 357,
+       "page": 335
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1433,
+       "page": 1420
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 693,
+       "page": 693
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Dosing varies by book.** Davidson accepts either the 5–7-day course or a 2 g single dose. Kumar prefers the **7-day course** and calls the single dose less effective. Pocket Medicine (CDC 2021) gives women **500 mg twice daily for 7 days** and men 2 g once. In exams, **oral metronidazole** is the answer; the exact course matters less.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 357,
+       "page": 335
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1433,
+       "page": 1420
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 432,
+       "page": 432
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-std.s7",
+   "title": "Genital herpes and the genital ulcer differential",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Genital herpes (HSV-1 or HSV-2) is the commonest cause of genital ulceration.** After the primary infection the virus becomes **latent in sensory ganglia**. Reactivation causes symptomatic recurrences or **silent viral shedding**, and silent shedding drives much of the transmission. HSV-1 now causes **over half of anogenital herpes in the UK**. Genital herpes **raises both acquisition and transmission of HIV**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 355,
+       "page": 333
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 363,
+       "page": 341
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1435,
+       "page": 1422
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "First symptomatic episode",
+     "items": [
+      "Itchy vesicles that break down into **multiple small, painful ulcers**",
+      "Dysuria, discharge; **fever, headache, malaise**",
+      "**Tender inguinal lymphadenopathy**; sacral (S2–S3) nerve-root pain",
+      "Complications: **urinary retention** (autonomic neuropathy) and **aseptic meningitis**",
+      "Heals in **2–4 weeks** without treatment"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 363,
+       "page": 341
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 364,
+       "page": 342
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Recurrences** are milder and shorter. A **prodrome** of tingling, burning or neuralgic buttock/leg pain often comes first. They are **more frequent with HSV-2**: in the first year, the median is about **one recurrence for HSV-1 versus about four for HSV-2**. They become less frequent over time.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 364,
+       "page": 342
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1435,
+       "page": 1422
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Diagnosis: PCR for HSV DNA** on a swab of vesicle fluid or the ulcer base — sensitive, and it **types HSV-1 vs HSV-2**. Type-specific antibody tests are **not accurate enough** for routine use. Screen for other STIs, syphilis and HIV as well.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 364,
+       "page": 342
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1435,
+       "page": 1422
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Managing genital herpes (Davidson)",
+     "columns": [
+      "Situation",
+      "Management"
+     ],
+     "rows": [
+      [
+       "First episode",
+       "**5 days** of oral **aciclovir 400 mg three times daily** or valaciclovir 500 mg twice daily, started **within 5 days** or while new lesions are still forming; saline bathing, analgesia"
+      ],
+      [
+       "Urinary retention",
+       "**Suprapubic** catheter (a urethral catheter may carry HSV into the bladder)"
+      ],
+      [
+       "Aseptic meningitis / cannot take orally",
+       "IV aciclovir"
+      ],
+      [
+       "Occasional recurrence",
+       "Saline bathing, or patient-started 5-day episodic course"
+      ],
+      [
+       "Frequent recurrences",
+       "**Suppressive aciclovir 400 mg twice daily** for at least **1 year**, then stop to reassess"
+      ],
+      [
+       "Primary infection **after 34 weeks** of pregnancy",
+       "Aciclovir; **caesarean section** often recommended (heavy viral shedding in labour)"
+      ],
+      [
+       "Recurrence at onset of labour",
+       "Very low neonatal risk; vaginal delivery is usually fine"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 364,
+       "page": 342
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1435,
+       "page": 1422
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Threshold for suppression:** Davidson suggests it especially when recurrences come **less than 4 weeks apart**; Kumar and US sources use **six or more recurrences a year**. Condoms and suppression **reduce but do not abolish** transmission from silent shedding. Antivirals do not clear latent virus.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 364,
+       "page": 342
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1435,
+       "page": 1422
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 976,
+       "page": 976
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 431,
+       "page": 431
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Telling genital ulcers apart",
+     "columns": [
+      "Cause",
+      "Ulcer",
+      "Nodes / other clues"
+     ],
+     "rows": [
+      [
+       "Genital herpes",
+       "**Multiple, shallow, painful**; preceded by vesicles",
+       "Tender inguinal nodes, systemic upset in first episode"
+      ],
+      [
+       "Primary syphilis",
+       "**Single, painless, indurated**, clean base",
+       "Painless rubbery nodes"
+      ],
+      [
+       "Chancroid (H. ducreyi)",
+       "One or more **painful** ulcers with **ragged undermined** edges",
+       "Painful suppurating bubo; tropical travel"
+      ],
+      [
+       "Lymphogranuloma venereum",
+       "Small transient painless ulcer, often unnoticed",
+       "**Tender matted unilateral bubo**; proctitis in MSM"
+      ],
+      [
+       "Granuloma inguinale",
+       "Painless, granulomatous",
+       "Donovan bodies on smear"
+      ],
+      [
+       "Non-healing ulcer, negative STI work-up",
+       "—",
+       "Think **squamous cell carcinoma** (biopsy), Behçet's, fixed drug eruption"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 355,
+       "page": 333
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 356,
+       "page": 334
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 363,
+       "page": 341
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 691,
+       "page": 691
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 364,
+      "page": 342,
+      "figure": "Fig. 13.6"
+     },
+     "note": "Look at: multiple shallow herpetic ulcers on the vulva."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 356,
+      "page": 334,
+      "figure": "Fig. 13.2"
+     },
+     "note": "Look at: clustered small penile ulcers of HSV-2 — contrast with the single clean chancre of syphilis."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "id-std.c1",
+   "sectionId": "id-std.s1",
+   "front": "Which chemokine co-receptor does HIV use in early infection, and which genotype resists infection?",
+   "back": "**CCR5** early (CXCR4 later). People homozygous for **CCR5 delta-32** lack CCR5 and resist infection.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 331,
+     "page": 309
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 332,
+     "page": 310
+    }
+   ]
+  },
+  {
+   "id": "id-std.c2",
+   "sectionId": "id-std.s1",
+   "front": "Per-exposure HIV risk: receptive anal sex vs needlestick vs male-to-female vaginal sex?",
+   "back": "Receptive anal **0.5%**; needlestick **0.3%**; male-to-female vaginal **0.1%** (Davidson).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 330,
+     "page": 308
+    }
+   ]
+  },
+  {
+   "id": "id-std.c3",
+   "sectionId": "id-std.s1",
+   "front": "How is HIV diagnosed in a baby born to an HIV-positive mother, and why?",
+   "back": "**HIV RNA PCR** — maternal antibody persists for up to **15 months** (Davidson; Kumar says 18), so antibody tests mislead.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 332,
+     "page": 310
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1446,
+     "page": 1433
+    }
+   ]
+  },
+  {
+   "id": "id-std.c4",
+   "sectionId": "id-std.s2",
+   "front": "CD4 count below which there is severe immunosuppression and high risk of AIDS-defining illness?",
+   "back": "**< 200 cells/mm³** (normal > 500; 200–500 = low risk of major opportunistic infection).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 333,
+     "page": 311
+    }
+   ]
+  },
+  {
+   "id": "id-std.c5",
+   "sectionId": "id-std.s2",
+   "front": "In a glandular-fever-like illness, which two signs point to primary HIV rather than EBV/CMV?",
+   "back": "**Maculopapular rash** (without an aminopenicillin) and **mucosal (oral/genital) ulceration**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 334,
+     "page": 312
+    }
+   ]
+  },
+  {
+   "id": "id-std.c6",
+   "sectionId": "id-std.s3",
+   "front": "When should ART start in cryptococcal meningitis and in TB?",
+   "back": "Cryptococcal meningitis: defer about **5 weeks**. TB: defer to **8 weeks** unless **CD4 < 50**. Most other opportunistic infections: within 2 weeks.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 347,
+     "page": 325
+    }
+   ]
+  },
+  {
+   "id": "id-std.c7",
+   "sectionId": "id-std.s3",
+   "front": "Viral-load thresholds for ART virological failure?",
+   "back": "**> 200 copies/mL (UK)** or **> 1000 copies/mL (WHO)** after suppression; expect a 10-fold fall by 4 weeks and suppression by 6 months.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 347,
+     "page": 325
+    }
+   ]
+  },
+  {
+   "id": "id-std.c8",
+   "sectionId": "id-std.s3",
+   "front": "HIV post-exposure prophylaxis: latest start and duration?",
+   "back": "Start within **72 hours** and continue for **4 weeks**; not advised if the source's viral load is undetectable.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1454,
+     "page": 1441
+    }
+   ]
+  },
+  {
+   "id": "id-std.c9",
+   "sectionId": "id-std.s4",
+   "front": "Treatment of early syphilis (< 2 years) per Davidson?",
+   "back": "**Benzathine benzylpenicillin 2.4 megaunits IM once**; late syphilis = weekly for 3 doses.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 361,
+     "page": 339
+    }
+   ]
+  },
+  {
+   "id": "id-std.c10",
+   "sectionId": "id-std.s4",
+   "front": "Fever, headache and myalgia hours after the first penicillin dose for secondary syphilis?",
+   "back": "**Jarisch–Herxheimer reaction** — settles within 24 h; not allergy. Risky in pregnancy (fetal distress).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 361,
+     "page": 339
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1437,
+     "page": 1424
+    }
+   ]
+  },
+  {
+   "id": "id-std.c11",
+   "sectionId": "id-std.s4",
+   "front": "Causes of a biological false-positive VDRL/RPR?",
+   "back": "Acute: infectious mononucleosis, chickenpox, malaria, **pregnancy**. Chronic: **autoimmune disease** (e.g. SLE). The treponemal test is negative.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 360,
+     "page": 338
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 1005,
+     "page": 1005
+    }
+   ]
+  },
+  {
+   "id": "id-std.c12",
+   "sectionId": "id-std.s5",
+   "front": "Davidson's treatment for uncomplicated anogenital gonorrhoea?",
+   "back": "**Ceftriaxone 500 mg IM plus azithromycin 1 g orally** (and treat for chlamydia).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 362,
+     "page": 340
+    }
+   ]
+  },
+  {
+   "id": "id-std.c13",
+   "sectionId": "id-std.s5",
+   "front": "Clinical picture of disseminated gonococcal infection?",
+   "back": "Usually a woman with silent genital infection: **fever, tenosynovitis, arthritis and pustular (haemorrhagic) skin lesions**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 362,
+     "page": 340
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 956,
+     "page": 956
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 1003,
+     "page": 1003
+    }
+   ]
+  },
+  {
+   "id": "id-std.c14",
+   "sectionId": "id-std.s5",
+   "front": "Gram-stain criteria for urethritis and for presumed gonorrhoea?",
+   "back": "**≥ 5 polymorphs per high-power field** = urethritis; **intracellular Gram-negative diplococci** = presumed gonorrhoea (else label NSU).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 355,
+     "page": 333
+    }
+   ]
+  },
+  {
+   "id": "id-std.c15",
+   "sectionId": "id-std.s6",
+   "front": "Test of choice for Trichomonas vaginalis?",
+   "back": "**NAAT** (> 90% sensitive) on a vulvovaginal swab or first-void urine; wet mount finds only ~50%.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1433,
+     "page": 1420
+    }
+   ]
+  },
+  {
+   "id": "id-std.c16",
+   "sectionId": "id-std.s6",
+   "front": "Vaginal pH and microscopy in bacterial vaginosis vs candidiasis?",
+   "back": "BV: pH **> 4.5**, clue cells, no inflammation. Candida: pH **< 4.5**, pseudohyphae, inflamed vulva.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 357,
+     "page": 335
+    }
+   ]
+  },
+  {
+   "id": "id-std.c17",
+   "sectionId": "id-std.s7",
+   "front": "First-episode genital herpes treatment (Davidson)?",
+   "back": "**Aciclovir 400 mg three times daily** (or valaciclovir 500 mg twice daily) for **5 days**, started within 5 days of onset or while lesions are forming.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 364,
+     "page": 342
+    }
+   ]
+  },
+  {
+   "id": "id-std.c18",
+   "sectionId": "id-std.s7",
+   "front": "Best test to confirm and type genital herpes?",
+   "back": "**PCR for HSV DNA** on a swab of vesicle fluid or ulcer base; type-specific serology is not accurate enough.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 364,
+     "page": 342
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "id-std.q1",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Choosing an HIV test",
+   "leadIn": "For each scenario, choose the most appropriate next test. Any option may be picked for one scenario, for several, or for none.",
+   "options": [
+    "Fourth-generation HIV antigen/antibody immunoassay",
+    "HIV RNA PCR",
+    "A second, different HIV antibody immunoassay",
+    "CD4 lymphocyte count",
+    "HIV genotypic resistance test",
+    "Repeat antibody test 3 months after the last exposure",
+    "Serum cryptococcal antigen",
+    "HLA-B*5701 typing",
+    "Western blot as the only test",
+    "Monospot (heterophile antibody) test"
+   ],
+   "items": [
+    {
+     "stem": "A 7-week-old girl is reviewed in clinic. Her mother was diagnosed with HIV late in pregnancy and breastfed for the first 2 weeks. The baby is thriving. A rapid HIV antibody test on the baby is positive.",
+     "answer": 1,
+     "explanation": "The positive antibody test only shows the mother's IgG, which crossed the placenta and can persist for over a year. Infection in an infant is diagnosed by **HIV RNA PCR**.",
+     "studyRef": {
+      "sectionId": "id-std.s1"
+     }
+    },
+    {
+     "stem": "A 29-year-old woman at her booking antenatal visit has a reactive rapid point-of-care HIV antibody test. She is well and has no symptoms.",
+     "answer": 2,
+     "explanation": "Davidson: a positive result on **two different immunoassays** confirms HIV. A single rapid test is not enough, and the CD4 count is not diagnostic.",
+     "studyRef": {
+      "sectionId": "id-std.s1"
+     }
+    },
+    {
+     "stem": "A 33-year-old man had condomless sex with a new partner 5 weeks ago. A fourth-generation test done in week 2 was negative, and a second one today is also negative. He has no symptoms and asks whether he can now be fully reassured.",
+     "answer": 5,
+     "explanation": "Two-step: antibodies can take up to 3 months to appear (window period), and p24 is short-lived. So a negative result now does not fully exclude infection; advise a **final test 3 months after the last exposure**.",
+     "studyRef": {
+      "sectionId": "id-std.s1"
+     }
+    },
+    {
+     "stem": "A 41-year-old man attends a sexual health clinic for a routine screen after a new relationship began 8 months ago. He has no symptoms.",
+     "answer": 0,
+     "explanation": "For routine screening, the preferred test is the **fourth-generation antigen/antibody assay**, which detects both p24 antigen and antibody.",
+     "studyRef": {
+      "sectionId": "id-std.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 332,
+     "page": 310
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 333,
+     "page": 311
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1446,
+     "page": 1433
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 963,
+     "page": 963
+    }
+   ]
+  },
+  {
+   "id": "id-std.q2",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Antiretroviral therapy decisions",
+   "leadIn": "For each patient, choose the most appropriate next step. Any option may be picked for one scenario, for several, or for none.",
+   "options": [
+    "Start ART now, regardless of CD4 count",
+    "Start ART within 2 weeks of starting treatment for the infection",
+    "Defer ART for about 5 weeks after starting antifungal treatment",
+    "Defer ART until about 8 weeks into TB treatment",
+    "Continue ART and manage an immune reconstitution reaction",
+    "Stop ART permanently",
+    "Repeat viral load, then resistance testing before switching",
+    "Four weeks of post-exposure prophylaxis",
+    "Oral tenofovir-emtricitabine pre-exposure prophylaxis",
+    "No antiretroviral prophylaxis needed",
+    "Pre-emptive fluconazole",
+    "Macrolide prophylaxis"
+   ],
+   "items": [
+    {
+     "stem": "A 27-year-old woman is newly diagnosed with HIV. She is well, with a CD4 count of 640 cells/mm³ and a viral load of 15 000 copies/mL. She asks whether treatment can wait until her count falls.",
+     "answer": 0,
+     "explanation": "Guidelines now advise **ART for all** people with confirmed HIV, whatever the CD4 count, because it reduces illness, death and transmission.",
+     "studyRef": {
+      "sectionId": "id-std.s3"
+     }
+    },
+    {
+     "stem": "A 35-year-old man with untreated HIV (CD4 40) has headache and fever. CSF India ink stain is positive, and he has just started amphotericin B and flucytosine.",
+     "answer": 2,
+     "explanation": "In **cryptococcal meningitis**, starting ART early raises mortality, so defer it for about **5 weeks**.",
+     "studyRef": {
+      "sectionId": "id-std.s3"
+     }
+    },
+    {
+     "stem": "A 30-year-old woman with newly diagnosed HIV has smear-positive pulmonary TB. Her CD4 count is 260 cells/mm³ and she started standard four-drug TB therapy yesterday.",
+     "answer": 3,
+     "explanation": "With TB and a CD4 count above 50, defer ART until about **8 weeks** of TB treatment to reduce IRIS risk. With CD4 under 50, start earlier.",
+     "studyRef": {
+      "sectionId": "id-std.s3"
+     }
+    },
+    {
+     "stem": "A 38-year-old man started ART 3 weeks ago with a CD4 count of 30, while on treatment for TB lymphadenitis. He now has fever and enlarging, tender neck nodes. His viral load has fallen 50-fold and TB cultures are fully sensitive.",
+     "answer": 4,
+     "explanation": "Two-step: worsening of a treated infection soon after ART starts, while the virus is responding and the TB is drug-sensitive, is **paradoxical IRIS**. The response is to continue ART, not stop it.",
+     "studyRef": {
+      "sectionId": "id-std.s3"
+     }
+    },
+    {
+     "stem": "A staff nurse has a needlestick injury from a patient with HIV who has been on ART for 3 years with a viral load persistently under 50 copies/mL.",
+     "answer": 9,
+     "explanation": "Kumar: PEP is **not recommended** when the source has an **undetectable viral load** (< 200 copies/mL).",
+     "studyRef": {
+      "sectionId": "id-std.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 347,
+     "page": 325
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1454,
+     "page": 1441
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 965,
+     "page": 965
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 348,
+     "page": 326
+    }
+   ]
+  },
+  {
+   "id": "id-std.q3",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Stages and forms of syphilis",
+   "leadIn": "For each patient, choose the most likely diagnosis. Any option may be picked for one scenario, for several, or for none.",
+   "options": [
+    "Primary syphilis",
+    "Secondary syphilis",
+    "Early latent syphilis",
+    "Late latent syphilis",
+    "Benign tertiary (gummatous) syphilis",
+    "Cardiovascular syphilis",
+    "Tabes dorsalis",
+    "General paralysis of the insane",
+    "Early congenital syphilis",
+    "Late congenital syphilis",
+    "Primary HIV infection",
+    "Chancroid"
+   ],
+   "items": [
+    {
+     "stem": "A 26-year-old man has had a single painless, firm, clean-based ulcer on the penile shaft for 10 days. Both groins have mobile, rubbery, non-tender nodes. He had a new partner 3 weeks ago.",
+     "answer": 0,
+     "explanation": "A **single painless indurated ulcer** with painless rubbery nodes, about 3 weeks after exposure, is a **primary chancre**.",
+     "studyRef": {
+      "sectionId": "id-std.s4"
+     }
+    },
+    {
+     "stem": "A 31-year-old woman has felt feverish for 2 weeks. She has a symmetrical, non-itchy, coppery papular rash on the trunk, palms and soles, moist flat plaques around the anus and greyish erosions inside the lips.",
+     "answer": 1,
+     "explanation": "A rash involving **palms and soles**, plus **condylomata lata** and **mucous patches**, is secondary syphilis.",
+     "studyRef": {
+      "sectionId": "id-std.s4"
+     }
+    },
+    {
+     "stem": "A 64-year-old man has exertional chest pain and an early diastolic murmur. CT shows dilatation confined to the ascending aorta with linear wall calcification. His treponemal EIA is positive.",
+     "answer": 5,
+     "explanation": "**Syphilitic aortitis** affects the ascending aorta and causes aortic regurgitation, angina (from ostial narrowing) and aneurysm.",
+     "studyRef": {
+      "sectionId": "id-std.s4"
+     }
+    },
+    {
+     "stem": "A 34-year-old woman has a positive treponemal EIA and an RPR titre of 1:16 at antenatal screening. She had a negative syphilis test 15 months ago at her last pregnancy. She has never noticed a sore or rash, and examination is normal.",
+     "answer": 2,
+     "explanation": "Two-step: no clinical signs = latent. Infection was acquired within the last 15 months, which is under Davidson's **2-year** cut-off = **early latent** (still infectious). (A US text using a 1-year cut-off would call this late latent.)",
+     "studyRef": {
+      "sectionId": "id-std.s4"
+     }
+    },
+    {
+     "stem": "A 9-year-old boy has a saddle nose, notched peg-shaped upper central incisors, bilateral corneal clouding from interstitial keratitis, and progressive hearing loss.",
+     "answer": 9,
+     "explanation": "Hutchinson's incisors, saddle nose, interstitial keratitis and 8th nerve deafness are **late congenital syphilis** and its stigmata.",
+     "studyRef": {
+      "sectionId": "id-std.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 359,
+     "page": 337
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 360,
+     "page": 338
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1436,
+     "page": 1423
+    }
+   ]
+  },
+  {
+   "id": "id-std.q4",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Presentations of gonococcal and related infection",
+   "leadIn": "For each patient, choose the most likely diagnosis. Any option may be picked for one scenario, for several, or for none.",
+   "options": [
+    "Uncomplicated gonococcal urethritis",
+    "Chlamydial urethritis",
+    "Disseminated gonococcal infection",
+    "Gonococcal ophthalmia neonatorum",
+    "Pelvic inflammatory disease",
+    "Fitz-Hugh–Curtis perihepatitis",
+    "Epididymo-orchitis",
+    "Sexually acquired reactive arthritis",
+    "Bartholin's gland abscess",
+    "Trichomoniasis",
+    "Infective endocarditis",
+    "Acute cholecystitis"
+   ],
+   "items": [
+    {
+     "stem": "A 22-year-old man has had a profuse yellow urethral discharge and burning dysuria for 2 days, 4 days after sex with a new partner. A urethral Gram stain shows many polymorphs containing Gram-negative diplococci.",
+     "answer": 0,
+     "explanation": "Short incubation, a **profuse purulent discharge** and **intracellular Gram-negative diplococci** are diagnostic of gonococcal urethritis.",
+     "studyRef": {
+      "sectionId": "id-std.s5"
+     }
+    },
+    {
+     "stem": "A 19-year-old woman has 3 days of fever, pain moving across her knees and wrists, painful swelling along the extensor tendons of the right hand, and five small pustules with a dusky centre on her forearms. She has no genital symptoms. Her vaginal NAAT is positive.",
+     "answer": 2,
+     "explanation": "Fever, **tenosynovitis**, migratory arthralgia and **haemorrhagic pustules**, from a silent genital source, make up **DGI**.",
+     "studyRef": {
+      "sectionId": "id-std.s5"
+     }
+    },
+    {
+     "stem": "A 3-day-old baby has a thick purulent discharge from both eyes with tense, swollen lids. The mother had no antenatal care.",
+     "answer": 3,
+     "explanation": "Hyperacute purulent conjunctivitis in the first days of life, after exposure during delivery, is **gonococcal ophthalmia neonatorum**. It needs urgent treatment to save the cornea.",
+     "studyRef": {
+      "sectionId": "id-std.s5"
+     }
+    },
+    {
+     "stem": "A 24-year-old woman had an endocervical NAAT positive for N. gonorrhoeae 3 weeks ago but did not return for treatment. She now has right upper quadrant pain worse on deep breathing, mild fever and raised transaminases. Ultrasound of the gallbladder and bile ducts is normal.",
+     "answer": 5,
+     "explanation": "Two-step: untreated cervical gonorrhoea → ascending infection, then spread to the liver capsule. RUQ pleuritic pain with a normal biliary tree is **Fitz-Hugh–Curtis perihepatitis**.",
+     "studyRef": {
+      "sectionId": "id-std.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 355,
+     "page": 333
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 362,
+     "page": 340
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 956,
+     "page": 956
+    }
+   ]
+  },
+  {
+   "id": "id-std.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 28-year-old man has had fever, sore throat, aching muscles and diarrhoea for 6 days. Three weeks ago he had condomless sex with a new partner. He has a faint maculopapular rash on the trunk, shallow ulcers on the buccal mucosa and the glans, and cervical lymphadenopathy. He has not taken any antibiotics. Monospot is negative and the RPR is non-reactive.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Infectious mononucleosis (EBV)",
+    "Primary HIV infection",
+    "Secondary syphilis",
+    "Primary CMV infection",
+    "Streptococcal pharyngitis"
+   ],
+   "answer": 1,
+   "explanation": "A glandular-fever-like illness 2–4 weeks after exposure, with a **rash and mucosal ulceration** and no aminopenicillin, strongly suggests **primary HIV**. Test with HIV RNA PCR or a fourth-generation assay, because antibody may not yet be present.",
+   "whyNot": [
+    "EBV rarely causes a rash unless an aminopenicillin is given, and the Monospot is negative.",
+    "",
+    "Secondary syphilis is in the differential, but it appears 6–8 weeks after a chancre, not 3 weeks after exposure, and the RPR is non-reactive.",
+    "CMV mononucleosis also rarely causes a rash without an aminopenicillin; mucosal ulceration points to HIV instead.",
+    "Streptococcal pharyngitis does not explain the mucosal ulcers, diarrhoea or the timing after exposure."
+   ],
+   "studyRef": {
+    "sectionId": "id-std.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 333,
+     "page": 311
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 334,
+     "page": 312
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 359,
+     "page": 337
+    }
+   ]
+  },
+  {
+   "id": "id-std.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 36-year-old woman with HIV, not on treatment, has had a productive cough, night sweats and weight loss for 5 weeks. Chest X-ray shows a right upper-lobe infiltrate. Her CD4 count is 350 cells/mm³.",
+   "leadIn": "Which is the most likely cause?",
+   "options": [
+    "Pneumocystis jirovecii pneumonia",
+    "Pulmonary tuberculosis",
+    "Disseminated Mycobacterium avium complex",
+    "Cytomegalovirus pneumonitis",
+    "Cryptococcal pneumonia"
+   ],
+   "answer": 1,
+   "explanation": "TB can occur at **any CD4 count** and is the commonest serious HIV infection worldwide. At CD4 350, opportunistic infections that need profound immunosuppression are unlikely. Davidson's example: with a lung infiltrate at CD4 350, TB is likely and PJP very unlikely.",
+   "whyNot": [
+    "PCP typically occurs below 200 cells/mm³ and gives diffuse interstitial shadowing with a dry cough.",
+    "",
+    "MAC occurs below about 50 cells/mm³.",
+    "CMV disease is a feature of CD4 counts below 50–100.",
+    "Cryptococcal disease is a feature of CD4 counts below 100–200 and usually presents as meningitis."
+   ],
+   "studyRef": {
+    "sectionId": "id-std.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 334,
+     "page": 312
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 461,
+     "page": 461
+    }
+   ]
+  },
+  {
+   "id": "id-std.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 25-year-old woman has a week of profuse, frothy, yellow-green, offensive vaginal discharge with vulval soreness and dysuria. Speculum examination shows an inflamed vaginal wall and multiple pinpoint red spots on the cervix.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Bacterial vaginosis",
+    "Vulvovaginal candidiasis",
+    "Trichomoniasis",
+    "Gonococcal cervicitis",
+    "Chlamydial cervicitis"
+   ],
+   "answer": 2,
+   "explanation": "**Frothy yellow-green discharge with marked inflammation** and a **'strawberry cervix'** is classic trichomoniasis. Confirm with NAAT (or motile flagellates on wet mount).",
+   "whyNot": [
+    "BV gives a thin grey fishy discharge with no inflammation.",
+    "Candida gives a curdy white discharge with a low pH (< 4.5).",
+    "",
+    "Gonococcal cervicitis gives mucopurulent cervical (not frothy vaginal) discharge and is often silent.",
+    "Chlamydia is usually asymptomatic or gives mucopurulent cervicitis with contact bleeding."
+   ],
+   "studyRef": {
+    "sectionId": "id-std.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 357,
+     "page": 335
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1433,
+     "page": 1420
+    }
+   ]
+  },
+  {
+   "id": "id-std.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 30-year-old woman has trichomoniasis confirmed by NAAT. She is not pregnant. She asks for a cream or vaginal gel because she dislikes tablets.",
+   "leadIn": "Which is the most appropriate treatment?",
+   "options": [
+    "Intravaginal metronidazole gel for 5 days",
+    "Oral metronidazole for 5–7 days",
+    "Clotrimazole 500 mg pessary",
+    "Oral fluconazole 150 mg single dose",
+    "Oral azithromycin 1 g single dose"
+   ],
+   "answer": 1,
+   "explanation": "Trichomoniasis needs **systemic (oral) metronidazole** (Davidson: 400 mg twice daily for 5–7 days, or 2 g once). Advise no alcohol until 48 hours after the course, and treat partners.",
+   "whyNot": [
+    "Vaginal gel does not reach the urethra and paraurethral glands, so infection persists.",
+    "",
+    "Clotrimazole treats candidiasis, not a protozoon.",
+    "Fluconazole is an antifungal for candida.",
+    "Azithromycin treats chlamydia; it has no useful activity against T. vaginalis."
+   ],
+   "studyRef": {
+    "sectionId": "id-std.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 357,
+     "page": 335
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1433,
+     "page": 1420
+    }
+   ]
+  },
+  {
+   "id": "id-std.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 21-year-old woman has had painful vulval blisters for 2 days, now forming shallow ulcers, with dysuria and tender inguinal nodes. You want to confirm the diagnosis and know the viral type.",
+   "leadIn": "Which investigation is most appropriate?",
+   "options": [
+    "Type-specific HSV antibody serology",
+    "HSV DNA PCR on a swab from the ulcer base",
+    "Electron microscopy of vesicle fluid",
+    "Dark-ground microscopy of ulcer exudate",
+    "Treponemal EIA"
+   ],
+   "answer": 1,
+   "explanation": "**PCR for HSV DNA** on vesicle fluid or ulcer material is sensitive and **types HSV-1 vs HSV-2**.",
+   "whyNot": [
+    "Type-specific serology is not accurate enough for routine diagnosis and may be negative early.",
+    "",
+    "Electron microscopy cannot tell herpesviruses apart, so it is only presumptive.",
+    "Dark-ground microscopy looks for treponemes in a syphilitic chancre.",
+    "A treponemal EIA tests for syphilis, not herpes."
+   ],
+   "studyRef": {
+    "sectionId": "id-std.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 364,
+     "page": 342
+    }
+   ]
+  },
+  {
+   "id": "id-std.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 23-year-old woman on day 4 of oral aciclovir for a first episode of genital herpes has been unable to pass urine for 14 hours. Her bladder is palpable to the umbilicus. There are extensive vulval ulcers.",
+   "leadIn": "What is the most appropriate way to relieve the retention?",
+   "options": [
+    "Urethral catheterisation",
+    "Suprapubic catheterisation",
+    "Oral tamsulosin and review in 24 hours",
+    "Topical lidocaine gel and encourage voiding in a warm bath only",
+    "Increase to intravenous aciclovir without bladder drainage"
+   ],
+   "answer": 1,
+   "explanation": "Retention in primary herpes comes from **sacral autonomic neuropathy**. Davidson advises **suprapubic** drainage, because a urethral catheter passed through infected tissue may carry HSV into the bladder.",
+   "whyNot": [
+    "A urethral catheter risks introducing HSV into the bladder.",
+    "",
+    "An alpha-blocker does not treat neurogenic retention and delays drainage of a large bladder.",
+    "Warm baths help mild dysuria but cannot relieve established retention of this volume.",
+    "IV aciclovir is for meningitis or intolerance of oral therapy; it does not drain the bladder."
+   ],
+   "studyRef": {
+    "sectionId": "id-std.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 364,
+     "page": 342
+    }
+   ]
+  },
+  {
+   "id": "id-std.q11",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Causes of genital ulceration",
+   "leadIn": "For each patient, choose the most likely cause. Any option may be picked for one scenario, for several, or for none.",
+   "options": [
+    "First episode of genital herpes",
+    "Recurrent genital herpes",
+    "Primary syphilis",
+    "Chancroid",
+    "Lymphogranuloma venereum",
+    "Granuloma inguinale (donovanosis)",
+    "Behçet's disease",
+    "Squamous cell carcinoma of the penis",
+    "Fixed drug eruption",
+    "Condylomata lata of secondary syphilis"
+   ],
+   "items": [
+    {
+     "stem": "A 20-year-old woman has multiple very painful shallow vulval ulcers, fever, headache, burning on micturition and tender bilateral inguinal nodes, a week after her first sexual partner.",
+     "answer": 0,
+     "explanation": "**Multiple painful ulcers** with systemic upset and tender nodes is a **first episode of genital herpes**, the commonest cause of genital ulcers.",
+     "studyRef": {
+      "sectionId": "id-std.s7"
+     }
+    },
+    {
+     "stem": "A 35-year-old man returned from East Africa a week ago. He has two painful, deep penile ulcers with ragged, undermined edges and a single fluctuant, tender left inguinal swelling.",
+     "answer": 3,
+     "explanation": "**Painful ulcers with undermined edges** plus a **suppurative bubo** after tropical exposure is **chancroid** (H. ducreyi).",
+     "studyRef": {
+      "sectionId": "id-std.s7"
+     }
+    },
+    {
+     "stem": "A 30-year-old man who travelled in South-East Asia noticed a tiny painless genital papule that vanished within days. Three weeks later he has a tender, matted mass of left inguinal nodes that has started to discharge pus.",
+     "answer": 4,
+     "explanation": "A **transient painless primary lesion** followed by a **tender, matted, suppurating bubo** is lymphogranuloma venereum (C. trachomatis L1–3).",
+     "studyRef": {
+      "sectionId": "id-std.s7"
+     }
+    },
+    {
+     "stem": "A 40-year-old woman known to have HSV-2 feels tingling in the left buttock for a day, then gets a small cluster of three ulcers on the labium. She is otherwise well, without fever or lymphadenopathy.",
+     "answer": 1,
+     "explanation": "Two-step: a known HSV-2 carrier with a **neuralgic prodrome** and a small, localised crop without systemic features = **recurrence** (milder and shorter than the first episode).",
+     "studyRef": {
+      "sectionId": "id-std.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 355,
+     "page": 333
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 363,
+     "page": 341
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 364,
+     "page": 342
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 691,
+     "page": 691
+    }
+   ]
+  },
+  {
+   "id": "id-std.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 45-year-old man is screened before a work visa. He was treated with benzathine penicillin for secondary syphilis 6 years ago, with documented negative RPR afterwards, and he reports no new partners. Today the treponemal EIA is positive and the RPR is non-reactive. He has no symptoms or signs.",
+   "leadIn": "What is the best interpretation?",
+   "options": [
+    "Previously treated syphilis with persistent treponemal antibody",
+    "Biological false-positive reaction",
+    "Prozone phenomenon in secondary syphilis",
+    "Early primary syphilis before RPR turns positive",
+    "Untreated late latent syphilis"
+   ],
+   "answer": 0,
+   "explanation": "Treponemal tests usually **stay positive for life**, while the non-treponemal titre falls to undetectable after successful treatment. With documented treatment and no new risk, this is a serological scar — no further treatment is needed.",
+   "whyNot": [
+    "",
+    "A biological false positive is the reverse pattern: reactive RPR/VDRL with a negative treponemal test.",
+    "Prozone causes a falsely negative RPR in florid secondary syphilis, and he has no lesions.",
+    "Early primary syphilis would need a recent exposure and usually a chancre; he has neither.",
+    "His infection was documented as treated, with RPR falling to negative afterwards."
+   ],
+   "studyRef": {
+    "sectionId": "id-std.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 360,
+     "page": 338
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 361,
+     "page": 339
+    }
+   ]
+  },
+  {
+   "id": "id-std.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 27-year-old woman with secondary syphilis receives intramuscular benzathine penicillin in clinic. About 7 hours later she develops fever of 38.6 °C, headache, aching muscles and a brief worsening of her rash. There is no wheeze, urticaria or hypotension.",
+   "leadIn": "What is the most likely explanation?",
+   "options": [
+    "Penicillin anaphylaxis",
+    "Jarisch–Herxheimer reaction",
+    "Procaine reaction from intravascular injection",
+    "Serum sickness",
+    "Onset of meningovascular neurosyphilis"
+   ],
+   "answer": 1,
+   "explanation": "A self-limiting febrile reaction **hours after the first treatment**, common in secondary syphilis, is the **Jarisch–Herxheimer reaction**. Inflammatory mediators are released from dying treponemes. It settles within 24 hours with antipyretics and is **not a reason to stop penicillin**.",
+   "whyNot": [
+    "Anaphylaxis comes within minutes, with urticaria, bronchospasm or hypotension.",
+    "",
+    "The procaine reaction is immediate (fear of death, hallucinations) and follows procaine, not benzathine, penicillin.",
+    "Serum sickness is a delayed reaction, not a fever within hours of the first dose.",
+    "Neurosyphilis does not appear within hours of treatment; the timing fits a treatment reaction."
+   ],
+   "studyRef": {
+    "sectionId": "id-std.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 361,
+     "page": 339
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1437,
+     "page": 1424
+    }
+   ]
+  },
+  {
+   "id": "id-std.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 24-year-old man has gonococcal urethritis confirmed on Gram stain, and a urethral swab has been sent for culture and sensitivities. Chlamydia has not been excluded. He has no drug allergies.",
+   "leadIn": "According to Davidson, which is the recommended treatment?",
+   "options": [
+    "Ciprofloxacin 500 mg orally, single dose",
+    "Ceftriaxone 500 mg IM plus azithromycin 1 g orally",
+    "Benzathine benzylpenicillin 2.4 megaunits IM",
+    "Doxycycline 100 mg twice daily for 7 days alone",
+    "Metronidazole 2 g orally, single dose"
+   ],
+   "answer": 1,
+   "explanation": "Davidson's UK regimen is **ceftriaxone 500 mg IM with azithromycin 1 g orally**. The combination aims to slow cephalosporin resistance and also covers chlamydia. Kumar's newer regimen is ceftriaxone 1 g alone; note the difference.",
+   "whyNot": [
+    "Quinolone resistance is widespread; use ciprofloxacin only when the isolate is known to be sensitive.",
+    "",
+    "Benzathine penicillin is for syphilis; gonococci are commonly penicillin-resistant.",
+    "Doxycycline treats chlamydia but not gonorrhoea.",
+    "Metronidazole treats trichomonas and anaerobes, not Neisseria."
+   ],
+   "studyRef": {
+    "sectionId": "id-std.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 362,
+     "page": 340
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1430,
+     "page": 1417
+    }
+   ]
+  },
+  {
+   "id": "id-std.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "A 29-year-old woman at 36 weeks of her first pregnancy has developed painful vulval ulcers and vesicles over 3 days, with fever. She has never had genital lesions before. HSV-2 PCR on an ulcer swab is positive.",
+   "leadIn": "What is the most appropriate plan?",
+   "options": [
+    "Aciclovir and planned caesarean section",
+    "Aciclovir and planned vaginal delivery",
+    "No antiviral; await spontaneous labour",
+    "Topical aciclovir cream only",
+    "Start suppressive therapy only after delivery"
+   ],
+   "answer": 0,
+   "explanation": "A **primary episode after 34 weeks** carries very heavy viral shedding in labour, so Davidson notes that **caesarean section is often recommended**. Third-trimester acquisition should also be treated with aciclovir, because haematogenous dissemination can be life-threatening.",
+   "whyNot": [
+    "",
+    "Vaginal delivery suits recurrences or symptomless women; after a primary episode this late, the neonatal risk is high.",
+    "Untreated third-trimester primary herpes risks life-threatening dissemination and neonatal infection.",
+    "Topical cream alone is not a Davidson option; a first episode is treated with oral (or IV) aciclovir.",
+    "Delaying treatment leaves both mother and baby at risk during labour."
+   ],
+   "studyRef": {
+    "sectionId": "id-std.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 364,
+     "page": 342
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1435,
+     "page": 1422
+    }
+   ]
+  },
+  {
+   "id": "id-std.q16",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 26-year-old junior doctor sustained a deep needlestick injury with a hollow needle 30 hours ago while taking blood from a patient with HIV. The source patient started ART 2 weeks ago, and their viral load is not yet known. The doctor's own HIV status is unknown.",
+   "leadIn": "What is the most appropriate management?",
+   "options": [
+    "Reassure: the risk is only about 0.3%, so no action is needed",
+    "Baseline HIV test, then 4 weeks of post-exposure prophylaxis",
+    "Start lifelong antiretroviral therapy",
+    "No PEP, because more than 24 hours have passed",
+    "Wait 3 months and test for HIV antibodies before deciding"
+   ],
+   "answer": 1,
+   "explanation": "Step 1 — risk: a **deep injury with a hollow, blood-filled needle** raises the baseline 0.3% risk. Step 2 — source: just started ART, so the viral load is unlikely to be undetectable yet; PEP is only withheld when the source is known to be suppressed. Step 3 — timing: PEP works up to **72 hours**, so 30 hours is within the window. Step 4 — plan: test the recipient for HIV at baseline, then give **4 weeks** of PEP (UK: tenofovir-emtricitabine plus raltegravir), with follow-up testing.",
+   "whyNot": [
+    "The risk is small but real and increased by a deep injury; PEP is indicated.",
+    "",
+    "Lifelong ART is for established infection, not prophylaxis.",
+    "The PEP window is 72 hours, not 24.",
+    "Waiting wastes the window in which PEP can prevent infection."
+   ],
+   "studyRef": {
+    "sectionId": "id-std.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1454,
+     "page": 1441
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 330,
+     "page": 308
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 331,
+     "page": 309
+    }
+   ]
+  },
+  {
+   "id": "id-std.q17",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 28-year-old man has had a scanty mucoid urethral discharge and mild dysuria for a week, beginning 2 weeks after a new partner. A Gram-stained urethral smear shows 12 polymorphs per high-power field and no intracellular diplococci.",
+   "leadIn": "What is the working diagnosis?",
+   "options": [
+    "Gonococcal urethritis",
+    "Non-specific (non-gonococcal) urethritis",
+    "No urethritis present",
+    "Trichomonal urethritis confirmed",
+    "Candidal balanitis"
+   ],
+   "answer": 1,
+   "explanation": "Step 1 — is there urethritis? **≥ 5 polymorphs per high-power field** = yes. Step 2 — gonococcal or not? No intracellular Gram-negative diplococci, so the working label is **NSU**. Step 3 — the clinical picture fits: longer incubation and milder discharge suggest chlamydia, the commonest cause. Step 4 — send a first-void urine NAAT for gonorrhoea and chlamydia, treat as for chlamydia, and trace partners.",
+   "whyNot": [
+    "Gonorrhoea is labelled when diplococci are seen; it usually gives a profuse purulent discharge within a week.",
+    "",
+    "Twelve polymorphs per field is well above the threshold of 5.",
+    "T. vaginalis is a minor cause of NSU, but nothing here confirms it.",
+    "Balanitis affects the glans and does not cause urethral polymorphs."
+   ],
+   "studyRef": {
+    "sectionId": "id-std.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 355,
+     "page": 333
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 362,
+     "page": 340
+    }
+   ]
+  },
+  {
+   "id": "id-std.q18",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 32-year-old man was treated for secondary syphilis with benzathine penicillin. His RPR titre was 1:64 at diagnosis, 1:16 at 3 months and 1:4 at 9 months. His treponemal EIA remains positive. He is well and has had no new partners.",
+   "leadIn": "How should these results be interpreted?",
+   "options": [
+    "Treatment failure: retreat with three weekly doses",
+    "Adequate serological response; continue follow-up",
+    "Reinfection; treat again and trace partners",
+    "Probable neurosyphilis: arrange lumbar puncture",
+    "Biological false-positive result"
+   ],
+   "answer": 1,
+   "explanation": "Step 1 — choose the right test: follow the **non-treponemal** (RPR) titre, because treponemal tests usually stay positive for life. Step 2 — size of fall: 1:64 → 1:4 is a 16-fold fall, well beyond the **fourfold fall** that counts as adequate. Step 3 — expected timeline: after secondary syphilis, the titre usually becomes undetectable in **12–18 months**, so a low titre at 9 months is expected. Continue monitoring.",
+   "whyNot": [
+    "Failure would mean the titre fails to fall fourfold or rises; here it has fallen 16-fold.",
+    "",
+    "Reinfection is suggested by a fourfold rise in titre, not a steady fall.",
+    "There are no neurological, eye or hearing symptoms to justify an LP.",
+    "A biological false positive needs a negative treponemal test."
+   ],
+   "studyRef": {
+    "sectionId": "id-std.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 361,
+     "page": 339
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 1659,
+     "page": 1659
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 979,
+     "page": 979
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1437,
+     "page": 1424
+    }
+   ]
+  },
+  {
+   "id": "id-std.q19",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Drug treatment of sexually transmitted infections",
+   "leadIn": "For each patient, choose the most appropriate treatment (Davidson's regimens). Any option may be picked for one scenario, for several, or for none.",
+   "options": [
+    "Benzathine benzylpenicillin 2.4 megaunits IM, single dose",
+    "Benzathine benzylpenicillin 2.4 megaunits IM weekly for 3 doses",
+    "Procaine penicillin for 14 days with 3 days of prednisolone",
+    "Ceftriaxone 500 mg IM plus azithromycin 1 g orally",
+    "Doxycycline 100 mg twice daily for 7 days",
+    "Oral metronidazole for 5–7 days",
+    "Aciclovir 400 mg three times daily for 5 days",
+    "Aciclovir 400 mg twice daily for at least 1 year",
+    "Fluconazole 150 mg orally, single dose",
+    "Clotrimazole 500 mg pessary",
+    "Tenofovir-emtricitabine plus raltegravir for 4 weeks"
+   ],
+   "items": [
+    {
+     "stem": "A 30-year-old man has a non-itchy rash on his palms and soles and generalised lymphadenopathy. He had a painless penile sore 2 months ago. RPR 1:128, treponemal EIA positive. No allergies.",
+     "answer": 0,
+     "explanation": "Secondary syphilis is **early syphilis** (< 2 years), so a **single dose of benzathine penicillin** is enough.",
+     "studyRef": {
+      "sectionId": "id-std.s4"
+     }
+    },
+    {
+     "stem": "A 58-year-old man has positive treponemal and RPR tests at a health check. His last negative test was 7 years ago. He has no symptoms; neurological, cardiac and eye examinations are normal.",
+     "answer": 1,
+     "explanation": "Two-step: no signs = latent, and duration over 2 years (or unknown) = **late latent**, so give **three weekly doses** of benzathine penicillin.",
+     "studyRef": {
+      "sectionId": "id-std.s4"
+     }
+    },
+    {
+     "stem": "A 33-year-old woman with genital HSV-2 has had painful recurrences about every 3 weeks for the past 8 months despite episodic treatment.",
+     "answer": 7,
+     "explanation": "Recurrences **less than 4 weeks apart** justify **suppressive aciclovir 400 mg twice daily** for at least a year, then a break to reassess.",
+     "studyRef": {
+      "sectionId": "id-std.s7"
+     }
+    },
+    {
+     "stem": "A 26-year-old woman has a frothy green vaginal discharge and vaginal soreness. Motile flagellated organisms are seen on wet mount.",
+     "answer": 5,
+     "explanation": "Trichomoniasis: **oral metronidazole** (400 mg twice daily for 5–7 days, or 2 g once); treat partners.",
+     "studyRef": {
+      "sectionId": "id-std.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 361,
+     "page": 339
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 357,
+     "page": 335
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 364,
+     "page": 342
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1433,
+     "page": 1420
+    }
+   ]
+  },
+  {
+   "id": "id-std.q20",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Vaginal discharge and cervicitis",
+   "leadIn": "For each patient, choose the most likely diagnosis. Any option may be picked for one scenario, for several, or for none.",
+   "options": [
+    "Bacterial vaginosis",
+    "Vulvovaginal candidiasis",
+    "Trichomoniasis",
+    "Gonococcal cervicitis",
+    "Chlamydial cervicitis",
+    "Retained tampon",
+    "Primary genital herpes",
+    "Physiological discharge",
+    "Pelvic inflammatory disease",
+    "Streptococcal vaginitis"
+   ],
+   "items": [
+    {
+     "stem": "A 28-year-old woman notices a thin, grey-white, fishy-smelling discharge, worse after intercourse. There is no itch or soreness and the vulva looks normal. Vaginal pH is 5.5, and adding alkali releases an amine odour.",
+     "answer": 0,
+     "explanation": "No inflammation, a **homogeneous fishy discharge**, **pH > 4.5** and a positive whiff test = **bacterial vaginosis** (clue cells on microscopy).",
+     "studyRef": {
+      "sectionId": "id-std.s6"
+     }
+    },
+    {
+     "stem": "A 34-year-old woman who has just finished amoxicillin has intense vulval itch and a thick white discharge clinging to the vaginal walls. The vulva is red and the vaginal pH is 4.",
+     "answer": 1,
+     "explanation": "**Curdy white, adherent discharge**, itch, inflammation and a **low pH**, after antibiotics, is candidiasis (pseudohyphae on microscopy).",
+     "studyRef": {
+      "sectionId": "id-std.s6"
+     }
+    },
+    {
+     "stem": "A 23-year-old woman has a profuse frothy yellow discharge with a sore, red vagina. Her male partner has no symptoms.",
+     "answer": 2,
+     "explanation": "**Frothy yellow-green discharge with marked inflammation** = trichomoniasis. Infected men are nearly always asymptomatic, which is why partners must be treated.",
+     "studyRef": {
+      "sectionId": "id-std.s6"
+     }
+    },
+    {
+     "stem": "A 20-year-old woman has a new mucopurulent discharge. The cervix is inflamed and bleeds on contact. A Gram-stained endocervical smear shows intracellular Gram-negative diplococci.",
+     "answer": 3,
+     "explanation": "**Intracellular Gram-negative diplococci** on endocervical microscopy give a working diagnosis of gonococcal cervicitis (microscopy is only 37–50% sensitive at this site, so a positive is useful).",
+     "studyRef": {
+      "sectionId": "id-std.s5"
+     }
+    },
+    {
+     "stem": "A 25-year-old woman has 5 days of lower abdominal pain, deep dyspareunia and intermenstrual bleeding, with a temperature of 38 °C. Bimanual examination shows cervical motion tenderness and adnexal tenderness. Her NAAT is positive for N. gonorrhoeae.",
+     "answer": 8,
+     "explanation": "Two-step: gonococcal cervical infection has spread upwards. Pelvic pain, dyspareunia, fever and adnexal tenderness = **PID**, which risks infertility and ectopic pregnancy.",
+     "studyRef": {
+      "sectionId": "id-std.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 357,
+     "page": 335
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 362,
+     "page": 340
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1430,
+     "page": 1417
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1433,
+     "page": 1420
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 432,
+     "page": 432
+    }
+   ]
+  },
+  {
+   "id": "id-std.q21",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A sexual health educator is ranking single exposures to an HIV-infected source by risk of transmission, excluding blood transfusion and childbirth.",
+   "leadIn": "Which single exposure carries the highest risk?",
+   "options": [
+    "Receptive anal intercourse",
+    "Percutaneous needlestick injury",
+    "Vaginal intercourse, male to female",
+    "Mucous membrane splash",
+    "Receptive oral intercourse"
+   ],
+   "answer": 0,
+   "explanation": "Davidson gives receptive anal intercourse **about 0.5%** per act, ahead of needlestick (0.3%), male-to-female vaginal sex (0.1%), mucosal splash (0.09%) and receptive oral sex (0.01%).",
+   "whyNot": [
+    "",
+    "Needlestick is about 0.3%, lower than receptive anal sex.",
+    "Male-to-female vaginal sex is about 0.1%.",
+    "A mucous membrane splash is about 0.09%.",
+    "Receptive oral sex is about 0.01%."
+   ],
+   "studyRef": {
+    "sectionId": "id-std.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 330,
+     "page": 308
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 959,
+     "page": 959
+    }
+   ]
+  },
+  {
+   "id": "id-std.q22",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A 39-year-old man with newly diagnosed HIV is to start an abacavir-containing regimen.",
+   "leadIn": "Which test must be done first?",
+   "options": [
+    "HLA-B*5701",
+    "G6PD activity",
+    "TPMT activity",
+    "HLA-B27",
+    "CYP2C19 genotype"
+   ],
+   "answer": 0,
+   "explanation": "**HLA-B*5701** carriers are at high risk of **abacavir hypersensitivity**, so test before prescribing.",
+   "whyNot": [
+    "",
+    "G6PD matters for oxidant drugs such as dapsone or primaquine, not abacavir.",
+    "TPMT predicts azathioprine/mercaptopurine toxicity.",
+    "HLA-B27 relates to spondyloarthritis, not drug hypersensitivity.",
+    "CYP2C19 affects clopidogrel and PPI metabolism."
+   ],
+   "studyRef": {
+    "sectionId": "id-std.s3"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 459,
+     "page": 459
+    }
+   ]
+  },
+  {
+   "id": "id-std.q23",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 3,
+   "theme": "HIV-associated conditions and the CD4 count",
+   "leadIn": "For each patient with HIV, choose the most likely diagnosis. Any option may be picked for one scenario, for several, or for none.",
+   "options": [
+    "Pulmonary tuberculosis",
+    "Pneumocystis jirovecii pneumonia",
+    "Cytomegalovirus disease",
+    "Disseminated Mycobacterium avium complex",
+    "Cryptococcal meningitis",
+    "Cerebral toxoplasmosis",
+    "Oral hairy leucoplakia",
+    "Herpes zoster",
+    "Kaposi sarcoma",
+    "Primary CNS lymphoma"
+   ],
+   "items": [
+    {
+     "stem": "A 34-year-old man with untreated HIV (CD4 120) has had 3 weeks of dry cough, fever and breathlessness on climbing stairs. His oxygen saturation falls from 95% to 87% on walking. CXR shows bilateral diffuse interstitial shadowing.",
+     "answer": 1,
+     "explanation": "**Dry cough, exertional desaturation and diffuse interstitial infiltrates** at CD4 < 200 is **PCP**; treat with co-trimoxazole, plus steroids if hypoxic.",
+     "studyRef": {
+      "sectionId": "id-std.s2"
+     }
+    },
+    {
+     "stem": "A 41-year-old woman with HIV (CD4 40) who stopped her medication has a week of headache, confusion and right arm weakness. Contrast CT shows several ring-enhancing lesions in the basal ganglia. Her Toxoplasma IgG is positive.",
+     "answer": 5,
+     "explanation": "**Multiple ring-enhancing basal ganglia lesions** at a very low CD4, with positive Toxoplasma IgG, is cerebral toxoplasmosis.",
+     "studyRef": {
+      "sectionId": "id-std.s2"
+     }
+    },
+    {
+     "stem": "A 29-year-old man with HIV (CD4 420) has had a productive cough, drenching night sweats and 6 kg weight loss over 6 weeks. CXR shows left upper-lobe consolidation with a cavity.",
+     "answer": 0,
+     "explanation": "Two-step: a CD4 of 420 makes most opportunistic infections unlikely. But **TB occurs at any count** and is the leading HIV-related illness worldwide; the cavitating upper-lobe disease fits.",
+     "studyRef": {
+      "sectionId": "id-std.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 334,
+     "page": 312
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 461,
+     "page": 461
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 965,
+     "page": 965
+    }
+   ]
+  },
+  {
+   "id": "id-std.q24",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 25-year-old man has a purulent urethral discharge. A Gram stain in clinic shows intracellular Gram-negative diplococci. A first-void urine NAAT has been sent, and you are about to give ceftriaxone.",
+   "leadIn": "Which additional specimen is most important to take before treatment?",
+   "options": [
+    "Urethral swab for gonococcal culture and sensitivities",
+    "Blood cultures",
+    "Mid-stream urine for bacterial culture",
+    "Serum gonococcal antibody titre",
+    "Urethral swab for HSV PCR"
+   ],
+   "answer": 0,
+   "explanation": "Gonococcal resistance (including to ceftriaxone) is rising, and a NAAT gives no sensitivities. A **urethral culture before antibiotics** allows sensitivity testing.",
+   "whyNot": [
+    "",
+    "Blood cultures are for suspected disseminated infection, which he does not have, and their yield is poor.",
+    "An MSU looks for urinary tract infection, not gonorrhoea.",
+    "Serology has no role in diagnosing gonorrhoea.",
+    "HSV PCR is for genital ulcers, not purulent urethritis."
+   ],
+   "studyRef": {
+    "sectionId": "id-std.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 355,
+     "page": 333
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1430,
+     "page": 1417
+    }
+   ]
+  },
+  {
+   "id": "id-std.q25",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 44-year-old woman was diagnosed with HIV 4 years ago when she presented with Pneumocystis pneumonia. She has taken ART faithfully since then. She is now well, with a CD4 count of 560 cells/mm³ and an undetectable viral load.",
+   "leadIn": "What is her WHO clinical stage?",
+   "options": [
+    "WHO stage 1",
+    "WHO stage 2",
+    "WHO stage 3",
+    "WHO stage 4",
+    "Unclassifiable until a second CD4 count is done"
+   ],
+   "answer": 3,
+   "explanation": "Clinical staging uses the **most severe event ever**. Once a patient has had an AIDS-defining illness such as PCP, they stay at **WHO stage 4 / CDC category C**, even after immune recovery.",
+   "whyNot": [
+    "Stage 1 is asymptomatic infection; staging never moves back down.",
+    "Stage 2 covers mild mucocutaneous problems; she has had an AIDS-defining illness.",
+    "Stage 3 covers moderate disease (e.g. oral candidiasis, pulmonary TB); PCP is stage 4.",
+    "",
+    "Clinical stage depends on clinical events, not on repeat CD4 counts."
+   ],
+   "studyRef": {
+    "sectionId": "id-std.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 333,
+     "page": 311
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 334,
+     "page": 312
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 329,
+     "page": 307
+    }
+   ]
+  },
+  {
+   "id": "id-std.q26",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 5-year-old girl has a purulent vaginal discharge. A vulvovaginal swab grows Neisseria gonorrhoeae. She was born by uncomplicated vaginal delivery and has been well until now.",
+   "leadIn": "What is the most likely route of infection?",
+   "options": [
+    "Perinatal acquisition during delivery",
+    "Sexual abuse",
+    "Shared towels or bath water",
+    "Autoinoculation from a conjunctival infection",
+    "Overgrowth of normal vaginal flora"
+   ],
+   "answer": 1,
+   "explanation": "Davidson: gonococcal infection in a child **beyond the neonatal period** usually indicates **sexual abuse**. This needs a child-protection referral.",
+   "whyNot": [
+    "Perinatal infection presents in the first days of life (e.g. ophthalmia neonatorum), not at age 5.",
+    "",
+    "Fomite spread is not an accepted explanation for gonorrhoea in children.",
+    "She has no conjunctivitis, and this would not explain genital infection.",
+    "N. gonorrhoeae is never part of normal vaginal flora."
+   ],
+   "studyRef": {
+    "sectionId": "id-std.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 361,
+     "page": 339
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "id-std.o1",
+   "sectionId": "id-std.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 359,
+    "page": 337,
+    "figure": "Fig. 13.4"
+   },
+   "identify": "**Primary syphilitic chancre** — a single, clean, painless, indurated ulcer in the coronal sulcus; expect painless rubbery inguinal nodes."
+  },
+  {
+   "id": "id-std.o2",
+   "sectionId": "id-std.s4",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 1436,
+    "page": 1423,
+    "figure": "Fig. 37.9"
+   },
+   "identify": "**Secondary syphilis** — non-itchy, coppery macules/papules on the palms. Look also for condylomata lata, mucous patches and lymphadenopathy."
+  },
+  {
+   "id": "id-std.o3",
+   "sectionId": "id-std.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 355,
+    "page": 333,
+    "figure": "Fig. 13.1"
+   },
+   "identify": "**Gonococcal urethritis on Gram stain** — Gram-negative (pink) diplococci inside polymorphs. ≥ 5 polymorphs/HPF = urethritis; intracellular diplococci = presumed gonorrhoea."
+  },
+  {
+   "id": "id-std.o4",
+   "sectionId": "id-std.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 362,
+    "page": 340,
+    "figure": "Fig. 13.5"
+   },
+   "identify": "**Gonococcal ophthalmia neonatorum** — copious pus with swollen eyelids in a newborn; acquired at delivery; urgent treatment to protect the cornea."
+  },
+  {
+   "id": "id-std.o5",
+   "sectionId": "id-std.s5",
+   "cite": {
+    "book": "fa2ck11",
+    "pdfPage": 1003,
+    "page": 1003,
+    "figure": "FIGURE 2.15-24"
+   },
+   "identify": "**Disseminated gonococcal infection** — scattered painful haemorrhagic pustules on an erythematous base, typically on distal limbs, with fever and tenosynovitis."
+  },
+  {
+   "id": "id-std.o6",
+   "sectionId": "id-std.s6",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 357,
+    "page": 335,
+    "figure": "Fig. 13.3"
+   },
+   "identify": "**Clue cell (bacterial vaginosis)** — a vaginal squamous cell with its border obscured by adherent anaerobes; distinguishes BV (no inflammation, pH > 4.5) from trichomoniasis (motile flagellates, inflamed)."
+  },
+  {
+   "id": "id-std.o7",
+   "sectionId": "id-std.s7",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 364,
+    "page": 342,
+    "figure": "Fig. 13.6"
+   },
+   "identify": "**Genital herpes** — multiple small, shallow, painful vulval ulcers (from ruptured vesicles); confirm with HSV PCR from the ulcer base."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:06:55.743Z",
+  "contentHash": "7a669ee2e96f1fe1f7d8a3a9ec5d6c704b3a562a143dd572dcb7627519577534"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:06:55.774Z",
+  "contentHash": "7a669ee2e96f1fe1f7d8a3a9ec5d6c704b3a562a143dd572dcb7627519577534",
+  "checkerVersion": "source-check-v1"
+ }
+}

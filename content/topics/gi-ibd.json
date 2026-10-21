@@ -1,0 +1,4170 @@
+{
+ "topicId": "gi-ibd",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "gi-ibd.s1",
+   "title": "Definition, epidemiology and aetiology",
+   "objectiveIdx": [
+    0,
+    1,
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Inflammatory bowel disease (IBD)** is an umbrella term for chronic, immune-mediated inflammation of the gut that **relapses and remits** over many years. There are two main forms. **Ulcerative colitis (UC)** is inflammation of the **mucosa only**, confined to the **colon**, and almost always starts in the rectum. **Crohn’s disease (CD)** is **transmural** and patchy, and can affect **any part of the GI tract from mouth to anus**. In about **1 in 10** patients with colitis, the two cannot be told apart, even after colectomy. This is called **indeterminate colitis** (IBD unclassified).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 835,
+       "page": 813
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1213,
+       "page": 1198
+      },
+      {
+       "book": "washington36",
+       "chapter": "Gastrointestinal diseases",
+       "pdfPage": 1878,
+       "page": 1878
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 138,
+       "page": 101
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1217,
+       "page": 1202
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Epidemiology",
+     "items": [
+      "Onset peaks in the **2nd–3rd decades**, with a smaller second peak in the **7th decade**.",
+      "In the West, **UC incidence is stable** (10–20 per 100 000) and **CD incidence is rising** (5–10 per 100 000).",
+      "Both are more common in **Ashkenazi Jews** and in Northern Europe and North America. CD shows a slight female excess, while UC affects the sexes equally.",
+      "Life expectancy is close to normal, but morbidity (admissions, surgery) is considerable."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 836,
+       "page": 814
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 138,
+       "page": 101
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Diseases of the gastrointestinal tract",
+       "pdfPage": 405,
+       "page": 405
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Aetiological factors: UC vs Crohn’s",
+     "columns": [
+      "Factor",
+      "Ulcerative colitis",
+      "Crohn’s disease"
+     ],
+     "rows": [
+      [
+       "Smoking",
+       "Protective: more common in **non-smokers and ex-smokers**",
+       "Raises risk (**relative risk ≈ 3**), and smokers do worse"
+      ],
+      [
+       "Appendicectomy",
+       "Protective, especially if done for appendicitis before age 20",
+       "May increase risk"
+      ],
+      [
+       "Key genes",
+       "**HLA-DR*103** (severe UC); epithelial barrier genes (HNF4α, LAMB1, CDH1)",
+       "Innate immunity and autophagy: **NOD2/CARD15** (chromosome 16), ATG16L1, IRGM; IL-23 receptor variants"
+      ],
+      [
+       "Identical-twin concordance (Davidson)",
+       "20–25%",
+       "40–50%"
+      ],
+      [
+       "Diet",
+       "No specific association",
+       "Low-residue, high refined-sugar diet"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 836,
+       "page": 814
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1213,
+       "page": 1198
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1214,
+       "page": 1199
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Pathogenesis:** in a genetically susceptible host, gut bacteria and other luminal antigens cross a **leaky epithelium**. This triggers an exaggerated, self-perpetuating T-cell response (Th1/Th17), in which effector cells outnumber regulatory cells. Macrophages then release **TNF-α, IL-12, IL-23, IL-1 and IL-6**, which damage tissue. The gut flora is abnormal (**dysbiosis**), with reduced diversity and fewer _Faecalibacterium prausnitzii_. In CD, adherent-invasive _E. coli_ can attach to ileal epithelium. A proposed link with _Mycobacterium paratuberculosis_ has not been supported by trials.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 836,
+       "page": 814
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 837,
+       "page": 815
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 139,
+       "page": 102
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1214,
+       "page": 1199
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1215,
+       "page": 1200
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Environmental triggers shared by UC and CD",
+     "items": [
+      "**NSAIDs**: linked to both disease onset and flares.",
+      "**Stress, depression**, intercurrent infection and **antibiotics** can provoke relapse.",
+      "**Hygiene hypothesis**: incidence rose as Western living became more \"clean\".",
+      "**Breastfeeding** may protect the child against later IBD."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1214,
+       "page": 1199
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 838,
+       "page": 816
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 835,
+       "page": 813
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 836,
+       "page": 814
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "A **family history** is the strongest single risk factor. In Davidson, about 10% of patients have an affected relative. **NOD2 variants** predict **ileal, stricturing CD** that tends to need resection.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 836,
+       "page": 814
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1213,
+       "page": 1198
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Smoking works in **opposite directions**. It protects against UC, which often appears after someone stops smoking, but it roughly triples the risk of CD and worsens its course. Do not mix the two up in a risk-factor question.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 836,
+       "page": 814
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 139,
+       "page": 102
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Twin concordance figures differ between books. Davidson gives 40–50% for CD (20–25% for UC), Kumar gives 20–50% for CD, and KC Essentials gives 58%. Quote Davidson’s figures, and remember that genes matter **more in CD than in UC**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 836,
+       "page": 814
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1213,
+       "page": 1198
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 138,
+       "page": 101
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.s2",
+   "title": "Pathological changes in UC and Crohn’s disease",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Pathology side by side",
+     "columns": [
+      "Feature",
+      "Ulcerative colitis",
+      "Crohn’s disease"
+     ],
+     "rows": [
+      [
+       "Site",
+       "Colon only; the **rectum is always involved**",
+       "Anywhere from mouth to anus; commonest site is **terminal ileum + right colon**, then colon alone, then terminal ileum alone"
+      ],
+      [
+       "Pattern",
+       "**Continuous** spread proximally from the rectum",
+       "**Patchy**, with **skip lesions** separated by normal mucosa"
+      ],
+      [
+       "Depth",
+       "**Mucosal** (deeper layers spared)",
+       "**Transmural** (all layers)"
+      ],
+      [
+       "Ulceration",
+       "Superficial ulcers, friable mucosa",
+       "Deep **linear fissuring ulcers** giving a **cobblestone** surface; can penetrate to form fistulae and abscesses"
+      ],
+      [
+       "Granulomas",
+       "Absent/rare",
+       "**Non-caseating epithelioid granulomas** with Langhans giant cells in **50–60%**"
+      ],
+      [
+       "Goblet cells / crypts",
+       "**Goblet cell depletion**, cryptitis, **crypt abscesses**, crypt distortion",
+       "Goblet cells preserved; crypt abscesses less prominent"
+      ],
+      [
+       "Chronic changes",
+       "Shortened colon, **pseudopolyps**, dysplasia",
+       "Thick oedematous wall, strictures, thickened mesentery with fat wrapping, enlarged nodes"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 836,
+       "page": 814
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 837,
+       "page": 815
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 838,
+       "page": 816
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1216,
+       "page": 1201
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Diseases of the gastrointestinal tract",
+       "pdfPage": 405,
+       "page": 405
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 139,
+       "page": 102
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Disease distribution (Davidson Fig. 21.45)",
+     "columns": [
+      "Disease",
+      "Pattern",
+      "Approximate share"
+     ],
+     "rows": [
+      [
+       "UC",
+       "Proctitis",
+       "40–50%"
+      ],
+      [
+       "UC",
+       "Left-sided colitis",
+       "30–40%"
+      ],
+      [
+       "UC",
+       "Extensive colitis (up to pancolitis)",
+       "20%"
+      ],
+      [
+       "CD",
+       "Ileal or ileocolonic",
+       "40%"
+      ],
+      [
+       "CD",
+       "Small intestinal",
+       "30–40%"
+      ],
+      [
+       "CD",
+       "Crohn’s colitis",
+       "About 20%"
+      ],
+      [
+       "CD",
+       "Perianal disease alone",
+       "Under 10%"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 837,
+       "page": 815,
+       "figure": "Fig. 21.45"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Dysplasia** in long-standing colitis shows heaped-up cells within crypts, **nuclear atypia** and more mitoses. It is the precursor of colitis-associated colon cancer, which is why surveillance biopsies look for it.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 838,
+       "page": 816
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Gastroenterology",
+      "pdfPage": 838,
+      "page": 816,
+      "figure": "Fig. 21.47"
+     },
+     "note": "UC histology: inflammation confined to the mucosa, goblet cell loss and **crypt abscesses** (arrows). The submucosa is spared."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Gastroenterology",
+      "pdfPage": 838,
+      "page": 816,
+      "figure": "Fig. 21.48"
+     },
+     "note": "CD histology: **transmural** inflammation with a fissuring ulcer into the submucosa (A), and a **non-caseating granuloma** at high power (B)."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Gastroenterology",
+      "pdfPage": 837,
+      "page": 815,
+      "figure": "Fig. 21.46"
+     },
+     "note": "UC pseudopolyposis: islands of surviving or regenerating mucosa standing up within atrophic, long-diseased colon."
+    },
+    {
+     "type": "pearl",
+     "text": "Granulomas are the histological hallmark of CD, but they are found in only about half of patients. **A biopsy without granulomas does not exclude Crohn’s.**",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1216,
+       "page": 1201
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 139,
+       "page": 102
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Quick sources give different percentages for disease distribution. For example, Step-Up gives rectum-only UC as 10% and small-bowel involvement in 80% of CD. Use Davidson’s figures: **proctitis is the commonest UC pattern (40–50%)**, and **ileal/ileocolonic CD** is the commonest CD pattern.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 837,
+       "page": 815,
+       "figure": "Fig. 21.45"
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Diseases of the gastrointestinal tract",
+       "pdfPage": 409,
+       "page": 409
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Diseases of the gastrointestinal tract",
+       "pdfPage": 405,
+       "page": 405
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.s3",
+   "title": "GI manifestations, severity and differential diagnosis",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Ulcerative colitis",
+     "items": [
+      "The cardinal symptom is **rectal bleeding with mucus and bloody diarrhoea**. Early diarrhoea may not be bloody.",
+      "**Proctitis:** rectal bleeding, mucus and **tenesmus**. Stools are sometimes **pellety**, because of constipation above the inflamed rectum. There is **no systemic upset**.",
+      "**Left-sided / extensive colitis:** bloody diarrhoea with mucus, cramps, urgency and frequent small stools.",
+      "**Severe attack:** anorexia, weight loss, **fever, tachycardia** and peritonism.",
+      "The **first attack is usually the worst**. Relapses are provoked by stress, infection, antibiotics or NSAIDs."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 838,
+       "page": 816
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Diseases of the gastrointestinal tract",
+       "pdfPage": 410,
+       "page": 410
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 140,
+       "page": 103
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Crohn’s disease",
+     "items": [
+      "The classic triad is **abdominal pain, diarrhoea and weight loss**.",
+      "**Ileal disease:** colicky pain, subacute obstruction, and **watery diarrhoea without blood**. Weight loss comes from avoiding food and from malabsorption.",
+      "A **right iliac fossa mass** may be matted thickened loops or an abscess. Acute terminal ileitis can **mimic appendicitis**.",
+      "**Crohn’s colitis** looks like UC, but **rectal sparing and perianal disease** favour Crohn’s.",
+      "Perianal tags, fissures or fistulae are found in **at least 50%** on examination, and are the presenting feature in about 25%.",
+      "Other features: oral ulceration, glossitis, angular stomatitis, and in **children, poor growth or delayed puberty** alone."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 838,
+       "page": 816
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 839,
+       "page": 817
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1217,
+       "page": 1202
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 140,
+       "page": 103
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Severity of UC (Davidson Box 21.53)",
+     "columns": [
+      "Feature",
+      "Mild",
+      "Moderate",
+      "Severe"
+     ],
+     "rows": [
+      [
+       "Bowel frequency/day",
+       "Under 4",
+       "4–6",
+       "**6 or more** (bloody)"
+      ],
+      [
+       "Pulse",
+       "Under 90",
+       "Under 90",
+       "**90/min or more**"
+      ],
+      [
+       "Temperature",
+       "Normal",
+       "Normal",
+       "**37.8 °C or more**"
+      ],
+      [
+       "Haemoglobin",
+       "Normal",
+       "Normal",
+       "**Under 100 g/L**"
+      ],
+      [
+       "ESR / CRP",
+       "Normal",
+       "Normal",
+       "**ESR over 30 mm/h** (or raised CRP)"
+      ],
+      [
+       "Albumin",
+       "Over 35 g/L",
+       "—",
+       "Under 30 g/L"
+      ],
+      [
+       "Abdominal X-ray",
+       "Normal",
+       "Normal",
+       "Dilated colon, mucosal islands, thumb-printing"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 839,
+       "page": 817
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Truelove–Witts acute severe UC** means **6 or more bloody stools in 24 h** plus **at least one** of: Hb under 100 g/L, temperature 37.8 °C or more, pulse 90/min or more, or ESR over 30 mm/h (or a raised CRP). Meeting it means **admission**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 839,
+       "page": 817
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 842,
+       "page": 820
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Differential diagnosis",
+     "items": [
+      "**Infective colitis:** Salmonella, Shigella, Campylobacter, _E. coli_ O157, _C. difficile_ (pseudomembranous colitis), gonococcal or chlamydial proctitis, CMV, herpes, amoebiasis.",
+      "**Non-infective colitis:** ischaemic colitis, microscopic (collagenous) colitis, NSAID colitis, radiation proctitis, diverticulitis, Behçet’s disease, colonic carcinoma.",
+      "**Terminal ileitis / RIF mass:** tuberculosis, _Yersinia_, actinomycosis, lymphoma, caecal carcinoma, appendix abscess, mesenteric adenitis, pelvic inflammatory disease."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 839,
+       "page": 817
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 141,
+       "page": 104
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Books differ on when diarrhoea is \"too long\" to be infective. **Davidson says more than 10 days** (Kumar says 5 days). Travel, recent antibiotics (_C. difficile_) or sexual exposure make infection more likely. **Stool tests are still needed** at presentation.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 839,
+       "page": 817
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1217,
+       "page": 1202
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Severity cut-offs vary. KC Essentials uses a temperature **above 37.5 °C** and lists albumin under 30 g/L as a systemic marker. **Davidson’s Truelove–Witts threshold is 37.8 °C**, so quote that.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 839,
+       "page": 817
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 140,
+       "page": 103
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.s4",
+   "title": "Extraintestinal manifestations",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Extraintestinal manifestations and disease activity (Davidson Fig. 21.52)",
+     "columns": [
+      "Relation to bowel activity",
+      "Manifestations"
+     ],
+     "rows": [
+      [
+       "**Parallel bowel activity** (improve when the flare is treated)",
+       "Mouth ulcers; conjunctivitis, **episcleritis**, iritis; **large-joint arthritis**; **erythema nodosum**; **pyoderma gangrenosum**; venous thrombosis (including mesenteric/portal); fatty liver; liver abscess"
+      ],
+      [
+       "**Independent of activity**",
+       "**Primary sclerosing cholangitis** and cholangiocarcinoma (UC); **sacroiliitis / ankylosing spondylitis** (HLA-B27); autoimmune hepatitis; gallstones; oxalate stones and amyloidosis; **metabolic bone disease**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 841,
+       "page": 819,
+       "figure": "Fig. 21.52"
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 840,
+       "page": 818
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Peripheral arthropathy (Kumar)",
+     "columns": [
+      "Type",
+      "Joints",
+      "Course"
+     ],
+     "rows": [
+      [
+       "Type 1 (pauciarticular)",
+       "Few large joints, e.g. knee",
+       "Acute, **self-limiting (under 10 weeks)**, accompanies relapses"
+      ],
+      [
+       "Type 2 (polyarticular)",
+       "Many small joints, symmetrical",
+       "Lasts months to years, **independent of activity**, associated with uveitis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1217,
+       "page": 1202
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "High-yield associations",
+     "items": [
+      "**Arthritis** is the commonest extraintestinal manifestation.",
+      "**Erythema nodosum** is especially linked to **CD**, and **pyoderma gangrenosum** to **UC**.",
+      "**PSC:** about 70% of PSC cases occur in patients with UC. p-ANCA is often positive, and **MRCP** is the diagnostic test.",
+      "**Ankylosing spondylitis** is about 30 times commoner in UC than in the general population. Sacroiliitis in CD is linked with HLA-B27.",
+      "Sulfasalazine is the aminosalicylate of choice when arthropathy coexists."
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Diseases of the gastrointestinal tract",
+       "pdfPage": 406,
+       "page": 406
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Gastroenterology",
+       "pdfPage": 91,
+       "page": 91
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 841,
+       "page": 819,
+       "figure": "Fig. 21.52"
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 842,
+       "page": 820
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Gastroenterology",
+      "pdfPage": 841,
+      "page": 819,
+      "figure": "Fig. 21.52"
+     },
+     "note": "Diagram splitting systemic complications into those seen during **active disease** (eye, skin, large joints, thrombosis) and those **unrelated to activity** (PSC, sacroiliitis/AS, gallstones, bone disease)."
+    },
+    {
+     "type": "pitfall",
+     "text": "**PSC and axial arthritis (sacroiliitis, AS) run their own course.** Treating the bowel, or even colectomy, does not stop PSC. PSC also **raises colorectal cancer risk**, so these patients need closer surveillance.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Diseases of the gastrointestinal tract",
+       "pdfPage": 410,
+       "page": 410
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 840,
+       "page": 818
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 841,
+       "page": 819,
+       "figure": "Fig. 21.52"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Books disagree about uveitis. Davidson places iritis among features of **active** disease, whereas Step-Up and Kumar (type 2 arthropathy) link uveitis with a course **independent** of activity. In exams, the safest \"independent\" answers are **PSC and sacroiliitis/AS**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 841,
+       "page": 819,
+       "figure": "Fig. 21.52"
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Diseases of the gastrointestinal tract",
+       "pdfPage": 406,
+       "page": 406
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1217,
+       "page": 1202
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.s5",
+   "title": "Investigations and endoscopic findings",
+   "objectiveIdx": [
+    6,
+    7
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Blood and stool tests",
+     "items": [
+      "**FBC:** anaemia (from blood loss or iron/folate/B12 deficiency) and **thrombocytosis**. Also **low albumin**, raised **ESR/CRP**, and abnormal LFTs if there is liver disease.",
+      "**Faecal calprotectin:** highly sensitive for gut inflammation and **may be raised when CRP is normal**. It **separates IBD from IBS** and is used to monitor flares.",
+      "**Exclude infection** at presentation and at **every flare**: stool microscopy and culture, _C. difficile_ toxin, ova and cysts. Send **three samples** if admitted.",
+      "**Serology** is supportive only: **p-ANCA** is often positive in UC, and **ASCA** (anti-_Saccharomyces cerevisiae_) is typical of CD.",
+      "In immunosuppressed patients with a refractory flare, consider **CMV superinfection**, diagnosed on biopsy."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 840,
+       "page": 818
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 141,
+       "page": 104
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Gastroenterology",
+       "pdfPage": 101,
+       "page": 101
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1221,
+       "page": 1206
+      },
+      {
+       "book": "washington36",
+       "chapter": "Gastrointestinal diseases",
+       "pdfPage": 1880,
+       "page": 1880
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Endoscopic findings",
+     "columns": [
+      "Feature",
+      "Ulcerative colitis",
+      "Crohn’s disease"
+     ],
+     "rows": [
+      [
+       "Distribution",
+       "Continuous from the rectum upwards",
+       "Patchy, with skip lesions; **rectum often spared**"
+      ],
+      [
+       "Mucosa",
+       "**Loss of vascular pattern**, granularity, **friability, contact bleeding**, ± ulcers",
+       "Early **aphthoid ulcers**, then deep **serpiginous/linear ulcers** and a **cobblestone** look"
+      ],
+      [
+       "Other",
+       "Pseudopolyps in long-standing disease",
+       "Strictures, perianal fissures/fistulae/tags, **terminal ileal** ulceration"
+      ],
+      [
+       "Biopsy",
+       "Crypt abscesses, goblet cell loss",
+       "Non-caseating granulomas"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 840,
+       "page": 818
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1218,
+       "page": 1203
+      },
+      {
+       "book": "washington36",
+       "chapter": "Gastrointestinal diseases",
+       "pdfPage": 1880,
+       "page": 1880
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 141,
+       "page": 104
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Diseases of the gastrointestinal tract",
+       "pdfPage": 407,
+       "page": 407
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 841,
+       "page": 819
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Endoscopic strategy",
+     "items": [
+      "**Ileocolonoscopy** with biopsies from **every segment** (terminal ileum to rectum) is the standard test. Mucosal biopsy is the gold standard for diagnosing UC.",
+      "In **acute severe colitis**, do a **flexible sigmoidoscopy** only, because full colonoscopy risks perforation. Assess extent later.",
+      "**Upper GI endoscopy** is done in all children and most adults with CD to complete staging.",
+      "**Capsule endoscopy** finds small-bowel CD, but must be **avoided if strictures are present**. A patency capsule is often given first.",
+      "In long-standing colitis, **chromoendoscopy** (dye spray) targets biopsies to find dysplasia."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 840,
+       "page": 818
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 841,
+       "page": 819
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1218,
+       "page": 1203
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1221,
+       "page": 1206
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Imaging",
+     "items": [
+      "**Plain abdominal X-ray** is essential in severe disease. It shows **colonic dilatation**, mucosal oedema (**thumb-printing**), mucosal islands or perforation. In proctitis, it may show proximal faecal loading.",
+      "**MRI enterography** has largely replaced barium follow-through for staging small-bowel CD. It involves **no radiation**, separates **inflammatory from fibrotic strictures**, and shows pelvic/perineal disease.",
+      "On barium studies, CD shows strictures (the **\"string sign\"**) and **\"rose thorn\" ulcers**.",
+      "**CT** is mainly for complications (**abscess, perforation**) in the acutely unwell. **Pelvic MRI** maps perianal fistulae. **Ultrasound** is useful but operator-dependent."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 841,
+       "page": 819
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 842,
+       "page": 820
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 141,
+       "page": 104
+      },
+      {
+       "book": "washington36",
+       "chapter": "Gastrointestinal diseases",
+       "pdfPage": 1880,
+       "page": 1880
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 839,
+       "page": 817
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Gastroenterology",
+      "pdfPage": 841,
+      "page": 819,
+      "figure": "Fig. 21.53"
+     },
+     "note": "Sigmoidoscopy in moderately active UC: red, **friable** mucosa with contact bleeding and **no visible submucosal vessels**."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Gastroenterology",
+      "pdfPage": 1216,
+      "page": 1201,
+      "figure": "Fig. 32.40"
+     },
+     "note": "Colonoscopy in CD: (A) **aphthoid ulcers**, (B) deep **serpiginous ulceration**."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Gastroenterology",
+      "pdfPage": 838,
+      "page": 816,
+      "figure": "Fig. 21.49"
+     },
+     "note": "Small-bowel MRI: **thickened, narrowed, enhancing terminal ileum** with dilated bowel just upstream."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Gastroenterology",
+      "pdfPage": 839,
+      "page": 817,
+      "figure": "Fig. 21.50"
+     },
+     "note": "Barium follow-through: a long terminal ileal **stricture** (A) and proximal **\"rose thorn\" ulcers** (B)."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Gastroenterology",
+      "pdfPage": 1219,
+      "page": 1204,
+      "figure": "Fig. 32.41"
+     },
+     "note": "Small-bowel imaging in CD: ulcerated stricture with pre-stenotic dilatation on barium; capsule views of an ulcer and a stricture; MR enterography with wall thickening and fibrofatty proliferation."
+    },
+    {
+     "type": "pearl",
+     "text": "For a young adult with loose stools and normal bloods, a **normal faecal calprotectin** makes IBD unlikely and supports IBS. A raised calprotectin points to **ileocolonoscopy**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 840,
+       "page": 818
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Gastroenterology",
+       "pdfPage": 101,
+       "page": 101
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Two procedural traps. **Never send a capsule into a strictured bowel**, because it can be retained. **Avoid full colonoscopy in acute severe colitis**, because it can cause perforation.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 840,
+       "page": 818
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 841,
+       "page": 819
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1218,
+       "page": 1203
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Ileocaecal tuberculosis and _Yersinia_ can mimic terminal ileal Crohn’s** on imaging. Look for caseating granulomas and acid-fast bacilli before labelling the patient as having CD, but remember that caseation is not always seen and bacilli are often scanty, so culture or PCR on biopsy may be needed.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 141,
+       "page": 104
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 839,
+       "page": 817
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 835,
+       "page": 813
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.s6",
+   "title": "Complications of IBD",
+   "objectiveIdx": [
+    8
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Intestinal complications",
+     "columns": [
+      "Complication",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "**Toxic megacolon** / life-threatening colitis",
+       "Occurs in UC or Crohn’s colitis, **most often in the first attack**, in about 1–2% of UC. The **transverse colon is over 6 cm** on AXR, with a high perforation risk. Mortality is 15–25%. It is a **surgical emergency**."
+      ],
+      [
+       "Perforation / haemorrhage",
+       "Perforation can happen even without dilatation. Major bleeding is rare."
+      ],
+      [
+       "**Fistulae** (CD only)",
+       "Enteroenteric fistulae cause blind-loop malabsorption. **Enterovesical** fistulae cause recurrent UTIs and **pneumaturia**. **Enterovaginal** fistulae cause faeculent discharge. Enterocutaneous fistulae and perianal/ischiorectal abscesses also occur."
+      ],
+      [
+       "Strictures / obstruction",
+       "Small-bowel obstruction occurs in 20–30% of CD and is the **commonest reason for CD surgery**. In UC, a **colonic stricture is usually malignant** (Step-Up), so cancer must be excluded."
+      ],
+      [
+       "**Colorectal cancer**",
+       "Risk rises with **duration and extent** of colitis and with **PSC**. Cumulative dysplasia risk in UC may reach **20% after 30 years**."
+      ],
+      [
+       "Ileal disease or resection",
+       "**B12 deficiency**, bile-salt diarrhoea, **oxalate renal stones** (more oxalate is absorbed in the colon) and gallstones."
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 840,
+       "page": 818
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1221,
+       "page": 1206
+      },
+      {
+       "book": "washington36",
+       "chapter": "Gastrointestinal diseases",
+       "pdfPage": 1886,
+       "page": 1886
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Diseases of the gastrointestinal tract",
+       "pdfPage": 407,
+       "page": 407
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Diseases of the gastrointestinal tract",
+       "pdfPage": 410,
+       "page": 410
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 135,
+       "page": 98
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Systemic complications",
+     "items": [
+      "**Venous thromboembolism**: higher risk of first and recurrent events, so give VTE prophylaxis when admitted.",
+      "**Osteoporosis** from inflammation, glucocorticoids, weight loss and malabsorption. **Osteomalacia** occurs less often, in malabsorptive CD.",
+      "Iron-deficiency anaemia, dehydration and electrolyte loss.",
+      "In children: growth failure, delayed puberty, metabolic bone disease.",
+      "Active disease in pregnancy is linked to **prematurity and low birth weight**."
+     ],
+     "cites": [
+      {
+       "book": "washington36",
+       "chapter": "Gastrointestinal diseases",
+       "pdfPage": 1890,
+       "page": 1890
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 846,
+       "page": 824
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 845,
+       "page": 823
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Diseases of the gastrointestinal tract",
+       "pdfPage": 410,
+       "page": 410
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1218,
+       "page": 1203
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 844,
+       "page": 822
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Gastroenterology",
+      "pdfPage": 840,
+      "page": 818,
+      "figure": "Fig. 21.51"
+     },
+     "note": "AXR in severe UC: **grossly dilated colon** with mucosal oedema and **thumb-printing** (arrows). This is the toxic megacolon picture."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Gastroenterology",
+      "pdfPage": 1221,
+      "page": 1206,
+      "figure": "Fig. 32.42"
+     },
+     "note": "Toxic dilatation: gas-filled, dilated colon with **mucosal islands** (arrows)."
+    },
+    {
+     "type": "pearl",
+     "text": "Cancer surveillance starts **10 years after diagnosis** of colitis, using **pancolonic chromoendoscopy** with targeted biopsies. **Mesalazine and azathioprine** probably lower the cancer risk by keeping the mucosa healed.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 840,
+       "page": 818
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 145,
+       "page": 108
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Cancer risk figures differ between books. Davidson gives a cumulative **dysplasia** risk of up to 20% at 30 years, while KC Essentials gives a 12% CRC risk at 25 years. Quote Davidson. Both agree that risk is driven by **extent and duration**, so long-standing extensive colitis is the highest-risk group.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 840,
+       "page": 818
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 145,
+       "page": 108
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The dilatation threshold differs too. KC Essentials uses a **transverse colon over 5 cm**, while **Davidson uses over 6 cm** as the high-risk cut-off. Use 6 cm in exams.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 840,
+       "page": 818
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 144,
+       "page": 107
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.s7",
+   "title": "Medical management of UC and Crohn’s disease",
+   "objectiveIdx": [
+    9
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Treatment aims are to **induce remission**, **maintain remission**, prevent bowel damage, detect dysplasia, and choose the right patients for surgery. Care is delivered by a **multidisciplinary team** (physicians, surgeons, radiologists, IBD nurses, dietitians).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 842,
+       "page": 820
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Ulcerative colitis",
+     "columns": [
+      "Situation",
+      "First line",
+      "If inadequate"
+     ],
+     "rows": [
+      [
+       "Active proctitis",
+       "**Mesalazine 1 g suppository**",
+       "Add oral 5-ASA. Topical steroid if mesalazine is not tolerated. Systemic steroids/immunosuppression if resistant"
+      ],
+      [
+       "Mild–moderate left-sided or extensive",
+       "Once-daily **oral + topical 5-ASA** (\"top and tail\"); the enema is stopped after about 1 month",
+       "No response in 2–4 weeks: **oral prednisolone 40 mg**, tapered by 5 mg/week over 8 weeks"
+      ],
+      [
+       "Steroid-resistant or steroid-dependent",
+       "**Thiopurine** (azathioprine or mercaptopurine)",
+       "Anti-TNF (infliximab/adalimumab) or **vedolizumab**; tofacitinib is another option"
+      ],
+      [
+       "Maintenance",
+       "**Life-long once-daily oral 5-ASA** for left-sided/extensive disease (not mandatory for proctitis); sulfasalazine if there is arthropathy",
+       "Thiopurine for frequent relapses; biologic if thiopurine fails or is not tolerated"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 842,
+       "page": 820
+      },
+      {
+       "book": "washington36",
+       "chapter": "Gastrointestinal diseases",
+       "pdfPage": 1882,
+       "page": 1882
+      },
+      {
+       "book": "washington36",
+       "chapter": "Gastrointestinal diseases",
+       "pdfPage": 1886,
+       "page": 1886
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Crohn’s disease",
+     "columns": [
+      "Phase",
+      "Options",
+      "Notes"
+     ],
+     "rows": [
+      [
+       "Induction: ileal disease",
+       "**Budesonide 9 mg daily** for 6 weeks",
+       "90% first-pass hepatic metabolism, so few systemic effects. If no response in 2 weeks, switch to prednisolone"
+      ],
+      [
+       "Induction: colonic/extensive or budesonide failure",
+       "**Prednisolone 40 mg**, tapered by 5 mg/week over 8 weeks; IV steroids if severe",
+       "Give calcium + vitamin D with steroids"
+      ],
+      [
+       "Induction: alternative",
+       "**Exclusive enteral nutrition** (elemental or polymeric)",
+       "As effective as steroids **in children**; also useful in extensive ileal disease"
+      ],
+      [
+       "Induction: severe ileal/panenteric",
+       "**Anti-TNF**, ideally **with a thiopurine**",
+       "Only once abscess/perforation has been excluded"
+      ],
+      [
+       "Maintenance",
+       "**Azathioprine 2.5 mg/kg/day**, mercaptopurine 1.5 mg/kg/day, or **weekly methotrexate** (25 mg, then 15 mg)",
+       "**Anti-TNF + thiopurine** is the most effective. Vedolizumab or ustekinumab after anti-TNF failure"
+      ],
+      [
+       "Always",
+       "**Stop smoking**",
+       "Smokers relapse more and need more surgery"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 842,
+       "page": 820
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 844,
+       "page": 822
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1219,
+       "page": 1204
+      },
+      {
+       "book": "washington36",
+       "chapter": "Gastrointestinal diseases",
+       "pdfPage": 1886,
+       "page": 1886
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 142,
+       "page": 105
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1220,
+       "page": 1205
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Drug facts that get examined",
+     "columns": [
+      "Drug",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "5-ASA (mesalazine, sulfasalazine)",
+       "Effective in UC, **no proven value in CD**. Check renal function 6-monthly. **Sulfasalazine** side effects occur in 10–45% (headache, nausea, blood dyscrasias, **reversible oligospermia**, impaired folate absorption, so give folic acid)."
+      ],
+      [
+       "Glucocorticoids",
+       "For induction only, **never for maintenance**. Give calcium and vitamin D. Steroid dependence or resistance is the cue to add a thiopurine."
+      ],
+      [
+       "Thiopurines",
+       "**Check TPMT first.** They take about **12 weeks** to work. Side effects: leucopenia, **pancreatitis**, hepatotoxicity, **2–3-fold lymphoma** risk, non-melanoma skin cancer. Check FBC every 3 months."
+      ],
+      [
+       "Methotrexate",
+       "Given weekly. Effective in **CD, not UC**. **Teratogenic**: stop 3 months before conception. Hepatotoxicity, pneumonitis. Give folic acid."
+      ],
+      [
+       "Ciclosporin",
+       "Rescue therapy in acute severe UC. **No value in CD.** Nephrotoxicity, infections, **seizures**, tremor."
+      ],
+      [
+       "Anti-TNF",
+       "**Infliximab 5 mg/kg IV at weeks 0, 2, 6, then 8-weekly**; adalimumab SC 160, 80, then 40 mg fortnightly. **Screen for latent TB and hepatitis B/C**, avoid live vaccines. Contraindicated in active infection and moderate–severe heart failure."
+      ],
+      [
+       "Vedolizumab",
+       "Gut-selective **anti-α4β7 integrin**. Unlike natalizumab, PML has not been seen."
+      ],
+      [
+       "Antibiotics / antidiarrhoeals",
+       "Metronidazole/ciprofloxacin for perianal CD and pouchitis; long-term metronidazole causes **peripheral neuropathy**. **Loperamide is avoided in flares** because it can precipitate dilatation."
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 843,
+       "page": 821
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 844,
+       "page": 822
+      },
+      {
+       "book": "washington36",
+       "chapter": "Gastrointestinal diseases",
+       "pdfPage": 1881,
+       "page": 1881
+      },
+      {
+       "book": "washington36",
+       "chapter": "Gastrointestinal diseases",
+       "pdfPage": 1884,
+       "page": 1884
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1220,
+       "page": 1205
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 842,
+       "page": 820
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Pregnancy",
+     "items": [
+      "**Rule of thirds** for disease activity in pregnancy: a third improve, a third worsen, a third stay the same.",
+      "**5-ASA and azathioprine are safe**, and steroids are probably safe.",
+      "**Methotrexate must be stopped 3 months before conception.**",
+      "Anti-TNF can continue but is **withheld in the third trimester**, because the antibody crosses the placenta.",
+      "Give **high-dose folic acid (over 2 mg daily)**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 845,
+       "page": 823
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 846,
+       "page": 824
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Combination anti-TNF + thiopurine** beats anti-TNF alone, which in turn beats thiopurine alone, for inducing and maintaining remission in luminal CD.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 844,
+       "page": 822
+      },
+      {
+       "book": "washington36",
+       "chapter": "Gastrointestinal diseases",
+       "pdfPage": 1885,
+       "page": 1885
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "TPMT result matters. **Absent TPMT activity** (about 1 in 300) contraindicates thiopurines because of a risk of pancytopenia. **Low activity** (about 10%) means a reduced dose. A normal TPMT does not remove the need for regular blood counts.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 142,
+       "page": 105
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1220,
+       "page": 1205
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 843,
+       "page": 821
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**5-ASA has no proven value in Crohn’s disease** (Davidson). Washington and KC Essentials allow it for mild (colonic) CD, and Kumar says the evidence is weak, but in exams the CD induction answer is **budesonide/steroids**, and the 5-ASA answer belongs to **UC**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 836,
+       "page": 814
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 843,
+       "page": 821
+      },
+      {
+       "book": "washington36",
+       "chapter": "Gastrointestinal diseases",
+       "pdfPage": 1881,
+       "page": 1881
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 142,
+       "page": 105
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1218,
+       "page": 1203
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.s8",
+   "title": "Managing complications: acute severe colitis, fistulae, surgery, surveillance",
+   "objectiveIdx": [
+    10
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Acute severe UC: initial management",
+     "items": [
+      "**Admit**, with joint physician–surgeon care. Monitor pulse, temperature, stool frequency and blood daily, plus bloods (Hb, WCC, albumin, U&E, CRP) and a **daily plain AXR**.",
+      "Send stool cultures and _C. difficile_ toxin, but **do not delay steroids** while waiting for results.",
+      "**IV fluids and electrolytes**, and **IV methylprednisolone 60 mg/day or hydrocortisone 400 mg/day** (that is, 100 mg 6-hourly).",
+      "**LMWH** for VTE prophylaxis, transfusion if Hb is under 100 g/L, and nutritional support.",
+      "**Avoid opiates, antidiarrhoeals, anticholinergics and NSAIDs.** Aminosalicylates have **no role** in the acute severe attack."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 842,
+       "page": 820
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 844,
+       "page": 822
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 144,
+       "page": 107
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 840,
+       "page": 818
+      },
+      {
+       "book": "washington36",
+       "chapter": "Gastrointestinal diseases",
+       "pdfPage": 1887,
+       "page": 1887
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 330\" role=\"img\" aria-label=\"Acute severe ulcerative colitis pathway\">\n<g font-family=\"sans-serif\" font-size=\"12\" fill=\"#1f2937\">\n<rect x=\"130\" y=\"8\" width=\"300\" height=\"44\" rx=\"6\" fill=\"#e0f2fe\" stroke=\"#0369a1\"/>\n<text x=\"280\" y=\"26\" text-anchor=\"middle\" font-weight=\"bold\">Truelove–Witts: 6 or more bloody stools/day</text>\n<text x=\"280\" y=\"43\" text-anchor=\"middle\">plus fever, tachycardia, anaemia or high ESR/CRP</text>\n<line x1=\"280\" y1=\"52\" x2=\"280\" y2=\"72\" stroke=\"#374151\" stroke-width=\"2\"/>\n<rect x=\"90\" y=\"72\" width=\"380\" height=\"58\" rx=\"6\" fill=\"#f1f5f9\" stroke=\"#475569\"/>\n<text x=\"280\" y=\"90\" text-anchor=\"middle\" font-weight=\"bold\">Admit (physician + surgeon)</text>\n<text x=\"280\" y=\"106\" text-anchor=\"middle\">IV fluids, IV methylprednisolone or hydrocortisone, LMWH,</text>\n<text x=\"280\" y=\"122\" text-anchor=\"middle\">stool cultures + C. difficile, daily AXR; no opiates/antidiarrhoeals</text>\n<line x1=\"280\" y1=\"130\" x2=\"280\" y2=\"150\" stroke=\"#374151\" stroke-width=\"2\"/>\n<rect x=\"200\" y=\"150\" width=\"160\" height=\"30\" rx=\"6\" fill=\"#fef9c3\" stroke=\"#a16207\"/>\n<text x=\"280\" y=\"170\" text-anchor=\"middle\" font-weight=\"bold\">Review at about day 3</text>\n<line x1=\"230\" y1=\"180\" x2=\"120\" y2=\"205\" stroke=\"#374151\" stroke-width=\"2\"/>\n<line x1=\"330\" y1=\"180\" x2=\"430\" y2=\"205\" stroke=\"#374151\" stroke-width=\"2\"/>\n<rect x=\"20\" y=\"205\" width=\"200\" height=\"44\" rx=\"6\" fill=\"#dcfce7\" stroke=\"#15803d\"/>\n<text x=\"120\" y=\"223\" text-anchor=\"middle\" font-weight=\"bold\">Responding</text>\n<text x=\"120\" y=\"240\" text-anchor=\"middle\">continue medical treatment</text>\n<rect x=\"300\" y=\"205\" width=\"250\" height=\"58\" rx=\"6\" fill=\"#ffedd5\" stroke=\"#c2410c\"/>\n<text x=\"425\" y=\"223\" text-anchor=\"middle\" font-weight=\"bold\">Not responding</text>\n<text x=\"425\" y=\"239\" text-anchor=\"middle\">(e.g. CRP above 45 or 8+ stools/day)</text>\n<text x=\"425\" y=\"255\" text-anchor=\"middle\">rescue: infliximab or ciclosporin</text>\n<line x1=\"425\" y1=\"263\" x2=\"425\" y2=\"278\" stroke=\"#374151\" stroke-width=\"2\"/>\n<rect x=\"150\" y=\"278\" width=\"400\" height=\"44\" rx=\"6\" fill=\"#fee2e2\" stroke=\"#b91c1c\"/>\n<text x=\"350\" y=\"296\" text-anchor=\"middle\" font-weight=\"bold\">Colon over 6 cm, deterioration, or no response by 7–10 days</text>\n<text x=\"350\" y=\"313\" text-anchor=\"middle\">urgent subtotal colectomy with end ileostomy</text>\n</g>\n</svg>",
+     "alt": "Algorithm: Truelove–Witts acute severe UC, then admit for IV steroids and supportive care, review at day 3, rescue infliximab or ciclosporin if not responding, and colectomy for dilatation over 6 cm, deterioration, or no response by 7–10 days.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 842,
+       "page": 820
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 844,
+       "page": 822
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1222,
+       "page": 1207
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Reviewing response to IV steroids",
+     "columns": [
+      "Situation",
+      "Action"
+     ],
+     "rows": [
+      [
+       "No adequate response after about 3 days of IV steroids (Kumar: CRP over 45 mg/L or more than 8 stools/day)",
+       "**Rescue therapy:** infliximab 5 mg/kg or ciclosporin 2 mg/kg. About 60% avoid urgent colectomy."
+      ],
+      [
+       "Colon over 6 cm, clinical/lab deterioration, perforation, or no response after 7–10 days of maximal therapy",
+       "**Urgent colectomy**: subtotal colectomy with end ileostomy, rectum left in place"
+      ],
+      [
+       "Toxic dilatation not settling within 48 h (Kumar)",
+       "Urgent surgery"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 842,
+       "page": 820
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 844,
+       "page": 822
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1222,
+       "page": 1207
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1221,
+       "page": 1206
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1223,
+       "page": 1208
+      },
+      {
+       "book": "washington36",
+       "chapter": "Gastrointestinal diseases",
+       "pdfPage": 1887,
+       "page": 1887
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Continuing IV steroids alone beyond the decision point only delays colectomy and increases mortality.** Davidson judges response at **3 days** (3–5 days in Box 21.57), KC Essentials at day 4, and Kumar at day 3 using the CRP/stool criteria.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1222,
+       "page": 1207
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 842,
+       "page": 820
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 844,
+       "page": 822
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 144,
+       "page": 107
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Perianal and fistulating Crohn’s disease",
+     "items": [
+      "First, **map the anatomy with pelvic MRI**.",
+      "Then **examination under anaesthetic**: drain abscesses and place **seton sutures** to keep tracts draining.",
+      "**Metronidazole and/or ciprofloxacin** help as adjuncts. **Glucocorticoids are ineffective**, and thiopurines rarely heal fistulae.",
+      "**Infliximab or adalimumab** can heal fistulae when these measures fail. Refractory cases may need proctectomy or a diverting stoma."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 845,
+       "page": 823
+      },
+      {
+       "book": "washington36",
+       "chapter": "Gastrointestinal diseases",
+       "pdfPage": 1882,
+       "page": 1882
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Surgery: UC vs Crohn’s",
+     "columns": [
+      "Aspect",
+      "Ulcerative colitis",
+      "Crohn’s disease"
+     ],
+     "rows": [
+      [
+       "Aim",
+       "**Curative**: removing the colon and rectum removes the disease",
+       "**Not curative**: treats complications, and recurrence is the rule"
+      ],
+      [
+       "Operations",
+       "Emergency: **subtotal colectomy + end ileostomy**. Elective: **panproctocolectomy with ileostomy** or **ileal–anal pouch**",
+       "Limited resection, **stricturoplasty**, segmental colectomy. **Avoid an ileal pouch** (high recurrence, fistulae, pouch failure)"
+      ],
+      [
+       "Indications",
+       "**Impaired quality of life** (the most important), steroid dependence or drug toxicity, fulminant colitis, refractory arthritis/pyoderma, **cancer or high-grade dysplasia**, growth failure in children",
+       "Obstruction (commonest), fistulae, abscess, perforation, refractory disease"
+      ],
+      [
+       "Numbers",
+       "Up to 60% of extensive UC eventually needs surgery. About a third of pouch patients get **pouchitis**, treated mainly with **metronidazole** ± ciprofloxacin",
+       "About 80% have surgery, and 70% of them need more than one operation. Clinical recurrence is 50% at 10 years"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 845,
+       "page": 823
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Gastroenterology",
+       "pdfPage": 1223,
+       "page": 1208
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Diseases of the gastrointestinal tract",
+       "pdfPage": 411,
+       "page": 411
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Diseases of the gastrointestinal tract",
+       "pdfPage": 407,
+       "page": 407
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 143,
+       "page": 106
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "After Crohn’s resection",
+     "items": [
+      "**Stopping smoking** is the only measure consistently shown to reduce post-operative recurrence.",
+      "Do a **colonoscopy at 6 months** to inspect the anastomosis and neo-terminal ileum. Start a thiopurine if there is endoscopic recurrence, or straight away in high-risk patients (more than one resection, or penetrating disease).",
+      "Keep resections minimal to avoid **short bowel syndrome**. After ileal resection, check and replace **vitamin B12**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 845,
+       "page": 823
+      },
+      {
+       "book": "washington36",
+       "chapter": "Gastrointestinal diseases",
+       "pdfPage": 1889,
+       "page": 1889
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Colorectal cancer surveillance",
+     "items": [
+      "The first surveillance colonoscopy is **10 years after diagnosis**, using pancolonic chromoendoscopy with targeted biopsies.",
+      "**Higher risk** (extensive active colitis, **PSC**, first-degree relative with CRC under 50): repeat at **1 year**. Lower risk: repeat at 3–5 years.",
+      "**High-grade dysplasia means panproctocolectomy.** Low-grade dysplasia means closer (6–12-monthly) surveillance in KC Essentials, although Washington advises colectomy for any confirmed grade of dysplasia."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 840,
+       "page": 818
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Gastroenterology and nutrition",
+       "pdfPage": 145,
+       "page": 108
+      },
+      {
+       "book": "washington36",
+       "chapter": "Gastrointestinal diseases",
+       "pdfPage": 1890,
+       "page": 1890
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "gi-ibd.c1",
+   "sectionId": "gi-ibd.s1",
+   "front": "Which form of IBD is less common in current smokers?",
+   "back": "**Ulcerative colitis.** It is commoner in non-smokers and ex-smokers. Smoking roughly triples the risk of Crohn’s.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 836,
+     "page": 814
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c2",
+   "sectionId": "gi-ibd.s1",
+   "front": "Which gene is linked to ileal, stricturing Crohn’s disease that needs resection?",
+   "back": "**NOD2 (CARD15)** on chromosome 16. It encodes an intracellular sensor of bacterial peptidoglycan.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 836,
+     "page": 814
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1213,
+     "page": 1198
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c3",
+   "sectionId": "gi-ibd.s1",
+   "front": "What is indeterminate colitis, and how common is it?",
+   "back": "Colitis that cannot be classified as UC or CD, even after colectomy. It affects about **10%** of IBD colitis.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1213,
+     "page": 1198
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1217,
+     "page": 1202
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c4",
+   "sectionId": "gi-ibd.s2",
+   "front": "Classic histology of UC?",
+   "back": "Inflammation **limited to the mucosa**, with cryptitis, **crypt abscesses** and **goblet cell depletion**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 837,
+     "page": 815
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 836,
+     "page": 814
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c5",
+   "sectionId": "gi-ibd.s2",
+   "front": "What type of granuloma is seen in Crohn’s disease, and how often?",
+   "back": "**Non-caseating** epithelioid granulomas with Langhans giant cells, in about **50–60%** of patients.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1216,
+     "page": 1201
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c6",
+   "sectionId": "gi-ibd.s2",
+   "front": "Commonest site of Crohn’s disease?",
+   "back": "**Terminal ileum plus right colon**, followed by colon alone, then terminal ileum alone.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 838,
+     "page": 816
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c7",
+   "sectionId": "gi-ibd.s3",
+   "front": "What are the Truelove–Witts criteria for acute severe UC?",
+   "back": "**6 or more bloody stools/24 h** plus at least one of: Hb under 100 g/L, temperature 37.8 °C or more, pulse 90/min or more, ESR over 30 mm/h (or raised CRP).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 839,
+     "page": 817
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c8",
+   "sectionId": "gi-ibd.s3",
+   "front": "Which two findings favour Crohn’s colitis over UC?",
+   "back": "**Rectal sparing** and **perianal disease** (tags, fissures, fistulae).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 839,
+     "page": 817
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 840,
+     "page": 818
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c9",
+   "sectionId": "gi-ibd.s4",
+   "front": "Name the extraintestinal manifestations that are independent of bowel activity.",
+   "back": "**PSC/cholangiocarcinoma**, **sacroiliitis/ankylosing spondylitis**, autoimmune hepatitis, gallstones, oxalate stones/amyloid, metabolic bone disease.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 841,
+     "page": 819,
+     "figure": "Fig. 21.52"
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c10",
+   "sectionId": "gi-ibd.s4",
+   "front": "How does type 1 IBD arthropathy differ from type 2?",
+   "back": "Type 1: **pauciarticular** large joints, self-limiting under 10 weeks, tracks relapses. Type 2: **polyarticular** small joints, lasts months to years, independent of activity, linked with uveitis.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1217,
+     "page": 1202
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c11",
+   "sectionId": "gi-ibd.s5",
+   "front": "Why is faecal calprotectin useful?",
+   "back": "It is a highly sensitive marker of gut inflammation, can be raised when CRP is normal, **distinguishes IBD from IBS**, and monitors flares.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 840,
+     "page": 818
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Gastroenterology",
+     "pdfPage": 101,
+     "page": 101
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c12",
+   "sectionId": "gi-ibd.s5",
+   "front": "Which serology pattern goes with UC and which with CD?",
+   "back": "**p-ANCA** is positive in UC. **ASCA** is positive in CD. Both are supportive only.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1221,
+     "page": 1206
+    },
+    {
+     "book": "washington36",
+     "chapter": "Gastrointestinal diseases",
+     "pdfPage": 1880,
+     "page": 1880
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c13",
+   "sectionId": "gi-ibd.s5",
+   "front": "Main contraindication to capsule endoscopy in CD?",
+   "back": "**Stricturing disease**, because of capsule retention. A patency capsule is often used first.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 841,
+     "page": 819
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1218,
+     "page": 1203
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c14",
+   "sectionId": "gi-ibd.s6",
+   "front": "What X-ray finding defines high-risk toxic megacolon (Davidson)?",
+   "back": "**Transverse colon dilated to more than 6 cm** on plain AXR. There is a high risk of perforation.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 840,
+     "page": 818
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c15",
+   "sectionId": "gi-ibd.s6",
+   "front": "What do recurrent UTIs with pneumaturia suggest in Crohn’s disease?",
+   "back": "An **enterovesical fistula**. Fistulae are specific to CD.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 840,
+     "page": 818
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c16",
+   "sectionId": "gi-ibd.s6",
+   "front": "Why do patients with terminal ileal disease or resection get kidney stones?",
+   "back": "Bile salts lost into the colon increase **oxalate absorption**, which causes **oxalate renal stones**.",
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "chapter": "Gastroenterology and nutrition",
+     "pdfPage": 135,
+     "page": 98
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c17",
+   "sectionId": "gi-ibd.s7",
+   "front": "Why is budesonide first choice for ileal Crohn’s?",
+   "back": "**90% first-pass hepatic metabolism** gives few systemic steroid effects. The regimen is 9 mg daily for 6 weeks.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 842,
+     "page": 820
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c18",
+   "sectionId": "gi-ibd.s7",
+   "front": "What must be excluded before starting anti-TNF therapy?",
+   "back": "**Latent tuberculosis** and hepatitis B/C, as well as active infection. Live vaccines are avoided.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 843,
+     "page": 821
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 844,
+     "page": 822
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c19",
+   "sectionId": "gi-ibd.s7",
+   "front": "IBD drug that must be stopped 3 months before conception?",
+   "back": "**Methotrexate**, because it is teratogenic.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 844,
+     "page": 822
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 846,
+     "page": 824
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c20",
+   "sectionId": "gi-ibd.s8",
+   "front": "IV steroid regimen in acute severe UC, and the rescue options?",
+   "back": "**IV methylprednisolone 60 mg/day or hydrocortisone 400 mg/day**. Non-responders at about day 3 get **infliximab 5 mg/kg or ciclosporin 2 mg/kg**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 842,
+     "page": 820
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 844,
+     "page": 822
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c21",
+   "sectionId": "gi-ibd.s8",
+   "front": "Only measure proven to reduce post-operative Crohn’s recurrence?",
+   "back": "**Smoking cessation.**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 845,
+     "page": 823
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.c22",
+   "sectionId": "gi-ibd.s8",
+   "front": "When does colitis cancer surveillance start?",
+   "back": "**10 years after diagnosis**, with chromoendoscopy. High-grade dysplasia leads to panproctocolectomy.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 840,
+     "page": 818
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Gastroenterology and nutrition",
+     "pdfPage": 145,
+     "page": 108
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "gi-ibd.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 23-year-old man has had bloody diarrhoea with mucus for 6 weeks. Colonoscopy shows continuous mucosal inflammation from the rectum to the splenic flexure. He gave up a 10-a-day cigarette habit a year ago, had an appendicectomy for appendicitis at age 12, was breastfed, and eats a typical Western diet.",
+   "leadIn": "Which factor in his history is most associated with an increased risk of his condition?",
+   "options": [
+    "Stopping smoking a year ago",
+    "Appendicectomy for appendicitis in childhood",
+    "Having been breastfed",
+    "A diet high in refined sugar",
+    "His age at onset"
+   ],
+   "answer": 0,
+   "explanation": "This is **ulcerative colitis**: continuous mucosal inflammation starting at the rectum. UC is **more common in non-smokers and ex-smokers**, so stopping smoking is the factor that raises his risk. Smoking itself protects against UC but not against Crohn’s.",
+   "whyNot": [
+    "",
+    "Appendicectomy, especially for appendicitis before age 20, **protects** against UC.",
+    "Breastfeeding may **protect** against IBD.",
+    "A low-residue, high refined-sugar diet is linked with **Crohn’s**, not UC.",
+    "A 2nd–3rd decade onset is typical, but age is not a modifiable risk factor and does not explain the case better than smoking cessation."
+   ],
+   "studyRef": {
+    "sectionId": "gi-ibd.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 836,
+     "page": 814
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1214,
+     "page": 1199
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 19-year-old woman needs resection of a terminal ileal stricture caused by Crohn’s disease. Genetic testing in a research study shows homozygous variants in a gene encoding an intracellular sensor of bacterial peptidoglycan.",
+   "leadIn": "Which gene is most likely affected?",
+   "options": [
+    "NOD2 (CARD15)",
+    "HLA-DR*103",
+    "HLA-B27",
+    "CDH1",
+    "HNF4α"
+   ],
+   "answer": 0,
+   "explanation": "**NOD2/CARD15** (chromosome 16) senses bacterial peptidoglycan. Homozygous or compound heterozygous variants raise the risk of **ileal, stricturing CD** that tends to need resection.",
+   "whyNot": [
+    "",
+    "HLA-DR*103 is associated with **severe UC**.",
+    "HLA-B27 is linked with IBD-associated **sacroiliitis/ankylosing spondylitis**, not ileal stricturing.",
+    "CDH1 is an epithelial **barrier** gene linked with UC.",
+    "HNF4α is a colonic barrier gene linked with **UC**."
+   ],
+   "studyRef": {
+    "sectionId": "gi-ibd.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 836,
+     "page": 814
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1213,
+     "page": 1198
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1217,
+     "page": 1202
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q3",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Pathological findings in inflammatory bowel disease",
+   "leadIn": "Match each scenario below to the best option in the list. Any option can be chosen for one scenario, for several, or for none.",
+   "options": [
+    "Mucosal inflammation with crypt abscesses and goblet cell depletion",
+    "Transmural inflammation with non-caseating granulomas",
+    "Caseating granulomas with acid-fast bacilli",
+    "Post-inflammatory pseudopolyps",
+    "Dysplasia with nuclear atypia and heaped crypt cells",
+    "Thickened subepithelial collagen band",
+    "Fibrinous pseudomembranes over the mucosa",
+    "Normal mucosa with no inflammation",
+    "Mesenteric fat wrapping around a thick-walled ileum"
+   ],
+   "items": [
+    {
+     "stem": "A 24-year-old man has had 2 months of bloody diarrhoea with mucus. Sigmoidoscopy shows continuous, friable inflammation from the anal margin to the mid-sigmoid. What would a rectal biopsy most likely show?",
+     "answer": 0,
+     "explanation": "Continuous inflammation from the rectum suggests **UC**. UC is mucosal, with cryptitis, crypt abscesses and loss of goblet cell mucus.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s2"
+     }
+    },
+    {
+     "stem": "A 31-year-old woman who smokes has a terminal ileal stricture resected after repeated obstruction. She also has a perianal fistula. What would microscopy of the full thickness of the resected wall most likely show?",
+     "answer": 1,
+     "explanation": "Two steps: a smoker with ileal stricturing and perianal disease has **Crohn’s disease**, and CD inflammation is **transmural**, with non-caseating granulomas in about half of patients.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s2"
+     }
+    },
+    {
+     "stem": "A 52-year-old man has had extensive UC for 20 years and also has primary sclerosing cholangitis. Chromoendoscopy picks out a raised, irregular area in the sigmoid. What is the targeted biopsy most likely to show?",
+     "answer": 4,
+     "explanation": "Long-standing extensive colitis plus PSC carries the highest cancer risk. **Dysplasia** (heaped cells, nuclear atypia, mitoses) is the precursor lesion that surveillance looks for.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s2"
+     }
+    },
+    {
+     "stem": "A 60-year-old woman has a colectomy for long-standing pancolitis. The colon is short, and multiple small polypoid tags of mucosa stand up from flat, atrophic surroundings. What are these tags?",
+     "answer": 3,
+     "explanation": "**Pseudopolyps** are islands of residual or hypertrophied mucosa within atrophic areas in long-standing UC. They are not neoplastic.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 837,
+     "page": 815
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 838,
+     "page": 816
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1216,
+     "page": 1201
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 840,
+     "page": 818
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q4",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Presentations of IBD and its mimics",
+   "leadIn": "Match each scenario below to the best option in the list. Any option can be chosen for one scenario, for several, or for none.",
+   "options": [
+    "Ulcerative proctitis",
+    "Mild–moderate left-sided ulcerative colitis",
+    "Acute severe ulcerative colitis",
+    "Ileal Crohn’s disease",
+    "Crohn’s colitis",
+    "Campylobacter enterocolitis",
+    "Clostridium difficile colitis",
+    "Ileocaecal tuberculosis",
+    "Irritable bowel syndrome",
+    "Ischaemic colitis"
+   ],
+   "items": [
+    {
+     "stem": "A 22-year-old man has passed bright red blood and mucus for 2 months, with tenesmus and small, hard, pellet-like stools. He feels well. Pulse, haemoglobin and CRP are normal.",
+     "answer": 0,
+     "explanation": "Bleeding, mucus and tenesmus with **pellety stools** (constipation above an inflamed rectum) and **no systemic upset** is typical of **proctitis**.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s3"
+     }
+    },
+    {
+     "stem": "A 19-year-old woman has 4 months of colicky lower abdominal pain after meals, watery diarrhoea without blood, and a 6 kg weight loss. There is angular stomatitis and a tender mass in the right iliac fossa.",
+     "answer": 3,
+     "explanation": "**Ileal CD**: post-prandial colicky pain, **non-bloody** diarrhoea, weight loss, nutritional signs and a **RIF mass** (matted loops or abscess).",
+     "studyRef": {
+      "sectionId": "gi-ibd.s3"
+     }
+    },
+    {
+     "stem": "A 34-year-old man with known UC has 8 bloody stools a day. His pulse is 102/min, temperature 38.0 °C and haemoglobin 96 g/L.",
+     "answer": 2,
+     "explanation": "Two steps: 6 or more bloody stools plus a systemic feature (here tachycardia, fever and anaemia) meets **Truelove–Witts**, so this is **acute severe UC** needing admission.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s3"
+     }
+    },
+    {
+     "stem": "A 28-year-old woman has 3 months of bloody diarrhoea. Sigmoidoscopy shows a normal rectum with patchy ulcers higher up in the descending colon. She has perianal skin tags and a fissure.",
+     "answer": 4,
+     "explanation": "**Rectal sparing and perianal disease** favour **Crohn’s colitis** over UC, which always involves the rectum.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 838,
+     "page": 816
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 839,
+     "page": 817
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1217,
+     "page": 1202
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 34-year-old man with ulcerative colitis has been in clinical remission on mesalazine for 3 years. Routine bloods show an alkaline phosphatase three times the upper limit of normal, with normal transaminases. p-ANCA is positive.",
+   "leadIn": "Which extraintestinal manifestation is most likely?",
+   "options": [
+    "Primary sclerosing cholangitis",
+    "Autoimmune hepatitis",
+    "Gallstone disease",
+    "Fatty liver",
+    "Liver abscess"
+   ],
+   "answer": 0,
+   "explanation": "A **cholestatic** pattern in a UC patient whose bowel is **quiet** suggests **PSC**, which runs independently of colitis activity. About 70% of PSC cases occur with UC. p-ANCA is often positive, and **MRCP** confirms the diagnosis.",
+   "whyNot": [
+    "",
+    "Autoimmune hepatitis gives a hepatitic (transaminase-led) picture, whereas this is a cholestatic picture with normal transaminases.",
+    "Gallstones are more typical of ileal Crohn’s, and he has no biliary pain.",
+    "Fatty liver goes with **active** disease, not a 3-year remission.",
+    "Liver abscess or portal pyaemia occurs with active, septic disease, so he would be unwell."
+   ],
+   "studyRef": {
+    "sectionId": "gi-ibd.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 841,
+     "page": 819,
+     "figure": "Fig. 21.52"
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Gastroenterology",
+     "pdfPage": 91,
+     "page": 91
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Diseases of the gastrointestinal tract",
+     "pdfPage": 410,
+     "page": 410
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Diseases of the gastrointestinal tract",
+     "pdfPage": 406,
+     "page": 406
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 27-year-old woman with Crohn’s colitis develops a hot, swollen right knee during a flare. Other joints are normal. Six weeks later, with her bowel disease controlled, the knee has settled completely.",
+   "leadIn": "Which best describes her arthropathy?",
+   "options": [
+    "Type 1 (pauciarticular) peripheral arthropathy",
+    "Type 2 (polyarticular) peripheral arthropathy",
+    "Ankylosing spondylitis",
+    "Isolated sacroiliitis",
+    "Septic arthritis"
+   ],
+   "answer": 0,
+   "explanation": "**Type 1** arthropathy affects a few **large joints**, follows **relapses**, and is **self-limiting within about 10 weeks**, exactly as here.",
+   "whyNot": [
+    "",
+    "Type 2 is **polyarticular**, affects small joints, lasts months to years and is independent of activity.",
+    "Ankylosing spondylitis is axial and independent of bowel activity.",
+    "Sacroiliitis is axial (back/buttock pain), not a knee effusion.",
+    "Septic arthritis would not resolve on its own as the bowel settles."
+   ],
+   "studyRef": {
+    "sectionId": "gi-ibd.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1217,
+     "page": 1202
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 841,
+     "page": 819,
+     "figure": "Fig. 21.52"
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q7",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Choosing investigations in IBD",
+   "leadIn": "Match each scenario below to the best option in the list. Any option can be chosen for one scenario, for several, or for none.",
+   "options": [
+    "Faecal calprotectin",
+    "Stool microscopy, culture and C. difficile toxin",
+    "Ileocolonoscopy with biopsies from each segment",
+    "Flexible sigmoidoscopy with biopsy",
+    "MRI enterography",
+    "MRI of the pelvis",
+    "Wireless capsule endoscopy",
+    "CT of the abdomen",
+    "Plain abdominal X-ray",
+    "p-ANCA and ASCA serology",
+    "Upper gastrointestinal endoscopy",
+    "Barium enema"
+   ],
+   "items": [
+    {
+     "stem": "A 25-year-old woman has 6 months of intermittent loose stools and bloating relieved by defecation. Haemoglobin and CRP are normal. Her GP wants a simple test to decide whether IBD needs to be pursued.",
+     "answer": 0,
+     "explanation": "**Faecal calprotectin** is highly sensitive for gut inflammation and is the best simple discriminator between **IBS and IBD**.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s5"
+     }
+    },
+    {
+     "stem": "A 30-year-old man with UC that has been in remission for 2 years develops bloody diarrhoea a few days after returning from a trip abroad.",
+     "answer": 1,
+     "explanation": "Every flare, especially after travel, needs **stool culture and C. difficile toxin** to exclude superimposed infection before escalating IBD treatment.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s5"
+     }
+    },
+    {
+     "stem": "A 33-year-old woman with acute severe colitis has a pulse of 112/min, temperature of 38.3 °C and a distended, tender abdomen.",
+     "answer": 8,
+     "explanation": "A **plain AXR** looks for **colonic dilatation** (over 6 cm is high-risk), thumb-printing or perforation, and is repeated daily.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s5"
+     }
+    },
+    {
+     "stem": "A 21-year-old man has just been diagnosed with terminal ileal Crohn’s at colonoscopy. The team wants to stage the small bowel and tell inflammatory from fibrotic strictures, without radiation.",
+     "answer": 4,
+     "explanation": "**MRI enterography** gives transmural images without radiation and distinguishes inflammatory from fibrotic strictures.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s5"
+     }
+    },
+    {
+     "stem": "An 18-year-old man presents for the first time with 9 bloody stools a day, fever and tachycardia. Tissue is needed to confirm IBD.",
+     "answer": 3,
+     "explanation": "Two steps: this is acute severe colitis, so full colonoscopy carries a **perforation risk**. A **flexible sigmoidoscopy** with biopsy is used now, and ileocolonoscopy later.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 840,
+     "page": 818
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 841,
+     "page": 819
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 842,
+     "page": 820
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 21-year-old man is admitted with his first attack of colitis. He has 12 bloody stools a day, a pulse of 118/min and a temperature of 38.4 °C. Daily plain abdominal X-rays are ordered.",
+   "leadIn": "Which X-ray finding indicates a high risk of colonic perforation?",
+   "options": [
+    "Transverse colon diameter greater than 6 cm",
+    "Faecal loading proximal to the inflamed segment",
+    "Small-bowel air–fluid levels with a collapsed colon",
+    "A few mucosal islands in a non-dilated colon",
+    "Normal gas pattern with no faecal residue in the distal colon"
+   ],
+   "answer": 0,
+   "explanation": "In acute severe colitis, a **transverse colon over 6 cm** (toxic megacolon) carries a **high perforation risk**. It most often occurs in the **first attack** and is a surgical emergency.",
+   "whyNot": [
+    "",
+    "Proximal faecal loading is a feature of **proctitis**, not of impending perforation.",
+    "This pattern suggests small-bowel obstruction, for example stricturing Crohn’s, not toxic colitis.",
+    "Mucosal islands mark severe mucosal disease, but the danger threshold is dilatation beyond 6 cm.",
+    "A normal gas pattern is reassuring for perforation risk."
+   ],
+   "studyRef": {
+    "sectionId": "gi-ibd.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 840,
+     "page": 818
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1221,
+     "page": 1206
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "Five patients with IBD attend the gastroenterology clinic.",
+   "leadIn": "Which patient has the highest risk of colorectal cancer?",
+   "options": [
+    "Extensive UC for 20 years with primary sclerosing cholangitis",
+    "Ulcerative proctitis for 25 years",
+    "Left-sided UC diagnosed 5 years ago",
+    "Terminal ileal Crohn’s disease for 15 years",
+    "Extensive UC for 8 years without PSC"
+   ],
+   "answer": 0,
+   "explanation": "Cancer risk rises with the **extent and duration** of colitis, and is especially high with **PSC**. Long-standing extensive UC plus PSC is the highest-risk combination.",
+   "whyNot": [
+    "",
+    "Proctitis is the least extensive form, and risk rises with the extent of colitis.",
+    "Only 5 years’ duration is below the 10-year threshold for surveillance.",
+    "Isolated ileal disease does not involve the colon.",
+    "Under 10 years and without PSC, the risk is lower than option A."
+   ],
+   "studyRef": {
+    "sectionId": "gi-ibd.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 840,
+     "page": 818
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Gastroenterology and nutrition",
+     "pdfPage": 145,
+     "page": 108
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q10",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Drug treatment in IBD",
+   "leadIn": "Match each scenario below to the best option in the list. Any option can be chosen for one scenario, for several, or for none.",
+   "options": [
+    "Mesalazine 1 g suppository",
+    "Once-daily oral 5-ASA plus topical 5-ASA",
+    "Oral prednisolone 40 mg with weekly taper",
+    "Budesonide 9 mg daily",
+    "Azathioprine",
+    "Weekly methotrexate",
+    "Infliximab",
+    "Vedolizumab",
+    "Intravenous ciclosporin",
+    "Exclusive enteral nutrition",
+    "Metronidazole",
+    "Loperamide",
+    "Sulfasalazine"
+   ],
+   "items": [
+    {
+     "stem": "A 27-year-old man has mild ulcerative colitis confined to the rectum, with rectal bleeding and mucus.",
+     "answer": 0,
+     "explanation": "For active **proctitis**, a **1 g mesalazine suppository** is first line. Oral 5-ASA is added if needed.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s7"
+     }
+    },
+    {
+     "stem": "A 12-year-old boy has active ileal Crohn’s disease and his growth velocity has slowed. His parents ask for an induction treatment that avoids steroids.",
+     "answer": 9,
+     "explanation": "**Exclusive enteral nutrition** (polymeric or elemental) induces remission and is **as effective as steroids in children**, without the steroid effects on growth.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s7"
+     }
+    },
+    {
+     "stem": "A 35-year-old woman presents with her first flare of mild–moderate terminal ileal Crohn’s disease.",
+     "answer": 3,
+     "explanation": "**Budesonide 9 mg daily** is first choice for ileal CD because 90% first-pass metabolism limits systemic effects.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s7"
+     }
+    },
+    {
+     "stem": "A 41-year-old man with left-sided UC has needed three courses of prednisolone in 12 months despite optimal 5-ASA. His TPMT activity is normal.",
+     "answer": 4,
+     "explanation": "Two steps: frequent steroid courses mean **steroid dependence**, which is the cue for a **thiopurine**. With normal TPMT, azathioprine can be started.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s7"
+     }
+    },
+    {
+     "stem": "A 45-year-old woman with UC in remission has troublesome peripheral arthropathy. An aminosalicylate is chosen for maintenance with her joints in mind.",
+     "answer": 12,
+     "explanation": "**Sulfasalazine** works as well as other 5-ASAs for maintenance but has more side effects. It is chosen when **arthropathy** coexists.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 842,
+     "page": 820
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 844,
+     "page": 822
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 29-year-old woman with ulcerative colitis is admitted with 10 bloody stools a day, a pulse of 105/min and a haemoglobin of 95 g/L. She is distressed by frequency and cramping and asks for something to slow her bowels.",
+   "leadIn": "Which treatment should be avoided?",
+   "options": [
+    "Loperamide",
+    "Subcutaneous low-molecular-weight heparin",
+    "Intravenous hydrocortisone",
+    "Intravenous fluids with electrolyte replacement",
+    "Red cell transfusion"
+   ],
+   "answer": 0,
+   "explanation": "In acute severe colitis, **antidiarrhoeals and opiates are avoided** because they may **precipitate colonic dilatation** (toxic megacolon).",
+   "whyNot": [
+    "",
+    "LMWH is **recommended** for VTE prophylaxis despite rectal bleeding.",
+    "IV glucocorticoids are the cornerstone of treatment.",
+    "IV fluids and electrolyte correction are standard supportive care.",
+    "Transfusion is considered when Hb is under 100 g/L, as here."
+   ],
+   "studyRef": {
+    "sectionId": "gi-ibd.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 844,
+     "page": 822
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 843,
+     "page": 821
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Gastroenterology and nutrition",
+     "pdfPage": 144,
+     "page": 107
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 45-year-old woman has had extensive ulcerative colitis for 12 years and also has primary sclerosing cholangitis. Surveillance chromoendoscopy finds a flat area of high-grade dysplasia, confirmed by two pathologists.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Panproctocolectomy",
+    "Repeat colonoscopy in 3–5 years",
+    "Repeat colonoscopy in 6–12 months",
+    "Increase the mesalazine dose",
+    "Add azathioprine"
+   ],
+   "answer": 0,
+   "explanation": "**High-grade dysplasia** carries a high risk of colon cancer, so **panproctocolectomy** is recommended. PSC adds to her risk.",
+   "whyNot": [
+    "",
+    "A 3–5-year interval is for **low-risk** patients without dysplasia.",
+    "Closer surveillance applies to low-grade dysplasia (in KC Essentials), not high-grade.",
+    "Mesalazine may lower cancer risk but cannot treat established high-grade dysplasia.",
+    "Azathioprine does not deal with established high-grade dysplasia."
+   ],
+   "studyRef": {
+    "sectionId": "gi-ibd.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 840,
+     "page": 818
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Gastroenterology and nutrition",
+     "pdfPage": 145,
+     "page": 108
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q13",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Extraintestinal manifestations and complications of IBD",
+   "leadIn": "Match each scenario below to the best option in the list. Any option can be chosen for one scenario, for several, or for none.",
+   "options": [
+    "Erythema nodosum",
+    "Pyoderma gangrenosum",
+    "Episcleritis",
+    "Primary sclerosing cholangitis",
+    "Sacroiliitis",
+    "Gallstones",
+    "Oxalate renal stones",
+    "Osteoporosis",
+    "Enterovesical fistula",
+    "Toxic megacolon",
+    "Venous thromboembolism",
+    "Vitamin B12 deficiency",
+    "Type 2 (polyarticular) arthropathy"
+   ],
+   "items": [
+    {
+     "stem": "A 38-year-old woman had 70 cm of terminal ileum resected for Crohn’s 3 years ago. She now has loin-to-groin pain and microscopic haematuria.",
+     "answer": 6,
+     "explanation": "Two steps: ileal loss lets bile salts reach the colon, which **increases colonic oxalate absorption** and leads to **oxalate stones**.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s6"
+     }
+    },
+    {
+     "stem": "A 26-year-old man with an active Crohn’s flare develops raised, red, tender nodules on both shins.",
+     "answer": 0,
+     "explanation": "**Erythema nodosum** tracks bowel activity and is particularly associated with **CD**.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s4"
+     }
+    },
+    {
+     "stem": "A 44-year-old woman with Crohn’s disease has had three E. coli urinary infections in 4 months and notices air bubbles in her urine.",
+     "answer": 8,
+     "explanation": "Recurrent UTIs with **pneumaturia** point to an **enterovesical fistula**, a CD-specific complication.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s6"
+     }
+    },
+    {
+     "stem": "A 52-year-old man with UC who has had many prednisolone courses sustains a wrist fracture after a minor fall.",
+     "answer": 7,
+     "explanation": "**Osteoporosis** results from inflammation, glucocorticoids and malnutrition. Calcium and vitamin D should accompany steroids.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s6"
+     }
+    },
+    {
+     "stem": "A 30-year-old man admitted with a UC flare develops a painful swollen left calf on day 5. He had not received thromboprophylaxis.",
+     "answer": 10,
+     "explanation": "IBD, especially when active, raises the risk of **venous thromboembolism**, which is why LMWH prophylaxis is given on admission.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 840,
+     "page": 818
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 846,
+     "page": 824
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Gastroenterology and nutrition",
+     "pdfPage": 135,
+     "page": 98
+    },
+    {
+     "book": "washington36",
+     "chapter": "Gastrointestinal diseases",
+     "pdfPage": 1890,
+     "page": 1890
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Diseases of the gastrointestinal tract",
+     "pdfPage": 406,
+     "page": 406
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 844,
+     "page": 822
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q14",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "theme": "Adverse effects of IBD drugs",
+   "leadIn": "Match each scenario below to the best option in the list. Any option can be chosen for one scenario, for several, or for none.",
+   "options": [
+    "Sulfasalazine",
+    "Mesalazine",
+    "Azathioprine",
+    "Methotrexate",
+    "Infliximab",
+    "Ciclosporin",
+    "Prednisolone",
+    "Budesonide",
+    "Vedolizumab",
+    "Metronidazole",
+    "Loperamide"
+   ],
+   "items": [
+    {
+     "stem": "A 32-year-old man on UC maintenance therapy has a low sperm count, which recovers after his drug is switched. His prescriber had also added folic acid.",
+     "answer": 0,
+     "explanation": "The **sulfapyridine** part of **sulfasalazine** causes reversible **oligospermia** and impairs folate absorption.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s7"
+     }
+    },
+    {
+     "stem": "A 27-year-old woman with Crohn’s on a once-weekly drug is told to stop it 3 months before trying to conceive. She was also warned about pneumonitis and liver fibrosis.",
+     "answer": 3,
+     "explanation": "**Methotrexate** is teratogenic (stop 3 months pre-conception) and can cause pneumonitis and hepatotoxicity.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s7"
+     }
+    },
+    {
+     "stem": "A 40-year-old man with chronic perianal Crohn’s has taken the same antibiotic for many months and now has numbness and tingling in both feet.",
+     "answer": 9,
+     "explanation": "Long-term **metronidazole** causes **peripheral neuropathy**.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s7"
+     }
+    },
+    {
+     "stem": "A 23-year-old woman starts a new maintenance tablet for Crohn’s. Four weeks later she has severe epigastric pain radiating to the back and a raised amylase. Her TPMT was normal.",
+     "answer": 2,
+     "explanation": "Two steps: a TPMT check implies a **thiopurine**, and **azathioprine** causes acute **pancreatitis** (among other reasons for stopping it).",
+     "studyRef": {
+      "sectionId": "gi-ibd.s7"
+     }
+    },
+    {
+     "stem": "A 36-year-old man receiving rescue therapy for acute severe UC develops a tremor, a rising creatinine and then a seizure.",
+     "answer": 5,
+     "explanation": "**Ciclosporin** causes nephrotoxicity and neurotoxicity, including fits.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s8"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 843,
+     "page": 821
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 844,
+     "page": 822
+    },
+    {
+     "book": "washington36",
+     "chapter": "Gastrointestinal diseases",
+     "pdfPage": 1881,
+     "page": 1881
+    },
+    {
+     "book": "washington36",
+     "chapter": "Gastrointestinal diseases",
+     "pdfPage": 1884,
+     "page": 1884
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Gastroenterology and nutrition",
+     "pdfPage": 142,
+     "page": 105
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 30-year-old man with fistulating Crohn’s disease is due to start infliximab.",
+   "leadIn": "Which condition must be excluded before the first infusion?",
+   "options": [
+    "Latent tuberculosis",
+    "TPMT deficiency",
+    "HLA-B27 positivity",
+    "Vitamin D deficiency",
+    "Coeliac disease"
+   ],
+   "answer": 0,
+   "explanation": "Anti-TNF therapy can **reactivate latent TB**, so it must be excluded first, together with hepatitis B and C. Live vaccines are avoided.",
+   "whyNot": [
+    "",
+    "TPMT is checked before **thiopurines**, not anti-TNF.",
+    "HLA-B27 status does not affect anti-TNF safety.",
+    "Vitamin D matters with glucocorticoids, but it is not a pre-infliximab safety requirement.",
+    "Coeliac disease is not a contraindication to anti-TNF."
+   ],
+   "studyRef": {
+    "sectionId": "gi-ibd.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 843,
+     "page": 821
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 844,
+     "page": 822
+    },
+    {
+     "book": "washington36",
+     "chapter": "Gastrointestinal diseases",
+     "pdfPage": 1885,
+     "page": 1885
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q16",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 31-year-old woman with known UC has 7 bloody stools a day. Pulse is 96/min, temperature 37.4 °C, haemoglobin 128 g/L and CRP 52 mg/L.",
+   "leadIn": "How should this attack be classified and managed?",
+   "options": [
+    "Mild UC: optimise oral 5-ASA at home",
+    "Moderate UC: add oral prednisolone as an outpatient",
+    "Acute severe UC: admit for IV glucocorticoids",
+    "Acute severe UC: immediate colectomy",
+    "Not severe because she is afebrile: add topical 5-ASA"
+   ],
+   "answer": 2,
+   "explanation": "**Step 1: count the stools.** She has 7 bloody stools a day, which meets the threshold of 6 or more. **Step 2: look for one systemic marker.** Pulse 96 (90 or more) and a raised CRP each qualify, and only one is needed. **Step 3: classify.** This is **acute severe UC (Truelove–Witts)**. **Step 4: act.** Admit for **IV methylprednisolone or hydrocortisone**, IV fluids, LMWH, stool cultures and daily AXR, with joint surgical review. Response is judged at about day 3.",
+   "whyNot": [
+    "Stool frequency and systemic features exceed the mild range.",
+    "Once Truelove–Witts is met, she needs **inpatient IV** steroids, not outpatient oral treatment.",
+    "",
+    "Colectomy is for dilatation over 6 cm, deterioration, or failure of medical therapy, not first-line treatment.",
+    "Fever is only one of several qualifying markers. Tachycardia and a raised CRP are enough."
+   ],
+   "studyRef": {
+    "sectionId": "gi-ibd.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 839,
+     "page": 817
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 842,
+     "page": 820
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 844,
+     "page": 822
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q17",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 24-year-old man has 5 months of diarrhoea, abdominal pain and 7 kg weight loss. He has a perianal skin tag. Colonoscopy shows a normal rectum, patchy aphthoid and deep serpiginous ulcers in the caecum, and an ulcerated terminal ileum. Biopsies show non-caseating granulomas. No acid-fast bacilli are seen.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Crohn’s disease",
+    "Ulcerative colitis with backwash ileitis",
+    "Ileocaecal tuberculosis",
+    "Campylobacter colitis",
+    "Ischaemic colitis"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1: pattern.** The disease is patchy, with **rectal sparing** and terminal ileal involvement, which points away from UC. **Step 2: ulcer type.** Aphthoid ulcers progressing to deep serpiginous ulcers are typical of **CD**. **Step 3: histology.** **Non-caseating** granulomas support CD. **Step 4: extras.** Perianal disease and weight loss fit CD. TB is the main mimic. Its granulomas do not always caseate and bacilli are often scanty, so TB is excluded with culture or PCR rather than on one negative stain.",
+   "whyNot": [
+    "",
+    "UC **always involves the rectum** and spreads continuously. It does not cause skip lesions or perianal tags.",
+    "TB is the main mimic of ileocaecal CD and should be sought (caseation, AFB, culture or PCR), but perianal tags with rectal-sparing patchy colitis and non-caseating granulomas fit CD better.",
+    "Campylobacter causes an acute infective colitis, not a 5-month illness with granulomas.",
+    "Ischaemic colitis is a colitis mimic that does not cause terminal ileal ulceration, granulomas or perianal disease."
+   ],
+   "studyRef": {
+    "sectionId": "gi-ibd.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 840,
+     "page": 818
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1218,
+     "page": 1203
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 835,
+     "page": 813
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Gastroenterology and nutrition",
+     "pdfPage": 141,
+     "page": 104
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 839,
+     "page": 817
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q18",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 30-year-old man with steroid-dependent ulcerative colitis is about to start azathioprine. Pre-treatment testing shows **undetectable** thiopurine methyltransferase (TPMT) activity.",
+   "leadIn": "What is the most appropriate action?",
+   "options": [
+    "Avoid thiopurines and choose a different steroid-sparing agent",
+    "Start azathioprine at 2.5 mg/kg/day",
+    "Start azathioprine at half the usual dose",
+    "Start mercaptopurine at 1.5 mg/kg/day instead",
+    "Continue low-dose prednisolone as maintenance"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1: know the pathway.** Azathioprine is converted to mercaptopurine, which is then metabolised by **TPMT**. **Step 2: interpret.** With **absent** TPMT activity (about 1 in 300 people), toxic metabolites build up and cause **profound marrow suppression**, so thiopurines are **contraindicated**. A reduced dose is only for **low** (intermediate) activity. **Step 3: alternative.** He needs a non-thiopurine option, such as a biologic (anti-TNF or vedolizumab), and never long-term steroids.",
+   "whyNot": [
+    "",
+    "A full dose with absent TPMT risks life-threatening pancytopenia.",
+    "Dose reduction is for **reduced**, not absent, TPMT activity.",
+    "Mercaptopurine uses the **same TPMT pathway**, so the risk is the same.",
+    "Glucocorticoids must **never** be used for maintenance."
+   ],
+   "studyRef": {
+    "sectionId": "gi-ibd.s7"
+   },
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "chapter": "Gastroenterology and nutrition",
+     "pdfPage": 142,
+     "page": 105
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 843,
+     "page": 821
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 842,
+     "page": 820
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q19",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Next step in managing IBD complications",
+   "leadIn": "Match each scenario below to the best option in the list. Any option can be chosen for one scenario, for several, or for none.",
+   "options": [
+    "Continue IV hydrocortisone and reassess in 2 weeks",
+    "Rescue infliximab 5 mg/kg",
+    "Subtotal colectomy with end ileostomy",
+    "Elective panproctocolectomy",
+    "Examination under anaesthetic with drainage and seton",
+    "Oral budesonide",
+    "Ileocolonoscopy 6 months after surgery",
+    "Loperamide",
+    "Smoking cessation",
+    "Metronidazole with or without ciprofloxacin",
+    "Stricturoplasty",
+    "Oral prednisolone 40 mg"
+   ],
+   "items": [
+    {
+     "stem": "A 28-year-old woman is on day 3 of IV hydrocortisone for acute severe UC. She still has 9 bloody stools a day and a CRP of 62 mg/L. AXR shows a transverse colon of 5 cm. She is haemodynamically stable.",
+     "answer": 1,
+     "explanation": "More than 8 stools/day or a CRP over 45 at day 3 means failed steroids. Without dilatation over 6 cm or instability, give **medical rescue** (infliximab or ciclosporin).",
+     "studyRef": {
+      "sectionId": "gi-ibd.s8"
+     }
+    },
+    {
+     "stem": "A 35-year-old man is on day 2 of IV steroids for acute severe UC. His abdomen is increasingly distended and tender, and the transverse colon now measures 7.5 cm.",
+     "answer": 2,
+     "explanation": "Dilatation over **6 cm** with deterioration means **urgent colectomy**. In acute UC, this is a **subtotal colectomy with end ileostomy**, leaving the rectum in place.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s8"
+     }
+    },
+    {
+     "stem": "A 42-year-old woman had an ileal–anal pouch formed for UC 2 years ago. She now has increased stool frequency, urgency and low-grade fever. Endoscopy shows an inflamed pouch.",
+     "answer": 9,
+     "explanation": "**Pouchitis** affects about a third of pouch patients and is treated mainly with **metronidazole**, with or without ciprofloxacin.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s8"
+     }
+    },
+    {
+     "stem": "A 30-year-old man with Crohn’s has a painful perianal swelling. Pelvic MRI shows an abscess connected to a fistula tract.",
+     "answer": 4,
+     "explanation": "Two steps: the anatomy is already mapped by MRI, so the next step is **EUA**, abscess drainage and **seton** placement. Steroids are ineffective for fistulae.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s8"
+     }
+    },
+    {
+     "stem": "A 38-year-old woman with Crohn’s has had two small-bowel resections. She now has several short fibrotic jejunal strictures causing obstructive symptoms. The surgeon wants to preserve bowel length.",
+     "answer": 10,
+     "explanation": "**Stricturoplasty** widens strictures without removing bowel, which avoids **short bowel syndrome**.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s8"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 842,
+     "page": 820
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 845,
+     "page": 823
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1222,
+     "page": 1207
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1223,
+     "page": 1208
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 844,
+     "page": 822
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q20",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Diagnosis in a patient with suspected IBD",
+   "leadIn": "Match each scenario below to the best option in the list. Any option can be chosen for one scenario, for several, or for none.",
+   "options": [
+    "Ulcerative colitis",
+    "Crohn’s disease",
+    "Indeterminate colitis",
+    "Ileocaecal tuberculosis",
+    "Yersinia ileitis",
+    "Campylobacter colitis",
+    "Clostridium difficile colitis",
+    "Cytomegalovirus colitis",
+    "Ischaemic colitis",
+    "Collagenous colitis",
+    "Irritable bowel syndrome",
+    "Caecal carcinoma"
+   ],
+   "items": [
+    {
+     "stem": "A 39-year-old woman with UC on azathioprine and prednisolone has a flare that does not respond to IV steroids. Colonic biopsies show viral inclusion bodies.",
+     "answer": 7,
+     "explanation": "Immunosuppressed IBD patients are prone to **CMV superinfection**, which is diagnosed on **biopsy**. It should be sought in steroid-refractory flares.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s5"
+     }
+    },
+    {
+     "stem": "A 72-year-old man has iron-deficiency anaemia, weight loss and a firm right iliac fossa mass. His bowel habit is unchanged.",
+     "answer": 11,
+     "explanation": "In an older patient with a RIF mass and iron deficiency, **caecal carcinoma** is the common differential of a Crohn’s mass.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s3"
+     }
+    },
+    {
+     "stem": "A 58-year-old woman taking an NSAID and a PPI has 2 months of watery, non-bloody diarrhoea. Colonoscopy looks normal, but biopsies show a thick band of collagen beneath the surface epithelium.",
+     "answer": 9,
+     "explanation": "**Collagenous colitis** (a microscopic colitis) has normal-looking mucosa and a band of collagen beneath the epithelium. It is linked with NSAIDs and PPIs.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s3"
+     }
+    },
+    {
+     "stem": "A 27-year-old man has a colectomy for fulminant colitis. After examining the whole specimen, the pathologist cannot decide between UC and Crohn’s.",
+     "answer": 2,
+     "explanation": "About **10%** of IBD colitis cannot be classified even after colectomy. This is **indeterminate colitis**.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s1"
+     }
+    },
+    {
+     "stem": "A 30-year-old man who recently moved from a TB-endemic region has ileocaecal thickening on imaging. Biopsy shows caseating granulomas.",
+     "answer": 3,
+     "explanation": "Ileocaecal **TB** mimics Crohn’s, but **caseation** points to TB. It must be excluded before starting immunosuppression.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "washington36",
+     "chapter": "Gastrointestinal diseases",
+     "pdfPage": 1880,
+     "page": 1880
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 839,
+     "page": 817
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 846,
+     "page": 824
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1213,
+     "page": 1198
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1217,
+     "page": 1202
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 835,
+     "page": 813
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q21",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 26-year-old man has his first flare of mild–moderate Crohn’s disease affecting the terminal ileum.",
+   "leadIn": "Which is the most appropriate treatment to induce remission?",
+   "options": [
+    "Budesonide 9 mg daily",
+    "Oral mesalazine",
+    "Oral ciclosporin",
+    "Weekly methotrexate",
+    "Azathioprine monotherapy"
+   ],
+   "answer": 0,
+   "explanation": "**Budesonide** is first choice for active **ileal** CD. It undergoes 90% first-pass metabolism, so it has few systemic effects. Switch to prednisolone if there is no response within 2 weeks.",
+   "whyNot": [
+    "",
+    "Aminosalicylates have **no proven value in CD**.",
+    "Ciclosporin has **no value in CD**. It is a rescue drug for acute severe UC.",
+    "Methotrexate is a maintenance/steroid-sparing drug, not first-line induction.",
+    "Thiopurines take about **12 weeks** to work, which is too slow for induction alone."
+   ],
+   "studyRef": {
+    "sectionId": "gi-ibd.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 842,
+     "page": 820
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 843,
+     "page": 821
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q22",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 29-year-old woman with Crohn’s disease is in remission on weekly methotrexate. She and her partner would like to start trying for a baby.",
+   "leadIn": "What is the most appropriate advice about methotrexate?",
+   "options": [
+    "Stop it at least 3 months before trying to conceive",
+    "Continue it throughout pregnancy with folic acid",
+    "Stop it once a pregnancy test is positive",
+    "Continue it but stop in the third trimester",
+    "Stop it only if she plans to breastfeed"
+   ],
+   "answer": 0,
+   "explanation": "**Methotrexate is teratogenic.** It must be stopped **3 months before conception**, with robust contraception until then. Aminosalicylates and azathioprine, by contrast, are safe in pregnancy.",
+   "whyNot": [
+    "",
+    "Folic acid does not make methotrexate safe in pregnancy.",
+    "Stopping after conception exposes the embryo during organogenesis.",
+    "Stopping in the third trimester is the rule for **anti-TNF** drugs, not methotrexate.",
+    "The main concern is teratogenicity, which starts at conception, not breastfeeding."
+   ],
+   "studyRef": {
+    "sectionId": "gi-ibd.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 844,
+     "page": 822
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 846,
+     "page": 824
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A 24-year-old man has 4 months of loose stools and abdominal pain that eases after defecation. FBC and CRP are normal, and he has no rectal bleeding or weight loss.",
+   "leadIn": "Which test best helps decide whether he needs colonoscopy for possible IBD?",
+   "options": [
+    "Faecal calprotectin",
+    "p-ANCA",
+    "ASCA",
+    "CT of the abdomen",
+    "Barium enema"
+   ],
+   "answer": 0,
+   "explanation": "**Faecal calprotectin** is highly sensitive for intestinal inflammation, can be raised even when CRP is normal, and is the test used to separate **IBD from IBS**.",
+   "whyNot": [
+    "",
+    "p-ANCA is only a supportive marker for UC and lacks the sensitivity to rule out IBD.",
+    "ASCA supports CD but is not a screening test.",
+    "CT is reserved for complications such as abscess or perforation.",
+    "Barium enema is less sensitive than colonoscopy and is not a triage test."
+   ],
+   "studyRef": {
+    "sectionId": "gi-ibd.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 840,
+     "page": 818
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Gastroenterology",
+     "pdfPage": 101,
+     "page": 101
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1221,
+     "page": 1206
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 841,
+     "page": 819
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 842,
+     "page": 820
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q24",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Risk factors and genetic associations in IBD",
+   "leadIn": "Match each scenario below to the best option in the list. Any option can be chosen for one scenario, for several, or for none.",
+   "options": [
+    "NOD2 (CARD15) variant",
+    "HLA-DR*103",
+    "HLA-B27",
+    "Current cigarette smoking",
+    "Recent smoking cessation",
+    "Appendicectomy for childhood appendicitis",
+    "NSAID use",
+    "Breastfeeding in infancy",
+    "Low-residue, high refined-sugar diet",
+    "Psychological stress",
+    "ATG16L1 variant",
+    "Reduced Faecalibacterium prausnitzii"
+   ],
+   "items": [
+    {
+     "stem": "A 20-year-old man’s Crohn’s disease causes an ileal stricture needing resection. He carries two variants of a gene encoding a bacterial peptidoglycan sensor.",
+     "answer": 0,
+     "explanation": "**NOD2/CARD15** variants predispose to **ileal, stricturing CD**.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s1"
+     }
+    },
+    {
+     "stem": "A 45-year-old woman develops bloody diarrhoea and continuous rectal inflammation 8 months after giving up a 20-year smoking habit.",
+     "answer": 4,
+     "explanation": "UC is more common in **ex-smokers**. Stopping smoking can unmask UC.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s1"
+     }
+    },
+    {
+     "stem": "A 33-year-old man with Crohn’s disease in remission has early-morning low back and buttock pain with stiffness. Imaging shows sacroiliitis.",
+     "answer": 2,
+     "explanation": "IBD-associated **sacroiliitis/AS** runs independently of bowel activity and is associated with **HLA-B27**.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s4"
+     }
+    },
+    {
+     "stem": "A 26-year-old woman with UC in remission has a relapse a week after taking ibuprofen regularly for an ankle sprain.",
+     "answer": 6,
+     "explanation": "**NSAIDs** are linked with both the onset and relapse of IBD.",
+     "studyRef": {
+      "sectionId": "gi-ibd.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 836,
+     "page": 814
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1213,
+     "page": 1198
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Gastroenterology",
+     "pdfPage": 1214,
+     "page": 1199
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 841,
+     "page": 819,
+     "figure": "Fig. 21.52"
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q25",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 38-year-old woman with left-sided ulcerative colitis has gone into remission after 4 weeks of once-daily oral mesalazine plus mesalazine enemas.",
+   "leadIn": "What is the most appropriate long-term maintenance treatment?",
+   "options": [
+    "Once-daily oral 5-ASA, continued long term",
+    "Low-dose oral prednisolone",
+    "No maintenance treatment",
+    "Oral budesonide",
+    "Indefinite nightly hydrocortisone foam enemas"
+   ],
+   "answer": 0,
+   "explanation": "Left-sided and extensive UC need **life-long maintenance**, and **once-daily oral 5-ASA** is first line. It also lowers the risk of dysplasia.",
+   "whyNot": [
+    "",
+    "Glucocorticoids are **never** used for maintenance.",
+    "Maintenance can be optional only in proctitis, not left-sided disease.",
+    "Budesonide is an induction drug for ileal CD, not UC maintenance.",
+    "Topical steroids are less effective than mesalazine and are not a long-term maintenance strategy."
+   ],
+   "studyRef": {
+    "sectionId": "gi-ibd.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 842,
+     "page": 820
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q26",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 33-year-old man has an ileocaecal resection for stricturing Crohn’s disease. He smokes 20 cigarettes a day and asks what he can do to stop the disease coming back.",
+   "leadIn": "Which measure has most consistently been shown to reduce post-operative recurrence?",
+   "options": [
+    "Stopping smoking",
+    "Long-term metronidazole",
+    "Oral mesalazine",
+    "Maintenance budesonide",
+    "A low-residue diet"
+   ],
+   "answer": 0,
+   "explanation": "**Smoking cessation** is the only intervention consistently shown to cut **post-operative recurrence** of CD. Colonoscopy at 6 months then guides whether to start a thiopurine.",
+   "whyNot": [
+    "",
+    "Antibiotics are effective **only in the short term**.",
+    "5-ASA has no proven value in CD.",
+    "Steroids are not used for maintenance.",
+    "Diet is not among the measures shown to reduce post-operative recurrence. Only smoking cessation has consistent evidence."
+   ],
+   "studyRef": {
+    "sectionId": "gi-ibd.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 845,
+     "page": 823
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 843,
+     "page": 821
+    }
+   ]
+  },
+  {
+   "id": "gi-ibd.q27",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 25-year-old woman with UC in remission on oral mesalazine and azathioprine finds she is 6 weeks pregnant.",
+   "leadIn": "What is the most appropriate advice about her medication?",
+   "options": [
+    "Continue both mesalazine and azathioprine",
+    "Stop azathioprine and continue mesalazine",
+    "Stop both drugs for the first trimester",
+    "Switch azathioprine to methotrexate",
+    "Replace both with oral prednisolone"
+   ],
+   "answer": 0,
+   "explanation": "Both **aminosalicylates and azathioprine are safe in pregnancy**. Keeping the disease in remission is the priority, because active disease carries risks of prematurity and low birth weight. She should also take high-dose folic acid.",
+   "whyNot": [
+    "",
+    "Azathioprine is considered safe, and stopping it risks a flare.",
+    "Stopping treatment risks active disease, which is more harmful to the pregnancy.",
+    "Methotrexate is **teratogenic** and contraindicated.",
+    "Steroids are not used for maintenance."
+   ],
+   "studyRef": {
+    "sectionId": "gi-ibd.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 846,
+     "page": 824
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 843,
+     "page": 821
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "gi-ibd.o1",
+   "sectionId": "gi-ibd.s2",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Gastroenterology",
+    "pdfPage": 838,
+    "page": 816,
+    "figure": "Fig. 21.47"
+   },
+   "identify": "UC histology: inflammation **confined to the mucosa**, **crypt abscesses**, goblet cell depletion, and an intact submucosa."
+  },
+  {
+   "id": "gi-ibd.o2",
+   "sectionId": "gi-ibd.s2",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Gastroenterology",
+    "pdfPage": 838,
+    "page": 816,
+    "figure": "Fig. 21.48"
+   },
+   "identify": "CD histology: **transmural** inflammation with a fissuring ulcer, and a **non-caseating granuloma** at high power."
+  },
+  {
+   "id": "gi-ibd.o3",
+   "sectionId": "gi-ibd.s2",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Gastroenterology",
+    "pdfPage": 837,
+    "page": 815,
+    "figure": "Fig. 21.46"
+   },
+   "identify": "Colonic **pseudopolyps** in long-standing UC: tags of residual mucosa in an atrophic colon."
+  },
+  {
+   "id": "gi-ibd.o4",
+   "sectionId": "gi-ibd.s5",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Gastroenterology",
+    "pdfPage": 841,
+    "page": 819,
+    "figure": "Fig. 21.53"
+   },
+   "identify": "Sigmoidoscopy in active UC: erythematous, **friable** mucosa with contact bleeding and **loss of vascular pattern**."
+  },
+  {
+   "id": "gi-ibd.o5",
+   "sectionId": "gi-ibd.s5",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Gastroenterology",
+    "pdfPage": 1216,
+    "page": 1201,
+    "figure": "Fig. 32.40"
+   },
+   "identify": "Colonoscopy in CD: **aphthoid ulcers** (early) and **deep serpiginous ulcers** (established)."
+  },
+  {
+   "id": "gi-ibd.o6",
+   "sectionId": "gi-ibd.s5",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Gastroenterology",
+    "pdfPage": 839,
+    "page": 817,
+    "figure": "Fig. 21.50"
+   },
+   "identify": "Barium follow-through: terminal ileal **stricture** with **rose-thorn ulcers**, which means Crohn’s ileitis."
+  },
+  {
+   "id": "gi-ibd.o7",
+   "sectionId": "gi-ibd.s5",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Gastroenterology",
+    "pdfPage": 838,
+    "page": 816,
+    "figure": "Fig. 21.49"
+   },
+   "identify": "MR enterography: **thickened, enhancing terminal ileum** with pre-stenotic dilatation, which means active ileal CD."
+  },
+  {
+   "id": "gi-ibd.o8",
+   "sectionId": "gi-ibd.s6",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Gastroenterology",
+    "pdfPage": 840,
+    "page": 818,
+    "figure": "Fig. 21.51"
+   },
+   "identify": "Plain AXR: **dilated colon with thumb-printing**, which means toxic megacolon in severe colitis (over 6 cm transverse colon is high risk)."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:05:17.499Z",
+  "contentHash": "2e3b87b71c4fdc0831ecc12abe0920daa17dd02c983f0437aabdd89304137ed5"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:05:17.514Z",
+  "contentHash": "2e3b87b71c4fdc0831ecc12abe0920daa17dd02c983f0437aabdd89304137ed5",
+  "checkerVersion": "source-check-v1"
+ }
+}

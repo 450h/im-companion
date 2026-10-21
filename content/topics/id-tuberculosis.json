@@ -1,0 +1,3734 @@
+{
+ "topicId": "id-tuberculosis",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "id-tuberculosis.s1",
+   "title": "The organism, pathogenesis and who gets TB",
+   "objectiveIdx": [
+    0,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "TB is caused by **_Mycobacterium tuberculosis_ (MTB)**, one of a complex of organisms that also includes **_M. bovis_** (reservoir: cattle) and **_M. africanum_** (reservoir: humans). MTB is an **aerobic, intracellular** bacillus. Its waxy wall holds stain even after an acid wash, so it is called an **acid-fast bacillus (AFB)**. It divides very slowly, which makes it hard both to culture and to treat.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 610,
+       "page": 588
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 986,
+       "page": 968
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 166,
+       "page": 166
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "How infection develops",
+     "items": [
+      "Spread is by **inhaled droplet nuclei** from a person with active pulmonary disease. Bacilli settle in the alveoli and recruit macrophages and lymphocytes",
+      "Macrophages turn into **epithelioid cells and Langhans giant cells**, which group with lymphocytes into the **caseating granuloma**",
+      "**Ghon focus**: the first caseous lesion, usually in the **lung periphery** (subpleural). Ghon focus + involved hilar nodes = **primary complex (of Ranke)**, also called the Ghon complex",
+      "A fibrous capsule usually walls off the primary complex, which may later **calcify** and be visible on CXR",
+      "Before immunity develops, bacilli can seed lymph nodes, serous membranes, meninges, bone, liver and kidney, and **lie dormant for years**. Control depends on **cell-mediated immunity**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 610,
+       "page": 588
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 578,
+       "page": 541
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 166,
+       "page": 166
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 912,
+       "page": 912
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**_M. bovis_** is caught by drinking **unpasteurised milk**, and by farmers and abattoir workers. It involves extrapulmonary sites such as lymph nodes more often. Treat it with **isoniazid, rifampicin and ethambutol**, because resistance to **pyrazinamide** is common.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 610,
+       "page": 588
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 989,
+       "page": 971
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Factors that raise the risk of TB",
+     "columns": [
+      "Group",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Patient and social factors",
+       "Very young and elderly; first-generation migrants from high-prevalence countries; close contacts of smear-positive cases; overcrowding (prisons, hostels) and homelessness; drug or alcohol misuse; smoking; self-healed TB on CXR; primary infection within the past year"
+      ],
+      [
+       "Immunosuppression",
+       "**HIV**; **anti-TNF** and other biologics; high-dose glucocorticoids; cytotoxic chemotherapy; transplant"
+      ],
+      [
+       "Other diseases",
+       "Lymphoma and leukaemia; **diabetes**; **chronic kidney disease**; **silicosis**; malnutrition (including gastrectomy and jejuno-ileal bypass); vitamin D or A deficiency; recent measles in children"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 611,
+       "page": 589
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 986,
+       "page": 968
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 914,
+       "page": 914
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 453,
+       "page": 453
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Numbers worth knowing",
+     "items": [
+      "About **10%** of infected people develop disease in their lifetime, and roughly **half of that risk falls in the first 2 years** after infection",
+      "Most active TB in low-incidence countries comes from **reactivation of latent infection** when immunity wanes (HIV, immunosuppressants, diabetes, end-stage CKD, malnutrition, ageing)",
+      "Untreated HIV raises the reactivation risk to about **8–10% per year**",
+      "WHO 2014: about **9.6 million** new cases and **1.5 million** deaths. TB ranks alongside HIV as a leading infectious cause of death"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 610,
+       "page": 588
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 986,
+       "page": 968
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 453,
+       "page": 453
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 455,
+       "page": 455
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 577,
+       "page": 540
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Post-primary (reactivation) TB favours the **apex of an upper lobe** because the **higher oxygen tension** there suits this strictly aerobic organism.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 611,
+       "page": 589
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 913,
+       "page": 913
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Only **active pulmonary or laryngeal** TB is infectious. People with latent TB, or with extrapulmonary TB alone, do not spread it.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 912,
+       "page": 912
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 616,
+       "page": 594
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 913,
+       "page": 913
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 610,
+      "page": 588,
+      "figure": "Fig. 17.35"
+     },
+     "note": "Look at: the tuberculous granuloma, with multinucleate giant cells around a central area of caseous necrosis."
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.s2",
+   "title": "Pulmonary TB: primary, miliary and post-primary",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Forms of pulmonary TB",
+     "columns": [
+      "Form",
+      "Typical picture",
+      "CXR / key finding"
+     ],
+     "rows": [
+      [
+       "Primary TB",
+       "First infection of a tuberculin-negative person. Often silent or a flu-like illness with **skin-test conversion**. Hypersensitivity: **erythema nodosum**, phlyctenular conjunctivitis, dactylitis",
+       "**Unilateral hilar** or paratracheal nodes; collapse or consolidation, especially of the **right middle lobe**; may have a pleural effusion"
+      ],
+      [
+       "Miliary TB",
+       "Blood-borne spread. Usually **2–3 weeks** of fever, night sweats, anorexia, weight loss and dry cough; hepatosplenomegaly; headache suggests meningitis",
+       "Fine **1–2 mm 'millet seed'** nodules throughout both lungs; **choroidal tubercles** on fundoscopy; anaemia and leucopenia = marrow involvement"
+      ],
+      [
+       "Cryptic miliary TB",
+       "Over 60s; intermittent low-grade **PUO**, weight loss, debility; blood dyscrasias",
+       "**Normal CXR** and **negative TST**; diagnosis by liver or bone marrow biopsy showing granulomas or AFB"
+      ],
+      [
+       "Post-primary TB",
+       "Reactivation or re-infection. **Insidious** over weeks: fever, night sweats, malaise, weight loss, cough becoming productive, haemoptysis",
+       "Ill-defined **upper-lobe** opacity that progresses to consolidation, collapse and **cavitation**. Cavitation or a miliary pattern favours active disease"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 610,
+       "page": 588
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 611,
+       "page": 589
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 578,
+       "page": 541
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 914,
+       "page": 914
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Natural history of untreated primary infection",
+     "columns": [
+      "Time after infection",
+      "What appears"
+     ],
+     "rows": [
+      [
+       "3–8 weeks",
+       "Primary complex; TST becomes positive"
+      ],
+      [
+       "3–6 months",
+       "**Pleural** effusion, miliary spread, meningitis"
+      ],
+      [
+       "Within about 3 years",
+       "Lymph node, gut, bone and joint disease"
+      ],
+      [
+       "About 8 years",
+       "Renal tract disease"
+      ],
+      [
+       "From 3 years on",
+       "Post-primary disease (reactivation or re-infection)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 611,
+       "page": 589
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Ways pulmonary TB presents",
+     "items": [
+      "Chronic cough, often with **haemoptysis**",
+      "Pyrexia of unknown origin; weight loss and general debility",
+      "Pneumonia that fails to resolve",
+      "Exudative pleural effusion",
+      "Spontaneous pneumothorax, or an incidental CXR finding in a well person"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 612,
+       "page": 590
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Complications of chronic pulmonary TB",
+     "items": [
+      "Pulmonary: **massive haemoptysis**, cor pulmonale, fibrosis, **aspergilloma**, bronchiectasis, bronchopleural fistula, airflow obstruction, atypical mycobacterial infection",
+      "Non-pulmonary: **empyema necessitans**, laryngitis, **amyloidosis**, **Poncet's polyarthritis**, enteritis and anorectal disease from swallowed sputum"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 612,
+       "page": 590
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In miliary TB the **CNS is involved in about 20%**. Kumar advises brain MRI for everyone (to find a silent tuberculoma) and KC Essentials advises **lumbar puncture in all**, because meningeal spread lengthens treatment.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 987,
+       "page": 969
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 580,
+       "page": 543
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A **normal CXR and a negative tuberculin test do not exclude TB** in an older patient with PUO. Think of **cryptic miliary TB** and ask for liver or bone marrow biopsy.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 611,
+       "page": 589
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 611,
+      "page": 589,
+      "figure": "Fig. 17.36"
+     },
+     "note": "Look at: the routes of spread from the primary focus: to nodes (primary complex), direct progression, to the pleura (effusion), and by blood (miliary TB, meningitis, bone and kidney)."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 612,
+      "page": 590,
+      "figure": "Fig. 17.37"
+     },
+     "note": "Look at: the four CXR patterns (miliary, effusion/empyema, cavitation, consolidation/collapse) and the differential listed for each."
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.s3",
+   "title": "Extrapulmonary TB",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Around **70% of TB is pulmonary**. Extrapulmonary disease makes up about **20% of cases in HIV-negative patients** and is more common with HIV. Constitutional symptoms may be absent in extrapulmonary disease: about half of patients with TB lymphadenitis have none.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 167,
+       "page": 167
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 612,
+       "page": 590
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 986,
+       "page": 968
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 454,
+       "page": 454
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Sites of extrapulmonary TB",
+     "columns": [
+      "Site",
+      "Clues",
+      "Remember"
+     ],
+     "rows": [
+      [
+       "Lymph nodes (commonest site)",
+       "Painless, firm cervical or supraclavicular nodes that mat together, liquefy and may discharge (**'collar-stud' abscess**, sinus)",
+       "**Cold abscess**: no overlying redness. Diagnose by ultrasound-guided FNA or core biopsy for AFB smear, culture and cytology"
+      ],
+      [
+       "Ileocaecal",
+       "About half of abdominal TB. Fever, weight loss, **right iliac fossa mass**; up to 30% present as an acute abdomen",
+       "Main differential is **Crohn's disease**; diagnose on colonoscopic biopsy"
+      ],
+      [
+       "Peritoneum",
+       "Distension, pain, constitutional upset",
+       "Exudative ascites with **lymphocytes**; white tubercles on peritoneum at laparoscopy"
+      ],
+      [
+       "Pericardium",
+       "Insidious breathlessness and abdominal swelling; raised JVP, pulsus paradoxus, ascites, oedema",
+       "Effusion or **constriction**; calcification in about **25%**; steroids help both forms"
+      ],
+      [
+       "Spine (Pott's disease)",
+       "Chronic back pain, **lower thoracic/lumbar** spine; **psoas or cold abscess**; kyphosis; cord compression",
+       "Starts as **discitis** then spreads to anterior vertebral bodies. Malignancy usually **spares the disc**"
+      ],
+      [
+       "Joints",
+       "Usually hip or knee; insidious pain and swelling",
+       "Poncet's arthropathy is a reactive polyarthritis that settles within 2 months of treatment"
+      ],
+      [
+       "CNS (meningitis, tuberculoma)",
+       "Headache, vomiting, cranial nerve palsy, confusion",
+       "Rapidly fatal if missed; mortality about **30% even when treated**"
+      ],
+      [
+       "Genitourinary",
+       "Frequency, dysuria, haematuria; epididymitis; female infertility",
+       "**Sterile pyuria**; fever often absent"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 612,
+       "page": 590
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 613,
+       "page": 591
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 987,
+       "page": 969
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 166,
+       "page": 166
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 455,
+       "page": 455
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Exam clue: a fluctuant neck swelling in a migrant that is **not red or hot** is a **tuberculous cold abscess** until proven otherwise.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 987,
+       "page": 969
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 166,
+       "page": 166
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Spinal TB and vertebral metastases can look alike. TB **destroys the disc first**; malignancy attacks the **vertebral body and leaves the disc intact**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 613,
+       "page": 591
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 613,
+      "page": 591,
+      "figure": "Fig. 17.38"
+     },
+     "note": "Look at: the body map of extrapulmonary TB: meningitis and tuberculoma, nodes, pericardial disease, ascites, psoas abscess, kyphosis, monoarthritis and genitourinary disease."
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.s4",
+   "title": "Investigations and diagnosis",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Investigate any **unexplained cough lasting more than 2–3 weeks** (especially where TB is common) or typical CXR/CT changes. **Sputum smear microscopy is the key first step.** Send several samples, including an **early-morning** one; use induced sputum, bronchoscopy with lavage, or gastric washings in children if sputum cannot be produced.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 613,
+       "page": 591
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 614,
+       "page": 592
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tests for active TB",
+     "columns": [
+      "Test",
+      "What it tells you",
+      "Points to remember"
+     ],
+     "rows": [
+      [
+       "Smear: Ziehl–Neelsen",
+       "AFB stay **red** after acid-alcohol wash",
+       "Positive smear = **presumptive** diagnosis and infectious patient"
+      ],
+      [
+       "Smear: auramine fluorescence",
+       "Bacilli glow yellow-orange",
+       "**More sensitive, less specific** than ZN; increasingly replacing it"
+      ],
+      [
+       "Culture (gold standard)",
+       "**Definitive** diagnosis and drug sensitivities",
+       "Solid media (Löwenstein–Jensen) **4–6 weeks**; liquid media (MGIT) about **2 weeks**. Culture smear-negative samples too: only 10–100 organisms are needed"
+      ],
+      [
+       "NAAT: Xpert MTB/RIF",
+       "MTB **and rifampicin resistance** in **under 2 hours**",
+       "Specific but **not sensitive enough to replace culture** (Pocket: sensitivity 74%, specificity 98%)"
+      ],
+      [
+       "Line probe assay",
+       "Resistance genes for **rifampicin and isoniazid**",
+       "Rapid molecular drug sensitivity testing"
+      ],
+      [
+       "Adenosine deaminase (ADA)",
+       "Raised in pleural, pericardial, CSF and ascitic TB",
+       "Useful because these fluids contain few bacilli"
+      ],
+      [
+       "Urinary LF-LAM",
+       "Mycobacterial antigen in urine",
+       "For the very sick HIV patient with **CD4 ≤ 100 cells/μL**"
+      ],
+      [
+       "Tissue biopsy",
+       "Caseating granulomas ± AFB",
+       "Liver or bone marrow in disseminated disease; node FNA/biopsy"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 613,
+       "page": 591
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 614,
+       "page": 592
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 987,
+       "page": 969
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 455,
+       "page": 455
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 580,
+       "page": 543
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "CXR patterns",
+     "items": [
+      "Primary: patchy consolidation, **hilar nodes**, effusion",
+      "Post-primary: **upper-zone** patchy or nodular shadowing with **cavitation**, volume loss and fibrosis",
+      "Miliary: uniform **1–2 mm** nodules throughout the lungs (a classic spot diagnosis), although the CXR can also be normal"
+     ],
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 167,
+       "page": 167
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 580,
+       "page": 543
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 611,
+       "page": 589
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 168,
+       "page": 168
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other key points",
+     "items": [
+      "A clinical response to empirical anti-TB drugs usually appears after **5–10 days**",
+      "TB PCR only helps at **first diagnosis**: it often stays positive during treatment because it detects **dead organisms**",
+      "TB CSF: lymphocytes, **low glucose**, **high protein**, high ADA",
+      "Offer every TB patient an **HIV test** (TB is AIDS-defining) and screen for hepatitis B and C",
+      "Smear-positive patients are infectious and should be **isolated**; smear-negative, culture-positive patients are much less infectious"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 614,
+       "page": 592
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 987,
+       "page": 969
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 580,
+       "page": 543
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 617,
+       "page": 595
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 168,
+       "page": 168
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 455,
+       "page": 455
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The **TST and IGRA detect infection, not active disease**. In a symptomatic patient with an abnormal CXR, send sputum for AFB smear and culture; a negative skin test does not exclude TB.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 614,
+       "page": 592
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 580,
+       "page": 543
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 916,
+       "page": 916
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "In **HIV** the tuberculin response is **blunted**, sputum smear is often **negative** even in lung disease, the CXR is often atypical and disease is frequently extrapulmonary. **Culture** is the most reliable test.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1460,
+       "page": 1447
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 915,
+       "page": 915
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Books differ on the number of sputum samples: Davidson asks for **at least two, preferably three**, including an early-morning sample; Kumar and KC Essentials say **three**. Davidson is the primary source here.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 614,
+       "page": 592
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 987,
+       "page": 969
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 580,
+       "page": 543
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 614,
+      "page": 592,
+      "figure": "Fig. 17.39"
+     },
+     "note": "Look at: bilateral upper-lobe airspace shadowing with cavitation, the typical CXR of post-primary TB."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 614,
+      "page": 592,
+      "figure": "Fig. 17.40"
+     },
+     "note": "Look at: red acid-fast bacilli on a Ziehl–Neelsen stain that kept the carbol fuchsin after acid-alcohol washing."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 986,
+      "page": 968,
+      "figure": "Fig. 28.30"
+     },
+     "note": "Look at: patchy right mid- and upper-zone consolidation with a cavity at the right apex."
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.s5",
+   "title": "Treatment, monitoring and drug adverse effects",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Standard regimen for new, drug-sensitive TB (WHO)",
+     "columns": [
+      "Phase",
+      "Drugs",
+      "Purpose"
+     ],
+     "rows": [
+      [
+       "Intensive: **2 months**",
+       "**HRZE**: isoniazid, rifampicin, pyrazinamide, ethambutol",
+       "Kill the bulk of the bacilli quickly"
+      ],
+      [
+       "Continuation: **4 months**",
+       "**HR**: isoniazid, rifampicin",
+       "Clear the remaining organisms"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 614,
+       "page": 592
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 615,
+       "page": 593
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 581,
+       "page": 544
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Principles",
+     "items": [
+      "Start at once if **smear-positive**, or smear-negative with typical CXR and no response to ordinary antibiotics",
+      "Daily dosing is best; **fixed-dose combination** tablets are preferred. Never treat active TB with a single drug",
+      "**12 months** for meningeal TB (including spinal TB involving the cord); KC Essentials adds **9 months for bone TB**",
+      "**Pyridoxine** prevents isoniazid neuropathy: Davidson gives it to pregnant and malnourished patients; KC Essentials gives 10 mg daily routinely",
+      "If resistance is not expected, patients can be treated as **non-infectious after 2 weeks** of correct therapy",
+      "Before starting: LFTs, creatinine, HIV and hepatitis screen, **visual acuity and colour vision**; TB is a **notifiable** disease and contacts must be traced",
+      "Keep all four drugs beyond 2 months if susceptibility results are still awaited"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 615,
+       "page": 593
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 581,
+       "page": 544
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1251,
+       "page": 1251
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 456,
+       "page": 456
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 168,
+       "page": 168
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "First-line drugs: action and main adverse effects",
+     "columns": [
+      "Drug",
+      "Action",
+      "Main adverse effects"
+     ],
+     "rows": [
+      [
+       "Isoniazid (H)",
+       "Blocks **mycolic acid** (cell wall) synthesis",
+       "**Peripheral neuropathy** (pyridoxine prevents it); **hepatitis** (more in slow acetylators and alcoholics); rash, fever; lupus-like reaction"
+      ],
+      [
+       "Rifampicin (R)",
+       "Inhibits bacterial **RNA polymerase**",
+       "**Orange-red urine, tears and sweat**; hepatitis; febrile reactions; thrombocytopenia; strong **CYP450 inducer**"
+      ],
+      [
+       "Pyrazinamide (Z)",
+       "Acts on bacilli inside macrophages",
+       "Hepatitis; **hyperuricaemia and gout**; arthralgia; rash"
+      ],
+      [
+       "Ethambutol (E)",
+       "Cell-wall synthesis",
+       "**Retrobulbar optic neuritis**: loss of **green (red-green) colour vision**, reduced acuity, central scotoma; usually reversible if stopped early. Reduce dose in renal impairment"
+      ],
+      [
+       "Streptomycin",
+       "Protein synthesis",
+       "**8th cranial nerve damage** (hearing, balance); nephrotoxicity"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 615,
+       "page": 593
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 989,
+       "page": 971
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1251,
+       "page": 1251
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1252,
+       "page": 1252
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 457,
+       "page": 457
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 581,
+       "page": 544
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Hepatotoxicity.** Adverse reactions occur in about **10%** of patients and more often with HIV. A mild, symptomless rise in transaminases is common, but **significant hepatitis occurs in only 2–5%**. If hepatitis develops, **stop the drugs**, let symptoms settle and LFTs recover, then **reintroduce the drugs one at a time**. Kumar gives the trigger to stop as a **rising bilirubin or transaminases above 3× normal**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 615,
+       "page": 593
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 989,
+       "page": 971
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The threshold for stopping for liver toxicity varies: Kumar **> 3× normal or raised bilirubin**; Step-Up **3–5× ULN**; Pocket **5× ULN or symptoms** (for isoniazid given for latent TB); KC Essentials **only if hepatitis develops**. Davidson simply advises stopping and stepwise reintroduction.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 615,
+       "page": 593
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 989,
+       "page": 971
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 918,
+       "page": 918
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 456,
+       "page": 456
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 581,
+       "page": 544
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Rifampicin** makes the **oral contraceptive pill unreliable** and weakens anticoagulants, antiepileptics and antidepressants. It can also **unmask hypoadrenalism** by speeding glucocorticoid breakdown.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 615,
+       "page": 593
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 989,
+       "page": 971
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 617,
+       "page": 595
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Monitoring, adherence and outcome",
+     "items": [
+      "Repeat sputum smear at **2 and 5 months**. **Treatment failure** = positive smear or culture at **5 months**",
+      "**Still culture-positive at 2 months** raises suspicion of **MDR-TB** and is a reason to admit",
+      "**Directly observed therapy (DOT)** (supervised doses, 3 times weekly) for those unlikely to adhere: homeless people, drug or alcohol users, serious mental illness, past non-adherence, prison history",
+      "Main causes of failure: **wrong prescribing and poor adherence**",
+      "After a full course relapse risk is **under 5%**. Untreated smear-positive TB stays infectious for about **2 years**, and **25% die within a year**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 615,
+       "page": 593
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 616,
+       "page": 594
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 617,
+       "page": 595
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 989,
+       "page": 971
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 581,
+       "page": 544
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Glucocorticoids and surgery",
+     "items": [
+      "**Steroids recommended** for **pericardial and meningeal TB**, and for children with endobronchial disease; may help ureteric TB, pleural effusion and extensive lung disease",
+      "**Surgery**, usually after a full drug course, for massive haemoptysis, loculated empyema, constrictive pericarditis, suppurating nodes, or spinal disease with cord compression"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 615,
+       "page": 593
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**TB with HIV:** rifampicin lowers protease inhibitor levels, so **rifabutin** (a weaker inducer) can be used instead. Give **at least 2 weeks** of TB treatment before starting ART, and expect possible **IRIS** (paradoxical worsening) once ART starts.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1460,
+       "page": 1447
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 456,
+       "page": 456
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Classic exam question: a patient has just started rifampicin, isoniazid, pyrazinamide and ethambutol; what else should be prescribed? **Pyridoxine (vitamin B6).**",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 168,
+       "page": 168
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 581,
+       "page": 544
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.s6",
+   "title": "Latent TB: skin test, IGRA, chemoprophylaxis and BCG",
+   "objectiveIdx": [
+    5,
+    6,
+    7
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Latent TB infection (LTBI)**: the immune system holds a small number of dormant bacilli in check. There are **no symptoms, the CXR is normal and the person is not infectious**, but the infection can reactivate later. Lifetime risk of disease is about **5–15%**, mostly within **5 years** of infection. LTBI is diagnosed by showing **immune memory** to mycobacterial antigens with a **TST or an IGRA**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 616,
+       "page": 594
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 578,
+       "page": 541
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 990,
+       "page": 972
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 166,
+       "page": 166
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Contact tracing",
+     "items": [
+      "Evidence of infection is found in about **10–20%** of close contacts of **smear-positive** pulmonary TB",
+      "and in only **2–5%** of contacts of **smear-negative, culture-positive** disease",
+      "KC Essentials: if the first skin test of a contact is negative, **repeat it at 6 weeks**; Step-Up repeats **8–10 weeks** after the last exposure"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 616,
+       "page": 594
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 582,
+       "page": 545
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 917,
+       "page": 917
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tuberculin skin test (Mantoux) versus IGRA",
+     "columns": [
+      "Feature",
+      "TST (Mantoux)",
+      "IGRA"
+     ],
+     "rows": [
+      [
+       "Method",
+       "PPD injected **intradermally** on the inner forearm; read at **48–72 h**",
+       "Blood T cells exposed to **ESAT-6 and CFP-10**; IFN-γ measured (QuantiFERON or T-SPOT.TB)"
+      ],
+      [
+       "Reading",
+       "Measure **induration (not redness)** across the forearm; Davidson/NICE: **≥ 5 mm positive**",
+       "Positive, negative or indeterminate"
+      ],
+      [
+       "Specificity",
+       "Cross-reacts with **BCG** and non-tuberculous mycobacteria",
+       "**More specific**: antigens not shared with BCG or most other mycobacteria"
+      ],
+      [
+       "Visits",
+       "Two",
+       "**One** blood test"
+      ],
+      [
+       "UK first choice",
+       "**Children**",
+       "**People with HIV**; UK dual strategy is TST then IGRA"
+      ],
+      [
+       "Shared limit",
+       "Cannot separate **latent from active** TB",
+       "Cannot separate **latent from active** TB; may be indeterminate if immunosuppressed"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 616,
+       "page": 594,
+       "figure": "Fig. 17.41"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 990,
+       "page": 972
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 454,
+       "page": 454
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 917,
+       "page": 917
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 167,
+       "page": 167
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Why a skin test misleads",
+     "columns": [
+      "False positive",
+      "False negative (anergy)"
+     ],
+     "rows": [
+      [
+       "Previous **BCG** vaccination",
+       "**HIV** and other immunosuppression (steroids, anti-TNF, chemotherapy)"
+      ],
+      [
+       "Non-tuberculous mycobacteria",
+       "Extremes of age; malignancy"
+      ],
+      [
+       "Booster effect from an earlier skin test",
+       "**Active or overwhelming TB**; very recent infection (takes 2–10 weeks to convert)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 990,
+       "page": 972
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 616,
+       "page": 594
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 454,
+       "page": 454
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "TST cut-offs differ by source. Davidson (and NICE, per Zero to Finals) call **≥ 5 mm** positive; KC Essentials uses **≥ 10 mm**; US books stratify: **≥ 5 mm** in HIV, transplant, close contacts or old TB on CXR, **≥ 10 mm** in other high-risk groups, **≥ 15 mm** with no risk factors. Follow Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 616,
+       "page": 594,
+       "figure": "Fig. 17.41"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 167,
+       "page": 167
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 582,
+       "page": 545
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 916,
+       "page": 916
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 454,
+       "page": 454
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 917,
+       "page": 917
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Who is offered LTBI treatment",
+     "items": [
+      "Asymptomatic contacts with a positive test and a **normal CXR**; Davidson offers this to adults up to **65**",
+      "Household and close workplace contacts of **pulmonary or laryngeal** TB; health workers; recent migrants from high-incidence countries",
+      "**HIV** (consider for HIV-positive close contacts of smear-positive TB)",
+      "Before **biologics such as infliximab**, and before stem-cell or solid-organ transplant",
+      "Old TB on CXR in someone about to start immunosuppression"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 616,
+       "page": 594
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 990,
+       "page": 972
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 582,
+       "page": 545
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 453,
+       "page": 453
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Chemoprophylaxis regimens",
+     "columns": [
+      "Source",
+      "Regimens"
+     ],
+     "rows": [
+      [
+       "Davidson / Kumar / Zero to Finals (UK)",
+       "**Isoniazid + rifampicin for 3 months**, or **isoniazid alone for 6 months**"
+      ],
+      [
+       "US sources (Step-Up, Pocket)",
+       "Rifampicin alone 4 months; isoniazid + rifapentine weekly for 12 weeks; isoniazid 6–9 months with pyridoxine"
+      ],
+      [
+       "Contacts of MDR-TB",
+       "No proven regimen: refer to a specialist"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 616,
+       "page": 594
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 990,
+       "page": 972
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 168,
+       "page": 168
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 918,
+       "page": 918
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 456,
+       "page": 456
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Exclude active TB before treating latent TB** (symptom review, examination, CXR); otherwise a single- or two-drug course could breed resistance. Treating a positive skin test cuts lifetime risk from about **10% to 1%**.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 455,
+       "page": 455
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 917,
+       "page": 917
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 918,
+       "page": 918
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1251,
+       "page": 1251
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "BCG vaccine",
+     "items": [
+      "**Live attenuated** strain derived from _M. bovis_, given **intradermally**",
+      "Protects **children against disseminated TB and TB meningitis**; protection in adults is inconsistent",
+      "**Contraindicated** in the immunocompromised (e.g. HIV) and in **pregnancy**",
+      "Causes a positive Mantoux; check the skin test is negative before giving it"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 617,
+       "page": 595
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 582,
+       "page": 545
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 166,
+       "page": 166
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 616,
+      "page": 594,
+      "figure": "Fig. 17.41"
+     },
+     "note": "Look at: the Mantoux injection on the inner forearm and how the indurated area is measured across the arm (positive when ≥ 5 mm)."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 616,
+      "page": 594,
+      "figure": "Fig. 17.42"
+     },
+     "note": "Look at: the two IGRA formats: T-SPOT.TB counts IFN-γ spots from purified T cells; QuantiFERON measures IFN-γ in whole-blood supernatant."
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.s7",
+   "title": "Drug-resistant TB",
+   "objectiveIdx": [
+    8
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Definitions",
+     "columns": [
+      "Term",
+      "Resistant to"
+     ],
+     "rows": [
+      [
+       "Drug-resistant TB",
+       "Any **first-line** drug"
+      ],
+      [
+       "**MDR-TB**",
+       "At least **rifampicin and isoniazid**"
+      ],
+      [
+       "**XDR-TB**",
+       "MDR **plus any fluoroquinolone** **plus at least one injectable** second-line drug (amikacin, kanamycin or capreomycin)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 617,
+       "page": 595
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 989,
+       "page": 971
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 453,
+       "page": 453
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Size of the problem",
+     "items": [
+      "MDR-TB affects about **3.3% of new** cases and **20% of previously treated** cases worldwide",
+      "About **9.7%** of MDR-TB is XDR-TB; MDR-TB caused about 190 000 deaths in 2014",
+      "Rising most in the former Soviet Union, Central Asia and Africa; commoner with **HIV** and after **inadequate earlier treatment**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 617,
+       "page": 595
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Why resistance appears, and whom to suspect",
+     "columns": [
+      "Drivers (Davidson)",
+      "Risk factors in a patient (Kumar, Pocket)"
+     ],
+     "rows": [
+      [
+       "Drug shortages and poor-quality drugs",
+       "**Previous TB treatment**, especially unsupervised or with poor adherence"
+      ],
+      [
+       "Lack of supervision",
+       "Infection acquired in a **high-resistance region** (e.g. India, China, Eastern Europe/Russia, South Africa)"
+      ],
+      [
+       "Transmission of resistant strains",
+       "Contact with a known **resistant case**; exposed health workers"
+      ],
+      [
+       "Prior treatment; **treatment failure** (smear-positive at 5 months)",
+       "**No response despite good adherence**; advanced HIV with prior treatment; repeated **fluoroquinolone** courses for presumed pneumonia"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 617,
+       "page": 595
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 989,
+       "page": 971
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 456,
+       "page": 456
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Mutations giving **rifampicin resistance strongly predict MDR-TB**. Xpert MTB/RIF detects them in **under 2 hours**, so resistant TB can be treated long before culture sensitivities return.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 987,
+       "page": 969
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 614,
+       "page": 592
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Management",
+     "items": [
+      "Resistance is acquired through **incomplete or incorrect treatment** and can then be **transmitted**",
+      "Cure is possible but needs **prolonged** treatment with drugs that are **less effective, more toxic and more expensive**; KC Essentials quotes up to **2 years** of sensitivity-guided combinations",
+      "Refer to a specialist; mortality is high for MDR-TB and higher still for XDR-TB"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 617,
+       "page": 595
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 989,
+       "page": 971
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 582,
+       "page": 545
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 456,
+       "page": 456
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 457,
+       "page": 457
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "XDR wording varies: Davidson says resistance to **any quinolone** plus one injectable; Kumar says **high-level** fluoroquinolone resistance and names amikacin, capreomycin or kanamycin; KC Essentials uses the vague label 'EDR'. Learn Davidson's definition.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 617,
+       "page": 595
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 989,
+       "page": 971
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 582,
+       "page": 545
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.s8",
+   "title": "Pleural TB",
+   "objectiveIdx": [
+    5,
+    9
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "TB is one of the **common causes of pleural effusion**. Tuberculous pleurisy follows spread of infection to the pleura, where granuloma breakdown and local inflammation produce the fluid. It typically appears **3–6 months after primary infection**, though it can also complicate reactivation. It may coexist with pericardial and peritoneal effusions. Kumar notes that **pleuritic pain** is a frequent presenting complaint when the pleura is involved.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 585,
+       "page": 563
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 611,
+       "page": 589
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 454,
+       "page": 454
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 986,
+       "page": 968
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tuberculous pleural fluid",
+     "columns": [
+      "Feature",
+      "Finding"
+     ],
+     "rows": [
+      [
+       "Appearance",
+       "Serous, usually **amber**"
+      ],
+      [
+       "Type",
+       "**Exudate**"
+      ],
+      [
+       "Cells",
+       "**Lymphocytes** (occasionally neutrophils)"
+      ],
+      [
+       "ADA",
+       "**Raised**. Pocket: > 70 suggests TB, < 40 makes TB unlikely"
+      ],
+      [
+       "Fluid culture",
+       "Positive in only about **20%** (Davidson)"
+      ],
+      [
+       "Pleural biopsy",
+       "Positive in about **80%** (Davidson): the best single test"
+      ],
+      [
+       "Tuberculin test",
+       "Usually positive"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 585,
+       "page": 563
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 160,
+       "page": 160
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Light's criteria: exudate if any one is met",
+     "items": [
+      "Pleural/serum **protein** ratio **> 0.5**",
+      "Pleural/serum **LDH** ratio **> 0.6**",
+      "Pleural LDH **> two-thirds** of the upper limit of normal serum LDH"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 586,
+       "page": 564
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Management",
+     "items": [
+      "A TB effusion often settles by itself, but the patient **still needs a full course of treatment for active TB**",
+      "Glucocorticoids **may** help pleural effusions (not routinely required)",
+      "Do **not drain to dryness** before a diagnosis is made, because it can prevent a pleural biopsy",
+      "TB is, with bacterial pneumonia, a common cause of **empyema**; telling tuberculous from other empyema may need pleural biopsy with histology, culture and/or NAAT"
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 163,
+       "page": 163
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 615,
+       "page": 593
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 586,
+       "page": 564
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "A **lymphocyte-predominant exudate** should make you think of **TB** (and malignancy).",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 206,
+       "page": 206
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 160,
+       "page": 160
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Yields differ between books. Davidson: fluid culture **20%**, biopsy **80%**. Pocket: fluid AFB stain 0–10%, culture 11–50%, biopsy about 70%. Both agree that **biopsy beats fluid**. Davidson also says about **200 mL** shows on a PA CXR; Kumar says 300 mL on X-ray and 500 mL clinically.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 585,
+       "page": 563
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 160,
+       "page": 160
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 990,
+       "page": 972
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "id-tuberculosis.c1",
+   "sectionId": "id-tuberculosis.s1",
+   "front": "Which mycobacteria make up the _M. tuberculosis_ complex mentioned by Davidson, and their reservoirs?",
+   "back": "_M. tuberculosis_; _M. bovis_ (cattle); _M. africanum_ (humans)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 610,
+     "page": 588
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c2",
+   "sectionId": "id-tuberculosis.s1",
+   "front": "What is the Ghon focus, and what is the primary complex?",
+   "back": "Ghon focus: peripheral caseous primary lung lesion. Ghon focus + involved hilar nodes = primary complex (of Ranke)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 610,
+     "page": 588
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 578,
+     "page": 541
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c3",
+   "sectionId": "id-tuberculosis.s1",
+   "front": "Why does post-primary TB favour the lung apex?",
+   "back": "Higher oxygen tension there suits the strictly aerobic organism",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 611,
+     "page": 589
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c4",
+   "sectionId": "id-tuberculosis.s1",
+   "front": "Lifetime risk of disease after primary TB infection?",
+   "back": "About 10%, with roughly half of it in the first 2 years",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 610,
+     "page": 588
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c5",
+   "sectionId": "id-tuberculosis.s2",
+   "front": "Classic CXR of primary TB?",
+   "back": "Unilateral hilar lymphadenopathy, with collapse/consolidation especially of the right middle lobe",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 611,
+     "page": 589
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c6",
+   "sectionId": "id-tuberculosis.s2",
+   "front": "Features of cryptic miliary TB?",
+   "back": "Age > 60, low-grade PUO, weight loss, normal CXR, negative TST; diagnosed by liver or marrow biopsy",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 611,
+     "page": 589
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c7",
+   "sectionId": "id-tuberculosis.s2",
+   "front": "What eye finding supports miliary TB?",
+   "back": "Choroidal tubercles on fundoscopy",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 611,
+     "page": 589
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c8",
+   "sectionId": "id-tuberculosis.s3",
+   "front": "Commonest extrapulmonary site of TB?",
+   "back": "Lymph nodes (cervical and mediastinal most often)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 612,
+     "page": 590
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c9",
+   "sectionId": "id-tuberculosis.s3",
+   "front": "How does spinal TB differ from vertebral malignancy on imaging?",
+   "back": "TB starts as discitis and destroys the disc; malignancy usually spares the disc",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 613,
+     "page": 591
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c10",
+   "sectionId": "id-tuberculosis.s4",
+   "front": "Which TB smear stain is more sensitive but less specific than Ziehl–Neelsen?",
+   "back": "Auramine (fluorescent) staining",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 987,
+     "page": 969
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 613,
+     "page": 591
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c11",
+   "sectionId": "id-tuberculosis.s4",
+   "front": "Time to culture MTB on solid vs liquid media?",
+   "back": "Solid: 4–6 weeks; liquid (MGIT): about 2 weeks",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 614,
+     "page": 592
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c12",
+   "sectionId": "id-tuberculosis.s4",
+   "front": "What does Xpert MTB/RIF detect, and how fast?",
+   "back": "MTB DNA and rifampicin-resistance mutations, in under 2 hours",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 614,
+     "page": 592
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c13",
+   "sectionId": "id-tuberculosis.s5",
+   "front": "Standard regimen for new drug-sensitive pulmonary TB?",
+   "back": "2 months HRZE, then 4 months HR (6 months total)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 615,
+     "page": 593
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c14",
+   "sectionId": "id-tuberculosis.s5",
+   "front": "Which TB drug causes loss of green colour vision, and what is checked first?",
+   "back": "Ethambutol (retrobulbar neuritis). Check Snellen acuity and Ishihara colour vision",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 989,
+     "page": 971
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c15",
+   "sectionId": "id-tuberculosis.s5",
+   "front": "Total treatment length for TB meningitis?",
+   "back": "12 months (with adjuvant glucocorticoids)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 615,
+     "page": 593
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c16",
+   "sectionId": "id-tuberculosis.s5",
+   "front": "How is TB treatment failure defined?",
+   "back": "Positive sputum smear or culture at 5 months",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 615,
+     "page": 593
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c17",
+   "sectionId": "id-tuberculosis.s6",
+   "front": "What is a positive Mantoux in Davidson?",
+   "back": "Induration ≥ 5 mm measured across the forearm at 48–72 h",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 616,
+     "page": 594,
+     "figure": "Fig. 17.41"
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c18",
+   "sectionId": "id-tuberculosis.s6",
+   "front": "Why is an IGRA more specific than the TST?",
+   "back": "Its antigens (ESAT-6, CFP-10) are not shared with BCG or most other mycobacteria",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 616,
+     "page": 594
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c19",
+   "sectionId": "id-tuberculosis.s6",
+   "front": "Davidson's chemoprophylaxis regimens for latent TB?",
+   "back": "Isoniazid + rifampicin for 3 months, or isoniazid alone for 6 months",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 616,
+     "page": 594
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c20",
+   "sectionId": "id-tuberculosis.s6",
+   "front": "Two groups who must not receive BCG?",
+   "back": "The immunocompromised (e.g. HIV) and pregnant women",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 617,
+     "page": 595
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c21",
+   "sectionId": "id-tuberculosis.s7",
+   "front": "Define MDR-TB and XDR-TB.",
+   "back": "MDR: resistant to at least rifampicin and isoniazid. XDR: MDR plus any quinolone plus ≥ 1 injectable second-line drug",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 617,
+     "page": 595
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c22",
+   "sectionId": "id-tuberculosis.s7",
+   "front": "Which single resistance mutation strongly predicts MDR-TB?",
+   "back": "Rifampicin resistance",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 987,
+     "page": 969
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c23",
+   "sectionId": "id-tuberculosis.s8",
+   "front": "Davidson's yields in tuberculous pleural effusion?",
+   "back": "Fluid culture about 20%; pleural biopsy about 80%",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 585,
+     "page": 563
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.c24",
+   "sectionId": "id-tuberculosis.s8",
+   "front": "Light's criteria for an exudate?",
+   "back": "Protein ratio > 0.5, LDH ratio > 0.6, or pleural LDH > two-thirds of the upper limit of serum LDH (any one)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 586,
+     "page": 564
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "id-tuberculosis.q1",
+   "kind": "emq",
+   "pool": "quiz",
+   "difficulty": 2,
+   "theme": "Factors predisposing to tuberculosis",
+   "leadIn": "Pick the best-fitting option for each patient. An option may fit one patient, several patients or none.",
+   "options": [
+    "HIV infection",
+    "Anti-TNF biologic therapy",
+    "Silicosis",
+    "Diabetes mellitus",
+    "Drinking unpasteurised milk",
+    "Recent measles",
+    "Chronic kidney disease",
+    "Previous partial gastrectomy",
+    "Close household contact with smear-positive TB",
+    "Imprisonment",
+    "Long-term high-dose glucocorticoids"
+   ],
+   "items": [
+    {
+     "stem": "A 47-year-old dairy farmer has a 3-month history of a painless swelling in the neck. Node biopsy shows caseating granulomas. The mycobacterium cultured is **resistant to pyrazinamide**. He and his family drink milk straight from his own herd.",
+     "answer": 4,
+     "explanation": "Pyrazinamide resistance and lymph-node disease point to **_M. bovis_**, which is caught from **unpasteurised milk** from infected cattle (and by farm and abattoir workers).",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s1"
+     }
+    },
+    {
+     "stem": "A 61-year-old man spent 30 years sandblasting in a foundry. His CXR has shown small upper-zone nodules and fibrosis for years, put down to his work. He now has weight loss and a new cavity; sputum is AFB-positive.",
+     "answer": 2,
+     "explanation": "Long exposure to silica dust with nodular upper-zone fibrosis means **silicosis**, which Davidson lists as a disease that raises TB risk.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s1"
+     }
+    },
+    {
+     "stem": "A 35-year-old woman with rheumatoid arthritis started infliximab 4 months ago without any TB screening. She now has 3 weeks of fever and night sweats, and her CXR shows diffuse tiny nodules.",
+     "answer": 1,
+     "explanation": "Davidson lists **anti-TNF and other biologic therapies** among the immunosuppressive causes of TB, and latent infection can reactivate once they start. This is why people are screened for latent TB **before anti-TNF therapy**.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 610,
+     "page": 588
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 611,
+     "page": 589
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 989,
+     "page": 971
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 453,
+     "page": 453
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "id-tuberculosis.q2",
+   "kind": "emq",
+   "pool": "quiz",
+   "difficulty": 2,
+   "theme": "Patterns of pulmonary tuberculosis",
+   "leadIn": "Pick the best-fitting option for each patient. An option may fit one patient, several patients or none.",
+   "options": [
+    "Primary pulmonary TB",
+    "Progressive primary TB",
+    "Miliary TB",
+    "Cryptic miliary TB",
+    "Post-primary (reactivation) TB",
+    "Tuberculous pleural effusion",
+    "Aspergilloma in an old cavity",
+    "Non-tuberculous mycobacterial infection",
+    "Sarcoidosis"
+   ],
+   "items": [
+    {
+     "stem": "A 7-year-old girl has had a mild flu-like illness and tender red nodules on both shins. Six weeks ago her grandfather was diagnosed with smear-positive TB. Her CXR shows **unilateral hilar lymphadenopathy** and her skin test has just turned positive.",
+     "answer": 0,
+     "explanation": "A recent first infection with **skin-test conversion**, a hypersensitivity sign (**erythema nodosum**) and unilateral hilar nodes is **primary TB**.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s2"
+     }
+    },
+    {
+     "stem": "A 74-year-old man has had intermittent low-grade fever and weight loss for 4 months. He is pancytopenic. His **CXR is normal** and his **tuberculin test is negative**. A bone marrow biopsy shows granulomas containing acid-fast bacilli.",
+     "answer": 3,
+     "explanation": "Old age, PUO, a normal CXR and a negative TST, with diagnosis on marrow biopsy, is the textbook picture of **cryptic miliary TB**.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s2"
+     }
+    },
+    {
+     "stem": "A 29-year-old woman has 3 weeks of fever, night sweats, dry cough and a new headache. Fundoscopy shows small pale lesions in the choroid. Her CXR shows countless 1–2 mm nodules in both lungs.",
+     "answer": 2,
+     "explanation": "Diffuse **1–2 mm 'millet seed'** nodules plus **choroidal tubercles** mean blood-borne (miliary) spread. The headache should prompt a search for TB meningitis, present in about 20%.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s2"
+     }
+    },
+    {
+     "stem": "A 46-year-old homeless man with alcohol dependence has 2 months of weight loss, night sweats and a cough now producing blood-streaked sputum. CXR shows right upper lobe consolidation with a cavity.",
+     "answer": 4,
+     "explanation": "An insidious illness with **upper-lobe cavitation** in an adult with social risk factors is **post-primary TB**, which favours the oxygen-rich apex.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 610,
+     "page": 588
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 611,
+     "page": 589
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 987,
+     "page": 969
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "id-tuberculosis.q3",
+   "kind": "emq",
+   "pool": "quiz",
+   "difficulty": 2,
+   "theme": "Extrapulmonary tuberculosis",
+   "leadIn": "Pick the best-fitting option for each patient. An option may fit one patient, several patients or none.",
+   "options": [
+    "Tuberculous lymphadenitis",
+    "Ileocaecal tuberculosis",
+    "Tuberculous peritonitis",
+    "Tuberculous pericarditis",
+    "Spinal tuberculosis (Pott's disease)",
+    "Tuberculous meningitis",
+    "Renal tract tuberculosis",
+    "Tuberculous arthritis of the hip",
+    "Poncet's polyarthritis",
+    "Female genital tract tuberculosis"
+   ],
+   "items": [
+    {
+     "stem": "A 30-year-old woman who moved from Somalia 2 years ago has a painless neck lump that has grown slowly for 5 months. It is now fluctuant, with **no overlying redness or warmth**, and has started to discharge through the skin.",
+     "answer": 0,
+     "explanation": "A slowly enlarging, painless node that liquefies and discharges without inflammation is a **cold abscess** ('collar-stud') of **tuberculous lymphadenitis**, the commonest extrapulmonary site.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s3"
+     }
+    },
+    {
+     "stem": "A 52-year-old man from Pakistan has months of urinary frequency, dysuria and microscopic haematuria. Repeated urine samples show many white cells but **no growth** on routine culture. He has no fever.",
+     "answer": 6,
+     "explanation": "**Sterile pyuria** with lower urinary symptoms and little systemic upset fits **renal tract TB**. Urine should be sent for mycobacterial culture.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s3"
+     }
+    },
+    {
+     "stem": "A 41-year-old man from India has 3 months of low back pain and evening fevers. MRI shows destruction of the **L1/L2 disc** with erosion of the front of both vertebral bodies and a collection tracking along the psoas.",
+     "answer": 4,
+     "explanation": "Infection that starts in the **disc**, spreads to the anterior vertebral bodies and forms a **psoas abscess** is **Pott's disease**. Malignancy usually leaves the disc intact.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s3"
+     }
+    },
+    {
+     "stem": "A 38-year-old woman has slowly worsening breathlessness and abdominal swelling. She has a raised JVP, pulsus paradoxus, ascites and leg oedema. Her CXR shows a **rim of calcification around the heart**; she was treated for TB in childhood.",
+     "answer": 3,
+     "explanation": "Raised JVP, ascites and oedema with **pericardial calcification** (seen in about 25%) means **tuberculous constrictive pericarditis**. Surgery may be needed for constriction.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 612,
+     "page": 590
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 613,
+     "page": 591
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 987,
+     "page": 969
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 580,
+     "page": 543
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "id-tuberculosis.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 1,
+   "stem": "A 34-year-old man who moved from Bangladesh last year has had a cough for 5 weeks, with evening fevers and 5 kg weight loss. His CXR shows patchy right upper-zone shadowing with a small cavity. He can expectorate sputum.",
+   "leadIn": "What is the most appropriate first investigation?",
+   "options": [
+    "Sputum smear for acid-fast bacilli on at least two samples, including an early-morning one",
+    "Tuberculin skin test",
+    "Interferon-gamma release assay",
+    "CT pulmonary angiogram",
+    "Bronchoscopy with bronchoalveolar lavage"
+   ],
+   "answer": 0,
+   "explanation": "Davidson calls **sputum smear microscopy the most important first step**: at least two (preferably three) samples, one early in the morning. Samples also go for culture, which confirms the diagnosis and gives drug sensitivities.",
+   "whyNot": [
+    "",
+    "A TST shows infection, not active disease, and has low sensitivity and specificity for active TB.",
+    "An IGRA cannot tell active from latent TB, so it does not answer the question in a symptomatic patient.",
+    "Nothing here suggests pulmonary embolism; a cavity with constitutional symptoms points to TB.",
+    "Bronchoscopy is kept for patients who cannot produce sputum or whose smears are unhelpful."
+   ],
+   "studyRef": {
+    "sectionId": "id-tuberculosis.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 613,
+     "page": 591
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 614,
+     "page": 592
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "id-tuberculosis.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 2,
+   "stem": "A 44-year-old woman from Pakistan has 2 months of abdominal swelling, low-grade fever and weight loss. Ascitic fluid is an exudate with mostly lymphocytes. The AFB smear of the fluid is negative and culture has been sent.",
+   "leadIn": "Which additional test on the fluid best supports tuberculosis while culture is awaited?",
+   "options": [
+    "Adenosine deaminase",
+    "Amylase",
+    "Triglyceride concentration",
+    "Serum-ascites albumin gradient",
+    "Gram stain"
+   ],
+   "answer": 0,
+   "explanation": "T-cell activation by mycobacterial antigens raises **adenosine deaminase** in ascitic, pleural, pericardial and CSF fluid. Body fluids contain few bacilli, so smear is often negative and ADA helps while culture grows.",
+   "whyNot": [
+    "",
+    "Amylase points to pancreatic disease, not TB.",
+    "A high triglyceride level suggests chylous ascites.",
+    "The albumin gradient separates portal-hypertensive from other ascites but does not point to TB.",
+    "Gram stain looks for ordinary bacteria; mycobacteria need acid-fast or fluorescent stains."
+   ],
+   "studyRef": {
+    "sectionId": "id-tuberculosis.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 614,
+     "page": 592
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 612,
+     "page": 590
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "id-tuberculosis.q6",
+   "kind": "emq",
+   "pool": "quiz",
+   "difficulty": 2,
+   "theme": "Adverse effects of antituberculous drugs",
+   "leadIn": "Pick the best-fitting option for each patient. An option may fit one patient, several patients or none.",
+   "options": [
+    "Isoniazid (H)",
+    "Rifampicin (R)",
+    "Pyrazinamide (Z)",
+    "Ethambutol (E)",
+    "Streptomycin (aminoglycoside)",
+    "Moxifloxacin (fluoroquinolone)",
+    "Amikacin (injectable second-line)",
+    "Rifabutin (rifamycin)",
+    "Linezolid (oxazolidinone)"
+   ],
+   "items": [
+    {
+     "stem": "A 50-year-old malnourished man with alcohol dependence develops burning pain and numbness in both feet 6 weeks into quadruple TB therapy. No vitamin supplement was prescribed.",
+     "answer": 0,
+     "explanation": "**Isoniazid** causes peripheral neuropathy by interfering with pyridoxine (vitamin B6). Davidson gives **pyridoxine** to pregnant and malnourished patients to prevent it, and KC Essentials gives it routinely.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s5"
+     }
+    },
+    {
+     "stem": "A 26-year-old woman taking the combined oral contraceptive pill becomes pregnant 2 months after starting TB treatment. She also mentions her contact lenses have turned orange.",
+     "answer": 1,
+     "explanation": "**Rifampicin** induces liver enzymes, so the pill fails; it also stains tears, urine and sweat orange-red.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s5"
+     }
+    },
+    {
+     "stem": "A 58-year-old man in the intensive phase of treatment develops a hot, swollen first MTP joint. His serum urate is high.",
+     "answer": 2,
+     "explanation": "**Pyrazinamide** reduces renal urate excretion and can cause hyperuricaemia and **gout**. Step-Up notes ethambutol can occasionally precipitate gout too, but pyrazinamide is the classic cause.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s5"
+     }
+    },
+    {
+     "stem": "A 44-year-old woman 3 months into treatment says that green objects look grey and her reading is blurred. Ishihara plates show new errors.",
+     "answer": 3,
+     "explanation": "**Ethambutol** causes a dose-related **retrobulbar optic neuritis** with loss of green colour vision and reduced acuity. It usually recovers if the drug is stopped early.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s5"
+     }
+    },
+    {
+     "stem": "A 33-year-old man being treated for TB meningitis received a first-line injectable drug in place of ethambutol. He now has tinnitus, unsteadiness and reduced hearing.",
+     "answer": 4,
+     "explanation": "In meningeal TB, Davidson notes ethambutol may be replaced by **streptomycin**, an aminoglycoside that damages the **8th cranial nerve**. Spotting the drug substitution is the two-step part.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 615,
+     "page": 593
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 989,
+     "page": 971
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 581,
+     "page": 544
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 1252,
+     "page": 1252
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "id-tuberculosis.q7",
+   "kind": "emq",
+   "pool": "quiz",
+   "difficulty": 2,
+   "theme": "Screening and management of latent TB",
+   "leadIn": "Pick the best-fitting option for each patient. An option may fit one patient, several patients or none.",
+   "options": [
+    "Tuberculin skin test",
+    "Interferon-gamma release assay",
+    "Chest X-ray only",
+    "Sputum smear and culture",
+    "Isoniazid plus rifampicin for 3 months",
+    "Isoniazid alone for 6 months",
+    "Full 6-month four-drug treatment",
+    "BCG vaccination",
+    "No further action",
+    "Repeat skin test in 6 weeks"
+   ],
+   "items": [
+    {
+     "stem": "A 31-year-old nurse with well-controlled **HIV** is a close contact of a colleague with smear-positive TB. She is well. Which test should be used first to look for infection?",
+     "answer": 1,
+     "explanation": "In the UK an **IGRA is the first-choice test in people with HIV**, whose skin-test responses are blunted and unreliable.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s6"
+     }
+    },
+    {
+     "stem": "An 8-year-old boy is a household contact of his uncle, who has smear-positive pulmonary TB. He is well. Which test should be used first?",
+     "answer": 0,
+     "explanation": "Davidson: the **TST remains the first choice in children**.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s6"
+     }
+    },
+    {
+     "stem": "A 56-year-old man with a mechanical mitral valve on warfarin is a household contact of a smear-positive case. He is well, his IGRA is positive and his CXR is normal.",
+     "answer": 5,
+     "explanation": "He needs chemoprophylaxis. **Rifampicin induces liver enzymes and weakens warfarin**, so **isoniazid alone for 6 months** avoids the interaction.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s6"
+     }
+    },
+    {
+     "stem": "A 40-year-old man is screened because his wife has smear-positive TB. His IGRA is positive, but he admits 3 weeks of productive cough and his CXR shows right apical cavitation.",
+     "answer": 3,
+     "explanation": "Abnormal CXR and symptoms mean **possible active TB**, which must be excluded before any latent-TB treatment. Send sputum for smear and culture.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 616,
+     "page": 594
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 989,
+     "page": 971
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 990,
+     "page": 972
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 455,
+     "page": 455
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "id-tuberculosis.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 1,
+   "stem": "A 39-year-old man who stopped his previous TB treatment early 3 years ago now has a new cavitating lesion. His sputum is smear-positive, and Xpert MTB/RIF detects a **rifampicin-resistance mutation**.",
+   "leadIn": "Which resistance pattern is most likely?",
+   "options": [
+    "Resistance to both rifampicin and isoniazid",
+    "Isolated pyrazinamide resistance",
+    "Isolated ethambutol resistance",
+    "Isolated streptomycin resistance",
+    "Fluoroquinolone resistance alone"
+   ],
+   "answer": 0,
+   "explanation": "Rifampicin-resistance mutations **strongly predict MDR-TB** (resistance to rifampicin and isoniazid). Previous incomplete treatment is the main risk factor, so treat as resistant TB pending full sensitivities.",
+   "whyNot": [
+    "",
+    "Pyrazinamide resistance is typical of _M. bovis_ and is not what Xpert detects.",
+    "Ethambutol resistance is not signalled by the rifampicin probe.",
+    "Streptomycin resistance alone does not explain a rifampicin mutation.",
+    "Fluoroquinolone resistance is an XDR feature and is not shown by this test."
+   ],
+   "studyRef": {
+    "sectionId": "id-tuberculosis.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 987,
+     "page": 969
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 617,
+     "page": 595
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 989,
+     "page": 971
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "id-tuberculosis.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 2,
+   "stem": "Drug-sensitivity testing on a culture from a 45-year-old man shows resistance to **rifampicin, isoniazid, moxifloxacin and amikacin**.",
+   "leadIn": "How is this organism classified?",
+   "options": [
+    "Extensively drug-resistant TB",
+    "Multidrug-resistant TB",
+    "Isoniazid-monoresistant TB",
+    "Rifampicin-monoresistant TB",
+    "Drug-susceptible TB"
+   ],
+   "answer": 0,
+   "explanation": "**XDR-TB** = MDR (rifampicin + isoniazid) **plus** a quinolone **plus** at least one injectable second-line drug such as amikacin. All three conditions are met.",
+   "whyNot": [
+    "",
+    "MDR-TB needs only rifampicin and isoniazid resistance; quinolone plus injectable resistance upgrades it to XDR.",
+    "There is resistance to more than isoniazid.",
+    "There is resistance to more than rifampicin.",
+    "Resistance to first-line drugs rules this out."
+   ],
+   "studyRef": {
+    "sectionId": "id-tuberculosis.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 617,
+     "page": 595
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 989,
+     "page": 971
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 453,
+     "page": 453
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "id-tuberculosis.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 1,
+   "stem": "A 24-year-old man from Nepal has 3 weeks of fever, sweats and right-sided pleuritic pain. CXR shows a moderate right effusion. Aspirated fluid is amber. Fluid/serum protein ratio is 0.7, lymphocytes are 85% of cells, ADA is raised, and the AFB smear is negative.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Tuberculous pleural effusion",
+    "Parapneumonic effusion",
+    "Cardiac failure",
+    "Pulmonary infarction",
+    "Acute pancreatitis"
+   ],
+   "answer": 0,
+   "explanation": "An amber **lymphocytic exudate** with **raised ADA** in a young man from a high-incidence country is **tuberculous pleurisy**. A negative smear is usual because pleural fluid holds few bacilli.",
+   "whyNot": [
+    "",
+    "Parapneumonic effusions are neutrophil-predominant.",
+    "Cardiac failure gives a transudate (protein ratio < 0.5).",
+    "Infarction usually gives blood-stained fluid with red cells and a source of embolism.",
+    "Pancreatic effusions have high amylase and no particular cell predominance."
+   ],
+   "studyRef": {
+    "sectionId": "id-tuberculosis.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 585,
+     "page": 563
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 586,
+     "page": 564
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 160,
+     "page": 160
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "id-tuberculosis.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 2,
+   "stem": "A 30-year-old woman has a lymphocytic exudative pleural effusion. TB is suspected, but two fluid samples are smear-negative.",
+   "leadIn": "Which test has the highest diagnostic yield for tuberculous pleurisy?",
+   "options": [
+    "Pleural biopsy for histology and culture",
+    "Pleural fluid culture",
+    "Repeat pleural fluid AFB smear",
+    "Tuberculin skin test",
+    "Pleural fluid cytology"
+   ],
+   "answer": 0,
+   "explanation": "Davidson: pleural **biopsy is positive in about 80%**, against about 20% for fluid culture. Pocket agrees that biopsy beats fluid tests.",
+   "whyNot": [
+    "",
+    "Fluid culture is positive in only about 20% (Davidson).",
+    "Smear of pleural fluid rarely shows bacilli (0–10% in Pocket).",
+    "A TST shows infection, not pleural disease, and may be negative early.",
+    "Cytology looks for malignant cells; it does not confirm TB."
+   ],
+   "studyRef": {
+    "sectionId": "id-tuberculosis.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 585,
+     "page": 563
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 160,
+     "page": 160
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "id-tuberculosis.q12",
+   "kind": "emq",
+   "pool": "quiz",
+   "difficulty": 2,
+   "theme": "Diagnostic tests in tuberculosis",
+   "leadIn": "Pick the best-fitting option for each patient. An option may fit one patient, several patients or none.",
+   "options": [
+    "Sputum smear microscopy",
+    "Sputum mycobacterial culture",
+    "Xpert MTB/RIF",
+    "Line probe assay",
+    "Tuberculin skin test",
+    "Interferon-gamma release assay",
+    "Pleural biopsy",
+    "Adenosine deaminase in body fluid",
+    "Urinary LF-LAM",
+    "Bone marrow biopsy",
+    "Lymph node fine-needle aspiration"
+   ],
+   "items": [
+    {
+     "stem": "A 36-year-old man with advanced HIV (CD4 60 cells/μL) is very unwell with fever and hypotension. He cannot produce sputum. A quick bedside test is wanted.",
+     "answer": 8,
+     "explanation": "Davidson: the **lateral-flow urinary LAM** assay helps in the **severely ill HIV patient with CD4 ≤ 100**.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s4"
+     }
+    },
+    {
+     "stem": "A 40-year-old woman has a smear-positive sputum. The team needs the **definitive diagnosis and a full drug-sensitivity profile**.",
+     "answer": 1,
+     "explanation": "Smear gives only a presumptive diagnosis. **Culture** is the gold standard for confirmation and phenotypic sensitivities.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s4"
+     }
+    },
+    {
+     "stem": "A 33-year-old man from Eastern Europe has a cavitating lesion. The clinician wants to know within **2 hours** whether TB is present and whether **rifampicin resistance** is likely.",
+     "answer": 2,
+     "explanation": "**Xpert MTB/RIF** detects MTB and rifampicin-resistance mutations in under 2 hours.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s4"
+     }
+    },
+    {
+     "stem": "A 69-year-old woman has 3 months of low-grade fever and weight loss. Blood count shows pancytopenia. CXR is normal and her tuberculin test is negative.",
+     "answer": 9,
+     "explanation": "This is the pattern of **cryptic miliary TB** (two-step: recognise it, then choose the test). Diagnosis comes from **bone marrow** (or liver) biopsy showing granulomas or AFB.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 611,
+     "page": 589
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 614,
+     "page": 592
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 987,
+     "page": 969
+    }
+   ],
+   "quizScope": "topic"
+  },
+  {
+   "id": "id-tuberculosis.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 2,
+   "stem": "A 37-year-old man with untreated HIV has smear-positive cavitating pulmonary TB. A tuberculin skin test read at 72 hours shows **no induration**.",
+   "leadIn": "What is the most likely explanation for the skin test result?",
+   "options": [
+    "Anergy from immunosuppression",
+    "Previous BCG vaccination",
+    "Exposure to non-tuberculous mycobacteria",
+    "Booster effect from an earlier skin test",
+    "Reading the test too late"
+   ],
+   "answer": 0,
+   "explanation": "HIV and other immunosuppression cause **false-negative (anergic)** skin tests; overwhelming active TB can do the same. Never use a negative TST to rule out TB.",
+   "whyNot": [
+    "",
+    "BCG causes false-**positive** results.",
+    "Non-tuberculous mycobacteria also cause false-**positive** results.",
+    "The booster effect increases, not abolishes, a later reaction.",
+    "The test is read between 48 and 72 hours, so 72 hours is correct timing."
+   ],
+   "studyRef": {
+    "sectionId": "id-tuberculosis.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 990,
+     "page": 972
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 616,
+     "page": 594
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 454,
+     "page": 454
+    }
+   ],
+   "quizScope": "topic"
+  },
+  {
+   "id": "id-tuberculosis.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 2,
+   "stem": "A 49-year-old woman has been on HRZE for 3 weeks. She develops nausea and jaundice. ALT is 6 times the upper limit of normal and bilirubin is rising.",
+   "leadIn": "What is the most appropriate action?",
+   "options": [
+    "Stop the drugs, let the liver tests recover, then reintroduce the drugs one at a time",
+    "Continue all drugs and recheck liver tests in a month",
+    "Stop pyrazinamide permanently and continue the other three drugs",
+    "Switch to isoniazid alone",
+    "Add pyridoxine and continue treatment"
+   ],
+   "answer": 0,
+   "explanation": "This is drug-induced **hepatitis** (rising bilirubin, ALT well above 3× normal). Davidson and Kumar advise **stopping**, allowing recovery, then **stepwise reintroduction** of each drug to find the culprit.",
+   "whyNot": [
+    "",
+    "Continuing risks fulminant liver failure; she has symptomatic hepatitis, not a mild rise.",
+    "Isoniazid and rifampicin are also hepatotoxic, so the culprit is not known yet.",
+    "Single-drug treatment of active TB breeds resistance.",
+    "Pyridoxine prevents isoniazid neuropathy, not hepatitis."
+   ],
+   "studyRef": {
+    "sectionId": "id-tuberculosis.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 615,
+     "page": 593
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 989,
+     "page": 971
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 1251,
+     "page": 1251
+    }
+   ],
+   "quizScope": "topic"
+  },
+  {
+   "id": "id-tuberculosis.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 1,
+   "stem": "A 23-year-old man is diagnosed with **tuberculous meningitis**. The organism is fully sensitive.",
+   "leadIn": "What total duration of antituberculous treatment is recommended?",
+   "options": [
+    "6 months",
+    "9 months",
+    "12 months",
+    "18 months",
+    "24 months"
+   ],
+   "answer": 2,
+   "explanation": "Davidson: **12 months** for meningeal TB (including spinal TB involving the cord), with adjuvant **glucocorticoids**. Most other forms need 6 months.",
+   "whyNot": [
+    "6 months is enough for pulmonary and most extrapulmonary TB, but not meningitis.",
+    "KC Essentials uses 9 months for bone TB, not meningitis.",
+    "",
+    "Longer than recommended for drug-sensitive CNS disease.",
+    "Up to 2 years is the kind of duration used for drug-resistant TB."
+   ],
+   "studyRef": {
+    "sectionId": "id-tuberculosis.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 615,
+     "page": 593
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 581,
+     "page": 544
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 582,
+     "page": 545
+    }
+   ],
+   "quizScope": "topic"
+  },
+  {
+   "id": "id-tuberculosis.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 1,
+   "stem": "A TB clinic reviews five newly diagnosed patients with drug-sensitive pulmonary TB.",
+   "leadIn": "Which patient is the strongest candidate for directly observed therapy?",
+   "options": [
+    "A homeless man with alcohol dependence",
+    "A 30-year-old teacher with smear-negative disease",
+    "A pregnant woman who attends every appointment",
+    "A 55-year-old man with well-controlled diabetes",
+    "A 20-year-old student living with her parents"
+   ],
+   "answer": 0,
+   "explanation": "**DOT** is for people unlikely to adhere: the **homeless**, drug or alcohol users, those with serious mental illness, and those with past non-adherence.",
+   "whyNot": [
+    "",
+    "Smear status does not decide DOT; adherence risk does.",
+    "Pregnancy needs pyridoxine, but she shows good adherence.",
+    "Diabetes raises TB risk but is not a DOT criterion.",
+    "Nothing suggests poor adherence."
+   ],
+   "studyRef": {
+    "sectionId": "id-tuberculosis.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 616,
+     "page": 594
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 617,
+     "page": 595
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 989,
+     "page": 971
+    }
+   ],
+   "quizScope": "topic"
+  },
+  {
+   "id": "id-tuberculosis.q17",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 42-year-old man started standard HRZE for smear-positive pulmonary TB. He says he has taken every dose. At **2 months** his sputum culture is **still positive**.",
+   "leadIn": "What is the most appropriate interpretation?",
+   "options": [
+    "Expected finding; move to the continuation phase as planned",
+    "Raises suspicion of multidrug-resistant TB; admit and obtain drug sensitivities",
+    "Meets the definition of treatment failure; stop all drugs",
+    "Shows non-adherence; start directly observed therapy only",
+    "Indicates isoniazid neuropathy; add pyridoxine"
+   ],
+   "answer": 1,
+   "explanation": "Step 1: sputum is checked at 2 and 5 months to assess response. Step 2: Davidson lists **culture-positive after 2 months** as a marker of significant **MDR-TB** risk and a reason to consider admission. Step 3: treatment failure is only defined at **5 months** (positive smear or culture). So obtain rapid molecular and culture sensitivities, and do not switch to HR blindly.",
+   "whyNot": [
+    "Dropping to two drugs while resistance is possible risks amplifying it.",
+    "",
+    "Failure is defined at 5 months, not 2.",
+    "He reports full adherence; resistance must be excluded first, though DOT may be added.",
+    "Neuropathy is irrelevant to a positive culture."
+   ],
+   "studyRef": {
+    "sectionId": "id-tuberculosis.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 615,
+     "page": 593
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 616,
+     "page": 594
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.q18",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 27-year-old man from Somalia has a left pleural effusion. Results: pleural protein 46 g/L, serum protein 70 g/L; pleural LDH 310 U/L, serum LDH 400 U/L. The fluid is amber with 90% lymphocytes, and ADA is high.",
+   "leadIn": "What is the most likely cause?",
+   "options": [
+    "Tuberculous pleurisy",
+    "Cardiac failure",
+    "Nephrotic syndrome",
+    "Parapneumonic effusion",
+    "Acute pancreatitis"
+   ],
+   "answer": 0,
+   "explanation": "Step 1, Light's criteria: protein ratio 46/70 = 0.66 (> 0.5) and LDH ratio 310/400 = 0.78 (> 0.6), so this is an **exudate**. Step 2, cells: **lymphocyte-predominant**. Step 3: amber fluid, raised ADA and origin in a high-incidence country point to **TB**. Confirm with **pleural biopsy** (about 80% yield) and give a full course of treatment.",
+   "whyNot": [
+    "",
+    "Heart failure gives a transudate.",
+    "Hypoproteinaemia gives a transudate.",
+    "Parapneumonic exudates are neutrophil-predominant.",
+    "Pancreatic effusions have high amylase and no lymphocyte predominance."
+   ],
+   "studyRef": {
+    "sectionId": "id-tuberculosis.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 585,
+     "page": 563
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 586,
+     "page": 564
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 160,
+     "page": 160
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.q19",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 25-year-old woman shares a flat with a man just diagnosed with smear-positive pulmonary TB. She feels well and takes no medicines. Her IGRA is positive and her CXR is normal.",
+   "leadIn": "What is the most appropriate management?",
+   "options": [
+    "Isoniazid plus rifampicin for 3 months",
+    "Six months of four-drug then two-drug treatment",
+    "BCG vaccination",
+    "Reassure; no action needed",
+    "Repeat the IGRA in a year"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: positive IGRA = infection. Step 2: no symptoms and a normal CXR = **latent**, not active, TB. Step 3: she is a close contact under 65, so offer **chemoprophylaxis**: Davidson gives **3 months of isoniazid + rifampicin** or 6 months of isoniazid. Warn her that rifampicin weakens hormonal contraception.",
+   "whyNot": [
+    "",
+    "Full treatment is for active disease, which has been excluded.",
+    "BCG is not given to someone already infected and does not treat infection.",
+    "Latent TB carries a 5–15% lifetime risk; treatment is offered to close contacts.",
+    "Repeating the test leaves her untreated and adds nothing."
+   ],
+   "studyRef": {
+    "sectionId": "id-tuberculosis.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 616,
+     "page": 594
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 989,
+     "page": 971
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.q20",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Complications of chronic pulmonary tuberculosis",
+   "leadIn": "Pick the best-fitting option for each patient. An option may fit one patient, several patients or none.",
+   "options": [
+    "Massive haemoptysis",
+    "Aspergilloma",
+    "Bronchiectasis",
+    "Bronchopleural fistula",
+    "Empyema necessitans",
+    "Amyloidosis",
+    "Cor pulmonale",
+    "Spontaneous pneumothorax",
+    "Tuberculous laryngitis",
+    "Poncet's polyarthritis"
+   ],
+   "items": [
+    {
+     "stem": "A 63-year-old man treated for TB 20 years ago has had recurrent small haemoptyses. CXR shows a rounded opacity sitting inside an old left upper-lobe cavity. Serum _Aspergillus_ precipitins are positive.",
+     "answer": 1,
+     "explanation": "A fungal ball growing in a **residual TB cavity** is an **aspergilloma**, a listed complication of chronic pulmonary TB.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s2"
+     }
+    },
+    {
+     "stem": "A 47-year-old man with untreated tuberculous empyema develops a soft, fluctuant swelling on his chest wall that begins to discharge pus.",
+     "answer": 4,
+     "explanation": "Pus under pressure tracking through the chest wall to the skin is **empyema necessitans**.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s2"
+     }
+    },
+    {
+     "stem": "A 58-year-old woman has had poorly treated fibrocavitary TB for many years. She now has heavy proteinuria and ankle oedema, and her serum albumin is low.",
+     "answer": 5,
+     "explanation": "Two-step: chronic infection such as TB drives **reactive (AA) amyloidosis**, and about 90% of patients present with proteinuria or **nephrotic syndrome**.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s2"
+     }
+    },
+    {
+     "stem": "A 31-year-old man with active pulmonary TB has pain and swelling in several joints. Joint fluid grows no organisms, and the arthritis settles within 2 months of starting TB treatment.",
+     "answer": 9,
+     "explanation": "**Poncet's arthropathy** is an immune-mediated reactive polyarthritis linked to TB, not joint infection, and resolves with treatment.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 612,
+     "page": 590
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 613,
+     "page": 591
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 586,
+     "page": 564
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 619,
+     "page": 597
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 104,
+     "page": 82
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.q21",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Chest X-ray patterns and their differential diagnosis",
+   "leadIn": "Pick the best-fitting option for each patient. An option may fit one patient, several patients or none.",
+   "options": [
+    "Miliary tuberculosis",
+    "Sarcoidosis",
+    "Pneumoconiosis",
+    "Lung cancer",
+    "Granulomatosis with polyangiitis",
+    "Lung abscess",
+    "Post-primary tuberculosis",
+    "Pulmonary infarction",
+    "Primary tuberculosis",
+    "Progressive massive fibrosis"
+   ],
+   "items": [
+    {
+     "stem": "A 48-year-old man has nasal crusting, haematuria with red-cell casts and a positive ANCA. CXR shows several cavitating nodules. Sputum smears and cultures for AFB are negative.",
+     "answer": 4,
+     "explanation": "Cavitation has a differential (Fig. 17.37). Upper and lower airway disease with glomerulonephritis and ANCA means **granulomatosis with polyangiitis**.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s2"
+     }
+    },
+    {
+     "stem": "A 66-year-old retired coal miner has large conglomerate masses in both upper zones, one with central cavitation. Repeated sputum smears and cultures for mycobacteria are negative.",
+     "answer": 9,
+     "explanation": "Large upper-zone conglomerate masses after coal dust exposure that can cavitate are **progressive massive fibrosis**, a listed mimic of cavitating TB. Simple coal workers' pneumoconiosis gives only small nodules.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s2"
+     }
+    },
+    {
+     "stem": "A 26-year-old man from Bangladesh has 5 weeks of fever, night sweats and cough. CXR shows bilateral upper-lobe shadowing with cavities, and his sputum smear is AFB-positive.",
+     "answer": 6,
+     "explanation": "Upper-lobe cavitation with AFB in sputum is **post-primary TB**.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 612,
+     "page": 590
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 611,
+     "page": 589
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 614,
+     "page": 592
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 637,
+     "page": 615
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.q22",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 33-year-old woman is diagnosed with miliary TB on CXR and a transbronchial biopsy. She has no headache and her neurological examination is normal.",
+   "leadIn": "Which further investigation does Kumar recommend for every patient with miliary TB?",
+   "options": [
+    "MRI of the brain",
+    "Colonoscopy",
+    "Echocardiography",
+    "Isotope bone scan",
+    "Renal ultrasound"
+   ],
+   "answer": 0,
+   "explanation": "The **CNS is involved in about 20%** of miliary TB. Kumar advises **brain MRI** in all, because a tuberculoma can be silent. KC Essentials also advises lumbar puncture, as CNS involvement extends treatment to 12 months.",
+   "whyNot": [
+    "",
+    "Gut TB is not routinely looked for without symptoms.",
+    "Pericardial disease is sought only if there are signs.",
+    "Bone imaging is not part of routine miliary work-up.",
+    "Renal TB is usually a late, separate presentation."
+   ],
+   "studyRef": {
+    "sectionId": "id-tuberculosis.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 987,
+     "page": 969
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 580,
+     "page": 543
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 615,
+     "page": 593
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 611,
+     "page": 589
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A community TB nurse is planning a BCG programme.",
+   "leadIn": "In which person is BCG vaccination contraindicated?",
+   "options": [
+    "A 34-year-old woman with HIV infection",
+    "A tuberculin-negative newborn in a high-incidence area",
+    "A tuberculin-negative unvaccinated healthcare worker",
+    "A tuberculin-negative child who recently migrated from a high-prevalence country",
+    "A tuberculin-negative veterinary worker"
+   ],
+   "answer": 0,
+   "explanation": "BCG is a **live attenuated** vaccine, so it must not be given to the **immunocompromised (e.g. HIV)** or in **pregnancy**.",
+   "whyNot": [
+    "",
+    "Infants in high-risk areas are a target group.",
+    "Unvaccinated health workers at occupational risk can be offered BCG.",
+    "Unvaccinated new migrants from high-prevalence countries are offered BCG.",
+    "Veterinary staff are listed as an occupational-risk group."
+   ],
+   "studyRef": {
+    "sectionId": "id-tuberculosis.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 617,
+     "page": 595
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 582,
+     "page": 545
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.q24",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 3,
+   "stem": "A 39-year-old man with HIV is taking a protease-inhibitor-based antiretroviral regimen. He is diagnosed with drug-sensitive pulmonary TB.",
+   "leadIn": "Which change to standard TB treatment is most appropriate?",
+   "options": [
+    "Replace rifampicin with rifabutin",
+    "Replace isoniazid with moxifloxacin",
+    "Omit pyrazinamide",
+    "Stop antiretroviral therapy until TB treatment ends",
+    "Give isoniazid alone"
+   ],
+   "answer": 0,
+   "explanation": "Rifampicin is a strong **CYP450 inducer** and lowers protease-inhibitor levels, risking HIV treatment failure and resistance. **Rifabutin** induces CYP450 less and can be substituted, with dose adjustment.",
+   "whyNot": [
+    "",
+    "The interaction is with rifampicin, not isoniazid.",
+    "Pyrazinamide is not the problem and is needed for a 6-month course.",
+    "Stopping ART for months raises the risk of further opportunistic infection.",
+    "Single-drug treatment of active TB breeds resistance."
+   ],
+   "studyRef": {
+    "sectionId": "id-tuberculosis.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1460,
+     "page": 1447
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 1251,
+     "page": 1251
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.q25",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 45-year-old man from Nepal has 4 months of thoracolumbar back pain, night sweats and weight loss. MRI shows destruction of the **T12–L1 disc** with erosion of the front of both adjacent vertebral bodies and a paravertebral collection.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Spinal tuberculosis",
+    "Metastatic prostate cancer",
+    "Multiple myeloma",
+    "Osteoporotic vertebral fracture",
+    "Ankylosing spondylitis"
+   ],
+   "answer": 0,
+   "explanation": "Disease that **begins in the disc** and spreads to the anterior vertebral bodies with an abscess, in a man from a high-incidence country, is **Pott's disease**. Malignancy targets the vertebral body and leaves the disc alone.",
+   "whyNot": [
+    "",
+    "Metastases usually spare the disc space.",
+    "Myeloma causes lytic lesions in the vertebral body without disc destruction or abscess.",
+    "An osteoporotic fracture does not destroy the disc or form a collection.",
+    "Ankylosing spondylitis causes stiffness and syndesmophytes, not disc destruction with abscess."
+   ],
+   "studyRef": {
+    "sectionId": "id-tuberculosis.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 613,
+     "page": 591
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.q26",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 28-year-old man from India has 2 months of fever, weight loss and a tender mass in the right iliac fossa. Colonoscopy shows ulceration of the caecum. Biopsies show **caseating granulomas with acid-fast bacilli**.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Ileocaecal tuberculosis",
+    "Crohn's disease",
+    "Caecal carcinoma",
+    "Appendix abscess",
+    "Ulcerative colitis"
+   ],
+   "answer": 0,
+   "explanation": "Ileocaecal disease makes up about half of abdominal TB and presents with fever, weight loss and a right iliac fossa mass. **Caseation with AFB** separates it from **Crohn's disease**, its main differential.",
+   "whyNot": [
+    "",
+    "Crohn's granulomas are non-caseating and contain no AFB.",
+    "Carcinoma shows malignant cells, not granulomas.",
+    "An appendix abscess would not show caseating granulomas with AFB.",
+    "Ulcerative colitis starts in the rectum and does not form granulomas."
+   ],
+   "studyRef": {
+    "sectionId": "id-tuberculosis.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 612,
+     "page": 590
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 838,
+     "page": 816
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.q27",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 1,
+   "stem": "A TB service audits treatment outcomes for patients with pulmonary TB.",
+   "leadIn": "Which finding defines treatment failure?",
+   "options": [
+    "Positive sputum smear or culture at 5 months",
+    "Positive sputum smear at 2 weeks",
+    "Persistent cough at 2 months",
+    "Residual CXR shadowing at 6 months",
+    "A mild, symptomless rise in transaminases"
+   ],
+   "answer": 0,
+   "explanation": "In Davidson, **treatment failure** means the sputum smear or culture is **still positive at 5 months**; isolating an MDR strain also counts as failure.",
+   "whyNot": [
+    "",
+    "Smears are often still positive early; response is assessed at 2 and 5 months.",
+    "Symptoms can lag behind microbiological response.",
+    "Scarring often persists after cure.",
+    "Mild transaminase rises are common and not a sign of failure."
+   ],
+   "studyRef": {
+    "sectionId": "id-tuberculosis.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 615,
+     "page": 593
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 616,
+     "page": 594
+    }
+   ]
+  },
+  {
+   "id": "id-tuberculosis.q28",
+   "kind": "emq",
+   "pool": "mock",
+   "difficulty": 2,
+   "theme": "Treatment choices in tuberculosis",
+   "leadIn": "Pick the best-fitting option for each patient. An option may fit one patient, several patients or none.",
+   "options": [
+    "2 months HRZE then 4 months HR",
+    "9 months of treatment",
+    "12 months of treatment with adjuvant glucocorticoids",
+    "6 months of treatment with adjuvant glucocorticoids",
+    "Isoniazid plus rifampicin for 3 months",
+    "Isoniazid alone for 6 months",
+    "Isoniazid, rifampicin and ethambutol",
+    "Prolonged susceptibility-guided second-line regimen",
+    "BCG vaccination",
+    "No treatment"
+   ],
+   "items": [
+    {
+     "stem": "A 22-year-old woman has headache, fever and neck stiffness. CSF shows lymphocytes, low glucose, high protein and raised ADA. Xpert on CSF detects fully sensitive MTB.",
+     "answer": 2,
+     "explanation": "**TB meningitis** needs **12 months** of treatment with adjuvant **glucocorticoids**.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s5"
+     }
+    },
+    {
+     "stem": "A 46-year-old man has breathlessness, raised JVP and a large pericardial effusion. Pericardial fluid ADA is high and culture grows sensitive MTB.",
+     "answer": 3,
+     "explanation": "Most extrapulmonary TB needs 6 months, but **pericardial TB** is one of the forms where **glucocorticoids are recommended**.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s5"
+     }
+    },
+    {
+     "stem": "A 52-year-old abattoir worker has tuberculous cervical lymphadenitis. The organism is identified as _M. bovis_.",
+     "answer": 6,
+     "explanation": "Two-step: _M. bovis_ is commonly **resistant to pyrazinamide**, so treat with **isoniazid, rifampicin and ethambutol**.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s1"
+     }
+    },
+    {
+     "stem": "A 35-year-old man has newly diagnosed smear-positive pulmonary TB. Xpert shows no rifampicin resistance and he has no other illnesses.",
+     "answer": 0,
+     "explanation": "New, drug-sensitive pulmonary TB: **2HRZE then 4HR**.",
+     "studyRef": {
+      "sectionId": "id-tuberculosis.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 612,
+     "page": 590
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 615,
+     "page": 593
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 989,
+     "page": 971
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 580,
+     "page": 543
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 455,
+     "page": 455
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 987,
+     "page": 969
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "id-tuberculosis.o1",
+   "sectionId": "id-tuberculosis.s1",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 610,
+    "page": 588,
+    "figure": "Fig. 17.35"
+   },
+   "identify": "Tuberculous granuloma: multinucleate (Langhans) giant cells and epithelioid macrophages around central **caseous necrosis** → TB."
+  },
+  {
+   "id": "id-tuberculosis.o2",
+   "sectionId": "id-tuberculosis.s2",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 612,
+    "page": 590,
+    "figure": "Fig. 17.37"
+   },
+   "identify": "Four CXR patterns of TB: **miliary** shadowing, **effusion/empyema**, **cavitation**, **consolidation/collapse**. Name one differential for each."
+  },
+  {
+   "id": "id-tuberculosis.o3",
+   "sectionId": "id-tuberculosis.s3",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 613,
+    "page": 591,
+    "figure": "Fig. 17.38"
+   },
+   "identify": "Extrapulmonary TB map: identify kyphosis/psoas abscess (Pott's), pericardial effusion or constriction, lymph nodes, ascites, meningitis/tuberculoma."
+  },
+  {
+   "id": "id-tuberculosis.o4",
+   "sectionId": "id-tuberculosis.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 614,
+    "page": 592,
+    "figure": "Fig. 17.39"
+   },
+   "identify": "CXR: **bilateral upper-lobe** airspace shadowing with **cavitation** → post-primary pulmonary TB."
+  },
+  {
+   "id": "id-tuberculosis.o5",
+   "sectionId": "id-tuberculosis.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 614,
+    "page": 592,
+    "figure": "Fig. 17.40"
+   },
+   "identify": "Ziehl–Neelsen stain: **red acid-fast bacilli** that kept carbol fuchsin after acid-alcohol washing → mycobacteria."
+  },
+  {
+   "id": "id-tuberculosis.o6",
+   "sectionId": "id-tuberculosis.s4",
+   "cite": {
+    "book": "stepup6",
+    "pdfPage": 915,
+    "page": 915,
+    "figure": "Figure 10-2"
+   },
+   "identify": "CT chest: countless small, evenly spread nodules throughout both lungs → **miliary TB**."
+  },
+  {
+   "id": "id-tuberculosis.o7",
+   "sectionId": "id-tuberculosis.s6",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 616,
+    "page": 594,
+    "figure": "Fig. 17.41"
+   },
+   "identify": "Mantoux test: intradermal PPD on the inner forearm, read at 48–72 h; measure **induration across the forearm**, positive at **≥ 5 mm** (Davidson)."
+  },
+  {
+   "id": "id-tuberculosis.o8",
+   "sectionId": "id-tuberculosis.s6",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 616,
+    "page": 594,
+    "figure": "Fig. 17.42"
+   },
+   "identify": "IGRA principle: T cells release **IFN-γ** after exposure to MTB-specific antigens; T-SPOT.TB counts spots, QuantiFERON measures IFN-γ by ELISA."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:06:26.414Z",
+  "contentHash": "939dbaaa8ed372b0add960cd94ac3bb04ace59b6080c2a975900e3d82dcec425"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:06:26.440Z",
+  "contentHash": "939dbaaa8ed372b0add960cd94ac3bb04ace59b6080c2a975900e3d82dcec425",
+  "checkerVersion": "source-check-v1"
+ }
+}

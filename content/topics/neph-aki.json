@@ -1,0 +1,4015 @@
+{
+ "topicId": "neph-aki",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "neph-aki.s1",
+   "title": "Definition, diagnostic criteria and staging",
+   "objectiveIdx": [
+    0,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Acute kidney injury (AKI)** — the old term was acute renal failure — is a _description_, not a diagnosis. It means renal function has dropped **abruptly, over hours to days (sometimes weeks)**, and the loss is **often reversible**. It is usually picked up as a **rising serum urea and creatinine** and/or a **falling urine output**. Because it can produce sudden, dangerous biochemical upsets, it is treated as a medical emergency.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 433,
+       "page": 411,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1400,
+       "page": 1387,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 423,
+       "page": 386,
+       "chapter": "Renal disease"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Key numbers",
+     "items": [
+      "**Oliguria** = less than **400 mL** of urine per day; **anuria** = less than **100 mL** per day.",
+      "Anuria should make you think of **complete urinary obstruction**, **severe bilateral vascular compromise** or **rapidly progressive glomerulonephritis**.",
+      "About **7% of hospital inpatients** and **20% of acutely ill patients** develop AKI.",
+      "Mortality is **low** in uncomplicated AKI (Kumar: under 5–10%), but **50–70%** when AKI comes with **sepsis and multi-organ failure**; the underlying illness, not the kidney, usually decides the outcome."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 413,
+       "page": 391,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 433,
+       "page": 411,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1401,
+       "page": 1388,
+       "chapter": "Kidney and urinary tract disease"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "KDIGO diagnosis — any ONE of",
+     "items": [
+      "Creatinine rise of **≥ 0.3 mg/dL (≈ 26.5 µmol/L) within 48 hours**.",
+      "Creatinine **≥ 1.5 × baseline**, where the baseline is known or presumed to be from the **previous 7 days**.",
+      "Urine output **< 0.5 mL/kg/h for at least 6 hours**.",
+      "UK (NICE) wording, same idea: creatinine up **≥ 25 µmol/L in 48 h**, or up **≥ 50% in 7 days**, or urine output below 0.5 mL/kg/h for more than 6 h."
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 652,
+       "page": 652,
+       "chapter": "Renal and genitourinary"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1401,
+       "page": 1388,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 255,
+       "page": 255,
+       "chapter": "Renal"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "KDIGO stages of AKI",
+     "columns": [
+      "Stage",
+      "Serum creatinine",
+      "Urine output"
+     ],
+     "rows": [
+      [
+       "1",
+       "1.5–1.9 × baseline, OR a rise of ≥ 26.5 µmol/L (0.3 mg/dL)",
+       "< 0.5 mL/kg/h for 6–12 h"
+      ],
+      [
+       "2",
+       "2.0–2.9 × baseline",
+       "< 0.5 mL/kg/h for ≥ 12 h"
+      ],
+      [
+       "3",
+       "≥ 3 × baseline, OR creatinine > 4 mg/dL (≈ 354 µmol/L), OR renal replacement therapy started, OR (age < 18) eGFR < 35 mL/min/1.73 m²",
+       "< 0.3 mL/kg/h for ≥ 24 h, OR anuria for ≥ 12 h"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1401,
+       "page": 1388,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 297,
+       "page": 297,
+       "chapter": "Nephrology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Older systems: RIFLE and AKIN",
+     "columns": [
+      "RIFLE grade (AKIN stage)",
+      "Creatinine",
+      "Urine output"
+     ],
+     "rows": [
+      [
+       "Risk (AKIN 1)",
+       "1.5 × baseline (AKIN: or ≥ 26.4 µmol/L rise within 48 h)",
+       "< 0.5 mL/kg/h for 6 h"
+      ],
+      [
+       "Injury (AKIN 2)",
+       "2 × baseline",
+       "< 0.5 mL/kg/h for 12 h"
+      ],
+      [
+       "Failure (AKIN 3)",
+       "3 × baseline, or ≥ 350 µmol/L with an acute rise ≥ 40 µmol/L (AKIN: > 300% rise, ≥ 354 µmol/L)",
+       "< 0.3 mL/kg/h for 24 h, or anuria for 12 h"
+      ],
+      [
+       "Loss",
+       "Persistent AKI (dialysis need) for more than 4 weeks",
+       "—"
+      ],
+      [
+       "ESKD",
+       "Persistent failure for more than 3 months",
+       "—"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 424,
+       "page": 387,
+       "chapter": "Renal disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1401,
+       "page": 1388,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 652,
+       "page": 652,
+       "chapter": "Renal and genitourinary"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Only **one criterion** (creatinine _or_ urine output) is needed to assign a stage, and the change should be **abrupt (1–7 days)** and **sustained (> 24 h)**. Higher KDIGO stages in ICU patients go with **higher hospital mortality and longer stays**. Davidson notes these schemes are used mainly to **standardise diagnosis in research** and to give prognostic information.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 424,
+       "page": 387,
+       "chapter": "Renal disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 297,
+       "page": 297,
+       "chapter": "Nephrology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 433,
+       "page": 411,
+       "chapter": "Nephrology and urology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Who is at risk?",
+     "items": [
+      "Pre-existing **CKD**, **heart failure**, **diabetes**, **liver disease**, **age over 65**, cognitive impairment.",
+      "**Nephrotoxic or haemodynamically active drugs** (NSAIDs, ACE inhibitors) and **iodinated contrast**, especially during acute illness or surgery.",
+      "**Elderly patients:** fewer nephrons and less reserve, low muscle mass (so creatinine under-reads the problem), and more prescriptions of diuretics, ACE inhibitors and NSAIDs."
+     ],
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 255,
+       "page": 255,
+       "chapter": "Renal"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 433,
+       "page": 411,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 436,
+       "page": 414,
+       "chapter": "Nephrology and urology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Faced with a high creatinine, **first look for an old result**. A recent normal value means AKI; a long-standing high value means CKD; a further rise on top of a raised baseline means **acute-on-chronic** disease.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 433,
+       "page": 411,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 667,
+       "page": 667,
+       "chapter": "Renal and genitourinary"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Do not use eGFR in AKI.** Creatinine-based eGFR assumes creatinine is **stable over days** (a steady state); while creatinine is still changing the number is meaningless.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 409,
+       "page": 387,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 298,
+       "page": 298,
+       "chapter": "Nephrology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.s2",
+   "title": "Aetiological classification",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "AKI is often **multifactorial**, but it is sorted into three groups: **pre-renal** (the kidney is under-perfused), **renal/intrinsic** (the insult is in the kidney itself) and **post-renal** (urine flow is blocked anywhere from tubule to urethra). Step-Up gives rough shares of **60–70% pre-renal**, **25–40% intrinsic** and **5–10% post-renal**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 433,
+       "page": 411,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 653,
+       "page": 653,
+       "chapter": "Renal and genitourinary"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "The three groups",
+     "columns": [
+      "Group",
+      "Mechanism",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Pre-renal — systemic",
+       "Reduced renal perfusion; parenchyma initially intact",
+       "Haemorrhage, vomiting/diarrhoea, burns, dehydration; septic shock or cirrhosis (vasodilatation); cardiac failure or cardiogenic shock"
+      ],
+      [
+       "Pre-renal — local",
+       "Altered flow within or to the kidney",
+       "Bilateral renal artery stenosis (worse with ACE inhibitor); NSAIDs, ACE inhibitors/ARBs, calcineurin inhibitors, amphotericin B; hepatorenal syndrome"
+      ],
+      [
+       "Renal — tubules and interstitium",
+       "Direct injury to tubules or interstitium",
+       "**ATN** (80–90% of intrinsic AKI) from ischaemia, sepsis or toxins; acute interstitial nephritis; tubular obstruction by myeloma casts or crystals; bilateral acute pyelonephritis"
+      ],
+      [
+       "Renal — glomeruli and vessels",
+       "Inflammation or occlusion of glomeruli and small vessels",
+       "Glomerulonephritis and small-vessel vasculitis; cholesterol emboli, HUS/TTP, malignant hypertension, scleroderma renal crisis, pre-eclampsia"
+      ],
+      [
+       "Post-renal",
+       "Obstruction to urine outflow",
+       "Benign prostatic enlargement (commonest), prostate, bladder or cervical cancer, bilateral stones, retroperitoneal fibrosis, urethral stricture, obstruction of a single functioning kidney"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 433,
+       "page": 411,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 434,
+       "page": 412,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1402,
+       "page": 1389,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 425,
+       "page": 388,
+       "chapter": "Renal disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 298,
+       "page": 298,
+       "chapter": "Nephrology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 659,
+       "page": 659,
+       "chapter": "Renal and genitourinary"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Nephrotoxins and tubular insults worth listing in an exam",
+     "items": [
+      "**Toxic ATN — drugs:** aminoglycosides (gentamicin), vancomycin, cisplatin, tenofovir, methotrexate, iodinated contrast.",
+      "**Toxic ATN — other:** myoglobin (rhabdomyolysis), haemoglobin (massive haemolysis, e.g. \"blackwater fever\" in falciparum malaria), snake bite, _Amanita_ mushrooms.",
+      "**Acute interstitial nephritis (drugs):** PPIs, penicillins and other β-lactams, NSAIDs, sulfonamides, quinolones, allopurinol.",
+      "**Crystal nephropathy:** aciclovir, indinavir, triamterene, methotrexate; **oxalate** (ethylene glycol, fat malabsorption); **urate** (tumour lysis).",
+      "**Myeloma:** light-chain **cast nephropathy** blocks tubules."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 434,
+       "page": 412,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 299,
+       "page": 299,
+       "chapter": "Nephrology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 300,
+       "page": 300,
+       "chapter": "Nephrology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1402,
+       "page": 1389,
+       "chapter": "Kidney and urinary tract disease"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In developed countries the **commonest cause of AKI in children** is now **Shiga-like toxin–associated HUS** (e.g. _E. coli_ O157:H7). Most children recover, although dialysis may be needed for up to about 2 weeks.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 431,
+       "page": 409,
+       "chapter": "Nephrology and urology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**One blocked ureter rarely causes AKI.** Obstruction only produces oliguria/anuria if it is **complete and below the bladder neck**, **bilateral**, or affects a **single functioning kidney**; unilateral ureteric obstruction may leave urine output unchanged.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 413,
+       "page": 391,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 659,
+       "page": 659,
+       "chapter": "Renal and genitourinary"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "\"Most common cause\" questions: **pre-renal** AKI is the commonest type overall, while **ATN** is the commonest cause of _intrinsic_ (parenchymal) AKI — and untreated pre-renal AKI is itself a common route into ATN.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 653,
+       "page": 653,
+       "chapter": "Renal and genitourinary"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1402,
+       "page": 1389,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 433,
+       "page": 411,
+       "chapter": "Nephrology and urology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 433,
+      "page": 411,
+      "chapter": "Nephrology and urology",
+      "figure": "Fig. 15.18"
+     },
+     "note": "Look at: the causes of AKI laid out as pre-renal, renal and post-renal — a ready-made classification answer."
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.s3",
+   "title": "Pathophysiology of the common causes",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Pre-renal AKI",
+     "items": [
+      "**Autoregulation** keeps GFR near normal across a wide range of perfusion pressures: **prostaglandins dilate the afferent arteriole** and **angiotensin II constricts the efferent arteriole**.",
+      "When perfusion falls beyond what autoregulation can cover, **GFR falls**.",
+      "The tubules are still healthy, so they **concentrate urine and hold on to sodium and water** (low urine sodium, high osmolality) and reabsorb urea, so the **urea:creatinine ratio rises**.",
+      "Corrected early, it **fully reverses**; left uncorrected it progresses to **ischaemic ATN**."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1401,
+       "page": 1388,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1402,
+       "page": 1389,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 655,
+       "page": 655,
+       "chapter": "Renal and genitourinary"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 433,
+       "page": 411,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 435,
+       "page": 413,
+       "chapter": "Nephrology and urology"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Pre-renal AKI without hypotension:** NSAIDs remove the prostaglandin-driven **afferent dilatation**, and ACE inhibitors/ARBs remove the angiotensin II–driven **efferent constriction**. Either can drop glomerular pressure — and GFR — sharply in someone whose renal perfusion is already marginal, classically **bilateral renal artery stenosis** or **volume depletion**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 435,
+       "page": 413,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 655,
+       "page": 655,
+       "chapter": "Renal and genitourinary"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Acute tubular necrosis (ATN)",
+     "items": [
+      "**Vasoconstriction within the kidney** (endothelin, adenosine, thromboxane A2) with **blunted vasodilator responses** (nitric oxide, PGE2) → tubular hypoxia.",
+      "**ATP depletion** in tubular cells → death by necrosis or apoptosis.",
+      "**Dead and detached cells form casts** that block tubules; filtrate **leaks back** across the damaged epithelium.",
+      "Histology: focal **breaks in tubular basement membrane**, interstitial oedema, **loss of the proximal brush border** and cells shed into the lumen."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1402,
+       "page": 1389,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1403,
+       "page": 1390,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 433,
+       "page": 411,
+       "chapter": "Nephrology and urology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "ATN is reversible because **tubular cells regenerate** (growth factors such as IGF-1, EGF and HGF), so function typically returns in **7–21 days**. **Cortical necrosis** after prolonged cortical ischaemia (notably **HUS** and **obstetric complications**) heals by scarring and is **irreversible**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1403,
+       "page": 1390,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1404,
+       "page": 1391,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 268,
+       "page": 268,
+       "chapter": "Renal"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Mechanisms of other common causes",
+     "columns": [
+      "Cause",
+      "Mechanism",
+      "Key point"
+     ],
+     "rows": [
+      [
+       "Post-renal obstruction",
+       "Back-pressure raises intratubular/intraluminal pressure → GFR falls; if unrelieved, thromboxane A2 and angiotensin II cut renal blood flow",
+       "Recovery depends on how long it lasted and the pre-morbid GFR; prolonged obstruction causes chronic damage"
+      ],
+      [
+       "Rhabdomyolysis",
+       "Myoglobin from damaged muscle is a **direct tubular toxin** and also obstructs tubules",
+       "CK massively raised; K⁺, phosphate, lactate and urate rise fast; calcium falls"
+      ],
+      [
+       "Myeloma cast nephropathy",
+       "Free light chains bind **Tamm–Horsfall protein** and precipitate in tubules",
+       "AKI with little or no proteinuria"
+      ],
+      [
+       "Hepatorenal syndrome",
+       "Intense **renal vasoconstriction**; kidneys histologically normal",
+       "Only after portal hypertension with ascites; patient not hypovolaemic; recovers after liver transplant"
+      ],
+      [
+       "Contrast nephropathy",
+       "Renal vasoconstriction plus direct tubular toxicity; dose-dependent",
+       "Higher risk with large-volume studies (angiography)"
+      ],
+      [
+       "Cardiorenal syndrome",
+       "Low cardiac output, **renal venous congestion** and RAAS activation",
+       "Oliguric AKI in turn worsens heart failure"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 433,
+       "page": 411,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1404,
+       "page": 1391,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 658,
+       "page": 658,
+       "chapter": "Renal and genitourinary"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 432,
+       "page": 410,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1405,
+       "page": 1392,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 301,
+       "page": 301,
+       "chapter": "Nephrology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 435,
+      "page": 413,
+      "chapter": "Nephrology and urology",
+      "figure": "Fig. 15.19"
+     },
+     "note": "Look at: afferent arteriole held open by prostaglandins (blocked by NSAIDs) and efferent arteriole tightened by angiotensin II (blocked by ACE inhibitors/ARBs)."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1401,
+      "page": 1388,
+      "chapter": "Kidney and urinary tract disease",
+      "figure": "Fig. 36.44"
+     },
+     "note": "Look at: how reduced perfusion switches on intrarenal renin–angiotensin, constricting the efferent arteriole to restore glomerular pressure."
+    },
+    {
+     "type": "pitfall",
+     "text": "The arteriole matters: **NSAIDs act on the afferent side**, **ACE inhibitors/ARBs on the efferent side**. Swapping them is a common error in mechanism questions.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 435,
+       "page": 413,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 655,
+       "page": 655,
+       "chapter": "Renal and genitourinary"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.s4",
+   "title": "Clinical manifestations",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Early AKI is often **silent** and found on routine bloods. Urine output may be **oliguric, anuric or normal** — severe AKI can occur with a normal urine volume (non-oliguric AKI, usually a milder insult). **Weight gain and oedema** from salt and water retention are the commonest signs.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 427,
+       "page": 390,
+       "chapter": "Renal disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 653,
+       "page": 653,
+       "chapter": "Renal and genitourinary"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1403,
+       "page": 1390,
+       "chapter": "Kidney and urinary tract disease"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Clinical clues to the type of AKI",
+     "columns": [
+      "Type",
+      "History",
+      "Examination"
+     ],
+     "rows": [
+      [
+       "Pre-renal",
+       "Vomiting, diarrhoea, bleeding, burns; diuretics, ACE inhibitors, NSAIDs; heart or liver failure",
+       "Tachycardia, low BP or **postural fall > 20/10 mmHg**, slow capillary refill, dry mucosa, weight loss, **JVP not visible even lying flat**"
+      ],
+      [
+       "Glomerular / vasculitis",
+       "Weight loss, arthralgia, rash, haemoptysis (pulmonary–renal syndrome)",
+       "Hypertension, oedema, purpuric rash, uveitis"
+      ],
+      [
+       "Acute interstitial nephritis",
+       "A recently started drug (PPI, NSAID, antibiotic)",
+       "Fever, rash; peripheral eosinophilia"
+      ],
+      [
+       "Cholesterol emboli",
+       "Recent angiography/vascular surgery, anticoagulation or thrombolysis in an arteriopath",
+       "**Livedo reticularis**, ischaemic toes; sometimes eosinophilia"
+      ],
+      [
+       "Rhabdomyolysis",
+       "Trauma, long lie, seizures, extreme exercise, statins",
+       "Tense, \"woody-hard\" muscle compartments; dipstick positive for blood but no red cells on microscopy"
+      ],
+      [
+       "Post-renal",
+       "Prostatic symptoms, pelvic cancer, retroperitoneal fibrosis; retention after general anaesthesia",
+       "**Palpable bladder**, enlarged prostate on PR, pelvic mass; loin pain if ureteric"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 433,
+       "page": 411,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 434,
+       "page": 412,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 431,
+       "page": 409,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1404,
+       "page": 1391,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 413,
+       "page": 391,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 658,
+       "page": 658,
+       "chapter": "Renal and genitourinary"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Uraemic and other features as AKI worsens",
+     "items": [
+      "Weakness, anorexia, nausea and vomiting, then confusion, seizures and coma.",
+      "Pruritus and easy bruising (platelet dysfunction).",
+      "Breathlessness from **pulmonary oedema** (fluid overload) and anaemia.",
+      "**Pericarditis**, sometimes with effusion and tamponade, in severe untreated uraemia."
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 427,
+       "page": 390,
+       "chapter": "Renal disease"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Phases of ATN",
+     "columns": [
+      "Phase",
+      "What happens"
+     ],
+     "rows": [
+      [
+       "Oliguric",
+       "Rising urea and creatinine; averages about 10–14 days in Step-Up (recovery overall 7–21 days)"
+      ],
+      [
+       "Diuretic",
+       "Starts once output exceeds ~500 mL/day; GFR returns before tubular reabsorption, retained salt, water and solutes are cleared → large volumes of dilute urine for a few days"
+      ],
+      [
+       "Recovery",
+       "Output and biochemistry return towards normal"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 660,
+       "page": 660,
+       "chapter": "Renal and genitourinary"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1403,
+       "page": 1390,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1404,
+       "page": 1391,
+       "chapter": "Kidney and urinary tract disease"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Suspect **drug-induced interstitial nephritis** when a previously well patient’s renal function falls **shortly after a new drug** is started — PPIs, NSAIDs and antibiotics are the usual culprits.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 435,
+       "page": 413,
+       "chapter": "Nephrology and urology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 431,
+      "page": 409,
+      "chapter": "Nephrology and urology",
+      "figure": "Fig. 15.17"
+     },
+     "note": "Look at: the foot after atheroembolism following coronary stenting — patchy ischaemia of the toes and livedo."
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.s5",
+   "title": "Investigations and diagnosis",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Investigation answers four questions: **Is it AKI** (compare with previous creatinine)? **Pre-renal, renal or post-renal?** **Acute or acute-on-chronic?** And **are there dangerous complications** (potassium, acidosis, fluid)? Look for an insult in the **24–48 h before** the creatinine rose: drugs, contrast, poor intake, hypotension, sepsis, trauma/myalgia, urinary retention.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1403,
+       "page": 1390,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 433,
+       "page": 411,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 298,
+       "page": 298,
+       "chapter": "Nephrology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Urine indices: pre-renal versus ATN",
+     "columns": [
+      "Test",
+      "Pre-renal",
+      "ATN / intrinsic"
+     ],
+     "rows": [
+      [
+       "Urine sodium (Davidson)",
+       "< 20 mmol/L",
+       "> 40 mmol/L"
+      ],
+      [
+       "Fractional excretion of Na (FENa)",
+       "< 1%",
+       "≥ 1%"
+      ],
+      [
+       "Specific gravity",
+       "> 1.020",
+       "< 1.010"
+      ],
+      [
+       "Urine osmolality",
+       "> 500 mOsm/kg",
+       "< 350 mOsm/kg"
+      ],
+      [
+       "Urea : creatinine ratio",
+       "High (BUN:Cr > 20)",
+       "Not raised (< 20)"
+      ],
+      [
+       "Sediment",
+       "Bland; hyaline casts",
+       "Dense granular **\"muddy brown\" casts**, epithelial (tubular) cell casts"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 434,
+       "page": 412,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1402,
+       "page": 1389,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 425,
+       "page": 388,
+       "chapter": "Renal disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 298,
+       "page": 298,
+       "chapter": "Nephrology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 299,
+       "page": 299,
+       "chapter": "Nephrology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 657,
+       "page": 657,
+       "chapter": "Renal and genitourinary"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Cut-offs differ by book: Kumar gives urine Na **< 10 vs > 20 mmol/L**, Pocket Medicine puts the ATN FENa at **> 2%** and Step-Up at **> 2–3%**. Follow **Davidson: Na < 20 vs > 40 mmol/L, FENa < 1% vs ≥ 1%**. No single index is reliable alone, and **diuretics falsely raise urine sodium** — use the **fractional excretion of urea** instead (≤ 35% pre-renal, > 50% ATN).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 434,
+       "page": 412,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1402,
+       "page": 1389,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 298,
+       "page": 298,
+       "chapter": "Nephrology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 299,
+       "page": 299,
+       "chapter": "Nephrology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 662,
+       "page": 662,
+       "chapter": "Renal and genitourinary"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Urine dipstick and microscopy",
+     "columns": [
+      "Finding",
+      "Points to"
+     ],
+     "rows": [
+      [
+       "Hyaline casts, otherwise bland",
+       "Pre-renal AKI"
+      ],
+      [
+       "Muddy brown granular casts",
+       "ATN (pathognomonic)"
+      ],
+      [
+       "Red cell casts, dysmorphic red cells, proteinuria",
+       "Glomerulonephritis"
+      ],
+      [
+       "White cell casts, sterile pyuria, eosinophiluria, little protein",
+       "Acute interstitial nephritis"
+      ],
+      [
+       "Eosinophiluria with livedo after angiography",
+       "Cholesterol emboli"
+      ],
+      [
+       "Crystals",
+       "Crystal nephropathy (drugs, urate, oxalate)"
+      ],
+      [
+       "Dipstick blood positive but no red cells seen",
+       "Myoglobin or free haemoglobin"
+      ],
+      [
+       "Leucocytes + nitrites",
+       "Urinary infection"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 661,
+       "page": 661,
+       "chapter": "Renal and genitourinary"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 434,
+       "page": 412,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 299,
+       "page": 299,
+       "chapter": "Nephrology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 256,
+       "page": 256,
+       "chapter": "Renal"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 268,
+       "page": 268,
+       "chapter": "Renal"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 413,
+       "page": 391,
+       "chapter": "Nephrology and urology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Blood tests",
+     "items": [
+      "Urea, creatinine, **potassium**, bicarbonate, calcium, phosphate, urate, albumin.",
+      "**FBC and film:** anaemia, low platelets and fragmented cells (HUS/TTP); high ESR (myeloma, vasculitis).",
+      "**CK** if rhabdomyolysis is possible; blood cultures; drug levels of nephrotoxins.",
+      "**Selective:** ANCA, anti-GBM, ANA, C3/C4, hepatitis B/C and HIV serology (glomerular causes); serum protein electrophoresis/paraprotein (myeloma)."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 434,
+       "page": 412,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 428,
+       "page": 391,
+       "chapter": "Renal disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1403,
+       "page": 1390,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 661,
+       "page": 661,
+       "chapter": "Renal and genitourinary"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Imaging and biopsy",
+     "items": [
+      "**Renal ultrasound in almost every unexplained AKI** to exclude obstruction: no upper-tract dilatation virtually rules it out; hydronephrosis supports post-renal AKI. Not needed if another cause is already clear.",
+      "**Bladder outflow obstruction** is found by examination and **catheterisation**, which both diagnoses and treats it.",
+      "**Isotope renogram** if ultrasound is inconclusive; Doppler/CT angiography for suspected vascular causes.",
+      "**Renal biopsy** for unexplained AKI with **normal-sized kidneys** or suspected glomerulonephritis.",
+      "Biopsy contraindications: coagulopathy/thrombocytopenia, **uncontrolled hypertension**, **kidneys < 60% of predicted size**, solitary native kidney."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1402,
+       "page": 1389,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1403,
+       "page": 1390,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 256,
+       "page": 256,
+       "chapter": "Renal"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 434,
+       "page": 412,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 428,
+       "page": 391,
+       "chapter": "Renal disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 413,
+       "page": 391,
+       "chapter": "Nephrology and urology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Acute or chronic?",
+     "columns": [
+      "Favours CKD",
+      "Favours AKI"
+     ],
+     "rows": [
+      [
+       "**Small, echogenic (scarred) kidneys** on ultrasound",
+       "Normal-sized kidneys"
+      ],
+      [
+       "Long history of nocturia; previously raised creatinine",
+       "Recent normal creatinine; change over days"
+      ],
+      [
+       "Anaemia of chronic disease, hyperparathyroidism, renal osteodystrophy; broad casts",
+       "Recovery of function over time"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1403,
+       "page": 1390,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 666,
+       "page": 666,
+       "chapter": "Renal and genitourinary"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Normal-sized kidneys do not exclude CKD** — diabetes and amyloidosis keep kidneys large. Hyperkalaemia, acidosis, hyperphosphataemia and anaemia can occur in **both** AKI and CKD.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1403,
+       "page": 1390,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 666,
+       "page": 666,
+       "chapter": "Renal and genitourinary"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Urea and creatinine can move for non-renal reasons. **Urea rises** with **upper GI bleeding**, corticosteroids and tetracycline. **Creatinine rises** with large muscle mass, red meat, rhabdomyolysis, and drugs that **block tubular creatinine secretion** (trimethoprim, cimetidine).",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1400,
+       "page": 1387,
+       "chapter": "Kidney and urinary tract disease"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Creatinine is a **late** marker of AKI. Newer urinary/plasma biomarkers — **KIM-1, NGAL, IGFBP7 and TIMP-2** — rise within a few hours of injury.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1403,
+       "page": 1390,
+       "chapter": "Kidney and urinary tract disease"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "stepup6",
+      "pdfPage": 663,
+      "page": 663,
+      "chapter": "Renal and genitourinary",
+      "figure": "Figure 7-2"
+     },
+     "note": "Look at: Step-Up's flowchart for evaluating AKI — use it to rehearse the order of the work-up for pre-renal, intrinsic and post-renal causes."
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.s6",
+   "title": "Management of common causes",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Measures for every patient with AKI",
+     "items": [
+      "**Treat the cause** and assess **volume status** — it decides the fluid prescription.",
+      "**Stop nephrotoxins and vasoactive drugs** (NSAIDs, ACE inhibitors/ARBs, other antihypertensives that lower filtration pressure); adjust doses of renally cleared drugs; stop non-essential drugs.",
+      "Monitor **fluid balance, daily weight** and daily biochemistry.",
+      "Nutrition: adequate energy, **avoid a high protein load**; restrict sodium and potassium; enteral feeding preferred.",
+      "**PPI or H2-blocker** to reduce upper GI bleeding; screen for and promptly treat **infection**.",
+      "**Drain any obstruction** of the lower or upper urinary tract."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 435,
+       "page": 413,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 436,
+       "page": 414,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 256,
+       "page": 256,
+       "chapter": "Renal"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 429,
+       "page": 392,
+       "chapter": "Renal disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1403,
+       "page": 1390,
+       "chapter": "Kidney and urinary tract disease"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Fluid management",
+     "columns": [
+      "Situation",
+      "Approach"
+     ],
+     "rows": [
+      [
+       "Hypovolaemic",
+       "Replace with IV fluid or blood; if volume status is uncertain, give a **250 mL crystalloid challenge** and watch heart rate, BP and urine output. Avoid over-filling (pulmonary oedema)."
+      ],
+      [
+       "Choice of fluid (Davidson)",
+       "**Balanced crystalloids** (Hartmann’s, Plasma-Lyte) are preferable to 0.9% saline when large volumes are needed (less hyperchloraemic acidosis); **avoid hydroxyethyl starch** (more established AKI)."
+      ],
+      [
+       "Euvolaemic",
+       "Give **previous day’s output + ~500 mL** for insensible losses; more if febrile or with diarrhoea/GI losses."
+      ],
+      [
+       "Overloaded",
+       "**High-dose loop diuretic**; if the response is poor, dialysis/haemofiltration."
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 435,
+       "page": 413,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 436,
+       "page": 414,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1402,
+       "page": 1389,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 426,
+       "page": 389,
+       "chapter": "Renal disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 429,
+       "page": 392,
+       "chapter": "Renal disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1404,
+       "page": 1391,
+       "chapter": "Kidney and urinary tract disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Fluid choice is debated: Pocket Medicine finds **no clear benefit** of balanced solutions over saline, and Step-Up prefers saline unless the patient is acidaemic. Davidson favours balanced crystalloids for **large-volume** resuscitation while admitting the outcome effect is uncertain — use Davidson’s answer.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 435,
+       "page": 413,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 299,
+       "page": 299,
+       "chapter": "Nephrology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 665,
+       "page": 665,
+       "chapter": "Renal and genitourinary"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Emergency hyperkalaemia (K⁺ > 6.5 mmol/L)",
+     "items": [
+      "**IV calcium gluconate** to stabilise the myocardium.",
+      "**Insulin with glucose** (± nebulised β2-agonist) to shift K⁺ into cells; **sodium bicarbonate** if acidotic.",
+      "These are **holding measures**: definitive removal of K⁺ needs **dialysis** or recovery of renal function.",
+      "Davidson suggests ~100 mmol sodium bicarbonate for acidosis when **pH < 7.0** (H⁺ > 100 nmol/L), if volume status allows."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 435,
+       "page": 413,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 385,
+       "page": 363
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "IV bicarbonate lowers K⁺, but its **sodium load can tip an overloaded patient into pulmonary oedema**, and correcting acidosis quickly in a **hypocalcaemic** patient lowers ionised calcium and can cause **tetany**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1403,
+       "page": 1390,
+       "chapter": "Kidney and urinary tract disease"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Cause-specific management: pre-renal, post-renal, ATN and AIN",
+     "columns": [
+      "Cause",
+      "Key steps"
+     ],
+     "rows": [
+      [
+       "Pre-renal",
+       "Restore BP and euvolaemia with fluid (not if oedematous/ascitic); stop ACE inhibitors and NSAIDs"
+      ],
+      [
+       "Post-renal",
+       "**Urethral catheter** for bladder outflow obstruction; **ureteric stent or percutaneous nephrostomy** for ureteric obstruction; watch for **post-obstructive diuresis**"
+      ],
+      [
+       "ATN",
+       "Supportive care and removal of the insult; recovery usually in 1–3 weeks"
+      ],
+      [
+       "Drug-induced AIN",
+       "**Stop the culprit** promptly; early steroids are possible but of uncertain benefit"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 665,
+       "page": 665,
+       "chapter": "Renal and genitourinary"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 436,
+       "page": 414,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 667,
+       "page": 667,
+       "chapter": "Renal and genitourinary"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 666,
+       "page": 666,
+       "chapter": "Renal and genitourinary"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 300,
+       "page": 300,
+       "chapter": "Nephrology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 301,
+       "page": 301,
+       "chapter": "Nephrology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Cause-specific management: other common causes",
+     "columns": [
+      "Cause",
+      "Key steps"
+     ],
+     "rows": [
+      [
+       "Rhabdomyolysis",
+       "**Early, vigorous IV fluid** (injured muscle sequesters fluid); check for compartment syndrome needing **fasciotomy**; urinary alkalinisation with bicarbonate may limit injury"
+      ],
+      [
+       "Tumour lysis",
+       "Pre-hydrate for high urine flow; **allopurinol** 100–200 mg three times daily for 5 days before and during chemotherapy; **rasburicase** lowers urate rapidly; dialysis if oliguric"
+      ],
+      [
+       "Hepatorenal syndrome",
+       "Albumin plus a vasoconstrictor (terlipressin or noradrenaline); liver transplant"
+      ],
+      [
+       "Cardiorenal syndrome",
+       "IV loop diuretics (bolus or infusion, high or low dose — no difference)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1404,
+       "page": 1391,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1400,
+       "page": 1387,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1405,
+       "page": 1392,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 301,
+       "page": 301,
+       "chapter": "Nephrology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Contrast-associated AKI",
+     "items": [
+      "**Risk factors:** hypovolaemia, advanced CKD, cardiac failure, **diabetic nephropathy**, nephrotoxins (ACE inhibitors, NSAIDs) and a paraprotein. Diabetes **without** nephropathy is not a risk factor.",
+      "**Time course:** creatinine rises **24–48 h** after contrast, peaks at **3–5 days** and resolves in **7–10 days**.",
+      "**Prevention:** smallest dose; iso- or low-osmolar agent; **IV isotonic fluid** before and after (e.g. 0.9% saline 1 mL/kg/h for 12 h before and several hours after when eGFR < 60); hold NSAIDs, ACE inhibitors/ARBs and diuretics.",
+      "**Metformin** risks lactic acidosis: stop it if creatinine is > 130 µmol/L until function is back to baseline.",
+      "N-acetylcysteine is of borderline benefit at best; dopamine, theophylline and prophylactic haemodialysis **do not help**."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1405,
+       "page": 1392,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 301,
+       "page": 301,
+       "chapter": "Nephrology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 428,
+       "page": 391,
+       "chapter": "Renal disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "There is **no trial support for mannitol, furosemide or \"renal-dose\" dopamine** in ATN. Turning oliguric into non-oliguric AKI does not cut mortality, and diuretics do not prevent AKI — use loop diuretics only to treat **fluid overload**. (Step-Up still lists mannitol for rhabdomyolysis; Kumar and Pocket Medicine do not support it.)",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1403,
+       "page": 1390,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1404,
+       "page": 1391,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 300,
+       "page": 300,
+       "chapter": "Nephrology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 658,
+       "page": 658,
+       "chapter": "Renal and genitourinary"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.s7",
+   "title": "Complications, recovery and dialysis",
+   "objectiveIdx": [
+    7,
+    8
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Complications of AKI",
+     "columns": [
+      "Complication",
+      "Why / key point"
+     ],
+     "rows": [
+      [
+       "**Hyperkalaemia**",
+       "Common, worst with rhabdomyolysis, burns, haemolysis or acidosis; risk of fatal arrhythmia"
+      ],
+      [
+       "**Metabolic acidosis**",
+       "High anion gap; develops unless H⁺ is lost by vomiting"
+      ],
+      [
+       "**Pulmonary oedema**",
+       "Excess fluid relative to urine output plus leaky pulmonary capillaries"
+      ],
+      [
+       "Dilutional hyponatraemia",
+       "Free drinking or IV 5% glucose despite oliguria"
+      ],
+      [
+       "Hypocalcaemia / hyperphosphataemia",
+       "Modest hypocalcaemia (less activated vitamin D); phosphate usually high"
+      ],
+      [
+       "**Infection**",
+       "Humoral and cellular immunity depressed; affects 50–60% and causes about **75% of deaths**"
+      ],
+      [
+       "Uraemia",
+       "Encephalopathy, **pericarditis** (± tamponade), platelet dysfunction and bleeding"
+      ],
+      [
+       "Long term",
+       "Progression to CKD (acute-on-chronic) or, rarely, ESRD"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 435,
+       "page": 413,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 436,
+       "page": 414,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 427,
+       "page": 390,
+       "chapter": "Renal disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 663,
+       "page": 663,
+       "chapter": "Renal and genitourinary"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 664,
+       "page": 664,
+       "chapter": "Renal and genitourinary"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 653,
+       "page": 653,
+       "chapter": "Renal and genitourinary"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In the **early** phase the main killers are **hyperkalaemic cardiac arrest** and **pulmonary oedema**; later, **infection** dominates.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 664,
+       "page": 664,
+       "chapter": "Renal and genitourinary"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 653,
+       "page": 653,
+       "chapter": "Renal and genitourinary"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Recovery",
+     "items": [
+      "Most patients recover once the insult resolves; ATN typically recovers in **7–21 days**, later if sepsis continues.",
+      "Recovery is heralded by returning urine output, often a **diuretic phase** for a few days (GFR recovers ahead of tubular reabsorption; loss of the medullary concentration gradient) — needs sodium and potassium replacement.",
+      "Recovery may be incomplete with **pre-existing CKD** or a **prolonged, severe insult**; cortical necrosis does not recover.",
+      "An episode of AKI **raises the risk of later CKD progression**, even after apparent recovery."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 436,
+       "page": 414,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1403,
+       "page": 1390,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1404,
+       "page": 1391,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 429,
+       "page": 392,
+       "chapter": "Renal disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 300,
+       "page": 300,
+       "chapter": "Nephrology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Indications for renal replacement therapy in AKI",
+     "columns": [
+      "Indication",
+      "Example / threshold"
+     ],
+     "rows": [
+      [
+       "Fluid overload",
+       "Acute pulmonary oedema not responding to diuretics"
+      ],
+      [
+       "Hyperkalaemia",
+       "K⁺ generally > 6.5 mmol/L **with ECG changes** (especially broad QRS), or not controlled medically"
+      ],
+      [
+       "Metabolic acidosis",
+       "Severe: **pH < 7.1** (H⁺ > 79 nmol/L)"
+      ],
+      [
+       "Uraemia",
+       "**Pericarditis**, **encephalopathy**, uraemic bleeding"
+      ],
+      [
+       "Intoxication",
+       "Removal of a dialysable drug/toxin: lithium, salicylate, gentamicin, methanol, ethylene glycol, metformin, valproate, theophylline"
+      ],
+      [
+       "Rising biochemistry",
+       "Severe or rising derangement in an oliguric or hypercatabolic patient (anuria strengthens the case)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 444,
+       "page": 422,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1404,
+       "page": 1391,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 430,
+       "page": 393,
+       "chapter": "Renal disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 300,
+       "page": 300,
+       "chapter": "Nephrology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Mnemonic **AEIOU**: **A**cidosis, **E**lectrolytes (K⁺), **I**ntoxications, volume **O**verload, **U**raemia.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 665,
+       "page": 665,
+       "chapter": "Renal and genitourinary"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Timing and mode of RRT",
+     "items": [
+      "**No specific urea or creatinine cut-off** triggers RRT, and earlier versus later starts show no outcome difference; up to 30% of early starts proved unnecessary.",
+      "In stage 3 AKI without an urgent indication it is reasonable to wait, unless oliguria lasts **more than 72 h**.",
+      "Modes: **intermittent haemodialysis** or **continuous RRT**; continuous therapy such as **CVVHF** is more widely used in haemodynamically unstable ITU patients; **peritoneal dialysis** where haemodialysis is unavailable.",
+      "Higher (augmented) RRT doses give no survival benefit, and dialysis **does not speed recovery** — it is a bridge while the cause is treated."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 436,
+       "page": 414,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1404,
+       "page": 1391,
+       "chapter": "Kidney and urinary tract disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 300,
+       "page": 300,
+       "chapter": "Nephrology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 428,
+       "page": 391,
+       "chapter": "Renal disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Two acidosis numbers appear in Davidson: consider **bicarbonate when pH < 7.0**, but **pH < 7.1** is listed as a dialysis indication (as in K&C Essentials). Step-Up instead treats with bicarbonate once serum bicarbonate falls **below 16 mEq/L**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 435,
+       "page": 413,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 444,
+       "page": 422,
+       "chapter": "Nephrology and urology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 430,
+       "page": 393,
+       "chapter": "Renal disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 663,
+       "page": 663,
+       "chapter": "Renal and genitourinary"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 435,
+      "page": 413,
+      "chapter": "Nephrology and urology",
+      "figure": "Fig. 15.20"
+     },
+     "note": "Look at: pulmonary oedema in AKI — looks like left ventricular failure but the heart is usually normal-sized and BP is often high."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 436,
+      "page": 414,
+      "chapter": "Nephrology and urology",
+      "figure": "Fig. 15.21"
+     },
+     "note": "Look at: three outcome curves after AKI — full recovery, acute-on-chronic decline into CKD, or (rarely) ESRD."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "neph-aki.c1",
+   "sectionId": "neph-aki.s1",
+   "front": "Urine volume that defines **oliguria** and **anuria**?",
+   "back": "Oliguria < 400 mL/day; anuria < 100 mL/day.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 413,
+     "page": 391,
+     "chapter": "Nephrology and urology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c2",
+   "sectionId": "neph-aki.s1",
+   "front": "KDIGO criteria for diagnosing AKI (any one)?",
+   "back": "Creatinine up ≥ 0.3 mg/dL (≈ 26.5 µmol/L) in 48 h; or ≥ 1.5 × baseline within 7 days; or urine output < 0.5 mL/kg/h for ≥ 6 h.",
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 652,
+     "page": 652,
+     "chapter": "Renal and genitourinary"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1401,
+     "page": 1388,
+     "chapter": "Kidney and urinary tract disease"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c3",
+   "sectionId": "neph-aki.s1",
+   "front": "KDIGO stage 3 criteria?",
+   "back": "Creatinine ≥ 3 × baseline (or > 4 mg/dL ≈ 354 µmol/L), or RRT started, or urine < 0.3 mL/kg/h for 24 h, or anuria ≥ 12 h.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1401,
+     "page": 1388,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 297,
+     "page": 297,
+     "chapter": "Nephrology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c4",
+   "sectionId": "neph-aki.s1",
+   "front": "Why is eGFR unhelpful in AKI?",
+   "back": "It needs a stable (steady-state) creatinine over days; in AKI creatinine is still changing.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 409,
+     "page": 387,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 298,
+     "page": 298,
+     "chapter": "Nephrology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c5",
+   "sectionId": "neph-aki.s2",
+   "front": "Three aetiological groups of AKI and the commonest?",
+   "back": "Pre-renal (commonest, ~60–70%), renal/intrinsic (~25–40%), post-renal (~5–10%).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 433,
+     "page": 411,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 653,
+     "page": 653,
+     "chapter": "Renal and genitourinary"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c6",
+   "sectionId": "neph-aki.s2",
+   "front": "Commonest cause of intrinsic (parenchymal) AKI?",
+   "back": "Acute tubular necrosis — 80–90% of cases.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1402,
+     "page": 1389,
+     "chapter": "Kidney and urinary tract disease"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c7",
+   "sectionId": "neph-aki.s2",
+   "front": "Three classic drug causes of acute interstitial nephritis?",
+   "back": "PPIs, penicillins (β-lactams) and NSAIDs.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 434,
+     "page": 412,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 300,
+     "page": 300,
+     "chapter": "Nephrology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c8",
+   "sectionId": "neph-aki.s3",
+   "front": "How do NSAIDs and ACE inhibitors cause pre-renal AKI?",
+   "back": "NSAIDs block prostaglandin dilatation of the **afferent** arteriole; ACE inhibitors/ARBs block angiotensin II constriction of the **efferent** arteriole.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 435,
+     "page": 413,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 655,
+     "page": 655,
+     "chapter": "Renal and genitourinary"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c9",
+   "sectionId": "neph-aki.s3",
+   "front": "Why is ATN reversible, and over what time?",
+   "back": "Tubular cells regenerate; function usually returns in 7–21 days (delayed by ongoing sepsis).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1403,
+     "page": 1390,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 268,
+     "page": 268,
+     "chapter": "Renal"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c10",
+   "sectionId": "neph-aki.s3",
+   "front": "Mechanism of myeloma cast nephropathy?",
+   "back": "Light chains bind Tamm–Horsfall protein and precipitate as tubular casts; little or no proteinuria.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 432,
+     "page": 410,
+     "chapter": "Nephrology and urology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c11",
+   "sectionId": "neph-aki.s4",
+   "front": "Bedside signs of pre-renal (hypovolaemic) AKI?",
+   "back": "Tachycardia, hypotension/postural drop > 20/10 mmHg, delayed capillary refill, dry mucosa, JVP not visible lying flat.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 433,
+     "page": 411,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 434,
+     "page": 412,
+     "chapter": "Nephrology and urology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c12",
+   "sectionId": "neph-aki.s4",
+   "front": "Clues to cholesterol emboli as the cause of AKI?",
+   "back": "Recent angiography or anticoagulation in an arteriopath; livedo reticularis, ischaemic toes, eosinophilia.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 434,
+     "page": 412,
+     "chapter": "Nephrology and urology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c13",
+   "sectionId": "neph-aki.s5",
+   "front": "Davidson urine Na and FENa: pre-renal vs ATN?",
+   "back": "Pre-renal: Na < 20 mmol/L, FENa < 1%. ATN: Na > 40 mmol/L, FENa ≥ 1%.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 434,
+     "page": 412,
+     "chapter": "Nephrology and urology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c14",
+   "sectionId": "neph-aki.s5",
+   "front": "Urine sediment of ATN vs glomerulonephritis?",
+   "back": "ATN: muddy brown granular casts. GN: red cell casts and dysmorphic red cells.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 434,
+     "page": 412,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 268,
+     "page": 268,
+     "chapter": "Renal"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c15",
+   "sectionId": "neph-aki.s5",
+   "front": "Ultrasound features suggesting chronic disease — and the trap?",
+   "back": "Small, echogenic kidneys = CKD. Trap: diabetes and amyloidosis can give normal-sized kidneys in CKD.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1403,
+     "page": 1390,
+     "chapter": "Kidney and urinary tract disease"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c16",
+   "sectionId": "neph-aki.s6",
+   "front": "Daily fluid prescription once the patient is euvolaemic?",
+   "back": "Previous day’s urine output + about 500 mL for insensible losses (more if fever or diarrhoea).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 436,
+     "page": 414,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 429,
+     "page": 392,
+     "chapter": "Renal disease"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c17",
+   "sectionId": "neph-aki.s6",
+   "front": "First-line treatment of rhabdomyolysis-induced AKI?",
+   "back": "Early vigorous IV fluid; look for compartment syndrome (fasciotomy); bicarbonate may help by alkalinising urine.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1404,
+     "page": 1391,
+     "chapter": "Kidney and urinary tract disease"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c18",
+   "sectionId": "neph-aki.s6",
+   "front": "Measures that do NOT prevent contrast nephropathy?",
+   "back": "Dopamine, theophylline and prophylactic haemodialysis; N-acetylcysteine is borderline at best.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1405,
+     "page": 1392,
+     "chapter": "Kidney and urinary tract disease"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c19",
+   "sectionId": "neph-aki.s7",
+   "front": "Davidson dialysis indications in AKI?",
+   "back": "Pulmonary oedema; K⁺ > 6.5 mmol/L with ECG changes; uraemic pericarditis or encephalopathy; acidosis pH < 7.1.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 444,
+     "page": 422,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 436,
+     "page": 414,
+     "chapter": "Nephrology and urology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c20",
+   "sectionId": "neph-aki.s7",
+   "front": "Commonest cause of death in AKI?",
+   "back": "Infection (about 75% of deaths); early on, hyperkalaemic arrest and pulmonary oedema.",
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 653,
+     "page": 653,
+     "chapter": "Renal and genitourinary"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 664,
+     "page": 664,
+     "chapter": "Renal and genitourinary"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.c21",
+   "sectionId": "neph-aki.s7",
+   "front": "Why does a diuretic phase follow ATN?",
+   "back": "GFR recovers before tubular reabsorption of Na, K and water — needs fluid and electrolyte replacement for a few days.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1404,
+     "page": 1391,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 436,
+     "page": 414,
+     "chapter": "Nephrology and urology"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "neph-aki.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 72-year-old woman is on day 3 after a hip replacement. Her creatinine was 80 µmol/L at a clinic visit 3 weeks ago and is now 172 µmol/L. Over the last 8 hours her urine output has averaged 0.4 mL/kg/h.",
+   "leadIn": "Which KDIGO stage of AKI does she meet?",
+   "options": [
+    "Criteria for AKI are not met",
+    "KDIGO stage 1",
+    "KDIGO stage 2",
+    "KDIGO stage 3",
+    "CKD stage G3 with no acute component"
+   ],
+   "answer": 2,
+   "explanation": "Creatinine has risen to about 2.15 × baseline, which is the **stage 2** band (2.0–2.9 ×). The urine output (< 0.5 mL/kg/h for 8 h, i.e. under 12 h) only reaches stage 1, but **only one criterion is needed** and the patient is staged by the criterion that puts her highest.",
+   "whyNot": [
+    "A rise of 92 µmol/L and more than a doubling clearly meet the diagnostic criteria.",
+    "The urine output fits stage 1, but the creatinine rise of > 2 × baseline already qualifies for stage 2.",
+    "",
+    "Stage 3 needs ≥ 3 × baseline, RRT, < 0.3 mL/kg/h for 24 h or anuria for 12 h.",
+    "She had a normal creatinine 3 weeks ago and the rise has happened over days — this is acute, and eGFR cannot be used to stage CKD while creatinine is changing."
+   ],
+   "studyRef": {
+    "sectionId": "neph-aki.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1401,
+     "page": 1388,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 297,
+     "page": 297,
+     "chapter": "Nephrology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 424,
+     "page": 387,
+     "chapter": "Renal disease"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 58-year-old man is admitted with pneumonia and sepsis. His creatinine has gone from 90 to 160 µmol/L over 36 hours. The laboratory report attaches an eGFR of 41 mL/min/1.73 m².",
+   "leadIn": "What is the best interpretation of this eGFR value?",
+   "options": [
+    "It reliably places him in CKD category G3b",
+    "It is not valid because creatinine is not in a steady state",
+    "It becomes valid once corrected for body surface area",
+    "It is valid as long as urine output is preserved",
+    "It needs multiplying by 1.21 before it can be used"
+   ],
+   "answer": 1,
+   "explanation": "Creatinine-based eGFR equations assume creatinine has been **stable over days**. In AKI creatinine is still climbing, so the eGFR figure does not reflect the real (and changing) GFR — stage AKI with KDIGO criteria instead.",
+   "whyNot": [
+    "CKD categories need persistent abnormality over months and a stable creatinine.",
+    "",
+    "The calculation is already normalised to 1.73 m²; the problem is the unstable creatinine.",
+    "Urine output does not rescue an eGFR calculated from a non-steady-state creatinine.",
+    "An ethnicity correction does not fix the fundamental steady-state problem."
+   ],
+   "studyRef": {
+    "sectionId": "neph-aki.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 409,
+     "page": 387,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 298,
+     "page": 298,
+     "chapter": "Nephrology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q3",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Causes of acute kidney injury",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Haemorrhage with hypovolaemia",
+    "Septic shock",
+    "Aminoglycoside-induced acute tubular necrosis",
+    "Drug-induced acute interstitial nephritis",
+    "Shiga toxin–associated haemolytic uraemic syndrome",
+    "Benign prostatic enlargement",
+    "Retroperitoneal fibrosis",
+    "Tumour lysis (urate) nephropathy",
+    "Ethylene glycol (oxalate) crystal nephropathy",
+    "Cholesterol embolisation",
+    "Bilateral renal artery stenosis unmasked by an ACE inhibitor"
+   ],
+   "items": [
+    {
+     "stem": "A 4-year-old boy had bloody diarrhoea starting 6 days after a visit to a petting farm. He is now pale and passing very little urine. Platelets are 42 × 10⁹/L and the blood film shows fragmented red cells.",
+     "answer": 4,
+     "explanation": "Bloody diarrhoea followed by **haemolysis with fragmented cells, low platelets and AKI** in a child is Shiga toxin (_E. coli_ O157) HUS — the commonest cause of AKI in children in developed countries.",
+     "studyRef": {
+      "sectionId": "neph-aki.s2"
+     }
+    },
+    {
+     "stem": "A 19-year-old with a bulky high-grade lymphoma becomes oliguric 2 days after his first cycle of chemotherapy. Potassium and phosphate are high and serum urate is five times the upper limit.",
+     "answer": 7,
+     "explanation": "Rapid tumour cell death releases urate, potassium and phosphate; **urate crystals obstruct the tubules**. The timing after first chemotherapy is the clue.",
+     "studyRef": {
+      "sectionId": "neph-aki.s2"
+     }
+    },
+    {
+     "stem": "A 41-year-old man is brought in drowsy after drinking from an unlabelled bottle in his garage. He has a severe metabolic acidosis with a raised anion gap, and urine microscopy shows many crystals. Next day he is oliguric.",
+     "answer": 8,
+     "explanation": "Two steps: the toxic alcohol (antifreeze) explains the high-anion-gap acidosis, and its metabolite **oxalate** precipitates as crystals in the tubules, causing AKI.",
+     "studyRef": {
+      "sectionId": "neph-aki.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 434,
+     "page": 412,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1405,
+     "page": 1392,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 387,
+     "page": 365
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 70-year-old man with heart failure was started on ramipril 10 days ago. He then had 3 days of diarrhoea. His creatinine has doubled. BP is 118/72 mmHg with no postural drop; urinalysis is bland.",
+   "leadIn": "Which mechanism best explains the fall in GFR?",
+   "options": [
+    "Loss of angiotensin II–mediated efferent arteriolar constriction",
+    "Loss of prostaglandin-mediated afferent arteriolar dilatation",
+    "Direct toxic injury to proximal tubular cells",
+    "Allergic inflammation of the renal interstitium",
+    "Raised intratubular pressure from urinary obstruction"
+   ],
+   "answer": 0,
+   "explanation": "With volume depletion, glomerular pressure depends on **angiotensin II tightening the efferent arteriole**. An ACE inhibitor removes this, so GFR falls even **without systemic hypotension** — a pre-renal mechanism with a bland urine.",
+   "whyNot": [
+    "",
+    "This is how NSAIDs cause pre-renal AKI; he is on an ACE inhibitor.",
+    "Toxic ATN would follow a nephrotoxin and usually gives granular casts.",
+    "Interstitial nephritis gives fever, rash, eosinophilia and white cell casts.",
+    "Nothing suggests obstruction, and urine output is not mentioned as reduced."
+   ],
+   "studyRef": {
+    "sectionId": "neph-aki.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 435,
+     "page": 413,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 655,
+     "page": 655,
+     "chapter": "Renal and genitourinary"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 24-year-old man collapses near the end of a marathon on a hot day. His urine is dark brown; dipstick is strongly positive for blood but microscopy shows no red cells. CK is 85 000 U/L and potassium is 6.0 mmol/L.",
+   "leadIn": "What is the main cause of his tubular injury?",
+   "options": [
+    "Myoglobin acting as a direct tubular toxin",
+    "Immune-complex deposition in the glomeruli",
+    "Light chains precipitating with Tamm–Horsfall protein",
+    "Urate crystals obstructing the collecting ducts",
+    "Intense renal vasoconstriction with histologically normal kidneys"
+   ],
+   "answer": 0,
+   "explanation": "Exertional **rhabdomyolysis**: damaged muscle releases myoglobin (dipstick \"blood\" with no red cells), which is directly toxic to tubules and causes ATN. CK is massively raised and K⁺ climbs fast.",
+   "whyNot": [
+    "",
+    "Glomerulonephritis gives red cells and red cell casts on microscopy.",
+    "Cast nephropathy is a myeloma complication, usually in older patients.",
+    "Urate nephropathy follows tumour lysis; urate rises here but myoglobin is the main toxin.",
+    "This describes hepatorenal syndrome, which needs advanced liver disease."
+   ],
+   "studyRef": {
+    "sectionId": "neph-aki.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1404,
+     "page": 1391,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 413,
+     "page": 391,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 658,
+     "page": 658,
+     "chapter": "Renal and genitourinary"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q6",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Clinical clues to the cause of AKI",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Pre-renal AKI from volume depletion",
+    "Ischaemic acute tubular necrosis",
+    "Drug-induced acute interstitial nephritis",
+    "ANCA-associated vasculitis",
+    "Cholesterol emboli",
+    "Rhabdomyolysis",
+    "Bladder outflow obstruction",
+    "Hepatorenal syndrome",
+    "Malignant hypertension",
+    "Myeloma cast nephropathy"
+   ],
+   "items": [
+    {
+     "stem": "An 81-year-old woman has had diarrhoea and vomiting for 3 days. Her BP falls from 120/70 lying to 90/55 standing, her tongue is dry and the JVP cannot be seen even when she lies flat. Urinalysis is bland.",
+     "answer": 0,
+     "explanation": "**Postural drop > 20/10 mmHg, dry mucosa and an invisible JVP** point to hypovolaemia; a bland urine fits pre-renal AKI.",
+     "studyRef": {
+      "sectionId": "neph-aki.s4"
+     }
+    },
+    {
+     "stem": "A 58-year-old man has lost weight over 2 months, with aching joints, a purpuric rash on his legs and two episodes of coughing up blood. Dipstick shows blood 3+ and protein 2+.",
+     "answer": 3,
+     "explanation": "Systemic features plus **haemoptysis and an active urine sediment** suggest a pulmonary–renal syndrome; ANCA vasculitis fits (send ANCA and anti-GBM, then biopsy).",
+     "studyRef": {
+      "sectionId": "neph-aki.s4"
+     }
+    },
+    {
+     "stem": "A 76-year-old man had an inguinal hernia repair under general anaesthetic yesterday. He now has lower abdominal discomfort, is passing only dribbles of urine, and there is dullness to percussion up to the umbilicus.",
+     "answer": 6,
+     "explanation": "Two steps: urinary **retention after general anaesthesia** is common in men with prostatic enlargement, and the **palpable, dull bladder** confirms post-renal obstruction — catheterise.",
+     "studyRef": {
+      "sectionId": "neph-aki.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 433,
+     "page": 411,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 434,
+     "page": 412,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 413,
+     "page": 391,
+     "chapter": "Nephrology and urology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q7",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Choosing an investigation in AKI",
+   "leadIn": "For each patient below, choose the single most useful next investigation from the list. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Renal tract ultrasound",
+    "Serum creatine kinase",
+    "ANCA and anti-GBM antibodies",
+    "Serum protein electrophoresis and free light chains",
+    "Urine microscopy for white cell casts and eosinophils",
+    "Blood film, platelet count and LDH",
+    "Fractional excretion of urea",
+    "Isotope renogram",
+    "Renal biopsy",
+    "CT angiography of the renal arteries"
+   ],
+   "items": [
+    {
+     "stem": "Routine bloods in a 70-year-old man show a creatinine of 310 µmol/L (normal last year). He takes no regular drugs, his BP is normal, he is euvolaemic, and the urinalysis is bland. No cause is obvious.",
+     "answer": 0,
+     "explanation": "Almost every **unexplained** AKI needs an **ultrasound to exclude obstruction** — a bland urine is typical of post-renal disease, and an absence of upper-tract dilatation virtually rules it out.",
+     "studyRef": {
+      "sectionId": "neph-aki.s5"
+     }
+    },
+    {
+     "stem": "A 66-year-old woman with heart failure takes furosemide 80 mg daily. She develops AKI after a vomiting illness. Her urine sodium is 45 mmol/L. You want to know whether the kidneys are still avidly retaining solute.",
+     "answer": 6,
+     "explanation": "Two steps: **diuretics falsely raise urine sodium** (and FENa), so these cannot separate pre-renal from ATN; the **fractional excretion of urea** is the alternative (≤ 35% suggests pre-renal).",
+     "studyRef": {
+      "sectionId": "neph-aki.s5"
+     }
+    },
+    {
+     "stem": "A 74-year-old man with back pain, hypercalcaemia and a normocytic anaemia has AKI. Dipstick protein is only trace and urine microscopy is unremarkable.",
+     "answer": 3,
+     "explanation": "Hypercalcaemia, anaemia and bone pain with AKI and **little dipstick proteinuria** suggest **myeloma cast nephropathy** (light chains are not detected well by dipstick) — look for a paraprotein.",
+     "studyRef": {
+      "sectionId": "neph-aki.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1402,
+     "page": 1389,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 662,
+     "page": 662,
+     "chapter": "Renal and genitourinary"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 298,
+     "page": 298,
+     "chapter": "Nephrology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 432,
+     "page": 410,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 434,
+     "page": 412,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 416,
+     "page": 394,
+     "chapter": "Nephrology and urology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 78-year-old man is brought in confused. He has passed little urine for 2 days. The bladder is palpable to the umbilicus. Creatinine is 410 µmol/L (95 µmol/L six months ago). Ultrasound shows bilateral hydronephrosis and a distended bladder.",
+   "leadIn": "What is the most appropriate first step?",
+   "options": [
+    "Insert a urethral catheter",
+    "Arrange bilateral percutaneous nephrostomies",
+    "Start high-dose IV furosemide",
+    "Give a 250 mL crystalloid fluid challenge",
+    "Arrange urgent haemodialysis"
+   ],
+   "answer": 0,
+   "explanation": "This is **bladder outflow obstruction** (distended bladder with bilateral hydronephrosis). Relieve it promptly with a **urethral catheter**, then watch for **post-obstructive diuresis**, which may need IV fluid replacement.",
+   "whyNot": [
+    "",
+    "Nephrostomy (or ureteric stent) is for obstruction at ureteric level, when the bladder is not the problem.",
+    "Diuretics do nothing for a mechanical obstruction and risk dehydration once it is relieved.",
+    "He is not described as hypovolaemic; the problem is outflow, not perfusion.",
+    "There is no stated urgent indication; relieving the obstruction should restore function."
+   ],
+   "studyRef": {
+    "sectionId": "neph-aki.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 436,
+     "page": 414,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 667,
+     "page": 667,
+     "chapter": "Renal and genitourinary"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 434,
+     "page": 412,
+     "chapter": "Nephrology and urology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 55-year-old woman with septic shock from pyelonephritis has AKI. She is hypotensive and clearly volume-depleted, and you expect to give several litres of fluid.",
+   "leadIn": "Which fluid is most appropriate for her resuscitation?",
+   "options": [
+    "Balanced crystalloid such as Hartmann’s or Plasma-Lyte",
+    "Hydroxyethyl starch",
+    "5% glucose",
+    "20% mannitol",
+    "8.4% sodium bicarbonate"
+   ],
+   "answer": 0,
+   "explanation": "For **large-volume** resuscitation Davidson prefers **balanced crystalloids** over 0.9% saline to avoid hyperchloraemic acidosis (though the effect on outcome is unclear). Starch should be avoided.",
+   "whyNot": [
+    "",
+    "Starch solutions are linked to more established AKI and are contraindicated.",
+    "Glucose is not a resuscitation fluid and promotes dilutional hyponatraemia in oliguric patients.",
+    "Mannitol has no trial support in AKI.",
+    "Hypertonic bicarbonate is a large sodium load and is not a volume-replacement fluid."
+   ],
+   "studyRef": {
+    "sectionId": "neph-aki.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 435,
+     "page": 413,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 436,
+     "page": 414,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1402,
+     "page": 1389,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1403,
+     "page": 1390,
+     "chapter": "Kidney and urinary tract disease"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 64-year-old man with ATN after abdominal surgery is anuric on day 5. Potassium is 7.1 mmol/L with broad QRS complexes. He receives IV calcium gluconate and insulin–glucose. An hour later potassium is 6.8 mmol/L. His chest is clear and pH is 7.28.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Urgent haemodialysis",
+    "Repeat insulin–glucose and recheck potassium tomorrow",
+    "Oral ion-exchange resin as the only further treatment",
+    "High-dose IV furosemide",
+    "Infusion of 8.4% sodium bicarbonate"
+   ],
+   "answer": 0,
+   "explanation": "Calcium and insulin–glucose are only **holding measures**. An anuric patient with **K⁺ > 6.5 mmol/L and ECG changes** that persists needs **dialysis** to remove potassium.",
+   "whyNot": [
+    "",
+    "Insulin–glucose only shifts K⁺ temporarily; it will rebound in an anuric patient.",
+    "Resins have unproven efficacy and are used for chronic control; they cannot remove K⁺ quickly enough in an anuric patient with ECG changes.",
+    "He is anuric; diuretics are unlikely to work and delay definitive treatment.",
+    "His pH is not severely low, and the sodium load is risky; bicarbonate does not remove K⁺ from the body."
+   ],
+   "studyRef": {
+    "sectionId": "neph-aki.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 444,
+     "page": 422,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 435,
+     "page": 413,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 385,
+     "page": 363
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1404,
+     "page": 1391,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1403,
+     "page": 1390,
+     "chapter": "Kidney and urinary tract disease"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 45-year-old man is recovering from ATN after a crush injury. Dialysis has been stopped. Over 2 days his urine output has risen to 4.5 L/day and his potassium has fallen to 3.1 mmol/L.",
+   "leadIn": "What best explains these findings?",
+   "options": [
+    "GFR recovering ahead of tubular reabsorptive capacity",
+    "Central diabetes insipidus from head injury",
+    "Persistent excessive IV fluid prescription alone",
+    "Progression to chronic kidney disease",
+    "Development of nephrotic syndrome"
+   ],
+   "answer": 0,
+   "explanation": "This is the **diuretic (recovery) phase** of ATN: filtration returns before the damaged tubules can reabsorb sodium, potassium and water, so large volumes of dilute urine are passed for a few days and need replacing.",
+   "whyNot": [
+    "",
+    "Nothing suggests a head injury, and the setting is classic for the recovery phase.",
+    "Over-prescription can raise output but would not explain the predictable timing after ATN with renal potassium loss.",
+    "Progression to CKD would show persisting impaired function, not a brisk diuresis.",
+    "Nephrotic syndrome presents with heavy proteinuria and oedema, not polyuria."
+   ],
+   "studyRef": {
+    "sectionId": "neph-aki.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1404,
+     "page": 1391,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 436,
+     "page": 414,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 660,
+     "page": 660,
+     "chapter": "Renal and genitourinary"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q12",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Most likely diagnosis in a patient with AKI",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Pre-renal AKI",
+    "Ischaemic acute tubular necrosis",
+    "Contrast-associated AKI",
+    "Acute interstitial nephritis",
+    "Rapidly progressive (crescentic) glomerulonephritis",
+    "Cholesterol emboli",
+    "Rhabdomyolysis",
+    "Hepatorenal syndrome",
+    "Haemolytic uraemic syndrome",
+    "Post-renal obstruction",
+    "Acute-on-chronic kidney disease",
+    "Cardiorenal syndrome"
+   ],
+   "items": [
+    {
+     "stem": "A 63-year-old man with diabetic nephropathy (eGFR 40) has a coronary angiogram. His creatinine starts rising 36 hours later and peaks on day 4. There is no rash and his toes are normal.",
+     "answer": 2,
+     "explanation": "Onset **24–48 h after contrast**, peak around day 3–5, in a patient with **diabetic nephropathy** (a risk factor) — contrast-associated AKI. Cholesterol emboli usually appear later with skin signs.",
+     "studyRef": {
+      "sectionId": "neph-aki.s5"
+     }
+    },
+    {
+     "stem": "A 59-year-old woman had septic shock with 2 days of low BP. She is now fluid-replete but stays oliguric. Urine sodium is 60 mmol/L, FENa 3%, and microscopy shows muddy brown granular casts.",
+     "answer": 1,
+     "explanation": "Prolonged hypoperfusion has progressed to **ATN**: high urine sodium, **FENa ≥ 1%** and **muddy brown casts**.",
+     "studyRef": {
+      "sectionId": "neph-aki.s5"
+     }
+    },
+    {
+     "stem": "A 67-year-old man has had nocturia for years. Hb is 95 g/L, his creatinine was 300 µmol/L a year ago and is now 450 µmol/L after a chest infection. Ultrasound shows small (8 cm), echogenic kidneys.",
+     "answer": 10,
+     "explanation": "Two steps: **small echogenic kidneys, long nocturia and anaemia** show established CKD; the new rise during an infection makes it **acute-on-chronic**.",
+     "studyRef": {
+      "sectionId": "neph-aki.s5"
+     }
+    },
+    {
+     "stem": "A 72-year-old man is admitted breathless with acutely decompensated heart failure. His JVP is raised to the earlobes, he has pitting oedema to the knees, and his creatinine has risen by 60% since admission.",
+     "answer": 11,
+     "explanation": "Low cardiac output, **venous congestion** and RAAS activation cause AKI in acute heart failure — cardiorenal syndrome. A raised JVP argues against hypovolaemic pre-renal AKI.",
+     "studyRef": {
+      "sectionId": "neph-aki.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 301,
+     "page": 301,
+     "chapter": "Nephrology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1402,
+     "page": 1389,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 434,
+     "page": 412,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1403,
+     "page": 1390,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1405,
+     "page": 1392,
+     "chapter": "Kidney and urinary tract disease"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "An 80-year-old woman has had vomiting for 4 days. Creatinine is 220 µmol/L (baseline 85). Urine sodium is 12 mmol/L, FENa 0.4%, the urea:creatinine ratio is high and the urine sediment is bland.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Pre-renal AKI",
+    "Acute tubular necrosis",
+    "Acute interstitial nephritis",
+    "Post-renal AKI",
+    "Rapidly progressive glomerulonephritis"
+   ],
+   "answer": 0,
+   "explanation": "Low urine sodium, **FENa < 1%**, a high urea:creatinine ratio and bland urine show intact tubules retaining salt and water — **pre-renal** AKI from volume loss.",
+   "whyNot": [
+    "",
+    "ATN gives urine Na > 40 mmol/L, FENa ≥ 1% and granular casts.",
+    "AIN gives white cell casts and eosinophiluria, usually after a new drug.",
+    "Obstruction is possible with bland urine, but vomiting and avid sodium retention fit hypoperfusion better; ultrasound would still be done if she fails to respond.",
+    "RPGN gives haematuria, proteinuria and red cell casts."
+   ],
+   "studyRef": {
+    "sectionId": "neph-aki.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 434,
+     "page": 412,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1402,
+     "page": 1389,
+     "chapter": "Kidney and urinary tract disease"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "Five patients with oliguric AKI are reviewed on the renal ward round. None is on diuretics.",
+   "leadIn": "Which finding is the strongest indication for starting renal replacement therapy now?",
+   "options": [
+    "A pericardial friction rub with a urea of 38 mmol/L",
+    "A urea of 30 mmol/L with no symptoms",
+    "A creatinine of 600 µmol/L with no complications",
+    "Potassium of 5.8 mmol/L with a normal ECG",
+    "Arterial pH of 7.25"
+   ],
+   "answer": 0,
+   "explanation": "**Uraemic pericarditis** is a strong, urgent indication for RRT in AKI. There is **no specific urea or creatinine cut-off** at which dialysis must start.",
+   "whyNot": [
+    "",
+    "An asymptomatic urea level alone is not an indication.",
+    "Creatinine alone does not trigger RRT; trials of earlier starts show no benefit.",
+    "Moderate hyperkalaemia without ECG changes is treated medically first.",
+    "Severe acidosis for dialysis is pH < 7.1."
+   ],
+   "studyRef": {
+    "sectionId": "neph-aki.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 436,
+     "page": 414,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 444,
+     "page": 422,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 385,
+     "page": 363
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 68-year-old man with type 2 diabetes and diabetic nephropathy (eGFR 38) takes metformin and ramipril. He needs a contrast-enhanced CT angiogram next week.",
+   "leadIn": "Which measure is most likely to reduce his risk of contrast-associated AKI?",
+   "options": [
+    "IV isotonic fluid before and after the scan",
+    "N-acetylcysteine as the sole measure",
+    "Prophylactic haemodialysis after the scan",
+    "Low-dose dopamine infusion during the scan",
+    "IV theophylline before the scan"
+   ],
+   "answer": 0,
+   "explanation": "Prevention rests on **volume expansion with isotonic fluid**, the smallest dose of an iso-/low-osmolar agent, and holding nephrotoxins (ACE inhibitor) — plus stopping metformin while function is at risk.",
+   "whyNot": [
+    "",
+    "N-acetylcysteine is of borderline benefit at best.",
+    "Prophylactic haemodialysis to remove contrast has no benefit.",
+    "Dopamine does not protect against contrast nephropathy.",
+    "Theophylline (adenosine antagonist) is of no benefit."
+   ],
+   "studyRef": {
+    "sectionId": "neph-aki.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1405,
+     "page": 1392,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 428,
+     "page": 391,
+     "chapter": "Renal disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 301,
+     "page": 301,
+     "chapter": "Nephrology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "A 52-year-old man with alcohol-related cirrhosis and tense ascites has a creatinine rising over 10 days. He is not on diuretics and is not hypovolaemic. Urine sodium is very low, the sediment is bland and ultrasound shows normal kidneys without hydronephrosis.",
+   "leadIn": "What is the most likely cause of his AKI?",
+   "options": [
+    "Hepatorenal syndrome",
+    "Acute tubular necrosis",
+    "Acute interstitial nephritis",
+    "Post-renal obstruction",
+    "IgA-related glomerulonephritis"
+   ],
+   "answer": 0,
+   "explanation": "**Hepatorenal syndrome** arises only once **portal hypertension and ascites** exist: intense renal vasoconstriction in **histologically normal kidneys**, with avid sodium retention, in a patient who is not hypovolaemic. It usually recovers after liver transplant.",
+   "whyNot": [
+    "",
+    "ATN would give high urine sodium and granular casts.",
+    "AIN gives white cell casts and usually follows a new drug.",
+    "Ultrasound shows no hydronephrosis.",
+    "Glomerulonephritis would give haematuria and proteinuria."
+   ],
+   "studyRef": {
+    "sectionId": "neph-aki.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1405,
+     "page": 1392,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 298,
+     "page": 298,
+     "chapter": "Nephrology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 301,
+     "page": 301,
+     "chapter": "Nephrology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q17",
+   "kind": "emq",
+   "pool": "worked",
+   "difficulty": 2,
+   "theme": "Urine findings in acute kidney injury",
+   "leadIn": "For each patient below, choose the urine finding you would most expect. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Hyaline casts with an otherwise bland sediment",
+    "Muddy brown granular casts",
+    "Red cell casts with dysmorphic red cells",
+    "White cell casts with eosinophiluria",
+    "Fatty casts with oval fat bodies",
+    "Broad waxy casts",
+    "Urate crystals",
+    "Dipstick positive for blood with no red cells on microscopy",
+    "Leucocytes and nitrites on dipstick"
+   ],
+   "items": [
+    {
+     "stem": "A 20-year-old builder was trapped under fallen masonry for 6 hours. On arrival his calf compartments are tense and his urine is cola-coloured, but his creatinine is still normal.",
+     "answer": 7,
+     "explanation": "Step 1: crush injury plus tense compartments means **rhabdomyolysis**. Step 2: myoglobin reacts with the dipstick \"blood\" pad, but no red cells are seen on microscopy. Step 3: with creatinine still normal, tubular injury (and its casts) has not yet set in — the pigment pattern is the expected finding and separates it from glomerular bleeding.",
+     "studyRef": {
+      "sectionId": "neph-aki.s5"
+     }
+    },
+    {
+     "stem": "A 30-year-old man presents with haemoptysis and a creatinine that has tripled in a week. Anti-GBM antibodies are strongly positive.",
+     "answer": 2,
+     "explanation": "Step 1: lung haemorrhage with rapidly rising creatinine is a **pulmonary–renal syndrome**. Step 2: anti-GBM antibodies confirm glomerular inflammation. Step 3: glomerular bleeding gives **red cell casts and dysmorphic red cells**.",
+     "studyRef": {
+      "sectionId": "neph-aki.s5"
+     }
+    },
+    {
+     "stem": "A 47-year-old woman was started on amoxicillin 10 days ago. She now has fever, a maculopapular rash and a peripheral eosinophilia, and her creatinine has doubled. Urine culture is sterile.",
+     "answer": 3,
+     "explanation": "Step 1: new drug + fever + rash + eosinophilia suggests **drug-induced AIN**. Step 2: interstitial inflammation sheds leucocytes into the urine — **white cell casts, sterile pyuria and eosinophiluria** with little protein. Step 3: stop the drug.",
+     "studyRef": {
+      "sectionId": "neph-aki.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1404,
+     "page": 1391,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 434,
+     "page": 412,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 661,
+     "page": 661,
+     "chapter": "Renal and genitourinary"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 299,
+     "page": 299,
+     "chapter": "Nephrology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 413,
+     "page": 391,
+     "chapter": "Nephrology and urology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q18",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 70-year-old woman has 3 months of back pain and tiredness. Calcium is 2.95 mmol/L, Hb 92 g/L and creatinine 380 µmol/L (normal 6 months ago). Urine dipstick shows only a trace of protein.",
+   "leadIn": "Which mechanism most likely explains her kidney injury?",
+   "options": [
+    "Light chains precipitating with Tamm–Horsfall protein in the tubules",
+    "Immune-complex membranous nephropathy",
+    "Pauci-immune necrotising glomerulonephritis",
+    "Drug-induced allergic interstitial nephritis",
+    "Raised intratubular pressure from bilateral ureteric stones"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: back pain, **hypercalcaemia and anaemia** in an older adult suggest **myeloma**. Step 2: myeloma AKI is usually **cast nephropathy** — free light chains bind Tamm–Horsfall protein and block tubules. Step 3: dipstick detects albumin, not light chains, so proteinuria looks minimal. Step 4: confirm with serum protein electrophoresis and free light chains.",
+   "whyNot": [
+    "",
+    "Membranous nephropathy causes nephrotic-range proteinuria, which the dipstick would detect.",
+    "ANCA vasculitis gives haematuria and red cell casts with systemic features.",
+    "There is no new drug, fever or rash.",
+    "Hypercalcaemia can cause stones, but the anaemia and bone pain point to myeloma and nothing suggests obstruction."
+   ],
+   "studyRef": {
+    "sectionId": "neph-aki.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 432,
+     "page": 410,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 434,
+     "page": 412,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 428,
+     "page": 391,
+     "chapter": "Renal disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 416,
+     "page": 394,
+     "chapter": "Nephrology and urology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q19",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Mechanisms of acute kidney injury",
+   "leadIn": "For each patient below, choose the mechanism that best explains the kidney injury. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Loss of prostaglandin-mediated afferent arteriolar dilatation",
+    "Loss of angiotensin II–mediated efferent arteriolar constriction",
+    "Direct tubular toxicity from myoglobin",
+    "Light chains precipitating with Tamm–Horsfall protein",
+    "Intratubular urate crystal deposition",
+    "Raised intratubular pressure from urinary obstruction",
+    "Intense renal vasoconstriction in histologically normal kidneys",
+    "Atheromatous microemboli blocking small renal arteries",
+    "Allergic inflammation of the interstitium",
+    "Irreversible cortical necrosis",
+    "Ischaemic depletion of tubular cell ATP"
+   ],
+   "items": [
+    {
+     "stem": "A 35-year-old labourer with back pain has been taking high-dose ibuprofen. After a week of working outdoors in a heatwave with little to drink, his creatinine has doubled. Urinalysis is bland.",
+     "answer": 0,
+     "explanation": "Dehydration makes GFR dependent on **prostaglandin dilatation of the afferent arteriole**; ibuprofen removes it.",
+     "studyRef": {
+      "sectionId": "neph-aki.s3"
+     }
+    },
+    {
+     "stem": "A 29-year-old woman had a severe placental abruption with DIC and became anuric. Three months later she remains dialysis-dependent.",
+     "answer": 9,
+     "explanation": "Two steps: an obstetric catastrophe with coagulopathy causes prolonged cortical ischaemia; unlike ATN (which regenerates), **cortical necrosis** heals by scarring and does not recover.",
+     "studyRef": {
+      "sectionId": "neph-aki.s3"
+     }
+    },
+    {
+     "stem": "A 56-year-old man with cirrhosis and refractory ascites has a slowly rising creatinine, very low urine sodium and a bland sediment. He is euvolaemic and ultrasound is normal.",
+     "answer": 6,
+     "explanation": "Hepatorenal syndrome: profound **renal vasoconstriction** with structurally normal kidneys.",
+     "studyRef": {
+      "sectionId": "neph-aki.s3"
+     }
+    },
+    {
+     "stem": "A 69-year-old man with a known IgG kappa paraprotein develops AKI. Dipstick protein is trace only.",
+     "answer": 3,
+     "explanation": "Myeloma **cast nephropathy** — light chains bind Tamm–Horsfall protein and obstruct tubules.",
+     "studyRef": {
+      "sectionId": "neph-aki.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 435,
+     "page": 413,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1404,
+     "page": 1391,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1405,
+     "page": 1392,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 432,
+     "page": 410,
+     "chapter": "Nephrology and urology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q20",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Management of acute kidney injury",
+   "leadIn": "For each patient below, choose the most appropriate immediate management. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "IV crystalloid fluid challenge of 250 mL",
+    "Urethral catheterisation",
+    "Percutaneous nephrostomy",
+    "IV calcium gluconate",
+    "Urgent intermittent haemodialysis",
+    "High-dose IV loop diuretic",
+    "Withdrawal of the suspected culprit drug",
+    "Surgical fasciotomy",
+    "IV albumin with terlipressin",
+    "Rasburicase",
+    "Isotonic sodium bicarbonate infusion",
+    "Continuous venovenous haemofiltration"
+   ],
+   "items": [
+    {
+     "stem": "A 70-year-old woman with pneumonia has a BP of 92/58 mmHg, a heart rate of 108/min and a creatinine double her baseline. Her chest is clear and it is unclear whether she is fluid-depleted.",
+     "answer": 0,
+     "explanation": "When volume status is uncertain, a **250 mL crystalloid challenge** tests whether hypotension is fluid-responsive, judged by HR, BP and urine output.",
+     "studyRef": {
+      "sectionId": "neph-aki.s6"
+     }
+    },
+    {
+     "stem": "A 62-year-old woman with advanced cervical cancer is anuric. A urethral catheter drains only 20 mL. Ultrasound shows bilateral hydronephrosis with an empty bladder.",
+     "answer": 2,
+     "explanation": "Two steps: an empty bladder despite hydronephrosis places the block at the **ureters** (tumour encasement), so a catheter will not help — decompress with **nephrostomy** (or ureteric stent).",
+     "studyRef": {
+      "sectionId": "neph-aki.s6"
+     }
+    },
+    {
+     "stem": "A 66-year-old man with AKI has a potassium of 7.2 mmol/L. His ECG shows peaked T waves and broadening QRS complexes.",
+     "answer": 3,
+     "explanation": "With ECG changes the first move is **IV calcium gluconate** to stabilise the myocardium, before shifting and removing K⁺.",
+     "studyRef": {
+      "sectionId": "neph-aki.s6"
+     }
+    },
+    {
+     "stem": "A 50-year-old in ITU with septic AKI needs noradrenaline to keep his MAP above 65 mmHg. He has worsening pulmonary oedema despite diuretics.",
+     "answer": 11,
+     "explanation": "Diuretic-resistant pulmonary oedema is an RRT indication; in a **haemodynamically unstable** ITU patient, continuous therapy such as **CVVHF** is the usual choice because it gives more cardiovascular stability.",
+     "studyRef": {
+      "sectionId": "neph-aki.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1402,
+     "page": 1389,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 436,
+     "page": 414,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 385,
+     "page": 363
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1404,
+     "page": 1391,
+     "chapter": "Kidney and urinary tract disease"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q21",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Interpreting a raised creatinine or urea",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Pre-renal AKI",
+    "Acute tubular necrosis",
+    "Acute interstitial nephritis",
+    "Glomerulonephritis",
+    "Post-renal AKI",
+    "Chronic kidney disease",
+    "Urea rise from upper gastrointestinal bleeding",
+    "Creatinine rise from blocked tubular secretion",
+    "Rhabdomyolysis",
+    "Creatinine falsely reassuring because of low muscle mass"
+   ],
+   "items": [
+    {
+     "stem": "A 45-year-old woman is started on trimethoprim for a urinary infection. Her creatinine goes from 98 to 125 µmol/L. Urea, urine output, BP and urinalysis are all normal and she feels well.",
+     "answer": 7,
+     "explanation": "Two steps: an isolated small creatinine rise with otherwise normal findings, after **trimethoprim**, reflects **blocked tubular creatinine secretion**, not a true fall in GFR.",
+     "studyRef": {
+      "sectionId": "neph-aki.s5"
+     }
+    },
+    {
+     "stem": "A 70-year-old man presents with melaena. Urea is 28 mmol/L but creatinine is 90 µmol/L (85 µmol/L last month).",
+     "answer": 6,
+     "explanation": "Blood digested in the gut is a protein load: **urea rises out of proportion to creatinine** with an **upper GI bleed**.",
+     "studyRef": {
+      "sectionId": "neph-aki.s5"
+     }
+    },
+    {
+     "stem": "A 61-year-old man is oliguric after a cardiac arrest. Urine sodium is 55 mmol/L, FENa 2.5%, osmolality 300 mOsm/kg and granular casts are seen.",
+     "answer": 1,
+     "explanation": "High urine sodium, **FENa ≥ 1%**, dilute urine and granular casts mean the tubules are damaged — **ATN** after ischaemia.",
+     "studyRef": {
+      "sectionId": "neph-aki.s5"
+     }
+    },
+    {
+     "stem": "A frail 89-year-old woman weighing 38 kg has a serum creatinine of 85 µmol/L, within the reference range, yet a measured creatinine clearance is markedly reduced.",
+     "answer": 9,
+     "explanation": "With little muscle, **little creatinine is produced**, so serum creatinine can look normal while GFR is low — a recognised trap in the elderly.",
+     "studyRef": {
+      "sectionId": "neph-aki.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1400,
+     "page": 1387,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 434,
+     "page": 412,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 436,
+     "page": 414,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 653,
+     "page": 653,
+     "chapter": "Renal and genitourinary"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1402,
+     "page": 1389,
+     "chapter": "Kidney and urinary tract disease"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q22",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 60-year-old man started omeprazole 3 weeks ago for dyspepsia. He now has a low-grade fever, a rash and eosinophilia. Creatinine has doubled. Urine shows white cell casts and culture is sterile.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Stop the omeprazole",
+    "Start IV antibiotics for pyelonephritis",
+    "Start IV furosemide",
+    "Start an ACE inhibitor to protect the kidneys",
+    "Arrange urgent haemodialysis"
+   ],
+   "answer": 0,
+   "explanation": "This is **drug-induced acute interstitial nephritis** — PPIs are a classic culprit. The key step is to **withdraw the drug promptly**; early steroids may be considered, though their benefit is uncertain.",
+   "whyNot": [
+    "",
+    "The urine culture is sterile; white cell casts here reflect interstitial inflammation, not infection.",
+    "Diuretics do not treat AIN and may worsen volume status.",
+    "ACE inhibitors are stopped in AKI, not started.",
+    "There is no urgent indication for dialysis."
+   ],
+   "studyRef": {
+    "sectionId": "neph-aki.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 434,
+     "page": 412,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 435,
+     "page": 413,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 300,
+     "page": 300,
+     "chapter": "Nephrology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 301,
+     "page": 301,
+     "chapter": "Nephrology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 74-year-old man with peripheral arterial disease had a coronary angiogram 3 weeks ago and has been on heparin since. His creatinine has crept up over 2 weeks. He has a lace-like purplish rash on both thighs, two dusky toes and a mild eosinophilia.",
+   "leadIn": "What is the most likely cause of his AKI?",
+   "options": [
+    "Cholesterol emboli",
+    "Contrast-associated AKI",
+    "Drug-induced interstitial nephritis",
+    "ANCA-associated vasculitis",
+    "Ischaemic acute tubular necrosis"
+   ],
+   "answer": 0,
+   "explanation": "**Cholesterol emboli** follow arterial catheterisation or anticoagulation in atheromatous patients: gradual renal decline, **livedo reticularis**, ischaemic toes and sometimes eosinophilia. There is no specific treatment.",
+   "whyNot": [
+    "",
+    "Contrast AKI starts within 24–48 h, peaks at 3–5 days and lacks skin signs.",
+    "Eosinophilia can occur in AIN, but livedo and ischaemic toes after angiography point to emboli.",
+    "Vasculitis gives an active urine sediment and systemic illness; the timing after angiography is the clue here.",
+    "Nothing suggests a period of hypotension."
+   ],
+   "studyRef": {
+    "sectionId": "neph-aki.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 434,
+     "page": 412,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 301,
+     "page": 301,
+     "chapter": "Nephrology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q24",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Complications of acute kidney injury",
+   "leadIn": "For each patient below, choose the complication that has most likely developed. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Hyperkalaemia",
+    "Pulmonary oedema",
+    "Dilutional hyponatraemia",
+    "Tetany from a fall in ionised calcium",
+    "Uraemic pericarditis",
+    "Uraemic encephalopathy",
+    "Hospital-acquired infection",
+    "Severe metabolic acidosis",
+    "Post-obstructive diuresis",
+    "Uraemic platelet dysfunction"
+   ],
+   "items": [
+    {
+     "stem": "An oliguric patient with ATN has been given 3 L of 5% glucose over 2 days. Her sodium falls from 138 to 124 mmol/L and she is mildly confused.",
+     "answer": 2,
+     "explanation": "Free water from **IV glucose** given to a patient who cannot excrete it causes **dilutional hyponatraemia**.",
+     "studyRef": {
+      "sectionId": "neph-aki.s7"
+     }
+    },
+    {
+     "stem": "A patient with AKI and a low serum calcium is given a rapid IV bicarbonate infusion for acidosis. Soon after, he develops carpopedal spasm and perioral tingling.",
+     "answer": 3,
+     "explanation": "Two steps: correcting pH quickly increases albumin binding of calcium, so **ionised calcium falls**; in an already hypocalcaemic patient this triggers **tetany**.",
+     "studyRef": {
+      "sectionId": "neph-aki.s6"
+     }
+    },
+    {
+     "stem": "A 79-year-old man is catheterised for chronic retention with AKI. Over the next 12 hours he passes 400 mL of urine per hour and becomes postural.",
+     "answer": 8,
+     "explanation": "After relief of obstruction a **post-obstructive diuresis** can cause volume depletion — monitor and replace with IV fluid.",
+     "studyRef": {
+      "sectionId": "neph-aki.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 436,
+     "page": 414,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1403,
+     "page": 1390,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 667,
+     "page": 667,
+     "chapter": "Renal and genitourinary"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q25",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 30-year-old man is found on the floor after lying there for about 2 days following a drug overdose. CK is 60 000 U/L, potassium 5.9 mmol/L and creatinine 260 µmol/L. His right calf is tense and very painful.",
+   "leadIn": "What is the most important initial treatment for his kidneys?",
+   "options": [
+    "Early, vigorous IV fluid resuscitation",
+    "High-dose IV furosemide",
+    "Fluid restriction to previous day’s output plus 500 mL",
+    "Low-dose dopamine infusion",
+    "Oral allopurinol"
+   ],
+   "answer": 0,
+   "explanation": "In **rhabdomyolysis** injured muscle sequesters large volumes of fluid; **early, vigorous IV fluid** limits myoglobin-induced ATN. The tense calf also needs assessment for compartment syndrome and possible fasciotomy.",
+   "whyNot": [
+    "",
+    "Diuretics have no proven role and can worsen volume depletion.",
+    "Restriction is for established, euvolaemic AKI — he needs resuscitation.",
+    "\"Renal-dose\" dopamine has no trial support.",
+    "Allopurinol is used in tumour lysis, not rhabdomyolysis."
+   ],
+   "studyRef": {
+    "sectionId": "neph-aki.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1404,
+     "page": 1391,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1403,
+     "page": 1390,
+     "chapter": "Kidney and urinary tract disease"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q26",
+   "kind": "emq",
+   "pool": "mock",
+   "difficulty": 3,
+   "theme": "Renal replacement therapy decisions in AKI",
+   "leadIn": "For each patient below, choose the most appropriate approach. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Urgent intermittent haemodialysis",
+    "Continuous venovenous haemofiltration (CVVHF)",
+    "Peritoneal dialysis",
+    "Continue conservative management without RRT for now",
+    "Trial of high-dose IV loop diuretic",
+    "IV insulin–glucose and recheck in 1 hour",
+    "IV crystalloid fluid challenge",
+    "Isotonic sodium bicarbonate infusion"
+   ],
+   "items": [
+    {
+     "stem": "A 48-year-old woman on long-term lithium develops AKI during a diarrhoeal illness. She is confused with a coarse tremor, her lithium level is markedly raised, and her BP is stable.",
+     "answer": 0,
+     "explanation": "Two steps: confusion with a high lithium level is serious **toxicity**, and lithium is **dialysable** — haemodynamically stable, so intermittent haemodialysis removes it fastest.",
+     "studyRef": {
+      "sectionId": "neph-aki.s7"
+     }
+    },
+    {
+     "stem": "A 57-year-old man with septic shock on two vasopressors has AKI with potassium of 6.9 mmol/L that keeps rising despite medical treatment.",
+     "answer": 1,
+     "explanation": "Refractory hyperkalaemia needs RRT; in a **haemodynamically unstable** ITU patient continuous therapy (CVVHF) gives more cardiovascular stability.",
+     "studyRef": {
+      "sectionId": "neph-aki.s7"
+     }
+    },
+    {
+     "stem": "A 66-year-old woman has KDIGO stage 3 AKI from ATN. Creatinine is 520 µmol/L and urea 30 mmol/L, but potassium, pH and fluid status are acceptable, she has no uraemic symptoms, and her urine output has started to rise.",
+     "answer": 3,
+     "explanation": "There is **no creatinine or urea threshold** for RRT, and early starts show no benefit; with no urgent indication and recovery under way, continue conservative care.",
+     "studyRef": {
+      "sectionId": "neph-aki.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1404,
+     "page": 1391,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 300,
+     "page": 300,
+     "chapter": "Nephrology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 436,
+     "page": 414,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 444,
+     "page": 422,
+     "chapter": "Nephrology and urology"
+    }
+   ]
+  },
+  {
+   "id": "neph-aki.q27",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 50-year-old man had his left kidney removed for trauma years ago. He presents with severe right loin pain radiating to the groin and has passed no urine for 18 hours. Creatinine has risen from 100 to 390 µmol/L.",
+   "leadIn": "What is the most likely cause of his AKI?",
+   "options": [
+    "Obstruction of his single kidney by a ureteric stone",
+    "Acute tubular necrosis",
+    "Pre-renal AKI from pain-related poor intake",
+    "Acute interstitial nephritis",
+    "Rapidly progressive glomerulonephritis"
+   ],
+   "answer": 0,
+   "explanation": "Unilateral obstruction normally spares urine output, but **obstruction of a single functioning kidney** behaves like bilateral obstruction and can cause anuria. Loin-to-groin pain points to a ureteric stone.",
+   "whyNot": [
+    "",
+    "Severe ATN can cause anuria, but there has been no ischaemic or toxic insult and it would not explain loin-to-groin colic.",
+    "A few hours of poor intake would not cause this degree of injury or anuria, and does not explain colicky loin pain.",
+    "AIN usually follows a new drug with fever or rash.",
+    "RPGN can cause anuria, but loin-to-groin colic in a solitary kidney makes obstruction far more likely."
+   ],
+   "studyRef": {
+    "sectionId": "neph-aki.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 413,
+     "page": 391,
+     "chapter": "Nephrology and urology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 659,
+     "page": 659,
+     "chapter": "Renal and genitourinary"
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "neph-aki.o1",
+   "sectionId": "neph-aki.s3",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 424,
+    "page": 402,
+    "chapter": "Nephrology and urology",
+    "figure": "Fig. 15.13"
+   },
+   "identify": "Tubular histology, normal versus damaged: in panel B note scattered breaks in the tubular basement membrane, swollen vacuolated tubular cells and cells shed into the lumen → **acute tubular necrosis**."
+  },
+  {
+   "id": "neph-aki.o2",
+   "sectionId": "neph-aki.s3",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 1403,
+    "page": 1390,
+    "chapter": "Kidney and urinary tract disease",
+    "figure": "Fig. 36.45"
+   },
+   "identify": "Proximal tubules with **lost brush border**, patchy loss of tubular cells and focal dilatation → **acute tubular necrosis**."
+  },
+  {
+   "id": "neph-aki.o3",
+   "sectionId": "neph-aki.s7",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 435,
+    "page": 413,
+    "chapter": "Nephrology and urology",
+    "figure": "Fig. 15.20"
+   },
+   "identify": "Chest X-ray with bilateral alveolar shadowing but a **normal-sized heart** in a patient with AKI → **pulmonary oedema from fluid overload** (often with high BP); an RRT indication if it does not respond to diuretics."
+  },
+  {
+   "id": "neph-aki.o4",
+   "sectionId": "neph-aki.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 431,
+    "page": 409,
+    "chapter": "Nephrology and urology",
+    "figure": "Fig. 15.17"
+   },
+   "identify": "Foot with ischaemic toes after coronary artery stenting → **cholesterol (athero)emboli**; look also for livedo reticularis and eosinophilia."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:07:46.618Z",
+  "contentHash": "091cb42af01967e9f21d55808ebe8ca343dfe4e5971ab17bb247bebbcb2092c2"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:07:46.631Z",
+  "contentHash": "091cb42af01967e9f21d55808ebe8ca343dfe4e5971ab17bb247bebbcb2092c2",
+  "checkerVersion": "source-check-v1"
+ }
+}

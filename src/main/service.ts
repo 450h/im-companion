@@ -431,7 +431,8 @@ export class Service {
       const answer = item.answer.charCodeAt(0) - 65
       const qid = `${item.topicId ?? 'emq'}.v-${theme.id}-${item.n}`
       if (qid !== a.questionId) throw new ServiceError('E_REF', 'Question does not match theme item')
-      const correct = a.choice === answer
+      const accepted = new Set([answer, ...(item.alsoAccept ?? []).map((l) => l.charCodeAt(0) - 65)])
+      const correct = accepted.has(a.choice)
       this.update((p) => ({
         ...p,
         events: {
@@ -445,7 +446,7 @@ export class Service {
       return {
         recorded: true,
         correct,
-        answer,
+        answer: correct ? a.choice : answer,
         explanation: item.explanation,
         whyNot: null,
         studyRef: item.topicId && item.sectionId ? { topicId: item.topicId, sectionId: item.sectionId } : null,

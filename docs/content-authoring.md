@@ -65,11 +65,12 @@ Every question has `id`, `kind`, `pool`, `difficulty` (1–3), `cites`, and a `s
 ```json
 { "id": "neph-aki.q20", "kind": "emq", "pool": "practice", "difficulty": 2,
   "theme": "Causes of acute kidney injury",
-  "leadIn": "For each patient below, choose the most likely cause from the list. Each option may be used once, more than once, or not at all.",
+  "leadIn": "Match each patient below with the most likely cause from the list above. Any option can be the answer for several patients, or for none.",
   "options": ["8–14 options, same category, plausible"],
   "items": [ { "stem": "vignette 1 …", "answer": 3, "explanation": "…", "studyRef": { "sectionId": "neph-aki.s2" } } ],
   "cites": [ … ] }
 ```
+- **Never use the EMQ books' standard instruction sentence** ("each option may be used once, more than once or not at all") — it fails the copy check. Word the lead-in your own way, e.g. "Any option can be the answer for several patients, or for none."
 - Each EMQ has 3–5 items. Each vignette has a discriminating clue (age, timeline, a key lab or sign). At least one item needs a two-step inference.
 
 **Pools and minimum counts per topic** (EMQ items count individually; the lint enforces these):

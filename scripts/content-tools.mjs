@@ -42,7 +42,7 @@ const allTopicIds = () =>
   existsSync(join(CONTENT, 'topics'))
     ? readdirSync(join(CONTENT, 'topics')).filter((f) => f.endsWith('.json')).map((f) => f.slice(0, -5))
     : []
-const ids = (arg) => (arg === 'all' ? allTopicIds() : [arg])
+const ids = (arg) => (arg === 'all' ? allTopicIds() : arg.split(','))
 
 function* walkCites(node) {
   if (Array.isArray(node)) for (const x of node) yield* walkCites(x)
@@ -93,10 +93,32 @@ function strings(node, out = []) {
     for (const [k, v] of Object.entries(node)) if (!['id', 'sectionId', 'topicId', 'book', 'svg', 'sourceCheck', 'copyCheck'].includes(k)) strings(v, out)
   return out
 }
+/** Numbers and units: runs dominated by these are factual data (classification/dose tables), not expression. */
+const DATA_TOKEN = /^(\d+(\.\d+)?|mg|g|kg|mcg|ug|ml|l|mmol|umol|mmhg|iu|units?|daily|hours?|h|days?|weeks?|years?|x|per|min)$/
+function isData(gram) {
+  const ws = gram.split(' ')
+  return ws.filter((w) => DATA_TOKEN.test(w)).length / ws.length >= 0.4
+}
 function grams(ws, n) {
   const out = new Map()
-  for (let i = 0; i + n <= ws.length; i++) out.set(ws.slice(i, i + n).join(' '), i)
+  for (let i = 0; i + n <= ws.length; i++) {
+    const g = ws.slice(i, i + n).join(' ')
+    if (!isData(g)) out.set(g, i)
+  }
   return out
+}
+
+/** The EMQ books' standard instruction sentence, replaced with our own wording (docs/content-authoring.md). */
+const BOOK_LEADIN = /\s*(each|the|any)?\s*(option|item)s?\s*(may|can|could)\s*be\s*used\s*once,?\s*(or\s*)?more\s*than\s*once,?\s*or\s*not\s*at\s*all\.?/gi
+const OUR_LEADIN = ' Any option can be the answer for several patients, or for none.'
+function fixLeadins(t) {
+  let n = 0
+  for (const q of t.questions) {
+    if (q.kind !== 'emq') continue
+    const next = q.leadIn.replace(BOOK_LEADIN, () => (n++, OUR_LEADIN)).replace(/\s{2,}/g, ' ').trim()
+    q.leadIn = next
+  }
+  return n
 }
 let sourceCache = null
 function sources() {
@@ -110,6 +132,23 @@ function sources() {
   }
   return sourceCache
 }
+/** For source-checked topics only: normalise lead-ins → copy check → stamp copyCheck + sourceCheck. */
+function finalize(id, version) {
+  const t = loadTopic(id)
+  const fixed = fixLeadins(t)
+  if (fixed) saveTopic(t)
+  const before = process.exitCode
+  process.exitCode = 0
+  copycheck(id)
+  if (process.exitCode) {
+    console.log(`${id}: NOT stamped (copy check failed)`)
+    return
+  }
+  process.exitCode = before
+  stampSource(id, version)
+  // copyCheck was stamped before sourceCheck; both hash the same content (stamps are excluded from the hash).
+}
+
 function copycheck(id) {
   const t = loadTopic(id)
   const own = words(strings({ ...t, sourceCheck: undefined, copyCheck: undefined }).join(' \n '))
@@ -152,19 +191,14 @@ function mergeEmq() {
   const dir = join(WORK, 'emq-index')
   const all = []
   for (const f of readdirSync(dir).filter((x) => /^vol\d\.json$/.test(x)).sort()) all.push(...JSON.parse(readFileSync(join(dir, f), 'utf8')))
-  const emqSources = sources().filter((s) => s.book.startsWith('emq'))
+  // One combined 8-gram index of all explanations, then a single pass over the EMQ books.
+  const index = new Map()
+  for (const th of all) for (const it of th.items) for (const g of grams(words(it.explanation), 8).keys()) index.set(g, `${th.id} item ${it.n}`)
   const hits = []
-  for (const th of all) {
-    for (const it of th.items) {
-      const g8 = grams(words(it.explanation), 8)
-      for (const s of emqSources) {
-        for (let i = 0; i + 8 <= s.ws.length; i++) {
-          if (g8.has(s.ws.slice(i, i + 8).join(' '))) {
-            hits.push(`${th.id} item ${it.n}: overlaps ${s.book} p${Number(s.page)}`)
-            break
-          }
-        }
-      }
+  for (const s of sources().filter((x) => x.book.startsWith('emq'))) {
+    for (let i = 0; i + 8 <= s.ws.length; i++) {
+      const g = s.ws.slice(i, i + 8).join(' ')
+      if (index.has(g)) hits.push(`${index.get(g)}: "${g}" (${s.book} p${Number(s.page)})`)
     }
   }
   if (hits.length) {
@@ -201,6 +235,7 @@ for (const id of ids(arg)) {
   if (cmd === 'normalize') normalize(id)
   else if (cmd === 'copycheck') copycheck(id)
   else if (cmd === 'stamp-source') stampSource(id, extra)
+  else if (cmd === 'finalize') finalize(id, extra ?? 'source-check-v1')
   else if (cmd === 'hash') console.log(id, contentHash(loadTopic(id)))
   else throw new Error(`unknown command ${cmd}`)
 }

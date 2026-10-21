@@ -1,0 +1,4020 @@
+{
+ "topicId": "gi-pancreas",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "gi-pancreas.s1",
+   "title": "Anatomy and physiology of the pancreas",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The pancreas is a **retroperitoneal** organ stretching from the second part of the duodenum across to the spleen. The **head** sits in the C-shaped concavity of the duodenum, the **body** lies behind the stomach and the **tail** reaches the spleen. The **neck** crosses in front of the superior mesenteric artery and vein.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1337,
+       "page": 1323
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "The main pancreatic duct meets the **common bile duct** and both empty into the duodenum through a short shared channel at the **ampulla of Vater** (guarded by the sphincter of Oddi). A stone lodged here blocks both systems, which is how gallstones trigger pancreatitis.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1337,
+       "page": 1323
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 223,
+       "page": 186,
+       "figure": "Fig. 4.8"
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1340,
+       "page": 1326
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Exocrine versus endocrine pancreas",
+     "columns": [
+      "Component",
+      "Cells",
+      "Product and control"
+     ],
+     "rows": [
+      [
+       "Exocrine (about 98% of the gland)",
+       "Acinar cells",
+       "Inactive pro-enzymes (proteases, lipase, colipase, amylase) released in response to gut hormones; trypsin activates them in the duodenum"
+      ],
+      [
+       "Exocrine",
+       "Ductular cells",
+       "Large volume of **bicarbonate-rich alkaline fluid** under the control of **secretin**, giving the pH digestive enzymes need"
+      ],
+      [
+       "Endocrine (islets of Langerhans)",
+       "Beta cells (most numerous)",
+       "Insulin"
+      ],
+      [
+       "Endocrine",
+       "Alpha cells",
+       "Glucagon"
+      ],
+      [
+       "Endocrine",
+       "D cells, PP cells, enterochromaffin cells",
+       "Somatostatin, pancreatic polypeptide, serotonin"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 792,
+       "page": 770,
+       "figure": "Fig. 21.9"
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1337,
+       "page": 1323
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1338,
+       "page": 1324
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 226,
+       "page": 189
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Islet hormones are secreted **directly into the blood**, not into the ducts. That is why exocrine destruction (chronic pancreatitis, cancer) produces steatorrhoea first, and diabetes only once the islets themselves are lost.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1338,
+       "page": 1324
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 226,
+       "page": 189
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1344,
+       "page": 1330
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "The **distal common bile duct runs through the pancreatic head**. Fibrosis of the head (chronic pancreatitis) or a tumour there can squeeze the duct and cause **cholestatic jaundice**.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 230,
+       "page": 193
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1347,
+       "page": 1333
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Gastroenterology",
+      "pdfPage": 792,
+      "page": 770,
+      "figure": "Fig. 21.9"
+     },
+     "note": "Look at: acinar cells releasing pro-enzymes, and ductular cells releasing alkaline fluid in response to secretin"
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.s2",
+   "title": "Acute pancreatitis: causes, risk factors and mechanism",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Acute pancreatitis accounts for about **3%** of hospital admissions with abdominal pain and has an overall mortality of about **10%**. Roughly **80%** of attacks are mild. Almost all deaths (about **98%**) occur in the **20%** with severe disease.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 859,
+       "page": 837
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Causes of acute pancreatitis",
+     "columns": [
+      "Group",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Common (about 90% together)",
+       "**Gallstones** (about 40%, more in women, often small stones or sludge), **alcohol** (about 30%, more in men), idiopathic, **post-ERCP**"
+      ],
+      [
+       "Metabolic",
+       "Hypercalcaemia; hypertriglyceridaemia (2–5% of cases, usually triglycerides above 1000 mg/dL)"
+      ],
+      [
+       "Drugs",
+       "Azathioprine/mercaptopurine, thiazides, sodium valproate (Davidson); also 5-ASA, ACE inhibitors, didanosine, oestrogens, furosemide, metronidazole, sulfonamides, tetracycline"
+      ],
+      [
+       "Anatomical",
+       "Pancreas divisum, annular pancreas, sphincter of Oddi dysfunction, tumours"
+      ],
+      [
+       "Other",
+       "Trauma, abdominal or cardiac surgery, mumps or Coxsackie virus, hereditary forms, renal failure, organ transplantation, severe hypothermia, scorpion bite"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 860,
+       "page": 838
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 225,
+       "page": 225
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 227,
+       "page": 190,
+       "figure": "Table 4.14"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Memory aid **I GET SMASHED**, sorted into groups. Commonest: gallstones (G), ethanol (E), idiopathic (I). Procedures and injury: ERCP (E), trauma (T). Metabolic: high triglycerides or calcium (H). Medicines: drugs (D), steroids (S). Infection or tumour: mumps or malignancy (M). Rarer: autoimmune (A), scorpion or spider bite (S). Gallstones plus alcohol make up most cases.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 354,
+       "page": 354
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Mechanism:** trypsinogen is activated **prematurely inside the acinar cell**. The released proteases digest the gland and the tissue around it, and NF-κB activation drives a strong inflammatory response. A sharp rise in **acinar intracellular calcium** is the final common step. Triggers include duct obstruction (a stone or oedema at the ampulla), hyperstimulation (alcohol, triglycerides) and reflux of bile or duodenal contents. Alcohol upsets acinar calcium handling. Systemic spread of the inflammation can cause multi-organ failure.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 859,
+       "page": 837
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 860,
+       "page": 838,
+       "figure": "Fig. 21.64"
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1340,
+       "page": 1326
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 227,
+       "page": 190
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Post-ERCP pancreatitis complicates about **5%** of procedures. **Rectal indomethacin** lowers the risk, and high-risk patients can have a temporary pancreatic duct stent. Consider a **genetic cause** (PRSS1, SPINK1, CFTR) when pancreatitis starts before age 20.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 225,
+       "page": 225
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 226,
+       "page": 226
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Deaths cluster at two times. **Early deaths** (first week) are mainly from **multi-organ failure**. **Later deaths** are mostly from **sepsis**, especially **infected necrosis**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 859,
+       "page": 837
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Gastroenterology",
+      "pdfPage": 860,
+      "page": 838,
+      "figure": "Fig. 21.64"
+     },
+     "note": "Look at: the triggers (duct obstruction, hyperstimulation, reflux) converging on activation of proteolytic enzymes"
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.s3",
+   "title": "Acute pancreatitis: clinical presentation and complications",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Classic story: **severe, constant upper abdominal pain** that builds over **15–60 minutes** and **radiates to the back**, with nausea and vomiting. About 90% have epigastric or left upper quadrant pain, but only about half describe a band-like spread to the back. Bowel sounds become quiet as a **paralytic ileus** develops. Severe attacks bring hypoxia, hypovolaemic shock and oliguria.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 859,
+       "page": 837
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 226,
+       "page": 226
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Early on there is **marked epigastric tenderness without guarding or rebound**, because the inflammation is mainly **retroperitoneal**. A rigid abdomen with rebound points instead towards a **perforated peptic ulcer**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 859,
+       "page": 837
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "About **10% have no pain**: for example patients on steroids or strong analgesia, immunosuppressed patients, those with altered consciousness, or patients already in ICU. In these patients coma or organ failure can hide the diagnosis.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 226,
+       "page": 226
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 227,
+       "page": 190
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Haemorrhagic pancreatitis signs**, caused by blood tracking along fascial planes: **Grey Turner’s** (flank bruising), **Cullen’s** (periumbilical bruising), **Fox’s** (bruising over the inguinal ligament). They indicate **severe** disease.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 860,
+       "page": 838
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 354,
+       "page": 354
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Differential diagnosis",
+     "items": [
+      "Perforated viscus (peptic ulcer)",
+      "Acute cholecystitis",
+      "Myocardial infarction (especially inferior)",
+      "Mesenteric ischaemia, small bowel obstruction",
+      "Leaking abdominal aortic aneurysm, aortic dissection, ruptured ectopic pregnancy"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 860,
+       "page": 838
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 226,
+       "page": 226
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Complications of acute pancreatitis",
+     "columns": [
+      "Type",
+      "Complication",
+      "Why it happens"
+     ],
+     "rows": [
+      [
+       "Systemic",
+       "SIRS",
+       "Cytokine and kinin release increase vascular permeability"
+      ],
+      [
+       "Systemic",
+       "Hypoxia / ARDS",
+       "Microthrombi in the pulmonary vessels"
+      ],
+      [
+       "Systemic",
+       "Hyperglycaemia",
+       "Islet damage disturbs insulin and glucagon release"
+      ],
+      [
+       "Systemic",
+       "**Hypocalcaemia**",
+       "Calcium is **trapped in fat necrosis** (saponification), lowering ionised calcium"
+      ],
+      [
+       "Systemic",
+       "Low albumin",
+       "Leaky capillaries"
+      ],
+      [
+       "Pancreatic",
+       "Necrosis, abscess",
+       "Dead pancreatic and peripancreatic tissue, often infected"
+      ],
+      [
+       "Pancreatic",
+       "Pseudocyst, pancreatic ascites, pleural effusion",
+       "Disruption of the pancreatic duct"
+      ],
+      [
+       "Gastrointestinal",
+       "Upper GI bleeding",
+       "Erosions; varices from splenic or portal vein thrombosis; erosion by a pseudocyst"
+      ],
+      [
+       "Gastrointestinal",
+       "Duodenal obstruction, obstructive jaundice",
+       "Compression by a pancreatic mass"
+      ],
+      [
+       "Abdominal",
+       "Abdominal compartment syndrome",
+       "Sustained intra-abdominal pressure **above 20 mmHg** with new organ failure"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 860,
+       "page": 838
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 356,
+       "page": 356
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 357,
+       "page": 357
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 228,
+       "page": 228
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "A **peripancreatic fluid collection** can form in the lesser sac after the duct ruptures. Its flimsy granulation-tissue wall matures into a **fibrous capsule over about 6 weeks**, and the collection is then a **pseudocyst**. A pseudocyst has **no epithelial lining**. Most pseudocysts are silent and resolve, but those **over 6 cm** rarely disappear. They may cause pain, become infected, bleed, block the stomach outlet or bile duct, or erode an artery to form a **pseudoaneurysm**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 860,
+       "page": 838,
+       "figure": "Fig. 21.65"
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 356,
+       "page": 356
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Sources differ on pseudocyst timing. Davidson describes a 6-week maturation. Pocket Medicine describes encapsulation at about 4 weeks and drainage only if symptomatic. For exams, use Davidson’s **6 weeks** and **6 cm**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 860,
+       "page": 838
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 228,
+       "page": 228
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Gastroenterology",
+      "pdfPage": 860,
+      "page": 838,
+      "figure": "Fig. 21.65"
+     },
+     "note": "Look at: a large pseudocyst compressing the stomach, with an atrophic, calcified pancreas"
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.s4",
+   "title": "Investigations and severity scoring in acute pancreatitis",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Diagnosis needs 2 of 3:** typical pain; serum **lipase or amylase above 3× the upper limit of normal**; typical imaging. Davidson prefers **lipase**, because it is more accurate for diagnosis. At more than 3× normal, lipase is about 99% sensitive and specific. Amylase is cleared by the kidneys, so it may be **back to normal 24–48 hours** after onset. Urinary amylase stays raised for longer.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 226,
+       "page": 226
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 861,
+       "page": 839
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1340,
+       "page": 1326
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Amylase traps",
+     "items": [
+      "It has **no prognostic value**, and neither enzyme level tracks severity.",
+      "If it **stays high**, think of a **pseudocyst**. Ascitic amylase is hugely raised in pancreatic ascites.",
+      "It is also raised, though less, in intestinal ischaemia, perforated ulcer and ruptured ovarian cyst. Parotitis raises the **salivary isoenzyme**.",
+      "It can be **falsely normal** in about 20% of alcohol-related and 50% of hypertriglyceridaemic attacks."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 861,
+       "page": 839
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 226,
+       "page": 226
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Imaging",
+     "items": [
+      "**Erect chest X-ray**, plus a plain film if needed, to exclude **perforation** (free gas). A plain abdominal film may also show a sentinel loop or colon cut-off sign.",
+      "**Ultrasound** on admission to look for **gallstones** and duct dilatation; bowel gas often hides the pancreas. An **ALT above 3× normal** strongly suggests a gallstone cause (PPV about 95%).",
+      "**Contrast-enhanced CT** at **6–10 days** if organ failure, sepsis or deterioration persists. **Non-enhancing pancreas** means necrosis. **Gas within necrosis** suggests infection, so aspirate it for culture.",
+      "Early CT can underestimate severity. Pocket Medicine advises no CT in the first 3 days unless the patient deteriorates."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 861,
+       "page": 839,
+       "figure": "Fig. 21.66"
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1340,
+       "page": 1326
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 355,
+       "page": 355
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 227,
+       "page": 227
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 228,
+       "page": 191
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Glasgow (Imrie) criteria, assessed over the first 48 h (Davidson)",
+     "columns": [
+      "Variable",
+      "Criterion"
+     ],
+     "rows": [
+      [
+       "Age",
+       "> 55 years"
+      ],
+      [
+       "PO2",
+       "< 8 kPa"
+      ],
+      [
+       "White cell count",
+       "> 15 × 10^9/L"
+      ],
+      [
+       "Albumin",
+       "< 32 g/L"
+      ],
+      [
+       "Corrected calcium",
+       "< 2 mmol/L"
+      ],
+      [
+       "Glucose",
+       "> 10 mmol/L"
+      ],
+      [
+       "Urea (after rehydration)",
+       "> 16 mmol/L"
+      ],
+      [
+       "ALT",
+       "> 200 U/L"
+      ],
+      [
+       "LDH",
+       "> 600 U/L"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 859,
+       "page": 837
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 228,
+       "page": 191,
+       "figure": "Table 4.15"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other markers of predicted severe disease",
+     "items": [
+      "At admission: clinical impression, **BMI > 30 kg/m2**, **pleural effusion** on CXR, **APACHE II > 8**",
+      "At 24–48 h: **Glasgow score > 3**, **CRP > 150 mg/L**, organ failure persisting for 48 h, or multiple or progressive organ failure",
+      "A **peak CRP above 210 mg/L in the first 4 days** predicts a severe attack with about 80% accuracy",
+      "**BISAP** (1 point each): BUN > 25 mg/dL, impaired consciousness (GCS < 15), SIRS, age > 60, pleural effusion. 0–2 points: mortality < 2%; 3–5 points: > 15%"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 859,
+       "page": 837
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 861,
+       "page": 839
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 358,
+       "page": 358,
+       "figure": "TABLE 3-4"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Revised Atlanta classification (2013)",
+     "columns": [
+      "Grade",
+      "Definition"
+     ],
+     "rows": [
+      [
+       "Mild (about 80%)",
+       "No organ failure, no local or systemic complications"
+      ],
+      [
+       "Moderately severe",
+       "Transient organ failure resolving within 48 h, and/or local or systemic complications"
+      ],
+      [
+       "Severe",
+       "**Persistent organ failure beyond 48 h** (modified Marshall score ≥ 2 in any system)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1341,
+       "page": 1327
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 227,
+       "page": 227
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1342,
+       "page": 1328
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Glasgow thresholds differ between books.** Davidson uses albumin < 32 g/L and calls **more than three** criteria severe. KC Essentials uses albumin < 30 g/L and **three or more**. Follow Davidson. Also: Glasgow uses age > 55, BISAP uses age > 60.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 859,
+       "page": 837
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 228,
+       "page": 191,
+       "figure": "Table 4.15"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Gastroenterology",
+      "pdfPage": 861,
+      "page": 839,
+      "figure": "Fig. 21.66"
+     },
+     "note": "Look at: contrast CT showing a non-enhancing (necrotic) pancreas containing gas, which suggests infection"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Biliary tract and pancreatic disease",
+      "pdfPage": 1341,
+      "page": 1327,
+      "figure": "Fig. 35.11"
+     },
+     "note": "Look at: peripancreatic inflammation and fluid with focal tail necrosis (A), and large pseudocysts weeks later (B)"
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.s5",
+   "title": "Emergency treatment of acute pancreatitis",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Supportive care (Davidson)",
+     "items": [
+      "**Opiate analgesia.**",
+      "**IV crystalloid** to correct hypovolaemia (normal saline or another crystalloid).",
+      "Severe attacks are managed in **HDU/ICU**. Shocked patients get a central line and a urinary catheter.",
+      "Oxygen for hypoxia, with ventilation if SIRS progresses. **Insulin** for hyperglycaemia, **IV calcium** for hypocalcaemia.",
+      "**NG aspiration only if there is paralytic ileus.**",
+      "**Early enteral feeding** in severe disease. **Nasogastric feeding works as well as nasojejunal.** It reduces endotoxaemia; TPN carries a higher infection risk.",
+      "**LMWH** thromboprophylaxis."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 861,
+       "page": 839
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 228,
+       "page": 228
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1343,
+       "page": 1329
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Fluids in quick sources:** Pocket Medicine advises early aggressive fluids even in mild disease (about 20 mL/kg bolus, then about 3 mL/kg/h), titrated to a falling urea and haematocrit and a urine output of 0.5–1 mL/kg/h. It prefers **Ringer’s lactate** (avoid if hypercalcaemic), because saline can cause hyperchloraemic acidosis. Severe attacks may need 5 L or more of crystalloid a day.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 227,
+       "page": 227
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 358,
+       "page": 358
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 229,
+       "page": 192
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Gallstone pancreatitis:** severe pancreatitis with **cholangitis or jaundice** needs **urgent ERCP** to clear the duct. Pocket Medicine specifies within 24 h if there is cholangitis, sepsis or bilirubin ≥ 5 mg/dL. Then do a **cholecystectomy within 2 weeks of recovery, ideally during the same admission**, to prevent another attack that could be fatal. Delay it if the pancreatitis is necrotising.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 861,
+       "page": 839
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 228,
+       "page": 228
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**No prophylactic antibiotics** (Davidson, Pocket Medicine, Step-Up). Treat **proven or suspected infected necrosis** with antibiotics that penetrate necrotic tissue: a **carbapenem**, or a **quinolone plus metronidazole**. KC Essentials still lists prophylactic antibiotics (e.g. cefuroxime) for predicted severe disease. Follow Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 861,
+       "page": 839
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 228,
+       "page": 228
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 229,
+       "page": 192,
+       "figure": "Fig. 4.9"
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 230,
+       "page": 193
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 356,
+       "page": 356
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Infected necrosis or abscess:** use a minimally invasive **step-up** approach: antibiotics, then percutaneous or endoscopic drainage, then **EUS-guided or minimally invasive retroperitoneal (MIRP) necrosectomy**. Debridement works best if it is **delayed until at least 4 weeks**, until the necrosis is walled off. **Pseudocysts** are drained into the stomach or duodenum (**cystogastrostomy**) after **at least 6 weeks**, once the wall has matured.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 861,
+       "page": 839
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1343,
+       "page": 1329
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 228,
+       "page": 228
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Morphine and the sphincter of Oddi:** KC Essentials still avoids morphine (it may raise sphincter of Oddi pressure) and uses pethidine or tramadol. Kumar says no clinical data support that risk, and Step-Up calls opioids safe and effective, noting pethidine has more side effects. Davidson simply advises **opiate analgesia**. Follow Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 861,
+       "page": 839
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1342,
+       "page": 1328
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 358,
+       "page": 358
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 229,
+       "page": 192
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Hypertriglyceridaemia-induced pancreatitis: **insulin infusion**, fibrates, and sometimes plasma apheresis to lower triglycerides.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 228,
+       "page": 228
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.s6",
+   "title": "Chronic pancreatitis: causes and pathogenesis",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Chronic pancreatitis is **persistent inflammation with fibrosis and destruction of exocrine tissue**, with ductal strictures and dilatations. The damage is **irreversible**. **Diabetes** follows once the islets are involved. **Alcohol** is the main cause, accounting for about 80% of Western cases in Davidson. In **southern India**, a tropical calcific form affects non-drinkers (malnutrition, micronutrient deficiency, cassava).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 861,
+       "page": 839
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 862,
+       "page": 840
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 361,
+       "page": 361
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Causes: TIGAR-O",
+     "columns": [
+      "Category",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "**T**oxic–metabolic",
+       "Alcohol, **tobacco**, hypercalcaemia, chronic kidney disease"
+      ],
+      [
+       "**I**diopathic",
+       "Tropical; early- and late-onset idiopathic"
+      ],
+      [
+       "**G**enetic",
+       "Hereditary pancreatitis (PRSS1, cationic trypsinogen), SPINK1, CFTR / cystic fibrosis, CTRC, CASR"
+      ],
+      [
+       "**A**utoimmune",
+       "Autoimmune pancreatitis, isolated or with other organ involvement"
+      ],
+      [
+       "**R**ecurrent / severe acute",
+       "Recurrent acute attacks, post-necrotic"
+      ],
+      [
+       "**O**bstructive",
+       "Ductal adenocarcinoma, IPMN, pancreas divisum, sphincter of Oddi stenosis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 862,
+       "page": 840
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 229,
+       "page": 229
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1344,
+       "page": 1330
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Gallstones do NOT cause chronic pancreatitis.** They cause acute attacks and may be an incidental finding in a patient with chronic disease.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 862,
+       "page": 840
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Necrosis–fibrosis sequence:** a first, **\"sentinel\" attack of acute pancreatitis** starts a T-helper cell response. Continued **alcohol** keeps the inflammation going, and **pancreatic stellate cells** are activated to lay down fibrosis. Repeated cycles of inflammation and fibrosis produce chronic pancreatitis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 862,
+       "page": 840,
+       "figure": "Fig. 21.67"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Duct plug pathway:** excess active trypsin inside the gland causes **protein plugs** to precipitate in the ducts. The plugs **calcify** and block the ducts. Higher pressure in the ducts causes more damage and cytokine-driven inflammation. Ethanol raises acinar **intracellular calcium**, which favours trypsinogen activation.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1343,
+       "page": 1329
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 230,
+       "page": 193
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Genetic factors (trypsin balance)",
+     "items": [
+      "**PRSS1** (cationic trypsinogen) **gain-of-function**: **autosomal dominant hereditary pancreatitis**",
+      "**SPINK1** (trypsin inhibitor) loss-of-function, linked with tropical pancreatitis",
+      "Chymotrypsin C (CTRC) loss-of-function: trypsin is no longer broken down",
+      "CFTR and calcium-sensing receptor (CASR) variants"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1344,
+       "page": 1330,
+       "figure": "Fig. 35.13"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Histology:** acini are largely lost and **replaced by fibrous tissue**, with few inflammatory cells in late disease. Islets may survive for a while, and losing them causes diabetes. Exocrine or endocrine failure appears only once about **90% of function** has gone.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1343,
+       "page": 1329,
+       "figure": "Fig. 35.12"
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 229,
+       "page": 229
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Gastroenterology",
+      "pdfPage": 862,
+      "page": 840,
+      "figure": "Fig. 21.67"
+     },
+     "note": "Look at: sentinel acute attack → Th-cell inflammation → stellate-cell fibrosis cycle, with alcohol acting at several steps"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Biliary tract and pancreatic disease",
+      "pdfPage": 1343,
+      "page": 1329,
+      "figure": "Fig. 35.12"
+     },
+     "note": "Look at: loss of acini, replacement by fibrosis, a surviving islet"
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.s7",
+   "title": "Spectrum of chronic pancreatic disease and its investigation",
+   "objectiveIdx": [
+    4,
+    5
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Typical patient:** a **middle-aged man who drinks alcohol**. Nearly all have pain. In **50%** it comes as recurrent \"acute\" attacks, each leaving permanent damage. **35%** have relentless chronic pain, and the rest have **painless diarrhoea**. The pain is eased by **leaning forward** or by drinking alcohol. **Weight loss** comes from anorexia, fear of eating, malabsorption and diabetes. On examination, abdominal skin pigmentation (**erythema ab igne**) comes from repeated use of a hot water bottle.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 862,
+       "page": 840
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Key numbers",
+     "items": [
+      "**Steatorrhoea** only once **> 90%** of exocrine tissue is destroyed. Protein malabsorption appears only in very advanced disease.",
+      "**Diabetes** affects **30%** overall and **70%** with chronic **calcific** pancreatitis.",
+      "About one-fifth use opioids long term.",
+      "Classic triad: **steatorrhoea, diabetes, pancreatic calcification**. Pain does not correlate with imaging damage."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 862,
+       "page": 840
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 361,
+       "page": 361
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Complications of chronic pancreatitis",
+     "items": [
+      "Pseudocysts and pancreatic ascites or effusions",
+      "**Obstructive jaundice** from a benign stricture of the common bile duct in the fibrotic head",
+      "Duodenal stenosis",
+      "**Splenic or portal vein thrombosis** → segmental (left-sided) portal hypertension and **gastric varices**",
+      "Peptic ulcer; fat-soluble vitamin deficiency; opioid dependence",
+      "**Pancreatic cancer**: about 13-fold risk overall. In hereditary pancreatitis the risk is about 50-fold (lifetime up to 40%); in alcohol-related disease the lifetime risk is 10–15%."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 862,
+       "page": 840
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 362,
+       "page": 362
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 229,
+       "page": 229
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1346,
+       "page": 1332
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Other chronic and structural pancreatic disorders",
+     "columns": [
+      "Disorder",
+      "Key features"
+     ],
+     "rows": [
+      [
+       "**Autoimmune pancreatitis type 1** (IgG4-related)",
+       "Mainly middle-aged men; **raised IgG4**; other organs involved (bile ducts, salivary glands, kidney, thyroid); frequent relapse"
+      ],
+      [
+       "**Autoimmune pancreatitis type 2**",
+       "Either sex, early midlife; **IgG4 normal**; about 30% have **IBD**"
+      ],
+      [
+       "AIP (both types)",
+       "Pain, weight loss or **obstructive jaundice without acute attacks**; diffusely enlarged \"sausage\" gland, narrowed duct, distal CBD stricture. **Mimics cancer**, responds to **glucocorticoids**"
+      ],
+      [
+       "Pancreas divisum",
+       "Dorsal and ventral ducts fail to fuse, so most drainage goes through the **minor (accessory) papilla**; found in 7–10% of people, usually silent, sometimes causes pancreatitis"
+      ],
+      [
+       "Annular pancreas",
+       "Pancreatic ring around D2/D3 → **gastric outlet obstruction**; associated with malrotation, atresias, cardiac anomalies"
+      ],
+      [
+       "Cystic fibrosis",
+       "Thick secretions plug the ductules; **steatorrhoea is universal**, diabetes in 40% by adolescence"
+      ],
+      [
+       "Serous cystadenoma",
+       "Almost never malignant; **no surgery** needed"
+      ],
+      [
+       "Mucinous cystic neoplasm",
+       "Women, **pancreatic tail**, can become malignant: **resect** if fit. EUS cyst-fluid CEA and amylase help classify"
+      ],
+      [
+       "IPMN",
+       "Often found by chance in elderly men; **premalignant but indolent**; main-duct or side-branch type"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 863,
+       "page": 841
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1344,
+       "page": 1330
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 230,
+       "page": 230
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 864,
+       "page": 842
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 866,
+       "page": 844
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Investigations in chronic pancreatitis",
+     "items": [
+      "**To diagnose:** ultrasound; **CT** (atrophy, **calcification**, duct dilatation); plain AXR (calcification seen in only about 30%); **MRCP**; EUS. A normal CT does not rule out mild disease.",
+      "**Function:** **faecal elastase** is the screening test of choice and is not affected by enzyme supplements (but diarrhoea can give a falsely low result). Others: pancreolauryl test; secretin test (gold standard, invasive, rarely used).",
+      "**Before surgery:** MRCP to define duct anatomy. MRCP has **replaced diagnostic ERCP**, which is now mainly therapeutic.",
+      "Serum amylase and lipase are often **normal** because little acinar tissue remains.",
+      "Check **IgG4** if autoimmune disease is suspected. Consider gene testing (PRSS1, SPINK1, CFTR) in younger patients. Check glucose and fat-soluble vitamins."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 863,
+       "page": 841
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1339,
+       "page": 1325
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1345,
+       "page": 1331
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 362,
+       "page": 362
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 231,
+       "page": 194
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 229,
+       "page": 229
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Chronic pancreatitis and pancreatic cancer can look alike (pain, weight loss, jaundice, a mass in the head), and autoimmune pancreatitis can mimic cancer. **Pancreatic carcinoma is the key differential** and must be actively excluded.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 230,
+       "page": 193
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 863,
+       "page": 841
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "On ERCP or MRCP, alternating strictures and dilatations of the main duct give a **\"chain of lakes\"** appearance.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 364,
+       "page": 364,
+       "figure": "FIGURE 3-7"
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 365,
+       "page": 365
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Gastroenterology",
+      "pdfPage": 863,
+      "page": 841,
+      "figure": "Fig. 21.68"
+     },
+     "note": "Look at: CT showing a dilated irregular duct with a calcified stone and head calcification; MRCP showing dilated side branches"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Biliary tract and pancreatic disease",
+      "pdfPage": 1345,
+      "page": 1331,
+      "figure": "Fig. 35.14"
+     },
+     "note": "Look at: multiple calcific densities along the line of the main pancreatic duct on contrast CT"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "stepup6",
+      "chapter": "Gastrointestinal",
+      "pdfPage": 364,
+      "page": 364,
+      "figure": "FIGURE 3-7"
+     },
+     "note": "Look at: calcification with a head pseudocyst on CT (A); \"chain of lakes\" duct on ERCP (B)"
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.s8",
+   "title": "Management of chronic pancreatitis",
+   "objectiveIdx": [
+    7
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Stop alcohol.** Abstinence is the most important step to slow progression and reduce pain. Smoking is an independent risk factor, so stopping smoking is also advised.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 863,
+       "page": 841
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1345,
+       "page": 1331
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 230,
+       "page": 230
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Pain",
+     "items": [
+      "NSAIDs and other simple analgesics; **low-dose tricyclics** or **pregabalin** for neuropathic-type pain",
+      "**Pancreatic enzyme supplements** suppress pancreatic secretion (by lowering CCK) and can reduce analgesic use",
+      "Opioids often become necessary but carry a **risk of addiction**",
+      "**Coeliac plexus neurolysis** may give lasting relief, but most patients relapse",
+      "Refractory pain in an **abstinent** patient: endoscopic or surgical treatment (below)",
+      "Pain often eases on its own over the years: Kumar reports about **60%** become pain-free in the long term"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 863,
+       "page": 841
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 230,
+       "page": 230
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1345,
+       "page": 1331
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Interventions for refractory pain",
+     "columns": [
+      "Route",
+      "Options"
+     ],
+     "rows": [
+      [
+       "Endoscopic",
+       "Dilatation or stenting of duct strictures; removal of stones (mechanical or shock-wave lithotripsy); pseudocyst drainage"
+      ],
+      [
+       "Surgical",
+       "Duodenum-preserving partial pancreatic resection; **pancreatico-jejunostomy** (duct drainage); distal pancreatectomy or Whipple in selected cases"
+      ],
+      [
+       "Last resort",
+       "**Total pancreatectomy** when no correctable lesion is found on MRCP"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 863,
+       "page": 841
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 363,
+       "page": 363
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Total pancreatectomy** may still not relieve pain, and it causes **brittle diabetes** with a high **hypoglycaemia** risk because **both insulin and glucagon** are lost. Diabetes in chronic pancreatitis is labile for the same reason (glucagon deficiency).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 863,
+       "page": 841
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1346,
+       "page": 1332
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Malabsorption and diabetes",
+     "items": [
+      "**Oral pancreatic enzymes with meals**, plus a **PPI** to optimise duodenal pH so the enzymes work. Non-enteric-coated preparations need acid suppression to avoid being destroyed by gastric acid.",
+      "Supplement fat-soluble vitamins; give routine vitamin D and calcium.",
+      "Diabetes: diet, oral agents or insulin."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 863,
+       "page": 841
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 363,
+       "page": 363
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 230,
+       "page": 230
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 231,
+       "page": 194
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Dietary fat:** Davidson advises **fat restriction** (with medium-chain triglyceride supplements in malnourished patients). Kumar advises **not** cutting fat below a normal recommended intake. Follow Davidson for exams. In **cystic fibrosis**, fat is **not** restricted.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 863,
+       "page": 841
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1345,
+       "page": 1331
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 864,
+       "page": 842
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Complications and special cases",
+     "items": [
+      "Pseudocysts under 6 cm often resolve. Larger cysts persisting beyond 6 weeks: **EUS-guided cystgastrostomy or cystduodenostomy** with stents (about 75% success), and surgery if that fails.",
+      "Pancreatic ascites or effusion with **very high fluid amylase** confirms a ductal leak.",
+      "Biliary or duodenal strictures and the consequences of portal hypertension may need endoscopic or surgical treatment.",
+      "**Autoimmune pancreatitis:** **prednisolone** (failure to respond questions the diagnosis); relapses after withdrawal need **azathioprine**."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1346,
+       "page": 1332
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 863,
+       "page": 841
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1345,
+       "page": 1331
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.s9",
+   "title": "Carcinoma of the head of the pancreas",
+   "objectiveIdx": [
+    8
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "About **90%** of pancreatic neoplasms are **ductal adenocarcinomas**, which spread to regional nodes early. Most patients present with advanced disease. **Men** are affected about twice as often, and most patients are over 60. **KRAS** is mutated in over 90%.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 864,
+       "page": 842
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 231,
+       "page": 194
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Oncology",
+       "pdfPage": 402,
+       "page": 402
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Risk factors",
+     "items": [
+      "Increasing age; **smoking** (the best established); obesity; diabetes",
+      "**Chronic pancreatitis**, especially hereditary",
+      "Genetic predisposition in 5–10%: hereditary pancreatitis, HNPCC (Lynch), familial atypical multiple mole melanoma (FAMMM), BRCA2",
+      "Occupational exposure (benzidine, beta-naphthylamine)"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 864,
+       "page": 842
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 231,
+       "page": 194
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Oncology",
+       "pdfPage": 402,
+       "page": 402
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 365,
+       "page": 365
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Site:** the **head** is the commonest site (about **60%** in Davidson; two-thirds in Kumar; 75% in Step-Up). Head tumours compress the distal CBD and cause **obstructive jaundice with pruritus**. Pale stools, dark urine and itch can come before visible jaundice. Body and tail tumours present later, with pain and weight loss.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 864,
+       "page": 842
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 365,
+       "page": 365
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1347,
+       "page": 1333
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 232,
+       "page": 195
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Clinical features",
+     "items": [
+      "**Pain**: constant, gnawing, central, **radiating to the back** (coeliac plexus invasion), eased a little by leaning forward",
+      "**Weight loss and cachexia** in almost all",
+      "**Courvoisier’s sign**: a **palpable gallbladder in a jaundiced patient** usually means distal obstruction by a pancreatic cancer, not stones (stones leave a fibrosed gallbladder)",
+      "**New-onset diabetes** (at least 50% in Kumar; may come first)",
+      "**Thrombophlebitis migrans** (Trousseau’s syndrome), recurrent venous thrombosis",
+      "New **depression**; vomiting from duodenal obstruction; occasionally acute pancreatitis",
+      "Signs of spread: hepatomegaly, ascites, **Sister Joseph’s nodule** (umbilicus), **Virchow’s node** (left supraclavicular)"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 864,
+       "page": 842
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 865,
+       "page": 843,
+       "figure": "Fig. 21.69"
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1347,
+       "page": 1333
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 232,
+       "page": 195
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Oncology",
+       "pdfPage": 402,
+       "page": 402
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Painless jaundice is not the usual picture.** Step-Up reports **pain in 80%**, Trousseau syndrome in only about 10%, and a **Courvoisier sign in only about 13%**. KC Essentials describes painless jaundice as typical for head and ampullary tumours. Do not exclude cancer because the patient has pain.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 365,
+       "page": 365
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastrointestinal",
+       "pdfPage": 366,
+       "page": 366
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 232,
+       "page": 195
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 231,
+       "page": 194
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Investigations",
+     "items": [
+      "**Ultrasound** first: dilated ducts and a head mass. A **negative transabdominal ultrasound does not exclude cancer** (bowel gas, body and tail lesions).",
+      "**Contrast CT, pancreatic protocol (dual-phase)** to confirm and stage: nodes, metastases, vessel contact (SMA/SMV). The **double duct sign** is dilatation of both the CBD and the pancreatic duct.",
+      "**EUS** is the most sensitive non-surgical test (> 85%), best for lesions **< 2 cm**, and the preferred route for **FNA cytology** in surgical candidates (CT-guided biopsy risks seeding). EUS or laparoscopic ultrasound stages operability.",
+      "**ERCP** is mainly for **stenting** to relieve jaundice in inoperable patients.",
+      "**CA 19-9** is sensitive but **not specific** (it also rises in benign biliary obstruction). It is used serially for monitoring."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 864,
+       "page": 842
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1348,
+       "page": 1334,
+       "figure": "Fig. 35.17"
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Oncology",
+       "pdfPage": 402,
+       "page": 402
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 232,
+       "page": 195
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Management",
+     "columns": [
+      "Situation",
+      "Approach"
+     ],
+     "rows": [
+      [
+       "Resectable (only **10–15%**)",
+       "**Pancreatoduodenectomy (Whipple)** for head and neck tumours; **distal pancreatectomy** for body and tail. Resection is the **only cure**"
+      ],
+      [
+       "After resection",
+       "**Adjuvant chemotherapy**: gemcitabine (Davidson), or modified FOLFIRINOX if very fit (Pocket Medicine). 5-year survival is about **12%** with surgery alone and about **21–29%** with adjuvant gemcitabine"
+      ],
+      [
+       "Metastatic or locally advanced",
+       "Palliative **FOLFIRINOX** (median survival about 11 months) or gemcitabine-based regimens; chemoradiotherapy for some locally advanced disease"
+      ],
+      [
+       "Jaundice (70%)",
+       "**Endoscopic (or percutaneous) biliary stent**; surgical bypass (choledochojejunostomy) in fit patients"
+      ],
+      [
+       "Duodenal obstruction (up to 20%)",
+       "**Endoscopic duodenal stent**"
+      ],
+      [
+       "Pain",
+       "Analgesics; **coeliac plexus neurolysis/block**; palliative care team"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 864,
+       "page": 842
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Biliary tract and pancreatic disease",
+       "pdfPage": 1349,
+       "page": 1335
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Oncology",
+       "pdfPage": 403,
+       "page": 403
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 232,
+       "page": 195
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Prognosis:** overall survival only **3–5%**. Median survival is **6–10 months** with locally advanced disease and **3–5 months** with metastases. **Ampullary/periampullary** cancers behave better, with about **25%** 5-year survival after resection.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 864,
+       "page": 842
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Gastroenterology",
+       "pdfPage": 866,
+       "page": 844
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Gastroenterology",
+      "pdfPage": 865,
+      "page": 843,
+      "figure": "Fig. 21.69"
+     },
+     "note": "Look at: the clinical signs of pancreatic cancer: jaundice with scratch marks, palpable gallbladder, Sister Joseph’s nodule, thrombophlebitis migrans"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Biliary tract and pancreatic disease",
+      "pdfPage": 1348,
+      "page": 1334,
+      "figure": "Fig. 35.17"
+     },
+     "note": "Look at: low-attenuation head mass touching the SMA/SMV, and the double duct sign with dilated intrahepatic ducts"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Gastroenterology",
+      "pdfPage": 865,
+      "page": 843,
+      "figure": "Fig. 21.70"
+     },
+     "note": "Look at: a necrotic mass encasing the coeliac axis on CT, then EUS-guided FNA confirming adenocarcinoma"
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "gi-pancreas.c1",
+   "sectionId": "gi-pancreas.s1",
+   "front": "Which pancreatic cells secrete bicarbonate-rich fluid, and which hormone drives them?",
+   "back": "**Ductular cells**, driven by **secretin**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 792,
+     "page": 770,
+     "figure": "Fig. 21.9"
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c2",
+   "sectionId": "gi-pancreas.s1",
+   "front": "Which structure runs through the pancreatic head and gets compressed by a head tumour?",
+   "back": "The **distal common bile duct**, so the result is cholestatic (obstructive) jaundice.",
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "chapter": "Liver, biliary tract and pancreatic disease",
+     "pdfPage": 230,
+     "page": 193
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1347,
+     "page": 1333
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c3",
+   "sectionId": "gi-pancreas.s2",
+   "front": "Four causes that together make up about 90% of acute pancreatitis (Davidson)?",
+   "back": "**Gallstones, alcohol, idiopathic, post-ERCP.**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 860,
+     "page": 838
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c4",
+   "sectionId": "gi-pancreas.s2",
+   "front": "Three classic drug causes of acute pancreatitis listed by Davidson?",
+   "back": "**Azathioprine/mercaptopurine, thiazide diuretics, sodium valproate.**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 860,
+     "page": 838
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c5",
+   "sectionId": "gi-pancreas.s3",
+   "front": "Grey Turner’s versus Cullen’s sign?",
+   "back": "Grey Turner = **flank** bruising; Cullen = **periumbilical** bruising. Both indicate severe haemorrhagic pancreatitis.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 860,
+     "page": 838
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Gastrointestinal",
+     "pdfPage": 354,
+     "page": 354
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c6",
+   "sectionId": "gi-pancreas.s3",
+   "front": "Why does acute pancreatitis cause hypocalcaemia?",
+   "back": "Calcium is **sequestered in areas of fat necrosis** (saponification), lowering ionised calcium.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 860,
+     "page": 838
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Gastrointestinal",
+     "pdfPage": 356,
+     "page": 356
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c7",
+   "sectionId": "gi-pancreas.s3",
+   "front": "Pseudocyst: how long does the wall take to mature, and above what size do they rarely resolve?",
+   "back": "About **6 weeks** to form a fibrous capsule; above **6 cm** they rarely resolve.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 860,
+     "page": 838
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c8",
+   "sectionId": "gi-pancreas.s4",
+   "front": "What is the prognostic value of serum amylase in acute pancreatitis?",
+   "back": "**None.** If amylase stays high, think of a pseudocyst.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 861,
+     "page": 839
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c9",
+   "sectionId": "gi-pancreas.s4",
+   "front": "List the 9 Glasgow criteria (Davidson thresholds).",
+   "back": "Age > 55; PO2 < 8 kPa; WCC > 15; albumin < 32 g/L; corrected Ca < 2 mmol/L; glucose > 10 mmol/L; urea > 16 mmol/L; ALT > 200 U/L; LDH > 600 U/L.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 859,
+     "page": 837
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c10",
+   "sectionId": "gi-pancreas.s4",
+   "front": "Which CRP values predict severe acute pancreatitis?",
+   "back": "**> 150 mg/L** at 24–48 h; a **peak > 210 mg/L in the first 4 days** predicts severe disease with about 80% accuracy.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 859,
+     "page": 837
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 861,
+     "page": 839
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c11",
+   "sectionId": "gi-pancreas.s4",
+   "front": "Revised Atlanta: what defines severe acute pancreatitis?",
+   "back": "Organ failure **persisting beyond 48 h**.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1341,
+     "page": 1327
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Gastroenterology",
+     "pdfPage": 227,
+     "page": 227
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c12",
+   "sectionId": "gi-pancreas.s5",
+   "front": "Are prophylactic antibiotics indicated in severe acute pancreatitis?",
+   "back": "**No.** Infected necrosis is treated with a carbapenem, or a quinolone plus metronidazole.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 861,
+     "page": 839
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c13",
+   "sectionId": "gi-pancreas.s5",
+   "front": "When should cholecystectomy follow gallstone pancreatitis?",
+   "back": "**Within 2 weeks** of recovery, preferably **during the same admission**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 861,
+     "page": 839
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c14",
+   "sectionId": "gi-pancreas.s6",
+   "front": "What does the TIGAR-O classification stand for?",
+   "back": "Toxic–metabolic, Idiopathic, Genetic, Autoimmune, Recurrent/severe acute pancreatitis, Obstructive.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 862,
+     "page": 840
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c15",
+   "sectionId": "gi-pancreas.s6",
+   "front": "PRSS1 mutation: type and consequence?",
+   "back": "**Gain-of-function** of cationic trypsinogen, giving **autosomal dominant hereditary pancreatitis**.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1344,
+     "page": 1330
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c16",
+   "sectionId": "gi-pancreas.s7",
+   "front": "Chronic pancreatitis: thresholds for steatorrhoea and rates of diabetes?",
+   "back": "Steatorrhoea once **> 90%** of exocrine tissue is lost. Diabetes in **30%** overall and **70%** with calcific disease.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 862,
+     "page": 840
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c17",
+   "sectionId": "gi-pancreas.s7",
+   "front": "Screening test for pancreatic exocrine insufficiency?",
+   "back": "**Faecal elastase.** It is unaffected by enzyme supplements but can be falsely low in diarrhoea.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1339,
+     "page": 1325
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c18",
+   "sectionId": "gi-pancreas.s7",
+   "front": "Type 1 autoimmune pancreatitis: serology and treatment?",
+   "back": "**Raised IgG4**, with other organs involved. Treat with **glucocorticoids**, adding azathioprine for relapse.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1344,
+     "page": 1330
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 863,
+     "page": 841
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1346,
+     "page": 1332
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c19",
+   "sectionId": "gi-pancreas.s8",
+   "front": "Why give a PPI with pancreatic enzyme supplements?",
+   "back": "To raise **duodenal pH** so the enzymes work best.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 863,
+     "page": 841
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c20",
+   "sectionId": "gi-pancreas.s8",
+   "front": "Why is diabetes after total pancreatectomy so brittle?",
+   "back": "Both **insulin and glucagon** are lost, so the hypoglycaemia risk is high.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 863,
+     "page": 841
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c21",
+   "sectionId": "gi-pancreas.s9",
+   "front": "What is Courvoisier’s sign?",
+   "back": "A **palpable gallbladder in a jaundiced patient**, which usually means distal biliary obstruction by pancreatic cancer rather than stones.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 864,
+     "page": 842
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Liver, biliary tract and pancreatic disease",
+     "pdfPage": 232,
+     "page": 195
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.c22",
+   "sectionId": "gi-pancreas.s9",
+   "front": "Operation for a resectable pancreatic head cancer, and what proportion are resectable?",
+   "back": "**Pancreatoduodenectomy (Whipple).** Only about **10–15%** are resectable.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 864,
+     "page": 842
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1349,
+     "page": 1335
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "gi-pancreas.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 64-year-old man has deepening jaundice, pale stools and itching. CT shows a 3 cm mass confined to the head of the pancreas, with dilated intrahepatic ducts.",
+   "leadIn": "Compression of which structure best explains his jaundice?",
+   "options": [
+    "Distal common bile duct",
+    "Cystic duct",
+    "Common hepatic duct at the hilum",
+    "Portal vein",
+    "Superior mesenteric artery"
+   ],
+   "answer": 0,
+   "explanation": "The **distal common bile duct passes through the pancreatic head** before joining the pancreatic duct at the ampulla of Vater. A head mass compresses it and causes cholestatic jaundice with dilated ducts upstream.",
+   "whyNot": [
+    "",
+    "The cystic duct drains the gallbladder high above the pancreas, and blocking it does not cause jaundice.",
+    "The hilar duct lies in the liver hilum, well away from the pancreatic head.",
+    "Portal vein involvement affects resectability and portal pressure, not bile flow.",
+    "The SMA lies behind the pancreatic neck. Contact with it affects resectability but does not cause jaundice."
+   ],
+   "studyRef": {
+    "sectionId": "gi-pancreas.s1"
+   },
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "chapter": "Liver, biliary tract and pancreatic disease",
+     "pdfPage": 230,
+     "page": 193
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1337,
+     "page": 1323
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1347,
+     "page": 1333
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A student revising pancreatic physiology reads that acid entering the duodenum causes the pancreas to release a large volume of alkaline fluid, which neutralises the chyme and gives digestive enzymes a suitable pH.",
+   "leadIn": "Which pancreatic cells produce this fluid?",
+   "options": [
+    "Ductular cells",
+    "Acinar cells",
+    "Beta cells",
+    "Alpha cells",
+    "D (delta) cells"
+   ],
+   "answer": 0,
+   "explanation": "**Ductular cells** secrete bicarbonate-rich fluid in response to **secretin**. Acinar cells make the enzymes.",
+   "whyNot": [
+    "",
+    "Acinar cells secrete digestive pro-enzymes, not the bicarbonate-rich fluid.",
+    "Beta cells secrete insulin into the blood.",
+    "Alpha cells secrete glucagon into the blood.",
+    "D cells secrete somatostatin."
+   ],
+   "studyRef": {
+    "sectionId": "gi-pancreas.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 792,
+     "page": 770,
+     "figure": "Fig. 21.9"
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1338,
+     "page": 1324
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q3",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Causes of acute pancreatitis",
+   "leadIn": "Pick the best match from the list for every case below. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Gallstones",
+    "Alcohol",
+    "Hypertriglyceridaemia",
+    "Hypercalcaemia",
+    "Drug-induced (thiopurine)",
+    "Post-ERCP",
+    "Mumps infection",
+    "Pancreas divisum",
+    "Hereditary (PRSS1) pancreatitis",
+    "Blunt abdominal trauma"
+   ],
+   "items": [
+    {
+     "stem": "A 29-year-old woman with ileocolonic Crohn’s disease started a new steroid-sparing tablet five weeks ago. She now has severe epigastric pain going through to her back, and lipase is 7 times the upper limit of normal. She does not drink alcohol and ultrasound shows a normal gallbladder and bile duct.",
+     "answer": 4,
+     "explanation": "Two steps: the steroid-sparing drug in Crohn’s is a **thiopurine (azathioprine/mercaptopurine)**, a classic drug cause of acute pancreatitis. The timing and the absence of stones or alcohol support it.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s2"
+     }
+    },
+    {
+     "stem": "A 38-year-old man (HbA1c 11%, type 2 diabetes) has severe epigastric pain. His blood sample looks milky. Serum amylase is normal but lipase is grossly raised, and CT shows a swollen, inflamed pancreas. Triglycerides are 2400 mg/dL.",
+     "answer": 2,
+     "explanation": "Triglycerides far above 1000 mg/dL cause pancreatitis. Amylase can be **falsely normal** in about half of hypertriglyceridaemic attacks, so lipase or imaging makes the diagnosis.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s2"
+     }
+    },
+    {
+     "stem": "A 57-year-old woman with recurrent renal stones, constipation and low mood presents with acute epigastric pain and a raised lipase. She drinks no alcohol, has no gallstones, and her corrected calcium is 3.2 mmol/L.",
+     "answer": 3,
+     "explanation": "The stones, constipation and mood change with a high corrected calcium point to **hypercalcaemia**, a metabolic cause of acute (and chronic) pancreatitis.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 860,
+     "page": 838
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Gastroenterology",
+     "pdfPage": 225,
+     "page": 225
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Gastroenterology",
+     "pdfPage": 226,
+     "page": 226
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q4",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Complications of acute pancreatitis",
+   "leadIn": "Pick the best match from the list for every case below. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Hypocalcaemia",
+    "Hyperglycaemia",
+    "Acute respiratory distress syndrome",
+    "Pancreatic pseudocyst",
+    "Infected pancreatic necrosis",
+    "Pancreatic ascites",
+    "Splenic vein thrombosis",
+    "Pseudoaneurysm",
+    "Obstructive jaundice",
+    "Abdominal compartment syndrome"
+   ],
+   "items": [
+    {
+     "stem": "On day 2 of a severe attack of alcohol-related pancreatitis, a 44-year-old man reports tingling around his lips and fingers. When the BP cuff inflates, his hand goes into spasm.",
+     "answer": 0,
+     "explanation": "Perioral paraesthesia and carpopedal spasm are signs of **hypocalcaemia**. Calcium is sequestered in fat necrosis. Treat with IV calcium.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s3"
+     }
+    },
+    {
+     "stem": "On day 3 of severe gallstone pancreatitis, a 61-year-old woman becomes increasingly breathless, with SpO2 86% on high-flow oxygen. CXR shows new bilateral diffuse infiltrates, and her echocardiogram is normal.",
+     "answer": 2,
+     "explanation": "Refractory hypoxia with bilateral infiltrates and normal cardiac function is **ARDS**. Pancreatitis causes it through cytokines and pulmonary microthrombi.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s3"
+     }
+    },
+    {
+     "stem": "Seven weeks after a severe attack, a 50-year-old man has early satiety and constant epigastric fullness. There is a smooth epigastric mass, and his serum amylase has stayed raised since discharge.",
+     "answer": 3,
+     "explanation": "Two steps: a **persistently raised amylase** weeks after an attack, together with a mass compressing the stomach, indicates a collection that has matured into a **pseudocyst** (fibrous wall by about 6 weeks).",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 860,
+     "page": 838
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 861,
+     "page": 839
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Gastrointestinal",
+     "pdfPage": 356,
+     "page": 356
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q5",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Investigations in suspected acute pancreatitis",
+   "leadIn": "Pick the best match from the list for every case below. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Serum lipase",
+    "Serum amylase",
+    "Erect chest X-ray",
+    "Abdominal ultrasound",
+    "Contrast-enhanced CT of the pancreas",
+    "MRCP",
+    "ERCP",
+    "Serum C-reactive protein",
+    "Serum triglycerides",
+    "CT-guided aspiration of necrotic material for culture",
+    "12-lead ECG"
+   ],
+   "items": [
+    {
+     "stem": "A 52-year-old man has sudden severe epigastric pain. Before acute pancreatitis is accepted as the diagnosis, the team wants the quickest test to exclude a condition that would need emergency surgery.",
+     "answer": 2,
+     "explanation": "An **erect CXR** looks for free gas under the diaphragm, which would mean a perforated viscus. It is required in acute upper abdominal pain.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s4"
+     }
+    },
+    {
+     "stem": "A 47-year-old woman who does not drink has acute pancreatitis confirmed by a lipase 9 times normal. Her ALT is 5 times the upper limit of normal. Which test should be done on admission to identify the likely cause?",
+     "answer": 3,
+     "explanation": "An ALT more than 3× normal strongly suggests a **gallstone** cause. **Ultrasound** shows gallstones and bile duct dilatation.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s4"
+     }
+    },
+    {
+     "stem": "On day 9 of severe pancreatitis, a 58-year-old man develops spiking fevers. Contrast CT shows a non-enhancing pancreatic body containing bubbles of gas. Which test will guide antibiotic treatment?",
+     "answer": 9,
+     "explanation": "Two steps: a non-enhancing gland means **necrosis**, and **gas** within it means infection. **Aspiration for culture** identifies the organism to target.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 861,
+     "page": 839,
+     "figure": "Fig. 21.66"
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1340,
+     "page": 1326
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Gastroenterology",
+     "pdfPage": 227,
+     "page": 227
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 66-year-old woman has severe gallstone pancreatitis. On day 1 she develops rigors, temperature 39.2 °C, rising bilirubin and a dilated common bile duct on ultrasound. She is resuscitated with IV crystalloid in HDU.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Urgent ERCP with sphincterotomy and duct clearance",
+    "Immediate laparoscopic cholecystectomy",
+    "Prophylactic meropenem and repeat ultrasound in 1 week",
+    "Contrast CT of the pancreas today to look for necrosis",
+    "Elective MRCP after recovery"
+   ],
+   "answer": 0,
+   "explanation": "Severe gallstone pancreatitis with **cholangitis or jaundice** needs **urgent ERCP** to clear the duct. Cholecystectomy follows later, within 2 weeks of recovery.",
+   "whyNot": [
+    "",
+    "Surgery in the acute severe phase with cholangitis is inappropriate. Cholecystectomy is done after recovery.",
+    "Antibiotics treat the cholangitis but do not relieve the obstruction. Waiting a week is unsafe.",
+    "CT is reserved for about 6–10 days if she deteriorates. It will not relieve biliary obstruction.",
+    "Delayed biliary imaging suits less severe cases without cholangitis."
+   ],
+   "studyRef": {
+    "sectionId": "gi-pancreas.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 861,
+     "page": 839
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Gastroenterology",
+     "pdfPage": 228,
+     "page": 228
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 49-year-old man is in ICU with predicted severe alcohol-related pancreatitis (Glasgow score 5). It is day 2. He has no ileus, bowel sounds are present, and there is no evidence of infection.",
+   "leadIn": "What is the most appropriate nutritional strategy?",
+   "options": [
+    "Early enteral feeding through a nasogastric tube",
+    "Total parenteral nutrition through a central line",
+    "Nil by mouth with IV dextrose only until pain resolves",
+    "Nasogastric aspiration and nil by mouth for 7 days",
+    "Enteral feeding only after endoscopic nasojejunal tube placement"
+   ],
+   "answer": 0,
+   "explanation": "Severe pancreatitis is a **catabolic** state. **Early enteral feeding** reduces endotoxaemia, and **nasogastric** feeding is as effective as nasojejunal.",
+   "whyNot": [
+    "",
+    "TPN carries a higher infection risk and is avoided when the gut can be used.",
+    "Prolonged starvation worsens the catabolic state and gives no benefit.",
+    "NG aspiration is used only for paralytic ileus, which he does not have.",
+    "A nasojejunal tube is unnecessary. NG feeding works equally well."
+   ],
+   "studyRef": {
+    "sectionId": "gi-pancreas.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 861,
+     "page": 839
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Gastroenterology",
+     "pdfPage": 228,
+     "page": 228
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 19-year-old man has had recurrent attacks of acute pancreatitis since age 9. He does not drink. His father and paternal aunt had the same problem, and his father later died of pancreatic cancer.",
+   "leadIn": "Which genetic abnormality is most likely?",
+   "options": [
+    "Gain-of-function mutation in PRSS1 (cationic trypsinogen)",
+    "Loss-of-function mutation in SPINK1",
+    "Biallelic CFTR mutations",
+    "Calcium-sensing receptor (CASR) variant",
+    "Chymotrypsin C (CTRC) loss-of-function"
+   ],
+   "answer": 0,
+   "explanation": "Childhood onset with an **autosomal dominant** pattern (affected parent and aunt) is typical of **PRSS1 gain-of-function hereditary pancreatitis**. Its high lifetime cancer risk fits the father’s outcome.",
+   "whyNot": [
+    "",
+    "SPINK1 variants raise risk (notably in tropical pancreatitis) but do not usually give a clear dominant family pattern.",
+    "Biallelic CFTR disease would usually include cystic fibrosis features and recessive inheritance.",
+    "CASR variants are modifiers, not a dominant cause.",
+    "CTRC variants modify risk and do not produce this dominant pattern."
+   ],
+   "studyRef": {
+    "sectionId": "gi-pancreas.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1344,
+     "page": 1330,
+     "figure": "Fig. 35.13"
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1346,
+     "page": 1332
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "In alcohol-related chronic pancreatitis, a sentinel attack of acute pancreatitis is followed by ongoing inflammation driven by continued drinking. A particular cell type then lays down the fibrous tissue that replaces the acini.",
+   "leadIn": "Which cell is activated to produce this fibrosis?",
+   "options": [
+    "Pancreatic stellate cell",
+    "Acinar cell",
+    "Centroacinar ductal cell",
+    "Beta cell",
+    "Kupffer cell"
+   ],
+   "answer": 0,
+   "explanation": "Davidson’s model: **activated pancreatic stellate cells** drive fibrosis, and repeated cycles of inflammation and fibrosis produce chronic pancreatitis.",
+   "whyNot": [
+    "",
+    "Acinar cells are the cells destroyed and replaced, not the source of fibrosis.",
+    "Ductal cells secrete alkaline fluid and do not produce fibrous tissue.",
+    "Beta cells make insulin. Losing them causes diabetes.",
+    "Kupffer cells are liver macrophages."
+   ],
+   "studyRef": {
+    "sectionId": "gi-pancreas.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 862,
+     "page": 840,
+     "figure": "Fig. 21.67"
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q10",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Chronic and structural pancreatic disorders",
+   "leadIn": "Pick the best match from the list for every case below. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Alcohol-related chronic pancreatitis",
+    "Type 1 autoimmune pancreatitis",
+    "Type 2 autoimmune pancreatitis",
+    "Tropical calcific pancreatitis",
+    "Hereditary pancreatitis",
+    "Pancreas divisum",
+    "Annular pancreas",
+    "Cystic fibrosis",
+    "Serous cystadenoma",
+    "Mucinous cystic neoplasm",
+    "Intraductal papillary mucinous neoplasm",
+    "Pancreatic ductal adenocarcinoma"
+   ],
+   "items": [
+    {
+     "stem": "A 66-year-old man has painless jaundice and weight loss. CT shows a diffusely enlarged, featureless pancreas with a narrowed main duct and a distal bile duct stricture. Serum IgG4 is markedly raised and both submandibular glands are swollen. Imaging returns to normal after a course of prednisolone.",
+     "answer": 1,
+     "explanation": "A man with **high IgG4**, other organs involved and a **steroid response** fit **type 1 (IgG4-related) autoimmune pancreatitis**, which mimics cancer.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s7"
+     }
+    },
+    {
+     "stem": "A 44-year-old woman has a 4 cm cyst in the tail of the pancreas found on CT for renal colic. EUS-guided aspiration shows viscous fluid with a high CEA.",
+     "answer": 9,
+     "explanation": "Woman, **tail** location and a high cyst-fluid **CEA** mean a **mucinous** cyst. These can become malignant and are resected in fit patients.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s7"
+     }
+    },
+    {
+     "stem": "A 34-year-old woman with ulcerative colitis has epigastric pain and focal pancreatic swelling on CT. Serum IgG4 is normal and no other organs are involved. The swelling settles quickly on glucocorticoids.",
+     "answer": 2,
+     "explanation": "Two steps: steroid-responsive pancreatitis with **normal IgG4** in a young patient with **IBD** is **type 2 autoimmune pancreatitis**.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 863,
+     "page": 841
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1344,
+     "page": 1330
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 866,
+     "page": 844
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Gastroenterology",
+     "pdfPage": 230,
+     "page": 230
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 52-year-old man with alcohol-related chronic pancreatitis has stopped drinking. He still passes 5 pale, offensive, floating stools a day despite taking pancreatic enzyme capsules with meals.",
+   "leadIn": "Which addition is most likely to improve the effect of his enzymes?",
+   "options": [
+    "A proton pump inhibitor",
+    "Octreotide",
+    "Colestyramine",
+    "Loperamide",
+    "Metformin"
+   ],
+   "answer": 0,
+   "explanation": "Pancreatic enzymes work best at a higher **duodenal pH**. Davidson adds a **PPI** to optimise enzyme activity in chronic pancreatitis and cystic fibrosis.",
+   "whyNot": [
+    "",
+    "Octreotide suppresses pancreatic secretion and does not improve digestion.",
+    "Colestyramine binds bile acids and can worsen fat malabsorption.",
+    "Loperamide slows the stool but does nothing for the malabsorption.",
+    "Metformin treats diabetes, not steatorrhoea."
+   ],
+   "studyRef": {
+    "sectionId": "gi-pancreas.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 863,
+     "page": 841
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 864,
+     "page": 842
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 45-year-old woman had a total pancreatectomy for intractable chronic pancreatitis. Despite careful insulin dosing, she has repeated severe hypoglycaemic episodes alternating with marked hyperglycaemia.",
+   "leadIn": "What best explains her brittle diabetes?",
+   "options": [
+    "Loss of both insulin and glucagon secretion",
+    "Insulin resistance from the weight gain after surgery",
+    "Excess somatostatin from residual islet tissue",
+    "Selective malabsorption of carbohydrate only",
+    "Autoimmune destruction of transplanted islets"
+   ],
+   "answer": 0,
+   "explanation": "Removing the whole gland takes away **glucagon** as well as insulin, so there is no counter-regulation and hypoglycaemia is common and severe.",
+   "whyNot": [
+    "",
+    "Insulin resistance would raise insulin needs but would not cause frequent severe hypoglycaemia.",
+    "No islet tissue remains after total pancreatectomy.",
+    "Malabsorption after pancreatectomy mainly affects fat, and it would not explain severe hypoglycaemia.",
+    "No islet transplant is mentioned."
+   ],
+   "studyRef": {
+    "sectionId": "gi-pancreas.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 863,
+     "page": 841
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1346,
+     "page": 1332
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q13",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Investigating suspected pancreatic cancer",
+   "leadIn": "Pick the best match from the list for every case below. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Transabdominal ultrasound",
+    "Dual-phase pancreatic protocol CT",
+    "EUS-guided fine-needle aspiration",
+    "CT-guided percutaneous biopsy",
+    "ERCP with biliary stent insertion",
+    "MRCP",
+    "Serum CA 19-9",
+    "Staging laparoscopy with laparoscopic ultrasound",
+    "Serum IgG4",
+    "Faecal elastase"
+   ],
+   "items": [
+    {
+     "stem": "A 71-year-old man has jaundice and weight loss. Ultrasound shows dilated intra- and extrahepatic ducts, but bowel gas hides the pancreas. What is the best next test to confirm a mass and stage it?",
+     "answer": 1,
+     "explanation": "A negative or inconclusive ultrasound does not exclude cancer. **Dual-phase pancreatic protocol CT** confirms the mass and assesses vessels, nodes and metastases.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s9"
+     }
+    },
+    {
+     "stem": "A fit 63-year-old woman has a 1.5 cm pancreatic head lesion on CT with no vascular involvement. The surgeons want tissue before resection while avoiding tumour seeding.",
+     "answer": 2,
+     "explanation": "**EUS** is the most sensitive test for small (< 2 cm) lesions and is the preferred route for cytology in surgical candidates. CT-guided biopsy risks seeding the tract.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s9"
+     }
+    },
+    {
+     "stem": "An 86-year-old frail woman has multiple liver metastases from a pancreatic head cancer. Bilirubin is 290 µmol/L and the itch keeps her awake.",
+     "answer": 4,
+     "explanation": "In inoperable disease the main role of **ERCP** is to place a **biliary stent** and relieve obstructive jaundice and pruritus.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s9"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1348,
+     "page": 1334,
+     "figure": "Fig. 35.17"
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Oncology",
+     "pdfPage": 402,
+     "page": 402
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 864,
+     "page": 842
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q14",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Clinical signs in pancreatic disease",
+   "leadIn": "Pick the best match from the list for every case below. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Cullen’s sign",
+    "Grey Turner’s sign",
+    "Fox’s sign",
+    "Courvoisier’s sign",
+    "Erythema ab igne",
+    "Thrombophlebitis migrans (Trousseau’s syndrome)",
+    "Sister Joseph’s nodule",
+    "Virchow’s node",
+    "Scratch marks of cholestasis"
+   ],
+   "items": [
+    {
+     "stem": "A thin 50-year-old man with long-standing upper abdominal pain, steatorrhoea and diabetes has a net-like brown pigmentation over his lower back.",
+     "answer": 4,
+     "explanation": "Chronic pancreatitis pain is often eased with a hot water bottle. Repeated heat causes **erythema ab igne**.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s7"
+     }
+    },
+    {
+     "stem": "On day 3 of a severe attack of acute pancreatitis, a 55-year-old woman develops bluish bruising around her umbilicus.",
+     "answer": 0,
+     "explanation": "Periumbilical bruising is **Cullen’s sign**. Flank bruising would be Grey Turner’s. Both mark haemorrhagic, severe pancreatitis.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s3"
+     }
+    },
+    {
+     "stem": "A 68-year-old man with weight loss and new diabetes has painful, tender superficial venous cords that keep appearing, first in his left forearm, then his right calf.",
+     "answer": 5,
+     "explanation": "Recurrent, migrating superficial thrombosis is **thrombophlebitis migrans**, a recognised presentation of pancreatic cancer.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s9"
+     }
+    },
+    {
+     "stem": "A 73-year-old jaundiced woman has a smooth, non-tender right upper quadrant mass, which descends on inspiration. She has never had biliary colic.",
+     "answer": 3,
+     "explanation": "A **palpable gallbladder in a jaundiced patient** (Courvoisier’s sign) points to distal obstruction by pancreatic cancer. Gallstones usually leave a fibrosed gallbladder that does not distend.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s9"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 860,
+     "page": 838
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 862,
+     "page": 840
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 864,
+     "page": 842
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 865,
+     "page": 843,
+     "figure": "Fig. 21.69"
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Liver, biliary tract and pancreatic disease",
+     "pdfPage": 232,
+     "page": 195
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 57-year-old man is admitted with acute pancreatitis. Results within 48 h: serum amylase 2400 U/L, white cell count 12 × 10^9/L, glucose 8 mmol/L, albumin 35 g/L, PO2 10 kPa.",
+   "leadIn": "Which finding counts towards his Glasgow (Imrie) score?",
+   "options": [
+    "His age",
+    "Serum amylase 2400 U/L",
+    "White cell count 12 × 10^9/L",
+    "Glucose 8 mmol/L",
+    "Albumin 35 g/L"
+   ],
+   "answer": 0,
+   "explanation": "The Glasgow criteria include **age > 55**. The other values fall below the thresholds (WCC > 15, glucose > 10, albumin < 32, PO2 < 8 kPa). Amylase is not part of the score.",
+   "whyNot": [
+    "",
+    "Amylase is not a Glasgow criterion and has no prognostic value.",
+    "The threshold is a white cell count above 15 × 10^9/L.",
+    "The threshold is glucose above 10 mmol/L.",
+    "The threshold is albumin below 32 g/L (Davidson)."
+   ],
+   "studyRef": {
+    "sectionId": "gi-pancreas.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 859,
+     "page": 837
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 861,
+     "page": 839
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 46-year-old woman with acute pancreatitis develops hypotension and a rising creatinine on admission. Both recover fully within 36 hours with fluids. CT on day 7 shows an acute peripancreatic fluid collection.",
+   "leadIn": "How is this attack classified by the revised Atlanta criteria?",
+   "options": [
+    "Moderately severe",
+    "Mild",
+    "Severe",
+    "Critical",
+    "Cannot be graded without a Glasgow score"
+   ],
+   "answer": 0,
+   "explanation": "**Transient organ failure (< 48 h)** and/or a **local complication** make the attack **moderately severe**. Severe requires organ failure lasting beyond 48 h.",
+   "whyNot": [
+    "",
+    "Mild requires no organ failure and no local complications.",
+    "Severe requires persistent organ failure beyond 48 h, which she did not have.",
+    "Critical is not a grade in the revised Atlanta classification.",
+    "Atlanta grading uses organ failure and complications, not the Glasgow score."
+   ],
+   "studyRef": {
+    "sectionId": "gi-pancreas.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1341,
+     "page": 1327
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Gastroenterology",
+     "pdfPage": 227,
+     "page": 227
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "A 54-year-old man with long-standing alcohol-related chronic calcific pancreatitis has a large haematemesis. Endoscopy shows isolated gastric fundal varices without oesophageal varices. His liver tests and liver texture on ultrasound are normal, and the spleen is enlarged.",
+   "leadIn": "What is the most likely cause of his varices?",
+   "options": [
+    "Splenic vein thrombosis",
+    "Alcohol-related cirrhosis",
+    "Budd–Chiari syndrome",
+    "Splenic artery pseudoaneurysm",
+    "Right heart failure"
+   ],
+   "answer": 0,
+   "explanation": "Two steps: in chronic pancreatitis, **splenic vein thrombosis** causes **segmental (left-sided) portal hypertension**. This produces isolated **gastric varices** while the liver is normal.",
+   "whyNot": [
+    "",
+    "Cirrhosis would usually cause oesophageal varices and abnormal liver tests or texture.",
+    "Budd–Chiari gives hepatomegaly, ascites and abnormal liver tests.",
+    "A pseudoaneurysm can bleed, but it does not form varices.",
+    "Right heart failure causes congestive hepatopathy, not isolated gastric varices."
+   ],
+   "studyRef": {
+    "sectionId": "gi-pancreas.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 862,
+     "page": 840
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Gastrointestinal",
+     "pdfPage": 362,
+     "page": 362
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q18",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 24-year-old man has fever and painful swelling of both parotid glands, with mild central abdominal discomfort. Serum amylase is 3 times normal. Serum lipase is normal and the abdomen is soft and non-tender.",
+   "leadIn": "What is the most likely explanation for the raised amylase?",
+   "options": [
+    "Salivary amylase from parotitis",
+    "Acute pancreatitis",
+    "Perforated duodenal ulcer",
+    "Mesenteric ischaemia",
+    "Pancreatic pseudocyst"
+   ],
+   "answer": 0,
+   "explanation": "Parotitis raises the **salivary isoenzyme** of amylase. A normal lipase and a soft abdomen argue against pancreatitis, which is why lipase is the preferred test.",
+   "whyNot": [
+    "",
+    "A normal lipase and a soft, non-tender abdomen make acute pancreatitis unlikely.",
+    "A perforation gives a rigid abdomen with guarding and rebound.",
+    "Mesenteric ischaemia gives severe pain in an older, unwell patient.",
+    "A pseudocyst follows an attack of pancreatitis, which he has not had."
+   ],
+   "studyRef": {
+    "sectionId": "gi-pancreas.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 861,
+     "page": 839
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Gastroenterology",
+     "pdfPage": 226,
+     "page": 226
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q19",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 63-year-old woman is admitted with gallstone pancreatitis. At 48 hours: PO2 7.6 kPa on air, WCC 17 × 10^9/L, corrected calcium 1.9 mmol/L, urea 18 mmol/L after fluids, albumin 29 g/L, glucose 9 mmol/L, CRP 240 mg/L.",
+   "leadIn": "What is the most appropriate next step in her care?",
+   "options": [
+    "Transfer to HDU/ICU for organ support and monitoring",
+    "Start prophylactic IV meropenem",
+    "Repeat serum amylase to judge severity",
+    "Urgent laparotomy and necrosectomy",
+    "Continue ward care and restart a normal diet"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: count the Glasgow criteria. Age > 55, PO2 < 8 kPa, WCC > 15, calcium < 2, urea > 16 and albumin < 32 make **six**, well above the \"more than three\" cut-off. Step 2: CRP > 150 mg/L at 48 h also predicts **severe** disease. Step 3: Davidson says every severe case belongs in **HDU/ICU**, with a central line, urinary catheter, oxygen, insulin and calcium as needed.",
+   "whyNot": [
+    "",
+    "Davidson says prophylactic antibiotics are not indicated. Use them only for infected necrosis.",
+    "Amylase has no prognostic value.",
+    "Early surgery is not indicated. Infected necrosis is managed step-up and later.",
+    "A predicted severe attack needs a higher level of care, and early feeding should be enteral, not a normal diet."
+   ],
+   "studyRef": {
+    "sectionId": "gi-pancreas.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 859,
+     "page": 837
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 861,
+     "page": 839
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q20",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 47-year-old man who has drunk heavily for 20 years has had recurrent epigastric pain for 3 years, now with pale, bulky, offensive stools, 8 kg weight loss and a new diagnosis of diabetes. Plain abdominal film shows speckled calcification in the left upper quadrant. Serum amylase and lipase are normal.",
+   "leadIn": "Which test best screens for pancreatic exocrine insufficiency in this patient?",
+   "options": [
+    "Faecal elastase",
+    "Serum lipase",
+    "Pure pancreatic juice collection after secretin",
+    "Serum IgG4",
+    "Faecal calprotectin"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: the alcohol history, pain, steatorrhoea, diabetes and calcification make **chronic pancreatitis** clear. Step 2: serum enzymes are often **normal** because little acinar tissue remains, so they are unhelpful. Step 3: **faecal elastase** is the screening test of choice for exocrine function and is unaffected by enzyme supplements.",
+   "whyNot": [
+    "",
+    "Serum enzymes are often normal in burnt-out chronic pancreatitis.",
+    "The secretin test is the gold standard but invasive and rarely used, so it is not a screening test.",
+    "IgG4 is for suspected autoimmune pancreatitis, not for measuring function.",
+    "Calprotectin detects intestinal inflammation, not pancreatic insufficiency."
+   ],
+   "studyRef": {
+    "sectionId": "gi-pancreas.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 862,
+     "page": 840
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 863,
+     "page": 841
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1339,
+     "page": 1325
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1345,
+     "page": 1331
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q21",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 67-year-old smoker has 2 months of weight loss, new diabetes and now painless jaundice with itching. His gallbladder is palpable. Pancreatic protocol CT shows a 2.5 cm mass in the pancreatic head with dilated common bile and pancreatic ducts, no arterial or venous involvement and no metastases. He is fit (ECOG 0).",
+   "leadIn": "What is the most appropriate definitive management?",
+   "options": [
+    "Pancreatoduodenectomy (Whipple) followed by adjuvant chemotherapy",
+    "Distal pancreatectomy with splenectomy",
+    "Palliative FOLFIRINOX alone",
+    "Endoscopic biliary metal stent as definitive treatment",
+    "Coeliac plexus neurolysis"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: jaundice, a palpable gallbladder (**Courvoisier**) and the **double duct sign** locate the tumour in the head. Step 2: no vessel contact and no metastases mean it is **resectable**, as only 10–15% are. Step 3: head tumours are removed by **Whipple pancreatoduodenectomy**. **Adjuvant chemotherapy** raises 5-year survival from about 12% to 21–29%.",
+   "whyNot": [
+    "",
+    "Distal pancreatectomy is for body and tail tumours.",
+    "Palliative chemotherapy alone gives up the only chance of cure in a resectable tumour.",
+    "A stent relieves jaundice in inoperable patients but does not treat the cancer.",
+    "Neurolysis is for pain palliation, and he has no pain."
+   ],
+   "studyRef": {
+    "sectionId": "gi-pancreas.s9"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 864,
+     "page": 842
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1348,
+     "page": 1334,
+     "figure": "Fig. 35.17"
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1349,
+     "page": 1335
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Oncology",
+     "pdfPage": 403,
+     "page": 403
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q22",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Management decisions in acute pancreatitis",
+   "leadIn": "Pick the best match from the list for every case below. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Urgent ERCP with sphincterotomy",
+    "Laparoscopic cholecystectomy during the same admission",
+    "IV carbapenem only",
+    "Step-up drainage and endoscopic necrosectomy",
+    "Endoscopic cystogastrostomy",
+    "Nasogastric enteral feeding",
+    "Total parenteral nutrition",
+    "Nasogastric aspiration",
+    "IV calcium gluconate",
+    "Insulin infusion to lower triglycerides",
+    "Surgical decompression of the abdomen",
+    "Observation with repeat imaging"
+   ],
+   "items": [
+    {
+     "stem": "A 41-year-old woman had mild gallstone pancreatitis that settled by day 4. Her liver tests have returned to normal and ultrasound shows gallstones but no duct dilatation.",
+     "answer": 1,
+     "explanation": "To prevent another, possibly fatal, attack, **cholecystectomy** should be done within 2 weeks, ideally **before discharge**. Normal LFTs and an undilated duct mean any duct stones have probably passed.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s5"
+     }
+    },
+    {
+     "stem": "Ten weeks after severe pancreatitis, a 52-year-old man has persistent epigastric fullness and early satiety. CT shows a 9 cm thick-walled pseudocyst pressing on the posterior wall of the stomach.",
+     "answer": 4,
+     "explanation": "A large (> 6 cm) symptomatic pseudocyst with a **mature wall** (after 6 weeks) is drained into the stomach by **cystogastrostomy**.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s5"
+     }
+    },
+    {
+     "stem": "On day 30 of severe necrotising pancreatitis, a 57-year-old man is still febrile and deteriorating despite 10 days of meropenem. CT shows a walled-off necrotic collection containing gas.",
+     "answer": 3,
+     "explanation": "Two steps: gas in walled-off necrosis means **infected necrosis**, and antibiotics alone are failing. At about 4 weeks the collection is ready for a minimally invasive **step-up approach** (drainage, then endoscopic or retroperitoneal necrosectomy).",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s5"
+     }
+    },
+    {
+     "stem": "A 48-year-old woman with severe pancreatitis who has needed large fluid volumes develops a tense, distended abdomen, rising ventilation pressures and new oliguria. Bladder pressure is 26 mmHg on repeated measurements.",
+     "answer": 10,
+     "explanation": "Sustained intra-abdominal pressure **above 20 mmHg** with new organ failure is **abdominal compartment syndrome**. It may need **surgical decompression**.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 861,
+     "page": 839
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1343,
+     "page": 1329
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Gastroenterology",
+     "pdfPage": 228,
+     "page": 228
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Gastrointestinal",
+     "pdfPage": 357,
+     "page": 357
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q23",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Acute upper abdominal pain",
+   "leadIn": "Pick the best match from the list for every case below. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Acute pancreatitis",
+    "Perforated peptic ulcer",
+    "Acute cholecystitis",
+    "Inferior myocardial infarction",
+    "Mesenteric ischaemia",
+    "Leaking abdominal aortic aneurysm",
+    "Chronic pancreatitis",
+    "Pancreatic carcinoma",
+    "Ruptured ectopic pregnancy",
+    "Small bowel obstruction"
+   ],
+   "items": [
+    {
+     "stem": "A 56-year-old man on long-term naproxen has sudden severe epigastric pain. His abdomen is board-like with guarding and rebound everywhere. Erect CXR shows gas under the right hemidiaphragm. Amylase is twice normal.",
+     "answer": 1,
+     "explanation": "Peritonism from the start and **free gas** mean a **perforated ulcer**. Amylase can rise modestly here, which is why an erect CXR is required.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s3"
+     }
+    },
+    {
+     "stem": "A 45-year-old man who drinks a bottle of vodka a day has had constant epigastric pain boring through to his back for 6 hours, with vomiting. The epigastrium is very tender but there is no guarding or rebound, and bowel sounds are quiet. Lipase is 10 times normal.",
+     "answer": 0,
+     "explanation": "Retroperitoneal inflammation gives **tenderness without early peritonism**, plus ileus and a lipase over 3× normal: **acute pancreatitis**.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s3"
+     }
+    },
+    {
+     "stem": "A 78-year-old woman with atrial fibrillation who does not take anticoagulants has severe central abdominal pain far greater than the mild tenderness found on examination. Lactate is high, and amylase is mildly raised.",
+     "answer": 4,
+     "explanation": "Two steps: AF without anticoagulation is a source of emboli to the superior mesenteric artery, and pain far greater than the signs with a metabolic (lactic) acidosis suggests **acute mesenteric ischaemia**. Amylase rises only modestly in intestinal ischaemia.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s3"
+     }
+    },
+    {
+     "stem": "A 60-year-old diabetic smoker has epigastric pain with vomiting and sweating. The abdomen is soft. The ECG has ST elevation over the inferior leads (II, III, aVF), and lipase is normal.",
+     "answer": 3,
+     "explanation": "MI, especially **inferior MI**, is a recognised differential of epigastric pain. Normal lipase and the ECG settle it.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 859,
+     "page": 837
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 860,
+     "page": 838
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 861,
+     "page": 839
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Gastroenterology",
+     "pdfPage": 226,
+     "page": 226
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 849,
+     "page": 827
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q24",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Management of chronic pancreatitis",
+   "leadIn": "Pick the best match from the list for every case below. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Oral pancreatic enzymes with a proton pump inhibitor",
+    "Prednisolone",
+    "Azathioprine",
+    "Endoscopic stone removal with lithotripsy and duct stenting",
+    "Pancreatico-jejunostomy",
+    "Total pancreatectomy",
+    "Coeliac plexus neurolysis",
+    "EUS-guided cystgastrostomy",
+    "Low-dose tricyclic antidepressant",
+    "Basal-bolus insulin",
+    "Medium-chain triglyceride supplements"
+   ],
+   "items": [
+    {
+     "stem": "A 64-year-old man with type 1 autoimmune pancreatitis responded well to prednisolone, but his jaundice and IgG4 rise again each time the steroid is tapered off.",
+     "answer": 2,
+     "explanation": "AIP responds to steroids, but **relapse on withdrawal** is common. A long-term immunomodulator such as **azathioprine** is then needed.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s8"
+     }
+    },
+    {
+     "stem": "A 49-year-old woman with chronic pancreatitis has not drunk alcohol for 2 years and still has disabling pain. MRCP shows a single obstructing stone in the main duct at the head with a dilated duct upstream. The team wants the least invasive effective intervention.",
+     "answer": 3,
+     "explanation": "Refractory pain in an **abstinent** patient with a correctable duct lesion: **endoscopic** treatment (stone removal with lithotripsy, stricture stenting) comes before surgery.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s8"
+     }
+    },
+    {
+     "stem": "A 55-year-old man with chronic pancreatitis has 6 pale, floating stools a day and is losing weight. Faecal elastase is very low.",
+     "answer": 0,
+     "explanation": "Exocrine insufficiency is treated with **oral enzymes with meals plus a PPI** to optimise duodenal pH.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s8"
+     }
+    },
+    {
+     "stem": "A 42-year-old man with chronic pancreatitis has constant burning epigastric pain despite regular paracetamol and an NSAID. He has stopped drinking and is anxious to avoid opioids because of a past dependence.",
+     "answer": 8,
+     "explanation": "Low-dose **tricyclic antidepressants** (or pregabalin) help the neuropathic-type pain of chronic pancreatitis without the addiction risk of opioids.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s8"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 863,
+     "page": 841
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1345,
+     "page": 1331
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Gastroenterology",
+     "pdfPage": 230,
+     "page": 230
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q25",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 33-year-old woman has had three attacks of acute pancreatitis in two years. She does not drink, ultrasound and EUS show no gallstones or microlithiasis, and calcium and triglycerides are normal. MRCP shows the dorsal duct draining most of the gland through the minor papilla.",
+   "leadIn": "What is the most likely underlying diagnosis?",
+   "options": [
+    "Pancreas divisum",
+    "Annular pancreas",
+    "Intraductal papillary mucinous neoplasm",
+    "Type 1 autoimmune pancreatitis",
+    "Choledochal cyst"
+   ],
+   "answer": 0,
+   "explanation": "Failure of the dorsal and ventral ducts to fuse leaves most drainage through the **accessory (minor) ampulla**. This is **pancreas divisum**, present in 7–10% of people. It is usually silent but can cause recurrent pancreatitis.",
+   "whyNot": [
+    "",
+    "Annular pancreas rings the duodenum and causes gastric outlet obstruction.",
+    "IPMN shows a mucin-filled dilated duct or side-branch cysts, usually in older men.",
+    "AIP causes jaundice or pain without acute attacks and shows a diffusely enlarged gland.",
+    "A choledochal cyst is a bile duct dilatation, not a pancreatic duct variant."
+   ],
+   "studyRef": {
+    "sectionId": "gi-pancreas.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 864,
+     "page": 842
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 860,
+     "page": 838
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q26",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 3,
+   "theme": "Management of pancreatic adenocarcinoma",
+   "leadIn": "Pick the best match from the list for every case below. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Pancreatoduodenectomy (Whipple)",
+    "Distal pancreatectomy",
+    "Adjuvant chemotherapy",
+    "Palliative FOLFIRINOX",
+    "Endoscopic biliary metal stent",
+    "Endoscopic duodenal stent",
+    "Coeliac plexus neurolysis",
+    "Surgical biliary bypass (choledochojejunostomy)",
+    "Trial of prednisolone",
+    "Total pancreatectomy"
+   ],
+   "items": [
+    {
+     "stem": "A 72-year-old man with liver metastases from pancreatic cancer has constant gnawing pain boring into his back. It is not controlled by escalating oral morphine and he is drowsy from it.",
+     "answer": 6,
+     "explanation": "Pain from **coeliac plexus invasion** that does not respond to opioids can be relieved by **coeliac plexus neurolysis/block**.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s9"
+     }
+    },
+    {
+     "stem": "Six weeks after an uncomplicated Whipple procedure with clear margins for a head adenocarcinoma, a fit 64-year-old woman attends the oncology clinic.",
+     "answer": 2,
+     "explanation": "After resection, **adjuvant chemotherapy** (gemcitabine-based or modified FOLFIRINOX) improves 5-year survival from about 12% to 21–29%.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s9"
+     }
+    },
+    {
+     "stem": "A fit 59-year-old man has a 3 cm adenocarcinoma in the pancreatic tail. There is no vascular encasement and no metastatic disease on staging.",
+     "answer": 1,
+     "explanation": "Resectable **body or tail** tumours are removed by **distal pancreatectomy**. The Whipple operation is for head and neck tumours.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s9"
+     }
+    },
+    {
+     "stem": "An 81-year-old woman with locally advanced, unresectable pancreatic head cancer already has a biliary stent. She now vomits undigested food several hours after meals. Endoscopy shows tumour narrowing the second part of the duodenum.",
+     "answer": 5,
+     "explanation": "Two steps: late vomiting of undigested food is **gastric outlet obstruction**, here from duodenal invasion (up to 20% of cases). In palliative disease it is relieved with an **endoscopic duodenal stent**.",
+     "studyRef": {
+      "sectionId": "gi-pancreas.s9"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 864,
+     "page": 842
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Biliary tract and pancreatic disease",
+     "pdfPage": 1349,
+     "page": 1335
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Oncology",
+     "pdfPage": 403,
+     "page": 403
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q27",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 58-year-old man with severe necrotising pancreatitis survives the first week in ICU. On day 21 he develops new fever, hypotension and worsening organ failure.",
+   "leadIn": "What is the most likely cause of this late deterioration?",
+   "options": [
+    "Sepsis from infected pancreatic necrosis",
+    "Early multi-organ failure from the initial cytokine surge",
+    "Hypocalcaemic arrhythmia",
+    "Hyperglycaemic hyperosmolar state",
+    "Persistent paralytic ileus"
+   ],
+   "answer": 0,
+   "explanation": "Deaths in the first week are mostly from **multi-organ failure**. **Later deaths** are mostly from **sepsis**, especially **infected necrosis**.",
+   "whyNot": [
+    "",
+    "Cytokine-driven multi-organ failure is the typical cause of deaths in the first week, not at day 21.",
+    "Hypocalcaemia is an early systemic complication and does not explain fever and shock.",
+    "Hyperglycaemia is managed with insulin and does not explain fever.",
+    "Ileus does not cause fever and shock."
+   ],
+   "studyRef": {
+    "sectionId": "gi-pancreas.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 859,
+     "page": 837
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 861,
+     "page": 839
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas.q28",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 15-year-old with cystic fibrosis has bulky, greasy stools and is below the 3rd centile for weight. He has been cutting down on fat because of his diarrhoea.",
+   "leadIn": "Which dietary approach is most appropriate?",
+   "options": [
+    "High-energy diet without fat restriction, with high-dose enzymes, a PPI and fat-soluble vitamins",
+    "Strict low-fat diet with enzyme supplements",
+    "Replace all dietary fat with medium-chain triglycerides",
+    "Elemental diet and stop enzymes",
+    "Gluten-free diet"
+   ],
+   "answer": 0,
+   "explanation": "In cystic fibrosis, steatorrhoea is universal but **fat must not be restricted**. Fat is a key calorie source, and patients need about 120–150% of normal intake. Give **high-dose enzymes**, a **PPI** and **fat-soluble vitamins**.",
+   "whyNot": [
+    "",
+    "Restricting fat worsens his malnutrition. In cystic fibrosis fat is not restricted.",
+    "MCT supplements are suggested by Davidson for malnourished chronic pancreatitis patients, not as a replacement for all fat in CF.",
+    "Enzymes are essential, and an elemental diet does not meet the energy need.",
+    "Nothing here suggests coeliac disease."
+   ],
+   "studyRef": {
+    "sectionId": "gi-pancreas.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Gastroenterology",
+     "pdfPage": 864,
+     "page": 842
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "gi-pancreas.o1",
+   "sectionId": "gi-pancreas.s3",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Gastroenterology",
+    "pdfPage": 860,
+    "page": 838,
+    "figure": "Fig. 21.65"
+   },
+   "identify": "CT: large **pancreatic pseudocyst** compressing the stomach. The pancreas is atrophic and calcified, showing chronic disease underneath."
+  },
+  {
+   "id": "gi-pancreas.o2",
+   "sectionId": "gi-pancreas.s4",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Gastroenterology",
+    "pdfPage": 861,
+    "page": 839,
+    "figure": "Fig. 21.66"
+   },
+   "identify": "Contrast CT: **non-enhancing pancreas = necrosis**. **Gas** within it suggests **infected necrosis**, so aspirate it for culture."
+  },
+  {
+   "id": "gi-pancreas.o3",
+   "sectionId": "gi-pancreas.s4",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Biliary tract and pancreatic disease",
+    "pdfPage": 1341,
+    "page": 1327,
+    "figure": "Fig. 35.11"
+   },
+   "identify": "CT acute pancreatitis: peripancreatic inflammation and free fluid with focal tail necrosis; follow-up scan showing large **pseudocysts**."
+  },
+  {
+   "id": "gi-pancreas.o4",
+   "sectionId": "gi-pancreas.s6",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Biliary tract and pancreatic disease",
+    "pdfPage": 1343,
+    "page": 1329,
+    "figure": "Fig. 35.12"
+   },
+   "identify": "Histology: **chronic pancreatitis**. Acini are lost and replaced by fibrosis, with an isolated surviving islet."
+  },
+  {
+   "id": "gi-pancreas.o5",
+   "sectionId": "gi-pancreas.s7",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Gastroenterology",
+    "pdfPage": 863,
+    "page": 841,
+    "figure": "Fig. 21.68"
+   },
+   "identify": "CT and MRCP: **chronic pancreatitis**. Dilated irregular main duct with a calcified stone, calcification of the head, and dilated side branches."
+  },
+  {
+   "id": "gi-pancreas.o6",
+   "sectionId": "gi-pancreas.s7",
+   "cite": {
+    "book": "stepup6",
+    "chapter": "Gastrointestinal",
+    "pdfPage": 364,
+    "page": 364,
+    "figure": "FIGURE 3-7"
+   },
+   "identify": "ERCP: **\"chain of lakes\"** (alternating strictures and dilatations) in chronic pancreatitis; CT shows calcification with a head pseudocyst."
+  },
+  {
+   "id": "gi-pancreas.o7",
+   "sectionId": "gi-pancreas.s9",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Biliary tract and pancreatic disease",
+    "pdfPage": 1348,
+    "page": 1334,
+    "figure": "Fig. 35.17"
+   },
+   "identify": "CT: low-attenuation **pancreatic head carcinoma** touching the SMA/SMV, with the **double duct sign** (dilated CBD and pancreatic duct)."
+  },
+  {
+   "id": "gi-pancreas.o8",
+   "sectionId": "gi-pancreas.s9",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Gastroenterology",
+    "pdfPage": 865,
+    "page": 843,
+    "figure": "Fig. 21.69"
+   },
+   "identify": "Clinical picture of **pancreatic cancer**: jaundice with scratch marks, Courvoisier gallbladder, Sister Joseph’s nodule, thrombophlebitis migrans, cachexia."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:05:38.034Z",
+  "contentHash": "02b6b7fbd43229a45e242bcbe44710bc32be3246167d84f3cfbf5e4c734c7475"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:05:38.089Z",
+  "contentHash": "02b6b7fbd43229a45e242bcbe44710bc32be3246167d84f3cfbf5e4c734c7475",
+  "checkerVersion": "source-check-v1"
+ }
+}

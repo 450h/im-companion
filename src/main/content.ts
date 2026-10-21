@@ -76,7 +76,17 @@ export function loadContent(dir: string): ContentPack {
   if (existsSync(allowPath)) {
     try {
       images = z
-        .record(z.string(), z.strictObject({ file: z.string(), title: z.string(), author: z.string(), license: z.string(), source: z.string() }))
+        .record(
+          z.string().regex(/^[a-z0-9-]{1,60}$/),
+          z.strictObject({
+            file: z.string().regex(/^[a-z0-9-]{1,60}\.(jpg|jpeg|png)$/),
+            title: z.string().max(200),
+            author: z.string().max(200),
+            license: z.string().max(40),
+            source: z.string().url().max(400),
+            topics: z.array(z.string().max(80)).max(20)
+          })
+        )
         .parse(readJson(allowPath))
       const MIME: Record<string, string> = { '.png': 'image/png', '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.webp': 'image/webp', '.gif': 'image/gif' }
       for (const img of Object.values(images)) {

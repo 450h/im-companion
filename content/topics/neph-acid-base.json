@@ -1,0 +1,3519 @@
+{
+ "topicId": "neph-acid-base",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "neph-acid-base.s1",
+   "title": "Acid–base physiology and a stepwise approach",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Arterial pH is normally **7.40**, which equals an H+ concentration of **40 nmol/L**. In health H+ stays within about **37–45 nmol/L (pH 7.43–7.35)**. A rise in H+ (falling pH) is acidosis; a fall in H+ (rising pH) is alkalosis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 385,
+       "page": 363
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Arterial reference values",
+     "columns": [
+      "Parameter",
+      "Davidson",
+      "Kumar & Clark"
+     ],
+     "rows": [
+      [
+       "H+ / pH",
+       "37–45 nmol/L (pH 7.35–7.43); 40 nmol/L = 7.40",
+       "35–45 nmol/L (pH 7.35–7.45)"
+      ],
+      [
+       "PCO2",
+       "5.33 kPa (40 mmHg) is the reference point for the compensation rules",
+       "4.8–6.1 kPa (36–46 mmHg)"
+      ],
+      [
+       "HCO3−",
+       "21–29 mmol/L in ECF; 24 mmol/L is the reference point",
+       "22–26 mmol/L (arterial plasma)"
+      ],
+      [
+       "Base deficit",
+       "—",
+       "±2.5"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 385,
+       "page": 363
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 386,
+       "page": 364
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 387,
+       "page": 365
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 233,
+       "page": 214
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "The **bicarbonate/carbonic acid pair** is the key ECF buffer: HCO3− is abundant and both arms are regulated — **CO2 by the lungs, HCO3− by the kidneys**. Their ratio sets pH: **pH = 6.1 + log [HCO3−] / (0.03 × PCO2 in mmHg)**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 386,
+       "page": 364
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 269,
+       "page": 269
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Three lines of defence against a pH change",
+     "items": [
+      "**Chemical buffers** in blood and tissues — act at once.",
+      "**Respiratory** — brainstem pH sensing alters ventilation and so PCO2 (fast).",
+      "**Renal** — extra acid excretion and new bicarbonate generation (slow, long-term)."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 386,
+       "page": 364
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "How the kidney handles acid",
+     "items": [
+      "**Proximal tubule** recovers about **85% of filtered HCO3−** using carbonic anhydrase-dependent H+ secretion.",
+      "**Distal nephron**: an H+-ATPase in intercalated cells secretes net acid.",
+      "Secreted H+ is carried in urine by **phosphate** (titratable acid) and **ammonia** (NH4+, made from glutamine).",
+      "Titratable acid is capped by GFR and plasma phosphate, but **ammonium excretion can rise several hundred-fold** — so any defect in renal acid excretion is really a defect in ammonium excretion.",
+      "**Acidosis and hypokalaemia** both switch on renal ammonia production."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 386,
+       "page": 364
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 216,
+       "page": 197
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 217,
+       "page": 198
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 340\" role=\"img\" aria-label=\"Stepwise blood gas approach\"><g font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\"><rect x=\"40\" y=\"10\" width=\"360\" height=\"44\" rx=\"8\" fill=\"#e8f0fb\" stroke=\"#3a6ea5\"/><text x=\"220\" y=\"29\">1. pH: acidaemia (low) or alkalaemia (high)?</text><text x=\"220\" y=\"45\">Normal pH with abnormal PCO2/HCO3 = think mixed</text><line x1=\"220\" y1=\"54\" x2=\"220\" y2=\"74\" stroke=\"#555\" stroke-width=\"2\"/><rect x=\"40\" y=\"74\" width=\"360\" height=\"44\" rx=\"8\" fill=\"#e8f0fb\" stroke=\"#3a6ea5\"/><text x=\"220\" y=\"93\">2. Primary process: which of PCO2 or HCO3</text><text x=\"220\" y=\"109\">has moved in the direction that explains the pH?</text><line x1=\"220\" y1=\"118\" x2=\"220\" y2=\"138\" stroke=\"#555\" stroke-width=\"2\"/><rect x=\"40\" y=\"138\" width=\"360\" height=\"44\" rx=\"8\" fill=\"#e8f0fb\" stroke=\"#3a6ea5\"/><text x=\"220\" y=\"157\">3. Compensation: compare the other value</text><text x=\"220\" y=\"173\">with the predicted change (off target = 2nd disorder)</text><line x1=\"220\" y1=\"182\" x2=\"220\" y2=\"202\" stroke=\"#555\" stroke-width=\"2\"/><rect x=\"40\" y=\"202\" width=\"360\" height=\"44\" rx=\"8\" fill=\"#fdf1e3\" stroke=\"#b5651d\"/><text x=\"220\" y=\"221\">4. Metabolic acidosis? Calculate the anion gap</text><text x=\"220\" y=\"237\">(correct for low albumin)</text><line x1=\"130\" y1=\"246\" x2=\"130\" y2=\"270\" stroke=\"#555\" stroke-width=\"2\"/><line x1=\"310\" y1=\"246\" x2=\"310\" y2=\"270\" stroke=\"#555\" stroke-width=\"2\"/><rect x=\"20\" y=\"270\" width=\"200\" height=\"60\" rx=\"8\" fill=\"#fdf1e3\" stroke=\"#b5651d\"/><text x=\"120\" y=\"290\">Raised gap: GOLD MARK;</text><text x=\"120\" y=\"306\">delta gap for hidden 2nd</text><text x=\"120\" y=\"322\">disorder; osmolar gap</text><rect x=\"230\" y=\"270\" width=\"190\" height=\"60\" rx=\"8\" fill=\"#fdf1e3\" stroke=\"#b5651d\"/><text x=\"325\" y=\"290\">Normal gap: GI loss</text><text x=\"325\" y=\"306\">vs RTA — urine pH,</text><text x=\"325\" y=\"322\">urine anion gap, K+</text></g></svg>",
+     "alt": "Algorithm: check pH, identify the primary process, compare compensation with the predicted value, then in metabolic acidosis calculate the anion gap and branch to raised-gap or normal-gap work-up.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 270,
+       "page": 270
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 785,
+       "page": 785
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 386,
+       "page": 364
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 389,
+       "page": 367
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 273,
+       "page": 273
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 274,
+       "page": 274
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Reading a gas quickly: a **high PCO2** is either respiratory acidosis or compensation for metabolic alkalosis; a **low PCO2** is respiratory alkalosis or compensation for metabolic acidosis. A **high HCO3−** is metabolic alkalosis or compensation for respiratory acidosis; a **low HCO3−** is metabolic acidosis or compensation for respiratory alkalosis. The pH tells you which one is primary.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 784,
+       "page": 784
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Acidosis/alkalosis** name the underlying process; **acidaemia/alkalaemia** describe the net blood pH. Many disturbances are first noticed only as an abnormal venous bicarbonate on routine chemistry.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 386,
+       "page": 364
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The bicarbonate on a **serum chemistry panel is measured** and more reliable than the **calculated** ABG value. A venous gas tracks arterial pH (within ~0.04) and HCO3− (within ~2 mmol/L) but **not PCO2** — a venous PCO2 ≥ 45 mmHg only screens for hypercapnia.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 780,
+       "page": 780
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 272,
+       "page": 272
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Normal pH limits differ slightly by source: Davidson 7.35–7.43, Kumar 7.35–7.45, Pocket Medicine 7.36–7.44. Use Davidson's range for exams; the reference midpoint (pH 7.40, H+ 40 nmol/L) is the same in all.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 385,
+       "page": 363
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 233,
+       "page": 214
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 269,
+       "page": 269
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 386,
+      "page": 364,
+      "figure": "Fig. 14.10"
+     },
+     "note": "Henderson–Hasselbalch relationship: which variable changes first in metabolic vs respiratory disorders, and where renal or respiratory compensation acts."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "fa2ck11",
+      "pdfPage": 961,
+      "page": 961,
+      "figure": "FIGURE 2.15-7"
+     },
+     "note": "One-page diagnostic algorithm for blood gas interpretation — useful to rehearse the order of steps."
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.s2",
+   "title": "Compensation: predicting the expected response",
+   "objectiveIdx": [
+    2,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Compensation pushes pH back towards normal but **rarely restores it fully**. In metabolic disorders the lungs adjust PCO2 within minutes to hours. In respiratory disorders there is only a small immediate HCO3− shift from red-cell buffering; the **renal** response begins within 12–24 h and needs **days** (a stable bicarbonate in about 2–5 days).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 386,
+       "page": 364
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 269,
+       "page": 269
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 790,
+       "page": 790
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 233,
+       "page": 214
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Predicted compensation (Davidson Box 14.18, with bedside mmHg rules)",
+     "columns": [
+      "Primary disorder",
+      "Primary change",
+      "Davidson rule (kPa, mmol/L)",
+      "Bedside mmHg equivalent"
+     ],
+     "rows": [
+      [
+       "Metabolic acidosis",
+       "HCO3− < 24",
+       "PCO2 fall = 0.16 × HCO3− fall",
+       "Winters: expected PCO2 = 1.5 × HCO3− + 8 (±2)"
+      ],
+      [
+       "Metabolic alkalosis",
+       "HCO3− > 24",
+       "PCO2 rise = 0.08 × HCO3− rise",
+       "PCO2 ≈ 0.7 × (HCO3− − 24) + 40 (±2)"
+      ],
+      [
+       "Acute respiratory acidosis",
+       "PCO2 > 5.33 kPa",
+       "HCO3− rise = 0.75 × PCO2 rise",
+       "≈ 1 mmol/L per 10 mmHg"
+      ],
+      [
+       "Chronic respiratory acidosis",
+       "PCO2 > 5.33 kPa",
+       "HCO3− rise = 2.62 × PCO2 rise",
+       "≈ 3–4 mmol/L per 10 mmHg"
+      ],
+      [
+       "Acute respiratory alkalosis",
+       "PCO2 < 5.33 kPa",
+       "HCO3− fall = 1.50 × PCO2 fall",
+       "≈ 2 mmol/L per 10 mmHg"
+      ],
+      [
+       "Chronic respiratory alkalosis",
+       "PCO2 < 5.33 kPa",
+       "HCO3− fall = 3.75 × PCO2 fall",
+       "≈ 4 mmol/L per 10 mmHg (Pocket)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 387,
+       "page": 365
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 270,
+       "page": 270
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 791,
+       "page": 791
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Limits of compensation",
+     "items": [
+      "Metabolic acidosis: PCO2 rarely falls below about **1.4 kPa (11 mmHg)**.",
+      "Metabolic alkalosis: hypoventilation is capped because hypoxia then drives breathing — Davidson: PCO2 does not exceed **7.33 kPa (55 mmHg)**; a higher value means an added respiratory acidosis.",
+      "No respiratory compensation if ventilation is **controlled** (ventilator) or the **respiratory centre is depressed** (drugs, head injury)."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 233,
+       "page": 214
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 387,
+       "page": 365
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 790,
+       "page": 790
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In metabolic acidosis a PCO2 **higher than predicted** means a coexisting respiratory acidosis — the patient is tiring. An acutely ill asthmatic whose PCO2 climbs back to 'normal' while pH falls has respiratory muscle fatigue and may need urgent ventilatory support. A PCO2 **lower than predicted** means an added respiratory alkalosis.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 785,
+       "page": 785
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 964,
+       "page": 964
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Acute or chronic respiratory disorder? For each 10 mmHg change in PCO2, pH moves about **0.07 if acute** and **0.03 if chronic**; values in between suggest an acute-on-chronic or mixed picture.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 791,
+       "page": 791
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Sources differ: Davidson says respiratory compensation is **almost immediate**, Kumar describes a **short delay** (blood–brain barrier). Davidson caps compensatory PCO2 at **7.33 kPa (55 mmHg)**, Kumar at **6.5 kPa (50 mmHg)**. Pocket mmHg coefficients are close but not identical to Davidson's kPa ones (e.g. chronic respiratory alkalosis 3.75 per kPa ≈ 0.5 per mmHg vs Pocket's 0.4). Follow Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 386,
+       "page": 364
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 387,
+       "page": 365
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 233,
+       "page": 214
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 270,
+       "page": 270
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The raised HCO3− of a **compensated chronic respiratory acidosis** can be misread as a primary metabolic alkalosis — always ask which change explains the pH and fits the clinical story.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 217,
+       "page": 198
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.s3",
+   "title": "Metabolic acidosis: anion gap and causes",
+   "objectiveIdx": [
+    0,
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Metabolic acidosis is a **primary fall in plasma HCO3−**, from accumulation of an acid other than carbonic acid or from loss of bicarbonate. The **anion gap** splits the causes into two groups: bicarbonate loss or mineral acid gain (normal gap, hyperchloraemic) versus accumulation of an unmeasured organic anion (raised gap).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 386,
+       "page": 364
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 387,
+       "page": 365
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 218,
+       "page": 199
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Anion gap — formula and normal range by source",
+     "columns": [
+      "Source",
+      "Formula",
+      "Normal range"
+     ],
+     "rows": [
+      [
+       "Davidson (primary)",
+       "(Na+ + K+) − (Cl− + HCO3−)",
+       "About 5–11 mmol/L (phosphate, sulphate, albumin)"
+      ],
+      [
+       "Kumar & Clark",
+       "(Na+ + K+) − (Cl− + HCO3−)",
+       "12–16 mmol/L"
+      ],
+      [
+       "Step-Up / Pocket",
+       "Na+ − (Cl− + HCO3−)",
+       "5–15; or expected ≈ 2.5 × albumin (g/dL)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 388,
+       "page": 366
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 218,
+       "page": 199
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 779,
+       "page": 779
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 273,
+       "page": 273
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Albumin is the main unmeasured anion.** A fall from 40 to 20 g/L can lower the gap by up to 6 mmol/L and hide a raised-gap acidosis; add about 2.5 to the gap for every 1 g/dL (10 g/L) of albumin below 4 g/dL. A low gap also occurs with raised unmeasured cations (Ca, Mg, K, lithium, immunoglobulin) or bromide/iodide.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 218,
+       "page": 199
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 779,
+       "page": 779
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 273,
+       "page": 273
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Anion gap ranges disagree between books because some include K+ and because lab methods differ. Use **Davidson's 5–11 mmol/L with K+ included** unless a question gives its own range.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 388,
+       "page": 366
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 218,
+       "page": 199
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 779,
+       "page": 779
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Causes of metabolic acidosis",
+     "columns": [
+      "Group",
+      "Causes",
+      "Key clue"
+     ],
+     "rows": [
+      [
+       "Normal gap — GI HCO3− loss",
+       "Diarrhoea (commonest), small bowel or pancreatic fistula, urinary diversion (ureterosigmoidostomy)",
+       "Obvious GI history; colon swaps urinary Cl− for HCO3− after diversion"
+      ],
+      [
+       "Normal gap — renal",
+       "Renal tubular acidosis, acetazolamide, early kidney failure",
+       "No GI loss; urine pH and urine anion gap (see next section)"
+      ],
+      [
+       "Normal gap — acid or fluid",
+       "NH4Cl or HCl infusion/poisoning; rapid bicarbonate-free IV fluid; recovery from hypocapnia",
+       "Iatrogenic history"
+      ],
+      [
+       "Raised gap — ketoacids",
+       "Diabetic, starvation and alcoholic ketoacidosis",
+       "Glucose high in DKA; normal or low in starvation/alcohol"
+      ],
+      [
+       "Raised gap — lactate",
+       "Shock/hypoxia; liver disease; drugs such as metformin; D-lactate in short bowel",
+       "Lactate > 2 mmol/L (D-lactate is missed by routine assay)"
+      ],
+      [
+       "Raised gap — kidney failure",
+       "Retained organic acids, phosphate, sulphate",
+       "Low GFR"
+      ],
+      [
+       "Raised gap — exogenous",
+       "Salicylate; methanol (→ formate); ethylene glycol (→ glycolate, oxalate); chronic paracetamol (5-oxoproline)",
+       "Drug/toxin history; osmolar gap for alcohols"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 387,
+       "page": 365
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 388,
+       "page": 366
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 275,
+       "page": 275
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 783,
+       "page": 783
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 273,
+       "page": 273
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Raised-gap causes — **GOLD MARK**: **G**lycols, **O**xoproline (chronic paracetamol), **L**-lactate, **D**-lactate, **M**ethanol, **A**spirin, **R**enal failure, **K**etoacidosis.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 220,
+       "page": 201
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 274,
+       "page": 274
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Lactic acidosis",
+     "items": [
+      "**Type 1 (A) — hypoxic**: circulatory failure and shock; also mesenteric ischaemia, carbon monoxide, cyanide.",
+      "**Type 2 (B) — non-hypoxic**: reduced lactate clearance in liver disease, or drugs/toxins such as **metformin**; Pocket adds malignancy, alcohol, thiamine deficiency, NRTIs, salicylate, propofol, linezolid.",
+      "**D-lactic acidosis**: colonic bacteria ferment carbohydrate in **short bowel** syndrome; the standard lactate assay does not detect it.",
+      "Diagnosis supported by plasma lactate above the normal maximum of **2 mmol/L**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 387,
+       "page": 365
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 388,
+       "page": 366
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 219,
+       "page": 200
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 273,
+       "page": 273
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Davidson labels lactic acidosis **type 1 / type 2**; Kumar and Pocket call the same groups **type A / type B**. Same concept, different names.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 387,
+       "page": 365
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 219,
+       "page": 200
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Ketoacidosis clues",
+     "items": [
+      "**DKA**: hyperglycaemia plus ketones.",
+      "**Starvation ketosis**: poor intake when glucose demand is high (pregnancy, breastfeeding); glucose not raised.",
+      "**Alcoholic ketoacidosis**: chronic malnutrition plus a recent binge; glucose normal or low."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 387,
+       "page": 365
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 388,
+       "page": 366
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Early ketoacidosis can give a **negative urine dipstick**, because the dipstick detects acetoacetate and early ketones are mostly β-hydroxybutyrate. Measure plasma β-hydroxybutyrate. A dipstick that turns positive during treatment does **not** mean the patient is worse.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 274,
+       "page": 274
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Toxic ingestions with a raised anion gap",
+     "columns": [
+      "Toxin",
+      "Acid formed",
+      "Discriminating features"
+     ],
+     "rows": [
+      [
+       "Methanol",
+       "Formate",
+       "Headache, blurred vision, photophobia, dilated pupils, optic disc oedema/hyperaemia; may leave permanent blindness"
+      ],
+      [
+       "Ethylene glycol (antifreeze)",
+       "Glycolate, oxalate",
+       "Calcium oxalate (envelope-shaped) crystals, AKI, hypocalcaemia; urine may fluoresce under UV"
+      ],
+      [
+       "Salicylate",
+       "Salicylate (plus lactate, ketones)",
+       "Tinnitus, fever, tachycardia; mixed raised-gap acidosis with respiratory alkalosis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 169,
+       "page": 147
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 274,
+       "page": 274
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 275,
+       "page": 275
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 958,
+       "page": 958
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Osmolar gap** = measured − calculated osmolality (calculated ≈ 2 × Na + glucose + urea). A gap **> 10** suggests a toxic alcohol but is not specific (also raised in lactic acidosis, DKA and alcoholic ketoacidosis). In methanol or ethylene glycol poisoning the **osmolar gap is high early**; as the parent alcohol is metabolised the osmolar gap falls and the **anion gap rises**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 169,
+       "page": 147
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 274,
+       "page": 274
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 959,
+       "page": 959
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.s4",
+   "title": "Renal tubular acidosis and the urine anion gap",
+   "objectiveIdx": [
+    0,
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Suspect **renal tubular acidosis (RTA)** when there is a **hyperchloraemic, normal-gap acidosis with no GI loss**. It is confirmed by an inappropriately **high urine pH (> 5.5) despite systemic acidosis**. Acquired RTA may be the first clue to an underlying disease.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 388,
+       "page": 366
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "The three main RTAs",
+     "columns": [
+      "Feature",
+      "Proximal (type II)",
+      "Classical distal (type I)",
+      "Hyperkalaemic distal (type IV)"
+     ],
+     "rows": [
+      [
+       "Defect",
+       "Poor proximal HCO3− reabsorption",
+       "Poor distal H+ secretion",
+       "Poor distal Na+ reabsorption (aldosterone lack or resistance) → less K+ and H+ secretion"
+      ],
+      [
+       "Plasma K+",
+       "Low",
+       "Low",
+       "**High**"
+      ],
+      [
+       "Urine pH in acidosis",
+       "Can fall below 5.5 once HCO3− < 16 mmol/L",
+       "Stays > 5.5",
+       "May be low"
+      ],
+      [
+       "Associations",
+       "Fanconi features: glycosuria, aminoaciduria, phosphaturia",
+       "Bone calcium loss, osteomalacia, hypercalciuria, stones, nephrocalcinosis; low urine citrate; recurrent UTIs",
+       "Mild CKD, diabetes, tubulointerstitial disease"
+      ],
+      [
+       "Causes",
+       "Fanconi syndrome, cystinosis, Wilson's, myeloma, amyloid, heavy metals; carbonic anhydrase inhibitors, ifosfamide, tenofovir",
+       "Inherited; SLE, Sjögren's, RA; hyperglobulinaemia; toluene, lithium, amphotericin",
+       "Hypoaldosteronism, obstructive nephropathy, transplant rejection; amiloride, spironolactone, NSAIDs, ACE inhibitors/ARBs, heparin, trimethoprim"
+      ],
+      [
+       "Treatment",
+       "Sodium and potassium bicarbonate to HCO3− > 18 mmol/L",
+       "Sodium and potassium bicarbonate to HCO3− > 18 mmol/L",
+       "Loop or thiazide diuretic, or fludrocortisone, depending on cause"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 387,
+       "page": 365
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 388,
+       "page": 366
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 218,
+       "page": 199
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 276,
+       "page": 276
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Diagnostic tests",
+     "items": [
+      "**Urine pH > 5.5** during systemic acidosis → RTA likely.",
+      "**Incomplete distal RTA** (normal HCO3− at rest): give an ammonium chloride acid load; failure of urine pH to fall **below 5.3** once HCO3− is low confirms it.",
+      "Proximal RTA can still acidify urine when HCO3− is very low (< 16 mmol/L), because distal H+ secretion is intact."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 388,
+       "page": 366
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Urine anion gap (UAG) = (urine Na+ + urine K+) − urine Cl−.** Ammonium leaves in urine with chloride, so UAG is an indirect gauge of NH4+ excretion. **Negative UAG** = ammonium excretion intact → GI bicarbonate loss (diarrhoea), even if urine pH is above 5.3 (hypokalaemia boosts ammonia buffering). **Positive UAG** = failure to excrete NH4+ → distal (type I) or type IV RTA, or early kidney failure.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 219,
+       "page": 200
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 275,
+       "page": 275
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 276,
+       "page": 276
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "UAG is unreliable in AKI/CKD, polyuria, sodium depletion (urine Na < 20), urine pH > 6.5 and coexisting raised-gap acidosis, and is variable in proximal RTA. Use the **urine osmolal gap** instead: < 40 mmol/L means impaired NH4+ excretion.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 276,
+       "page": 276
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Type IV RTA (hyporeninaemic hypoaldosteronism) is the commonest RTA**: hyperkalaemia plus acidosis in mild CKD, often diabetic. Hyperkalaemia itself suppresses ammonia production and keeps the acidosis going. Chronic NSAID use produces an identical picture.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 218,
+       "page": 199
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 962,
+       "page": 962
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Urine pH cut-offs vary: Davidson uses **> 5.5** for diagnosis and **< 5.3** as the target in the acid-load test; Kumar's text quotes > 5.3. Use Davidson's numbers.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 388,
+       "page": 366
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 219,
+       "page": 200
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "pocket8",
+      "pdfPage": 277,
+      "page": 277,
+      "figure": "Figure 4-2"
+     },
+     "note": "Algorithm for metabolic acidosis: anion gap → urine anion gap → urine pH and fractional HCO3− excretion to separate RTA types."
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.s5",
+   "title": "Metabolic alkalosis",
+   "objectiveIdx": [
+    0,
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Metabolic alkalosis is a **primary rise in HCO3−** with a rise in pH; compensatory hypoventilation is limited by hypoxia. It is common — Kumar notes it makes up about **half of hospital acid–base disorders** (vomiting, diuretics, nasogastric suction).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 388,
+       "page": 366
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 220,
+       "page": 201
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Two phases: generation and maintenance",
+     "items": [
+      "**Generation**: H+ loss from gut or kidney, volume contraction around a fixed HCO3− pool, an alkali load, or rapid correction of chronic hypercapnia.",
+      "**Maintenance**: volume depletion, chloride depletion, hypokalaemia or hyperaldosteronism — these stop the kidney excreting the extra HCO3−."
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 278,
+       "page": 278
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Prolonged vomiting**: loss of gastric HCl creates the alkalosis. Hypovolaemia then activates renin–angiotensin–aldosterone, increasing proximal Na+HCO3− reabsorption and distal H+ secretion; hypokalaemia adds further acid secretion. The result is a persisting alkalosis with an **inappropriately acid urine ('paradoxical aciduria')** that will not correct until volume is restored.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 388,
+       "page": 366
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 389,
+       "page": 367
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Classification (Davidson by ECF volume; urine chloride cut-offs from Pocket)",
+     "columns": [
+      "Group",
+      "Urine Cl−",
+      "Causes",
+      "Clue"
+     ],
+     "rows": [
+      [
+       "Hypovolaemic / chloride-depleted (saline-responsive) — commonest",
+       "Low (< 25 mmol/L)",
+       "Vomiting, NG suction, loop or thiazide diuretics (after stopping), villous adenoma, cystic fibrosis sweat loss, post-hypercapnia",
+       "Dry patient, low or normal BP"
+      ],
+      [
+       "Normo/hypervolaemic, hypertensive (saline-resistant)",
+       "High (> 40 mmol/L)",
+       "Conn's, Cushing's, glucocorticoid therapy, liquorice, Liddle's syndrome",
+       "Hypertension, hypokalaemia"
+      ],
+      [
+       "Saline-resistant, normotensive",
+       "High",
+       "Bartter's, Gitelman's, severe hypokalaemia, current diuretic use",
+       "Normal BP"
+      ],
+      [
+       "Alkali load",
+       "Variable",
+       "Antacid overuse, milk–alkali syndrome, bicarbonate given with kidney impairment",
+       "Drug history"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 388,
+       "page": 366
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 221,
+       "page": 202
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 279,
+       "page": 279
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 789,
+       "page": 789
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Urine Na+ is misleading** as a volume marker in alkalaemia — excreted HCO3− drags Na+ with it. Use **urine Cl−**. Recent diuretic use falsely raises urine Cl−. Cut-offs differ (Step-Up calls > 20 mmol/L saline-resistant).",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 279,
+       "page": 279
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 789,
+       "page": 789
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Clinical features",
+     "items": [
+      "Few specific symptoms; the **history** (vomiting, drains, diuretics) is the key, and **hypokalaemia** is common.",
+      "An abrupt pH rise lowers ionised calcium → **tetany** and neuromuscular irritability.",
+      "Severe: apathy, confusion, arrhythmias, depressed respiration, **left-shifted** oxyhaemoglobin curve.",
+      "Mortality is high when severe — about 45% at pH 7.55 and 80% above 7.65 (an association, not proof of cause)."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 388,
+       "page": 366
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 221,
+       "page": 202
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 220,
+       "page": 201
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 790,
+       "page": 790
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Management",
+     "items": [
+      "**Hypovolaemic**: IV **0.9% saline with potassium**; this switches off secondary hyperaldosteronism so the kidney can excrete the alkali. Stop diuretics.",
+      "**Normo/hypervolaemic**: treat the endocrine cause (e.g. remove an aldosterone-secreting adenoma; potassium-sparing diuretic).",
+      "**Chloride-responsive but fluid-overloaded** (saline harmful): acetazolamide if GFR is adequate, or IV HCl/ammonium chloride; dialysis if the kidneys cannot respond.",
+      "**Potassium depletion**: potassium chloride — IV if arrhythmia or marked weakness."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 389,
+       "page": 367
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 221,
+       "page": 202
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 280,
+       "page": 280
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 790,
+       "page": 790
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 389,
+      "page": 367,
+      "figure": "Fig. 14.11"
+     },
+     "note": "Flow diagram: how vomiting generates (HCl loss) and then maintains (hypovolaemia, aldosterone, hypokalaemia, distal H+ secretion) a metabolic alkalosis."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "pocket8",
+      "pdfPage": 279,
+      "page": 279,
+      "figure": "Figure 4-3"
+     },
+     "note": "Algorithm for metabolic alkalosis using volume status, urine Cl−, urine K+ and blood pressure."
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.s6",
+   "title": "Respiratory acidosis and alkalosis",
+   "objectiveIdx": [
+    0,
+    3
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Causes",
+     "columns": [
+      "Disorder",
+      "Mechanism",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Respiratory acidosis (CO2 retention, type II respiratory failure)",
+       "Reduced ventilation anywhere from brainstem to respiratory muscles, or V/Q mismatch",
+       "CNS depression (opiates, benzodiazepines, brainstem injury); neuromuscular (Guillain–Barré, myasthenia, ALS); chest wall (pneumothorax, flail chest, kyphoscoliosis); airway (obstruction, OSA, asthma, COPD, pulmonary oedema); increased CO2 production"
+      ],
+      [
+       "Respiratory alkalosis (hyperventilation)",
+       "Hypoxic drive or primary stimulation of breathing",
+       "Anxiety, pain, over-vigorous mechanical ventilation; pneumonia, PE, heart failure, anaemia; pregnancy (progesterone); chronic liver disease; sepsis, fever, hyperthyroidism; early salicylate toxicity; CNS disease"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 389,
+       "page": 367
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 280,
+       "page": 280
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 281,
+       "page": 281
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 791,
+       "page": 791
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Respiratory acidosis — clinical features",
+     "items": [
+      "Mostly those of the cause (paralysis, chest injury, COPD).",
+      "**CO2 narcosis**: drowsiness that further depresses breathing; somnolence, confusion, myoclonus, **asterixis**.",
+      "Acute CO2 retention dilates cerebral vessels → **headache and papilloedema**.",
+      "**Pinpoint pupils** point to opioid toxicity."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 389,
+       "page": 367
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 791,
+       "page": 791
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Respiratory alkalosis — clinical features",
+     "items": [
+      "Agitation, light-headedness, **perioral and finger tingling** — alkalosis increases calcium binding to albumin, lowering ionised calcium; cerebral vasoconstriction adds dizziness.",
+      "Severe: **Trousseau's and Chvostek's signs**, tetany, seizures, arrhythmias."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 389,
+       "page": 367
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 795,
+       "page": 795
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Management",
+     "items": [
+      "**Respiratory acidosis**: secure the airway; correct the cause (naloxone for opioids, bronchodilators); give oxygen carefully to CO2 retainers; ventilatory support when needed — intubate for severe acidosis, PaCO2 > 60 mmHg (8 kPa), failure to oxygenate, falling consciousness or fatigue.",
+      "**Respiratory alkalosis**: treat the cause and reduce anxiety; rebreathing into a closed bag lets CO2 rise; in pregnancy it needs no treatment."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 389,
+       "page": 367
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 792,
+       "page": 792
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 795,
+       "page": 795
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In acute lung disease hypoxia first drives **hyperventilation (respiratory alkalosis)**; as the respiratory muscles fatigue, PCO2 rises and the picture turns into **respiratory acidosis**.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 281,
+       "page": 281
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Pseudorespiratory alkalosis**: during CPR or profound hypotension, arterial PCO2 is low because little CO2 reaches the lungs, while tissue CO2 is high. Do not treat the arterial number as true hyperventilation.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 281,
+       "page": 281
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.s7",
+   "title": "Interpreting blood gases: single and mixed disorders",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Two or more primary disturbances often coexist (e.g. **opiate-induced respiratory acidosis plus vomiting-induced metabolic alkalosis**). The pH is the net result and may even be **normal**; the clue is that PCO2 and HCO3− **do not fit the predicted compensation**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 389,
+       "page": 367
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 269,
+       "page": 269
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Patterns that reveal a mixed disorder",
+     "columns": [
+      "Finding",
+      "Interpretation"
+     ],
+     "rows": [
+      [
+       "Metabolic acidosis, PCO2 lower than predicted",
+       "+ respiratory alkalosis"
+      ],
+      [
+       "Metabolic acidosis, PCO2 higher than predicted",
+       "+ respiratory acidosis"
+      ],
+      [
+       "Respiratory disorder, HCO3− higher than predicted",
+       "+ metabolic alkalosis"
+      ],
+      [
+       "Respiratory disorder, HCO3− lower than predicted",
+       "+ metabolic acidosis"
+      ],
+      [
+       "Normal pH, high PCO2 and high HCO3−",
+       "Respiratory acidosis + metabolic alkalosis"
+      ],
+      [
+       "Normal pH, low PCO2 and low HCO3−",
+       "Respiratory alkalosis + metabolic acidosis"
+      ],
+      [
+       "Normal pH, PCO2 and HCO3− but raised anion gap",
+       "Raised-gap acidosis + metabolic alkalosis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 271,
+       "page": 271
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 389,
+       "page": 367
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Delta gap**: in a pure raised-gap acidosis, the rise in anion gap roughly equals the fall in HCO3−. Kumar: if HCO3− is **> 5 mmol/L lower** than this predicts, there is an **extra normal-gap acidosis**; if **> 5 mmol/L higher**, an **extra metabolic alkalosis**. Pocket expresses this as ΔAG/ΔHCO3−: 1–2 pure, < 1 added normal-gap acidosis, > 2 added alkalosis (pure lactic acidosis ≈ 1.6).",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 220,
+       "page": 201
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 273,
+       "page": 273
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 785,
+       "page": 785
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Salicylate poisoning** is the classic mixed disorder: direct respiratory-centre stimulation gives a respiratory alkalosis, and a raised-gap metabolic acidosis follows. Clues: tinnitus, fever, tachycardia.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 387,
+       "page": 365
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 274,
+       "page": 274
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 275,
+       "page": 275
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 958,
+       "page": 958
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Two metabolic acidoses can coexist: massive diarrhoea (e.g. cholera) should give a normal-gap acidosis, but hypovolaemia adds lactic acidosis and kidney failure, raising the gap as well.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 220,
+       "page": 201
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "On the **Flenley nomogram**, a point inside one band suggests a single disorder; a point **between bands** suggests a mixed disorder. Kumar notes combined respiratory plus metabolic acidosis is the commonest combination in practice.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 217,
+       "page": 198
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Respiratory acidosis and respiratory alkalosis **cannot coexist** — a patient cannot hypo- and hyperventilate at the same time. Any other pair of disorders can.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 271,
+       "page": 271
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 577,
+      "page": 555,
+      "figure": "Fig. 17.8"
+     },
+     "note": "Blood gas diagram ([H+] vs PaCO2) with bands for acute and chronic respiratory acidosis, respiratory alkalosis, metabolic acidosis and alkalosis."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 217,
+      "page": 198,
+      "figure": "Fig. 9.17"
+     },
+     "note": "Flenley acid–base nomogram: 95% bands for pure disorders, central box = normal; plot a patient's values to spot a mixed disorder."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "stepup6",
+      "pdfPage": 783,
+      "page": 783,
+      "figure": "FIGURE 8-7"
+     },
+     "note": "Anion gap vs HCO3− plots: simple raised-gap acidosis, added normal-gap acidosis, and added metabolic alkalosis."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "pocket8",
+      "pdfPage": 271,
+      "page": 271,
+      "figure": "Figure 4-1"
+     },
+     "note": "Acid–base nomogram of pH against PaCO2/HCO3− bands for each primary disorder."
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.s8",
+   "title": "Clinical manifestations and treatment principles",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Patients present either with **tissue effects of the abnormal pH** (heart, brain) or with the **respiratory response** to a metabolic change, such as Kussmaul breathing. Usually the **underlying cause dominates** the picture.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 386,
+       "page": 364
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Effects of severe acidaemia vs alkalaemia",
+     "columns": [
+      "System",
+      "Acidaemia (pH < 7.20)",
+      "Alkalaemia (pH > 7.60)"
+     ],
+     "rows": [
+      [
+       "Breathing",
+       "Kussmaul 'air hunger' (may not feel breathless); weak respiratory muscles",
+       "Hypoventilation"
+      ],
+      [
+       "Heart and vessels",
+       "Negative inotropy; arteriolar dilatation with venoconstriction → hypotension; blunted catecholamine response; arrhythmias",
+       "Arteriolar constriction, reduced coronary flow, arrhythmias"
+      ],
+      [
+       "Oxygen delivery",
+       "Right shift of the oxyhaemoglobin curve (more O2 released)",
+       "Left shift (less O2 released)"
+      ],
+      [
+       "Brain",
+       "Confusion, fits",
+       "Reduced cerebral blood flow, confusion, tetany, seizures"
+      ],
+      [
+       "Electrolytes/metabolism",
+       "K+ leaves cells → hyperkalaemia if renal excretion is impaired; insulin resistance",
+       "Low K+, ionised Ca2+, Mg2+, phosphate"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 220,
+       "page": 201
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 269,
+       "page": 269
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 778,
+       "page": 778
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 221,
+       "page": 202
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Kussmaul respiration** (deep, regular hyperventilation) is the cardinal sign of metabolic acidosis, usually when pH < 7.20, and is less striking when the acidosis is chronic.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 784,
+       "page": 784
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Treating metabolic acidosis — cause first",
+     "items": [
+      "Correct the cause: stop diarrhoea, treat diabetes, reverse shock, stop offending drugs; IV fluids for the frequent salt and water deficit.",
+      "**DKA**: insulin, IV fluids, potassium. **Alcoholic/starvation ketosis**: IV glucose (stimulates insulin, switches off ketogenesis) ± thiamin, K+, Mg2+, phosphate.",
+      "**Methanol/ethylene glycol**: fomepizole (or ethanol) to block alcohol dehydrogenase; haemodialysis if severe, AKI or visual loss.",
+      "**Salicylate**: IV fluids plus sodium bicarbonate to alkalinise the urine; dialysis if severe.",
+      "**Uraemic acidosis (CKD)**: oral sodium bicarbonate 2–3 mmol/kg daily keeps HCO3− > 20 mmol/L (watch sodium load); calcium carbonate also helps; dialysis corrects it in ESKD."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 388,
+       "page": 366
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 277,
+       "page": 277
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 169,
+       "page": 147
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 960,
+       "page": 960
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 219,
+       "page": 200
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 158,
+       "page": 136
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**IV bicarbonate is controversial.** Davidson reserves it for **severe acidosis (H+ > 100 nmol/L, pH < 7.00) or tissue dysfunction when the cause cannot be corrected quickly**. Drawbacks: hypokalaemia; a fall in ionised calcium (tetany, fits); a sodium and volume load that can worsen pulmonary oedema; extra CO2 that must be breathed off; and worsened intracellular acidosis. **Never give IV sodium lactate.** The HCO3− deficit is roughly (target − current HCO3−) × weight (kg) × 0.4.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 388,
+       "page": 366
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 220,
+       "page": 201
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 278,
+       "page": 278
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The bicarbonate threshold varies: Pocket Medicine suggests alkali when pH < 7.1 (or < 7.2 with AKI), while Davidson's threshold is **pH < 7.00**. Use Davidson's.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 388,
+       "page": 366
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 278,
+       "page": 278
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Urgent dialysis indications (AEIOU)",
+     "items": [
+      "**A**cidosis refractory to medical treatment",
+      "**E**lectrolytes — refractory hyperkalaemia",
+      "**I**ngestions — salicylates, methanol, ethylene glycol, lithium",
+      "**O**verload of fluid",
+      "**U**raemic complications"
+     ],
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 964,
+       "page": 964
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "neph-acid-base.c1",
+   "sectionId": "neph-acid-base.s1",
+   "front": "Normal arterial pH and the matching H+ concentration (Davidson)?",
+   "back": "pH 7.40 = H+ 40 nmol/L; normal H+ 37–45 nmol/L (pH 7.43–7.35).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 385,
+     "page": 363
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.c2",
+   "sectionId": "neph-acid-base.s1",
+   "front": "Henderson–Hasselbalch equation for the bicarbonate buffer?",
+   "back": "pH = 6.1 + log [HCO3−] / (0.03 × PCO2 in mmHg).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 386,
+     "page": 364
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.c3",
+   "sectionId": "neph-acid-base.s1",
+   "front": "Which urinary buffer can increase several hundred-fold in chronic acidosis?",
+   "back": "Ammonium (NH4+, from glutamine). Titratable acid (phosphate) is limited by GFR and plasma phosphate.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 216,
+     "page": 197
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.c4",
+   "sectionId": "neph-acid-base.s2",
+   "front": "Davidson's predicted PCO2 fall in metabolic acidosis? Bedside mmHg version?",
+   "back": "PCO2 fall (kPa) = 0.16 × HCO3− fall (mmol/L). Winters: expected PCO2 (mmHg) = 1.5 × HCO3− + 8 ± 2.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 387,
+     "page": 365
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 270,
+     "page": 270
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.c5",
+   "sectionId": "neph-acid-base.s2",
+   "front": "HCO3− rise per kPa PCO2 rise in acute vs chronic respiratory acidosis (Davidson)?",
+   "back": "Acute 0.75 mmol/L per kPa; chronic 2.62 mmol/L per kPa (≈ 1 vs 3–4 mmol/L per 10 mmHg).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 387,
+     "page": 365
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 791,
+     "page": 791
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.c6",
+   "sectionId": "neph-acid-base.s2",
+   "front": "Highest compensatory PCO2 in metabolic alkalosis (Davidson)?",
+   "back": "About 7.33 kPa (55 mmHg) — hypoxia then drives breathing. Higher = added respiratory acidosis.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 387,
+     "page": 365
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.c7",
+   "sectionId": "neph-acid-base.s3",
+   "front": "Anion gap formula and normal range in Davidson?",
+   "back": "(Na+ + K+) − (Cl− + HCO3−) ≈ 5–11 mmol/L.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 388,
+     "page": 366
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.c8",
+   "sectionId": "neph-acid-base.s3",
+   "front": "GOLD MARK stands for?",
+   "back": "Glycols, Oxoproline, L-lactate, D-lactate, Methanol, Aspirin, Renal failure, Ketoacidosis — causes of raised-gap acidosis.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 220,
+     "page": 201
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.c9",
+   "sectionId": "neph-acid-base.s3",
+   "front": "Methanol/ethylene glycol: which gap rises early and which later?",
+   "back": "Osmolar gap early (parent alcohol); anion gap later as toxic acids form.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 169,
+     "page": 147
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.c10",
+   "sectionId": "neph-acid-base.s4",
+   "front": "Plasma K+ in RTA types I, II and IV?",
+   "back": "Types I and II: low K+. Type IV: high K+.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 388,
+     "page": 366
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.c11",
+   "sectionId": "neph-acid-base.s4",
+   "front": "Urine anion gap in diarrhoea vs distal RTA?",
+   "back": "Negative in diarrhoea (NH4Cl excretion intact); positive in distal RTA (NH4+ excretion fails).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 219,
+     "page": 200
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.c12",
+   "sectionId": "neph-acid-base.s5",
+   "front": "Urine chloride that marks saline-responsive metabolic alkalosis (Pocket)?",
+   "back": "< 25 mmol/L (saline-resistant > 40, unless on diuretics).",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 279,
+     "page": 279
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.c13",
+   "sectionId": "neph-acid-base.s5",
+   "front": "Why is the urine acid in vomiting-induced metabolic alkalosis?",
+   "back": "Hypovolaemia → secondary hyperaldosteronism and hypokalaemia drive distal H+ secretion; persists until volume is replaced.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 388,
+     "page": 366
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.c14",
+   "sectionId": "neph-acid-base.s6",
+   "front": "Why does acute respiratory alkalosis cause perioral tingling?",
+   "back": "Alkalosis increases calcium binding to albumin, lowering ionised calcium.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 389,
+     "page": 367
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.c15",
+   "sectionId": "neph-acid-base.s7",
+   "front": "Delta-gap rule for a hidden second metabolic disorder (Kumar)?",
+   "back": "HCO3− > 5 mmol/L below the value predicted from the AG rise = added normal-gap acidosis; > 5 above = added metabolic alkalosis.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 220,
+     "page": 201
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.c16",
+   "sectionId": "neph-acid-base.s7",
+   "front": "Which two primary disorders can never coexist?",
+   "back": "Respiratory acidosis and respiratory alkalosis.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 271,
+     "page": 271
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.c17",
+   "sectionId": "neph-acid-base.s8",
+   "front": "Davidson's threshold for IV bicarbonate in metabolic acidosis?",
+   "back": "H+ > 100 nmol/L (pH < 7.00) or tissue dysfunction, when the cause cannot be quickly corrected.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 388,
+     "page": 366
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "neph-acid-base.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 34-year-old woman has had profuse watery diarrhoea for 3 days. Arterial blood gas on air: pH 7.32, PCO2 3.2 kPa (24 mmHg), HCO3− 12 mmol/L.",
+   "leadIn": "Which is the primary acid–base process?",
+   "options": [
+    "Respiratory alkalosis with renal compensation",
+    "Metabolic acidosis with respiratory compensation",
+    "Respiratory acidosis",
+    "Metabolic alkalosis with respiratory compensation",
+    "Respiratory acidosis with a metabolic alkalosis"
+   ],
+   "answer": 1,
+   "explanation": "The pH is low, so the primary process must be acidifying. A low HCO3− lowers pH; a low PCO2 would raise it. So the low HCO3− is primary (metabolic acidosis) and the low PCO2 is the respiratory compensation. Expected PCO2 = 5.33 − 0.16 × 12 ≈ 3.4 kPa, close to the measured value.",
+   "whyNot": [
+    "A primary respiratory alkalosis would give a high pH, not 7.32.",
+    "",
+    "Respiratory acidosis needs a raised PCO2; here it is low.",
+    "Metabolic alkalosis needs a raised HCO3− and high pH.",
+    "Both PCO2 and HCO3− would be high in this combination; here both are low."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s1"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 784,
+     "page": 784
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 270,
+     "page": 270
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 387,
+     "page": 365
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 50-year-old man has had a chronic metabolic acidosis from persistent diarrhoea for several weeks. His kidneys respond by greatly increasing net acid excretion.",
+   "leadIn": "Which urinary buffer accounts for most of this adaptive increase?",
+   "options": [
+    "Filtered phosphate (titratable acid)",
+    "Ammonium generated from glutamine",
+    "Filtered bicarbonate",
+    "Urinary sulphate",
+    "Urinary citrate"
+   ],
+   "answer": 1,
+   "explanation": "Titratable acid (mainly phosphate) is fixed by GFR and plasma phosphate, so it cannot rise much. Ammonia made from glutamine in tubular cells traps secreted H+ as NH4+, and this system can increase several hundred-fold. Acidosis and hypokalaemia both stimulate it.",
+   "whyNot": [
+    "Phosphate buffering is limited by the filtered load and cannot rise substantially.",
+    "",
+    "Filtered bicarbonate is reclaimed (mostly proximally); it does not carry acid out.",
+    "Sulphate is an unmeasured plasma anion, not the adaptive urinary buffer.",
+    "Citrate is not the adaptive acid buffer; low urinary citrate is a feature of distal RTA."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 216,
+     "page": 197
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 217,
+     "page": 198
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 386,
+     "page": 364
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q3",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Expected compensation in acid–base disorders",
+   "leadIn": "For each patient, choose the best description of the acid–base status. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Acute respiratory acidosis",
+    "Chronic respiratory acidosis with renal compensation",
+    "Acute respiratory alkalosis",
+    "Chronic respiratory alkalosis with renal compensation",
+    "Metabolic acidosis with appropriate respiratory compensation",
+    "Metabolic acidosis with an additional respiratory acidosis",
+    "Metabolic acidosis with an additional respiratory alkalosis",
+    "Metabolic alkalosis with appropriate respiratory compensation",
+    "Metabolic alkalosis with an additional respiratory acidosis",
+    "Normal acid–base status"
+   ],
+   "items": [
+    {
+     "stem": "A 58-year-old man becomes drowsy an hour after a large dose of IV morphine for renal colic. Respiratory rate 6/min. Gas on air: pH 7.26, PCO2 8.0 kPa (60 mmHg), HCO3− 26 mmol/L.",
+     "answer": 0,
+     "explanation": "PCO2 has risen by about 2.7 kPa. Acute rule: HCO3− rises 0.75 × 2.7 ≈ 2 → about 26 mmol/L, which fits. A chronic picture would predict about 31 mmol/L. One hour is too short for renal compensation.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s2"
+     }
+    },
+    {
+     "stem": "A 30-year-old woman with gastric outlet obstruction has vomited repeatedly for 5 days. pH 7.53, PCO2 6.6 kPa (50 mmHg), HCO3− 40 mmol/L, K+ 2.8 mmol/L.",
+     "answer": 7,
+     "explanation": "HCO3− has risen by 16 mmol/L. Predicted PCO2 rise = 0.08 × 16 ≈ 1.3 kPa → about 6.6 kPa, exactly as measured and below the 7.33 kPa ceiling. So this is a simple, appropriately compensated metabolic alkalosis.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s2"
+     }
+    },
+    {
+     "stem": "A 66-year-old woman with faecal peritonitis and septic shock (lactate 9 mmol/L) is visibly tiring. pH 7.10, PCO2 5.3 kPa (40 mmHg), HCO3− 12 mmol/L.",
+     "answer": 5,
+     "explanation": "Two steps: the low HCO3− is a metabolic acidosis; the expected PCO2 is 5.33 − 0.16 × 12 ≈ 3.4 kPa (Winters ≈ 26 mmHg). A 'normal' PCO2 of 5.3 kPa is far too high, so a respiratory acidosis is also present — failing compensation and a warning of respiratory collapse.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 387,
+     "page": 365
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 270,
+     "page": 270
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 785,
+     "page": 785
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q4",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Causes of metabolic acidosis",
+   "leadIn": "For each patient, choose the most likely cause of the metabolic acidosis. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Diabetic ketoacidosis",
+    "Alcoholic ketoacidosis",
+    "Starvation ketosis",
+    "Hypoxic (type 1/A) lactic acidosis",
+    "Metformin-associated lactic acidosis",
+    "Methanol poisoning",
+    "Ethylene glycol poisoning",
+    "Salicylate poisoning",
+    "Diarrhoea",
+    "Chronic kidney disease",
+    "5-oxoproline accumulation from chronic paracetamol use",
+    "D-lactic acidosis"
+   ],
+   "items": [
+    {
+     "stem": "A 40-year-old labourer drank a large amount of illicit home-distilled spirit 18 hours ago. He now has blurred vision and photophobia; pupils are dilated and the optic discs are swollen. HCO3− 9 mmol/L, anion gap 28 mmol/L, osmolar gap raised.",
+     "answer": 5,
+     "explanation": "Visual symptoms with optic disc swelling and a raised anion and osmolar gap after drinking illicit spirit point to methanol, which is converted to formate.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s3"
+     }
+    },
+    {
+     "stem": "A 52-year-old man who has drunk heavily for years and eats poorly presents after a 4-day binge followed by vomiting and no food. Glucose 3.9 mmol/L, plasma β-hydroxybutyrate markedly raised, lactate 1.8 mmol/L, anion gap 24 mmol/L.",
+     "answer": 1,
+     "explanation": "Raised-gap ketoacidosis with a normal-to-low glucose excludes DKA. A normal lactate excludes lactic acidosis. Malnutrition plus a recent binge is the typical setting for alcoholic ketoacidosis.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s3"
+     }
+    },
+    {
+     "stem": "A 61-year-old woman had most of her small bowel removed after mesenteric infarction. She now has episodes of slurred speech and confusion after sugary meals. Anion gap is raised; routine plasma lactate is normal, ketones are negative and renal function is normal.",
+     "answer": 11,
+     "explanation": "Two steps: a raised gap needs an unmeasured anion, but the usual ones are absent. In short bowel syndrome colonic bacteria ferment carbohydrate to D-lactate, which the standard (L-lactate) assay misses.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s3"
+     }
+    },
+    {
+     "stem": "A 23-year-old man is found confused beside an empty bottle of car antifreeze. Over the next day he becomes oliguric with a rising creatinine; ionised calcium is low and urine microscopy shows envelope-shaped crystals.",
+     "answer": 6,
+     "explanation": "Ethylene glycol is metabolised to glycolate and oxalate; calcium oxalate crystals cause AKI and lower calcium.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 387,
+     "page": 365
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 169,
+     "page": 147
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 273,
+     "page": 273
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 275,
+     "page": 275
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 958,
+     "page": 958
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 39-year-old woman has a hyperchloraemic metabolic acidosis (HCO3− 15 mmol/L, normal anion gap) and K+ 3.0 mmol/L. She denies diarrhoea or laxative use. Urine Na+ 40, K+ 30, Cl− 50 mmol/L.",
+   "leadIn": "Which is the most likely cause?",
+   "options": [
+    "Covert laxative abuse",
+    "Classical distal renal tubular acidosis",
+    "Ileostomy losses",
+    "Ammonium chloride ingestion",
+    "Ureterosigmoidostomy"
+   ],
+   "answer": 1,
+   "explanation": "Urine anion gap = (40 + 30) − 50 = +20, i.e. positive. A positive UAG means the kidney is not excreting NH4+ (which leaves with Cl−). That is the defect of distal (type I) RTA, which also fits the hypokalaemia. GI bicarbonate loss gives a negative UAG.",
+   "whyNot": [
+    "Laxative-induced diarrhoea gives a negative UAG because renal NH4Cl excretion is intact.",
+    "",
+    "Ileostomy loss of bicarbonate is a GI cause with intact renal ammonium excretion (negative UAG).",
+    "An NH4Cl load increases urinary NH4Cl, making the UAG negative.",
+    "Urinary diversion into the colon is a GI-type bicarbonate loss; the kidneys still excrete NH4+."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 219,
+     "page": 200
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 275,
+     "page": 275
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 388,
+     "page": 366
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 70-year-old man with heart failure develops a normal-anion-gap metabolic acidosis with K+ 6.2 mmol/L after a new drug is added.",
+   "leadIn": "Which drug is most likely responsible?",
+   "options": [
+    "Acetazolamide",
+    "Amphotericin B",
+    "Lithium",
+    "Spironolactone",
+    "Ifosfamide"
+   ],
+   "answer": 3,
+   "explanation": "A hyperkalaemic normal-gap acidosis is type IV (hyperkalaemic distal) RTA. Blocking aldosterone with spironolactone (or amiloride) reduces distal K+ and H+ secretion.",
+   "whyNot": [
+    "Carbonic anhydrase inhibitors cause proximal (type II) RTA with hypokalaemia.",
+    "Amphotericin causes classical distal (type I) RTA, usually hypokalaemic.",
+    "Lithium causes classical distal (type I) RTA, not hyperkalaemic RTA.",
+    "",
+    "Ifosfamide causes proximal (type II) RTA with low K+."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 387,
+     "page": 365
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 388,
+     "page": 366
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q7",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Causes of metabolic alkalosis",
+   "leadIn": "For each patient with a metabolic alkalosis, choose the most likely cause. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Self-induced vomiting",
+    "Loop diuretic therapy",
+    "Primary hyperaldosteronism (Conn's syndrome)",
+    "Cushing's syndrome",
+    "Liquorice ingestion",
+    "Liddle's syndrome",
+    "Bartter's syndrome",
+    "Gitelman's syndrome",
+    "Villous adenoma of the rectum",
+    "Milk–alkali syndrome",
+    "Cystic fibrosis"
+   ],
+   "items": [
+    {
+     "stem": "A 20-year-old dance student is underweight and very anxious about her weight. BP 95/60 mmHg. K+ 2.7 mmol/L, HCO3− 36 mmol/L, urine Cl− 8 mmol/L. She says she takes no medicines.",
+     "answer": 0,
+     "explanation": "Low BP and a very low urine Cl− mean chloride and volume depletion from a non-renal route — gastric HCl loss. Covert diuretic use would raise urine Cl−.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s5"
+     }
+    },
+    {
+     "stem": "A 48-year-old man has hypertension despite three drugs. K+ 2.9 mmol/L, HCO3− 33 mmol/L. Plasma renin is suppressed and aldosterone is high. He has no cushingoid features.",
+     "answer": 2,
+     "explanation": "Hypertension with hypokalaemic alkalosis, high aldosterone and low renin is primary hyperaldosteronism — a saline-resistant, volume-expanded alkalosis.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s5"
+     }
+    },
+    {
+     "stem": "A 72-year-old man passes large volumes of watery mucus from the rectum. He is volume-depleted, K+ 2.6 mmol/L, HCO3− 34 mmol/L, urine Cl− low.",
+     "answer": 8,
+     "explanation": "Most diarrhoea causes acidosis, but a villous adenoma secretes chloride-rich mucus, causing chloride depletion and a saline-responsive alkalosis.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s5"
+     }
+    },
+    {
+     "stem": "A 35-year-old woman has hypertension and a hypokalaemic alkalosis. Both renin and aldosterone are low. She eats a large bag of black liquorice sweets every day.",
+     "answer": 4,
+     "explanation": "Two steps: low renin with low aldosterone means mineralocorticoid excess that is not aldosterone. Liddle's syndrome looks the same, but the daily liquorice habit is the discriminating clue.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 388,
+     "page": 366
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 221,
+     "page": 202
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 279,
+     "page": 279
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 789,
+     "page": 789
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 19-year-old man with acute severe asthma had pH 7.49 and PCO2 4.0 kPa (30 mmHg) on arrival. Two hours later, still wheezy and now drowsy, pH is 7.31 and PCO2 6.0 kPa (45 mmHg).",
+   "leadIn": "What is the best interpretation?",
+   "options": [
+    "Improvement, as PCO2 is now near normal",
+    "Respiratory muscle fatigue with developing respiratory acidosis",
+    "Development of a primary metabolic alkalosis",
+    "Expected renal compensation for respiratory alkalosis",
+    "Laboratory error, as PCO2 cannot change this fast"
+   ],
+   "answer": 1,
+   "explanation": "Early in asthma, hypoxia drives hyperventilation (low PCO2). A rising PCO2 with falling pH while still wheezy and now drowsy means the respiratory muscles are tiring and CO2 is being retained — a sign that ventilatory support may be needed urgently.",
+   "whyNot": [
+    "A 'normalising' PCO2 in a patient who is still struggling is a danger sign, not improvement.",
+    "",
+    "A metabolic alkalosis would raise pH; here pH has fallen.",
+    "Renal compensation would lower HCO3− over days and would not raise PCO2 or drop pH.",
+    "PCO2 can rise within minutes when ventilation fails."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s6"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 281,
+     "page": 281
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 785,
+     "page": 785
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 964,
+     "page": 964
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 25-year-old woman hyperventilating during a panic attack reports tingling around her mouth and fingers. Total serum calcium is normal.",
+   "leadIn": "What is the main mechanism of her paraesthesiae?",
+   "options": [
+    "Increased calcium binding to albumin lowering ionised calcium",
+    "Hypokalaemia from renal potassium wasting",
+    "Hypermagnesaemia",
+    "Cerebral oedema from raised PCO2",
+    "Low parathyroid hormone"
+   ],
+   "answer": 0,
+   "explanation": "Alkalosis increases the binding of calcium to albumin, so ionised calcium falls even though total calcium is normal. This raises neuromuscular excitability — tingling, and in severe cases Trousseau's and Chvostek's signs and tetany.",
+   "whyNot": [
+    "",
+    "Acute hyperventilation does not cause meaningful renal K+ wasting within minutes.",
+    "Magnesium excess depresses, rather than excites, neuromuscular function.",
+    "PCO2 is low in hyperventilation; high PCO2 is the problem in respiratory acidosis.",
+    "Hyperventilation does not lower PTH; total calcium is normal."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 389,
+     "page": 367
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 795,
+     "page": 795
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q10",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 3,
+   "theme": "Interpreting mixed acid–base results",
+   "leadIn": "Use Davidson's anion gap, (Na+ + K+) − (Cl− + HCO3−), normal 5–11 mmol/L. For each patient choose the best interpretation. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Pure raised-anion-gap metabolic acidosis",
+    "Raised-gap plus normal-gap metabolic acidosis",
+    "Raised-gap metabolic acidosis plus metabolic alkalosis",
+    "Raised-gap metabolic acidosis plus respiratory alkalosis",
+    "Metabolic acidosis plus respiratory acidosis",
+    "Chronic respiratory acidosis plus metabolic alkalosis",
+    "Chronic respiratory acidosis alone",
+    "Normal-gap metabolic acidosis alone",
+    "Acute respiratory alkalosis alone",
+    "Normal acid–base status"
+   ],
+   "items": [
+    {
+     "stem": "A 24-year-old woman with type 1 diabetes has vomited for 3 days. Na+ 134, K+ 5.0, Cl− 84, HCO3− 20 mmol/L; glucose 28 mmol/L, ketones strongly positive. pH 7.38, PCO2 4.7 kPa (35 mmHg).",
+     "answer": 2,
+     "explanation": "Anion gap = 139 − 104 = 35 — about 24 above normal — yet HCO3− has fallen only about 4. The ketoacid load should have dropped HCO3− far more, so a metabolic alkalosis from vomiting is hiding it. The near-normal pH is the warning.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s7"
+     }
+    },
+    {
+     "stem": "A 30-year-old man with cholera has massive watery diarrhoea and becomes hypotensive with little urine. Na+ 138, K+ 3.2, Cl− 115, HCO3− 8 mmol/L, lactate 5 mmol/L. pH 7.20, PCO2 2.8 kPa.",
+     "answer": 1,
+     "explanation": "Anion gap ≈ 141 − 123 = 18, only about 7 above the top of the normal range, yet HCO3− has fallen by 16 (24 → 8). The fall in HCO3− is much bigger than the rise in the gap (ΔAG/ΔHCO3− well below 1; HCO3− more than 5 mmol/L below the value the gap predicts), so a normal-gap (diarrhoeal) acidosis coexists with the raised-gap lactic acidosis. PCO2 matches predicted compensation (5.33 − 0.16 × 16 ≈ 2.8 kPa).",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s7"
+     }
+    },
+    {
+     "stem": "A 70-year-old man with severe COPD and cor pulmonale has been on high-dose furosemide and has also been vomiting. pH 7.45, PCO2 8.0 kPa (60 mmHg), HCO3− 40 mmol/L.",
+     "answer": 5,
+     "explanation": "PCO2 is up 2.7 kPa; full chronic compensation predicts HCO3− ≈ 24 + 2.62 × 2.7 ≈ 31. An HCO3− of 40 is far above that, and the pH has reached the alkaline side, so a metabolic alkalosis (diuretics, vomiting) is added.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 389,
+     "page": 367
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 387,
+     "page": 365
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 220,
+     "page": 201
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 271,
+     "page": 271
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 273,
+     "page": 273
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "Five patients have a metabolic acidosis.",
+   "leadIn": "In which patient is IV sodium bicarbonate most justified, by Davidson's criteria?",
+   "options": [
+    "DKA with pH 7.15, improving on insulin and fluids",
+    "Diarrhoea with pH 7.28, responding to oral rehydration",
+    "Metformin-associated lactic acidosis with pH 6.95 and persistent hypotension despite fluids",
+    "Type IV RTA with pH 7.32 in a patient with heart failure",
+    "Alcoholic ketoacidosis with pH 7.20 before IV glucose"
+   ],
+   "answer": 2,
+   "explanation": "Davidson keeps IV bicarbonate for severe acidosis (H+ > 100 nmol/L, pH < 7.00) or acidosis causing tissue dysfunction, when the cause cannot be corrected quickly. The other patients have milder acidosis or a cause that is already being reversed.",
+   "whyNot": [
+    "The cause is being corrected and pH is above 7.00; bicarbonate risks hypokalaemia.",
+    "Mild acidosis that is improving with treatment of the cause.",
+    "",
+    "pH is mild, and the sodium load could worsen heart failure.",
+    "IV glucose (± thiamin) reverses ketogenesis; bicarbonate is not needed."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 388,
+     "page": 366
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 220,
+     "page": 201
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 45-year-old man in septic shock has a severe metabolic acidosis (pH 7.12).",
+   "leadIn": "Which physiological effect of the acidaemia is expected?",
+   "options": [
+    "Left shift of the oxyhaemoglobin dissociation curve",
+    "Increased myocardial contractility",
+    "Right shift of the oxyhaemoglobin dissociation curve",
+    "Movement of potassium into cells",
+    "Enhanced response to catecholamines"
+   ],
+   "answer": 2,
+   "explanation": "Acidaemia shifts the oxyhaemoglobin curve to the right, so haemoglobin releases oxygen more readily in tissues. It also depresses the myocardium, blunts catecholamine responses and moves K+ out of cells.",
+   "whyNot": [
+    "A left shift is the effect of alkalosis.",
+    "Acidosis is negatively inotropic.",
+    "",
+    "Acidosis drives K+ out of cells, risking hyperkalaemia.",
+    "Acidaemia blunts, not enhances, catecholamine responses."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s8"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 220,
+     "page": 201
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 778,
+     "page": 778
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 269,
+     "page": 269
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q13",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Normal-anion-gap metabolic acidosis",
+   "leadIn": "For each patient with a normal-anion-gap acidosis, choose the most likely cause. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Proximal (type II) renal tubular acidosis",
+    "Classical distal (type I) renal tubular acidosis",
+    "Hyperkalaemic distal (type IV) renal tubular acidosis",
+    "Diarrhoea",
+    "Ureterosigmoidostomy",
+    "Acetazolamide therapy",
+    "Ammonium chloride ingestion",
+    "Chronic kidney disease (uraemic acidosis)",
+    "Rapid infusion of bicarbonate-free IV fluid",
+    "Lactic acidosis"
+   ],
+   "items": [
+    {
+     "stem": "A 44-year-old woman with dry eyes and dry mouth has recurrent renal colic, and X-ray shows nephrocalcinosis. K+ 2.9, Cl− 114, HCO3− 15 mmol/L, normal anion gap. Urine pH 6.6; urine anion gap positive.",
+     "answer": 1,
+     "explanation": "Sjögren's, hypokalaemia, urine pH > 5.5 during acidosis, a positive UAG and nephrocalcinosis are the pattern of classical distal RTA.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s4"
+     }
+    },
+    {
+     "stem": "A 67-year-old man with type 2 diabetes and eGFR 45 mL/min has K+ 6.1 mmol/L and a normal-gap acidosis (HCO3− 18 mmol/L). Renin and aldosterone are both low. He takes no NSAIDs or potassium-sparing drugs.",
+     "answer": 2,
+     "explanation": "Hyperkalaemic normal-gap acidosis in a diabetic with mild CKD and low renin/aldosterone is type IV RTA (hyporeninaemic hypoaldosteronism) — the commonest RTA.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s4"
+     }
+    },
+    {
+     "stem": "A 59-year-old man with an IgG paraprotein has glycosuria with normal blood glucose, phosphaturia and generalised aminoaciduria. K+ 3.1 mmol/L, HCO3− 15 mmol/L, normal anion gap. Urine pH 5.2.",
+     "answer": 0,
+     "explanation": "Two steps: myeloma with Fanconi features points to proximal RTA. A low urine pH does not exclude it — once HCO3− falls below about 16 mmol/L, intact distal H+ secretion can acidify the urine.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s4"
+     }
+    },
+    {
+     "stem": "A 35-year-old woman has had 3 weeks of watery diarrhoea. K+ 2.8 mmol/L, HCO3− 14 mmol/L, normal anion gap. Urine pH 6.0, but the urine anion gap is clearly negative.",
+     "answer": 3,
+     "explanation": "Two steps: the urine pH looks like RTA, but hypokalaemia boosts renal ammonia, which buffers the urine. A negative UAG shows NH4+ excretion is intact, so the kidney is responding correctly to GI bicarbonate loss.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 387,
+     "page": 365
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 388,
+     "page": 366
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 218,
+     "page": 199
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 219,
+     "page": 200
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 276,
+     "page": 276
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 45-year-old man has vomited for a week from pyloric obstruction. He is clinically dry. HCO3− 38 mmol/L, K+ 2.6 mmol/L. His urine pH is 5.0.",
+   "leadIn": "What best explains the acid urine?",
+   "options": [
+    "Primary distal renal tubular acidosis",
+    "Hypovolaemia-driven aldosterone excess and hypokalaemia increasing distal H+ secretion",
+    "Excess ammonium chloride intake",
+    "Loss of bicarbonate in the vomit",
+    "Respiratory compensation lowering PCO2"
+   ],
+   "answer": 1,
+   "explanation": "Vomiting removes HCl and creates the alkalosis. Volume depletion activates renin–angiotensin–aldosterone, and hypokalaemia adds to it; both drive distal H+ secretion, so the urine stays acid despite the alkalosis. It corrects once saline and potassium restore volume.",
+   "whyNot": [
+    "Distal RTA causes acidosis, not alkalosis.",
+    "",
+    "Ammonium chloride is an acid load that would cause acidosis.",
+    "Gastric fluid is acid-rich; vomiting loses H+, not bicarbonate.",
+    "Compensation for metabolic alkalosis raises PCO2, and that would not explain acid urine."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 388,
+     "page": 366
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 389,
+     "page": 367
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "A 58-year-old woman with decompensated cirrhosis is hypotensive. Albumin 20 g/L, lactate 6 mmol/L. Na+ 136, K+ 4.0, Cl− 108, HCO3− 18 mmol/L (anion gap 14 mmol/L).",
+   "leadIn": "What is the best explanation for the anion gap being only modestly raised?",
+   "options": [
+    "The acidosis is purely hyperchloraemic",
+    "Hypoalbuminaemia is lowering the gap and hiding a larger rise",
+    "Lactate is a measured anion",
+    "Hyperkalaemia is falsely raising the gap",
+    "Liver disease cannot cause lactic acidosis"
+   ],
+   "answer": 1,
+   "explanation": "Albumin is the largest unmeasured anion. A fall from about 40 to 20 g/L can cut the gap by up to 6 mmol/L, so the true lactate-driven gap is larger than it looks. Correct the gap for albumin before calling it near-normal.",
+   "whyNot": [
+    "A raised lactate is an unmeasured anion, so the acidosis is not purely hyperchloraemic.",
+    "",
+    "Lactate is not part of the anion gap calculation; it is unmeasured.",
+    "K+ is normal here, and hyperkalaemia is not the issue.",
+    "Liver disease impairs lactate clearance and causes type 2 (B) lactic acidosis."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 218,
+     "page": 199
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 779,
+     "page": 779
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 387,
+     "page": 365
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 28-year-old man arrives 2 hours after drinking windscreen-washer fluid. He is mildly intoxicated. HCO3− 23 mmol/L, anion gap normal, but the measured osmolality is much higher than the calculated value.",
+   "leadIn": "What is the best interpretation?",
+   "options": [
+    "Toxic alcohol ingestion excluded because the anion gap is normal",
+    "Early toxic alcohol poisoning before acid metabolites accumulate",
+    "Laboratory error",
+    "Late presentation after metabolism is complete",
+    "Diabetic ketoacidosis"
+   ],
+   "answer": 1,
+   "explanation": "Early on, the unmetabolised parent alcohol raises the osmolar gap. Only as it is converted to toxic acids (formate for methanol) does the anion gap rise and acidosis develop. So a normal gap early does not exclude poisoning; treatment with fomepizole should not wait.",
+   "whyNot": [
+    "A normal anion gap early is expected; it rises later.",
+    "",
+    "A high osmolar gap after a known ingestion is a real finding.",
+    "Late presentations show a high anion gap and a falling osmolar gap.",
+    "HCO3− is normal and the anion gap is not raised, so there is no ketoacidosis."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 169,
+     "page": 147
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 274,
+     "page": 274
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 21-year-old woman with type 1 diabetes has abdominal pain and vomiting. Glucose 25 mmol/L, HCO3− 11 mmol/L, anion gap 26 mmol/L. A urine dipstick is negative for ketones.",
+   "leadIn": "What is the most appropriate interpretation?",
+   "options": [
+    "DKA excluded because the ketone dipstick is negative",
+    "Early ketoacidosis with mainly β-hydroxybutyrate, which the dipstick misses",
+    "Lactic acidosis is the only possible cause",
+    "The anion gap is falsely raised by hyperglycaemia",
+    "Normal-gap acidosis from vomiting"
+   ],
+   "answer": 1,
+   "explanation": "Urine dipsticks detect acetoacetate. Early in ketoacidosis most ketone is β-hydroxybutyrate, so the dipstick can be negative. Measure plasma β-hydroxybutyrate. A dipstick that turns positive during treatment reflects conversion back to acetoacetate, not deterioration.",
+   "whyNot": [
+    "A negative dipstick does not exclude early ketoacidosis.",
+    "",
+    "Hyperglycaemia with a raised gap in type 1 diabetes points to DKA; lactate is not the only possibility.",
+    "Glucose is not part of the anion gap formula.",
+    "Vomiting causes alkalosis, and the gap here is raised."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s3"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 274,
+     "page": 274
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 388,
+     "page": 366
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q18",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 1,
+   "stem": "A 36-year-old woman has had severe diarrhoea for 4 days. Na+ 136, K+ 3.0, Cl− 117, HCO3− 12 mmol/L. Arterial gas on air: pH 7.30, PCO2 3.4 kPa (26 mmHg).",
+   "leadIn": "What is the acid–base diagnosis?",
+   "options": [
+    "Normal-gap metabolic acidosis with appropriate respiratory compensation",
+    "Raised-gap metabolic acidosis with appropriate respiratory compensation",
+    "Normal-gap metabolic acidosis with an additional respiratory acidosis",
+    "Normal-gap metabolic acidosis with an additional respiratory alkalosis",
+    "Chronic respiratory alkalosis with renal compensation"
+   ],
+   "answer": 0,
+   "explanation": "Step 1 — pH 7.30: acidaemia. Step 2 — HCO3− is low (12), which explains the low pH; the low PCO2 would push pH up, so it is the response → primary metabolic acidosis. Step 3 — predicted PCO2 = 5.33 − 0.16 × (24 − 12) ≈ 3.4 kPa (Winters: 1.5 × 12 + 8 = 26 ± 2 mmHg). Measured 3.4 kPa fits → appropriate compensation. Step 4 — anion gap = (136 + 3) − (117 + 12) = 10, normal (Davidson 5–11) → hyperchloraemic acidosis, from GI bicarbonate loss.",
+   "whyNot": [
+    "",
+    "The gap of 10 mmol/L is within Davidson's 5–11 range.",
+    "A respiratory acidosis would leave PCO2 above the predicted 3.4 kPa.",
+    "An added respiratory alkalosis would push PCO2 clearly below 3.4 kPa.",
+    "A primary respiratory alkalosis would give an alkaline pH."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 387,
+     "page": 365
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 388,
+     "page": 366
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 270,
+     "page": 270
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q19",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 55-year-old man is brought in after taking a large number of tablets. He has ringing in his ears, a temperature of 38.1 °C and is breathing fast. Na+ 140, K+ 4.0, Cl− 102, HCO3− 14 mmol/L. pH 7.51, PCO2 2.4 kPa (18 mmHg).",
+   "leadIn": "What is the acid–base diagnosis?",
+   "options": [
+    "Raised-gap metabolic acidosis with appropriate respiratory compensation",
+    "Acute respiratory alkalosis alone",
+    "Raised-gap metabolic acidosis plus a primary respiratory alkalosis",
+    "Normal-gap metabolic acidosis plus respiratory acidosis",
+    "Metabolic alkalosis with respiratory compensation"
+   ],
+   "answer": 2,
+   "explanation": "Step 1 — pH 7.51 is alkalaemic, yet HCO3− is low: two processes are at work. Step 2 — anion gap = 144 − 116 = 28, clearly raised → raised-gap metabolic acidosis. Step 3 — expected PCO2 for HCO3− 14 = 5.33 − 0.16 × 10 ≈ 3.7 kPa (Winters ≈ 29 mmHg). Measured 2.4 kPa is far lower → a separate respiratory alkalosis, which also explains the alkaline pH. Tinnitus and fever with this mixed pattern = salicylate poisoning (respiratory-centre stimulation plus acid accumulation).",
+   "whyNot": [
+    "Pure compensation never overshoots to an alkaline pH, and PCO2 is well below predicted.",
+    "A raised anion gap of 28 proves an additional metabolic acidosis.",
+    "",
+    "Gap is raised and PCO2 is low, the opposite of both parts of this option.",
+    "HCO3− is low, not high."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 387,
+     "page": 365
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 274,
+     "page": 274
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 275,
+     "page": 275
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 270,
+     "page": 270
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 389,
+     "page": 367
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q20",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 68-year-old man with long-standing COPD attends clinic feeling at his usual baseline. Arterial gas on air: pH 7.34, PCO2 8.0 kPa (60 mmHg), HCO3− 31 mmol/L, PO2 7.9 kPa.",
+   "leadIn": "What is the acid–base diagnosis?",
+   "options": [
+    "Acute respiratory acidosis",
+    "Chronic respiratory acidosis with appropriate renal compensation",
+    "Chronic respiratory acidosis plus metabolic alkalosis",
+    "Primary metabolic alkalosis with respiratory compensation",
+    "Respiratory acidosis plus metabolic acidosis"
+   ],
+   "answer": 1,
+   "explanation": "Step 1 — pH 7.34: mild acidaemia. Step 2 — PCO2 is high and explains the acidaemia → primary respiratory acidosis. Step 3 — PCO2 rise ≈ 2.7 kPa. Acute rule: HCO3− ≈ 24 + 0.75 × 2.7 ≈ 26. Chronic rule: 24 + 2.62 × 2.7 ≈ 31. Measured 31 = chronic, fully compensated. Step 4 — the stable clinical story fits. Remember the renal compensation could be mistaken for a primary metabolic alkalosis, but the pH is acid, so the CO2 is primary.",
+   "whyNot": [
+    "Acute retention would raise HCO3− only to about 26 mmol/L and lower pH more.",
+    "",
+    "HCO3− equals, rather than exceeds, the chronic prediction, so no extra alkalosis.",
+    "A primary metabolic alkalosis would make the pH alkaline.",
+    "An added metabolic acidosis would leave HCO3− below the predicted 31."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 387,
+     "page": 365
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 217,
+     "page": 198
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 233,
+     "page": 214
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q21",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Causes of respiratory acid–base disturbance",
+   "leadIn": "For each patient, choose the most likely cause of the blood gas abnormality. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Opioid toxicity",
+    "Guillain–Barré syndrome",
+    "Myasthenic crisis",
+    "Flail chest",
+    "Kyphoscoliosis",
+    "Exacerbation of COPD",
+    "Obstructive sleep apnoea",
+    "Anxiety-related hyperventilation",
+    "Pulmonary embolism",
+    "Normal pregnancy",
+    "Chronic liver disease",
+    "Excessive mechanical ventilation"
+   ],
+   "items": [
+    {
+     "stem": "A 22-year-old student, half an hour before an exam, feels breathless and light-headed with tingling around the lips and fingers; carpal spasm appears when a BP cuff is inflated. SpO2 99% on air. pH 7.55, PCO2 3.3 kPa (25 mmHg), PO2 13.5 kPa, HCO3− 21 mmol/L.",
+     "answer": 7,
+     "explanation": "Acute respiratory alkalosis with a normal PO2 and an emotional trigger. Low ionised calcium explains the tingling and Trousseau's sign.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s6"
+     }
+    },
+    {
+     "stem": "A 64-year-old woman is hard to rouse on day 2 after a hip replacement, having had repeated patient-controlled analgesia doses. RR 7/min, pupils pinpoint. pH 7.28, PCO2 7.5 kPa (56 mmHg), HCO3− 25.5 mmol/L.",
+     "answer": 0,
+     "explanation": "Acute respiratory acidosis (HCO3− barely changed) with low respiratory rate and pinpoint pupils = opioid-induced CNS depression; naloxone reverses it.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s6"
+     }
+    },
+    {
+     "stem": "A 50-year-old man develops sudden pleuritic chest pain and tachycardia 10 days after a long-haul flight. Chest X-ray is clear. pH 7.55, PCO2 3.5 kPa (26 mmHg), PO2 7.8 kPa.",
+     "answer": 8,
+     "explanation": "Two steps: hypoxaemia with a clear chest film means a V/Q problem, not parenchymal disease; hypoxic drive produces the respiratory alkalosis. With the travel history, pulmonary embolism is most likely.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s6"
+     }
+    },
+    {
+     "stem": "A 31-year-old man has progressive weakness of the legs then the arms, starting 2 weeks after a diarrhoeal illness. Reflexes are absent. Vital capacity is falling and PCO2 has risen to 7.0 kPa.",
+     "answer": 1,
+     "explanation": "Ascending areflexic weakness after a gut infection is Guillain–Barré syndrome; respiratory muscle weakness causes CO2 retention.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 389,
+     "page": 367
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 280,
+     "page": 280
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 281,
+     "page": 281
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 791,
+     "page": 791
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1162,
+     "page": 1140
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 997,
+     "page": 975
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q22",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Management of acid–base disorders",
+   "leadIn": "For each patient, choose the most appropriate specific treatment. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "IV 0.9% saline with potassium chloride",
+    "IV sodium bicarbonate infusion",
+    "Oral sodium and potassium bicarbonate",
+    "Fludrocortisone",
+    "IV insulin, IV fluids and potassium replacement",
+    "IV glucose with thiamin",
+    "Fomepizole with haemodialysis",
+    "Naloxone",
+    "Acetazolamide",
+    "Rebreathing into a closed bag",
+    "Ventilatory support",
+    "Removal of an aldosterone-secreting adenoma"
+   ],
+   "items": [
+    {
+     "stem": "A 49-year-old man with chronic heavy drinking presents after a binge and several days of vomiting and not eating. Glucose 4.0 mmol/L, ketones high, anion gap 25 mmol/L, lactate normal. He has had initial fluid resuscitation.",
+     "answer": 5,
+     "explanation": "Alcoholic ketoacidosis: IV glucose stimulates insulin and switches off hepatic ketone production; thiamin (with K+, Mg2+, phosphate) is needed in malnourished drinkers.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s8"
+     }
+    },
+    {
+     "stem": "A 27-year-old woman has vomited for a week. BP 90/55 mmHg, urine Cl− 6 mmol/L, HCO3− 37 mmol/L and K+ 2.9 mmol/L.",
+     "answer": 0,
+     "explanation": "Hypovolaemic, chloride-depleted alkalosis: saline with potassium reverses secondary hyperaldosteronism so the kidney excretes the excess bicarbonate.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s5"
+     }
+    },
+    {
+     "stem": "A 33-year-old man drank antifreeze in a suicide attempt 6 hours ago. The osmolar gap is high, the anion gap is rising, creatinine is increasing and calcium oxalate crystals are seen in the urine.",
+     "answer": 6,
+     "explanation": "Ethylene glycol: fomepizole blocks alcohol dehydrogenase so fewer toxic acids form; AKI and acidosis are indications for haemodialysis.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s8"
+     }
+    },
+    {
+     "stem": "A 76-year-old man with severe heart failure on high-dose furosemide has peripheral and pulmonary oedema. HCO3− 38 mmol/L, K+ 3.8 mmol/L after supplements, eGFR 60 mL/min. Saline would worsen his fluid overload.",
+     "answer": 8,
+     "explanation": "Two steps: this is a chloride-responsive (diuretic) alkalosis, but saline is contraindicated by fluid overload. With adequate GFR, acetazolamide produces a bicarbonate diuresis.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 388,
+     "page": 366
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 389,
+     "page": 367
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 169,
+     "page": 147
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 221,
+     "page": 202
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 278,
+     "page": 278
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 60-year-old man with sepsis has a metabolic acidosis with HCO3− 14 mmol/L. He has no lung disease.",
+   "leadIn": "Using Davidson's rule, what PCO2 would show appropriate respiratory compensation?",
+   "options": [
+    "2.1 kPa",
+    "3.0 kPa",
+    "3.7 kPa",
+    "4.5 kPa",
+    "5.3 kPa"
+   ],
+   "answer": 2,
+   "explanation": "HCO3− has fallen by 10 mmol/L (24 → 14). PCO2 fall = 0.16 × 10 = 1.6 kPa, so expected PCO2 ≈ 5.33 − 1.6 ≈ 3.7 kPa. In mmHg, Winters gives 1.5 × 14 + 8 = 29 ± 2 mmHg — essentially the same answer (3.7 kPa ≈ 28 mmHg).",
+   "whyNot": [
+    "2.1 kPa is well below prediction and would mean an added respiratory alkalosis.",
+    "3.0 kPa is lower than predicted, suggesting extra hyperventilation.",
+    "",
+    "4.5 kPa is too high, implying inadequate compensation (added respiratory acidosis).",
+    "A normal PCO2 in metabolic acidosis means a coexisting respiratory acidosis."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 387,
+     "page": 365
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 270,
+     "page": 270
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q24",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 3,
+   "stem": "A 42-year-old woman has a metabolic alkalosis (HCO3− 35 mmol/L) after weeks of recurrent vomiting. She stopped her thiazide a month ago. Urine Na+ 45 mmol/L, urine Cl− 9 mmol/L.",
+   "leadIn": "What is the best interpretation of her urine electrolytes?",
+   "options": [
+    "Saline-resistant alkalosis because urine Na+ is high",
+    "Chloride-depleted, saline-responsive alkalosis; urine Na+ is raised by bicarbonaturia",
+    "Mineralocorticoid excess",
+    "Ongoing diuretic effect",
+    "Bartter's syndrome"
+   ],
+   "answer": 1,
+   "explanation": "In alkalaemia, filtered bicarbonate that escapes reabsorption carries Na+ into the urine, so urine Na+ misrepresents volume status. Urine Cl− is the better marker. A value below about 25 mmol/L means chloride depletion that will correct with saline and potassium.",
+   "whyNot": [
+    "Urine Na+ is unreliable in alkalaemia; the low urine Cl− shows saline-responsiveness.",
+    "",
+    "Mineralocorticoid excess gives a high urine Cl− and usually hypertension.",
+    "Active diuretic use would raise urine Cl−; the thiazide was stopped a month ago.",
+    "Bartter's syndrome is saline-resistant with a high urine Cl−."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s5"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 279,
+     "page": 279
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q25",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Clinical findings in acid–base disorders",
+   "leadIn": "For each patient, choose the finding most expected. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Kussmaul breathing",
+    "Carpopedal spasm with Chvostek's sign",
+    "Headache, papilloedema and asterixis",
+    "Blurred vision with optic disc swelling",
+    "Nephrocalcinosis and osteomalacia",
+    "Hyperkalaemia",
+    "Pinpoint pupils",
+    "Tinnitus",
+    "Envelope-shaped urinary crystals",
+    "Left shift of the oxyhaemoglobin curve"
+   ],
+   "items": [
+    {
+     "stem": "A 19-year-old with newly diagnosed type 1 diabetes has glucose 31 mmol/L, pH 7.08 and HCO3− 7 mmol/L. On inspection of his breathing, which sign is expected?",
+     "answer": 0,
+     "explanation": "Severe metabolic acidosis (pH < 7.20) drives deep, regular hyperventilation — Kussmaul respiration, the respiratory compensation.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s8"
+     }
+    },
+    {
+     "stem": "A 70-year-old woman with severe COPD is given high-flow oxygen in the ambulance. Over an hour her PCO2 rises from 7.5 to 10.5 kPa and she becomes drowsy.",
+     "answer": 2,
+     "explanation": "Acute CO2 retention dilates cerebral vessels (headache, papilloedema) and causes CO2 narcosis with asterixis and drowsiness.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s6"
+     }
+    },
+    {
+     "stem": "A 41-year-old woman with long-standing Sjögren's syndrome has a persistent hypokalaemic normal-gap acidosis with urine pH always above 6. Which long-term complication is expected?",
+     "answer": 4,
+     "explanation": "Two steps: Sjögren's plus inappropriately alkaline urine = classical distal RTA. The relentless acidosis draws calcium from bone (osteomalacia) and causes hypercalciuria, stones and nephrocalcinosis.",
+     "studyRef": {
+      "sectionId": "neph-acid-base.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 784,
+     "page": 784
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 791,
+     "page": 791
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 389,
+     "page": 367
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 388,
+     "page": 366
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 218,
+     "page": 199
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 792,
+     "page": 792
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q26",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 3,
+   "stem": "A healthy 29-year-old woman at 32 weeks of pregnancy has a routine arterial gas as part of a research study: pH 7.42, PCO2 4.0 kPa (30 mmHg), HCO3− 19 mmol/L.",
+   "leadIn": "What is the best interpretation?",
+   "options": [
+    "Metabolic acidosis with respiratory compensation",
+    "Acute respiratory alkalosis",
+    "Chronic respiratory alkalosis with renal compensation",
+    "Mixed respiratory alkalosis and metabolic alkalosis",
+    "Respiratory acidosis with metabolic acidosis"
+   ],
+   "answer": 2,
+   "explanation": "pH is on the alkaline side of 7.40 and PCO2 is low → primary respiratory alkalosis. PCO2 fall ≈ 1.33 kPa. Acute rule: HCO3− falls 1.5 × 1.33 ≈ 2 → about 22. Chronic rule: 3.75 × 1.33 ≈ 5 → about 19. Measured 19 = chronic, renally compensated respiratory alkalosis — the expected effect of pregnancy (progesterone stimulates breathing). It needs no treatment.",
+   "whyNot": [
+    "A primary metabolic acidosis would give a pH below 7.40.",
+    "Acute alkalosis would leave HCO3− near 22 and the pH higher.",
+    "",
+    "A metabolic alkalosis would raise HCO3−, not lower it.",
+    "PCO2 is low, so there is no respiratory acidosis."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 387,
+     "page": 365
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 389,
+     "page": 367
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 795,
+     "page": 795
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 281,
+     "page": 281
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q27",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 17-year-old girl took a large overdose of aspirin 6 hours ago. She has tinnitus, sweating and vomiting. Gas shows a mixed respiratory alkalosis and raised-anion-gap metabolic acidosis; she is conscious and passing urine.",
+   "leadIn": "Which treatment is most specific for increasing salicylate elimination?",
+   "options": [
+    "IV fluids with sodium bicarbonate to alkalinise the urine",
+    "Fomepizole",
+    "Naloxone",
+    "IV insulin infusion",
+    "Rebreathing into a closed bag"
+   ],
+   "answer": 0,
+   "explanation": "For salicylate poisoning, isotonic fluids plus sodium bicarbonate alkalinise the urine and increase salicylate excretion. Haemodialysis is kept for severe poisoning.",
+   "whyNot": [
+    "",
+    "Fomepizole blocks alcohol dehydrogenase for methanol and ethylene glycol poisoning.",
+    "Naloxone reverses opioids; it has no role in salicylate toxicity.",
+    "Insulin treats DKA; this acidosis is not due to insulin deficiency.",
+    "Rebreathing raises CO2 in anxiety hyperventilation; here the alkalosis comes from the drug, and rebreathing would not remove salicylate."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s8"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "pdfPage": 960,
+     "page": 960
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 274,
+     "page": 274
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 964,
+     "page": 964
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 158,
+     "page": 136
+    }
+   ]
+  },
+  {
+   "id": "neph-acid-base.q28",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 63-year-old woman with diabetic nephropathy (eGFR 50 mL/min) has K+ 6.0 mmol/L and a normal-anion-gap acidosis. Plasma renin and aldosterone are low. She is normotensive, not fluid-overloaded, and takes no culprit drugs.",
+   "leadIn": "Which treatment best corrects both the acidosis and the hyperkalaemia?",
+   "options": [
+    "Fludrocortisone",
+    "Spironolactone",
+    "Acetazolamide",
+    "IV hydrochloric acid",
+    "Oral potassium chloride"
+   ],
+   "answer": 0,
+   "explanation": "This is type IV RTA from hyporeninaemic hypoaldosteronism. Hyperkalaemia suppresses ammoniagenesis and sustains the acidosis. Replacing mineralocorticoid with fludrocortisone (or using loop/thiazide diuretics if volume or BP allow) increases distal K+ and H+ secretion.",
+   "whyNot": [
+    "",
+    "Spironolactone blocks aldosterone and would worsen type IV RTA.",
+    "Acetazolamide causes bicarbonate wasting and would worsen the acidosis.",
+    "Hydrochloric acid is for severe metabolic alkalosis, not acidosis.",
+    "Potassium supplements would worsen the hyperkalaemia."
+   ],
+   "studyRef": {
+    "sectionId": "neph-acid-base.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 388,
+     "page": 366
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 218,
+     "page": 199
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "neph-acid-base.o1",
+   "sectionId": "neph-acid-base.s7",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 577,
+    "page": 555,
+    "figure": "Fig. 17.8"
+   },
+   "identify": "Blood gas diagram: plot [H+] against PaCO2 and name the band — acute vs chronic respiratory acidosis, respiratory alkalosis, metabolic acidosis or alkalosis."
+  },
+  {
+   "id": "neph-acid-base.o2",
+   "sectionId": "neph-acid-base.s7",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 217,
+    "page": 198,
+    "figure": "Fig. 9.17"
+   },
+   "identify": "Flenley nomogram: a point inside one band = single disorder; between bands = mixed disorder (e.g. high [H+] with normal PaCO2 = combined respiratory and metabolic acidosis)."
+  },
+  {
+   "id": "neph-acid-base.o3",
+   "sectionId": "neph-acid-base.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 389,
+    "page": 367,
+    "figure": "Fig. 14.11"
+   },
+   "identify": "Vomiting alkalosis flow chart: HCl loss generates it; hypovolaemia, aldosterone, hypokalaemia and distal H+ secretion maintain it (paradoxical aciduria)."
+  },
+  {
+   "id": "neph-acid-base.o4",
+   "sectionId": "neph-acid-base.s7",
+   "cite": {
+    "book": "stepup6",
+    "pdfPage": 783,
+    "page": 783,
+    "figure": "FIGURE 8-7"
+   },
+   "identify": "Delta-gap plots: ΔAG = ΔHCO3− (simple raised-gap acidosis); ΔAG < ΔHCO3− (added normal-gap acidosis); ΔAG > ΔHCO3− (added metabolic alkalosis)."
+  },
+  {
+   "id": "neph-acid-base.o5",
+   "sectionId": "neph-acid-base.s4",
+   "cite": {
+    "book": "pocket8",
+    "pdfPage": 277,
+    "page": 277,
+    "figure": "Figure 4-2"
+   },
+   "identify": "Metabolic acidosis algorithm: anion gap first; if normal, urine anion gap, urine pH and fractional HCO3− excretion separate GI loss from RTA types."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:07:25.788Z",
+  "contentHash": "0c18f0422307f70016f82032b629b0cf6acb648f15f10fc31b5302c1300c32cf"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:07:25.802Z",
+  "contentHash": "0c18f0422307f70016f82032b629b0cf6acb648f15f10fc31b5302c1300c32cf",
+  "checkerVersion": "source-check-v1"
+ }
+}

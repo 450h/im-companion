@@ -1,0 +1,3122 @@
+{
+ "topicId": "neph-calcium-phosphate",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "neph-calcium-phosphate.s1",
+   "title": "PTH, vitamin D and measuring calcium",
+   "objectiveIdx": [
+    0,
+    1,
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**PTH** is an 84-amino-acid peptide made by the parathyroid **chief cells**. A G protein-coupled **calcium-sensing receptor (CaSR)** on these cells detects the **ionised** calcium, and PTH output rises when it falls. PTH then: (1) increases calcium reabsorption and **reduces phosphate reabsorption** in the renal tubule, (2) increases osteoclastic bone resorption, and (3) drives conversion of 25-hydroxyvitamin D to active **1,25(OH)2D**, which boosts gut calcium absorption. A **sustained** PTH excess causes net bone loss, while **pulsatile** PTH builds bone.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 683,
+       "page": 661
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Vitamin D pathway (Fig. 24.61)",
+     "items": [
+      "UVB light converts 7-dehydrocholesterol in the skin into vitamin D",
+      "The liver adds the 25-hydroxyl group, then the kidney adds the 1α-hydroxyl group to make **1,25(OH)2D**",
+      "1,25(OH)2D raises calcium absorption from the diet and increases bone resorption",
+      "Failure of renal 1α-hydroxylation is why CKD causes hypocalcaemia, and why native vitamin D does not work in hypoparathyroidism"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1073,
+       "page": 1051,
+       "figure": "Fig. 24.61"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 695,
+       "page": 658
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 684,
+       "page": 662
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Measuring calcium",
+     "columns": [
+      "Point",
+      "Detail"
+     ],
+     "rows": [
+      [
+       "Normal total calcium",
+       "2.2–2.6 mmol/L"
+      ],
+      [
+       "What labs report",
+       "**Total** calcium. Roughly half is bound (mainly to albumin, also citrate and phosphate); the free ionised part is the active one"
+      ],
+      [
+       "Albumin correction (SI)",
+       "Add **0.02 mmol/L for every 1 g/L** that albumin is below 40 g/L (subtract if above)"
+      ],
+      [
+       "Albumin correction (US units)",
+       "Corrected Ca (mg/dL) = measured Ca + 0.8 × (4 − albumin in g/dL)"
+      ],
+      [
+       "When correction fails",
+       "Very low albumin (severe acute illness, cirrhosis): measure **ionised calcium** directly"
+      ],
+      [
+       "Full calcium work-up",
+       "Calcium, phosphate, ALP, renal function, PTH and 25-hydroxyvitamin D"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 683,
+       "page": 661
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 690,
+       "page": 653
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 499,
+       "page": 499
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Low albumin** lowers the total calcium but leaves the ionised calcium normal, so the patient has no symptoms. **Alkalosis** (e.g. hyperventilation) does the opposite: albumin binds more calcium, so the ionised fraction falls while the total stays normal, and the patient can have tetany.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 685,
+       "page": 663
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 759,
+       "page": 759
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Calcitonin from the thyroid C cells is a tumour marker for medullary thyroid cancer, but it plays **no meaningful role** in normal human calcium balance. Do not list it as a key regulator alongside PTH and vitamin D.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 683,
+       "page": 661
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 1073,
+      "page": 1051,
+      "figure": "Fig. 24.61"
+     },
+     "note": "Look at: skin → liver → kidney hydroxylation steps, and where PTH, gut and bone fit in. Useful for explaining vitamin D–driven hypercalcaemia."
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.s2",
+   "title": "Hypocalcaemia, hypoparathyroidism and pseudohypoparathyroidism",
+   "objectiveIdx": [
+    0,
+    4
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Causes of a low calcium",
+     "items": [
+      "**Spurious:** hypoalbuminaemia (ionised calcium normal)",
+      "**Low ionised only:** alkalosis, e.g. hyperventilation",
+      "**Low PTH:** damage to the glands or their blood supply at thyroid/parathyroid surgery (commonest cause of hypoparathyroidism), autoimmune (APS type 1), DiGeorge syndrome, iron (haemochromatosis) or copper (Wilson's) infiltration, CaSR-activating mutation",
+      "**Magnesium depletion:** blocks PTH release and causes PTH resistance; suspect with malabsorption, diuretics, proton pump inhibitors or alcohol excess",
+      "**PTH resistance:** pseudohypoparathyroidism",
+      "**Low vitamin D:** little UV exposure, malabsorption, enzyme-inducing antiepileptics",
+      "**High phosphate:** CKD (failed 1α-hydroxylation plus phosphate retention), phosphate therapy, acute phosphate release (tumour lysis, rhabdomyolysis)",
+      "**Calcium sequestration:** acute pancreatitis (calcium binds fatty acids freed by lipase), citrated blood in massive transfusion",
+      "**Drugs:** bisphosphonates, calcitonin"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 684,
+       "page": 662
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 685,
+       "page": 663
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 686,
+       "page": 664
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 694,
+       "page": 657
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 759,
+       "page": 759
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 502,
+       "page": 502
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "\"Commonest cause\" depends on the book. **Davidson:** a low albumin with normal ionised calcium (spurious). For true hypocalcaemia, **Kumar** names **CKD** and **Step-Up** names **post-thyroidectomy hypoparathyroidism**. Always correct for albumin before calling it hypocalcaemia.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 685,
+       "page": 663
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 693,
+       "page": 656
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 757,
+       "page": 757
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Symptoms and signs",
+     "columns": [
+      "Feature",
+      "Detail"
+     ],
+     "rows": [
+      [
+       "Tetany",
+       "Muscle spasm from overexcitable peripheral nerves. Adults: tingling of hands, feet and around the mouth, plus carpopedal spasm. Children: **triad of carpopedal spasm, stridor (glottic spasm) and convulsions**"
+      ],
+      [
+       "Main d'accoucheur",
+       "Flexed MCP joints with an adducted thumb"
+      ],
+      [
+       "Trousseau's sign",
+       "Arm cuff pumped above systolic pressure → carpal spasm **within 3 minutes**; the more specific sign of latent tetany"
+      ],
+      [
+       "Chvostek's sign",
+       "Tapping the facial nerve in front of the ear (over the parotid) makes the facial muscles twitch; less specific"
+      ],
+      [
+       "Other neuromuscular",
+       "Brisk tendon reflexes, cramps, laryngospasm, seizures"
+      ],
+      [
+       "Heart and eyes",
+       "**Long QT** with risk of ventricular arrhythmia; papilloedema when severe"
+      ],
+      [
+       "Chronic low Ca with high PO4 (hypoparathyroidism)",
+       "Basal ganglia calcification (can cause parkinsonism), epilepsy, psychosis, cataracts"
+      ],
+      [
+       "Low Ca with low PO4 (vitamin D lack)",
+       "Rickets in children, osteomalacia in adults"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 685,
+       "page": 663
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 758,
+       "page": 758
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 484,
+       "page": 484
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Lab patterns in hypocalcaemia (Davidson Box 18.33)",
+     "columns": [
+      "Cause",
+      "Ionised Ca",
+      "Phosphate",
+      "PTH",
+      "Extra clue"
+     ],
+     "rows": [
+      [
+       "Hypoalbuminaemia",
+       "Normal",
+       "Normal",
+       "Normal",
+       "Correct for albumin"
+      ],
+      [
+       "Alkalosis",
+       "Low (total normal)",
+       "Normal",
+       "Normal or high",
+       "Hyperventilation, vomiting"
+      ],
+      [
+       "Vitamin D deficiency",
+       "Low",
+       "**Low**",
+       "High",
+       "Low 25(OH)D, raised ALP"
+      ],
+      [
+       "CKD",
+       "Low",
+       "**High**",
+       "High",
+       "Raised creatinine"
+      ],
+      [
+       "Hypoparathyroidism",
+       "Low",
+       "**High**",
+       "**Low**",
+       "Neck surgery scar"
+      ],
+      [
+       "Pseudohypoparathyroidism",
+       "Low",
+       "**High**",
+       "**High**",
+       "AHO phenotype"
+      ],
+      [
+       "Acute pancreatitis",
+       "Low",
+       "Normal or low",
+       "High",
+       "Raised amylase"
+      ],
+      [
+       "Hypomagnesaemia",
+       "Low",
+       "Variable",
+       "Low or normal",
+       "Fixing Mg may fix Ca"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 684,
+       "page": 662
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 760,
+       "page": 760
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 669,
+       "page": 647
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 686,
+       "page": 664
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1074,
+       "page": 1052
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 560 270' role='img' aria-label='Hypocalcaemia work-up by PTH'><rect x='150' y='8' width='260' height='40' rx='6' fill='#eef3fb' stroke='#3b5b8c'/><text x='280' y='24' text-anchor='middle' font-size='12' font-family='sans-serif'>Low albumin-corrected calcium</text><text x='280' y='40' text-anchor='middle' font-size='11' font-family='sans-serif'>check creatinine, Mg, phosphate</text><line x1='280' y1='48' x2='280' y2='72' stroke='#3b5b8c' stroke-width='2'/><rect x='200' y='72' width='160' height='30' rx='6' fill='#eef3fb' stroke='#3b5b8c'/><text x='280' y='92' text-anchor='middle' font-size='12' font-family='sans-serif'>Measure serum PTH</text><line x1='240' y1='102' x2='140' y2='140' stroke='#3b5b8c' stroke-width='2'/><line x1='320' y1='102' x2='420' y2='140' stroke='#3b5b8c' stroke-width='2'/><text x='120' y='132' text-anchor='middle' font-size='11' font-family='sans-serif'>low or inappropriately normal</text><text x='440' y='132' text-anchor='middle' font-size='11' font-family='sans-serif'>high</text><rect x='10' y='140' width='250' height='70' rx='6' fill='#fbf1ea' stroke='#8c5b3b'/><text x='135' y='162' text-anchor='middle' font-size='12' font-family='sans-serif'>Hypoparathyroidism</text><text x='135' y='180' text-anchor='middle' font-size='11' font-family='sans-serif'>or magnesium depletion</text><text x='135' y='198' text-anchor='middle' font-size='11' font-family='sans-serif'>or CaSR-activating mutation</text><rect x='290' y='140' width='260' height='120' rx='6' fill='#eaf6ee' stroke='#3b8c5b'/><text x='420' y='160' text-anchor='middle' font-size='12' font-family='sans-serif'>Secondary response: find why</text><text x='420' y='182' text-anchor='middle' font-size='11' font-family='sans-serif'>High creatinine + high PO4: CKD</text><text x='420' y='202' text-anchor='middle' font-size='11' font-family='sans-serif'>Low 25(OH)D + low PO4: vitamin D lack</text><text x='420' y='222' text-anchor='middle' font-size='11' font-family='sans-serif'>Normal 25(OH)D + high PO4:</text><text x='420' y='240' text-anchor='middle' font-size='11' font-family='sans-serif'>pseudohypoparathyroidism</text></svg>",
+     "alt": "Algorithm: after correcting for albumin, a low or inappropriately normal PTH points to hypoparathyroidism or low magnesium; a high PTH points to CKD, vitamin D deficiency or pseudohypoparathyroidism.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 695,
+       "page": 658,
+       "figure": "Fig. 14.11"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 684,
+       "page": 662
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Investigations",
+     "items": [
+      "Albumin-corrected or ionised calcium",
+      "Creatinine/eGFR, magnesium, phosphate, ALP, urinary calcium",
+      "PTH: absent or inappropriately low in hypoparathyroidism, raised in the other causes",
+      "25(OH)D (and 1,25(OH)2D in renal failure or rickets)",
+      "Amylase if pancreatitis is possible; ECG for QT",
+      "Hand X-ray: **short 4th metacarpals** in pseudohypoparathyroidism"
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 503,
+       "page": 503
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 669,
+       "page": 647
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 759,
+       "page": 759
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Management",
+     "columns": [
+      "Situation",
+      "Treatment"
+     ],
+     "rows": [
+      [
+       "Severe or tetanic (Davidson Box 18.34)",
+       "**10–20 mL of 10% calcium gluconate IV over 10–20 min**, then an infusion of about 10 mL/h for several hours if needed, with **cardiac monitoring**"
+      ],
+      [
+       "Low magnesium as well",
+       "Magnesium chloride 50 mmol IV over 24 h; most is lost in urine so repeat doses may be needed. Calcium is very hard to correct until Mg is replaced"
+      ],
+      [
+       "Vitamin D deficiency",
+       "Ergocalciferol or colecalciferol 50 000 IU orally once a week for 8 weeks"
+      ],
+      [
+       "Hypo- and pseudohypoparathyroidism",
+       "Oral calcium plus an **active** vitamin D (alfacalcidol 0.25–2 µg daily or calcitriol), aiming for low-normal calcium"
+      ],
+      [
+       "Reducing hypercalciuria",
+       "Thiazide diuretic; recombinant PTH (unlicensed, used in hypoparathyroidism but not pseudo) causes less hypercalciuria"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 685,
+       "page": 663
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 687,
+       "page": 665
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 695,
+       "page": 658
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 760,
+       "page": 760
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 503,
+       "page": 503
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Pseudohypoparathyroidism** is PTH **resistance**: the receptor is normal but a **GNAS1 (Gsα)** signalling defect stops PTH working, so PTH is **high** with low calcium and high phosphate. Type 1a also shows **Albright's hereditary osteodystrophy (AHO)**: short stature, short 4th metacarpals and metatarsals, round face, obesity and subcutaneous calcification. Type 1a appears when the mutation comes from the **mother** (imprinting). Inherited from the **father**, it gives **pseudopseudohypoparathyroidism**: AHO body features with normal calcium and PTH.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 686,
+       "page": 664
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 687,
+       "page": 665
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Plain colecalciferol **fails in hypoparathyroidism** because PTH is needed for renal 1α-hydroxylation. Use alfacalcidol or calcitriol, and watch for iatrogenic hypercalcaemia, hypercalciuria and nephrocalcinosis.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 695,
+       "page": 658
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 687,
+       "page": 665
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Tetany with a normal total calcium** means low ionised calcium from alkalosis: hyperventilation, persistent vomiting, too much antacid, or hypochloraemic alkalosis such as primary hyperaldosteronism. Potassium and magnesium deficiency can also cause tetany.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 669,
+       "page": 647
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 694,
+       "page": 657
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Step-Up calls pseudohypoparathyroidism autosomal recessive. Follow **Davidson**: it is a GNAS1 defect whose effect depends on which parent passed it on (maternal → PTH resistance; paternal → pseudopseudohypoparathyroidism).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 686,
+       "page": 664
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 757,
+       "page": 757
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.s3",
+   "title": "Hypercalcaemia",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Hypercalcaemia is common and is often found on routine bloods. **Primary hyperparathyroidism and malignancy cause over 90%** of cases. A well **outpatient** usually has primary hyperparathyroidism. In **inpatients**, cancer leads (about 45%), then primary HPT (about 25%) and CKD with tertiary HPT (about 10%). Mild, symptom-free hypercalcaemia affects about 1 in 1000 people, mostly older women.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 683,
+       "page": 661
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 690,
+       "page": 653
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 692,
+       "page": 655
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 500,
+       "page": 500
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Causes sorted by PTH (Davidson Box 18.32)",
+     "columns": [
+      "PTH normal or raised",
+      "PTH low (suppressed)"
+     ],
+     "rows": [
+      [
+       "Primary hyperparathyroidism",
+       "Malignancy: lung, breast, myeloma, renal, lymphoma, thyroid"
+      ],
+      [
+       "Tertiary hyperparathyroidism",
+       "High 1,25(OH)2D: vitamin D excess, sarcoidosis, TB and other granulomas, HIV, lymphoma"
+      ],
+      [
+       "Lithium (makes the CaSR less sensitive)",
+       "Thyrotoxicosis; glucocorticoid deficiency (Addison's)"
+      ],
+      [
+       "Familial hypocalciuric hypercalcaemia (FHH)",
+       "Paget's disease with immobilisation; milk-alkali syndrome; thiazides; vitamin A"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 684,
+       "page": 662
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 691,
+       "page": 654
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Hypercalcaemia of malignancy",
+     "items": [
+      "Seen in up to 20% of cancer patients; about 40% in **myeloma and breast cancer**",
+      "**PTHrP** causes about 80% (more bone resorption plus more renal calcium reabsorption); common with squamous, renal, breast and bladder cancers",
+      "Bone metastases cause about 20% (local osteolysis, e.g. breast, myeloma); some lymphomas make 1,25(OH)2D; ectopic PTH is rare",
+      "New hypercalcaemia in a cancer patient often means progression and should prompt restaging"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 500,
+       "page": 500
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Symptoms and signs (\"stones, bones, groans, psychic moans\")",
+     "items": [
+      "**Renal:** polyuria and thirst (calcium blocks urine concentration: a mild **nephrogenic DI**), renal colic, nephrocalcinosis",
+      "**GI:** anorexia, nausea, constipation, dyspepsia and peptic ulcer, pancreatitis",
+      "**Neuro-psych:** lethargy, depression, drowsiness, poor concentration; **delirium in older people**",
+      "**Cardiac:** **short QT**, hypertension",
+      "Mild (corrected Ca < 3 mmol/L) is often symptom-free; above 3.8 mmol/L there is dehydration, clouded consciousness and a risk of cardiac arrest",
+      "Corneal calcification marks long-standing hypercalcaemia but causes no symptoms"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 684,
+       "page": 662
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 687,
+       "page": 665
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 667,
+       "page": 645
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 692,
+       "page": 655
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 762,
+       "page": 762
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 500,
+       "page": 500
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Hypercalcaemic crisis:** calcium blocks ADH action and lowers GFR, so the patient pees out water, becomes dry, and the calcium climbs further. That vicious cycle is why **IV fluid is always the first step**.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 500,
+       "page": 500
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 762,
+       "page": 762
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Investigations",
+     "items": [
+      "Repeat and correct the calcium for albumin; check phosphate (low in primary HPT and some cancers), ALP, creatinine",
+      "**PTH is the key test.** Detectable or raised PTH with a high calcium = hyperparathyroidism (a 'normal' PTH is inappropriate)",
+      "Raised PTH in a young patient or with a family history: 24-h urine calcium or Ca:creatinine clearance ratio to exclude **FHH** (ratio < 0.01)",
+      "**PTH suppressed:** look for cancer: CXR, CT, mammogram, protein electrophoresis/immunofixation (myeloma); PTHrP assay if needed (PTH assays do not detect PTHrP)",
+      "Also with low PTH: 25(OH)D (high = supplements), 1,25(OH)2D (high = granuloma or lymphoma; then CXR, serum ACE), TSH, short Synacthen test for Addison's"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 684,
+       "page": 662
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 692,
+       "page": 655
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 501,
+       "page": 501
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Treating severe hypercalcaemia",
+     "columns": [
+      "Measure",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "IV 0.9% saline (first)",
+       "Davidson: 2–4 L/day. Kumar: 4–6 L in the first 24 h, then 3–4 L/day. Restores GFR and calcium excretion"
+      ],
+      [
+       "IV bisphosphonate",
+       "With or after rehydration (Davidson: concurrently; Kumar: only after rehydration): **zoledronic acid 4 mg** or **pamidronate 60–90 mg**. Calcium normalises within about 3–5 days; effect lasts up to ~4 weeks; recheck Ca no sooner than 48 h"
+      ],
+      [
+       "Calcitonin",
+       "Works within hours; add for the first 24–48 h in life-threatening cases; loses effect quickly (tachyphylaxis)"
+      ],
+      [
+       "Denosumab",
+       "Anti-RANKL, 60 mg SC; for malignant hypercalcaemia refractory to zoledronic acid; not renally cleared"
+      ],
+      [
+       "Prednisolone 30–60 mg/day",
+       "Helps in myeloma, sarcoidosis and vitamin D excess; usually useless otherwise"
+      ],
+      [
+       "Furosemide / dialysis",
+       "Loop diuretic only if fluid-overloaded; haemodialysis if other measures fail"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 693,
+       "page": 656
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 501,
+       "page": 501
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 762,
+       "page": 762
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Saline volumes differ: **Davidson** gives 2–4 L/day, **Kumar** gives 4–6 L over the first 24 h. Follow Davidson for the exam, and remember the volume always depends on the patient's fluid status.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 693,
+       "page": 656
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Always review the drug chart: **thiazides** cut renal calcium excretion and **lithium** causes hyperparathyroidism. Giving furosemide to a dry patient worsens the cycle.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 684,
+       "page": 662
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 762,
+       "page": 762
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.s4",
+   "title": "Hyperparathyroidism: primary, secondary, tertiary (and FHH)",
+   "objectiveIdx": [
+    4,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Types of hyperparathyroidism",
+     "columns": [
+      "Type",
+      "Mechanism",
+      "Calcium",
+      "PTH",
+      "Treatment"
+     ],
+     "rows": [
+      [
+       "Primary",
+       "Autonomous gland: single adenoma 90%, multiple adenomas 4%, hyperplasia 5%, carcinoma 1%",
+       "High",
+       "High or inappropriately normal",
+       "Parathyroidectomy"
+      ],
+      [
+       "Secondary",
+       "All glands enlarge to compensate for low calcium: CKD, vitamin D deficiency, malabsorption",
+       "Low or low-normal",
+       "High",
+       "Treat the cause (vitamin D, CKD measures, transplant)"
+      ],
+      [
+       "Tertiary",
+       "Long-standing secondary HPT turns autonomous, mostly in kidney failure",
+       "High",
+       "High (stays high after cause is fixed)",
+       "Parathyroidectomy; cinacalcet if surgery fails or is impossible"
+      ],
+      [
+       "FHH (mimic)",
+       "Inactivating CaSR mutation, autosomal dominant",
+       "Mildly high",
+       "Upper-normal or slightly high",
+       "None"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 685,
+       "page": 663
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 690,
+       "page": 653
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 691,
+       "page": 654
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 63,
+       "page": 63
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 686,
+       "page": 664
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Primary HPT** affects about 1 in 800 people, is 2–3 times commoner in women, and 90% of patients are over 50. In **MEN** syndromes all four glands tend to be hyperplastic or carry multiple adenomas.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 685,
+       "page": 663
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Clinical picture of primary HPT",
+     "items": [
+      "About **half are asymptomatic**, found on routine bloods; others have fatigue, depression, aches",
+      "**Stones:** about 5% of first and 15% of recurrent stone formers have primary HPT; nephrocalcinosis",
+      "**Bones:** low BMD on DXA (now the commonest skeletal finding); in advanced disease osteitis fibrosa with **subperiosteal erosions**, terminal phalanx resorption and a **'pepper-pot' skull**; brown tumours and fractures",
+      "**Joints:** knee chondrocalcinosis → pseudogout",
+      "Hypertension is common; the gland is almost **never palpable**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 684,
+       "page": 662
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 685,
+       "page": 663
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 485,
+       "page": 485
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Diagnosis and localisation",
+     "items": [
+      "High calcium, **low phosphate**, raised or inappropriately normal PTH; often a mild hyperchloraemic acidosis (Cl:PO4 ratio > 33 supports the diagnosis)",
+      "Exclude **FHH**: low urinary calcium, Ca:creatinine clearance ratio **< 0.01**, family screening or CaSR gene testing",
+      "Only after the biochemistry is clear: localise with **99mTc-sestamibi** (about 90% sensitive) plus neck **ultrasound**",
+      "Negative imaging does **not** rule it out; four-gland exploration may be needed"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 684,
+       "page": 662
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 686,
+       "page": 664
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 667,
+       "page": 645
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 487,
+       "page": 487
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 692,
+       "page": 655
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Managing primary HPT",
+     "columns": [
+      "Option",
+      "When / how"
+     ],
+     "rows": [
+      [
+       "Surgery (treatment of choice)",
+       "Age < 50, clear symptoms or complications (stones, renal impairment, osteoporosis), or corrected Ca > 2.85 mmol/L (> 11.4 mg/dL)"
+      ],
+      [
+       "Extra US criteria (Pocket)",
+       "Ca > 1 mg/dL above the upper limit, CrCl < 60 mL/min, DXA T-score < −2.5"
+      ],
+      [
+       "Which operation",
+       "Remove the adenoma; in hyperplasia remove all four glands (Step-Up: with forearm autotransplant)"
+      ],
+      [
+       "Watchful waiting",
+       "Older, asymptomatic, mild rise: yearly calcium and renal function, periodic bone density, plenty of fluids"
+      ],
+      [
+       "Cinacalcet",
+       "Calcimimetic that sensitises the CaSR and lowers PTH; for patients unfit for or unwilling to have surgery, and for tertiary HPT. May not improve BMD"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 686,
+       "page": 664
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 501,
+       "page": 501
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 487,
+       "page": 487
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 692,
+       "page": 655
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**After parathyroidectomy** the main danger is **hypocalcaemia from 'hungry bones'**, more likely with marked bone disease or vitamin D deficiency, so correct vitamin D first. Mild transient hypoparathyroidism can last 1–2 weeks; permanent hypoparathyroidism and recurrent laryngeal nerve palsy each occur in < 1% (check the vocal cords before surgery).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 686,
+       "page": 664
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 668,
+       "page": 646
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**FHH** looks like mild primary HPT, but it is benign and needs no treatment. The real harm is an unnecessary, ineffective parathyroidectomy, so check urinary calcium before referring a young patient or someone with a family history.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 686,
+       "page": 664
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 692,
+       "page": 655
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Books disagree on how much primary HPT is hyperplasia: **Davidson 5%**, Step-Up < 10%, Pocket Medicine 15–20%. Use Davidson's figures (single adenoma 90%).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 685,
+       "page": 663
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 485,
+       "page": 485
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 499,
+       "page": 499
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 686,
+      "page": 664,
+      "figure": "Fig. 18.17"
+     },
+     "note": "Look at: sestamibi scan. At 1 h both thyroid and an enlarged left inferior parathyroid take up tracer; at 3 h only the adenoma still holds it."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "stepup6",
+      "pdfPage": 486,
+      "page": 486,
+      "figure": "FIGURE 4-8"
+     },
+     "note": "Look at: clavicle X-ray with cystic lucent 'brown tumours' of osteitis fibrosa cystica, which predispose to pathological fracture."
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.s5",
+   "title": "Hypophosphataemia",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Normal plasma phosphate is **0.8–1.4 mmol/L**; hypophosphataemia is below **0.8 mmol/L** (about 2.5 mg/dL), and below **0.4 mmol/L** is severe. About 65% of filtered phosphate is taken back in the **proximal tubule** by sodium–phosphate co-transport. **PTH, FGF23**, volume expansion, osmotic diuretics and glucose infusion all reduce that reabsorption.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 390,
+       "page": 368
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 776,
+       "page": 776
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 697,
+       "page": 660
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Causes by mechanism (Davidson Box 14.22)",
+     "columns": [
+      "Mechanism",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Shift into cells",
+       "**Refeeding** after starvation, respiratory alkalosis, **treatment of DKA**, hungry bone after parathyroidectomy"
+      ],
+      [
+       "Poor intake or absorption",
+       "Malnutrition, alcohol misuse, malabsorption, chronic diarrhoea, phosphate binders and antacids, vitamin D deficiency"
+      ],
+      [
+       "Renal loss",
+       "Hyperparathyroidism, ECF expansion with diuresis, osmotic diuretics, Fanconi syndrome, familial hypophosphataemic rickets, **tumour-induced osteomalacia** (FGF23)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 391,
+       "page": 369
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 696,
+       "page": 659
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 776,
+       "page": 776
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Severe** hypophosphataemia is usually seen in **alcohol misuse** and during **DKA treatment**. In **refeeding syndrome**, a carbohydrate load releases insulin, which pushes phosphate, potassium and magnesium into cells and raises ATP demand: arrhythmias, respiratory failure, rhabdomyolysis and fits follow. Prevent it by correcting electrolytes first and raising calories slowly.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 776,
+       "page": 776
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 214,
+       "page": 195
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Clinical features (low ATP and 2,3-BPG)",
+     "items": [
+      "**Blood:** haemolysis, poor white cell and platelet function; low 2,3-BPG means red cells release less O2",
+      "**Muscle:** weakness, rhabdomyolysis; **diaphragm weakness** → respiratory failure and **failure to wean from the ventilator**",
+      "**Heart:** reduced contractility, heart failure",
+      "**Gut:** ileus",
+      "**CNS:** confusion, hallucinations, seizures, coma",
+      "**Bone:** osteomalacia if prolonged"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 391,
+       "page": 369
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 696,
+       "page": 659
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 776,
+       "page": 776
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 777,
+       "page": 777
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Investigations",
+     "items": [
+      "Creatinine, electrolytes, phosphate, albumin, calcium, ALP; in selected cases PTH and 25(OH)D",
+      "**Low phosphate + high calcium** → think primary hyperparathyroidism (measure PTH)",
+      "**Low phosphate + low calcium** → think hypophosphataemic rickets/osteomalacia",
+      "FGF23 excess (X-linked or autosomal dominant hypophosphataemic rickets, tumour-induced osteomalacia): phosphaturia with normal PTH and normal or low 1,25(OH)2D"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 391,
+       "page": 369
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 213,
+       "page": 194
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Management",
+     "columns": [
+      "Situation",
+      "Treatment"
+     ],
+     "rows": [
+      [
+       "Mild, or reduced intake/excess loss",
+       "Oral phosphate (e.g. effervescent tablets, which also carry Na and K) plus high-protein, dairy-rich food; treat the cause"
+      ],
+      [
+       "Severe symptomatic (< 0.4 mmol/L) or critical",
+       "IV sodium or potassium phosphate, e.g. 9–18 mmol in 250–500 mL 5% glucose over 6–12 h"
+      ],
+      [
+       "Monitoring on IV phosphate",
+       "Calcium, phosphate, magnesium and potassium; too-fast infusion can cause severe hypocalcaemia (worse with alkalosis)"
+      ],
+      [
+       "Genetic FGF23 excess",
+       "Burosumab (anti-FGF23 antibody)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 391,
+       "page": 369
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 696,
+       "page": 659
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 697,
+       "page": 660
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 214,
+       "page": 195
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**IV phosphate is risky:** it can combine with calcium, causing **hypocalcaemia and metastatic (ectopic) calcification** in kidney and heart. Keep it for critical cases and give it slowly.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 391,
+       "page": 369
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 697,
+       "page": 660
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.s6",
+   "title": "Hyperphosphataemia and CKD–mineral bone disorder",
+   "objectiveIdx": [
+    3,
+    4
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Causes of hyperphosphataemia",
+     "columns": [
+      "Mechanism",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Low GFR (commonest)",
+       "**AKI and CKD**"
+      ],
+      [
+       "More tubular reabsorption",
+       "Hypoparathyroidism, pseudohypoparathyroidism; familial tumoural calcinosis (FGF23 deficiency)"
+      ],
+      [
+       "Release from cells",
+       "**Tumour lysis**, rhabdomyolysis, catabolic states, acidosis"
+      ],
+      [
+       "Phosphate load",
+       "Phosphate enemas or supplements; made worse by inappropriate vitamin D"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 391,
+       "page": 369
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 214,
+       "page": 195
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 777,
+       "page": 777
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Clinical features",
+     "items": [
+      "Often silent; problems come from **hypocalcaemia** (tetany, irritability) and **metastatic calcification**",
+      "Acute surges (AKI, rhabdomyolysis, tumour lysis) mop up calcium and cause hypocalcaemia",
+      "High Ca × PO4 product: uraemic itch, vascular and periarticular calcification; worst in CKD with tertiary HPT",
+      "Step-Up (mg/dL units): product > 70 makes calcification likely; CKD goal < 55",
+      "Prolonged high phosphate drives hyperparathyroidism"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 391,
+       "page": 369
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 214,
+       "page": 195
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 777,
+       "page": 777
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 502,
+       "page": 502
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Management by cause",
+     "columns": [
+      "Setting",
+      "Treatment"
+     ],
+     "rows": [
+      [
+       "CKD",
+       "Restrict high-phosphate foods (milk, cheese, eggs, protein-rich foods) + **phosphate binders taken with meals**; aim for phosphate **≤ 1.5 mmol/L** (4.6 mg/dL); dialysis in kidney failure"
+      ],
+      [
+       "Hypo- or pseudohypoparathyroidism",
+       "Usually no specific treatment"
+      ],
+      [
+       "Tumour lysis, catabolic states",
+       "IV 0.9% saline to increase phosphate excretion"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 391,
+       "page": 369
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 441,
+       "page": 419
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 778,
+       "page": 778
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Binders:** calcium carbonate/acetate, aluminium hydroxide, lanthanum carbonate and sevelamer. **Sevelamer** (unlike calcium binders) slows vascular calcification and lowers cholesterol. **Aluminium** works well but risks aluminium bone disease and cognitive impairment. Adherence is poor, and overly strict diets cause protein malnutrition.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 441,
+       "page": 419
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1408,
+       "page": 1395
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Renal bone disease (CKD–MBD):** the failing kidney retains phosphate and cannot make 1,25(OH)2D. High phosphate raises **FGF23** and PTH; low 1,25(OH)2D cuts calcium absorption, and calcium phosphate deposits in tissues, so calcium falls and PTH climbs further (**secondary HPT**). The results are **osteitis fibrosa cystica**, calcification of vessels and heart valves, and sometimes **tertiary HPT** with hypercalcaemia. Too much vitamin D causes **adynamic bone disease**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 440,
+       "page": 418
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 441,
+       "page": 419,
+       "figure": "Fig. 15.24"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "CKD–MBD: labs and X-ray signs",
+     "items": [
+      "Secondary HPT labs: **low Ca, high PO4, high PTH, high ALP**",
+      "X-ray: digital subperiosteal erosions, 'pepperpot' skull",
+      "**'Rugger jersey' spine**: alternating sclerotic and porotic bands from long-standing HPT",
+      "Adynamic bone: low PTH, normal ALP, may be hypercalcaemic"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1408,
+       "page": 1395,
+       "figure": "Fig. 36.47"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Treating renal bone disease (Davidson)",
+     "columns": [
+      "Step",
+      "Detail"
+     ],
+     "rows": [
+      [
+       "1. Control phosphate",
+       "Diet + binders, target ≤ 1.5 mmol/L"
+      ],
+      [
+       "2. Active vitamin D",
+       "Alfacalcidol or calcitriol if hypocalcaemic or PTH > 2× upper limit; titrate PTH to **2–4× upper limit**; avoid hypercalcaemia"
+      ],
+      [
+       "3. Tertiary HPT",
+       "Persistent hypercalcaemia → parathyroidectomy; **cinacalcet** if surgery fails or is not possible"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 441,
+       "page": 419
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 305,
+       "page": 305
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "PTH thresholds vary: **Davidson** starts active vitamin D at PTH > 2× the upper limit and aims for 2–4×; **Kumar** starts at ≥ 3×. Over-suppressing PTH risks adynamic bone. Use Davidson's numbers.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 441,
+       "page": 419
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1409,
+       "page": 1396
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Calciphylaxis** (calcific uraemic arteriolopathy): painful skin plaques and ulcers with non-healing eschars in CKD. Risk factors: hyperparathyroidism, high phosphate, morbid obesity and **warfarin**. Histology shows calcified skin microvessels without vasculitis.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1409,
+       "page": 1396,
+       "figure": "Fig. 36.48"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 441,
+      "page": 419,
+      "figure": "Fig. 15.24"
+     },
+     "note": "Look at: flow chart of renal osteodystrophy: low 1,25(OH)2D and high phosphate → low calcium → parathyroid hyperplasia → osteoclastic resorption."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1408,
+      "page": 1395,
+      "figure": "Fig. 36.47"
+     },
+     "note": "Look at: CKD–MBD summary of mechanisms with X-ray signs (subperiosteal erosions, pepperpot skull, rugger jersey spine)."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "neph-calcium-phosphate.c1",
+   "sectionId": "neph-calcium-phosphate.s1",
+   "front": "How do you correct total calcium for a low albumin (SI units)?",
+   "back": "Add 0.02 mmol/L for every 1 g/L that albumin is below 40 g/L. If albumin is very low, measure ionised calcium instead.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 683,
+     "page": 661
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.c2",
+   "sectionId": "neph-calcium-phosphate.s1",
+   "front": "What does alkalosis do to total and ionised calcium?",
+   "back": "Total calcium stays normal, but more calcium binds albumin so ionised calcium falls; tetany can occur.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 685,
+     "page": 663
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 759,
+     "page": 759
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.c3",
+   "sectionId": "neph-calcium-phosphate.s2",
+   "front": "How is Trousseau's sign elicited?",
+   "back": "Inflate an arm cuff above systolic pressure; carpal spasm within 3 minutes indicates latent tetany. It is more specific than Chvostek's sign.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 685,
+     "page": 663
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.c4",
+   "sectionId": "neph-calcium-phosphate.s2",
+   "front": "Hypoparathyroidism vs pseudohypoparathyroidism vs vitamin D deficiency: phosphate and PTH?",
+   "back": "Hypopara: PO4 high, PTH low. Pseudohypopara: PO4 high, PTH high. Vitamin D deficiency: PO4 low, PTH high.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 684,
+     "page": 662
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.c5",
+   "sectionId": "neph-calcium-phosphate.s2",
+   "front": "Emergency treatment of tetanic hypocalcaemia (Davidson)?",
+   "back": "10–20 mL of 10% calcium gluconate IV over 10–20 min, then an infusion (~10 mL/h) if needed, with cardiac monitoring.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 685,
+     "page": 663
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.c6",
+   "sectionId": "neph-calcium-phosphate.s2",
+   "front": "Why does magnesium depletion cause hypocalcaemia?",
+   "back": "It impairs PTH secretion (PTH low or inappropriately normal) and causes end-organ PTH resistance. Replace magnesium first.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 685,
+     "page": 663
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 760,
+     "page": 760
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.c7",
+   "sectionId": "neph-calcium-phosphate.s3",
+   "front": "Which two causes account for over 90% of hypercalcaemia?",
+   "back": "Primary hyperparathyroidism (well outpatients) and malignancy (inpatients).",
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 690,
+     "page": 653
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 500,
+     "page": 500
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.c8",
+   "sectionId": "neph-calcium-phosphate.s3",
+   "front": "Commonest mechanism of hypercalcaemia of malignancy?",
+   "back": "PTHrP secretion (~80%); bone metastases cause ~20%. PTH itself is suppressed.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.c9",
+   "sectionId": "neph-calcium-phosphate.s3",
+   "front": "First two steps in severe hypercalcaemia (Davidson Box 33.13)?",
+   "back": "IV 0.9% saline (2–4 L/day), then an IV bisphosphonate: zoledronic acid 4 mg or pamidronate 60–90 mg.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.c10",
+   "sectionId": "neph-calcium-phosphate.s4",
+   "front": "What urine test separates FHH from primary hyperparathyroidism?",
+   "back": "Urinary calcium: Ca:creatinine clearance ratio < 0.01 (low urinary calcium) in FHH.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 684,
+     "page": 662
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.c11",
+   "sectionId": "neph-calcium-phosphate.s4",
+   "front": "Davidson indications for surgery in primary hyperparathyroidism?",
+   "back": "Age < 50, clear symptoms or complications (stones, renal impairment, osteoporosis), or corrected Ca > 2.85 mmol/L.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 686,
+     "page": 664
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.c12",
+   "sectionId": "neph-calcium-phosphate.s4",
+   "front": "Secondary vs tertiary hyperparathyroidism: calcium?",
+   "back": "Secondary: calcium low or low-normal (compensatory). Tertiary: calcium high, with PTH still high after the cause is corrected.",
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 690,
+     "page": 653
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 63,
+     "page": 63
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.c13",
+   "sectionId": "neph-calcium-phosphate.s5",
+   "front": "Two classic settings for severe hypophosphataemia?",
+   "back": "Alcohol misuse/refeeding and treatment of diabetic ketoacidosis.",
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 776,
+     "page": 776
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 696,
+     "page": 659
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.c14",
+   "sectionId": "neph-calcium-phosphate.s5",
+   "front": "Main risk of IV phosphate replacement?",
+   "back": "Calcium phosphate precipitation: hypocalcaemia and metastatic calcification. Reserve for severe cases (< 0.4 mmol/L, symptomatic).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 391,
+     "page": 369
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 697,
+     "page": 660
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.c15",
+   "sectionId": "neph-calcium-phosphate.s6",
+   "front": "Serum phosphate target in CKD (Davidson)?",
+   "back": "≤ 1.5 mmol/L (4.6 mg/dL), using diet plus phosphate binders taken with meals.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 441,
+     "page": 419
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.c16",
+   "sectionId": "neph-calcium-phosphate.s6",
+   "front": "What is a 'rugger jersey' spine?",
+   "back": "Alternating sclerotic and porotic vertebral bands on X-ray from long-standing hyperparathyroidism in CKD.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1408,
+     "page": 1395
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "neph-calcium-phosphate.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 64-year-old man with alcohol-related liver disease has a total serum calcium of 1.95 mmol/L on routine bloods. His serum albumin is 25 g/L. He has no tingling or cramps.",
+   "leadIn": "What is his albumin-adjusted calcium?",
+   "options": [
+    "1.65 mmol/L",
+    "1.95 mmol/L",
+    "2.10 mmol/L",
+    "2.25 mmol/L",
+    "2.55 mmol/L"
+   ],
+   "answer": 3,
+   "explanation": "Albumin is 15 g/L below 40, so add 15 × 0.02 = 0.30 mmol/L: 1.95 + 0.30 = **2.25 mmol/L**, which is normal and fits his lack of symptoms. With albumin this low in cirrhosis the correction is less reliable, so an ionised calcium is the better test.",
+   "whyNot": [
+    "This subtracts the correction instead of adding it.",
+    "This ignores the low albumin.",
+    "This adds only half the correction (0.01 per g/L).",
+    "",
+    "This adds double the correction."
+   ],
+   "studyRef": {
+    "sectionId": "neph-calcium-phosphate.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 683,
+     "page": 661
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 23-year-old woman is brought in after a panic attack. She is breathing fast, has tingling around the lips and her hands are in spasm. Total calcium is 2.38 mmol/L and albumin 42 g/L.",
+   "leadIn": "What is the most likely mechanism of her symptoms?",
+   "options": [
+    "Fall in ionised calcium from alkalosis",
+    "Low total calcium from hypoalbuminaemia",
+    "PTH failure from magnesium depletion",
+    "Primary hypoparathyroidism",
+    "Vitamin D deficiency"
+   ],
+   "answer": 0,
+   "explanation": "Hyperventilation causes a respiratory alkalosis. More calcium binds albumin, so the **ionised** fraction falls and tetany occurs while the total calcium is normal.",
+   "whyNot": [
+    "",
+    "Her albumin is normal, and low albumin lowers total calcium without symptoms.",
+    "There is no malabsorption, diuretic, PPI or alcohol history, and total calcium is normal.",
+    "Hypoparathyroidism lowers total calcium, which is normal here.",
+    "Vitamin D deficiency gives a low total calcium and low phosphate, not acute symptoms with normal calcium."
+   ],
+   "studyRef": {
+    "sectionId": "neph-calcium-phosphate.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 685,
+     "page": 663
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 694,
+     "page": 657
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q3",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Causes of hypocalcaemia",
+   "leadIn": "For each patient below, choose the most likely cause of the low calcium. Any option can be picked for several items, or for none.",
+   "options": [
+    "Hypoalbuminaemia",
+    "Respiratory alkalosis",
+    "Vitamin D deficiency",
+    "Chronic kidney disease",
+    "Post-surgical hypoparathyroidism",
+    "Pseudohypoparathyroidism",
+    "Hypomagnesaemia",
+    "Acute pancreatitis",
+    "Citrated blood transfusion",
+    "Activating calcium-sensing receptor mutation"
+   ],
+   "items": [
+    {
+     "stem": "A 46-year-old woman has tingling fingers and lips 2 days after a total thyroidectomy for Graves' disease. Trousseau's sign is positive. Corrected calcium 1.74 mmol/L, phosphate 1.9 mmol/L, PTH undetectable.",
+     "answer": 4,
+     "explanation": "Low calcium, high phosphate and an absent PTH straight after thyroid surgery: the glands or their blood supply were damaged. This is the commonest cause of hypoparathyroidism.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s2"
+     }
+    },
+    {
+     "stem": "A 15-year-old boy has a first seizure. He is short with a round face, and his 4th knuckles are missing when he makes a fist. Corrected calcium 1.82 mmol/L, phosphate high, PTH several times the upper limit, 25(OH)D normal, creatinine normal.",
+     "answer": 5,
+     "explanation": "High PTH but still low calcium and high phosphate means the body is not responding to PTH. Short 4th metacarpals, short stature and round face are Albright's hereditary osteodystrophy: pseudohypoparathyroidism type 1a.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s2"
+     }
+    },
+    {
+     "stem": "A 57-year-old man who drinks heavily and takes omeprazole has chronic diarrhoea. Corrected calcium 1.85 mmol/L, PTH low-normal, phosphate normal. IV calcium gluconate raises the calcium only briefly. Serum magnesium is 0.32 mmol/L.",
+     "answer": 6,
+     "explanation": "Low magnesium stops PTH release (inappropriately low PTH) and causes PTH resistance. Alcohol, PPIs and diarrhoea all deplete magnesium, and calcium will not stay up until magnesium is replaced.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 685,
+     "page": 663
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 686,
+     "page": 664
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 760,
+     "page": 760
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q4",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Causes of hypercalcaemia",
+   "leadIn": "For each patient below, choose the most likely cause of the raised calcium. Any option can be picked for several items, or for none.",
+   "options": [
+    "Primary hyperparathyroidism",
+    "Tertiary hyperparathyroidism",
+    "Familial hypocalciuric hypercalcaemia",
+    "PTHrP-secreting tumour",
+    "Multiple myeloma",
+    "Sarcoidosis",
+    "Vitamin D intoxication",
+    "Milk-alkali syndrome",
+    "Thiazide diuretic",
+    "Lithium therapy",
+    "Thyrotoxicosis"
+   ],
+   "items": [
+    {
+     "stem": "A 67-year-old smoker has 2 months of weight loss and blood-streaked sputum, and is now drowsy. Corrected calcium 3.6 mmol/L, PTH undetectable. CXR shows a right hilar mass; there are no lytic bone lesions.",
+     "answer": 3,
+     "explanation": "Suppressed PTH with a lung mass and no bone lesions points to humoral hypercalcaemia from PTHrP, the mechanism in about 80% of malignant hypercalcaemia (common with squamous tumours).",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s3"
+     }
+    },
+    {
+     "stem": "A 36-year-old woman has a dry cough and red eyes. CXR shows bilateral hilar lymphadenopathy. Corrected calcium 2.92 mmol/L, PTH suppressed, 25(OH)D normal, 1,25(OH)2D raised.",
+     "answer": 5,
+     "explanation": "High 1,25(OH)2D with normal 25(OH)D means unregulated 1α-hydroxylation by granulomas. Hilar nodes, cough and eye inflammation fit sarcoidosis.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s3"
+     }
+    },
+    {
+     "stem": "A 73-year-old man has back pain, tiredness and recurrent chest infections. Hb 92 g/L, creatinine 190 µmol/L, corrected calcium 3.1 mmol/L, PTH low, ALP normal.",
+     "answer": 4,
+     "explanation": "Two steps: low PTH means a non-parathyroid cause; bone pain with anaemia, infections and renal impairment suggests myeloma, which needs protein electrophoresis. Myeloma is one of the cancers most often linked to hypercalcaemia.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 684,
+     "page": 662
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 501,
+     "page": 501
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 631,
+     "page": 609
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 58-year-old woman has a corrected calcium of 2.78 mmol/L on a health check. Phosphate is 0.7 mmol/L, PTH is at the top of the reference range, and 24-hour urinary calcium is high. eGFR is normal.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Primary hyperparathyroidism",
+    "Familial hypocalciuric hypercalcaemia",
+    "Secondary hyperparathyroidism",
+    "Tertiary hyperparathyroidism",
+    "Humoral hypercalcaemia of malignancy"
+   ],
+   "answer": 0,
+   "explanation": "A PTH in the normal range while calcium is high is **inappropriate**: PTH should be suppressed. Low phosphate and high urinary calcium (excluding FHH) confirm primary hyperparathyroidism.",
+   "whyNot": [
+    "",
+    "FHH has low urinary calcium (Ca:creatinine clearance ratio < 0.01).",
+    "Secondary HPT has a low or low-normal calcium.",
+    "Tertiary HPT follows long-standing secondary HPT, usually in kidney failure; her eGFR is normal.",
+    "Malignancy suppresses PTH."
+   ],
+   "studyRef": {
+    "sectionId": "neph-calcium-phosphate.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 684,
+     "page": 662
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 486,
+     "page": 486
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 692,
+     "page": 655
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 31-year-old man has a corrected calcium of 2.67 mmol/L and a PTH slightly above the reference range. He feels well. His father was told he had 'high calcium' years ago and never needed treatment. Urinary Ca:creatinine clearance ratio is 0.005.",
+   "leadIn": "What is the most appropriate management?",
+   "options": [
+    "Reassure and screen family members",
+    "Parathyroidectomy",
+    "Start cinacalcet",
+    "Sestamibi scan to localise an adenoma",
+    "IV pamidronate"
+   ],
+   "answer": 0,
+   "explanation": "The very low urinary calcium ratio (< 0.01) and family history point to **familial hypocalciuric hypercalcaemia**. It is benign and needs no treatment; family screening or CaSR gene testing confirms it.",
+   "whyNot": [
+    "",
+    "Parathyroidectomy does not work in FHH, and an unneeded operation is the main risk of misdiagnosis.",
+    "There is no indication to lower calcium in benign FHH.",
+    "Localisation is only done after primary HPT is confirmed biochemically.",
+    "Bisphosphonates are for severe symptomatic hypercalcaemia."
+   ],
+   "studyRef": {
+    "sectionId": "neph-calcium-phosphate.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 686,
+     "page": 664
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 684,
+     "page": 662
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 24-year-old woman with anorexia nervosa (BMI 13) is started on high-calorie nasogastric feeding. On day 3 she becomes weak and confused and has runs of ectopic beats.",
+   "leadIn": "Which electrolyte abnormality is most likely?",
+   "options": [
+    "Hypophosphataemia",
+    "Hyperkalaemia",
+    "Hypercalcaemia",
+    "Hypernatraemia",
+    "Hypermagnesaemia"
+   ],
+   "answer": 0,
+   "explanation": "This is **refeeding syndrome**: carbohydrate triggers insulin, which drives phosphate (with potassium and magnesium) into cells. Low phosphate causes weakness, confusion and arrhythmias. Prevent it by correcting electrolytes first and raising calories slowly.",
+   "whyNot": [
+    "",
+    "Insulin drives potassium into cells, so potassium falls.",
+    "Refeeding does not raise calcium.",
+    "Sodium is not the key disturbance in refeeding.",
+    "Magnesium falls, not rises, in refeeding."
+   ],
+   "studyRef": {
+    "sectionId": "neph-calcium-phosphate.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 214,
+     "page": 195
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 391,
+     "page": 369
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 41-year-old man in intensive care was treated for diabetic ketoacidosis 4 days ago. He keeps failing ventilator weaning trials. Serum phosphate is 0.3 mmol/L; calcium and potassium are normal.",
+   "leadIn": "What is the most appropriate treatment?",
+   "options": [
+    "IV phosphate 9–18 mmol over 6–12 hours",
+    "IV phosphate 18 mmol as a 10-minute bolus",
+    "Oral phosphate binder",
+    "IV calcium gluconate",
+    "No treatment; recheck in a week"
+   ],
+   "answer": 0,
+   "explanation": "Phosphate below 0.4 mmol/L with diaphragm weakness is severe and symptomatic, so IV phosphate is justified. It is given **slowly** with checks of calcium, phosphate, magnesium and potassium.",
+   "whyNot": [
+    "",
+    "Fast infusion can precipitate calcium phosphate and cause severe hypocalcaemia and ectopic calcification.",
+    "Binders lower phosphate further.",
+    "Calcium does not treat low phosphate and adds precipitation risk.",
+    "Severe symptomatic hypophosphataemia needs replacement now."
+   ],
+   "studyRef": {
+    "sectionId": "neph-calcium-phosphate.s5"
+   },
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 697,
+     "page": 660
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 777,
+     "page": 777
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q9",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Causes of hyperphosphataemia",
+   "leadIn": "For each patient below, choose the most likely cause of the raised phosphate. Any option can be picked for several items, or for none.",
+   "options": [
+    "Chronic kidney disease",
+    "Acute kidney injury from sepsis",
+    "Hypoparathyroidism",
+    "Pseudohypoparathyroidism",
+    "Tumour lysis syndrome",
+    "Rhabdomyolysis",
+    "Phosphate enema",
+    "Vitamin D intoxication",
+    "Familial tumoural calcinosis",
+    "Tertiary hyperparathyroidism"
+   ],
+   "items": [
+    {
+     "stem": "A 59-year-old man with a bulky high-grade lymphoma starts chemotherapy. Two days later potassium, urate and phosphate are high, calcium is low and creatinine is rising.",
+     "answer": 4,
+     "explanation": "Cells broken down by chemotherapy release potassium, phosphate and nucleic acids (urate). The phosphate surge binds calcium, causing hypocalcaemia.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s6"
+     }
+    },
+    {
+     "stem": "An 81-year-old woman is found on her kitchen floor after lying there for 2 days. Her urine is dark brown; CK is 48 000 U/L, phosphate high, calcium low.",
+     "answer": 5,
+     "explanation": "Prolonged lying leads to muscle breakdown, which releases phosphate from damaged cells; a very high CK and dark urine confirm rhabdomyolysis.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s6"
+     }
+    },
+    {
+     "stem": "A 52-year-old man has been on haemodialysis for 9 years and complains of itch. Calcium and phosphate are both high and PTH is 15 times the upper limit. Alfacalcidol was stopped 3 months ago but the calcium has not fallen.",
+     "answer": 9,
+     "explanation": "Two steps: years of secondary HPT in kidney failure, then hypercalcaemia that persists off vitamin D. The glands have become autonomous: tertiary hyperparathyroidism with a high Ca × PO4 product causing itch.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 391,
+     "page": 369
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 440,
+     "page": 418
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 214,
+     "page": 195
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 502,
+     "page": 502
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q10",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "theme": "Interpreting calcium and PTH results",
+   "leadIn": "For each patient below, choose the diagnosis that best fits the results. Any option can be picked for several items, or for none.",
+   "options": [
+    "Primary hyperparathyroidism",
+    "Secondary hyperparathyroidism from vitamin D deficiency",
+    "Secondary hyperparathyroidism from CKD",
+    "Tertiary hyperparathyroidism",
+    "Hypoparathyroidism",
+    "Pseudohypoparathyroidism",
+    "Pseudopseudohypoparathyroidism",
+    "Familial hypocalciuric hypercalcaemia",
+    "Hypercalcaemia of malignancy",
+    "Hypoalbuminaemia"
+   ],
+   "items": [
+    {
+     "stem": "A 74-year-old housebound woman has proximal weakness and aching bones. Corrected calcium 2.06 mmol/L, phosphate 0.65 mmol/L, ALP raised, PTH high, 25(OH)D very low, creatinine normal.",
+     "answer": 1,
+     "explanation": "Low calcium and low phosphate with a high PTH and very low 25(OH)D: the parathyroids are compensating for vitamin D lack (osteomalacia).",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s2"
+     }
+    },
+    {
+     "stem": "A 20-year-old man is short and has short 4th metacarpals and subcutaneous calcified nodules. Calcium and PTH are normal. His father has the same hand appearance.",
+     "answer": 6,
+     "explanation": "AHO features with normal calcium and PTH, passed from the father, is pseudopseudohypoparathyroidism (GNAS1 mutation on the paternal chromosome).",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s2"
+     }
+    },
+    {
+     "stem": "A 45-year-old woman had a successful kidney transplant 1 year ago; creatinine is now normal. Corrected calcium 2.84 mmol/L, PTH still high, phosphate low-normal.",
+     "answer": 3,
+     "explanation": "Two steps: the original drive (kidney failure) has been removed, yet PTH stays high and calcium is now raised. Long-standing secondary HPT has become autonomous: tertiary HPT.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s4"
+     }
+    },
+    {
+     "stem": "A 66-year-old man is septic on the ward. Total calcium 1.92 mmol/L, albumin 21 g/L, ionised calcium normal, PTH normal. He has no tetany.",
+     "answer": 9,
+     "explanation": "Normal ionised calcium and normal PTH: the low total is due to low albumin (the commonest cause of a low total calcium per Davidson).",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 684,
+     "page": 662
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 686,
+     "page": 664
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 63,
+     "page": 63
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 685,
+     "page": 663
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1074,
+     "page": 1052
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 62-year-old woman with a corrected calcium of 3.3 mmol/L has an ECG before admission.",
+   "leadIn": "Which ECG change is expected from the hypercalcaemia?",
+   "options": [
+    "Shortened QT interval",
+    "Prolonged QT interval",
+    "Tall peaked T waves",
+    "Prominent U waves",
+    "Delta waves"
+   ],
+   "answer": 0,
+   "explanation": "High calcium **shortens** the QT; low calcium prolongs it.",
+   "whyNot": [
+    "",
+    "A long QT is the hypocalcaemia pattern.",
+    "Peaked T waves suggest hyperkalaemia.",
+    "U waves suggest hypokalaemia.",
+    "Delta waves mark ventricular pre-excitation."
+   ],
+   "studyRef": {
+    "sectionId": "neph-calcium-phosphate.s3"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 762,
+     "page": 762
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 55-year-old man with hypercalcaemia (corrected calcium 3.0 mmol/L) passes 4 L of dilute urine a day despite feeling thirsty. Glucose is normal.",
+   "leadIn": "What best explains his polyuria?",
+   "options": [
+    "Calcium-induced nephrogenic diabetes insipidus",
+    "Osmotic diuresis from glycosuria",
+    "Cranial diabetes insipidus",
+    "Primary polydipsia",
+    "Loop diuretic effect"
+   ],
+   "answer": 0,
+   "explanation": "Calcium reduces the tubules' ability to concentrate urine and blocks ADH action, giving a mild **nephrogenic DI**. The water loss raises calcium further.",
+   "whyNot": [
+    "",
+    "Glucose is normal.",
+    "ADH production is not the problem; the kidney fails to respond.",
+    "Thirst here is the result of the polyuria, not its cause.",
+    "He is not on a diuretic."
+   ],
+   "studyRef": {
+    "sectionId": "neph-calcium-phosphate.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 667,
+     "page": 645
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 500,
+     "page": 500
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 49-year-old woman is listed for removal of a parathyroid adenoma. She has bone pain with subperiosteal erosions on hand X-ray, and her 25(OH)D is low.",
+   "leadIn": "Which pre-operative step best lowers her risk of post-operative hypocalcaemia?",
+   "options": [
+    "Correct the vitamin D deficiency",
+    "Give an IV bisphosphonate",
+    "Start a thiazide diuretic",
+    "Start cinacalcet",
+    "Restrict dietary calcium"
+   ],
+   "answer": 0,
+   "explanation": "Marked bone disease and vitamin D deficiency predict **hungry bone** hypocalcaemia after parathyroidectomy. Correcting vitamin D beforehand reduces that risk.",
+   "whyNot": [
+    "",
+    "A bisphosphonate does not prevent hungry bone and could lower calcium further.",
+    "Thiazides raise calcium and are not used for this.",
+    "Cinacalcet is for patients not having surgery.",
+    "Restricting calcium would worsen post-operative hypocalcaemia."
+   ],
+   "studyRef": {
+    "sectionId": "neph-calcium-phosphate.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 686,
+     "page": 664
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 668,
+     "page": 646
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 60-year-old man on dialysis has had poorly controlled phosphate for years. He has taken the same binder for a long time and now has worsening memory and bone pain.",
+   "leadIn": "Which binder is most likely responsible?",
+   "options": [
+    "Aluminium hydroxide",
+    "Sevelamer",
+    "Calcium carbonate",
+    "Lanthanum carbonate",
+    "Calcium acetate"
+   ],
+   "answer": 0,
+   "explanation": "Absorbed **aluminium** causes aluminium bone disease and cognitive impairment, which is why aluminium binders are now rarely used long term.",
+   "whyNot": [
+    "",
+    "Sevelamer is a non-absorbed polymer; its known extras are less vascular calcification and lower cholesterol.",
+    "Calcium binders add a calcium load (vascular calcification) but do not cause cognitive decline.",
+    "Lanthanum carbonate is a non-aluminium binder; it is not the cause of aluminium bone disease and cognitive impairment.",
+    "As for calcium carbonate: calcium load, not cognitive impairment."
+   ],
+   "studyRef": {
+    "sectionId": "neph-calcium-phosphate.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1408,
+     "page": 1395
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 441,
+     "page": 419
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q15",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 74-year-old woman with known metastatic breast cancer is brought in confused and vomiting. She has dry mucous membranes and a postural drop. Corrected calcium is 3.8 mmol/L, creatinine is raised.",
+   "leadIn": "What is the most appropriate first step?",
+   "options": [
+    "IV 0.9% saline",
+    "IV zoledronic acid before any fluid",
+    "IV furosemide",
+    "Oral prednisolone",
+    "SC denosumab"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1:** recognise severe hypercalcaemia (> 3.5 mmol/L) as an emergency whatever the cause. **Step 2:** note she is dry: calcium has caused polyuria and a fall in GFR, which drives calcium higher. **Step 3:** break the cycle with IV 0.9% saline (Davidson 2–4 L/day), which restores GFR and calcium excretion. **Step 4:** once rehydrated, give an IV bisphosphonate (zoledronic acid 4 mg or pamidronate 60–90 mg); calcitonin can bridge the first 24–48 h, and denosumab is kept for cases refractory to zoledronic acid.",
+   "whyNot": [
+    "",
+    "Bisphosphonates are given alongside or after rehydration; alone they act too slowly and are harder on dry kidneys.",
+    "Loop diuretics are only for fluid-overloaded patients and worsen dehydration.",
+    "Steroids help mainly in myeloma, sarcoidosis and vitamin D excess.",
+    "Denosumab is for hypercalcaemia refractory to zoledronic acid."
+   ],
+   "studyRef": {
+    "sectionId": "neph-calcium-phosphate.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 693,
+     "page": 656
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 501,
+     "page": 501
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q16",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 70-year-old woman who rarely goes outside has aching bones and difficulty rising from a chair. Corrected calcium 2.02 mmol/L, phosphate 0.62 mmol/L, ALP raised, PTH high, creatinine normal, magnesium normal.",
+   "leadIn": "Which test will best confirm the cause?",
+   "options": [
+    "Serum 25-hydroxyvitamin D",
+    "Parathyroid antibodies",
+    "99mTc-sestamibi scan",
+    "Serum amylase",
+    "Short Synacthen test"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1:** albumin-corrected calcium is truly low. **Step 2:** PTH is high, so the parathyroids work and are responding. **Step 3:** with high PTH, phosphate separates the causes: high in CKD or pseudohypoparathyroidism, **low in vitamin D deficiency**. Creatinine is normal. **Step 4:** housebound, proximal myopathy and raised ALP fit osteomalacia, so measure 25(OH)D.",
+   "whyNot": [
+    "",
+    "Antibodies are for idiopathic hypoparathyroidism, where PTH is low.",
+    "Sestamibi localises adenomas in primary HPT, which raises calcium.",
+    "Amylase is for pancreatitis, which presents acutely with abdominal pain.",
+    "Synacthen tests for Addison's, a cause of high calcium."
+   ],
+   "studyRef": {
+    "sectionId": "neph-calcium-phosphate.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 684,
+     "page": 662
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 695,
+     "page": 658,
+     "figure": "Fig. 14.11"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 669,
+     "page": 647
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 692,
+     "page": 655
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1074,
+     "page": 1052
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q17",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 52-year-old woman with fatigue and a past kidney stone has a phosphate of 0.65 mmol/L. Corrected calcium is 2.81 mmol/L, creatinine and albumin are normal.",
+   "leadIn": "What is the most useful next test?",
+   "options": [
+    "Serum PTH",
+    "Serum FGF23",
+    "Serum 25-hydroxyvitamin D",
+    "Serum amylase",
+    "Bone biopsy"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1:** low phosphate is the starting abnormality. **Step 2:** look at calcium: **low phosphate with high calcium** suggests primary hyperparathyroidism (PTH blocks proximal phosphate reabsorption and raises calcium). **Step 3:** a stone history fits. **Step 4:** measure PTH; a raised or inappropriately normal value confirms it.",
+   "whyNot": [
+    "",
+    "FGF23 excess lowers phosphate but calcium is normal or low.",
+    "25(OH)D lack gives low calcium, not high.",
+    "Amylase has no role here.",
+    "Bone biopsy is invasive and not a diagnostic step for this picture."
+   ],
+   "studyRef": {
+    "sectionId": "neph-calcium-phosphate.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 391,
+     "page": 369
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 684,
+     "page": 662
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 213,
+     "page": 194
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q18",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Treatment of calcium disorders",
+   "leadIn": "For each patient below, choose the most appropriate next treatment. Any option can be picked for several items, or for none.",
+   "options": [
+    "IV 0.9% saline",
+    "IV zoledronic acid",
+    "SC denosumab",
+    "IV calcitonin",
+    "Oral prednisolone",
+    "IV 10% calcium gluconate",
+    "IV magnesium chloride",
+    "High-dose oral colecalciferol",
+    "Oral calcium plus alfacalcidol",
+    "Cinacalcet",
+    "Parathyroidectomy",
+    "No specific treatment"
+   ],
+   "items": [
+    {
+     "stem": "A 33-year-old woman has carpopedal spasm and noisy breathing on the second day after a total thyroidectomy. Corrected calcium 1.58 mmol/L; the ECG shows a long QT.",
+     "answer": 5,
+     "explanation": "Severe symptomatic hypocalcaemia with stridor and a long QT needs IV calcium gluconate (10–20 mL of 10% over 10–20 min) under cardiac monitoring.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s2"
+     }
+    },
+    {
+     "stem": "A 76-year-old man with lung cancer and hypercalcaemia has had IV fluids and two doses of zoledronic acid. A week later his corrected calcium is still 3.4 mmol/L.",
+     "answer": 2,
+     "explanation": "Malignant hypercalcaemia refractory to zoledronic acid: Davidson lists SC denosumab (anti-RANKL) as the alternative.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s3"
+     }
+    },
+    {
+     "stem": "A 59-year-old man has primary hyperparathyroidism with a corrected calcium of 2.95 mmol/L. He has severe COPD, the anaesthetist judges him unfit for surgery, and he does not want an operation.",
+     "answer": 9,
+     "explanation": "Cinacalcet makes the CaSR more sensitive and lowers PTH; it is licensed for primary HPT in patients unfit for or unwilling to have surgery.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s4"
+     }
+    },
+    {
+     "stem": "A 44-year-old woman with sarcoidosis has a corrected calcium of 3.1 mmol/L despite rehydration. PTH is suppressed and 1,25(OH)2D is high.",
+     "answer": 4,
+     "explanation": "Glucocorticoids (prednisolone 30–60 mg/day) work in calcitriol-driven hypercalcaemia such as sarcoidosis, myeloma and vitamin D excess.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 685,
+     "page": 663
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 686,
+     "page": 664
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 693,
+     "page": 656
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q19",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Causes of hypophosphataemia",
+   "leadIn": "For each patient below, choose the most likely cause of the low phosphate. Any option can be picked for several items, or for none.",
+   "options": [
+    "Refeeding syndrome",
+    "Treatment of diabetic ketoacidosis",
+    "Acute respiratory alkalosis",
+    "Hungry bone syndrome",
+    "Primary hyperparathyroidism",
+    "Vitamin D deficiency",
+    "Fanconi syndrome",
+    "Tumour-induced osteomalacia",
+    "X-linked hypophosphataemic rickets",
+    "Antacid or phosphate binder excess"
+   ],
+   "items": [
+    {
+     "stem": "A 19-year-old with type 1 diabetes was admitted with pH 7.05 and ketones 6 mmol/L. After 36 hours of insulin infusion and fluids he feels weak; phosphate is 0.32 mmol/L.",
+     "answer": 1,
+     "explanation": "Insulin given to treat DKA drives phosphate into cells, one of the classic causes of severe hypophosphataemia.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s5"
+     }
+    },
+    {
+     "stem": "A 47-year-old woman had a large parathyroid adenoma removed yesterday; she had marked bone disease. Corrected calcium 1.80 mmol/L, phosphate 0.4 mmol/L, magnesium low.",
+     "answer": 3,
+     "explanation": "After PTH falls suddenly, demineralised bone takes up calcium, phosphate and magnesium: hungry bone syndrome.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s5"
+     }
+    },
+    {
+     "stem": "A 54-year-old man has 2 years of bone pain, proximal weakness and several fractures. Phosphate is low with phosphaturia; calcium and PTH normal; 1,25(OH)2D low. MRI finds a small soft-tissue tumour in his thigh.",
+     "answer": 7,
+     "explanation": "Two steps: renal phosphate wasting with normal PTH and low 1,25(OH)2D means FGF23 excess; new onset in an adult with a tumour means tumour-induced osteomalacia.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s5"
+     }
+    },
+    {
+     "stem": "A 71-year-old man with chronic dyspepsia has been taking large amounts of an aluminium-containing antacid for months. Phosphate is low; calcium, PTH and renal function are normal.",
+     "answer": 9,
+     "explanation": "Aluminium antacids bind dietary phosphate in the gut and block its absorption.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 391,
+     "page": 369
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 696,
+     "page": 659
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 213,
+     "page": 194
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q20",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A junior doctor wants to check for latent tetany in a patient with a borderline low calcium.",
+   "leadIn": "Which bedside sign is the more specific test?",
+   "options": [
+    "Trousseau's sign",
+    "Chvostek's sign",
+    "Babinski's sign",
+    "Hoffmann's sign",
+    "Tinel's sign"
+   ],
+   "answer": 0,
+   "explanation": "Inflating an arm cuff above systolic pressure for up to 3 minutes causes carpal spasm in latent tetany (Trousseau's). Chvostek's facial twitch is less specific.",
+   "whyNot": [
+    "",
+    "Chvostek's sign is less specific for hypocalcaemia.",
+    "Babinski's sign tests the corticospinal tract.",
+    "Hoffmann's sign tests for an upper motor neurone lesion.",
+    "Tinel's sign tests for nerve entrapment."
+   ],
+   "studyRef": {
+    "sectionId": "neph-calcium-phosphate.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 685,
+     "page": 663
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q21",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 63-year-old woman has had untreated primary hyperparathyroidism for many years and now has hand pain. A hand X-ray is taken.",
+   "leadIn": "Which finding is most characteristic?",
+   "options": [
+    "Subperiosteal erosions of the phalanges",
+    "Looser's zones",
+    "Pencil-in-cup deformity",
+    "Marginal periarticular erosions with osteopenia",
+    "Rugger jersey spine"
+   ],
+   "answer": 0,
+   "explanation": "Advanced primary HPT causes subperiosteal resorption (classically on the radial side of the 2nd and 3rd fingers) and terminal tuft resorption, plus a 'pepper-pot' skull.",
+   "whyNot": [
+    "",
+    "Looser's zones are pseudofractures of osteomalacia.",
+    "Pencil-in-cup is psoriatic arthritis.",
+    "Marginal erosions with periarticular osteopenia suggest rheumatoid arthritis.",
+    "Rugger jersey spine is a spinal (not hand) sign of renal bone disease."
+   ],
+   "studyRef": {
+    "sectionId": "neph-calcium-phosphate.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 685,
+     "page": 663
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 487,
+     "page": 487
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1408,
+     "page": 1395
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1074,
+     "page": 1052
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 332,
+     "page": 295
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1010,
+     "page": 988
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q22",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 3,
+   "theme": "Next investigation in calcium disorders",
+   "leadIn": "For each patient below, choose the single most useful next investigation. Any option can be picked for several items, or for none.",
+   "options": [
+    "Serum PTH",
+    "24-hour urinary calcium",
+    "99mTc-sestamibi scan with neck ultrasound",
+    "Serum protein electrophoresis and immunofixation",
+    "Serum ACE and chest X-ray",
+    "Serum magnesium",
+    "Serum 25-hydroxyvitamin D",
+    "Short Synacthen test",
+    "TSH",
+    "Hand X-ray",
+    "PTHrP assay"
+   ],
+   "items": [
+    {
+     "stem": "A 28-year-old woman has a corrected calcium of 2.69 mmol/L on routine testing and a mildly raised PTH. Her mother has had a 'slightly high calcium' for years without treatment.",
+     "answer": 1,
+     "explanation": "Young age and family history: exclude FHH with urinary calcium (Ca:creatinine clearance ratio < 0.01 in FHH) before anyone considers surgery.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s4"
+     }
+    },
+    {
+     "stem": "A 62-year-old woman with a corrected calcium of 2.96 mmol/L, raised PTH and high-normal urinary calcium has a kidney stone and is booked for parathyroidectomy.",
+     "answer": 2,
+     "explanation": "The diagnosis is already made biochemically. Imaging now localises the adenoma so the surgeon can do a targeted resection.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s4"
+     }
+    },
+    {
+     "stem": "A 51-year-old man has a corrected calcium of 2.80 mmol/L with an undetectable PTH. He has lost weight, has darker skin and feels faint on standing. Sodium 128 mmol/L, potassium 5.6 mmol/L.",
+     "answer": 7,
+     "explanation": "Two steps: suppressed PTH means a non-parathyroid cause; pigmentation, postural hypotension, low sodium and high potassium point to adrenal failure, a cause of hypercalcaemia, so do a short Synacthen test.",
+     "studyRef": {
+      "sectionId": "neph-calcium-phosphate.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 684,
+     "page": 662
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 686,
+     "page": 664
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 692,
+     "page": 655
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 694,
+     "page": 672
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q23",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 66-year-old man with squamous cell lung cancer has a corrected calcium of 3.4 mmol/L. PTH is suppressed and a bone scan shows no metastases.",
+   "leadIn": "What is the most likely mechanism of his hypercalcaemia?",
+   "options": [
+    "Secretion of PTH-related peptide",
+    "Osteolytic bone metastases",
+    "Ectopic PTH secretion",
+    "Tumour production of 1,25(OH)2D",
+    "Immobilisation"
+   ],
+   "answer": 0,
+   "explanation": "PTHrP causes about 80% of malignant hypercalcaemia: it acts on the PTH receptor to increase bone resorption and renal calcium reabsorption, but is not detected by PTH assays.",
+   "whyNot": [
+    "",
+    "The bone scan shows no metastases.",
+    "Ectopic PTH is rare and PTH is suppressed here.",
+    "Calcitriol production is a feature of some lymphomas.",
+    "Immobilisation causes hypercalcaemia mainly with high bone turnover such as Paget's."
+   ],
+   "studyRef": {
+    "sectionId": "neph-calcium-phosphate.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 500,
+     "page": 500
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q24",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 57-year-old woman on haemodialysis with poorly controlled phosphate and hyperparathyroidism takes warfarin for atrial fibrillation. She has very painful, hard plaques on her thighs that have ulcerated and formed non-healing eschars. Skin biopsy shows calcified small vessels without vasculitis.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Calciphylaxis",
+    "Pyoderma gangrenosum",
+    "Cutaneous vasculitis",
+    "Necrotising fasciitis",
+    "Cholesterol embolism"
+   ],
+   "answer": 0,
+   "explanation": "Calcific uraemic arteriolopathy: painful plaques and necrotic ulcers in CKD. Risk factors include hyperparathyroidism, high phosphate, obesity and warfarin. Biopsy shows calcified microvessels without vasculitis.",
+   "whyNot": [
+    "",
+    "Pyoderma gangrenosum starts as a painful nodule or pustule that ulcerates with an undermined edge, usually with IBD or inflammatory arthritis; its histology is non-specific, not calcified vessels.",
+    "The biopsy specifically shows no vasculitis.",
+    "Necrotising fasciitis is an infection spreading fast along the fascial plane, with pain out of proportion to the skin signs; it does not calcify vessels.",
+    "Cholesterol emboli follow arterial surgery or angiography in widespread atheroma and cause livedo and ischaemic toes with renal impairment, not calcified skin microvessels."
+   ],
+   "studyRef": {
+    "sectionId": "neph-calcium-phosphate.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1409,
+     "page": 1396,
+     "figure": "Fig. 36.48"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 305,
+     "page": 305
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1283,
+     "page": 1261
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 248,
+     "page": 226
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409
+    }
+   ]
+  },
+  {
+   "id": "neph-calcium-phosphate.q25",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 3,
+   "stem": "A 65-year-old man with CKD stage 4 has corrected calcium 2.08 mmol/L, phosphate 1.8 mmol/L and PTH 5 times the upper limit; 25(OH)D is replete. He already follows a low-phosphate diet and takes a binder with meals.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Start alfacalcidol",
+    "Parathyroidectomy",
+    "Start cinacalcet",
+    "IV zoledronic acid",
+    "Start furosemide"
+   ],
+   "answer": 0,
+   "explanation": "Davidson: give active vitamin D (alfacalcidol or calcitriol) when the patient is hypocalcaemic or PTH is more than twice the upper limit, aiming for PTH 2–4× the upper limit without causing hypercalcaemia.",
+   "whyNot": [
+    "",
+    "Parathyroidectomy is for tertiary HPT with persistent hypercalcaemia; his calcium is low.",
+    "Cinacalcet is used when parathyroidectomy fails or is not possible in tertiary HPT.",
+    "Bisphosphonates lower calcium, which is already low.",
+    "Furosemide does not treat secondary hyperparathyroidism."
+   ],
+   "studyRef": {
+    "sectionId": "neph-calcium-phosphate.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 441,
+     "page": 419
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "neph-calcium-phosphate.o1",
+   "sectionId": "neph-calcium-phosphate.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 686,
+    "page": 664,
+    "figure": "Fig. 18.17"
+   },
+   "identify": "99mTc-sestamibi scan: tracer in thyroid and an enlarged left inferior parathyroid at 1 h, but only the parathyroid at 3 h → **parathyroid adenoma** (primary hyperparathyroidism)."
+  },
+  {
+   "id": "neph-calcium-phosphate.o2",
+   "sectionId": "neph-calcium-phosphate.s4",
+   "cite": {
+    "book": "stepup6",
+    "pdfPage": 486,
+    "page": 486,
+    "figure": "FIGURE 4-8"
+   },
+   "identify": "Clavicle X-ray with lytic cystic lesions → **brown tumours of osteitis fibrosa cystica** (severe hyperparathyroidism); risk of pathological fracture."
+  },
+  {
+   "id": "neph-calcium-phosphate.o3",
+   "sectionId": "neph-calcium-phosphate.s6",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 1408,
+    "page": 1395,
+    "figure": "Fig. 36.47"
+   },
+   "identify": "CKD–mineral bone disorder radiology: **subperiosteal erosions**, **pepperpot skull**, **rugger jersey spine** (secondary/tertiary HPT) vs Looser's zones (osteomalacia)."
+  },
+  {
+   "id": "neph-calcium-phosphate.o4",
+   "sectionId": "neph-calcium-phosphate.s6",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 1409,
+    "page": 1396,
+    "figure": "Fig. 36.48"
+   },
+   "identify": "Skin biopsy with calcified small arteries and no vasculitis → **calciphylaxis** (calcific uraemic arteriolopathy) in CKD."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:08:17.485Z",
+  "contentHash": "3aed1a57195d9912e8e163b7378972364ff556885b5e3f35c36a81a26cad7e35"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:08:17.507Z",
+  "contentHash": "3aed1a57195d9912e8e163b7378972364ff556885b5e3f35c36a81a26cad7e35",
+  "checkerVersion": "source-check-v1"
+ }
+}

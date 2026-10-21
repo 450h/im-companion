@@ -21,6 +21,8 @@ const bp = JSON.parse(readFileSync(join(C, 'blueprint.json'), 'utf8'))
 const topics = readdirSync(join(C, 'topics'))
   .filter((f) => f.endsWith('.json'))
   .map((f) => JSON.parse(readFileSync(join(C, 'topics', f), 'utf8')))
+  // Only finalized topics (source-check + copy check stamped) go into exams; drafts never ship.
+  .filter((t) => t.sourceCheck && t.copyCheck)
 const meta = new Map(bp.topics.map((t) => [t.id, t]))
 topics.sort((a, b) => meta.get(a.topicId).order - meta.get(b.topicId).order)
 const items = (q) => (q.kind === 'emq' ? q.items.length : 1)

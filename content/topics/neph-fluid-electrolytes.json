@@ -1,0 +1,2932 @@
+{
+ "topicId": "neph-fluid-electrolytes",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "neph-fluid-electrolytes.s1",
+   "title": "Water balance, osmolality & IV fluids",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Water makes up roughly **60% of body weight** in an adult man (a higher share in infants, a lower share in women). In a 70 kg man that is about **40 L**: around **25 L inside cells** and **15 L extracellular**, of which about 12 L is interstitial and only about **3 L is plasma**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 371,
+       "page": 349
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Sodium concentration is a water problem; total body sodium is a volume problem.** Plasma [Na] sets osmolality and therefore cell volume, so disorders of water show up as **hypo-/hypernatraemia**. Total body Na sets ECF volume, so disorders of salt show up as **hypo-/hypervolaemia**. Aldosterone keeps sodium (water follows it); ADH keeps water alone.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 371,
+       "page": 349
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 746,
+       "page": 746
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Water balance numbers worth memorising",
+     "columns": [
+      "Item",
+      "Value"
+     ],
+     "rows": [
+      [
+       "Insensible loss (stool, sweat, breath)",
+       "≈ 800 mL/day"
+      ],
+      [
+       "Water made by metabolism",
+       "≈ 400 mL/day"
+      ],
+      [
+       "Serum osmolality reference range (Davidson)",
+       "280–296 mOsmol/kg"
+      ],
+      [
+       "Urine osmolality the kidney can reach",
+       "≈ 50 (maximal dilution) to ≈ 1200 mOsmol/kg (maximal concentration)"
+      ],
+      [
+       "ADH fully switched off",
+       "Plasma osmolality below ≈ 275 mOsmol/kg"
+      ],
+      [
+       "Calculated plasma osmolality",
+       "2 × Na + urea + glucose (Na doubled to account for its anions)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 377,
+       "page": 355
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 378,
+       "page": 356
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 372,
+       "page": 335
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 373,
+       "page": 336
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "ADH (vasopressin) in brief",
+     "items": [
+      "Hypothalamic osmoreceptors sense a rise in osmolality → **thirst** plus ADH release from the **posterior pituitary**.",
+      "ADH binds **V2 receptors** on collecting-duct cells → **aquaporin-2** channels are inserted into the luminal membrane → water is drawn out along the medullary osmotic gradient.",
+      "**Non-osmotic** triggers also release ADH: **hypovolaemia** (whatever the osmolality), stress such as surgery or trauma, pain and **nausea**.",
+      "If ADH is absent, the collecting duct stays watertight and dilute urine is passed."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 378,
+       "page": 356
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 373,
+       "page": 336
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 379,
+       "page": 357
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "What the kidney needs to dilute or concentrate urine",
+     "columns": [
+      "Process",
+      "Requirements",
+      "If it fails"
+     ],
+     "rows": [
+      [
+       "Dilution",
+       "Solute reaching the loop and early distal tubule; a working loop/early distal tubule; **no ADH** in the blood",
+       "Water retention → **hyponatraemia**"
+      ],
+      [
+       "Concentration",
+       "Solute delivery and a working loop (to build the medullary gradient); **ADH released**; collecting duct **responds** to ADH",
+       "Water loss → **hypernatraemia**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 378,
+       "page": 356
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "When **measured** osmolality is clearly higher than the **calculated** value (an osmolar gap), suspect an unmeasured osmole such as **ethanol or ethylene glycol**; the gap roughly estimates its concentration.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 373,
+       "page": 336
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Common isotonic IV fluids (per litre)",
+     "columns": [
+      "Fluid",
+      "Na⁺",
+      "Cl⁻",
+      "Other",
+      "Where it ends up"
+     ],
+     "rows": [
+      [
+       "0.9% saline",
+       "154 mmol",
+       "154 mmol",
+       "—",
+       "ECF only: about 3/15 stays in plasma"
+      ],
+      [
+       "Hartmann's",
+       "131 mmol",
+       "111 mmol",
+       "K⁺ 5, Ca²⁺ 2, lactate 29 mmol",
+       "ECF (slightly hypotonic)"
+      ],
+      [
+       "5% dextrose",
+       "0",
+       "0",
+       "50 g glucose (≈ 200 kcal)",
+       "All body water: only about 3/40 stays in plasma"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 375,
+       "page": 353
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Daily maintenance needs of an adult",
+     "columns": [
+      "Component",
+      "Per kg per day",
+      "70 kg adult per 24 h"
+     ],
+     "rows": [
+      [
+       "Water",
+       "35–45 mL",
+       "≈ 2.45–3.15 L"
+      ],
+      [
+       "Sodium",
+       "1.5–2 mmol",
+       "≈ 105–140 mmol"
+      ],
+      [
+       "Potassium",
+       "1.0–1.5 mmol",
+       "≈ 70–105 mmol"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 375,
+       "page": 353
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Choosing a fluid",
+     "items": [
+      "**Crystalloids** are the resuscitation fluid of choice: albumin gave no advantage and synthetic colloids raised AKI and mortality in the critically ill.",
+      "0.9% saline can cause a mild **hyperchloraemic metabolic acidosis**; Hartmann's, being slightly hypotonic, can cause mild hyponatraemia.",
+      "In critically ill patients, **balanced crystalloids** (Hartmann's, Plasma-Lyte; less chloride) gave fewer deaths, new dialysis or persistent renal dysfunction than saline.",
+      "Large acute salt and water losses: IV 0.9% saline, given fast (around 1 L/hour) if the patient is hypotensive.",
+      "**Pure water loss** (e.g. diabetes insipidus) is replaced as water: orally, or IV as 5% dextrose, because plain water infused IV would lyse blood cells."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 375,
+       "page": 353
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 202,
+       "page": 183
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 372,
+       "page": 335
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**5% dextrose does not resuscitate.** The glucose is metabolised and the water spreads through all 40 L of body water, so only about 75 mL of each litre stays in the circulation. Use a crystalloid such as 0.9% saline or Hartmann's for hypovolaemia.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 375,
+       "page": 353
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 378,
+      "page": 356,
+      "figure": "Fig. 14.6"
+     },
+     "note": "Look at: the countercurrent loop building a medullary gradient up to 1200 mOsmol/kg, fluid leaving the early distal tubule at about 100 mOsmol/kg, and how ADH (water deficit) or its absence (water overload) sets the final urine."
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.s2",
+   "title": "Hyponatraemia: causes and diagnosis",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Hyponatraemia = serum Na < 135 mmol/L.** Whatever the cause, the body has kept **more water than sodium**. It is the commonest biochemical abnormality in hospital, affecting up to about a third of inpatients. Sort the causes by the patient's **ECF volume**: hypovolaemic, euvolaemic or hypervolaemic.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 379,
+       "page": 357
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 202,
+       "page": 183
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Causes by volume status",
+     "columns": [
+      "Volume status",
+      "Mechanism",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Hypovolaemic",
+       "Lost more salt than water",
+       "Renal: diuretics (**thiazides** above all), adrenal failure. GI: vomiting, diarrhoea. Skin: burns"
+      ],
+      [
+       "Euvolaemic",
+       "Water gain with normal body sodium",
+       "Primary polydipsia; electrolyte-free IV fluid (e.g. post-op 5% dextrose, bladder irrigation fluid at prostatectomy); **SIADH**; hypothyroidism"
+      ],
+      [
+       "Hypervolaemic",
+       "Salt and water both retained, water more so",
+       "Heart failure, cirrhosis, nephrotic syndrome, CKD with continued free-water intake"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 379,
+       "page": 357
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Severity and symptoms (Davidson)",
+     "columns": [
+      "Grade",
+      "Serum Na",
+      "Typical symptoms"
+     ],
+     "rows": [
+      [
+       "Mild",
+       "130–135 mmol/L",
+       "Usually no symptoms"
+      ],
+      [
+       "Moderate",
+       "125–129 mmol/L",
+       "Nausea, headache, delirium"
+      ],
+      [
+       "Severe",
+       "< 124 mmol/L",
+       "Vomiting, drowsiness, seizures, coma, cardiorespiratory arrest"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 380,
+       "page": 358
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Speed matters more than the number.** A fast fall in osmolality drives water into neurons, causing **cerebral oedema**. If the fall is slow, neurons export potassium and organic osmolytes over about **24–48 h** and keep their size, so symptoms are few. Hence **acute = < 48 h** and **chronic = > 48 h**. Kumar notes that overt neurological features are rare above 125 mmol/L and usually appear around 115 mmol/L or lower.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 379,
+       "page": 357
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 203,
+       "page": 184
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "SIADH: diagnostic criteria (Davidson)",
+     "items": [
+      "Low plasma Na (usually < 130 mmol/L) with **plasma osmolality < 275 mOsmol/kg**.",
+      "**Urine osmolality > 100 mOsmol/kg** (not maximally dilute).",
+      "**Urine Na > 30 mmol/L**.",
+      "Low-normal urea, creatinine and urate.",
+      "Clinically **euvolaemic**.",
+      "No adrenal, thyroid, pituitary or renal failure and **no recent diuretics**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 379,
+       "page": 357
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "SIADH: causes",
+     "items": [
+      "**Tumours**, classically small cell lung cancer.",
+      "**CNS**: stroke, head injury, infection (e.g. meningitis), psychosis, porphyria.",
+      "**Lung**: pneumonia, lung abscess, TB, obstructive lung disease.",
+      "**Drugs**: carbamazepine and other anticonvulsants, SSRIs and other antidepressants, antipsychotics, cytotoxics (vincristine, cyclophosphamide), oral hypoglycaemics, opiates, NSAIDs, thiazides.",
+      "Post-operative state; idiopathic."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 379,
+       "page": 357
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 66,
+       "page": 66
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Stepwise work-up",
+     "items": [
+      "**Step 1 – is it real and hypotonic?** Exclude a drip-arm sample, pseudohyponatraemia (severe hyperlipidaemia or hyperproteinaemia; osmolality normal) and translocation from hyperglycaemia or mannitol. True hyponatraemia has osmolality < 275 mOsmol/kg.",
+      "**Step 2 – urine osmolality.** Below 100 mOsmol/kg means the kidney is diluting properly: too much water in (primary polydipsia) or too little solute (beer potomania, 'tea and toast' diet).",
+      "**Step 3 – volume status plus urine Na.** Hypovolaemic with urine Na < 30 → extrarenal loss (vomiting, diarrhoea, pancreatitis); > 30 → renal loss (diuretics, adrenal insufficiency).",
+      "Euvolaemic → SIADH or hypothyroidism. Fluid-overloaded → heart failure, cirrhosis, nephrotic syndrome, or kidney disease."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 380,
+       "page": 358
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 381,
+       "page": 359,
+       "figure": "Fig. 14.8"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 747,
+       "page": 747
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 374,
+       "page": 337
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Measuring ADH does not help.** It is high in hypovolaemia and in heart failure or cirrhosis (non-osmotic release), sometimes higher than in SIADH. ADH is suppressed only in **primary polydipsia** and iatrogenic water overload.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 380,
+       "page": 358
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In hyponatraemia without fluid overload, check **magnesium and potassium**: deficiency of either boosts ADH release and underlies much diuretic-associated hyponatraemia.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 376,
+       "page": 339
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Not all low sodium is hypotonic.** Pseudohyponatraemia (lipids or paraprotein) has a normal osmolality and needs no sodium treatment. Hyperglycaemia pulls water out of cells: Na falls about 3 mmol/L for each 100 mg/dL (≈ 5.5 mmol/L) rise in glucose.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 373,
+       "page": 336
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 374,
+       "page": 337
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 748,
+       "page": 748
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Urine Na cut-off differs between books.** Davidson uses **30 mmol/L** to separate extrarenal (< 30) from renal (> 30) sodium loss; Kumar & Clark, Kumar & Clark's Essentials and Step-Up use about 20 mmol/L. Use Davidson's 30 in the exam, and remember urine Na is unreliable while the patient is taking diuretics.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 380,
+       "page": 358
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 372,
+       "page": 335
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 747,
+       "page": 747
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 202,
+       "page": 183
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**SIADH is a diagnosis of exclusion.** Rule out adrenal insufficiency (short Synacthen test), hypothyroidism, diuretics, GI or skin losses and kidney disease first. Then a **chest X-ray** looks for pneumonia or lung cancer.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 66,
+       "page": 66
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 379,
+       "page": 357
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 381,
+      "page": 359,
+      "figure": "Fig. 14.8"
+     },
+     "note": "Look at: the algorithm flow from hypotonicity to urine osmolality (< 100) to urine Na (30 mmol/L split) and volume status."
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.s3",
+   "title": "Hyponatraemia: treatment and osmotic demyelination",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Treatment by situation",
+     "columns": [
+      "Situation",
+      "Treatment"
+     ],
+     "rows": [
+      [
+       "**Acute (< 48 h) with cerebral oedema** (obtundation, seizures)",
+       "**Hypertonic 3% NaCl**: commonly a **150 mL bolus over 20 min**, repeated once or twice according to neurology and the Na rise (Davidson). Kumar: aim for +4–6 mmol/L in the first 4 h; 1 mL/kg of 3% saline raises Na by about 1 mmol/L"
+      ],
+      [
+       "**Hypovolaemic**",
+       "Stop the loss; give **IV 0.9% saline**. Restoring volume switches off non-osmotic ADH"
+      ],
+      [
+       "**Euvolaemic / SIADH**",
+       "**Fluid restriction 600–1000 mL/24 h** and remove the trigger (e.g. the drug). Persistent SIADH: oral **urea 30–45 g/day** (a solute load) or **tolvaptan** (risk of overcorrection)"
+      ],
+      [
+       "**Hypervolaemic**",
+       "Treat the underlying disease, strict fluid restriction, cautious diuretics (K-sparing helpful with secondary hyperaldosteronism)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 380,
+       "page": 358
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 204,
+       "page": 185
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 375,
+       "page": 338
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Vaptans (ADH antagonists)",
+     "items": [
+      "Block V2 receptors (**tolvaptan**; **conivaptan** blocks V1A and V2) → pure water diuresis with no change in Na or K excretion.",
+      "Tolvaptan is approved for **euvolaemic hyponatraemia/SIADH**.",
+      "Specialist-initiated, with close (e.g. 6-hourly) Na checks, because Na can rise very fast.",
+      "Demeclocycline (an older ADH-blocking tetracycline) is now rarely used."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 205,
+       "page": 186
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 67,
+       "page": 67
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Osmotic demyelination syndrome (ODS)**, formerly central pontine myelinolysis: in chronic hyponatraemia, brain cells have shed osmolytes. A sudden rise in plasma osmolality pulls water out of them, they shrink and **separate from their myelin**. The course is often **biphasic**: encephalopathy improves, then days later **spastic quadriparesis, pseudobulbar palsy, mutism** or respiratory arrest appear. Lesions are mainly pontine but also in the basal ganglia and internal capsule. **MRI** (T1 low, T2 high signal) may take 2 weeks or more to become abnormal. Treatment is supportive only, and damage is often permanent or fatal.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 380,
+       "page": 358
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 204,
+       "page": 185
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 67,
+       "page": 67
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 377,
+       "page": 340
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Who is at highest risk",
+     "items": [
+      "**ODS** with over-rapid correction: alcohol excess, cirrhosis, malnutrition, **hypokalaemia**; also prior hypoxaemia.",
+      "**Hyponatraemic encephalopathy** in acute hyponatraemia: premenopausal women, children, and **hypoxaemic** patients (hypoxia is the strongest predictor of death).",
+      "Classic iatrogenic setting: generous **5% glucose after surgery**, with stress-driven ADH."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 204,
+       "page": 185
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 203,
+       "page": 184
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Correction limits differ between books.** Davidson: in chronic asymptomatic hyponatraemia raise Na by **no more than 10 mmol/L per 24 h**, and slower is safer. Kumar & Clark and Step-Up: **no more than 8 mmol/L per day** (lower still in high-risk patients). Use Davidson's figure in the exam; a slower target is never wrong.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 380,
+       "page": 358
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 204,
+       "page": 185
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 752,
+       "page": 752
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Overcorrection usually comes from a sudden water diuresis** once the ADH stimulus goes: volume is replaced, cortisol is given in Addison's, or nausea and pain settle. **Desmopressin** stops the diuresis, and 5% glucose can bring Na back down.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 204,
+       "page": 185
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 205,
+       "page": 186
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Potassium replacement raises sodium.** In chronic hyponatraemia with severe hypokalaemia (e.g. Na < 120, K < 2 mmol/L), giving KCl alone can push Na up fast enough to cause ODS.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 205,
+       "page": 186
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 380,
+      "page": 358,
+      "figure": "Fig. 14.7"
+     },
+     "note": "Look at: an abrupt osmolality fall (290 → 220) swells cerebral cells, while a gradual fall lets them lose osmolytes and keep a normal size."
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.s4",
+   "title": "Hypernatraemia",
+   "objectiveIdx": [
+    2,
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Hypernatraemia = serum Na > 145 mmol/L.** It means the kidney failed to concentrate urine while water intake was limited, or sodium was added. The usual cause is failure of the ADH system (**cranial or nephrogenic diabetes insipidus**); a low GFR or loop diuretic can also flatten the medullary gradient. Because thirst is so powerful, **sustained hypernatraemia implies blunted thirst or no access to water**: frail elderly people, neonates and unconscious patients.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 380,
+       "page": 358
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 381,
+       "page": 359
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 377,
+       "page": 340
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Causes by volume status",
+     "columns": [
+      "Volume status",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Hypovolaemic",
+       "Osmotic diuretics, loop diuretic during water restriction, **glycosuria (hyperglycaemic hyperosmolar state)**, colonic diarrhoea, heavy sweating"
+      ],
+      [
+       "Euvolaemic",
+       "**Diabetes insipidus**: cranial, or nephrogenic (lithium, hypercalcaemia, hypokalaemia, tetracyclines, amphotericin B, acute tubular necrosis)"
+      ],
+      [
+       "Hypervolaemic",
+       "Enteral or parenteral feeding; IV or oral salt (hypertonic saline, **sodium bicarbonate** e.g. after cardiac arrest, high-Na drugs such as piperacillin); CKD with water restriction; Conn's, Cushing's"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 381,
+       "page": 359
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 205,
+       "page": 186
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 753,
+       "page": 753
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Clinical features (brain cell shrinkage)",
+     "items": [
+      "Dizziness, restlessness, delirium and weakness.",
+      "Focal deficits and seizures, progressing to coma and death if water is not given.",
+      "Dry mucous membranes; worse when the rise is rapid."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 382,
+       "page": 360
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 755,
+       "page": 755
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 754,
+       "page": 754
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Investigation: paired urine and plasma osmolality",
+     "columns": [
+      "Urine result",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Urine **more dilute than plasma** despite a high Na",
+       "**Diabetes insipidus**: give desmopressin"
+      ],
+      [
+       "Urine concentrates after desmopressin",
+       "**Cranial** DI"
+      ],
+      [
+       "No response to desmopressin",
+       "**Nephrogenic** DI"
+      ],
+      [
+       "Urine highly concentrated (appropriate response, > 800 mOsm/kg)",
+       "Kidney is working: **osmotic diuresis** or **extrarenal water loss** (sweat, heat stroke) or poor intake"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 205,
+       "page": 186
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 377,
+       "page": 340
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 755,
+       "page": 755
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Management",
+     "items": [
+      "Treat the cause and **replace water**: orally if possible, or IV **5% dextrose or 0.45% saline**.",
+      "Davidson: if onset was rapid, start IV fluid at about **50–70 mL/h**; in elderly institutionalised patients (likely chronic) lower Na **very cautiously**.",
+      "**Hypovolaemic**: isotonic saline first to restore circulation, then free water.",
+      "**Cranial DI**: desmopressin. **Nephrogenic DI**: low-salt diet plus a thiazide, with adequate fluids.",
+      "**Hypervolaemic**: loop diuretic plus 5% dextrose; dialysis if in renal failure."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 382,
+       "page": 360
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 206,
+       "page": 187
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 755,
+       "page": 755
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Lowering Na too fast causes cerebral oedema.** Davidson gives no number, only caution. Kumar & Clark aim to correct over **about 48 h**; Step-Up caps the fall at about 12 mmol/L per day. Kumar & Clark's Essentials uses 0.9% saline (154 mmol/L) when Na exceeds 170 mmol/L, so that Na does not fall too steeply.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 382,
+       "page": 360
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 206,
+       "page": 187
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 377,
+       "page": 340
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 752,
+       "page": 752
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Older people get both disorders.** As GFR declines they lose both diluting and concentrating ability. **Hyponatraemia** comes with low salt intake and thiazides; **hypernatraemia** with poor access to drinks, blunted thirst (advanced dementia, severe stroke) and high-sodium effervescent medicines.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 382,
+       "page": 360
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.s5",
+   "title": "Hypokalaemia",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Hypokalaemia = serum K < 3.5 mmol/L** (normal about 3.6–5.0). About 98% of body potassium is inside cells, so shifts matter: **alkalosis, insulin, β2-agonists and aldosterone** push K into cells. The commonest chronic causes are **diuretics (especially thiazides)** and **hyperaldosteronism**. In hospital, K-free IV fluids and insulin treatment of DKA can drop K quickly.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 383,
+       "page": 361
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 763,
+       "page": 763
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 206,
+       "page": 187
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 382,
+       "page": 360
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Causes sorted by the clue",
+     "columns": [
+      "Clue",
+      "Causes"
+     ],
+     "rows": [
+      [
+       "Shift into cells",
+       "Alkalosis, insulin, β-agonists, hypokalaemic periodic paralysis"
+      ],
+      [
+       "GI loss + **alkalosis** (urine K low)",
+       "Vomiting, nasogastric aspiration"
+      ],
+      [
+       "GI loss + **acidosis** (urine K low)",
+       "Diarrhoea, laxative abuse, villous adenoma, fistula, ureterosigmoidostomy"
+      ],
+      [
+       "Renal loss + **hypertension**",
+       "Conn's, Cushing's, liquorice/carbenoxolone (11βHSD2 block), **Liddle's**"
+      ],
+      [
+       "Renal loss, normal BP + **alkalosis**",
+       "Loop and thiazide diuretics, **Bartter's**, **Gitelman's**"
+      ],
+      [
+       "Renal loss, normal BP + **acidosis**",
+       "Renal tubular acidosis types 1 and 2, acetazolamide"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 383,
+       "page": 361
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 379,
+       "page": 342
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Inherited tubular causes compared",
+     "columns": [
+      "Feature",
+      "Bartter's",
+      "Gitelman's",
+      "Liddle's"
+     ],
+     "rows": [
+      [
+       "Defect",
+       "NKCC2 loss (thick ascending limb)",
+       "NCCT loss (early distal tubule)",
+       "ENaC **gain** of function"
+      ],
+      [
+       "Drug it mimics",
+       "Loop diuretic",
+       "Thiazide",
+       "—"
+      ],
+      [
+       "Blood pressure",
+       "Normal",
+       "Normal",
+       "**High**"
+      ],
+      [
+       "Urine calcium",
+       "**High**",
+       "**Low**",
+       "—"
+      ],
+      [
+       "Renin / aldosterone",
+       "High",
+       "High",
+       "**Both low**"
+      ],
+      [
+       "Treatment note",
+       "K supplements, amiloride, rarely indometacin (biopsy: juxtaglomerular hyperplasia)",
+       "K and Mg supplements",
+       "Amiloride or triamterene + salt restriction (spironolactone fails)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 383,
+       "page": 361
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 207,
+       "page": 188
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Clinical features",
+     "items": [
+      "Mild (3.0–3.3 mmol/L): usually silent.",
+      "Weakness, tiredness and cramps; marked weakness below about 2.5 mmol/L; reduced reflexes.",
+      "Ventricular ectopics and arrhythmias; **digoxin toxicity potentiated** (more myocardial binding, less clearance).",
+      "Paralytic ileus.",
+      "Long-standing: hypokalaemic nephropathy and **acquired nephrogenic DI** (polyuria, polydipsia).",
+      "**ECG**: flattened (then inverted) T waves, **U waves**, ST depression."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 383,
+       "page": 361
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 207,
+       "page": 188
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 765,
+       "page": 765
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 369,
+       "page": 347
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Investigation",
+     "items": [
+      "U&E, bicarbonate, urine K, and often Ca and Mg.",
+      "Urine K **> 30 mmol/24 h → renal** loss; **< 20 mmol/24 h → GI** loss (unless hypovolaemia has switched on aldosterone).",
+      "Plasma **renin low** → mineralocorticoid excess (e.g. Conn's); raised in other causes.",
+      "Unexplained alkalosis: **urine chloride < 30 mmol/L → vomiting**; > 40 mmol/L → diuretics or Bartter's/Gitelman's, separated by a **urine diuretic screen**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 384,
+       "page": 362
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Management",
+     "items": [
+      "Treat the cause; reversing a shift may be enough.",
+      "Most patients: **oral slow-release KCl**.",
+      "IV KCl for severe hypokalaemia, arrhythmia, weakness, DKA or no oral route: Davidson generally **≤ 10 mmol/h**; peripheral fluid up to **40 mmol/L** in life-threatening cases; stronger solutions only via a central vein with cardiac monitoring.",
+      "Mix IV potassium in **0.9% saline, not glucose**; glucose triggers insulin and worsens the low K.",
+      "**Correct magnesium**, or K keeps leaking into the urine.",
+      "Amiloride can help when renal K loss is the cause."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 384,
+       "page": 362
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 208,
+       "page": 189
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 766,
+       "page": 766
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**IV potassium rates vary by book.** Davidson: usually ≤ 10 mmol/h, ≤ 40 mmol/L peripherally. Step-Up: up to 10 mmol/h peripheral, 20 mmol/h central. Kumar & Clark's Essentials: above 20 mmol/h only with ECG monitoring and hourly K, and over 60 mmol/L irritates peripheral veins. Kumar: with poor renal function stay below 2 mmol/h. Quote Davidson in the exam.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 384,
+       "page": 362
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 767,
+       "page": 767
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 378,
+       "page": 341
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 208,
+       "page": 189
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Refractory hypokalaemia → check magnesium.** Low cell magnesium drives ongoing tubular K secretion, so KCl alone fails until Mg is replaced.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 384,
+       "page": 362
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 378,
+       "page": 341
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 369,
+      "page": 347,
+      "figure": "ECG insets, clinical exam p. 347"
+     },
+     "note": "Look at: the hypokalaemia ECG inset (U wave, ST depression) next to the hyperkalaemia inset (peaked T wave)."
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.s6",
+   "title": "Hyperkalaemia",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Hyperkalaemia = serum K > 5 mmol/L.** First ask whether it is real. **Pseudohyperkalaemia** comes from haemolysis (difficult venepuncture, long tourniquet, fist clenching, delayed processing) or from K released by **platelets or white cells** during clotting in thrombocytosis or leucocytosis. Repeat the sample before treating, unless the ECG is abnormal.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 384,
+       "page": 362
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 768,
+       "page": 768
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 380,
+       "page": 343
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "True causes",
+     "columns": [
+      "Mechanism",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Shift out of cells",
+       "Acidosis (e.g. DKA), insulin lack, β-blockers, **rhabdomyolysis**, tumour lysis, severe haemolysis, suxamethonium, digoxin toxicity"
+      ],
+      [
+       "Low GFR",
+       "**AKI**, advanced CKD"
+      ],
+      [
+       "Less aldosterone effect",
+       "**Addison's**, ACE inhibitors/ARBs, spironolactone/eplerenone, heparin, NSAIDs, calcineurin inhibitors, **type 4 RTA**"
+      ],
+      [
+       "Distal K secretion blocked",
+       "Amiloride, trimethoprim, Gordon's syndrome"
+      ],
+      [
+       "Intake (usually with poor excretion)",
+       "K supplements, K-containing fluids, stored blood"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 384,
+       "page": 362
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 380,
+       "page": 343
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 767,
+       "page": 767
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Renal impairment plus drugs** is the commonest story. An ACE inhibitor combined with a K-sparing diuretic or an NSAID is especially dangerous: high K normally triggers aldosterone, which raises renal K excretion, and ACE inhibition blunts that loop.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 208,
+       "page": 189
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 382,
+       "page": 360,
+       "figure": "Fig. 14.9"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Clinical features and ECG",
+     "items": [
+      "Below about 6.5 mmol/L: usually silent.",
+      "Severe: progressive weakness, or **cardiac arrest with no warning**; Kussmaul breathing if acidotic; bradycardia, hypotension, asystole.",
+      "**ECG sequence**: tall peaked T waves → PR prolongation and flattening or loss of P waves → **broad QRS** → **sine-wave** pattern → VF or asystole.",
+      "Peaked T is early; QRS widening warns of imminent arrhythmia. A normal ECG does **not** exclude severe hyperkalaemia."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 385,
+       "page": 363
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 209,
+       "page": 190
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 770,
+       "page": 770
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 769,
+       "page": 769
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Emergency treatment (Davidson Box 14.17 with Kumar detail)",
+     "columns": [
+      "Goal",
+      "Treatment",
+      "Key point"
+     ],
+     "rows": [
+      [
+       "1. Protect the heart",
+       "**10 mL 10% calcium gluconate IV**",
+       "Stabilises membranes; does **not** lower K; repeat if ECG changes persist"
+      ],
+      [
+       "2. Shift K into cells",
+       "**Insulin + glucose** (50 mL 50% glucose); inhaled/nebulised **β2-agonist** (salbutamol); IV bicarbonate if acidotic",
+       "Insulin lowers K by about 1 mmol/L within an hour; check glucose for ≥ 6 h"
+      ],
+      [
+       "3. Remove K from the body",
+       "Furosemide ± saline if kidneys work; K binders (patiromer, sodium zirconium cyclosilicate, older resins); **dialysis**",
+       "Dialysis is definitive in renal failure"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 385,
+       "page": 363
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 209,
+       "page": 190
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 382,
+       "page": 345
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Insulin dose differs by source.** Davidson's box gives **5 IU soluble insulin (Actrapid)** with 50 mL 50% glucose; Kumar and Kumar & Clark's Essentials give **10 units**. Follow Davidson in the exam, and in every case monitor glucose for hypoglycaemia.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 385,
+       "page": 363
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 209,
+       "page": 190
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 382,
+       "page": 345
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**When is it urgent?** Davidson: K above about **6.5–7.0 mmol/L**, or symptoms or ECG changes; below 6.5 without these, cut intake and fix causes. Zero to Finals: urgent at ≥ 6.5 regardless, or ≥ 6 with ECG changes. Kumar: above 7.0 is an emergency. Every patient with K > 6 needs an ECG.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 385,
+       "page": 363
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 274,
+       "page": 274
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 209,
+       "page": 190
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Resins and line safety.** Sodium polystyrene sulfonate lacks proven efficacy and has been linked to **intestinal necrosis**; newer binders are preferred. Never run bicarbonate in the same line as calcium (it precipitates), and give calcium cautiously to patients on digoxin.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 385,
+       "page": 363
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 209,
+       "page": 190
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 382,
+       "page": 345
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 772,
+       "page": 772
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Type 4 RTA and other links",
+     "items": [
+      "**Type 4 RTA**: low aldosterone or aldosterone resistance (diabetes, ACE inhibitors, spironolactone, adrenal insufficiency, SLE) → **hyperkalaemia + hyperchloraemic metabolic acidosis**; treated with fludrocortisone.",
+      "Hyperkalaemia itself reduces renal ammonia production, worsening acidosis and so worsening hyperkalaemia.",
+      "In aldosterone deficiency Na tends to be low: **exclude Addison's** unless another cause is obvious.",
+      "In **rhabdomyolysis**, K is the most immediately dangerous released product: check U&E and ECG early."
+     ],
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 270,
+       "page": 270
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 767,
+       "page": 767
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 385,
+       "page": 363
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 272,
+       "page": 272
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 209,
+      "page": 190,
+      "figure": "Fig. 9.12"
+     },
+     "note": "Look at: tented T waves, then small P waves with a widened QRS, then the sine-wave pattern before arrest."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 382,
+      "page": 360,
+      "figure": "Fig. 14.9"
+     },
+     "note": "Look at: the negative feedback loop: high K stimulates aldosterone from the zona glomerulosa, which raises renal K excretion."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "neph-fluid-electrolytes.c1",
+   "sectionId": "neph-fluid-electrolytes.s1",
+   "front": "Total body water in a 70 kg man and how it is split?",
+   "back": "≈ 40 L (60% of weight): ≈ 25 L intracellular, ≈ 15 L extracellular (≈ 12 L interstitial, ≈ 3 L plasma).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 371,
+     "page": 349
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.c2",
+   "sectionId": "neph-fluid-electrolytes.s1",
+   "front": "What fraction of an infused litre stays in plasma: 5% dextrose vs 0.9% saline?",
+   "back": "5% dextrose ≈ 3/40 (≈ 75 mL); 0.9% saline ≈ 3/15 (≈ 200 mL).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 375,
+     "page": 353
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.c3",
+   "sectionId": "neph-fluid-electrolytes.s1",
+   "front": "Daily adult maintenance per kg: water, Na, K?",
+   "back": "Water 35–45 mL/kg; Na 1.5–2 mmol/kg; K 1.0–1.5 mmol/kg.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 375,
+     "page": 353
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.c4",
+   "sectionId": "neph-fluid-electrolytes.s2",
+   "front": "SIADH: plasma osmolality, urine osmolality and urine Na thresholds (Davidson)?",
+   "back": "Plasma osm < 275 mOsmol/kg; urine osm > 100 mOsmol/kg; urine Na > 30 mmol/L, in a euvolaemic patient off diuretics.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 379,
+     "page": 357
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.c5",
+   "sectionId": "neph-fluid-electrolytes.s2",
+   "front": "Hyponatraemia with urine osmolality < 100 mOsmol/kg suggests?",
+   "back": "Excess water or too little solute: primary polydipsia, beer potomania, low-solute diet.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 381,
+     "page": 359,
+     "figure": "Fig. 14.8"
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.c6",
+   "sectionId": "neph-fluid-electrolytes.s3",
+   "front": "Davidson's maximum rise in Na for chronic asymptomatic hyponatraemia?",
+   "back": "No more than 10 mmol/L per 24 h (slower is safer). Kumar & Clark: ≤ 8 mmol/L per day.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 380,
+     "page": 358
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 204,
+     "page": 185
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.c7",
+   "sectionId": "neph-fluid-electrolytes.s3",
+   "front": "Initial hypertonic saline for acute hyponatraemia with seizures (Davidson)?",
+   "back": "3% NaCl 150 mL over 20 min, repeated once or twice depending on neurology and the Na rise.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 380,
+     "page": 358
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.c8",
+   "sectionId": "neph-fluid-electrolytes.s4",
+   "front": "Hypernatraemia with dilute urine: how do you separate cranial from nephrogenic DI?",
+   "back": "Give desmopressin: urine concentrates → cranial DI; no response → nephrogenic DI.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 205,
+     "page": 186
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.c9",
+   "sectionId": "neph-fluid-electrolytes.s5",
+   "front": "Bartter's vs Gitelman's: urinary calcium?",
+   "back": "Bartter's (loop-like, NKCC2): high urinary Ca. Gitelman's (thiazide-like, NCCT): low urinary Ca.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 383,
+     "page": 361
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.c10",
+   "sectionId": "neph-fluid-electrolytes.s5",
+   "front": "Hypokalaemic alkalosis with urine chloride < 30 mmol/L points to?",
+   "back": "Vomiting (chloride lost as HCl). Urine Cl > 40 suggests diuretics or Bartter's/Gitelman's.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 384,
+     "page": 362
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.c11",
+   "sectionId": "neph-fluid-electrolytes.s5",
+   "front": "Davidson's usual maximum rate of IV potassium?",
+   "back": "About 10 mmol/h; peripheral fluid up to 40 mmol/L in severe cases; higher only centrally with cardiac monitoring.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 384,
+     "page": 362
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.c12",
+   "sectionId": "neph-fluid-electrolytes.s6",
+   "front": "First drug in severe hyperkalaemia, and does it lower K?",
+   "back": "10 mL 10% calcium gluconate IV to stabilise the myocardium; it does not lower K.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 385,
+     "page": 363
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 209,
+     "page": 190
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.c13",
+   "sectionId": "neph-fluid-electrolytes.s6",
+   "front": "ECG sequence as K rises?",
+   "back": "Peaked T → PR lengthens and P waves flatten → broad QRS → sine wave → VF/asystole.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 209,
+     "page": 190,
+     "figure": "Fig. 9.12"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 770,
+     "page": 770
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.c14",
+   "sectionId": "neph-fluid-electrolytes.s6",
+   "front": "Three causes of pseudohyperkalaemia?",
+   "back": "Haemolysis of the sample; thrombocytosis; leucocytosis (K released during clotting).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 384,
+     "page": 362
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "neph-fluid-electrolytes.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 70 kg man who is bleeding from a duodenal ulcer is hypotensive. A junior doctor hangs 1 L of 5% dextrose to restore his blood pressure.",
+   "leadIn": "Approximately how much of this litre will remain in the plasma?",
+   "options": [
+    "About 25 mL",
+    "About 75 mL",
+    "About 200 mL",
+    "About 600 mL",
+    "About 1000 mL"
+   ],
+   "answer": 1,
+   "explanation": "Once the glucose is metabolised, the water spreads through all **40 L** of body water. Plasma is about **3 L**, so about **3/40** of the litre (≈ 75 mL) stays intravascular. That is why 5% dextrose is useless for resuscitation; use a crystalloid such as 0.9% saline.",
+   "whyNot": [
+    "Too small: 3/40 of 1000 mL is about 75 mL, not 25 mL.",
+    "",
+    "About 200 mL (≈ 3/15) is what 0.9% saline contributes, because it stays in the ECF.",
+    "No crystalloid keeps over half its volume in plasma; 5% dextrose keeps far less.",
+    "Only a fluid confined to the vessels could stay entirely in plasma; free water does not."
+   ],
+   "studyRef": {
+    "sectionId": "neph-fluid-electrolytes.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 375,
+     "page": 353
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 371,
+     "page": 349
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 30-year-old man has been hiking for 8 hours in the heat without drinking. His plasma osmolality has risen and he passes a small volume of concentrated urine.",
+   "leadIn": "Which mechanism directly allows his collecting ducts to reabsorb water?",
+   "options": [
+    "ADH binding V1A receptors on vascular smooth muscle",
+    "ADH binding V2 receptors and inserting aquaporin-2 channels into the luminal membrane",
+    "Aldosterone opening epithelial sodium channels in the collecting duct",
+    "Atrial natriuretic peptide increasing sodium excretion",
+    "Inhibition of the Na-K-2Cl co-transporter in the thick ascending limb"
+   ],
+   "answer": 1,
+   "explanation": "A rise in osmolality triggers posterior pituitary **ADH** release. ADH acts on **V2 receptors** in the collecting duct, which inserts **AQP-2** water channels so that water moves out along the medullary gradient (up to about 1200 mOsmol/kg).",
+   "whyNot": [
+    "V1A receptors mediate vasoconstriction, not water reabsorption in the collecting duct.",
+    "",
+    "Aldosterone retains sodium (water follows); it does not by itself make the collecting duct permeable to water.",
+    "ANP promotes natriuresis and would not concentrate the urine.",
+    "Blocking NKCC2 (as loop diuretics do) destroys the medullary gradient and impairs concentration."
+   ],
+   "studyRef": {
+    "sectionId": "neph-fluid-electrolytes.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 378,
+     "page": 356
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 745,
+     "page": 745
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 195,
+     "page": 176
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 64-year-old man who smokes heavily has lost 6 kg over 3 months. He is mildly confused. He has a normal JVP, no oedema and no postural drop. He takes no regular medicines. Results: Na 121 mmol/L, plasma osmolality 254 mOsmol/kg, urine osmolality 480 mOsmol/kg, urine Na 52 mmol/L. Thyroid function and a short Synacthen test are normal.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Syndrome of inappropriate ADH secretion",
+    "Primary polydipsia",
+    "Thiazide-induced hyponatraemia",
+    "Hypothyroidism",
+    "Pseudohyponatraemia"
+   ],
+   "answer": 0,
+   "explanation": "He is **euvolaemic** with true hypotonic hyponatraemia (osmolality < 275), **urine osmolality > 100** and **urine Na > 30**. Thyroid and adrenal causes are excluded and he takes no diuretics, so he meets the SIADH criteria. Weight loss in a smoker suggests a lung tumour, so get a chest X-ray next.",
+   "whyNot": [
+    "",
+    "Primary polydipsia gives a maximally dilute urine (osmolality < 100), not 480.",
+    "He takes no diuretics; thiazide hyponatraemia is also usually hypovolaemic.",
+    "Thyroid function is normal.",
+    "Pseudohyponatraemia has a normal plasma osmolality; his is low."
+   ],
+   "studyRef": {
+    "sectionId": "neph-fluid-electrolytes.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 379,
+     "page": 357
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 66,
+     "page": 66
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 45-year-old man is admitted with acute pancreatitis. His blood sample looks milky. Laboratory Na is 126 mmol/L, measured plasma osmolality is 291 mOsmol/kg and glucose is normal. He has no neurological symptoms.",
+   "leadIn": "What is the most likely explanation for the low sodium result?",
+   "options": [
+    "Pseudohyponatraemia due to severe hypertriglyceridaemia",
+    "SIADH secondary to pancreatitis-related pain",
+    "Translocational hyponatraemia from hyperglycaemia",
+    "Hypovolaemic hyponatraemia from vomiting",
+    "Primary polydipsia"
+   ],
+   "answer": 0,
+   "explanation": "A low measured Na with a **normal osmolality** and a lipaemic sample means **pseudohyponatraemia**: lipid takes up part of the sample volume and the assay underestimates Na. Water balance is normal, so the sodium needs no treatment.",
+   "whyNot": [
+    "",
+    "SIADH causes true hypotonic hyponatraemia; osmolality would be below 275.",
+    "Glucose is normal, so there is no osmotic shift of water out of cells.",
+    "True hypovolaemic hyponatraemia would lower the measured osmolality.",
+    "Water excess lowers osmolality; his is normal."
+   ],
+   "studyRef": {
+    "sectionId": "neph-fluid-electrolytes.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 379,
+     "page": 357
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 373,
+     "page": 336
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 374,
+     "page": 337
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 58-year-old man with alcohol dependence was admitted with weeks of poor intake and Na 112 mmol/L. His Na rose to 129 mmol/L over the first 24 hours and his confusion improved. Four days later he develops slurred speech, difficulty swallowing and weakness of all four limbs with brisk reflexes.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Osmotic demyelination syndrome",
+    "Wernicke's encephalopathy",
+    "Cerebral oedema from persisting hyponatraemia",
+    "Hypokalaemic periodic paralysis",
+    "Guillain–Barré syndrome"
+   ],
+   "answer": 0,
+   "explanation": "Chronic hyponatraemia was corrected by **17 mmol/L in 24 h**, well above Davidson's limit of 10. The **biphasic** course (improvement, then quadriparesis and pseudobulbar signs days later) is typical of **ODS**. Alcohol excess and malnutrition raise the risk. MRI may stay normal for 2 weeks or more.",
+   "whyNot": [
+    "",
+    "Wernicke's gives confusion, ophthalmoplegia and ataxia, not spastic quadriparesis with bulbar palsy after rapid Na correction.",
+    "His Na is now near normal and he had improved; cerebral oedema occurs with acute falls, not after correction.",
+    "Periodic paralysis is flaccid and episodic with hyporeflexia and is not linked to Na correction.",
+    "GBS causes ascending flaccid weakness with areflexia, not brisk reflexes and pseudobulbar palsy."
+   ],
+   "studyRef": {
+    "sectionId": "neph-fluid-electrolytes.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 380,
+     "page": 358
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 204,
+     "page": 185
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 67,
+     "page": 67
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 26-year-old woman had an appendicectomy yesterday and has received 3 L of 5% dextrose since. She has a generalised seizure. Na is 118 mmol/L (138 mmol/L before surgery). She is clinically euvolaemic.",
+   "leadIn": "What is the most appropriate immediate treatment?",
+   "options": [
+    "Fluid restriction to 800 mL per 24 hours",
+    "0.9% saline 1 L over 1 hour",
+    "3% hypertonic saline 150 mL over 20 minutes",
+    "Oral tolvaptan",
+    "Oral urea 30 g daily"
+   ],
+   "answer": 2,
+   "explanation": "This is **acute** (< 48 h) iatrogenic hyponatraemia with **seizures**, i.e. cerebral oedema. Premenopausal women are at particular risk. Davidson: give **3% NaCl, 150 mL over 20 min**, repeated once or twice according to neurological response and Na rise. Rapid correction is safe here because the brain has not yet adapted.",
+   "whyNot": [
+    "Fluid restriction works over days; it is too slow for seizures.",
+    "0.9% saline is the treatment for hypovolaemic hyponatraemia; it cannot rapidly reverse cerebral oedema in a euvolaemic patient with seizures.",
+    "",
+    "Tolvaptan is for chronic euvolaemic hyponatraemia, not emergency cerebral oedema.",
+    "Oral urea is used for persistent SIADH, not acute symptomatic hyponatraemia."
+   ],
+   "studyRef": {
+    "sectionId": "neph-fluid-electrolytes.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 380,
+     "page": 358
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 203,
+     "page": 184
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "An 86-year-old woman with advanced dementia lives in a nursing home. She is drowsy with dry mucous membranes. Na is 162 mmol/L, glucose is normal and urine osmolality is 820 mOsmol/kg.",
+   "leadIn": "What is the most likely mechanism of her hypernatraemia?",
+   "options": [
+    "Inadequate water intake from blunted thirst and poor access to drinks",
+    "Cranial diabetes insipidus",
+    "Nephrogenic diabetes insipidus",
+    "Primary hyperaldosteronism",
+    "Excess sodium from intravenous bicarbonate"
+   ],
+   "answer": 0,
+   "explanation": "Her urine is **highly concentrated**, so ADH and the collecting duct are working: the kidney is saving water. The problem is **intake**. Advanced dementia blunts thirst and limits access to drinks, a classic setting for hypernatraemia in older people.",
+   "whyNot": [
+    "",
+    "Cranial DI gives dilute urine despite a high Na.",
+    "Nephrogenic DI also gives inappropriately dilute urine.",
+    "Conn's presents with hypertension and hypokalaemia; nothing here suggests it, and it does not explain water depletion with concentrated urine.",
+    "Nothing suggests she has received IV bicarbonate."
+   ],
+   "studyRef": {
+    "sectionId": "neph-fluid-electrolytes.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 382,
+     "page": 360
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 377,
+     "page": 340
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 755,
+     "page": 755
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 376,
+     "page": 354
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 52-year-old woman has taken lithium for bipolar disorder for 15 years. She passes large volumes of urine and drinks constantly. After a day without access to water: Na 151 mmol/L, plasma osmolality 310 mOsmol/kg, urine osmolality 160 mOsmol/kg. After desmopressin, urine osmolality is 175 mOsmol/kg.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Nephrogenic diabetes insipidus",
+    "Cranial diabetes insipidus",
+    "Primary polydipsia",
+    "Osmotic diuresis",
+    "SIADH"
+   ],
+   "answer": 0,
+   "explanation": "Urine stays **more dilute than plasma** despite hypernatraemia, so this is diabetes insipidus. Urine barely changes after **desmopressin**, so the kidney is not responding to ADH: **nephrogenic** DI, a well-known effect of long-term **lithium**.",
+   "whyNot": [
+    "",
+    "In cranial DI the urine concentrates clearly after desmopressin.",
+    "Primary polydipsia causes low or normal Na, not hypernatraemia with dilute urine.",
+    "Osmotic diuresis produces urine of high osmolality.",
+    "SIADH causes hyponatraemia with concentrated urine."
+   ],
+   "studyRef": {
+    "sectionId": "neph-fluid-electrolytes.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 205,
+     "page": 186
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 753,
+     "page": 753
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 3,
+   "stem": "A 19-year-old woman with a low BMI is referred with fatigue. BP is 104/66 mmHg. She denies vomiting and takes no medicines. K is 2.8 mmol/L, bicarbonate 34 mmol/L and urine chloride 12 mmol/L.",
+   "leadIn": "What is the most likely cause of her hypokalaemia?",
+   "options": [
+    "Self-induced vomiting",
+    "Gitelman's syndrome",
+    "Laxative abuse",
+    "Covert diuretic use",
+    "Conn's syndrome"
+   ],
+   "answer": 0,
+   "explanation": "Normotensive hypokalaemic **alkalosis** has a short list: vomiting, diuretics, Bartter's or Gitelman's. A **urine chloride < 30 mmol/L** points to **vomiting**, because chloride is lost as gastric HCl. Diuretics and the tubulopathies give urine chloride above 40 mmol/L.",
+   "whyNot": [
+    "",
+    "Gitelman's gives a high urine chloride (> 40 mmol/L).",
+    "Laxative abuse causes hypokalaemia with metabolic acidosis, not alkalosis.",
+    "Active diuretic use gives a high urine chloride; a urine diuretic screen would confirm it.",
+    "Conn's causes hypertension; her BP is low-normal."
+   ],
+   "studyRef": {
+    "sectionId": "neph-fluid-electrolytes.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 384,
+     "page": 362
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 383,
+     "page": 361
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 67-year-old man on a loop diuretic has K 2.6 mmol/L, proximal muscle weakness and frequent ventricular ectopics. He is vomiting and cannot take tablets. Renal function is normal and he has only a peripheral cannula.",
+   "leadIn": "Which IV prescription is most appropriate?",
+   "options": [
+    "40 mmol KCl in 1 L 0.9% saline over 4 hours",
+    "40 mmol KCl in 100 mL given over 10 minutes",
+    "40 mmol KCl in 1 L 5% dextrose over 4 hours",
+    "80 mmol KCl in 500 mL 0.9% saline over 1 hour",
+    "No potassium; give insulin and glucose"
+   ],
+   "answer": 0,
+   "explanation": "This works out at **10 mmol/h** at **40 mmol/L**, Davidson's usual ceiling for a peripheral vein. It is given in **saline rather than glucose**. Check magnesium too, and monitor the ECG given the ectopics.",
+   "whyNot": [
+    "",
+    "A rapid concentrated bolus can cause fatal arrhythmia and is never given peripherally.",
+    "Glucose stimulates insulin, driving K into cells and worsening hypokalaemia.",
+    "80 mmol/h at 160 mmol/L is far above safe peripheral limits.",
+    "Insulin lowers K further; it treats hyperkalaemia."
+   ],
+   "studyRef": {
+    "sectionId": "neph-fluid-electrolytes.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 384,
+     "page": 362
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 208,
+     "page": 189
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 74-year-old man with CKD stage 4 takes ramipril. He feels weak. K is 7.2 mmol/L and the ECG shows tall peaked T waves with a broadening QRS.",
+   "leadIn": "What should be given first?",
+   "options": [
+    "10 mL of 10% calcium gluconate IV",
+    "Insulin with 50 mL of 50% glucose IV",
+    "Nebulised salbutamol",
+    "Oral sodium polystyrene sulfonate",
+    "Urgent haemodialysis"
+   ],
+   "answer": 0,
+   "explanation": "With severe hyperkalaemia and **ECG changes**, step one is **IV calcium gluconate** to stabilise the myocardium within minutes. It does not lower K. Then shift K into cells (insulin–glucose, β2-agonist) and finally remove it (binders, dialysis).",
+   "whyNot": [
+    "",
+    "Insulin–glucose is the next step; it takes longer to act and does not protect the heart immediately.",
+    "Salbutamol shifts K but comes after membrane stabilisation.",
+    "Resins act slowly, have doubtful efficacy and risk intestinal necrosis.",
+    "Dialysis may be needed but takes time to set up; protect the heart first."
+   ],
+   "studyRef": {
+    "sectionId": "neph-fluid-electrolytes.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 385,
+     "page": 363
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 209,
+     "page": 190
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 40-year-old woman with essential thrombocythaemia (platelets 1100 × 10⁹/L) has routine bloods. Serum K is 6.6 mmol/L. She feels well, takes no medicines, creatinine is normal and the ECG is normal.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Repeat the potassium on a carefully taken sample, avoiding clotting and haemolysis",
+    "Give IV calcium gluconate",
+    "Give insulin with 50% glucose",
+    "Start patiromer",
+    "Arrange urgent haemodialysis"
+   ],
+   "answer": 0,
+   "explanation": "A very high platelet count releases K during clotting, giving **pseudohyperkalaemia**. She is well, with normal renal function and a normal ECG. **Repeat the sample**, avoiding clotting and haemolysis, before any treatment.",
+   "whyNot": [
+    "",
+    "Calcium is for true severe hyperkalaemia with ECG changes.",
+    "Treating an artefact with insulin risks hypoglycaemia.",
+    "No binder is needed when the K is probably spurious.",
+    "Dialysis is grossly inappropriate for a likely artefact."
+   ],
+   "studyRef": {
+    "sectionId": "neph-fluid-electrolytes.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 384,
+     "page": 362
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 768,
+     "page": 768
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 380,
+     "page": 343
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q13",
+   "kind": "emq",
+   "pool": "worked",
+   "difficulty": 2,
+   "theme": "Causes of hyponatraemia",
+   "leadIn": "For each patient below, choose the most likely cause of hyponatraemia from the list. Any option can be the answer for one patient, several patients or none.",
+   "options": [
+    "Thiazide diuretic",
+    "Primary adrenal insufficiency",
+    "Gastrointestinal sodium loss",
+    "SIADH",
+    "Hypothyroidism",
+    "Primary polydipsia",
+    "Low solute intake (beer potomania)",
+    "Congestive heart failure",
+    "Cirrhosis",
+    "Nephrotic syndrome",
+    "Pseudohyponatraemia",
+    "Hyperglycaemia"
+   ],
+   "items": [
+    {
+     "stem": "A 38-year-old man with schizophrenia is seen drinking water from taps throughout the day. He is euvolaemic. Na 124 mmol/L, plasma osmolality 258 mOsmol/kg, urine osmolality 70 mOsmol/kg.",
+     "answer": 5,
+     "explanation": "Step 1: osmolality is low, so this is true hypotonic hyponatraemia. Step 2: urine osmolality is **below 100**, so the kidney is diluting maximally and ADH is switched off. Step 3: the history of heavy water drinking with a normal diet makes this **primary polydipsia** rather than low solute intake.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s2"
+     }
+    },
+    {
+     "stem": "A 47-year-old woman has 3 months of fatigue, weight loss and darkening of her palmar creases. BP is 88/52 mmHg with a postural drop. Na 126 mmol/L, K 5.9 mmol/L, urine Na 58 mmol/L. She takes no medicines.",
+     "answer": 1,
+     "explanation": "Step 1: she is **hypovolaemic**. Step 2: urine Na is **above 30**, so the kidney is losing salt; with no diuretic use, think **adrenal failure**. Step 3: **hyperkalaemia** and pigmentation confirm a lack of aldosterone and cortisol: **primary adrenal insufficiency (Addison's)**.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s2"
+     }
+    },
+    {
+     "stem": "A 74-year-old woman started a new tablet for hypertension 3 weeks ago. She is light-headed with dry mucosa and a postural drop. Na 123 mmol/L, K 3.1 mmol/L, urine Na 46 mmol/L.",
+     "answer": 0,
+     "explanation": "Step 1: **hypovolaemic** with **high urine Na**, so a renal salt loss. Step 2: the low K (not high, as in Addison's) plus a new antihypertensive points to a **thiazide**, the diuretic most likely to cause hyponatraemia, especially in older people.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s2"
+     }
+    },
+    {
+     "stem": "A 33-year-old man with a flare of Crohn's disease has passed 12 watery stools a day for a week. He has a postural drop and dry mucosa. Na 129 mmol/L, urine Na 8 mmol/L.",
+     "answer": 2,
+     "explanation": "Step 1: **hypovolaemic**. Step 2: urine Na is **below 30**, so the kidneys are holding on to sodium appropriately and the loss is **extrarenal**. Step 3: profuse diarrhoea is the source: **GI sodium loss**. Treat with saline, which also switches off the non-osmotic ADH drive.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 379,
+     "page": 357
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 380,
+     "page": 358
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 381,
+     "page": 359,
+     "figure": "Fig. 14.8"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 377,
+     "page": 355
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 382,
+     "page": 360
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q14",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "theme": "Causes of hypokalaemia",
+   "leadIn": "For each patient below, choose the most likely cause of hypokalaemia from the list. Any option can be the answer for one patient, several patients or none.",
+   "options": [
+    "Surreptitious vomiting",
+    "Laxative abuse",
+    "Loop diuretic",
+    "Thiazide diuretic",
+    "Conn's syndrome",
+    "Liddle's syndrome",
+    "Liquorice excess",
+    "Bartter's syndrome",
+    "Gitelman's syndrome",
+    "Distal (type 1) renal tubular acidosis",
+    "Insulin-driven shift into cells",
+    "Hypokalaemic periodic paralysis"
+   ],
+   "items": [
+    {
+     "stem": "A 17-year-old boy has BP 168/100 mmHg. His father had hypertension from his twenties. K 2.9 mmol/L, bicarbonate 32 mmol/L. Plasma renin and aldosterone are both suppressed. BP and K improve on amiloride; spironolactone had no effect.",
+     "answer": 5,
+     "explanation": "Hypertension and hypokalaemic alkalosis with **low renin and low aldosterone** means a mineralocorticoid-like effect without aldosterone. The family history and a response to **amiloride but not spironolactone** point to **Liddle's syndrome** (ENaC gain of function).",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s5"
+     }
+    },
+    {
+     "stem": "A 25-year-old woman with normal BP has cramps. K 3.0 mmol/L, bicarbonate 31 mmol/L, magnesium low. Urinary calcium is low and urine chloride is 70 mmol/L. A urine diuretic screen is negative.",
+     "answer": 8,
+     "explanation": "Normotensive hypokalaemic alkalosis with **high urine chloride** means diuretics or a tubulopathy. A **negative diuretic screen** leaves Bartter's or Gitelman's. **Low urinary calcium** and **low Mg** (a thiazide-like picture) point to **Gitelman's**.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s5"
+     }
+    },
+    {
+     "stem": "A 48-year-old man has hypertension that stays high on three drugs. K 3.1 mmol/L, bicarbonate 31 mmol/L. Aldosterone is high and renin is suppressed. He eats no liquorice.",
+     "answer": 4,
+     "explanation": "Hypertension with hypokalaemia and **high aldosterone with low renin** is **primary hyperaldosteronism (Conn's)**. Liddle's and liquorice would suppress aldosterone.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s5"
+     }
+    },
+    {
+     "stem": "A 29-year-old woman with normal BP has K 2.9 mmol/L and bicarbonate 17 mmol/L. She denies bowel symptoms. 24-hour urine K is 11 mmol.",
+     "answer": 1,
+     "explanation": "Two steps. **Low urine K** (< 20 mmol/24 h) means the kidney is conserving K, so the loss is **GI**, which rules out RTA (a renal cause). GI loss with **metabolic acidosis** comes from the lower gut; with the bowel symptoms denied, covert **laxative abuse** is the likely cause.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 383,
+     "page": 361
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 384,
+     "page": 362
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 207,
+     "page": 188
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q15",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Management of sodium and water disorders",
+   "leadIn": "For each patient below, choose the most appropriate next treatment from the list. Any option can be the answer for one patient, several patients or none.",
+   "options": [
+    "3% hypertonic saline bolus",
+    "0.9% saline infusion",
+    "Fluid restriction to 600–1000 mL per day",
+    "Oral urea",
+    "Desmopressin",
+    "Intravenous 5% dextrose given slowly",
+    "Thiazide diuretic with a low-salt diet",
+    "Strict fluid restriction with cautious diuretic",
+    "Loop diuretic with 5% dextrose",
+    "No treatment of the sodium; repeat with measured osmolality"
+   ],
+   "items": [
+    {
+     "stem": "A 31-year-old woman collapses after a marathon, having drunk large volumes of water throughout. She has a seizure in the emergency department. Na is 117 mmol/L.",
+     "answer": 0,
+     "explanation": "Acute water intoxication (hours old) with **seizures** means cerebral oedema. Give **3% saline**, e.g. a 150 mL bolus over 20 min, repeated as needed. Rapid correction is safe because the brain has not adapted.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s3"
+     }
+    },
+    {
+     "stem": "A 68-year-old man has newly diagnosed small cell lung cancer. He is euvolaemic and asymptomatic, with Na 127 mmol/L that has fallen slowly over weeks. Investigations confirm SIADH.",
+     "answer": 2,
+     "explanation": "This is chronic, asymptomatic euvolaemic hyponatraemia from SIADH. First-line treatment is **fluid restriction (600–1000 mL/day)** plus treating the cause. Avoid rapid correction.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s3"
+     }
+    },
+    {
+     "stem": "Six weeks later the same man's Na is still 124 mmol/L despite strict fluid restriction. The team wants an oral treatment that gives his kidneys extra solute to excrete water, avoiding the overcorrection risk of vasopressin antagonists.",
+     "answer": 3,
+     "explanation": "For persistent SIADH Davidson lists **oral urea 30–45 g/day**, which provides a solute load that carries water out. Tolvaptan is the alternative but can overcorrect.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s3"
+     }
+    },
+    {
+     "stem": "A 55-year-old man who has taken lithium for years has polyuria and Na 148 mmol/L. His urine stayed dilute after desmopressin. Lithium cannot be stopped.",
+     "answer": 6,
+     "explanation": "Two steps: no response to desmopressin means **nephrogenic DI**, so desmopressin is pointless. Nephrogenic DI is managed with a **low-salt diet and a thiazide**, plus adequate fluids.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 380,
+     "page": 358
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 755,
+     "page": 755
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 205,
+     "page": 186
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 204,
+     "page": 185
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q16",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Causes of hyperkalaemia",
+   "leadIn": "For each patient below, choose the most likely cause of the raised potassium from the list. Any option can be the answer for one patient, several patients or none.",
+   "options": [
+    "Haemolysed sample",
+    "Thrombocytosis",
+    "Acute kidney injury from obstruction",
+    "ACE inhibitor combined with spironolactone",
+    "Trimethoprim",
+    "Addison's disease",
+    "Type 4 renal tubular acidosis",
+    "Rhabdomyolysis",
+    "Tumour lysis syndrome",
+    "Diabetic ketoacidosis",
+    "Suxamethonium",
+    "Heparin"
+   ],
+   "items": [
+    {
+     "stem": "A 79-year-old man with heart failure takes ramipril. Spironolactone was added 2 weeks ago. He is weak, K is 6.8 mmol/L and creatinine is slightly above his baseline.",
+     "answer": 3,
+     "explanation": "An ACE inhibitor (less aldosterone) plus a mineralocorticoid antagonist (blocks aldosterone action), in an older patient with borderline renal function, is a classic dangerous combination for hyperkalaemia.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s6"
+     }
+    },
+    {
+     "stem": "A 71-year-old woman is found on her kitchen floor after an estimated 2 days. Her urine is dark brown, CK is 85 000 U/L and K is 6.9 mmol/L.",
+     "answer": 7,
+     "explanation": "A long lie, a very high CK and dark urine mean **rhabdomyolysis**. Muscle breakdown releases K, the most immediately dangerous product, often with AKI on top.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s6"
+     }
+    },
+    {
+     "stem": "A 62-year-old man with long-standing type 2 diabetes and mild CKD has a persistent K of 5.9 mmol/L, a normal anion gap metabolic acidosis with high chloride, and low renin and aldosterone. He takes no ACE inhibitor.",
+     "answer": 6,
+     "explanation": "Two steps: hyperkalaemia plus **hyperchloraemic metabolic acidosis** is the pattern of hyperkalaemic distal (**type 4**) RTA. Diabetes with **low renin and aldosterone** (hyporeninaemic hypoaldosteronism) is its typical cause.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s6"
+     }
+    },
+    {
+     "stem": "A 24-year-old man starts chemotherapy for a bulky high-grade lymphoma. Forty-eight hours later his K is 6.6 mmol/L and his urine output is falling.",
+     "answer": 8,
+     "explanation": "Rapid destruction of a large, chemosensitive tumour soon after chemotherapy releases intracellular K: **tumour lysis syndrome**.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 384,
+     "page": 362
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 385,
+     "page": 363
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 208,
+     "page": 189
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 270,
+     "page": 270
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 272,
+     "page": 272
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q17",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Causes of hypernatraemia",
+   "leadIn": "For each patient below, choose the most likely cause of hypernatraemia from the list. Any option can be the answer for one patient, several patients or none.",
+   "options": [
+    "Cranial diabetes insipidus",
+    "Nephrogenic diabetes insipidus",
+    "Primary polydipsia",
+    "Osmotic diuresis from glycosuria",
+    "Inadequate water intake",
+    "Excess sodium administration",
+    "Excessive sweating",
+    "Colonic diarrhoea",
+    "Conn's syndrome",
+    "Loop diuretic with water restriction"
+   ],
+   "items": [
+    {
+     "stem": "Two days after transsphenoidal pituitary surgery, a 45-year-old woman passes 6 L of urine a day. Na 150 mmol/L, urine osmolality 110 mOsmol/kg. After desmopressin, urine osmolality rises to 610 mOsmol/kg.",
+     "answer": 0,
+     "explanation": "Dilute urine despite hypernatraemia means DI. A clear **rise after desmopressin** shows the kidney responds when ADH is supplied, so ADH production has failed: **cranial DI** after pituitary surgery.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s4"
+     }
+    },
+    {
+     "stem": "A 73-year-old man with type 2 diabetes is drowsy after a week of polyuria. Glucose 46 mmol/L, Na 156 mmol/L, ketones negative, urine osmolality high.",
+     "answer": 3,
+     "explanation": "This is the hyperglycaemic hyperosmolar state: **glycosuria** drives an osmotic diuresis that loses more water than sodium. The urine is concentrated, not dilute, which excludes DI.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s4"
+     }
+    },
+    {
+     "stem": "After a prolonged cardiac arrest, a 58-year-old man on ICU received repeated doses of IV sodium bicarbonate. He is now oedematous with Na 154 mmol/L.",
+     "answer": 5,
+     "explanation": "**Hypervolaemic** hypernatraemia (oedema) after **sodium bicarbonate** means sodium was gained, not water lost: iatrogenic excess sodium administration.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s4"
+     }
+    },
+    {
+     "stem": "A 61-year-old man with myeloma has corrected calcium 3.3 mmol/L, polyuria and Na 149 mmol/L. Urine osmolality is 190 mOsmol/kg and does not change after desmopressin.",
+     "answer": 1,
+     "explanation": "Two steps: dilute urine that **does not respond to desmopressin** means nephrogenic DI. **Hypercalcaemia** is a recognised cause, here from myeloma.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 381,
+     "page": 359
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 205,
+     "page": 186
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 753,
+     "page": 753
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 377,
+     "page": 340
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q18",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A 70 kg man is nil by mouth for 24 hours after bowel surgery. He has no ongoing losses and normal electrolytes.",
+   "leadIn": "Which 24-hour IV prescription best meets his basic maintenance needs?",
+   "options": [
+    "2.5 L water, 120 mmol sodium, 80 mmol potassium",
+    "1 L water, 40 mmol sodium, 20 mmol potassium",
+    "5 L water, 300 mmol sodium, 200 mmol potassium",
+    "2.5 L water, no sodium, no potassium",
+    "3 L water, 460 mmol sodium, no potassium"
+   ],
+   "answer": 0,
+   "explanation": "Davidson's maintenance: water **35–45 mL/kg** (≈ 2.45–3.15 L), Na **1.5–2 mmol/kg** (≈ 105–140 mmol), K **1–1.5 mmol/kg** (≈ 70–105 mmol). Only option A fits all three.",
+   "whyNot": [
+    "",
+    "Far too little water and electrolytes for a 70 kg adult.",
+    "About double every requirement; risks overload and hyperkalaemia.",
+    "Pure 5% dextrose gives no Na or K and risks hyponatraemia and hypokalaemia.",
+    "3 L of 0.9% saline gives about 460 mmol Na (over three times the need) and no potassium."
+   ],
+   "studyRef": {
+    "sectionId": "neph-fluid-electrolytes.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 375,
+     "page": 353
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q19",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "An 88-year-old woman from a care home has been drinking poorly for about 2 weeks. She is drowsy but haemodynamically stable. Na is 158 mmol/L.",
+   "leadIn": "Which approach to correcting her sodium is most appropriate?",
+   "options": [
+    "Hypotonic fluid (5% dextrose or 0.45% saline), lowering Na gradually over about 48 hours",
+    "5% dextrose at 1 L/hour to normalise Na within 12 hours",
+    "3% hypertonic saline",
+    "Desmopressin",
+    "IV furosemide"
+   ],
+   "answer": 0,
+   "explanation": "This is probably **chronic** hypernatraemia from poor intake, so brain cells have adapted. Replace water with **5% dextrose or 0.45% saline** and lower Na **slowly** (over about 48 h). Davidson stresses extreme caution in older institutionalised patients.",
+   "whyNot": [
+    "",
+    "Rapid lowering of chronic hypernatraemia causes cerebral oedema.",
+    "Hypertonic saline would raise Na further.",
+    "Desmopressin treats cranial DI; there is no evidence of DI here.",
+    "A loop diuretic would worsen water loss in a dehydrated patient."
+   ],
+   "studyRef": {
+    "sectionId": "neph-fluid-electrolytes.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 382,
+     "page": 360
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 206,
+     "page": 187
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q20",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 3,
+   "theme": "Electrolyte disturbances and their complications",
+   "leadIn": "For each patient below, choose the most likely disturbance or complication from the list. Any option can be the answer for one patient, several patients or none.",
+   "options": [
+    "Acute hyponatraemia",
+    "Chronic hyponatraemia",
+    "Hypernatraemia",
+    "Hypokalaemia",
+    "Hyperkalaemia",
+    "Pseudohyperkalaemia",
+    "Pseudohyponatraemia",
+    "Osmotic demyelination syndrome",
+    "Cerebral oedema from over-rapid lowering of sodium",
+    "Hypomagnesaemia preventing potassium correction"
+   ],
+   "items": [
+    {
+     "stem": "A 76-year-old man takes digoxin and furosemide. He develops new frequent ventricular ectopics. His ECG shows prominent U waves and ST depression.",
+     "answer": 3,
+     "explanation": "**U waves with ST depression** are the ECG signs of low K. A loop diuretic causes it, and hypokalaemia makes digoxin more arrhythmogenic.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s5"
+     }
+    },
+    {
+     "stem": "An 82-year-old woman admitted with Na 166 mmol/L after days of poor intake is given 5% dextrose fast. Her Na is 146 mmol/L 10 hours later, and she becomes more drowsy and then has a seizure.",
+     "answer": 8,
+     "explanation": "Two steps: long-standing hypernatraemia means the brain has adapted, and a **20 mmol/L fall in 10 h** is far too fast. Water rushes into the brain cells, causing **cerebral oedema**.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s4"
+     }
+    },
+    {
+     "stem": "A 50-year-old man with alcohol dependence and chronic diarrhoea has K 2.9 mmol/L. It barely rises despite 3 days of adequate oral and IV KCl.",
+     "answer": 9,
+     "explanation": "**Refractory hypokalaemia** with alcohol excess and diarrhoea suggests **low magnesium**, which keeps renal K secretion going. Replace Mg and the K will correct.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 383,
+     "page": 361
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 384,
+     "page": 362
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 765,
+     "page": 765
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 208,
+     "page": 189
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 206,
+     "page": 187
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 369,
+     "page": 347
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q21",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 66-year-old woman on haemodialysis misses a session and arrives with K 7.0 mmol/L and peaked T waves. Calcium gluconate has been given and the ECG has improved.",
+   "leadIn": "Which treatment works mainly by moving potassium into cells?",
+   "options": [
+    "Insulin with 50% glucose",
+    "Calcium gluconate",
+    "Sodium polystyrene sulfonate",
+    "Intravenous furosemide",
+    "Haemodialysis"
+   ],
+   "answer": 0,
+   "explanation": "**Insulin** drives K into cells via Na,K-ATPase; glucose prevents hypoglycaemia. It lowers K by about 1 mmol/L within an hour. Davidson uses 5 IU Actrapid, while Kumar and Kumar & Clark's Essentials use 10 units. β2-agonists and bicarbonate (if acidotic) also shift K.",
+   "whyNot": [
+    "",
+    "Calcium stabilises the myocardium but does not change the K level.",
+    "Resins remove K from the body via the gut, slowly.",
+    "Furosemide removes K in the urine (and she is dialysis-dependent).",
+    "Dialysis removes K from the body; it is definitive but not a shift."
+   ],
+   "studyRef": {
+    "sectionId": "neph-fluid-electrolytes.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 385,
+     "page": 363
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 209,
+     "page": 190
+    }
+   ]
+  },
+  {
+   "id": "neph-fluid-electrolytes.q22",
+   "kind": "emq",
+   "pool": "mock",
+   "difficulty": 2,
+   "theme": "Next investigation in electrolyte disorders",
+   "leadIn": "For each patient below, choose the most useful next investigation from the list. Any option can be the answer for one patient, several patients or none.",
+   "options": [
+    "Urine osmolality",
+    "Spot urine sodium",
+    "Urine chloride",
+    "24-hour urine potassium",
+    "Plasma renin and aldosterone",
+    "Short Synacthen test",
+    "Thyroid function tests",
+    "Desmopressin response",
+    "Serum magnesium",
+    "Measured plasma osmolality",
+    "Chest X-ray",
+    "12-lead ECG",
+    "Urine diuretic screen"
+   ],
+   "items": [
+    {
+     "stem": "A 69-year-old smoker has euvolaemic hyponatraemia (Na 123 mmol/L) with concentrated urine and urine Na 60 mmol/L. Thyroid function and a short Synacthen test are normal and he takes no diuretics.",
+     "answer": 10,
+     "explanation": "The SIADH criteria are met once thyroid and adrenal causes are excluded. The next step is to find the cause; in a smoker, a **chest X-ray** looks for lung cancer or pneumonia.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s2"
+     }
+    },
+    {
+     "stem": "A 72-year-old man with CKD stage 4 has a routine potassium of 6.4 mmol/L reported by phone. He feels well.",
+     "answer": 11,
+     "explanation": "Every patient with K above 6 mmol/L needs an **ECG** straight away; ECG changes make treatment urgent.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s6"
+     }
+    },
+    {
+     "stem": "A 23-year-old normotensive woman has K 2.8 mmol/L and bicarbonate 33 mmol/L. Urine chloride is 68 mmol/L. She denies taking any medicines, and the team must separate a hidden drug from an inherited tubulopathy.",
+     "answer": 12,
+     "explanation": "Two steps: high urine chloride in hypokalaemic alkalosis means **diuretics or Bartter's/Gitelman's**. The way to tell covert diuretic use from a primary tubular disorder is a **urine diuretic screen**.",
+     "studyRef": {
+      "sectionId": "neph-fluid-electrolytes.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "pdfPage": 66,
+     "page": 66
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 274,
+     "page": 274
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 384,
+     "page": 362
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 379,
+     "page": 357
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "neph-fluid-electrolytes.o1",
+   "sectionId": "neph-fluid-electrolytes.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 369,
+    "page": 347,
+    "figure": "ECG insets, clinical exam p. 347"
+   },
+   "identify": "Two ECG insets: **peaked T wave** = hyperkalaemia; **U wave with ST depression** = hypokalaemia."
+  },
+  {
+   "id": "neph-fluid-electrolytes.o2",
+   "sectionId": "neph-fluid-electrolytes.s6",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 209,
+    "page": 190,
+    "figure": "Fig. 9.12"
+   },
+   "identify": "Progressive hyperkalaemia: tented T waves → reduced P waves with a widened QRS → sine-wave pattern before cardiac arrest."
+  },
+  {
+   "id": "neph-fluid-electrolytes.o3",
+   "sectionId": "neph-fluid-electrolytes.s6",
+   "cite": {
+    "book": "kcEssentials",
+    "pdfPage": 381,
+    "page": 344,
+    "figure": "Fig. 8.3A-D"
+   },
+   "identify": "Panel D **sine-wave** pattern = pre-arrest hyperkalaemia; panel B tented T wave is the earliest change."
+  },
+  {
+   "id": "neph-fluid-electrolytes.o4",
+   "sectionId": "neph-fluid-electrolytes.s3",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 380,
+    "page": 358,
+    "figure": "Fig. 14.7"
+   },
+   "identify": "Brain cells in hyponatraemia: abrupt osmolality fall → **swollen cells (cerebral oedema)**; gradual fall → osmolytes lost and **normal cell size**, which is why rapid correction of chronic hyponatraemia is dangerous."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:07:35.554Z",
+  "contentHash": "e75de8a182136143ea5221281327a4ec8c7f8c571cc724a6f822f57e6d062aa6"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:07:35.566Z",
+  "contentHash": "e75de8a182136143ea5221281327a4ec8c7f8c571cc724a6f822f57e6d062aa6",
+  "checkerVersion": "source-check-v1"
+ }
+}

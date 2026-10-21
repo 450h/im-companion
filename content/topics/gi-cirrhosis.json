@@ -1,0 +1,4279 @@
+{
+ "topicId": "gi-cirrhosis",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "gi-cirrhosis.s1",
+   "title": "Definition, pathology & causes",
+   "objectiveIdx": [
+    0,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Cirrhosis is **diffuse fibrosis of the whole liver with regenerative nodules**. It is a **histological** diagnosis, and it is the **commonest cause of portal hypertension**. Clinically, hepatocyte loss followed by scarring and nodules wrecks the normal architecture, so liver cell function fails and portal pressure rises.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 888,
+       "page": 866
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 202,
+       "page": 165
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "How fibrosis develops",
+     "items": [
+      "Liver injury → Kupffer cells and hepatocytes release cytokines",
+      "These activate **stellate cells in the space of Disse**, which turn into myofibroblast-like cells and lay down collagen",
+      "Removing the cause early (e.g. curing viral hepatitis) can clear fibrosis completely; established cirrhosis can only **regress**, not fully reverse"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 888,
+       "page": 866
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1303,
+       "page": 1289
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Histological patterns",
+     "columns": [
+      "Pattern",
+      "Nodules",
+      "Typical cause"
+     ],
+     "rows": [
+      [
+       "Micronodular",
+       "Small and uniform, about 1 mm across (Davidson)",
+       "Alcohol (also biliary disease)"
+      ],
+      [
+       "Macronodular",
+       "Larger, of varying size, with broad scars where the architecture collapsed",
+       "Chronic viral hepatitis"
+      ],
+      [
+       "Mixed",
+       "Small and large nodules together",
+       "Seen occasionally; no single typical cause"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 888,
+       "page": 866
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1303,
+       "page": 1289
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 203,
+       "page": 166
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Compensated vs decompensated.** Davidson uses \"decompensated\" (chronic liver failure) when the liver's metabolic reserve is exhausted, shown by **encephalopathy and/or ascites**. Quick-reference texts also count **variceal bleeding** as decompensation.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 889,
+       "page": 867
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 203,
+       "page": 166
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Causes of cirrhosis",
+     "columns": [
+      "Group",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Commonest (worldwide)",
+       "Chronic hepatitis B or C, prolonged heavy alcohol use, NAFLD"
+      ],
+      [
+       "Autoimmune / biliary",
+       "Autoimmune hepatitis, primary biliary cholangitis, primary sclerosing cholangitis, secondary biliary cirrhosis"
+      ],
+      [
+       "Inherited / metabolic",
+       "Haemochromatosis, Wilson's disease, α1-antitrypsin deficiency, cystic fibrosis"
+      ],
+      [
+       "Vascular (outflow)",
+       "Budd–Chiari, right heart failure, constrictive pericarditis, sinusoidal obstruction syndrome"
+      ],
+      [
+       "Drugs",
+       "e.g. methotrexate, amiodarone, sodium valproate"
+      ],
+      [
+       "Cryptogenic",
+       "About 15%; much of this is now thought to be burnt-out NAFLD"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 888,
+       "page": 866
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 247,
+       "page": 247
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Gastroenterology",
+       "pdfPage": 75,
+       "page": 75
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Viral hepatitis is the leading cause worldwide**; in the West alcohol currently leads but NAFLD is expected to overtake it. Every patient with cirrhosis needs a search for a **treatable** cause.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1303,
+       "page": 1289
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 203,
+       "page": 166
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Chronic liver disease screen",
+     "columns": [
+      "Test",
+      "Looks for"
+     ],
+     "rows": [
+      [
+       "HBsAg; HCV antibody",
+       "Chronic hepatitis B; hepatitis C"
+      ],
+      [
+       "ANA, smooth muscle antibody, immunoglobulins",
+       "Autoimmune hepatitis"
+      ],
+      [
+       "Antimitochondrial antibody",
+       "Primary biliary cholangitis"
+      ],
+      [
+       "Ferritin and transferrin saturation",
+       "Hereditary haemochromatosis"
+      ],
+      [
+       "Caeruloplasmin (and serum copper)",
+       "Wilson's disease"
+      ],
+      [
+       "α1-antitrypsin level",
+       "α1-antitrypsin deficiency"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 875,
+       "page": 853
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Gastroenterology",
+       "pdfPage": 80,
+       "page": 80
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1303,
+       "page": 1289
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In a **young** patient with cirrhosis always check **copper/caeruloplasmin and α1-antitrypsin**, plus iron studies for haemochromatosis.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1303,
+       "page": 1289
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Nodule size cut-off differs: **Davidson says micronodules are about 1 mm**, whereas Kumar & Clark use **< 3 mm**. Quote Davidson in the exam and recognise the other figure.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 888,
+       "page": 866
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1303,
+       "page": 1289
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Hepatology",
+      "pdfPage": 888,
+      "page": 866,
+      "figure": "Fig. 22.18"
+     },
+     "note": "Compare: normal lobule → bridging fibrosis joining portal tracts and hepatic veins → cirrhosis with regenerative nodules ringed by fibrous bands."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Liver disease",
+      "pdfPage": 1304,
+      "page": 1290,
+      "figure": "Fig. 34.22"
+     },
+     "note": "Cirrhosis histology with nodules surrounded by fibrosis (collagen stain), and CT showing an irregular liver outline, varices and ascites."
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.s2",
+   "title": "Clinical features, investigations & prognosis",
+   "objectiveIdx": [
+    2,
+    9
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Presentation ranges from an **incidental finding** in a well patient to vague symptoms: fatigue, weakness, muscle cramps, weight loss, anorexia, nausea and upper abdominal discomfort. The liver is **enlarged early** (especially alcohol and haemochromatosis) and **shrinks** as disease advances (especially viral and autoimmune); it feels **hard, irregular and non-tender**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 888,
+       "page": 866
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Signs of chronic liver disease",
+     "columns": [
+      "Region",
+      "Signs"
+     ],
+     "rows": [
+      [
+       "Hands",
+       "Palmar erythema, clubbing, leuconychia, asterixis (flap), Dupuytren's contracture"
+      ],
+      [
+       "Skin",
+       "Jaundice, spider telangiectasia, bruising/purpura, pigmentation, scratch marks"
+      ],
+      [
+       "Face",
+       "Parotid swelling, xanthelasma, Kayser–Fleischer rings (Wilson's)"
+      ],
+      [
+       "Endocrine – men",
+       "Gynaecomastia, testicular atrophy, impotence, loss of male hair pattern"
+      ],
+      [
+       "Endocrine – women",
+       "Breast atrophy, irregular menses or amenorrhoea"
+      ],
+      [
+       "Abdomen",
+       "Large or small liver, splenomegaly, ascites, dilated abdominal veins / caput medusae"
+      ],
+      [
+       "Other",
+       "Peripheral oedema, central cyanosis (late), encephalopathy"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 889,
+       "page": 867
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1277,
+       "page": 1263
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 247,
+       "page": 247
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Spider telangiectasia**: a central arteriole with radiating vessels, 1–2 mm across, usually above the nipples. One or two are seen in about **2% of healthy people** and in pregnancy; otherwise they point strongly to liver disease.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 889,
+       "page": 867
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Florid spiders, gynaecomastia and parotid enlargement suggest **alcohol** as the cause. Gynaecomastia may simply be due to **spironolactone**. The link with Dupuytren's contracture rests on weak evidence. Many cirrhotic patients have **few signs**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 889,
+       "page": 867
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1277,
+       "page": 1263
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Blood tests",
+     "items": [
+      "**Albumin and prothrombin time** are the best guides to synthetic function; aminotransferases may be normal in compensated cirrhosis",
+      "Low sodium marks severe disease (fluid retention)",
+      "**Thrombocytopenia** from hypersplenism is common, usually around 100 × 10⁹/L",
+      "AST tends to exceed ALT in late disease",
+      "INR correlates poorly with actual bleeding risk"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1303,
+       "page": 1289
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Gastroenterology",
+       "pdfPage": 75,
+       "page": 75
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 248,
+       "page": 248
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 891,
+       "page": 869
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A prolonged PT caused by **liver damage is not corrected by vitamin K**. Vitamin K does correct it when the cause is malabsorption of the vitamin, e.g. biliary obstruction.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 875,
+       "page": 853
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Imaging, fibrosis tests & biopsy",
+     "items": [
+      "Ultrasound: nodular surface, splenomegaly, ascites, wide portal vein with sluggish flow",
+      "Non-invasive fibrosis tests (ELF, Fibrotest, FIB-4, Fibroscan elastography) have a **high negative but low positive predictive value**; Fibroscan is less reliable in obesity",
+      "ELF score: < 7.7 none–mild fibrosis; ≥ 9.8 severe fibrosis",
+      "Liver biopsy remains the gold standard, though samples may fragment in macronodular cirrhosis",
+      "Percutaneous biopsy needs **PT < 4 s prolonged and platelets > 80 × 10⁹/L**; otherwise use the **transjugular** route"
+     ],
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "chapter": "Gastroenterology",
+       "pdfPage": 76,
+       "page": 76
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 877,
+       "page": 855
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1303,
+       "page": 1289
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1304,
+       "page": 1290
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Child–Pugh score (Davidson Box 22.29)",
+     "columns": [
+      "Variable",
+      "1 point",
+      "2 points",
+      "3 points"
+     ],
+     "rows": [
+      [
+       "Encephalopathy",
+       "None",
+       "Mild",
+       "Marked"
+      ],
+      [
+       "Bilirubin (µmol/L, non-biliary causes)",
+       "< 34",
+       "34–50",
+       "> 50"
+      ],
+      [
+       "Albumin (g/L)",
+       "> 35",
+       "28–35",
+       "< 28"
+      ],
+      [
+       "PT (seconds prolonged)",
+       "< 4",
+       "4–6",
+       "> 6"
+      ],
+      [
+       "Ascites",
+       "None",
+       "Mild",
+       "Marked"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 889,
+       "page": 867
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Grading and prognosis",
+     "items": [
+      "Child–Pugh total: **< 7 = A, 7–9 = B, > 9 = C**; 1-year survival roughly 100%, 80% and 45%",
+      "**MELD** adds **renal function (creatinine)**, which Child–Pugh lacks; it also uses bilirubin, INR and sodium",
+      "Bad signs: rising bilirubin, albumin < 30 g/L, sodium < 120 mmol/L (not diuretic-related), prolonged PT",
+      "Overall only **25% survive 5 years** from diagnosis (50% if liver function is good)"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 889,
+       "page": 867
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 248,
+       "page": 248
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Gastroenterology",
+       "pdfPage": 76,
+       "page": 76
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Quoted 5-year survival differs: Davidson gives **25% overall** (50% with good function); some quick sources say about 50%. Use Davidson's figure.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 889,
+       "page": 867
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Gastroenterology",
+       "pdfPage": 77,
+       "page": 77
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Hepatology",
+      "pdfPage": 876,
+      "page": 854,
+      "figure": "Fig. 22.9"
+     },
+     "note": "CT of cirrhosis: small irregular liver, splenomegaly, ascites around the liver and collateral vessels near the upper stomach."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kcEssentials",
+      "chapter": "Liver, biliary tract and pancreatic disease",
+      "pdfPage": 183,
+      "page": 146,
+      "figure": "Fig. 4.1"
+     },
+     "note": "Body diagram of chronic liver disease signs, split into compensated and decompensated features."
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.s3",
+   "title": "Portal hypertension & variceal bleeding",
+   "objectiveIdx": [
+    7
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Portal pressure is estimated by the **hepatic venous pressure gradient** (wedged minus free hepatic venous pressure). Normal is **5–6 mmHg**; portal hypertension is clinically significant **above 10 mmHg**, and variceal bleeding becomes likely **above 12 mmHg**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 890,
+       "page": 868
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Causes by site of obstruction",
+     "columns": [
+      "Site",
+      "Example",
+      "Note"
+     ],
+     "rows": [
+      [
+       "Pre-hepatic",
+       "Portal vein thrombosis",
+       "Typical cause in children"
+      ],
+      [
+       "Intrahepatic pre-sinusoidal",
+       "Schistosomiasis",
+       "Commonest cause worldwide"
+      ],
+      [
+       "Sinusoidal",
+       "Cirrhosis",
+       "≥ 90% of adult cases in developed countries"
+      ],
+      [
+       "Post-hepatic",
+       "Budd–Chiari, constrictive pericarditis",
+       "Hepatic outflow block"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 890,
+       "page": 868
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 204,
+       "page": 167
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Clinical features",
+     "items": [
+      "**Splenomegaly** is the cardinal sign; portal hypertension is unlikely without it",
+      "Collaterals form at portosystemic junctions: lower oesophagus/gastric fundus, rectum, and around the umbilicus (**caput medusae**)",
+      "A venous hum over the umbilical collaterals = Cruveilhier–Baumgarten syndrome",
+      "Rectal varices are easily mistaken for haemorrhoids",
+      "Hypersplenism: platelets usually about 100 × 10⁹/L; < 50 is unusual. Anaemia should prompt a search for bleeding"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 890,
+       "page": 868
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 891,
+       "page": 869
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Gastroenterology",
+       "pdfPage": 77,
+       "page": 77
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Natural history and screening",
+     "items": [
+      "About 90% of cirrhotic patients develop varices within 10 years, but only a third bleed",
+      "2-year bleeding risk: **7% for small, up to 30% for large varices**",
+      "Mortality after a bleed is about **15% overall but about 45% in Child–Pugh C**",
+      "Screening **endoscopy at diagnosis of cirrhosis, repeated every 2 years**"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1307,
+       "page": 1293
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 891,
+       "page": 869
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Primary prevention (varices that have never bled)",
+     "items": [
+      "**Propranolol 80–160 mg/day** or nadolol, aiming to cut the resting heart rate by **25%**",
+      "Carvedilol 6.25–12.5 mg/day is an alternative and may be better tolerated",
+      "Propranolol reduces variceal bleeding by about 47%",
+      "**Band ligation** if β-blockers are not tolerated"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 891,
+       "page": 869
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Acute variceal bleed (Davidson Box 22.32)",
+     "columns": [
+      "Measure",
+      "Purpose"
+     ],
+     "rows": [
+      [
+       "IV fluids / blood (target Hb about 80 g/L, avoid over-transfusion)",
+       "Restore circulation without raising portal pressure"
+      ],
+      [
+       "**Terlipressin**",
+       "Lowers portal pressure, controls bleeding, reduces mortality"
+      ],
+      [
+       "Prophylactic IV antibiotic (e.g. cephalosporin)",
+       "Sepsis and SBP are common; antibiotics improve survival"
+      ],
+      [
+       "Emergency endoscopy",
+       "About 20% are bleeding from a non-variceal lesion"
+      ],
+      [
+       "**Band ligation**",
+       "Stops bleeding in about 80%"
+      ],
+      [
+       "Proton pump inhibitor",
+       "Protects against peptic ulceration"
+      ],
+      [
+       "Lactulose and/or phosphate enema",
+       "Prevents hepatic encephalopathy"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 891,
+       "page": 869
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 892,
+       "page": 870
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1307,
+       "page": 1293
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Drug doses and rescue options",
+     "items": [
+      "Terlipressin **2 mg IV four times daily** until bleeding stops, then 1 mg four times daily for up to 72 h; use with caution in severe ischaemic heart or peripheral vascular disease. Where terlipressin is not available, octreotide is the usual alternative",
+      "**Gastric fundal varices**: cyanoacrylate glue or thrombin injection (risk of glue embolism to the lungs)",
+      "**Sengstaken–Blakemore tube**: secure the airway first; gastric balloon 200–250 mL air; oesophageal balloon ≤ 40 mmHg, deflated for 10 min every 3 h; only a bridge",
+      "**TIPSS**: a stent between portal and hepatic veins placed via the jugular vein; less rebleeding than endoscopy but **no survival gain** and may cause encephalopathy",
+      "Pre-emptive TIPSS within 72 h benefits high-risk patients, mainly Child–Pugh C"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 892,
+       "page": 870
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 893,
+       "page": 871
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1309,
+       "page": 1295
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Secondary prevention",
+     "items": [
+      "Without it, **60–80% rebleed within 2 years**",
+      "Combine a non-selective β-blocker with **repeated banding every 2–4 weeks** until the varices are obliterated"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1309,
+       "page": 1295
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 892,
+       "page": 870
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 207,
+       "page": 170
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Portal hypertensive (\"snakeskin\") gastropathy**: multiple areas of punctate erythema in a congested stomach that causes chronic iron-deficiency anaemia. First-line treatment is propranolol; TIPSS if that fails.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 893,
+       "page": 871
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Always endoscope a cirrhotic who bleeds: about **1 in 5 is bleeding from something other than varices**, such as a peptic ulcer.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 891,
+       "page": 869
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "First-line vasoactive drug differs between texts: UK sources (Davidson) use **terlipressin**, whereas US texts favour **octreotide**. Davidson keeps octreotide as the alternative.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 892,
+       "page": 870
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Gastroenterology",
+       "pdfPage": 305,
+       "page": 305
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Hepatology",
+      "pdfPage": 890,
+      "page": 868,
+      "figure": "Fig. 22.20"
+     },
+     "note": "Diagram of portal hypertension by site: pre-hepatic, pre-sinusoidal, sinusoidal and post-hepatic."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Hepatology",
+      "pdfPage": 887,
+      "page": 865,
+      "figure": "Fig. 22.17"
+     },
+     "note": "Endoscopy: oesophageal varices, gastric varices, and oesophageal varices after banding."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Hepatology",
+      "pdfPage": 892,
+      "page": 870,
+      "figure": "Fig. 22.21"
+     },
+     "note": "Algorithm for acute variceal bleeding: drugs and antibiotics → endoscopy and banding → balloon tamponade or TIPSS if haemostasis fails."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Hepatology",
+      "pdfPage": 892,
+      "page": 870,
+      "figure": "Fig. 22.22"
+     },
+     "note": "Sengstaken–Blakemore tube: identify the gastric and oesophageal balloons and the aspiration ports."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Hepatology",
+      "pdfPage": 893,
+      "page": 871,
+      "figure": "Fig. 22.23"
+     },
+     "note": "Radiograph of a TIPSS stent running from the portal vein to the hepatic vein."
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.s4",
+   "title": "Ascites: differential diagnosis & treatment",
+   "objectiveIdx": [
+    10,
+    11
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Why cirrhotics get ascites:** splanchnic vasodilatation (mainly nitric oxide) leaves the arterial circulation underfilled → **renin–angiotensin–aldosterone, sympathetic and ADH activation** → renal salt and water retention. Portal hypertension and low albumin then push the fluid into the peritoneum.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 884,
+       "page": 862
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 260,
+       "page": 260
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Detecting ascites",
+     "items": [
+      "Clinically detectable from about **1 L**: flank fullness and **shifting dullness**; a fluid thrill when it is marked",
+      "Also: everted umbilicus, herniae, scrotal oedema, dilated abdominal veins (if portal hypertension)",
+      "**Ultrasound** is the best way to detect it and picks up very small volumes"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 884,
+       "page": 862
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 885,
+       "page": 863
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 261,
+       "page": 261
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Diagnostic tap – what each test tells you",
+     "items": [
+      "**SAAG** (serum albumin − ascitic albumin) **> 11 g/L** → portal hypertension (about 96% accurate)",
+      "Total protein < 25 g/L in cirrhosis; > 25 g/L with a high SAAG suggests cardiac failure or hepatic outflow block",
+      "Neutrophils > 250 × 10⁶/L → infection (SBP); send culture in blood-culture bottles",
+      "Amylase > 1000 U/L → pancreatic ascites; triglyceride > 1.1 g/L → chylous ascites",
+      "Low glucose → malignancy or TB; cytology for malignant cells",
+      "A **bloody tap** in a cirrhotic signals **HCC** in about a third"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 885,
+       "page": 863
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 886,
+       "page": 864
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 208,
+       "page": 171
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Causes of ascites by SAAG",
+     "columns": [
+      "Group",
+      "Causes"
+     ],
+     "rows": [
+      [
+       "High SAAG (> 11 g/L), protein < 25 g/L",
+       "Cirrhosis"
+      ],
+      [
+       "High SAAG, protein usually > 25 g/L (venous outflow block)",
+       "Cardiac failure, constrictive pericarditis, Budd–Chiari syndrome, sinusoidal obstruction syndrome"
+      ],
+      [
+       "Low SAAG (< 11 g/L)",
+       "Peritoneal or hepatic malignancy, tuberculous peritonitis, pancreatitis, lymphatic obstruction (chylous ascites); rarely hypothyroidism"
+      ],
+      [
+       "Hypoalbuminaemic states",
+       "Nephrotic syndrome, protein-losing enteropathy, malnutrition – placed differently by different books (see pitfall below)"
+      ],
+      [
+       "Special",
+       "Meigs' syndrome: benign ovarian tumour with a right pleural effusion, with or without ascites; resolves when the tumour is removed"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 884,
+       "page": 862
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 885,
+       "page": 863
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1310,
+       "page": 1296
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 261,
+       "page": 261
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 208,
+       "page": 171
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Where **nephrotic syndrome** and other low-albumin states sit differs: Kumar & Clark, K&C Essentials and Pocket Medicine put them in the **low-SAAG** group, whereas Davidson's Box 22.21 puts hypoproteinaemia with the transudative (**high-SAAG**) causes. Do not use them as a deciding clue.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 884,
+       "page": 862
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1310,
+       "page": 1296
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 261,
+       "page": 261
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Stepwise treatment of cirrhotic ascites",
+     "columns": [
+      "Step",
+      "Detail"
+     ],
+     "rows": [
+      [
+       "Sodium restriction",
+       "About 100 mmol/day (no added salt); avoid NSAIDs and sodium-rich drugs (effervescent tablets, antacids)"
+      ],
+      [
+       "Water restriction",
+       "1.0–1.5 L/day **only if sodium < 125 mmol/L**"
+      ],
+      [
+       "Spironolactone",
+       "100–400 mg/day, first-line; switch to **amiloride 5–10 mg/day** for painful gynaecomastia or hyperkalaemia"
+      ],
+      [
+       "Add furosemide",
+       "If response is poor; watch electrolytes and renal function"
+      ],
+      [
+       "Rate of loss",
+       "Weight should fall by **no more than 1 kg/day**"
+      ],
+      [
+       "Refractory ascites",
+       "No response to spironolactone 400 mg + furosemide 160 mg, or cannot tolerate them"
+      ],
+      [
+       "Large-volume paracentesis",
+       "First-line for refractory ascites, with **albumin 6–8 g per litre removed** (about 100 mL of 20–25% HAS per 1.5–2 L)"
+      ],
+      [
+       "TIPSS",
+       "Alternative to repeated taps; does not prolong life and may worsen encephalopathy"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 885,
+       "page": 863
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 886,
+       "page": 864
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "When to stop diuretics (Kumar)",
+     "items": [
+      "Rising creatinine, hyperkalaemia, worsening encephalopathy, or sodium < 128 mmol/L",
+      "Circulatory dysfunction after paracentesis is likelier when > 5 L is removed"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1310,
+       "page": 1296
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Once cirrhotic ascites appears, only **10–20% survive 5 years**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 886,
+       "page": 864
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Thresholds differ: Davidson restricts water below **125 mmol/L** and gives **6–8 g albumin per litre**; Kumar uses **128 mmol/L** and **8 g/L**. Quote Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 885,
+       "page": 863
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 886,
+       "page": 864
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1310,
+       "page": 1296
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "About 10% have a **right-sided pleural effusion** (hepatic hydrothorax). Do not blame a **left-sided** effusion on the ascites – investigate it.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 885,
+       "page": 863
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Hepatology",
+      "pdfPage": 885,
+      "page": 863,
+      "figure": "Fig. 22.16"
+     },
+     "note": "Flow chart: splanchnic vasodilatation → underfilling → RAAS activation → salt and water retention, with portal hypertension and hypoalbuminaemia adding to it."
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.s5",
+   "title": "Spontaneous bacterial peritonitis & hepatorenal syndrome",
+   "objectiveIdx": [
+    5,
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**SBP** is infection of ascites with no obvious intra-abdominal source. It affects up to 18% of decompensated patients with ascites. Organisms are enteric and reach the fluid via the blood – **E. coli** most often, also Klebsiella and enterococci. Classic features are pain, rebound, absent bowel sounds and fever, but in about **one-third abdominal signs are mild or absent** and the picture is **encephalopathy plus fever**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 886,
+       "page": 864
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1311,
+       "page": 1297
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Diagnosing SBP",
+     "items": [
+      "Ascitic **neutrophils > 250 × 10⁶/L** (> 250/mm³) almost always means infection",
+      "Culture ascites in **blood-culture bottles** before antibiotics",
+      "In a bloody tap, subtract 1 neutrophil per 250 red cells",
+      "**Several organisms** on culture → suspect a perforated viscus (secondary peritonitis)",
+      "Tap any patient with ascites who deteriorates, even without pain or fever"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 886,
+       "page": 864
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1311,
+       "page": 1297
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 261,
+       "page": 261
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Treating and preventing SBP",
+     "items": [
+      "Start broad-spectrum antibiotics at once, e.g. **cefotaxime** or piperacillin/tazobactam",
+      "Give **IV albumin** with the antibiotics; it improves survival",
+      "Stop non-selective β-blockers after SBP (they raise the risk of renal failure)",
+      "Secondary prophylaxis: **norfloxacin 400 mg/day** if ascites persists",
+      "Primary prophylaxis if ascitic protein is low (< 10 g/L) or liver disease is severe; all cirrhotics with a GI bleed get antibiotics",
+      "A first SBP episode is an indication for **transplant assessment**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 886,
+       "page": 864
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1311,
+       "page": 1297
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 250,
+       "page": 250
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 922,
+       "page": 900
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "SBP carries a **50% one-year mortality** after the first episode, and about 70% recur within a year.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 886,
+       "page": 864
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1311,
+       "page": 1297
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Hepatorenal syndrome (HRS)** affects about **10% of advanced cirrhotics with ascites**. Arterial underfilling from vasodilatation causes intense **renal vasoconstriction**. It is **functional** renal failure: the tubules still concentrate urine and kidney histology is almost normal.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 886,
+       "page": 864
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1312,
+       "page": 1298
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 211,
+       "page": 174
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Two types of HRS",
+     "columns": [
+      "Feature",
+      "Type 1 (HRS-AKI)",
+      "Type 2 (HRS-CKD)"
+     ],
+     "rows": [
+      [
+       "Course",
+       "Progressive oliguria, rapidly rising creatinine",
+       "Moderate, stable rise in creatinine"
+      ],
+      [
+       "Setting",
+       "Advanced cirrhosis with ascites, often after a precipitant such as SBP",
+       "Refractory ascites"
+      ],
+      [
+       "Prognosis",
+       "Median survival < 1 month untreated",
+       "Better"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 886,
+       "page": 864
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 252,
+       "page": 252
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1312,
+       "page": 1298
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Diagnostic features",
+     "items": [
+      "Cirrhosis with ascites and acute kidney injury",
+      "**No proteinuria**; urine sodium **< 10 mmol/24 h**; urine:plasma osmolality > 1.5",
+      "No improvement after stopping diuretics and expanding volume with albumin",
+      "Exclude shock, nephrotoxins and intrinsic kidney disease first"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 886,
+       "page": 864
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 252,
+       "page": 252
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Precipitants",
+     "items": [
+      "Over-vigorous diuretics",
+      "NSAIDs (and aminoglycosides)",
+      "Diarrhoea or GI bleeding",
+      "Large-volume paracentesis",
+      "Infection, especially SBP"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1312,
+       "page": 1298
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 252,
+       "page": 252
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Treatment",
+     "items": [
+      "Stop diuretics and correct hypovolaemia, preferably with albumin",
+      "**IV albumin + terlipressin** (octreotide + midodrine, or noradrenaline, where terlipressin is not used) – works in about two-thirds",
+      "Routine haemodialysis does **not** improve outcome; at most a bridge",
+      "Survivors should be assessed for **liver transplantation**; TIPSS can also help"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 886,
+       "page": 864
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1312,
+       "page": 1298
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Response to vasoconstrictor + albumin: Davidson says about **two-thirds**, Kumar about **50%**. Use Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 886,
+       "page": 864
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1312,
+       "page": 1298
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "SBP can present as **confusion and fever alone**. A soft abdomen does not exclude it – tap the ascites.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 886,
+       "page": 864
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.s6",
+   "title": "Hepatic encephalopathy & other complications",
+   "objectiveIdx": [
+    6,
+    8
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Hepatic encephalopathy** is a neuropsychiatric syndrome of liver disease that runs from delirium to coma. The main driver is **ammonia from gut bacteria**, which escapes clearance because hepatocytes fail and portosystemic collaterals bypass the liver. Aromatic amino acids rise and branched-chain ones fall.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 887,
+       "page": 865
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1311,
+       "page": 1297
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Gastroenterology",
+       "pdfPage": 79,
+       "page": 79
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Clinical grade (Davidson Box 22.9)",
+     "columns": [
+      "Grade",
+      "Features"
+     ],
+     "rows": [
+      [
+       "1",
+       "Poor concentration, slurred speech, disturbed sleep"
+      ],
+      [
+       "2",
+       "Drowsy but rousable, lethargic"
+      ],
+      [
+       "3",
+       "Marked delirium; responds to voice or pain"
+      ],
+      [
+       "4",
+       "Unconscious, no response to voice"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 879,
+       "page": 857
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Signs",
+     "items": [
+      "**Asterixis** (flapping tremor) and **constructional apraxia** – cannot copy a five-pointed star",
+      "Fetor hepaticus, sleep reversal, slow trail-making test",
+      "Later: increased tone, hyper-reflexia, extensor plantars",
+      "**Focal neurological signs suggest another cause**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 887,
+       "page": 865
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 210,
+       "page": 173
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Precipitants",
+     "items": [
+      "Sedatives, opiates, antidepressants",
+      "Dehydration from diuretics or paracentesis; **hypokalaemia**",
+      "**Constipation**",
+      "Infection, including SBP",
+      "Raised protein load, including **GI bleeding**",
+      "Portosystemic shunts or TIPSS; development of HCC"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 887,
+       "page": 865
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 210,
+       "page": 173
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Differential diagnosis",
+     "items": [
+      "Subdural or extradural haematoma (alcoholics who fall)",
+      "Drug or alcohol intoxication, delirium tremens",
+      "Wernicke's encephalopathy",
+      "Hypoglycaemia",
+      "Neurological Wilson's disease",
+      "Post-ictal state, psychiatric illness"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 887,
+       "page": 865
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Diagnosis and treatment",
+     "items": [
+      "Diagnosis is **clinical**; EEG shows slowing of alpha waves progressing to delta waves",
+      "Treat the precipitant first",
+      "**Lactulose 15–30 mL three times daily**, titrated to **two soft motions a day**; it acidifies the colon and reduces ammonia absorption",
+      "**Rifaximin 400 mg three times daily** is added or substituted",
+      "Routine protein restriction is no longer advised (never beyond 48 h); avoid neomycin"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 887,
+       "page": 865
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1311,
+       "page": 1297
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Arterial ammonia** is usually high but can be raised without encephalopathy, so it adds little to diagnosis or monitoring.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 887,
+       "page": 865
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 251,
+       "page": 251
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Other complications of cirrhosis",
+     "columns": [
+      "Complication",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "Hepatopulmonary syndrome",
+       "Intrapulmonary vascular dilatation → PaO₂ < 9.3 kPa; desaturation on standing (orthodeoxia), clubbing; contrast echo shows late shunting; treated by transplant (higher risk if PaO₂ < 6.7 kPa)"
+      ],
+      [
+       "Portopulmonary hypertension",
+       "1–2%; raised pulmonary vascular resistance, normal wedge pressure; severe disease contraindicates transplant"
+      ],
+      [
+       "Portal vein thrombosis",
+       "Can trigger decompensation; check with Doppler ultrasound"
+      ],
+      [
+       "Hepatic hydrothorax",
+       "Usually right-sided; avoid a chest drain"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 920,
+       "page": 898
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 253,
+       "page": 253
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1312,
+       "page": 1298
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 250,
+       "page": 250
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Systemic effects of cirrhosis",
+     "columns": [
+      "Complication",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "Acute-on-chronic liver failure",
+       "Acute decompensation with organ failure; about 31% of cirrhosis admissions; high short-term mortality"
+      ],
+      [
+       "Malnutrition and osteoporosis",
+       "Muscle wasting from protein loss; regular meals with a high-protein, low-salt diet; DXA scan for osteoporosis"
+      ],
+      [
+       "HCC and infection",
+       "See HCC section; bacteraemia and SBP are common"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1305,
+       "page": 1291
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 205,
+       "page": 168
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 204,
+       "page": 167
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Gastroenterology",
+       "pdfPage": 77,
+       "page": 77
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Cirrhosis causes a **rebalanced** coagulopathy: a high INR does not mean the patient will bleed, so FFP and platelets are not given routinely.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 248,
+       "page": 248
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 253,
+       "page": 253
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.s7",
+   "title": "Hepatocellular carcinoma (hepatoma)",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "HCC is the **commonest primary liver cancer**; **75–90% arise in cirrhotic livers**. Chronic hepatitis B multiplies the risk about **100-fold**. Annual risk is about **0.4% without cirrhosis and 2–6% with cirrhosis**, and HBeAg-positive carriers have four times the risk of HBeAg-negative ones.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 912,
+       "page": 890
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other risk factors",
+     "items": [
+      "Hepatitis C (HCC arises only once cirrhosis is present)",
+      "Alcohol, NASH, haemochromatosis, diabetes",
+      "**Aflatoxin** (a fungal metabolite found in groundnuts)",
+      "Androgenic steroids"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1322,
+       "page": 1308
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 252,
+       "page": 252
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 221,
+       "page": 184
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Presentation",
+     "items": [
+      "A known cirrhotic suddenly **deteriorates**: worse ascites, jaundice or a variceal bleed",
+      "Weight loss, anorexia, fever, right upper quadrant pain",
+      "Hepatomegaly or a mass, sometimes with an arterial **bruit**",
+      "Rupture → intraperitoneal bleeding; a **bloody ascitic tap** in a cirrhotic is HCC in a third"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 912,
+       "page": 890
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 221,
+       "page": 184
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 885,
+       "page": 863
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1322,
+       "page": 1308
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Diagnosis",
+     "items": [
+      "**AFP** is raised in about 60% (normal < 10 ng/mL) and is often normal with small tumours",
+      "A **steadily rising AFP or AFP > 400 ng/mL** warrants an aggressive search for HCC",
+      "Contrast CT/MRI: **hypervascular lesion with arterial enhancement and venous-phase washout**",
+      "Use **at least two imaging modalities** to confirm and stage",
+      "**Avoid biopsy** in possible transplant or resection candidates – < 2% risk of needle-track seeding"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 913,
+       "page": 891
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1322,
+       "page": 1308
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1323,
+       "page": 1309
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Surveillance**: ultrasound ± AFP **every 6 months** for cirrhosis due to HBV, HCV, alcohol, NASH, haemochromatosis or α1-antitrypsin deficiency – and for **chronic hepatitis B even without cirrhosis**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 913,
+       "page": 891
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Treatment options",
+     "columns": [
+      "Option",
+      "Used when",
+      "Key fact"
+     ],
+     "rows": [
+      [
+       "Resection",
+       "Non-cirrhotic liver (treatment of choice); occasionally Child A without portal hypertension",
+       "5-year survival about 50%; recurrence common"
+      ],
+      [
+       "Liver transplant",
+       "Within **Milan criteria**: one tumour < 5 cm or up to three < 3 cm",
+       "About 75% 5-year survival; also cures the cirrhosis"
+      ],
+      [
+       "Percutaneous ethanol / radiofrequency ablation",
+       "Small tumours (≤ 3 cm)",
+       "Ethanol injection cures about 80%"
+      ],
+      [
+       "TACE",
+       "Intermediate, unresectable disease",
+       "Contraindicated in decompensated cirrhosis; mainly a holding measure"
+      ],
+      [
+       "Sorafenib (multikinase inhibitor)",
+       "Advanced disease",
+       "Median survival 7.9 → 10.7 months"
+      ],
+      [
+       "Supportive care",
+       "Terminal disease",
+       "—"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 913,
+       "page": 891
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 914,
+       "page": 892
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "AFP cut-off differs: Davidson uses **> 400 ng/mL** (or a steady rise); K&C Essentials says **> 200 ng/mL** is strongly suggestive. Remember that AFP is **normal in at least a third** of HCCs.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 913,
+       "page": 891
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 203,
+       "page": 166
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1322,
+       "page": 1308
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "HCC responds poorly to conventional chemotherapy and radiotherapy; kinase inhibitors (sorafenib, lenvatinib, regorafenib) add only months.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "chapter": "Gastroenterology",
+       "pdfPage": 93,
+       "page": 93
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 221,
+       "page": 184
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 914,
+       "page": 892
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Hepatology",
+      "pdfPage": 913,
+      "page": 891,
+      "figure": "Fig. 22.35"
+     },
+     "note": "CT with a large hepatocellular carcinoma (arrows)."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Hepatology",
+      "pdfPage": 914,
+      "page": 892,
+      "figure": "Fig. 22.36"
+     },
+     "note": "Staging algorithm for HCC in cirrhosis: ablation/resection/transplant for early, TACE for intermediate, sorafenib for advanced, supportive care for terminal disease."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Liver disease",
+      "pdfPage": 1323,
+      "page": 1309,
+      "figure": "Fig. 34.32"
+     },
+     "note": "Multiphase CT/MRI: bright lesion in the arterial phase that washes out in the portal venous and delayed phases."
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.s8",
+   "title": "Long-term management & liver transplantation",
+   "objectiveIdx": [
+    11,
+    12
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Routine care of every cirrhotic patient",
+     "items": [
+      "**Treat the cause** – abstinence from alcohol, antiviral therapy, venesection for haemochromatosis – to halt or partly reverse disease",
+      "Nutrition: frequent meals, high-protein, low-sodium diet; no alcohol",
+      "Avoid aspirin and NSAIDs; aminoglycosides are contraindicated; paracetamol up to 2 g/day is acceptable",
+      "Vaccinate against hepatitis A and B (and influenza)",
+      "**HCC surveillance**: ultrasound every 6 months",
+      "Variceal screening endoscopy at diagnosis and every 2 years",
+      "Recalculate MELD regularly and refer for transplant at the right time"
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 204,
+       "page": 167
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Gastroenterology",
+       "pdfPage": 77,
+       "page": 77
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1304,
+       "page": 1290
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 254,
+       "page": 254
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 889,
+       "page": 867
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 913,
+       "page": 891
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Indications for transplant assessment (Davidson Box 22.58)",
+     "columns": [
+      "Group",
+      "Indication"
+     ],
+     "rows": [
+      [
+       "Complications",
+       "First episode of SBP; diuretic-resistant ascites; recurrent variceal bleeding; HCC < 5 cm; persistent encephalopathy"
+      ],
+      [
+       "Poor liver function",
+       "Bilirubin > 100 µmol/L in PBC; **MELD > 12**; Child–Pugh C"
+      ],
+      [
+       "Other (US texts)",
+       "Hepatorenal syndrome, hepatopulmonary syndrome, portopulmonary hypertension"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 922,
+       "page": 900
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 254,
+       "page": 254
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "UK listing rules",
+     "items": [
+      "Projected **5-year survival after transplant > 50%**, plus one of:",
+      "Category 1: predicted 1-year mortality without transplant > 9% (UKELD > 49)",
+      "Category 2: HCC within size limits and without macrovascular invasion",
+      "Category 3: variant syndromes such as diuretic-resistant ascites, hepatopulmonary syndrome or intractable pruritus"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 922,
+       "page": 900
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 923,
+       "page": 901
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Contraindications",
+     "items": [
+      "Sepsis outside the hepatobiliary tree",
+      "Extrahepatic malignancy; liver metastases other than neuroendocrine",
+      "Active alcohol or substance misuse (alcohol-related disease needs proven abstinence, usually 6 months)",
+      "Marked cardiorespiratory disease, including severe portopulmonary hypertension",
+      "Lack of commitment; older age (usually not offered at ≥ 70, some texts say > 65)"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 922,
+       "page": 900
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 212,
+       "page": 175
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1312,
+       "page": 1298
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1306,
+       "page": 1292
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Matching and waiting",
+     "items": [
+      "Donor and recipient are matched for **ABO group and size**; **HLA matching is not needed**",
+      "About 10% of listed patients die while waiting"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 922,
+       "page": 900
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "After transplantation",
+     "columns": [
+      "Issue",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "Immunosuppression",
+       "Tacrolimus or ciclosporin with prednisolone and azathioprine or mycophenolate"
+      ],
+      [
+       "Acute cellular rejection",
+       "60–80%, typically day 5–10; 3 days of IV methylprednisolone"
+      ],
+      [
+       "CMV",
+       "Common in first 3 months; valganciclovir prophylaxis for at-risk recipients"
+      ],
+      [
+       "Hepatic artery thrombosis",
+       "May need re-transplantation"
+      ],
+      [
+       "Chronic ductopenic rejection",
+       "\"Vanishing bile duct syndrome\", 6 weeks–9 months; often needs re-transplant"
+      ],
+      [
+       "Recurrence",
+       "HCV, PSC and HCC can recur in the graft"
+      ],
+      [
+       "Outcome (cirrhosis)",
+       "1-year survival > 90%; 5-year 70–75%"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 923,
+       "page": 901
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1306,
+       "page": 1292
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "A **first episode of SBP** on its own is enough to trigger transplant assessment.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 922,
+       "page": 900
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Liver, biliary tract and pancreatic disease",
+       "pdfPage": 209,
+       "page": 172
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "MELD trigger differs: Davidson assesses at **MELD > 12**, Pocket Medicine at ≥ 15, and Kumar refers end-stage disease at MELD ≥ 20 / UKELD ≥ 49 / Child C. Quote Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Hepatology",
+       "pdfPage": 922,
+       "page": 900
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hepatology",
+       "pdfPage": 254,
+       "page": 254
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Liver disease",
+       "pdfPage": 1305,
+       "page": 1291
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "gi-cirrhosis.c1",
+   "sectionId": "gi-cirrhosis.s1",
+   "front": "Histological definition of cirrhosis?",
+   "back": "Diffuse fibrosis of the liver with regenerative nodule formation.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 888,
+     "page": 866
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c2",
+   "sectionId": "gi-cirrhosis.s1",
+   "front": "Which cell lays down collagen in hepatic fibrosis?",
+   "back": "The activated hepatic stellate cell (space of Disse), which becomes myofibroblast-like.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 888,
+     "page": 866
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c3",
+   "sectionId": "gi-cirrhosis.s1",
+   "front": "Micronodular cirrhosis: nodule size (Davidson) and typical cause?",
+   "back": "About 1 mm; alcohol.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 888,
+     "page": 866
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c4",
+   "sectionId": "gi-cirrhosis.s1",
+   "front": "Young patient with cirrhosis: which two extra tests must be checked?",
+   "back": "Copper/caeruloplasmin (Wilson's) and α1-antitrypsin level.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Liver disease",
+     "pdfPage": 1303,
+     "page": 1289
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 875,
+     "page": 853
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c5",
+   "sectionId": "gi-cirrhosis.s2",
+   "front": "What proportion of healthy people have one or two spider telangiectasias?",
+   "back": "About 2% (also seen in pregnancy).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 889,
+     "page": 867
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c6",
+   "sectionId": "gi-cirrhosis.s2",
+   "front": "Child–Pugh class cut-offs?",
+   "back": "< 7 = A; 7–9 = B; > 9 = C.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 889,
+     "page": 867
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c7",
+   "sectionId": "gi-cirrhosis.s2",
+   "front": "Requirements for safe percutaneous liver biopsy?",
+   "back": "PT prolonged < 4 s and platelets > 80 × 10⁹/L; otherwise use the transjugular route.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 877,
+     "page": 855
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c8",
+   "sectionId": "gi-cirrhosis.s2",
+   "front": "Prolonged PT that does not correct with vitamin K suggests?",
+   "back": "Severe hepatocellular damage (not vitamin K deficiency).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 875,
+     "page": 853
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c9",
+   "sectionId": "gi-cirrhosis.s3",
+   "front": "Normal HVPG, and thresholds for significant portal hypertension and bleeding risk?",
+   "back": "Normal 5–6 mmHg; significant > 10 mmHg; bleeding risk rises > 12 mmHg.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 890,
+     "page": 868
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c10",
+   "sectionId": "gi-cirrhosis.s3",
+   "front": "Primary prophylaxis of varices: drug and target?",
+   "back": "Propranolol 80–160 mg/day (or nadolol/carvedilol), aiming for a 25% fall in heart rate; banding if intolerant.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 891,
+     "page": 869
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c11",
+   "sectionId": "gi-cirrhosis.s3",
+   "front": "Terlipressin regimen in acute variceal bleeding (Davidson)?",
+   "back": "2 mg IV four times daily until bleeding stops, then 1 mg four times daily for up to 72 h.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 892,
+     "page": 870
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c12",
+   "sectionId": "gi-cirrhosis.s3",
+   "front": "Sengstaken–Blakemore tube: gastric balloon volume and oesophageal balloon limit?",
+   "back": "Gastric 200–250 mL air; oesophageal ≤ 40 mmHg, deflated 10 min every 3 h. Intubate first.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 893,
+     "page": 871
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 892,
+     "page": 870
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c13",
+   "sectionId": "gi-cirrhosis.s4",
+   "front": "What does a SAAG > 11 g/L mean?",
+   "back": "Portal hypertension is the cause of the ascites (about 96% predictive).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 885,
+     "page": 863
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c14",
+   "sectionId": "gi-cirrhosis.s4",
+   "front": "Definition of refractory ascites?",
+   "back": "No response to spironolactone 400 mg + furosemide 160 mg daily, or unable to tolerate them.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 886,
+     "page": 864
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c15",
+   "sectionId": "gi-cirrhosis.s4",
+   "front": "Albumin replacement with large-volume paracentesis?",
+   "back": "6–8 g per litre drained (about 100 mL of 20–25% HAS per 1.5–2 L).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 886,
+     "page": 864
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c16",
+   "sectionId": "gi-cirrhosis.s5",
+   "front": "Ascitic neutrophil count diagnostic of SBP?",
+   "back": "> 250 × 10⁶/L (> 250/mm³).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 886,
+     "page": 864
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c17",
+   "sectionId": "gi-cirrhosis.s5",
+   "front": "Secondary prophylaxis after SBP with ongoing ascites?",
+   "back": "Norfloxacin 400 mg/day.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 886,
+     "page": 864
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c18",
+   "sectionId": "gi-cirrhosis.s5",
+   "front": "Urine findings in hepatorenal syndrome?",
+   "back": "No proteinuria, urine sodium < 10 mmol/24 h, urine:plasma osmolality > 1.5.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 886,
+     "page": 864
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c19",
+   "sectionId": "gi-cirrhosis.s5",
+   "front": "First-line treatment of type 1 HRS?",
+   "back": "IV albumin plus terlipressin (or octreotide + midodrine); transplant assessment for survivors.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 886,
+     "page": 864
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c20",
+   "sectionId": "gi-cirrhosis.s6",
+   "front": "Lactulose target in hepatic encephalopathy?",
+   "back": "Titrate (15–30 mL three times daily) to two soft bowel motions a day.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 887,
+     "page": 865
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c21",
+   "sectionId": "gi-cirrhosis.s6",
+   "front": "Hepatopulmonary syndrome: definition and bedside clue?",
+   "back": "Hypoxaemia (PaO₂ < 9.3 kPa) from intrapulmonary vascular dilatation; oxygen saturation falls on standing.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 920,
+     "page": 898
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c22",
+   "sectionId": "gi-cirrhosis.s7",
+   "front": "Milan criteria for transplant in HCC?",
+   "back": "A single tumour < 5 cm, or up to three tumours each < 3 cm.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 913,
+     "page": 891
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c23",
+   "sectionId": "gi-cirrhosis.s7",
+   "front": "AFP level that warrants an aggressive search for HCC (Davidson)?",
+   "back": "> 400 ng/mL, or a steadily rising AFP (normal < 10 ng/mL).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 913,
+     "page": 891
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c24",
+   "sectionId": "gi-cirrhosis.s8",
+   "front": "MELD score that triggers transplant assessment (Davidson)?",
+   "back": "MELD > 12.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 922,
+     "page": 900
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.c25",
+   "sectionId": "gi-cirrhosis.s8",
+   "front": "Acute cellular rejection after liver transplant: timing and treatment?",
+   "back": "Usually day 5–10; 3 days of IV methylprednisolone.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 923,
+     "page": 901
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "gi-cirrhosis.q1",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Causes of cirrhosis",
+   "leadIn": "Match each case to the best-fitting option. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Alcohol-related liver disease",
+    "Chronic hepatitis B",
+    "Chronic hepatitis C",
+    "Non-alcoholic fatty liver disease",
+    "Autoimmune hepatitis",
+    "Primary biliary cholangitis",
+    "Hereditary haemochromatosis",
+    "Wilson's disease",
+    "α1-antitrypsin deficiency",
+    "Budd–Chiari syndrome"
+   ],
+   "items": [
+    {
+     "stem": "A 19-year-old student has abnormal liver tests and a hard, irregular liver edge. Slit-lamp examination shows golden-brown rings at the corneal margin. Viral serology is negative.",
+     "answer": 7,
+     "explanation": "Cirrhosis in a young person with corneal (Kayser–Fleischer) rings is Wilson's disease. Caeruloplasmin and copper should always be checked in young cirrhotics.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s1"
+     }
+    },
+    {
+     "stem": "A 52-year-old woman with long-standing itching has a cholestatic liver profile and early cirrhosis on Fibroscan. Antimitochondrial antibody is strongly positive.",
+     "answer": 5,
+     "explanation": "AMA positivity is the screening marker for primary biliary cholangitis, a biliary cause of cirrhosis.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s1"
+     }
+    },
+    {
+     "stem": "A 48-year-old man with marked skin pigmentation is found to have cirrhosis. HBsAg and HCV antibody are negative, autoantibodies are negative and he drinks little alcohol. Ferritin and transferrin saturation are both very high.",
+     "answer": 6,
+     "explanation": "Two steps: viral and alcohol causes are excluded, and the high ferritin and transferrin saturation with pigmentation point to haemochromatosis. Pigmentation is most striking in this cause.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 888,
+     "page": 866
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 875,
+     "page": 853
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Liver disease",
+     "pdfPage": 1277,
+     "page": 1263
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 889,
+     "page": 867
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Liver disease",
+     "pdfPage": 1303,
+     "page": 1289
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Gastroenterology",
+     "pdfPage": 80,
+     "page": 80
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 56-year-old man with alcohol-related cirrhosis has: no encephalopathy, bilirubin 45 µmol/L, albumin 31 g/L, PT prolonged by 3 seconds and mild ascites.",
+   "leadIn": "What is his Child–Pugh class?",
+   "options": [
+    "Class A, score 6",
+    "Class B, score 7",
+    "Class B, score 8",
+    "Class B, score 9",
+    "Class C, score 10"
+   ],
+   "answer": 2,
+   "explanation": "Score each item: encephalopathy none = 1; bilirubin 34–50 = 2; albumin 28–35 = 2; PT < 4 s = 1; mild ascites = 2. Total 8, which falls in the 7–9 band = Child B.",
+   "whyNot": [
+    "Class A needs a total below 7; this patient scores 8.",
+    "Seven would require one fewer point – albumin and bilirubin each score 2 here.",
+    "",
+    "Nine would need one more point, e.g. PT 4–6 s prolonged.",
+    "Class C needs more than 9 points."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 889,
+     "page": 867
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 44-year-old man with cirrhosis has several features on examination.",
+   "leadIn": "Which feature most suggests that alcohol is the cause of his cirrhosis?",
+   "options": [
+    "Parotid enlargement",
+    "Palmar erythema",
+    "Splenomegaly",
+    "Finger clubbing",
+    "Ascites"
+   ],
+   "answer": 0,
+   "explanation": "Florid spider naevi, gynaecomastia and parotid swelling are most typical of alcoholic cirrhosis. The other signs occur in cirrhosis of any cause.",
+   "whyNot": [
+    "",
+    "Palmar erythema reflects a hyperdynamic circulation and occurs in many conditions, even pregnancy.",
+    "Splenomegaly reflects portal hypertension of any cause.",
+    "Clubbing is a non-specific feature of chronic liver disease.",
+    "Ascites signals advanced disease of any cause."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 889,
+     "page": 867
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q4",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Managing oesophageal and gastric varices",
+   "leadIn": "Match each case to the best-fitting option. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Propranolol",
+    "Carvedilol",
+    "Endoscopic band ligation",
+    "Terlipressin",
+    "Octreotide",
+    "Intravenous cephalosporin",
+    "Cyanoacrylate glue injection",
+    "Sengstaken–Blakemore tube",
+    "TIPSS",
+    "Proton pump inhibitor",
+    "Phosphate enema and lactulose"
+   ],
+   "items": [
+    {
+     "stem": "A 50-year-old woman with newly diagnosed cirrhosis has large oesophageal varices at screening endoscopy. They have never bled. She has severe asthma.",
+     "answer": 2,
+     "explanation": "Primary prevention is a non-selective β-blocker or banding. Asthma rules out β-blockers, so band ligation is chosen.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s3"
+     }
+    },
+    {
+     "stem": "A 63-year-old man with cirrhosis presents with haematemesis from oesophageal varices. Terlipressin is not available in the hospital where he is treated.",
+     "answer": 4,
+     "explanation": "A vasoactive drug is needed to lower portal pressure. Where terlipressin is not available, octreotide is the usual alternative.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s3"
+     }
+    },
+    {
+     "stem": "A 58-year-old cirrhotic is admitted with a variceal bleed. Fluids, a vasoactive drug and endoscopy are arranged. A medical student asks which further drug reduces infection and improves survival.",
+     "answer": 5,
+     "explanation": "Sepsis is common after a variceal bleed; prophylactic antibiotics (e.g. IV cephalosporin) reduce SBP and improve outcome.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 891,
+     "page": 869
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 892,
+     "page": 870
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q5",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Causes of ascites",
+   "leadIn": "Match each case to the best-fitting option. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Cirrhosis",
+    "Congestive cardiac failure",
+    "Constrictive pericarditis",
+    "Budd–Chiari syndrome",
+    "Peritoneal malignancy",
+    "Tuberculous peritonitis",
+    "Pancreatic ascites",
+    "Chylous ascites",
+    "Nephrotic syndrome",
+    "Meigs' syndrome"
+   ],
+   "items": [
+    {
+     "stem": "A 75-year-old man with a previous myocardial infarction has ascites, ankle oedema and bibasal crackles. Ascitic SAAG is 16 g/L and total protein 32 g/L.",
+     "answer": 1,
+     "explanation": "High SAAG means portal-type hypertension; high protein (> 25 g/L) argues against cirrhosis. With the cardiac history and pulmonary crackles, cardiac failure fits best.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s4"
+     }
+    },
+    {
+     "stem": "A 45-year-old man who drinks heavily has had two attacks of severe epigastric pain this year. Ascitic SAAG is 6 g/L and ascitic amylase is 2800 U/L.",
+     "answer": 6,
+     "explanation": "Low SAAG with ascitic amylase above 1000 U/L identifies pancreatic ascites.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s4"
+     }
+    },
+    {
+     "stem": "A 60-year-old woman has a slowly enlarging abdomen. The tap yields milky fluid with a triglyceride level of 2.4 g/L.",
+     "answer": 7,
+     "explanation": "Triglyceride above 1.1 g/L defines chylous ascites (often lymphatic obstruction).",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 884,
+     "page": 862
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 885,
+     "page": 863
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q6",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Acute complications in a patient with cirrhotic ascites",
+   "leadIn": "Match each case to the best-fitting option. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Spontaneous bacterial peritonitis",
+    "Secondary bacterial peritonitis",
+    "Type 1 hepatorenal syndrome",
+    "Type 2 hepatorenal syndrome",
+    "Pre-renal injury from over-diuresis",
+    "Hepatic encephalopathy from constipation",
+    "Hepatocellular carcinoma",
+    "Portal vein thrombosis",
+    "Hepatic hydrothorax"
+   ],
+   "items": [
+    {
+     "stem": "A 61-year-old man with cirrhotic ascites becomes confused and febrile. His abdomen is soft and non-tender. Ascitic neutrophil count is 600 × 10⁶/L; Gram stain shows a single type of Gram-negative rod.",
+     "answer": 0,
+     "explanation": "Two steps: confusion + fever without abdominal signs is how a third of SBP cases present; neutrophils > 250 × 10⁶/L with a single enteric organism confirms SBP.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s5"
+     }
+    },
+    {
+     "stem": "A 54-year-old woman with cirrhosis and ascites has a rising creatinine over 5 days and is passing very little urine. There is no proteinuria, urine sodium is < 10 mmol/24 h, and renal function does not improve after stopping diuretics and giving albumin.",
+     "answer": 2,
+     "explanation": "Rapid, progressive renal failure with intact tubular function and no response to volume = type 1 HRS.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s5"
+     }
+    },
+    {
+     "stem": "A 66-year-old man with cirrhotic ascites has severe abdominal pain. Ascitic culture grows E. coli, Bacteroides and enterococci.",
+     "answer": 1,
+     "explanation": "Several organisms, including anaerobes, suggest a perforated viscus – secondary, not spontaneous, peritonitis.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 886,
+     "page": 864
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Liver disease",
+     "pdfPage": 1312,
+     "page": 1298
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 59-year-old woman with cirrhosis is brought in by her husband. She is drowsy but opens her eyes and answers when her name is called, and she is lethargic. She has a flapping tremor.",
+   "leadIn": "What grade of hepatic encephalopathy is this?",
+   "options": [
+    "Grade 0 (none)",
+    "Grade 1",
+    "Grade 2",
+    "Grade 3",
+    "Grade 4"
+   ],
+   "answer": 2,
+   "explanation": "Drowsy but rousable and lethargic is grade 2. Grade 3 implies marked delirium; grade 4 is unconsciousness.",
+   "whyNot": [
+    "She has clear clinical signs, so encephalopathy is present.",
+    "Grade 1 is poor concentration, slurred speech and disturbed sleep, without drowsiness.",
+    "",
+    "Grade 3 involves marked delirium with response only to voice or pain.",
+    "Grade 4 means no response to voice."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 879,
+     "page": 857
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 47-year-old man with alcohol-related cirrhosis is found confused at home after a fall. He has asterixis, and a new weakness of the left arm and leg.",
+   "leadIn": "What is the most appropriate next investigation?",
+   "options": [
+    "CT scan of the head",
+    "Arterial ammonia level",
+    "Electroencephalogram",
+    "Lumbar puncture",
+    "Serum caeruloplasmin"
+   ],
+   "answer": 0,
+   "explanation": "Focal neurological signs point away from simple hepatic encephalopathy. In a drinker who has fallen, a subdural haematoma must be excluded with CT.",
+   "whyNot": [
+    "",
+    "Ammonia can be raised without encephalopathy and would not explain focal signs.",
+    "EEG slowing supports encephalopathy but cannot exclude a haematoma.",
+    "Lumbar puncture does not look for the intracranial bleed that new focal signs in a drinker who has fallen suggest.",
+    "Caeruloplasmin is for Wilson's disease, not an acute focal deficit."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 887,
+     "page": 865
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 58-year-old man with hepatitis C cirrhosis (Child–Pugh A) has a new 3.5 cm liver lesion on surveillance ultrasound. He is otherwise fit and could be a transplant candidate.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Contrast-enhanced MRI of the liver",
+    "Percutaneous liver biopsy",
+    "Repeat ultrasound in 6 months",
+    "Serum AFP alone",
+    "Start sorafenib"
+   ],
+   "answer": 0,
+   "explanation": "Davidson advises at least two imaging modalities (CT or MRI after ultrasound). A hypervascular lesion with washout confirms HCC without biopsy.",
+   "whyNot": [
+    "",
+    "Biopsy should be avoided in transplant or resection candidates because of needle-track seeding.",
+    "A new lesion in a cirrhotic needs work-up now, not routine surveillance.",
+    "AFP is normal in a third or more of HCCs, so it cannot exclude the diagnosis.",
+    "Sorafenib is for advanced disease, and the diagnosis is not yet confirmed."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 913,
+     "page": 891
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Liver disease",
+     "pdfPage": 1322,
+     "page": 1308
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Liver disease",
+     "pdfPage": 1323,
+     "page": 1309
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "Four patients with cirrhosis and HCC are discussed at a transplant meeting. None has vascular invasion or spread outside the liver.",
+   "leadIn": "Which patient falls within the Milan criteria?",
+   "options": [
+    "A single tumour of 4.5 cm",
+    "A single tumour of 6 cm",
+    "Two tumours of 4 cm each",
+    "Three tumours of 3.5 cm each",
+    "Four tumours of 2 cm each"
+   ],
+   "answer": 0,
+   "explanation": "Milan criteria: one tumour < 5 cm, or up to three tumours each < 3 cm. Only the single 4.5 cm lesion qualifies; 5-year survival is about 75%.",
+   "whyNot": [
+    "",
+    "A single tumour must be < 5 cm.",
+    "With more than one tumour, each must be < 3 cm.",
+    "Each of three tumours must be < 3 cm.",
+    "No more than three tumours are allowed."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 913,
+     "page": 891
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 49-year-old woman with cirrhosis from hepatitis B is otherwise well. She is admitted with her first episode of spontaneous bacterial peritonitis, which responds to treatment.",
+   "leadIn": "What is the most appropriate long-term step?",
+   "options": [
+    "Refer for liver transplant assessment",
+    "Start primary prophylaxis with propranolol only",
+    "Arrange repeat endoscopy in 3 years",
+    "Restrict dietary protein permanently",
+    "Begin regular haemodialysis"
+   ],
+   "answer": 0,
+   "explanation": "A first SBP episode is a Davidson indication for transplant assessment (Box 22.58); one-year mortality after it is about 50%.",
+   "whyNot": [
+    "",
+    "β-blockers are for varices and should actually be stopped after SBP.",
+    "Variceal screening is every 2 years and does not address her prognosis.",
+    "Routine protein restriction is not recommended.",
+    "Haemodialysis has no role here."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 922,
+     "page": 900
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 886,
+     "page": 864
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Liver disease",
+     "pdfPage": 1311,
+     "page": 1297
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "Seven days after a liver transplant for alcohol-related cirrhosis, a 52-year-old man has a rise in bilirubin and transaminases. Doppler shows a patent hepatic artery.",
+   "leadIn": "What is the most appropriate treatment?",
+   "options": [
+    "IV methylprednisolone for 3 days",
+    "Urgent re-transplantation",
+    "Oral valganciclovir",
+    "Stop tacrolimus",
+    "ERCP and stenting"
+   ],
+   "answer": 0,
+   "explanation": "Acute cellular rejection affects 60–80% of recipients, typically days 5–10, and responds to three days of IV methylprednisolone.",
+   "whyNot": [
+    "",
+    "Re-transplant is for hepatic artery thrombosis (artery is patent) or chronic ductopenic rejection.",
+    "Valganciclovir is CMV prophylaxis, not rejection treatment.",
+    "Stopping immunosuppression would worsen rejection.",
+    "Nothing suggests a biliary obstruction."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 923,
+     "page": 901
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Liver disease",
+     "pdfPage": 1306,
+     "page": 1292
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q13",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Drugs used in cirrhosis",
+   "leadIn": "Match each case to the best-fitting option. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Spironolactone",
+    "Amiloride",
+    "Furosemide",
+    "Propranolol",
+    "Terlipressin",
+    "Lactulose",
+    "Rifaximin",
+    "Norfloxacin",
+    "Cefotaxime",
+    "Human albumin solution",
+    "Sorafenib",
+    "Tacrolimus"
+   ],
+   "items": [
+    {
+     "stem": "A 57-year-old man taking spironolactone for ascites develops painful breast swelling. His ascites is still present.",
+     "answer": 1,
+     "explanation": "Amiloride 5–10 mg/day replaces spironolactone when it causes painful gynaecomastia (or hyperkalaemia).",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s4"
+     }
+    },
+    {
+     "stem": "A 62-year-old woman has recovered from SBP but her ascites persists. Which drug reduces the chance of another episode?",
+     "answer": 7,
+     "explanation": "Norfloxacin 400 mg/day is Davidson's secondary prophylaxis after SBP with continuing ascites.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s5"
+     }
+    },
+    {
+     "stem": "A 50-year-old man has medium-to-large oesophageal varices on screening that have never bled. He has no contraindications to any drug.",
+     "answer": 3,
+     "explanation": "Propranolol 80–160 mg/day, titrated to cut heart rate by 25%, is first-line primary prevention.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s3"
+     }
+    },
+    {
+     "stem": "A 64-year-old woman has had a second episode of hepatic encephalopathy despite taking lactulose to two soft motions a day. No new precipitant is found.",
+     "answer": 6,
+     "explanation": "Two steps: lactulose is already optimised, so the next drug is rifaximin, which is added to or substituted for lactulose.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 886,
+     "page": 864
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 891,
+     "page": 869
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 887,
+     "page": 865
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Hepatology",
+     "pdfPage": 251,
+     "page": 251
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "Hepatic venous pressure gradients are measured in five patients with chronic liver disease.",
+   "leadIn": "Which value is the lowest at which variceal bleeding risk is said to rise?",
+   "options": [
+    "Above 5 mmHg",
+    "Above 8 mmHg",
+    "Above 10 mmHg",
+    "Above 12 mmHg",
+    "Above 20 mmHg"
+   ],
+   "answer": 3,
+   "explanation": "Normal HVPG is 5–6 mmHg; > 10 mmHg is clinically significant portal hypertension; variceal bleeding risk rises above 12 mmHg.",
+   "whyNot": [
+    "5–6 mmHg is normal.",
+    "8 mmHg is below the 10 mmHg threshold for clinically significant portal hypertension.",
+    "> 10 mmHg defines clinically significant portal hypertension, not the bleeding threshold.",
+    "",
+    "20 mmHg is not the threshold quoted for bleeding risk."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 890,
+     "page": 868
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 55-year-old woman has new ascites. Serum albumin is 30 g/L and ascitic albumin 12 g/L; ascitic total protein is 15 g/L.",
+   "leadIn": "What does this result most strongly indicate?",
+   "options": [
+    "Portal hypertension, as in cirrhosis",
+    "Peritoneal malignancy",
+    "Tuberculous peritonitis",
+    "Chylous ascites from lymphatic obstruction",
+    "Pancreatic ascites"
+   ],
+   "answer": 0,
+   "explanation": "SAAG = 30 − 12 = 18 g/L (> 11 g/L), which is about 96% predictive of portal hypertension; low protein fits cirrhosis.",
+   "whyNot": [
+    "",
+    "Malignant ascites usually has a low SAAG.",
+    "TB peritonitis gives a low SAAG and low glucose.",
+    "Chylous ascites is milky with triglyceride > 1.1 g/L, and lymphatic obstruction is a low-SAAG cause.",
+    "Pancreatic ascites is low-SAAG with a very high amylase."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 885,
+     "page": 863
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 884,
+     "page": 862
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Hepatology",
+     "pdfPage": 261,
+     "page": 261
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 60-year-old man with cirrhosis and ascites has had worsening oliguria for 4 days, with creatinine rising from 95 to 310 µmol/L. Urinalysis shows no protein, urine sodium is very low, and there is no response to stopping diuretics and giving albumin.",
+   "leadIn": "What is the most appropriate treatment?",
+   "options": [
+    "IV albumin with terlipressin",
+    "Regular haemodialysis",
+    "Furosemide infusion",
+    "IV normal saline 3 L/day",
+    "Large-volume paracentesis without albumin"
+   ],
+   "answer": 0,
+   "explanation": "This is type 1 HRS. Albumin plus terlipressin works in about two-thirds; survivors should be assessed for transplant.",
+   "whyNot": [
+    "",
+    "Routine haemodialysis does not improve outcome in HRS.",
+    "Diuretics worsen arterial underfilling and are stopped.",
+    "Saline adds sodium and worsens ascites; albumin is the preferred volume expander.",
+    "Paracentesis without albumin can itself precipitate renal failure."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 886,
+     "page": 864
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Liver disease",
+     "pdfPage": 1312,
+     "page": 1298
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 58-year-old woman with cirrhotic ascites has abdominal pain and fever. Ascitic fluid is cloudy.",
+   "leadIn": "Which finding confirms spontaneous bacterial peritonitis?",
+   "options": [
+    "Ascitic neutrophil count > 250 × 10⁶/L",
+    "SAAG > 11 g/L",
+    "Ascitic protein < 25 g/L",
+    "Ascitic amylase > 1000 U/L",
+    "Several organisms grown on culture"
+   ],
+   "answer": 0,
+   "explanation": "An ascitic neutrophil count above 250 × 10⁶/L almost always indicates infection; E. coli is the usual organism.",
+   "whyNot": [
+    "",
+    "SAAG shows portal hypertension, not infection.",
+    "Low protein is typical of any cirrhotic ascites.",
+    "High amylase indicates pancreatic ascites.",
+    "Multiple organisms suggest secondary peritonitis from a perforated viscus."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 886,
+     "page": 864
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 885,
+     "page": 863
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q18",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 54-year-old man with alcohol-related cirrhosis vomits a large amount of fresh blood. Pulse is 118/min and BP 92/60 mmHg. IV access is secured and blood is cross-matched.",
+   "leadIn": "Besides resuscitation, which drug should be started before endoscopy?",
+   "options": [
+    "Terlipressin",
+    "Propranolol",
+    "Tranexamic acid",
+    "Vitamin K",
+    "Spironolactone"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: a cirrhotic with haematemesis has a variceal bleed until proven otherwise. Step 2: Box 22.32 lists a vasoactive drug (terlipressin) to lower portal pressure, with IV antibiotics, before urgent endoscopy and banding. Step 3: terlipressin reduces bleeding and mortality; give 2 mg IV four times daily. Endoscopy then confirms the source, since about 20% bleed from other lesions.",
+   "whyNot": [
+    "",
+    "β-blockers are for prevention, not a hypotensive active bleed.",
+    "Not part of Davidson's emergency variceal bundle.",
+    "The coagulopathy of liver disease is not corrected by vitamin K.",
+    "Diuretics would worsen hypovolaemia."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 891,
+     "page": 869
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 892,
+     "page": 870
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 875,
+     "page": 853
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q19",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 63-year-old woman with cirrhosis and ascites becomes drowsy with a temperature of 38.2 °C. Her abdomen is distended but not tender. Diagnostic tap: neutrophils 480 × 10⁶/L.",
+   "leadIn": "What is the most appropriate immediate treatment?",
+   "options": [
+    "IV cefotaxime with IV albumin",
+    "Oral norfloxacin alone",
+    "Large-volume paracentesis with albumin",
+    "Laparotomy",
+    "Lactulose alone"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: fever and confusion with soft abdomen – a third of SBP cases lack abdominal signs. Step 2: neutrophils > 250 × 10⁶/L confirm SBP. Step 3: start broad-spectrum IV antibiotics (cefotaxime) at once, with albumin. Step 4: after recovery, if ascites persists, norfloxacin prevents recurrence and transplant assessment is due.",
+   "whyNot": [
+    "",
+    "Norfloxacin is prophylaxis, not treatment of active SBP.",
+    "Draining the fluid does not treat the infection; antibiotics must start at once.",
+    "Surgery is for secondary peritonitis (multiple organisms), not SBP.",
+    "Lactulose treats the encephalopathy but not the infection driving it."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 886,
+     "page": 864
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Liver disease",
+     "pdfPage": 1311,
+     "page": 1297
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Hepatology",
+     "pdfPage": 250,
+     "page": 250
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q20",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 59-year-old man with cirrhosis has tense ascites despite a no-added-salt diet, spironolactone 400 mg and furosemide 160 mg daily. Sodium is 131 mmol/L and creatinine is normal.",
+   "leadIn": "What is the first-line treatment now?",
+   "options": [
+    "Large-volume paracentesis with IV albumin",
+    "Increase furosemide to 240 mg daily",
+    "Fluid restriction to 1 L/day",
+    "TIPSS",
+    "Increase spironolactone to 600 mg daily"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: maximal diuretics have failed – this is refractory ascites by definition. Step 2: Davidson's first-line treatment is large-volume paracentesis, supported with albumin 6–8 g per litre removed. Step 3: TIPSS is an alternative for frequent taps but may worsen encephalopathy and does not prolong life. Step 4: diuretic-resistant ascites is also a reason for transplant assessment.",
+   "whyNot": [
+    "",
+    "Escalating loop diuretics beyond this risks electrolyte and renal harm.",
+    "Water restriction is only indicated when sodium is < 125 mmol/L.",
+    "TIPSS is an alternative, not the first-line option.",
+    "400 mg is already the maximum dose used to define diuretic resistance."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 886,
+     "page": 864
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 885,
+     "page": 863
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 922,
+     "page": 900
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q21",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Investigations in chronic liver disease",
+   "leadIn": "Match each case to the best-fitting option. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Upper GI endoscopy",
+    "Doppler ultrasound of the portal vein",
+    "Transjugular liver biopsy",
+    "Percutaneous liver biopsy",
+    "Serum alpha-fetoprotein",
+    "Serum caeruloplasmin",
+    "Antimitochondrial antibody",
+    "Diagnostic paracentesis with cell count",
+    "Electroencephalogram",
+    "Arterial ammonia",
+    "Fibroscan (transient elastography)"
+   ],
+   "items": [
+    {
+     "stem": "A 46-year-old woman has just been diagnosed with compensated cirrhosis due to NAFLD. She has never had GI bleeding.",
+     "answer": 0,
+     "explanation": "Endoscopy to screen for varices is done at diagnosis and repeated every 2 years.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s3"
+     }
+    },
+    {
+     "stem": "A 57-year-old man with previously stable cirrhosis suddenly decompensates with new ascites. The ascitic neutrophil count is 40 × 10⁶/L and a surveillance scan last month showed no liver mass. Which investigation checks for the vascular event that is a recognised trigger of this?",
+     "answer": 1,
+     "explanation": "Two steps: the low neutrophil count argues against SBP, and portal vein thrombosis is a recognised cause of decompensation in stable cirrhosis – check portal vein patency with Doppler ultrasound.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s6"
+     }
+    },
+    {
+     "stem": "A 52-year-old man needs histology to stage his liver disease. His PT is prolonged by 7 seconds and his platelet count is 55 × 10⁹/L.",
+     "answer": 2,
+     "explanation": "Two steps: histology is needed, but percutaneous biopsy requires PT < 4 s prolonged and platelets > 80 × 10⁹/L – so use the transjugular route.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s2"
+     }
+    },
+    {
+     "stem": "A 50-year-old man with hepatitis C cirrhosis attends routine surveillance. Alongside ultrasound, which blood test is checked every 6 months?",
+     "answer": 4,
+     "explanation": "HCC surveillance is ultrasound plus AFP every 6 months.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 891,
+     "page": 869
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 890,
+     "page": 868
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 877,
+     "page": 855
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 913,
+     "page": 891
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 920,
+     "page": 898
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q22",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Other complications of cirrhosis",
+   "leadIn": "Match each case to the best-fitting option. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Hepatopulmonary syndrome",
+    "Portopulmonary hypertension",
+    "Hepatic hydrothorax",
+    "Portal hypertensive gastropathy",
+    "Hypersplenism",
+    "Portal vein thrombosis",
+    "Acute-on-chronic liver failure",
+    "Hepatocellular carcinoma",
+    "Oesophageal variceal bleeding",
+    "Hepatorenal syndrome"
+   ],
+   "items": [
+    {
+     "stem": "A 49-year-old woman with cirrhosis has clubbing and breathlessness. Her oxygen saturation is 95% lying down but 88% standing. Contrast echocardiography shows bubbles in the left atrium several beats after the right.",
+     "answer": 0,
+     "explanation": "Desaturation on standing (orthodeoxia) and late shunting on contrast echo indicate intrapulmonary vascular dilatation – hepatopulmonary syndrome.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s6"
+     }
+    },
+    {
+     "stem": "A 60-year-old man with cirrhosis has iron-deficiency anaemia without overt bleeding. Endoscopy shows multiple areas of punctate erythema (\"snakeskin\" pattern) in the gastric mucosa and no varices.",
+     "answer": 3,
+     "explanation": "Snakeskin mucosa causing chronic iron loss is portal hypertensive gastropathy; propranolol is first-line.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s3"
+     }
+    },
+    {
+     "stem": "A 55-year-old woman with cirrhosis has a platelet count of 90 × 10⁹/L, a mildly low white count and a palpable spleen. Haemoglobin is normal.",
+     "answer": 4,
+     "explanation": "Platelets around 100 × 10⁹/L with splenomegaly reflect hypersplenism from portal hypertension.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s3"
+     }
+    },
+    {
+     "stem": "A 58-year-old man with cirrhosis has right-sided breathlessness. Chest X-ray shows a large right effusion; tap shows a transudate with a low protein. He also has ascites.",
+     "answer": 2,
+     "explanation": "A right-sided transudate in a patient with ascites is a hepatic hydrothorax (about 10% of patients).",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 920,
+     "page": 898
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Hepatology",
+     "pdfPage": 253,
+     "page": 253
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 893,
+     "page": 871
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 891,
+     "page": 869
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 885,
+     "page": 863
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 61-year-old woman with cirrhotic ascites starts spironolactone and a salt-restricted diet. Over 3 days her weight falls by 2.5 kg a day and her creatinine begins to rise.",
+   "leadIn": "What is the maximum daily weight loss Davidson recommends?",
+   "options": [
+    "0.25 kg/day",
+    "0.5 kg/day",
+    "1 kg/day",
+    "2 kg/day",
+    "3 kg/day"
+   ],
+   "answer": 2,
+   "explanation": "Weight should not fall by more than 1 kg/day, to avoid renal failure and electrolyte disturbance. Her diuretics should be reduced.",
+   "whyNot": [
+    "Slower than needed; not the quoted ceiling.",
+    "Some quick sources aim for about 0.5 kg/day, but Davidson's ceiling is 1 kg/day.",
+    "",
+    "Twice the recommended maximum.",
+    "Far above the safe maximum."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 885,
+     "page": 863
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Liver, biliary tract and pancreatic disease",
+     "pdfPage": 209,
+     "page": 172
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q24",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 35-year-old woman has chronic hepatitis B. Fibroscan and ultrasound show no cirrhosis; liver tests are normal.",
+   "leadIn": "What is the most appropriate HCC surveillance?",
+   "options": [
+    "Ultrasound and AFP every 6 months",
+    "No surveillance unless cirrhosis develops",
+    "CT scan every 2 years",
+    "AFP alone every year",
+    "Liver biopsy every 3 years"
+   ],
+   "answer": 0,
+   "explanation": "Chronic hepatitis B raises HCC risk even without cirrhosis, so Davidson includes it in 6-monthly ultrasound + AFP surveillance.",
+   "whyNot": [
+    "",
+    "HBV is the exception – risk is raised even without cirrhosis.",
+    "CT is used to characterise lesions, not for routine screening.",
+    "AFP alone misses many small tumours.",
+    "Biopsy has no role in surveillance."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 913,
+     "page": 891
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 912,
+     "page": 890
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q25",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 3,
+   "theme": "Treatment of complications of portal hypertension",
+   "leadIn": "Match each case to the best-fitting option. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Endoscopic band ligation",
+    "Cyanoacrylate glue injection",
+    "Sengstaken–Blakemore tube",
+    "TIPSS",
+    "Large-volume paracentesis with albumin",
+    "IV albumin with terlipressin",
+    "IV cefotaxime",
+    "Lactulose",
+    "Propranolol",
+    "Haemodialysis",
+    "Amiloride"
+   ],
+   "items": [
+    {
+     "stem": "A 56-year-old man with cirrhosis is bleeding from varices in the gastric fundus seen at urgent endoscopy.",
+     "answer": 1,
+     "explanation": "Fundal gastric varices are better treated with cyanoacrylate glue (or thrombin) than banding; glue embolism to the lungs is a risk.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s3"
+     }
+    },
+    {
+     "stem": "A 62-year-old woman with cirrhosis has tense, uncomfortable ascites despite spironolactone 400 mg and furosemide 160 mg daily.",
+     "answer": 4,
+     "explanation": "This is refractory ascites; first-line is large-volume paracentesis with albumin 6–8 g per litre removed.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s4"
+     }
+    },
+    {
+     "stem": "A 51-year-old man with cirrhosis and SBP develops oliguria over 3 days; creatinine has trebled despite stopping diuretics and giving albumin. Urine has no protein and very little sodium.",
+     "answer": 5,
+     "explanation": "Two steps: SBP has precipitated renal failure with HRS features, so treat with albumin plus terlipressin.",
+     "studyRef": {
+      "sectionId": "gi-cirrhosis.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 892,
+     "page": 870
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 886,
+     "page": 864
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q26",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 66-year-old man with cirrhosis has a PT prolonged by 6 seconds. He is given IV vitamin K, but the PT is unchanged after 24 hours.",
+   "leadIn": "What is the best explanation?",
+   "options": [
+    "Severe hepatocellular damage",
+    "Obstructive jaundice",
+    "Dietary vitamin K deficiency",
+    "Warfarin ingestion",
+    "Laboratory error"
+   ],
+   "answer": 0,
+   "explanation": "In chronic liver disease a long PT reflects poor synthetic function and is not corrected by vitamin K. Vitamin K corrects deficiency, e.g. from biliary obstruction.",
+   "whyNot": [
+    "",
+    "Cholestatic vitamin K malabsorption would correct with IV vitamin K.",
+    "Dietary deficiency would correct with vitamin K.",
+    "Warfarin effect is reversed by vitamin K.",
+    "A true, uncorrectable PT is expected in severe liver disease."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 875,
+     "page": 853
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q27",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 47-year-old woman with cirrhosis has worsening breathlessness and clubbing. Chest X-ray is clear. Arterial PaO₂ is 8.6 kPa, and her oxygen saturation falls when she stands.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Hepatopulmonary syndrome",
+    "Portopulmonary hypertension",
+    "Hepatic hydrothorax",
+    "Pulmonary embolism",
+    "Tense ascites splinting the diaphragm"
+   ],
+   "answer": 0,
+   "explanation": "Hypoxaemia (PaO₂ < 9.3 kPa) from intrapulmonary vascular dilatation with desaturation on standing is hepatopulmonary syndrome. Liver transplant is the definitive treatment.",
+   "whyNot": [
+    "",
+    "Portopulmonary hypertension is raised pulmonary vascular resistance; orthodeoxia is not its hallmark.",
+    "A hydrothorax would show on the chest X-ray.",
+    "No acute onset or risk factor is given, and orthodeoxia with clubbing points elsewhere.",
+    "Splinting would worsen when lying, not standing."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 920,
+     "page": 898
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Hepatology",
+     "pdfPage": 253,
+     "page": 253
+    }
+   ]
+  },
+  {
+   "id": "gi-cirrhosis.q28",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "Five patients with decompensated cirrhosis are referred for liver transplant assessment.",
+   "leadIn": "Which factor is a contraindication to transplantation?",
+   "options": [
+    "Ongoing active alcohol misuse",
+    "A first episode of SBP",
+    "Diuretic-resistant ascites",
+    "HCC of 3 cm",
+    "Hepatopulmonary syndrome"
+   ],
+   "answer": 0,
+   "explanation": "Active alcohol or substance misuse is a main contraindication; patients must show they can abstain. The other options are indications for assessment.",
+   "whyNot": [
+    "",
+    "This is an indication for assessment.",
+    "This is an indication for assessment.",
+    "A small HCC within Milan criteria is an indication.",
+    "HPS is an indication (a variant syndrome) and can be treated by transplant."
+   ],
+   "studyRef": {
+    "sectionId": "gi-cirrhosis.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 922,
+     "page": 900
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Hepatology",
+     "pdfPage": 923,
+     "page": 901
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "gi-cirrhosis.o1",
+   "sectionId": "gi-cirrhosis.s1",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Hepatology",
+    "pdfPage": 888,
+    "page": 866,
+    "figure": "Fig. 22.18"
+   },
+   "identify": "Histology series: normal lobule vs bridging fibrosis vs established cirrhosis with regenerative nodules surrounded by fibrous septa."
+  },
+  {
+   "id": "gi-cirrhosis.o2",
+   "sectionId": "gi-cirrhosis.s1",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Liver disease",
+    "pdfPage": 1304,
+    "page": 1290,
+    "figure": "Fig. 34.22"
+   },
+   "identify": "Cirrhotic liver on collagen stain (nodules within fibrous bands) and on CT (irregular outline, varices, ascites)."
+  },
+  {
+   "id": "gi-cirrhosis.o3",
+   "sectionId": "gi-cirrhosis.s2",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Hepatology",
+    "pdfPage": 876,
+    "page": 854,
+    "figure": "Fig. 22.9"
+   },
+   "identify": "CT signs of cirrhosis with portal hypertension: shrunken irregular liver, splenomegaly, ascites and gastric collaterals."
+  },
+  {
+   "id": "gi-cirrhosis.o4",
+   "sectionId": "gi-cirrhosis.s3",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Hepatology",
+    "pdfPage": 887,
+    "page": 865,
+    "figure": "Fig. 22.17"
+   },
+   "identify": "Endoscopy: oesophageal varices, gastric varices, and the appearance after band ligation."
+  },
+  {
+   "id": "gi-cirrhosis.o5",
+   "sectionId": "gi-cirrhosis.s3",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Hepatology",
+    "pdfPage": 892,
+    "page": 870,
+    "figure": "Fig. 22.22"
+   },
+   "identify": "Sengstaken–Blakemore tube: gastric balloon (inflate first, 200–250 mL air), oesophageal balloon (≤ 40 mmHg) and aspiration ports."
+  },
+  {
+   "id": "gi-cirrhosis.o6",
+   "sectionId": "gi-cirrhosis.s3",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Hepatology",
+    "pdfPage": 893,
+    "page": 871,
+    "figure": "Fig. 22.23"
+   },
+   "identify": "Radiograph of a TIPSS stent linking the portal vein to the hepatic vein; complications include encephalopathy."
+  },
+  {
+   "id": "gi-cirrhosis.o7",
+   "sectionId": "gi-cirrhosis.s7",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Hepatology",
+    "pdfPage": 913,
+    "page": 891,
+    "figure": "Fig. 22.35"
+   },
+   "identify": "CT: large hepatocellular carcinoma within the liver."
+  },
+  {
+   "id": "gi-cirrhosis.o8",
+   "sectionId": "gi-cirrhosis.s7",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Liver disease",
+    "pdfPage": 1323,
+    "page": 1309,
+    "figure": "Fig. 34.32"
+   },
+   "identify": "Multiphase imaging of HCC: arterial-phase enhancement followed by washout in the portal venous and delayed phases."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:04:47.255Z",
+  "contentHash": "d944ff11b2e35c36f21f25ca2a96668fc65a9ffc2423095e55af71772e0056a6"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:04:47.294Z",
+  "contentHash": "d944ff11b2e35c36f21f25ca2a96668fc65a9ffc2423095e55af71772e0056a6",
+  "checkerVersion": "source-check-v1"
+ }
+}

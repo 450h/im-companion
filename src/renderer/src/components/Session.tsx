@@ -4,7 +4,7 @@
  * section + citation that teaches them (R-12).
  */
 import { useCallback, useEffect, useMemo, useRef, useState, type ReactNode } from 'react'
-import type { Card, Citation, Emq, Question, Sba, TopicContent } from '@shared/content-schema'
+import type { Card, Citation, ContentPack, Emq, Question, Sba, TopicContent } from '@shared/content-schema'
 import type { AnswerFeedback, SessionResult } from '@shared/ipc'
 import { useApp, type SessionSpec, type View } from '../state/app'
 import { BlockView, Cites, FlagButton, Md, citeText, pct } from './ui'
@@ -802,6 +802,7 @@ export function SessionPage({ spec, back }: { spec: SessionSpec; back: View }): 
 
   if (spec.mode === 'ospe') {
     const notes = (spec.topicIds ?? []).flatMap((id) => (pack.topics[id]?.ospe ?? []).map((o) => ({ ...o, topicId: id })))
+    const images = Object.entries(pack.images).filter(([, img]) => img.dataUrl && img.topics.some((t) => (spec.topicIds ?? []).includes(t)))
     return (
       <div className="page">
         {header}
@@ -813,6 +814,15 @@ export function SessionPage({ spec, back }: { spec: SessionSpec; back: View }): 
             <OspeNoteView key={o.id} note={o} />
           ))}
         </div>
+        {images.length > 0 && (
+          <div className="card">
+            <h2>Image slides</h2>
+            <p className="muted">Openly licensed examples — say what each shows before revealing the answer.</p>
+            {images.map(([key, img]) => (
+              <OspeImage key={key} img={img} />
+            ))}
+          </div>
+        )}
         {questionIds.length > 0 ? (
           <TutorRun sessionId={sessionId} questionIds={questionIds} onDone={setResult} />
         ) : (
@@ -847,6 +857,27 @@ export function SessionPage({ spec, back }: { spec: SessionSpec; back: View }): 
       )}
       {stage === 'confidence' && spec.topicId && <ConfidencePicker topicId={spec.topicId} onDone={() => setStage('done')} />}
     </div>
+  )
+}
+
+function OspeImage({ img }: { img: ContentPack['images'][string] }): ReactNode {
+  const [show, setShow] = useState(false)
+  return (
+    <figure className="list-item" style={{ flexDirection: 'column', alignItems: 'flex-start', margin: 0 }}>
+      <img className="ospe-img" src={img.dataUrl} alt={show ? img.title : 'Identify this slide'} />
+      {show ? (
+        <div className="feedback ok">
+          <strong>{img.title}</strong>
+        </div>
+      ) : (
+        <button className="btn sm" onClick={() => setShow(true)}>
+          Reveal answer
+        </button>
+      )}
+      <figcaption className="faint">
+        Image: {img.author} — {img.license} — {img.source}
+      </figcaption>
+    </figure>
   )
 }
 

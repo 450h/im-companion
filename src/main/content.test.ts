@@ -18,7 +18,7 @@ import {
 } from '@shared/content-schema'
 import { MAX_PACK_BYTES, itemCount, lintTopic } from './content-lint'
 
-const ROOT = resolve(__dirname, '../../content')
+const ROOT = resolve(process.env['CONTENT_DIR'] ?? resolve(__dirname, '../../content'))
 const only = process.env['CONTENT_TOPIC']
 const draft = process.env['CONTENT_DRAFT'] === '1'
 
@@ -92,9 +92,10 @@ describe('pack-level checks', () => {
       const themes = z.array(EmqThemeSchema).parse(readJson(emqPath))
       const ids = new Set(blueprint.topics.map((t) => t.id))
       for (const th of themes) {
+        if (th.inBlueprint) expect(th.items.some((i) => i.topicId), `${th.id}: an inBlueprint theme needs ≥ 1 item with a topicId`).toBe(true)
         for (const it of th.items) {
-          if (th.inBlueprint) expect(it.topicId && ids.has(it.topicId), `${th.id} item ${it.n}: topicId required`).toBe(true)
-          expect(it.answer.charCodeAt(0) - 65, `${th.id} item ${it.n}: answer beyond optionCount`).toBeLessThan(th.optionCount)
+          if (it.topicId) expect(ids.has(it.topicId), `${th.id} item ${it.n}: unknown topicId ${it.topicId}`).toBe(true)
+          for (const l of [it.answer, ...(it.alsoAccept ?? [])]) expect(l.charCodeAt(0) - 65, `${th.id} item ${it.n}: letter beyond optionCount`).toBeLessThan(th.optionCount)
         }
       }
     }

@@ -229,6 +229,8 @@ export const EmqThemeSchema = z.strictObject({
       z.strictObject({
         n: z.number().int().min(1).max(12),
         answer: z.string().regex(/^[A-Z]$/),
+        /** Other letters the book also accepts for this item. */
+        alsoAccept: z.array(z.string().regex(/^[A-Z]$/)).max(8).optional(),
         topicId: id.optional(),
         sectionId: id.optional(),
         explanation: md(500)
@@ -254,5 +256,5 @@ export interface ContentPack {
   exams: Exam[]
   emqVolumes: EmqTheme[]
   /** D5 open-licensed images (allowlisted), embedded as data URLs by main (CSP img-src data:). */
-  images: Record<string, { file: string; title: string; author: string; license: string; source: string; dataUrl?: string }>
+  images: Record<string, { file: string; title: string; author: string; license: string; source: string; topics: string[]; dataUrl?: string }>
 }

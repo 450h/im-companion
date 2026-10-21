@@ -1,0 +1,3222 @@
+{
+ "topicId": "gi-malabsorption",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "gi-malabsorption.s1",
+   "title": "Definition & mechanisms of malabsorption",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Malabsorption is a **failure to take up macronutrients and/or micronutrients** from the gut. Think of it when someone eating a normal diet has **chronic diarrhoea together with weight loss**; growth failure and specific deficiencies are other clues. The picture varies a lot in type and severity, and a few patients have a near-normal bowel habit.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 805,
+       "page": 783
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 326,
+       "page": 326
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Three ways absorption fails",
+     "columns": [
+      "Mechanism",
+      "What goes wrong",
+      "Typical examples"
+     ],
+     "rows": [
+      [
+       "Intraluminal maldigestion",
+       "Not enough bile or pancreatic enzyme, so nutrients are poorly solubilised and hydrolysed; fat and protein are lost",
+       "Chronic pancreatitis, cystic fibrosis, pancreatic cancer; bacterial overgrowth (bile salts deconjugated)"
+      ],
+      [
+       "Mucosal malabsorption",
+       "Absorptive surface area and brush-border enzyme activity are reduced",
+       "Coeliac disease, tropical sprue, small-bowel resection"
+      ],
+      [
+       "Post-mucosal (lymphatic) obstruction",
+       "Absorbed lipid cannot enter lymphatics; high lymphatic pressure leaks protein into the lumen (protein-losing enteropathy)",
+       "Whipple disease (macrophages block lymph drainage), intestinal lymphangiectasia"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 806,
+       "page": 784
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 807,
+       "page": 785
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 831,
+       "page": 809
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 830,
+       "page": 808
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Fat absorption: steps that can break",
+     "items": [
+      "Emulsification in the stomach, then **bile acids** solubilise fat",
+      "**Pancreatic lipase** splits triglyceride into fatty acids and monoglycerides",
+      "Products travel in **mixed micelles** to the enterocyte; bile salts stay in the lumen and are reclaimed in the terminal ileum",
+      "Inside the cell, triglyceride is rebuilt and packed into **chylomicrons**, which enter lymph",
+      "A defect at any step gives **steatorrhoea**: faecal fat above about 6 g (17 mmol) per day"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1169,
+       "page": 1154
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Vitamin B12 and bile salts** have their own uptake systems in the **terminal ileum**; most other nutrients are absorbed along the whole small bowel. Ileal disease or resection therefore causes both B12 and bile salt malabsorption.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1169,
+       "page": 1154
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 132,
+       "page": 95
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Medium-chain triglycerides** reach the portal vein directly, without needing micelles or chylomicrons, so they can top up fat intake in pancreatic or bile salt insufficiency (and are used in abetalipoproteinaemia).",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1169,
+       "page": 1154
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 832,
+       "page": 810
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The faecal fat cut-off varies by source: Kumar & Clark defines steatorrhoea as more than 6 g (17 mmol) per day, while Step-Up quotes a positive test as more than 7 g per day in chronic pancreatitis. Know that roughly 6–7 g/day is abnormal.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1169,
+       "page": 1154
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 360,
+       "page": 360
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.s2",
+   "title": "Causes & risk factors",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Causes grouped by site",
+     "columns": [
+      "Group",
+      "Causes"
+     ],
+     "rows": [
+      [
+       "Pancreatic (maldigestion)",
+       "Chronic pancreatitis (alcohol is the commonest cause, over half), pancreatic cancer, cystic fibrosis"
+      ],
+      [
+       "Bile salt deficiency",
+       "Ileal Crohn disease, terminal ileal resection, bacterial overgrowth, bile-salt-binding drugs (colestyramine)"
+      ],
+      [
+       "Mucosal enteropathy",
+       "Coeliac disease, dermatitis herpetiformis, tropical sprue, Crohn disease, lymphoma, radiation enteropathy"
+      ],
+      [
+       "Infection",
+       "Whipple disease, Giardia intestinalis, cryptosporidiosis (especially in HIV)"
+      ],
+      [
+       "Lymphatic",
+       "Intestinal lymphangiectasia, Whipple disease"
+      ],
+      [
+       "Surgical",
+       "Small-bowel resection / short bowel; abnormal anatomy after abdominal surgery (favours bacterial overgrowth)"
+      ],
+      [
+       "Brush-border enzyme",
+       "Lactase deficiency: primary (autosomal recessive) or secondary to small-bowel damage"
+      ],
+      [
+       "Drugs & other",
+       "Orlistat (lipase inhibitor), neomycin, colestyramine; thyrotoxicosis; Zollinger–Ellison syndrome"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 806,
+       "page": 784
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1204,
+       "page": 1189
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1209,
+       "page": 1194
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 326,
+       "page": 326
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 327,
+       "page": 327
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 361,
+       "page": 361
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In developed countries the two commonest small-bowel diseases are **coeliac disease** and **Crohn disease**.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 132,
+       "page": 95
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Coeliac disease: who and why",
+     "items": [
+      "Immune-mediated small-bowel inflammation driven by **gluten** (wheat, rye, barley; oats to a lesser extent) in genetically susceptible people",
+      "UK prevalence about **1%**, and half of these have no symptoms",
+      "Strong link with **HLA-DQ2** (90–95% of patients) and **HLA-DQ8** (about 8%)",
+      "About 10% of first-degree relatives are affected; monozygotic twin concordance about 75%",
+      "Mechanism: **tissue transglutaminase deamidates gliadin** peptides, which then fit HLA-DQ2/DQ8 on antigen-presenting cells; CD4+ T cells mount a Th1 response (IFN-γ), giving raised intra-epithelial lymphocytes, crypt hyperplasia and villous atrophy, worst in the proximal bowel"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 827,
+       "page": 805
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 828,
+       "page": 806
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1205,
+       "page": 1190
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1206,
+       "page": 1191
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Higher-risk groups offered coeliac serology",
+     "items": [
+      "Autoimmune disease: type 1 diabetes, thyroid disease, autoimmune liver disease, Addison disease",
+      "Diarrhoea-predominant IBS-type symptoms",
+      "Unexplained osteoporosis",
+      "First-degree relatives (about 10-fold risk)",
+      "Down syndrome (about 20-fold risk) and Turner syndrome",
+      "Infertility or recurrent miscarriage"
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 133,
+       "page": 96
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Exam favourite: **every new type 1 diabetic is screened for coeliac disease**, even without gut symptoms.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 105,
+       "page": 105
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Small-bowel bacterial overgrowth (SIBO): predisposing causes",
+     "columns": [
+      "Mechanism",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Low gastric acid",
+       "Pernicious anaemia, partial gastrectomy, long-term PPI"
+      ],
+      [
+       "Poor motility",
+       "Systemic sclerosis, diabetic autonomic neuropathy, chronic intestinal pseudo-obstruction"
+      ],
+      [
+       "Structural",
+       "Billroth II blind loop, jejunal diverticulosis, enterocolic fistulae and strictures (often Crohn), extensive resection"
+      ],
+      [
+       "Immune",
+       "Hypogammaglobulinaemia"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 830,
+       "page": 808,
+       "table": "Box 21.44"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "The normal duodenum and jejunum hold fewer than 10^4 organisms/mL (coliforms never above 10^3/mL). In overgrowth, counts reach **10^8–10^10/mL**, mostly colonic-type bacteria.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 830,
+       "page": 808
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other specific causes",
+     "items": [
+      "**Tropical sprue**: chronic progressive malabsorption in someone living in or coming from the tropics (West Indies, southern India, Malaysia, Indonesia); probably infective, often after an acute diarrhoeal illness, with overgrowth of E. coli, Enterobacter and Klebsiella",
+      "**Whipple disease**: Gram-positive bacillus _Tropheryma whipplei_ living inside mucosal macrophages; mainly middle-aged white men",
+      "**Bile acid diarrhoea**: idiopathic (type 1), after ileal resection, after cholecystectomy (type 2), or with microscopic colitis, chronic pancreatitis, coeliac disease, SIBO or diabetes; about 1% prevalence, often mislabelled as IBS-D; classic setting is Crohn ileal resection",
+      "**Abetalipoproteinaemia**: rare autosomal recessive apolipoprotein B deficiency, so chylomicrons cannot form"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 829,
+       "page": 807
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 831,
+       "page": 809
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 832,
+       "page": 810
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.s3",
+   "title": "Symptoms & signs",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The usual story is **diarrhoea (often watery and large-volume) with weight loss**. **Steatorrhoea** means bulky, pale, foul-smelling stools that float, and it signals fat malabsorption. Distension, borborygmi, cramps and undigested food in the stool are common. Some people report only malaise and lethargy, and others present with a deficiency, such as anaemia.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 805,
+       "page": 783
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 806,
+       "page": 784
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 132,
+       "page": 95
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Chronic diarrhoea: where is the problem?",
+     "columns": [
+      "Feature",
+      "Malabsorption",
+      "Small bowel",
+      "Colon"
+     ],
+     "rows": [
+      [
+       "Stool",
+       "Steatorrhoea, undigested food",
+       "Large-volume, watery",
+       "Blood and mucus"
+      ],
+      [
+       "Pain",
+       "—",
+       "Cramping mid-abdominal",
+       "Cramping lower abdominal"
+      ],
+      [
+       "Other",
+       "Weight loss, nutritional deficiency",
+       "Bloating",
+       "—"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 806,
+       "page": 784,
+       "table": "Box 21.18"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Deficiency signs and the missing nutrient",
+     "columns": [
+      "Sign",
+      "Deficiency"
+     ],
+     "rows": [
+      [
+       "Night blindness, follicular hyperkeratosis",
+       "Vitamin A"
+      ],
+      [
+       "Purpura, bruising",
+       "Vitamins C and K"
+      ],
+      [
+       "Bleeding gums",
+       "Vitamin C"
+      ],
+      [
+       "Koilonychia",
+       "Iron"
+      ],
+      [
+       "Angular stomatitis, glossitis, anaemia",
+       "Iron, folate, B12"
+      ],
+      [
+       "Paraesthesia, tetany",
+       "Calcium, magnesium"
+      ],
+      [
+       "Acrodermatitis enteropathica",
+       "Zinc"
+      ],
+      [
+       "Peripheral neuropathy",
+       "B12"
+      ],
+      [
+       "Osteomalacia / rickets",
+       "Calcium, vitamin D"
+      ],
+      [
+       "Proximal myopathy",
+       "Vitamin D"
+      ],
+      [
+       "Muscle wasting",
+       "Protein"
+      ],
+      [
+       "Peripheral oedema",
+       "Hypoalbuminaemia"
+      ],
+      [
+       "Poor wound healing",
+       "Vitamin C, protein, zinc"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 806,
+       "page": 784,
+       "figure": "Fig. 21.22"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 806,
+      "page": 784,
+      "figure": "Fig. 21.22"
+     },
+     "note": "Look at: a body map linking each physical sign of malabsorption (eyes, mouth, nails, skin, bones, nerves) to the nutrient that is lacking."
+    },
+    {
+     "type": "table",
+     "title": "Clues to the specific cause",
+     "columns": [
+      "Cause",
+      "Clinical clues"
+     ],
+     "rows": [
+      [
+       "Coeliac disease",
+       "Adults usually present in the 3rd–4th decade, women twice as often as men; tiredness, weight loss, iron or folate deficiency, mouth ulcers, dyspepsia, bloating. Infants: diarrhoea and failure to thrive after weaning. Often silent: a raised MCV or iron deficiency in pregnancy"
+      ],
+      [
+       "Bacterial overgrowth",
+       "Watery diarrhoea and/or steatorrhoea with B12-deficiency anaemia"
+      ],
+      [
+       "Whipple disease",
+       "Weight loss (90%), diarrhoea (75%), seronegative large-joint arthritis (often the first feature), low-grade fever, pigmentation, lymphadenopathy; CNS disease (dementia, myoclonus, fits) is the most serious"
+      ],
+      [
+       "Tropical sprue",
+       "Diarrhoea, distension, anorexia, fatigue, weight loss; when chronic, megaloblastic anaemia (B12 and folate), ankle oedema, glossitis, stomatitis"
+      ],
+      [
+       "Lactase deficiency",
+       "Bloating, wind, cramps and watery diarrhoea after dairy"
+      ],
+      [
+       "Bile acid diarrhoea",
+       "Urgent watery diarrhoea or mild steatorrhoea"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 828,
+       "page": 806
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 830,
+       "page": 808
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 831,
+       "page": 809
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1205,
+       "page": 1190
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 327,
+       "page": 327
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "fa2ck11",
+      "pdfPage": 326,
+      "page": 326,
+      "figure": "FIGURE 2.6-18"
+     },
+     "note": "Look at: grouped, very itchy papulovesicles placed symmetrically on extensor surfaces (elbows, knees, buttocks, back of scalp) = dermatitis herpetiformis, the skin marker of coeliac disease."
+    },
+    {
+     "type": "pearl",
+     "text": "Test for coeliac disease in anyone with **IBS-like symptoms**. Mouth ulcers, angular stomatitis, infertility and anxiety or depression can be the only clues.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1205,
+       "page": 1190
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In **older people**, coeliac disease is often vague (only about 25% have classic diarrhoea and weight loss). Bacterial overgrowth is commoner in this age group because of atrophic gastritis, jejunal diverticulosis and past gastric surgery.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 830,
+       "page": 808
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Peak age of adult coeliac disease: **Davidson says the 3rd–4th decade** (women affected twice as often), while Kumar & Clark gives a peak in the 5th decade. Use Davidson in the exam.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 828,
+       "page": 806
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1205,
+       "page": 1190
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Dermatitis herpetiformis**: Davidson describes crops of intensely itchy blisters on the **elbows, knees, back and buttocks**, seen in **fewer than 10%** of coeliac patients, although almost all DH patients have villous atrophy. Step-Up quotes 10–20%, and Zero to Finals places the rash on the abdomen. Follow Davidson: extensor surfaces, under 10%.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 829,
+       "page": 807
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 403,
+       "page": 403
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 105,
+       "page": 105
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.s4",
+   "title": "Investigations: blood, stool, enzyme & breath tests",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "First-line blood tests",
+     "items": [
+      "**FBC**: microcytic anaemia (iron) or macrocytic anaemia (folate/B12)",
+      "**Clotting**: prolonged prothrombin time (vitamin K)",
+      "**Biochemistry**: low albumin, calcium, magnesium, phosphate and zinc; U&E",
+      "Folate, B12, immunoglobulins and **coeliac antibodies**",
+      "Then look at the small intestine and/or the pancreas"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 807,
+       "page": 785,
+       "table": "Box 21.19"
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Investigation pathway for suspected malabsorption\">\n<rect x=\"150\" y=\"10\" width=\"340\" height=\"50\" rx=\"8\" fill=\"#eef3fb\" stroke=\"#35557f\" stroke-width=\"2\"/>\n<text x=\"320\" y=\"31\" font-size=\"14\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#1d2b3a\">Suspected malabsorption (steatorrhoea)</text>\n<text x=\"320\" y=\"50\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#1d2b3a\">FBC, clotting, U&amp;E, albumin, Ca, Mg, B12, folate, Igs, coeliac serology</text>\n<line x1=\"320\" y1=\"60\" x2=\"160\" y2=\"105\" stroke=\"#35557f\" stroke-width=\"2\"/>\n<line x1=\"320\" y1=\"60\" x2=\"480\" y2=\"105\" stroke=\"#35557f\" stroke-width=\"2\"/>\n<rect x=\"10\" y=\"105\" width=\"300\" height=\"75\" rx=\"8\" fill=\"#f3f8ef\" stroke=\"#4c7a34\" stroke-width=\"2\"/>\n<text x=\"160\" y=\"126\" font-size=\"14\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#1d2b3a\">Small intestine</text>\n<text x=\"160\" y=\"146\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#1d2b3a\">Duodenal biopsy, small-bowel MRI or barium</text>\n<text x=\"160\" y=\"164\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#1d2b3a\">Faecal calprotectin, glucose/lactulose H2 breath test</text>\n<rect x=\"330\" y=\"105\" width=\"300\" height=\"75\" rx=\"8\" fill=\"#fbf3ec\" stroke=\"#9a5a22\" stroke-width=\"2\"/>\n<text x=\"480\" y=\"126\" font-size=\"14\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#1d2b3a\">Pancreas</text>\n<text x=\"480\" y=\"146\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#1d2b3a\">Faecal elastase (function)</text>\n<text x=\"480\" y=\"164\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#1d2b3a\">Ultrasound / CT, MRCP (structure)</text>\n<line x1=\"160\" y1=\"180\" x2=\"320\" y2=\"225\" stroke=\"#35557f\" stroke-width=\"2\"/>\n<line x1=\"480\" y1=\"180\" x2=\"320\" y2=\"225\" stroke=\"#35557f\" stroke-width=\"2\"/>\n<text x=\"320\" y=\"210\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#1d2b3a\">both normal</text>\n<rect x=\"150\" y=\"225\" width=\"340\" height=\"60\" rx=\"8\" fill=\"#f5f0fa\" stroke=\"#5b3f86\" stroke-width=\"2\"/>\n<text x=\"320\" y=\"248\" font-size=\"14\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#1d2b3a\">Consider bile acid malabsorption</text>\n<text x=\"320\" y=\"268\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#1d2b3a\">75SeHCAT retention or serum 7α-hydroxycholestenone</text>\n</svg>",
+     "alt": "Pathway: bloods and coeliac serology, then small-intestine tests (biopsy, MRI, calprotectin, breath test) or pancreatic tests (faecal elastase, US/CT, MRCP); if both are normal, test for bile acid malabsorption with SeHCAT or 7α-hydroxycholestenone.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 807,
+       "page": 785,
+       "figure": "Fig. 21.23"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Stool, enzyme and breath tests",
+     "columns": [
+      "Test",
+      "What it measures",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "Faecal elastase",
+       "Pancreatic exocrine function (immunoassay on one random stool)",
+       "Quick and simple; misses mild insufficiency"
+      ],
+      [
+       "Pancreolauryl test",
+       "Pancreatic esterase splits oral fluorescein dilaurate; fluorescein is measured in urine",
+       "Accurate but takes 2 days; rarely used"
+      ],
+      [
+       "Secretin/CCK stimulation",
+       "Duodenal fluid sampled at endoscopy after stimulating the pancreas",
+       "Direct test; serum amylase and lipase are not useful in chronic pancreatitis"
+      ],
+      [
+       "Faecal calprotectin",
+       "Neutrophil protein released with gut inflammation or neoplasia",
+       "Good screen for mucosal inflammation and for monitoring IBD; poor for cancer"
+      ],
+      [
+       "75SeHCAT",
+       "7-day whole-body retention of a labelled bile acid",
+       ">15% normal, 5–15% borderline, <5% abnormal; needs two visits and radiation"
+      ],
+      [
+       "Serum 7α-hydroxycholestenone",
+       "Bile acid synthesis intermediate; raised in bile acid diarrhoea",
+       "Almost as sensitive and specific as SeHCAT"
+      ],
+      [
+       "Lactose H2 breath test",
+       "Breath hydrogen after 50 g lactose; undigested lactose is fermented in the colon",
+       "Accurate, non-invasive; may provoke symptoms"
+      ],
+      [
+       "Glucose or lactulose H2 breath test",
+       "An early H2 rise shows bacteria in the small bowel",
+       "Non-radioactive but lacks sensitivity"
+      ],
+      [
+       "Jejunal aspirate culture",
+       "Aerobic and anaerobic culture of jejunal fluid",
+       "Direct test for bacterial overgrowth"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 799,
+       "page": 777,
+       "table": "Box 21.12"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 830,
+       "page": 808
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 231,
+       "page": 194
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 362,
+       "page": 362
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Coeliac serology",
+     "items": [
+      "**IgA tissue transglutaminase (tTG)**: test of choice in many countries, more than 95% sensitive and specific",
+      "**IgA anti-endomysial (EMA)**: 85–95% sensitive, about 99% specific",
+      "Always measure **total IgA**: selective IgA deficiency affects about 2–2.5% of coeliac patients (0.25% of the general population) and gives false-negative IgA tests, so use **IgG-based tests** (e.g. deamidated gliadin peptide antibody)",
+      "The patient must **keep eating gluten** until biopsy; titres fall with successful treatment",
+      "**HLA-DQ2/DQ8 typing** has little role in confirming the diagnosis, but absence of both has a high negative predictive value (useful if already gluten-free)"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 829,
+       "page": 807
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1206,
+       "page": 1191
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 105,
+       "page": 105
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 326,
+       "page": 326
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 828,
+       "page": 806
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 133,
+       "page": 96
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Coeliac blood picture",
+     "items": [
+      "Anaemia in about half of cases",
+      "Folate deficiency is common, iron deficiency is common, **B12 deficiency is rare**",
+      "**Dimorphic film** (microcytes and macrocytes) with hypersegmented neutrophils",
+      "**Hyposplenism**: Howell–Jolly bodies, target cells",
+      "Low calcium, magnesium, albumin and vitamin D"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 829,
+       "page": 807
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1206,
+       "page": 1191
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 133,
+       "page": 96
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "In bacterial overgrowth expect **low B12 with normal or raised folate**: the bacteria use up B12 and make folic acid. Coeliac disease tends to show the opposite pattern (low folate, B12 usually normal).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 830,
+       "page": 808
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 133,
+       "page": 96
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Ask the patient to **rinse with antiseptic mouthwash** before a hydrogen breath test, because mouth bacteria can cause a false early peak. When suspicion of overgrowth is high, a therapeutic antibiotic trial is a reasonable alternative.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1207,
+       "page": 1192
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 135,
+       "page": 98
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Lactose intolerance: Davidson tests it with a **lactose hydrogen breath test** (50 g lactose), whereas Kumar & Clark describes 50 g lactose with serial blood glucose over 2 hours. Give the breath test as the standard answer.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 799,
+       "page": 777
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1208,
+       "page": 1193
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.s5",
+   "title": "Investigations: endoscopy, biopsy & imaging",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Endoscopic duodenal biopsy is the gold standard** for coeliac disease. The mucosa usually looks normal, so biopsies are taken whatever the appearance. Because changes are patchy, Davidson advises taking **at least five D2 samples (more than four) and one bulb sample**, taken while the patient is still eating gluten.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 828,
+       "page": 806
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 829,
+       "page": 807
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1205,
+       "page": 1190
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Marsh–Oberhuber grading of coeliac histology",
+     "columns": [
+      "Grade",
+      "Appearance"
+     ],
+     "rows": [
+      [
+       "0",
+       "Normal mucosa"
+      ],
+      [
+       "1",
+       "Excess IELs only"
+      ],
+      [
+       "2",
+       "Crypt hyperplasia (deepened crypts)"
+      ],
+      [
+       "3a",
+       "Villi partly flattened"
+      ],
+      [
+       "3b",
+       "Villi mostly flattened (subtotal atrophy)"
+      ],
+      [
+       "3c",
+       "Villi completely flat (total atrophy)"
+      ],
+      [
+       "4",
+       "Shrunken, hypoplastic mucosa"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1205,
+       "page": 1190,
+       "table": "Box 32.34"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Coeliac histology",
+     "items": [
+      "Intra-epithelial lymphocytes increased (above 25 per 100 enterocytes)",
+      "Crypt hyperplasia",
+      "Chronic inflammatory infiltrate in the lamina propria",
+      "Villous atrophy; grades 2 and 3 support the diagnosis"
+     ],
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 327,
+       "page": 327
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 133,
+       "page": 96
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1205,
+       "page": 1190
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 829,
+      "page": 807,
+      "figure": "Fig. 21.42"
+     },
+     "note": "Look at: normal jejunum beside subtotal villous atrophy, showing blunted villi, deep (hyperplastic) crypts and a lamina propria crowded with inflammatory cells."
+    },
+    {
+     "type": "bullets",
+     "title": "Subtotal villous atrophy: not only coeliac",
+     "items": [
+      "Tropical sprue, dermatitis herpetiformis",
+      "Lymphoma, HIV enteropathy",
+      "Giardiasis, hypogammaglobulinaemia",
+      "Radiation, Whipple disease, Zollinger–Ellison syndrome"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 828,
+       "page": 806,
+       "table": "Box 21.43"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Biopsy and imaging by cause",
+     "columns": [
+      "Cause",
+      "Key finding"
+     ],
+     "rows": [
+      [
+       "Whipple disease",
+       "PAS-positive foamy macrophages packed in the lamina propria, harbouring the Gram-positive bacillus; PCR confirms; electron microscopy shows the trilaminar bacterial wall. Endoscopy: pale, shaggy duodenum with red friable patches"
+      ],
+      [
+       "Tropical sprue",
+       "Partial villous atrophy affecting the whole small bowel; usually milder than in coeliac disease"
+      ],
+      [
+       "Hypogammaglobulinaemia",
+       "Few or no plasma cells; nodular lymphoid hyperplasia"
+      ],
+      [
+       "Abetalipoproteinaemia",
+       "Enterocytes swollen with fat; villi normal"
+      ],
+      [
+       "Bacterial overgrowth",
+       "Barium follow-through or MRI enterography shows blind loops or fistulae; duodenal biopsy excludes coeliac disease"
+      ],
+      [
+       "Pancreatic cause",
+       "CT or MRI/MRCP first (a normal CT does not exclude mild chronic pancreatitis); plain-film calcification in only about 30%; EUS for difficult cases; ERCP no longer used for diagnosis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 831,
+       "page": 809
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1209,
+       "page": 1194
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1207,
+       "page": 1192
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 830,
+       "page": 808
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 832,
+       "page": 810
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 362,
+       "page": 362
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Imaging and enteroscopy",
+     "items": [
+      "Coeliac disease on barium or MRI: dilated small bowel, thick folds, slow transit; imaging and capsule endoscopy are kept for suspected complications such as lymphoma",
+      "All coeliac patients should have **DXA** for osteoporosis risk",
+      "**Double balloon enteroscopy** reaches the whole small bowel to the terminal ileum; malabsorption or unexplained diarrhoea is an indication; risks include post-procedure pain (up to 20%) and pancreatitis (1–3%)",
+      "Unexplained iron deficiency anaemia: OGD plus colonoscopy with a **distal duodenal biopsy** to look for coeliac disease"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1206,
+       "page": 1191
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 134,
+       "page": 97
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 798,
+       "page": 776,
+       "table": "Box 21.7"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 131,
+       "page": 94
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Biopsy numbers differ: **Davidson says more than four from D2 plus one from the bulb**; Kumar & Clark says 4–6 from D2 and the bulb. Quote Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 828,
+       "page": 806
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1205,
+       "page": 1190
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Villous atrophy is **not specific** to coeliac disease, although coeliac disease is its commonest cause. Check serology, HLA context and the response to a gluten-free diet before labelling it.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 133,
+       "page": 96
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 828,
+       "page": 806
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.s6",
+   "title": "Complications",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Nutritional complications",
+     "items": [
+      "Anaemia (iron, folate, B12)",
+      "Osteoporosis and osteomalacia (calcium, vitamin D)",
+      "Bleeding tendency (vitamin K)",
+      "Hypoalbuminaemia with oedema"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 806,
+       "page": 784
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 807,
+       "page": 785
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 106,
+       "page": 106
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Complications of coeliac disease",
+     "columns": [
+      "Complication",
+      "Key facts"
+     ],
+     "rows": [
+      [
+       "Malignancy",
+       "About twofold overall risk: enteropathy-associated T-cell lymphoma (EATL), small-bowel carcinoma, oesophageal squamous carcinoma; risk may fall on a gluten-free diet"
+      ],
+      [
+       "Ulcerative jejuno-ileitis",
+       "Fever, pain, obstruction or perforation"
+      ],
+      [
+       "Bone disease",
+       "Osteoporosis and osteomalacia, mainly with long-standing poorly controlled disease"
+      ],
+      [
+       "Hyposplenism",
+       "Splenic atrophy; Howell–Jolly bodies on film"
+      ],
+      [
+       "Refractory coeliac disease",
+       "Type 1 (normal polyclonal lymphocytes): 5-year survival 93%. Type 2 (abnormal clonal lymphocytes): 40–60%. EATL 5-year survival only 8–20%"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 829,
+       "page": 807
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1206,
+       "page": 1191
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 134,
+       "page": 97
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 106,
+       "page": 106
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Disease associations of coeliac disease",
+     "items": [
+      "Type 1 diabetes (2–8%), thyroid disease (5%), primary biliary cholangitis (3%), Sjögren syndrome (3%), IgA deficiency (2%)",
+      "Dermatitis herpetiformis, Down syndrome, microscopic colitis, pancreatic insufficiency",
+      "Neurological: cerebellar atrophy, peripheral neuropathy, epilepsy"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 828,
+       "page": 806,
+       "table": "Box 21.42"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Consequences of terminal ileal resection",
+     "columns": [
+      "Consequence",
+      "Why"
+     ],
+     "rows": [
+      [
+       "Watery (bile salt) diarrhoea",
+       "Unabsorbed bile salts reach the colon and drive water and electrolyte secretion"
+      ],
+      [
+       "Steatorrhoea",
+       "If more than about one-third of bile salts is lost, hepatic synthesis cannot keep up and micelles fail"
+      ],
+      [
+       "Gallstones",
+       "Smaller bile salt pool makes bile lithogenic"
+      ],
+      [
+       "Oxalate kidney stones",
+       "Bile salts bind colonic calcium, leaving oxalate free to be absorbed"
+      ],
+      [
+       "B12 deficiency",
+       "Loss of the ileal B12 uptake site (megaloblastic anaemia)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 831,
+       "page": 809
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 832,
+       "page": 810,
+       "figure": "Fig. 21.43"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1208,
+       "page": 1193
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 135,
+       "page": 98
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 832,
+      "page": 810,
+      "figure": "Fig. 21.43"
+     },
+     "note": "Look at: the chain from ileal resection to bile salt diarrhoea, fat malabsorption, gallstones, oxalate calculi and B12 malabsorption."
+    },
+    {
+     "type": "bullets",
+     "title": "Short bowel syndrome",
+     "items": [
+      "Follows massive resection leaving **less than 1 m** of small bowel in continuity",
+      "Ileal loss is tolerated worse than jejunal loss, because the ileum adapts poorly (low GLP-2)",
+      "Most patients with **under 100 cm of jejunum and no colon** need parenteral supplements; an intact colon helps a lot",
+      "Jejunal resection may cause gastric acid hypersecretion with high gastrin"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1208,
+       "page": 1193
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1209,
+       "page": 1194
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 135,
+       "page": 98
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Protein-losing enteropathy",
+     "items": [
+      "Low albumin and oedema from protein leaking across abnormal mucosa or from blocked lymphatics",
+      "Causes: Crohn disease, Ménétrier disease, coeliac disease, lymphangiectasia"
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 136,
+       "page": 99
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 807,
+       "page": 785
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Oxalate stones after ileal resection are a classic two-step question: **bile salts grab the calcium** that normally precipitates oxalate in the colon, so oxalate is absorbed and appears in urine.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 831,
+       "page": 809
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.s7",
+   "title": "Treatment options",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Treatment by cause",
+     "columns": [
+      "Cause",
+      "Treatment"
+     ],
+     "rows": [
+      [
+       "Coeliac disease",
+       "Life-long gluten-free diet (no wheat, rye, barley; oats excluded at first and usually reintroduced after 6–12 months); correct iron, folate, calcium and vitamin D; dietitian follow-up with serial tTG/EMA; re-biopsy only if no response"
+      ],
+      [
+       "Dermatitis herpetiformis",
+       "Gluten-free diet; some also need dapsone 100–150 mg daily"
+      ],
+      [
+       "Tropical sprue",
+       "Tetracycline 250 mg four times daily for 28 days plus folic acid 5 mg daily"
+      ],
+      [
+       "Bacterial overgrowth",
+       "Treat the cause; 2-week broad-spectrum antibiotic (e.g. tetracycline, metronidazole, amoxicillin or ciprofloxacin); add neomycin if breath methane is high; IM B12 in chronic cases; relapse is common"
+      ],
+      [
+       "Whipple disease",
+       "IV ceftriaxone 2 g daily for 2 weeks, then oral co-trimoxazole for at least 1 year"
+      ],
+      [
+       "Bile acid diarrhoea",
+       "Bile acid sequestrant (colestyramine or colesevelam); aluminium hydroxide as an alternative"
+      ],
+      [
+       "Pancreatic insufficiency",
+       "Pancreatic enzyme replacement, with acid suppression for non-enteric-coated preparations so gastric acid does not degrade the enzymes; stop alcohol and smoking; small low-fat meals"
+      ],
+      [
+       "Lactase deficiency",
+       "Avoid dairy; oral lactase supplements"
+      ],
+      [
+       "Abetalipoproteinaemia",
+       "Low-fat diet with medium-chain triglycerides and vitamins A, D, E and K"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 829,
+       "page": 807
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 830,
+       "page": 808
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 831,
+       "page": 809
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 832,
+       "page": 810
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 363,
+       "page": 363
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 327,
+       "page": 327
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Coeliac disease: extra points",
+     "items": [
+      "Splenic atrophy: give **pneumococcal vaccination** (Kumar & Clark: repeat every 5 years)",
+      "Monitor symptoms, weight and antibodies; undetectable antibodies show a response",
+      "Monitor for thyroid, liver and type 1 diabetes autoimmunity and for osteoporosis"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1206,
+       "page": 1191
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 134,
+       "page": 97
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 326,
+       "page": 326
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 829,
+       "page": 807
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Short bowel syndrome",
+     "columns": [
+      "Situation",
+      "Management"
+     ],
+     "rows": [
+      [
+       "Jejunum ending in a stoma",
+       "Sodium and water loss; with ≤100 cm jejunum, parenteral fluid usually needed. Oral glucose–electrolyte solution (Na 90 mmol/L), limit hypotonic drinks; octreotide, PPI, loperamide, codeine; teduglutide (GLP-2 analogue) cuts stoma output. Low-fat diet does not help"
+      ],
+      [
+       "Small bowel joined to colon",
+       "Fewer need parenteral support. Low-fat, high-carbohydrate diet: the colon absorbs short-chain fatty acids made from carbohydrate"
+      ],
+      [
+       "Absorption failed",
+       "Parenteral nutrition is the mainstay; intestinal transplant in a few centres"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1209,
+       "page": 1194
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 135,
+       "page": 98
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The commonest reason a coeliac patient does not improve is **continued (often accidental) gluten intake**. Next consider pancreatic insufficiency, microscopic colitis, ulcerative jejunitis or EATL. True refractory disease needs glucocorticoids or immunosuppressants.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 829,
+       "page": 807
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Tropical sprue regimen differs: **Davidson: tetracycline 250 mg four times daily for 28 days** plus folic acid 5 mg daily. Kumar & Clark gives tetracycline 1 g daily for up to 6 months (plus B12 in acute cases), and Kumar Essentials gives 3–6 months. Quote Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 830,
+       "page": 808
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1207,
+       "page": 1192
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 134,
+       "page": 97
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Oats: **Davidson excludes oats at first**, reintroducing them after 6–12 months in most patients; Kumar & Clark says most coeliac patients tolerate uncontaminated oats from the start.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 829,
+       "page": 807
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1206,
+       "page": 1191
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Whipple disease relapses in **up to one-third** (Davidson), often in the CNS; repeat the same therapy or use doxycycline plus hydroxychloroquine. Kumar & Clark says courses shorter than 1 year relapse in about 40%.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 831,
+       "page": 809
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1209,
+       "page": 1194
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "gi-malabsorption.c1",
+   "sectionId": "gi-malabsorption.s1",
+   "front": "Three mechanisms of malabsorption?",
+   "back": "Intraluminal maldigestion (bile/pancreatic enzyme lack), mucosal malabsorption (reduced surface/brush border), post-mucosal lymphatic obstruction",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 806,
+     "page": 784
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 807,
+     "page": 785
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.c2",
+   "sectionId": "gi-malabsorption.s1",
+   "front": "Faecal fat level that defines steatorrhoea (Kumar & Clark)?",
+   "back": "More than 6 g (17 mmol) per day",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1169,
+     "page": 1154
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.c3",
+   "sectionId": "gi-malabsorption.s1",
+   "front": "Which two substances depend on specific terminal-ileal uptake?",
+   "back": "Vitamin B12 and bile salts",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1169,
+     "page": 1154
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 132,
+     "page": 95
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.c4",
+   "sectionId": "gi-malabsorption.s2",
+   "front": "HLA types linked to coeliac disease and their frequency?",
+   "back": "HLA-DQ2 in 90–95%; HLA-DQ8 in about 8%",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1206,
+     "page": 1191
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.c5",
+   "sectionId": "gi-malabsorption.s2",
+   "front": "Four mechanism groups predisposing to small-bowel bacterial overgrowth?",
+   "back": "Low gastric acid, poor motility, structural blind loops/diverticula/fistulae, hypogammaglobulinaemia",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 830,
+     "page": 808
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.c6",
+   "sectionId": "gi-malabsorption.s2",
+   "front": "Cause of Whipple disease?",
+   "back": "_Tropheryma whipplei_, a Gram-positive bacillus living in mucosal macrophages",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 831,
+     "page": 809
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.c7",
+   "sectionId": "gi-malabsorption.s3",
+   "front": "Acrodermatitis enteropathica points to deficiency of?",
+   "back": "Zinc",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 806,
+     "page": 784,
+     "figure": "Fig. 21.22"
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.c8",
+   "sectionId": "gi-malabsorption.s3",
+   "front": "Often the first feature of Whipple disease?",
+   "back": "Seronegative large-joint arthropathy (CNS involvement is the most serious)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 831,
+     "page": 809
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.c9",
+   "sectionId": "gi-malabsorption.s4",
+   "front": "75SeHCAT 7-day retention cut-offs?",
+   "back": "Above 15% normal; 5–15% borderline; below 5% abnormal (bile acid malabsorption)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 799,
+     "page": 777
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.c10",
+   "sectionId": "gi-malabsorption.s4",
+   "front": "B12/folate pattern in bacterial overgrowth?",
+   "back": "Low B12 with normal or raised folate",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 830,
+     "page": 808
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.c11",
+   "sectionId": "gi-malabsorption.s4",
+   "front": "Why check total IgA with coeliac serology?",
+   "back": "Selective IgA deficiency (about 2% of coeliacs) makes IgA tTG/EMA falsely negative; use IgG-based tests",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 829,
+     "page": 807
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1206,
+     "page": 1191
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 828,
+     "page": 806
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 133,
+     "page": 96
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.c12",
+   "sectionId": "gi-malabsorption.s5",
+   "front": "Davidson: duodenal biopsies for suspected coeliac disease?",
+   "back": "More than four from D2 plus one from the duodenal bulb, while still eating gluten",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 828,
+     "page": 806
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 829,
+     "page": 807
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.c13",
+   "sectionId": "gi-malabsorption.s5",
+   "front": "Small-bowel biopsy finding in Whipple disease?",
+   "back": "PAS-positive foamy macrophages in the lamina propria; confirm with PCR",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 831,
+     "page": 809
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1209,
+     "page": 1194
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.c14",
+   "sectionId": "gi-malabsorption.s6",
+   "front": "Why do oxalate stones form after ileal resection?",
+   "back": "Bile salts in the colon bind calcium, so free oxalate is absorbed",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 831,
+     "page": 809
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.c15",
+   "sectionId": "gi-malabsorption.s6",
+   "front": "Cancers with increased risk in coeliac disease?",
+   "back": "EATL, small-bowel carcinoma, oesophageal squamous carcinoma (about twofold overall)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 829,
+     "page": 807
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.c16",
+   "sectionId": "gi-malabsorption.s7",
+   "front": "Davidson treatment of tropical sprue?",
+   "back": "Tetracycline 250 mg four times daily for 28 days plus folic acid 5 mg daily",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 830,
+     "page": 808
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.c17",
+   "sectionId": "gi-malabsorption.s7",
+   "front": "Treatment of Whipple disease?",
+   "back": "IV ceftriaxone 2 g daily for 2 weeks, then oral co-trimoxazole for at least 1 year",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 831,
+     "page": 809
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.c18",
+   "sectionId": "gi-malabsorption.s7",
+   "front": "Commonest cause of non-response to a gluten-free diet?",
+   "back": "Continued, often accidental, gluten intake",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 829,
+     "page": 807
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "gi-malabsorption.q1",
+   "kind": "emq",
+   "leadIn": "Pick the best match from the list for each patient below. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Mechanisms of malabsorption",
+   "options": [
+    "Deficient pancreatic lipase secretion",
+    "Bile salt pool depleted by terminal ileal loss",
+    "Bacterial deconjugation of bile salts",
+    "Loss of mucosal surface from villous atrophy",
+    "Brush-border lactase deficiency",
+    "Obstructed intestinal lymphatic drainage",
+    "Failure of chylomicron assembly",
+    "Drug inhibition of gastric and pancreatic lipase",
+    "Drug binding of bile salts in the lumen",
+    "Rapid transit from hyperthyroidism"
+   ],
+   "items": [
+    {
+     "stem": "A 34-year-old woman started a prescribed weight-loss tablet 3 weeks ago. She now has oily, loose stools with urgency but feels otherwise well and has normal blood tests.",
+     "answer": 7,
+     "explanation": "Orlistat blocks gastric and pancreatic lipase, so dietary fat is not hydrolysed and appears in the stool as steatorrhoea.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s1"
+     }
+    },
+    {
+     "stem": "A 19-year-old man has had fatty stools since childhood, poor night vision from retinitis pigmentosa and an unsteady gait. Serum cholesterol and triglyceride are very low and the blood film shows acanthocytes. Jejunal biopsy shows normal villi with enterocytes swollen by fat.",
+     "answer": 6,
+     "explanation": "Abetalipoproteinaemia: apolipoprotein B is missing, so chylomicrons cannot form and fat stays trapped in the enterocyte (normal villi, fat-laden cells).",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s1"
+     }
+    },
+    {
+     "stem": "A 52-year-old man has had joint pains for years and now has weight loss, steatorrhoea and low-grade fever. Duodenal biopsy shows a lamina propria packed with PAS-positive macrophages.",
+     "answer": 5,
+     "explanation": "Two steps: the biopsy shows Whipple disease, and in Whipple disease macrophages packed into widened villi block lymphatic drainage, so absorbed fat cannot leave (post-mucosal mechanism).",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1209,
+     "page": 1194
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 832,
+     "page": 810
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 831,
+     "page": 809
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 807,
+     "page": 785
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q2",
+   "kind": "emq",
+   "leadIn": "Pick the best match from the list for each patient below. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Underlying causes of small-bowel bacterial overgrowth",
+   "options": [
+    "Long-term proton pump inhibitor therapy",
+    "Pernicious anaemia",
+    "Billroth II gastrectomy with afferent blind loop",
+    "Jejunal diverticulosis",
+    "Systemic sclerosis",
+    "Diabetic autonomic neuropathy",
+    "Crohn enterocolic fistula",
+    "Hypogammaglobulinaemia",
+    "Chronic intestinal pseudo-obstruction",
+    "Coeliac disease",
+    "Chronic pancreatitis"
+   ],
+   "items": [
+    {
+     "stem": "A 58-year-old woman with Raynaud phenomenon, tight shiny finger skin and dysphagia develops bloating and diarrhoea. A glucose hydrogen breath test shows an early hydrogen peak.",
+     "answer": 4,
+     "explanation": "Systemic sclerosis fibroses both muscle layers of the bowel, so motility fails and bacteria overgrow.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s2"
+     }
+    },
+    {
+     "stem": "A 44-year-old man has recurrent sinus and chest infections and repeated giardiasis. Serum IgG, IgA and IgM are all low, and duodenal biopsy shows almost no plasma cells with nodular lymphoid hyperplasia.",
+     "answer": 7,
+     "explanation": "Hypogammaglobulinaemia lowers IgA and IgM in serum and gut secretions, allowing overgrowth and recurrent infection; the biopsy features are typical.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s2"
+     }
+    },
+    {
+     "stem": "A 74-year-old man had a partial gastrectomy with gastrojejunal anastomosis for peptic ulcer 30 years ago. He now has diarrhoea and a macrocytic anaemia with low B12 and high folate.",
+     "answer": 2,
+     "explanation": "The afferent loop of a Billroth II gastrectomy is a classic stagnant blind loop where bacteria multiply; the B12-low, folate-high pattern fits overgrowth.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s2"
+     }
+    },
+    {
+     "stem": "A 63-year-old woman with type 1 diabetes for 35 years has postural dizziness, gustatory sweating and nocturnal diarrhoea. Coeliac serology is negative and a breath test suggests bacterial overgrowth.",
+     "answer": 5,
+     "explanation": "Long-standing diabetes with autonomic features (postural hypotension, sweating) points to autonomic neuropathy, which slows small-bowel motility. Negative serology argues against coeliac disease.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 830,
+     "page": 808
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 39-year-old man with steatorrhoea from chronic pancreatitis says he struggles to see when driving at dusk. On examination there are rough, raised papules around the hair follicles on his arms.",
+   "leadIn": "Deficiency of which nutrient explains both findings?",
+   "options": [
+    "Vitamin D",
+    "Vitamin K",
+    "Vitamin A",
+    "Zinc",
+    "Vitamin B12"
+   ],
+   "answer": 2,
+   "explanation": "Night blindness and follicular hyperkeratosis are both signs of **vitamin A** deficiency, a fat-soluble vitamin lost in steatorrhoea.",
+   "whyNot": [
+    "Vitamin D deficiency gives osteomalacia and proximal myopathy.",
+    "Vitamin K deficiency gives bruising and a prolonged prothrombin time.",
+    "",
+    "Zinc deficiency gives acrodermatitis enteropathica and poor wound healing.",
+    "B12 deficiency gives neuropathy, glossitis and macrocytic anaemia."
+   ],
+   "studyRef": {
+    "sectionId": "gi-malabsorption.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 806,
+     "page": 784,
+     "figure": "Fig. 21.22"
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 55-year-old white man has had flitting pains in his knees and ankles for several years; rheumatoid factor is negative. Over the last 6 months he has lost 10 kg and has diarrhoea, low-grade fevers, darker skin and enlarged lymph nodes in several areas.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Crohn disease",
+    "Coeliac disease",
+    "Tropical sprue",
+    "Intestinal lymphangiectasia",
+    "Whipple disease"
+   ],
+   "answer": 4,
+   "explanation": "Middle-aged white man with years of **seronegative large-joint arthritis** that came before gut symptoms, plus fever, pigmentation and lymphadenopathy: classic multisystem **Whipple disease**.",
+   "whyNot": [
+    "Crohn disease can cause arthritis, but pigmentation, widespread lymphadenopathy and years of arthritis before gut symptoms fit Whipple disease better.",
+    "Coeliac disease does not usually cause fever, pigmentation and lymphadenopathy.",
+    "Tropical sprue needs residence in or travel to the tropics and lacks the arthritis.",
+    "Lymphangiectasia causes protein loss and oedema, not arthritis and fever.",
+    ""
+   ],
+   "studyRef": {
+    "sectionId": "gi-malabsorption.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 831,
+     "page": 809,
+     "table": "Box 21.46"
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q5",
+   "kind": "emq",
+   "leadIn": "Pick the best match from the list for each patient below. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Choosing tests in suspected malabsorption",
+   "options": [
+    "IgA tissue transglutaminase antibody",
+    "Total serum IgA",
+    "IgG deamidated gliadin peptide antibody",
+    "Faecal elastase",
+    "Faecal calprotectin",
+    "75SeHCAT retention scan",
+    "Glucose hydrogen breath test",
+    "Lactose hydrogen breath test",
+    "HLA-DQ2/DQ8 typing",
+    "Serum B12 and folate",
+    "Pancreolauryl test"
+   ],
+   "items": [
+    {
+     "stem": "A 31-year-old woman gets bloating, wind and watery stools within hours of milky tea or ice cream. She has no weight loss. Which non-invasive test best confirms the suspected problem?",
+     "answer": 7,
+     "explanation": "Symptoms after dairy suggest lactase deficiency; undigested lactose is fermented in the colon and raises breath hydrogen.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s4"
+     }
+    },
+    {
+     "stem": "A 40-year-old woman had 40 cm of terminal ileum removed for Crohn disease 2 years ago and now has urgent watery diarrhoea. Which test measures the suspected mechanism directly?",
+     "answer": 5,
+     "explanation": "Ileal resection causes bile acid malabsorption; SeHCAT measures 7-day retention of a labelled bile acid (below 5% is abnormal).",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s4"
+     }
+    },
+    {
+     "stem": "A 27-year-old man with iron deficiency and bloating has a negative IgA tTG, but total IgA is undetectable. Which serological test should come next?",
+     "answer": 2,
+     "explanation": "Two steps: undetectable IgA makes any IgA-based coeliac test falsely negative, so an IgG-based test such as deamidated gliadin peptide antibody is used.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s4"
+     }
+    },
+    {
+     "stem": "A 50-year-old woman has followed a strict gluten-free diet for 2 years on her own and refuses a gluten challenge. She asks whether she could have coeliac disease at all. Which test can effectively rule it out?",
+     "answer": 8,
+     "explanation": "Serology and histology normalise on a gluten-free diet, but HLA status does not change: absence of both DQ2 and DQ8 has a high negative predictive value.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 799,
+     "page": 777
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1206,
+     "page": 1191
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 105,
+     "page": 105
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 29-year-old woman with iron deficiency has a strongly positive IgA tTG and is booked for gastroscopy. She is still eating a normal diet.",
+   "leadIn": "Which biopsy plan is recommended?",
+   "options": [
+    "Two biopsies from the duodenal bulb only, as damage is worst proximally",
+    "More than four samples from D2 together with a single bulb sample",
+    "Biopsies only if the duodenal mucosa looks scalloped or flattened",
+    "Paired biopsies from the gastric antrum and body to grade gastritis",
+    "Biopsies from the terminal ileum taken at colonoscopy instead"
+   ],
+   "answer": 1,
+   "explanation": "Coeliac changes are patchy and the mucosa often looks normal, so Davidson advises **more than four D2 biopsies plus one from the bulb** in every case.",
+   "whyNot": [
+    "Too few samples, and the bulb alone can miss patchy disease.",
+    "",
+    "The mucosa usually looks normal, so biopsy must not depend on appearance.",
+    "Gastric biopsies do not show coeliac enteropathy.",
+    "Coeliac damage is proximal; the ileum is least affected."
+   ],
+   "studyRef": {
+    "sectionId": "gi-malabsorption.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 828,
+     "page": 806
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1205,
+     "page": 1190
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A duodenal biopsy report reads: raised intra-epithelial lymphocytes, crypt hyperplasia and subtotal villous atrophy.",
+   "leadIn": "Which Marsh–Oberhuber grade is this?",
+   "options": [
+    "Marsh 1",
+    "Marsh 2",
+    "Marsh 3a",
+    "Marsh 3b",
+    "Marsh 3c"
+   ],
+   "answer": 3,
+   "explanation": "Grade 3 adds villous atrophy to the earlier changes; **3b is subtotal** atrophy (3a partial, 3c total).",
+   "whyNot": [
+    "Grade 1 is raised intra-epithelial lymphocytes alone.",
+    "Grade 2 adds crypt hyperplasia but has no villous atrophy.",
+    "Grade 3a is partial, not subtotal, villous atrophy.",
+    "",
+    "Grade 3c is total villous atrophy."
+   ],
+   "studyRef": {
+    "sectionId": "gi-malabsorption.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1205,
+     "page": 1190,
+     "table": "Box 32.34"
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 36-year-old man had an extensive terminal ileal resection for Crohn disease. A year later he presents with right loin-to-groin pain and a renal stone.",
+   "leadIn": "What is the stone most likely to be made of?",
+   "options": [
+    "Uric acid",
+    "Cystine",
+    "Calcium oxalate",
+    "Struvite (magnesium ammonium phosphate)",
+    "Xanthine"
+   ],
+   "answer": 2,
+   "explanation": "Unabsorbed bile salts in the colon bind calcium, so oxalate stays soluble, is absorbed and forms **oxalate** stones.",
+   "whyNot": [
+    "Uric acid stones are not the classic result of bile salt loss.",
+    "Cystine stones come from an inherited transport defect.",
+    "",
+    "Struvite stones go with urinary infection by urease-producing organisms.",
+    "Xanthine stones are a rare metabolic problem unrelated to ileal resection."
+   ],
+   "studyRef": {
+    "sectionId": "gi-malabsorption.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 831,
+     "page": 809
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 832,
+     "page": 810,
+     "figure": "Fig. 21.43"
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 61-year-old man has had coeliac disease for 20 years and has stuck to a strict gluten-free diet. Over 3 months he has developed abdominal pain, fevers, recurrent diarrhoea and 8 kg weight loss.",
+   "leadIn": "Which complication is most important to exclude?",
+   "options": [
+    "Irritable bowel syndrome",
+    "Lactose intolerance",
+    "Microscopic colitis",
+    "Enteropathy-associated T-cell lymphoma",
+    "Gastric adenocarcinoma"
+   ],
+   "answer": 3,
+   "explanation": "New pain, fever and weight loss in long-standing coeliac disease despite good adherence are red flags for **EATL** (5-year survival only 8–20%).",
+   "whyNot": [
+    "IBS does not cause fever and weight loss.",
+    "Lactose intolerance gives bloating after dairy, not fever and weight loss.",
+    "Microscopic colitis can cause non-response, but fever and weight loss point to lymphoma.",
+    "",
+    "Coeliac disease raises the risk of oesophageal, not gastric, cancer."
+   ],
+   "studyRef": {
+    "sectionId": "gi-malabsorption.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 829,
+     "page": 807
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1206,
+     "page": 1191
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q10",
+   "kind": "emq",
+   "leadIn": "Pick the best match from the list for each patient below. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Treatment of malabsorptive disorders",
+   "options": [
+    "Life-long gluten-free diet alone",
+    "Gluten-free diet plus dapsone",
+    "Tetracycline for 28 days plus folic acid",
+    "Two-week broad-spectrum antibiotic course",
+    "IV ceftriaxone then co-trimoxazole for at least a year",
+    "Colestyramine",
+    "Pancreatic enzyme replacement with acid suppression",
+    "Low-fat diet with MCT and vitamins A, D, E, K",
+    "Lactose-free diet",
+    "Teduglutide",
+    "Oral prednisolone"
+   ],
+   "items": [
+    {
+     "stem": "A 48-year-old man had a terminal ileal resection for Crohn disease a year ago and now has watery diarrhoea. SeHCAT 7-day retention is 3%.",
+     "answer": 5,
+     "explanation": "Bile acid diarrhoea after ileal resection responds well to a bile acid sequestrant such as colestyramine.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s7"
+     }
+    },
+    {
+     "stem": "A 25-year-old student moved to the UK from southern India 6 months ago. He has chronic diarrhoea, weight loss, glossitis and megaloblastic anaemia. Stool tests for Giardia are negative and duodenal biopsy shows partial villous atrophy; coeliac serology is negative.",
+     "answer": 2,
+     "explanation": "Two steps: malabsorption in someone from the tropics, with Giardia excluded, means tropical sprue, which Davidson treats with tetracycline for 28 days plus folic acid.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s7"
+     }
+    },
+    {
+     "stem": "A 51-year-old man who drinks heavily has recurrent epigastric pain going through to the back, pale floating stools and weight loss. CT shows pancreatic calcification and faecal elastase is very low.",
+     "answer": 6,
+     "explanation": "Chronic pancreatitis with exocrine insufficiency: give enzyme replacement, with acid suppression so that the enzymes are not inactivated.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s7"
+     }
+    },
+    {
+     "stem": "A 33-year-old woman has crops of intensely itchy blisters on her elbows and buttocks; skin biopsy shows granular IgA at the dermo-epidermal junction. After 2 months of a strict gluten-free diet the itch is still troublesome.",
+     "answer": 1,
+     "explanation": "Dermatitis herpetiformis improves on a gluten-free diet, but some patients need dapsone 100–150 mg daily as well.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 831,
+     "page": 809
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 830,
+     "page": 808
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 829,
+     "page": 807
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1346,
+     "page": 1332
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 363,
+     "page": 363
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q11",
+   "kind": "emq",
+   "leadIn": "Pick the best match from the list for each patient below. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Causes of chronic diarrhoea with malabsorption",
+   "options": [
+    "Coeliac disease",
+    "Tropical sprue",
+    "Giardiasis",
+    "Whipple disease",
+    "Small-bowel bacterial overgrowth",
+    "Chronic pancreatitis",
+    "Bile acid diarrhoea",
+    "Lactase deficiency",
+    "Abetalipoproteinaemia",
+    "Intestinal lymphangiectasia",
+    "Irritable bowel syndrome",
+    "Short bowel syndrome"
+   ],
+   "items": [
+    {
+     "stem": "A 24-year-old woman has 9 months of bloating, loose stools, tiredness and recurrent mouth ulcers. Hb is 98 g/L with a normal MCV; the film shows a mix of small and large red cells with Howell–Jolly bodies.",
+     "answer": 0,
+     "explanation": "Two steps: a normal MCV with mixed red cells is a dimorphic film (iron plus folate deficiency), and Howell–Jolly bodies show hyposplenism; together these point to coeliac disease.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s4"
+     }
+    },
+    {
+     "stem": "A 35-year-old man returned from trekking in Nepal 2 months ago. He has foul, floating stools, bloating and weight loss. Duodenal fluid shows flagellate trophozoites.",
+     "answer": 2,
+     "explanation": "Giardia can cause malabsorption with steatorrhoea and is found in jejunal fluid or mucosa; it is the key differential of tropical sprue in travellers.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s2"
+     }
+    },
+    {
+     "stem": "A 66-year-old woman has jejunal diverticula on MRI, diarrhoea and a macrocytic anaemia. Serum B12 is low and folate is high.",
+     "answer": 4,
+     "explanation": "Diverticula are a structural cause of bacterial overgrowth; the bacteria consume B12 and make folate.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s2"
+     }
+    },
+    {
+     "stem": "A 42-year-old woman has had urgent watery diarrhoea since a cholecystectomy a year ago. Weight is stable, coeliac serology and faecal calprotectin are normal, and serum 7α-hydroxycholestenone is raised.",
+     "answer": 6,
+     "explanation": "Post-cholecystectomy (type 2) bile acid diarrhoea; raised 7α-hydroxycholestenone is a useful marker.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1206,
+     "page": 1191
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1209,
+     "page": 1194
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 830,
+     "page": 808
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 831,
+     "page": 809
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 799,
+     "page": 777
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 72-year-old man who had a Billroth II gastrectomy decades ago has chronic diarrhoea, bloating and a macrocytic anaemia.",
+   "leadIn": "Which vitamin pattern best supports small-bowel bacterial overgrowth?",
+   "options": [
+    "Low folate with normal B12",
+    "Low B12 with normal or raised folate",
+    "Low B12 and low folate",
+    "Normal B12 and folate with low ferritin",
+    "Raised B12 with low folate"
+   ],
+   "answer": 1,
+   "explanation": "Bacteria in the small bowel take up B12 and make folic acid, so **B12 is low while folate is normal or high**.",
+   "whyNot": [
+    "This is the pattern typical of coeliac disease, where folate is low and B12 is usually normal.",
+    "",
+    "Both low suggests a mucosal or dietary cause rather than overgrowth.",
+    "Isolated iron deficiency does not explain a macrocytic anaemia.",
+    "Overgrowth lowers, not raises, B12."
+   ],
+   "studyRef": {
+    "sectionId": "gi-malabsorption.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 830,
+     "page": 808
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 133,
+     "page": 96
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 54-year-old man who has drunk heavily for 20 years has recurrent epigastric pain, pale bulky floating stools, weight loss and newly diagnosed diabetes.",
+   "leadIn": "Which simple test on a single stool sample best assesses pancreatic exocrine function?",
+   "options": [
+    "Faecal calprotectin",
+    "Faecal elastase",
+    "Stool culture",
+    "Faecal occult blood",
+    "75SeHCAT retention scan"
+   ],
+   "answer": 1,
+   "explanation": "**Faecal elastase** is a quick immunoassay of pancreatic enzyme in one random stool; it can miss mild insufficiency.",
+   "whyNot": [
+    "Calprotectin shows mucosal inflammation, not pancreatic function.",
+    "",
+    "Culture looks for infection.",
+    "Occult blood has no role in pancreatic function.",
+    "SeHCAT is a nuclear medicine test of bile acid absorption, not a stool test."
+   ],
+   "studyRef": {
+    "sectionId": "gi-malabsorption.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 799,
+     "page": 777
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 231,
+     "page": 194
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "Gluten peptides resist breakdown in the gut lumen, cross the epithelium and are modified so that they bind HLA-DQ2 on antigen-presenting cells much more strongly.",
+   "leadIn": "Which enzyme carries out this modification?",
+   "options": [
+    "Pepsin",
+    "Chymotrypsin",
+    "Lactase",
+    "Enterokinase",
+    "Tissue transglutaminase"
+   ],
+   "answer": 4,
+   "explanation": "**Tissue transglutaminase** deamidates gliadin peptides, increasing their immunogenicity; it is also the autoantigen measured by the tTG antibody test.",
+   "whyNot": [
+    "Gliadin resists pepsin digestion; pepsin does not deamidate it.",
+    "Gliadin also resists chymotrypsin.",
+    "Lactase is a brush-border sugar enzyme.",
+    "Enterokinase activates trypsinogen, not gliadin.",
+    ""
+   ],
+   "studyRef": {
+    "sectionId": "gi-malabsorption.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1205,
+     "page": 1190
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 828,
+     "page": 806,
+     "figure": "Fig. 21.41"
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "A 45-year-old woman lost most of her small bowel to mesenteric infarction. She has about 80 cm of jejunum joined to an intact colon and has frequent loose stools.",
+   "leadIn": "Which dietary advice is most appropriate?",
+   "options": [
+    "High-fat, low-carbohydrate diet",
+    "Free intake of hypotonic drinks such as water and tea",
+    "Low-fat, high-carbohydrate diet",
+    "Strict gluten-free diet",
+    "Lactose-free diet with no other change"
+   ],
+   "answer": 2,
+   "explanation": "With the colon in continuity, unabsorbed fat worsens colonic fluid loss, while carbohydrate is fermented to **short-chain fatty acids** that the colon absorbs. Hence **low fat, high carbohydrate**.",
+   "whyNot": [
+    "Extra fat impairs colonic water and salt absorption.",
+    "Restricting hypotonic drinks is the advice for a jejunal stoma, where sodium loss dominates; with the colon intact the key change is low fat and high carbohydrate.",
+    "",
+    "There is no evidence of gluten sensitivity.",
+    "Lactose restriction alone does not address the main problem."
+   ],
+   "studyRef": {
+    "sectionId": "gi-malabsorption.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1209,
+     "page": 1194
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q16",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 32-year-old woman with iron deficiency anaemia and bloating read about coeliac disease online and went gluten-free 3 weeks ago, feeling a little better. Her IgA tTG is now borderline and total IgA is normal.",
+   "leadIn": "What is the best next step?",
+   "options": [
+    "Diagnose coeliac disease from the history and start iron",
+    "Take duodenal biopsies now while she stays gluten-free",
+    "Request HLA-DQ2/DQ8 typing to confirm coeliac disease",
+    "Ask her to eat gluten again, then repeat serology and take duodenal biopsies",
+    "Arrange capsule endoscopy to look for villous atrophy"
+   ],
+   "answer": 3,
+   "explanation": "Step 1: serology and histology both depend on gluten exposure, and both settle on a gluten-free diet. Step 2: a borderline result after 3 weeks off gluten cannot be trusted. Step 3: the gold standard is duodenal biopsy, which needs ongoing gluten intake. So she should **go back on gluten**, then have repeat serology and **D2 plus bulb biopsies**. HLA typing can only rule coeliac disease out, not confirm it.",
+   "whyNot": [
+    "Coeliac disease needs histological confirmation before a life-long diet.",
+    "Biopsies taken on a gluten-free diet may be falsely normal.",
+    "HLA-DQ2/DQ8 is common in the general population; its value is excluding the disease.",
+    "",
+    "Capsule endoscopy is kept for suspected complications, not diagnosis."
+   ],
+   "studyRef": {
+    "sectionId": "gi-malabsorption.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 829,
+     "page": 807
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 105,
+     "page": 105
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1206,
+     "page": 1191
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1205,
+     "page": 1190
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q17",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 49-year-old man has steatorrhoea and weight loss. Albumin is low; coeliac serology is negative, duodenal biopsies are normal, and small-bowel MRI is unremarkable. Faecal elastase is very low.",
+   "leadIn": "What is the most appropriate next investigation?",
+   "options": [
+    "SeHCAT retention scan",
+    "Repeat duodenal biopsies",
+    "Pancreatic imaging with CT or MRCP",
+    "Double balloon enteroscopy",
+    "Colonoscopy with ileal biopsies"
+   ],
+   "answer": 2,
+   "explanation": "Work through the pathway: bloods and coeliac serology, then the small intestine, then the pancreas. Here the small bowel has been cleared, and the **low faecal elastase** shows pancreatic exocrine failure. The next step is to image the pancreas (**ultrasound/CT and MRCP**) to find the cause, such as chronic pancreatitis or a tumour. SeHCAT is only considered when both arms are normal.",
+   "whyNot": [
+    "Bile acid testing comes only after both the small bowel and pancreas are normal.",
+    "The biopsies were already normal and the problem has been located in the pancreas.",
+    "",
+    "Enteroscopy examines the small bowel, which is not the problem here.",
+    "Ileocolonoscopy suits colonic or ileal disease, not pancreatic insufficiency."
+   ],
+   "studyRef": {
+    "sectionId": "gi-malabsorption.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 807,
+     "page": 785,
+     "figure": "Fig. 21.23"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 806,
+     "page": 784
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q18",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 41-year-old woman had 120 cm of terminal ileum removed for Crohn disease. At first she had watery diarrhoea, but she now passes pale, bulky stools that float.",
+   "leadIn": "What best explains the steatorrhoea?",
+   "options": [
+    "Gastric acid hypersecretion inactivating lipase",
+    "Bile salt loss larger than the liver can replace, so micelles fail to form",
+    "Deficiency of brush-border lactase",
+    "Lacteals blocked by foamy macrophages",
+    "Reduced pancreatic lipase secretion"
+   ],
+   "answer": 1,
+   "explanation": "Step 1: the terminal ileum reclaims bile salts. Step 2: small resections cause bile salt diarrhoea, and the liver makes more bile acid to compensate. Step 3: once more than about a third of the pool is lost each cycle, synthesis cannot keep pace, the bile salt pool shrinks, **micelles fail** and fat is malabsorbed. The same smaller pool also makes bile lithogenic, causing gallstones.",
+   "whyNot": [
+    "Gastric hypersecretion is linked to jejunal, not ileal, resection.",
+    "",
+    "Lactase deficiency causes carbohydrate symptoms, not steatorrhoea.",
+    "This is the mechanism in Whipple disease.",
+    "Pancreatic function is not affected by ileal resection."
+   ],
+   "studyRef": {
+    "sectionId": "gi-malabsorption.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1208,
+     "page": 1193
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 831,
+     "page": 809
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q19",
+   "kind": "emq",
+   "leadIn": "Pick the best match from the list for each patient below. Any option can be the answer for several patients, or for none.",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Deficiency signs in malabsorption",
+   "options": [
+    "Retinol (vitamin A)",
+    "Cobalamin (vitamin B12)",
+    "Folic acid",
+    "Ascorbic acid (vitamin C)",
+    "Calciferol (vitamin D)",
+    "Vitamin K (clotting factor synthesis)",
+    "Body iron stores",
+    "Zinc (trace element)",
+    "Calcium (hypocalcaemia)",
+    "Magnesium (hypomagnesaemia)",
+    "Protein (hypoalbuminaemia)"
+   ],
+   "items": [
+    {
+     "stem": "A 26-year-old man with cystic fibrosis and steatorrhoea bruises easily. Platelets are normal but the prothrombin time is prolonged.",
+     "answer": 5,
+     "explanation": "Fat-soluble vitamin K is needed for clotting factors; deficiency prolongs the PT while the platelet count stays normal.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s3"
+     }
+    },
+    {
+     "stem": "A 60-year-old man had extensive ileal resection 5 years ago. He now has numb feet, loss of vibration sense and a macrocytic anaemia; folate is normal.",
+     "answer": 1,
+     "explanation": "B12 is absorbed only in the terminal ileum; its loss gives neuropathy and megaloblastic anaemia.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s3"
+     }
+    },
+    {
+     "stem": "A 29-year-old woman with short bowel syndrome and poor intake develops a crusted red rash around the mouth and perineum and her surgical wound heals slowly.",
+     "answer": 7,
+     "explanation": "Acrodermatitis enteropathica plus poor wound healing points to zinc deficiency.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s3"
+     }
+    },
+    {
+     "stem": "A 45-year-old woman with poorly controlled coeliac disease has aching bones around her hips and has to push on her knees to stand up from a chair. She has no paraesthesia or tetany.",
+     "answer": 4,
+     "explanation": "Two steps: bone pain fits osteomalacia (calcium or vitamin D), and weakness rising from a chair is proximal myopathy, which Davidson links specifically to vitamin D. Only vitamin D explains both; without tetany or paraesthesia, calcium or magnesium is a weaker answer.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 806,
+     "page": 784,
+     "figure": "Fig. 21.22"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1169,
+     "page": 1154
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q20",
+   "kind": "emq",
+   "leadIn": "Pick the best match from the list for each patient below. Any option can be the answer for several patients, or for none.",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Small-bowel biopsy findings",
+   "options": [
+    "Coeliac disease",
+    "Whipple disease",
+    "Tropical sprue",
+    "Hypogammaglobulinaemia",
+    "Abetalipoproteinaemia",
+    "Giardiasis",
+    "Intestinal lymphangiectasia",
+    "Enteropathy-associated T-cell lymphoma",
+    "Crohn disease",
+    "Normal mucosa"
+   ],
+   "items": [
+    {
+     "stem": "Duodenal biopsy: lamina propria filled with foamy macrophages that stain strongly with PAS; electron microscopy shows rod-shaped bacteria with a three-layered wall.",
+     "answer": 1,
+     "explanation": "PAS-positive macrophages with the trilaminar wall of _T. whipplei_ on electron microscopy = Whipple disease; PCR confirms it.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s5"
+     }
+    },
+    {
+     "stem": "Duodenal biopsy from a man with recurrent sinusitis and giardiasis: plasma cells are almost absent and there are many lymphoid nodules.",
+     "answer": 3,
+     "explanation": "Reduced or absent plasma cells with nodular lymphoid hyperplasia is the biopsy picture of hypogammaglobulinaemia.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s5"
+     }
+    },
+    {
+     "stem": "Jejunal biopsy from a teenager with acanthocytes on the blood film: villi are of normal height but the enterocytes are packed with fat droplets.",
+     "answer": 4,
+     "explanation": "Without apolipoprotein B, chylomicrons cannot form, so fat accumulates in otherwise normal enterocytes.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 831,
+     "page": 809
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1209,
+     "page": 1194
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 830,
+     "page": 808
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 832,
+     "page": 810
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q21",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 58-year-old man is diagnosed with Whipple disease after a duodenal biopsy and PCR.",
+   "leadIn": "Which regimen is recommended?",
+   "options": [
+    "Oral tetracycline for 28 days with folic acid",
+    "Life-long gluten-free diet",
+    "IV ceftriaxone for 2 weeks, then oral co-trimoxazole for at least a year",
+    "Oral metronidazole for 2 weeks",
+    "Oral prednisolone with azathioprine"
+   ],
+   "answer": 2,
+   "explanation": "Whipple disease needs antibiotics that reach the CNS: **IV ceftriaxone 2 g daily for 2 weeks, then co-trimoxazole for at least 1 year**. Relapse (often CNS) occurs in up to a third of patients.",
+   "whyNot": [
+    "This is the regimen for tropical sprue.",
+    "A gluten-free diet treats coeliac disease, not infection.",
+    "",
+    "A short metronidazole course is used for overgrowth or Giardia, not Whipple disease.",
+    "Immunosuppression without antibiotics would worsen an infection."
+   ],
+   "studyRef": {
+    "sectionId": "gi-malabsorption.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 831,
+     "page": 809
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q22",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 34-year-old woman with biopsy-proven coeliac disease has been on a gluten-free diet for 6 months but still has diarrhoea. Her tTG antibody titre remains high.",
+   "leadIn": "What is the most likely reason for the poor response?",
+   "options": [
+    "Refractory coeliac disease type 2",
+    "Continued gluten intake, often inadvertent",
+    "Enteropathy-associated T-cell lymphoma",
+    "Pancreatic exocrine insufficiency",
+    "Microscopic colitis"
+   ],
+   "answer": 1,
+   "explanation": "The commonest cause of non-response is **ongoing gluten exposure**, and a persistently high tTG suggests the immune trigger is still there. Check the diet with a dietitian before looking for other causes.",
+   "whyNot": [
+    "Refractory disease is rare and is diagnosed only after adherence is confirmed.",
+    "",
+    "EATL is rare and would typically bring fever, pain and weight loss.",
+    "Pancreatic insufficiency is considered after gluten exposure is excluded and would not keep tTG high.",
+    "Microscopic colitis is a later consideration and does not explain a high tTG."
+   ],
+   "studyRef": {
+    "sectionId": "gi-malabsorption.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 829,
+     "page": 807
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1206,
+     "page": 1191
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A 22-year-old man is newly diagnosed with type 1 diabetes. He has no gut symptoms.",
+   "leadIn": "Which test should be offered routinely?",
+   "options": [
+    "Faecal elastase",
+    "Glucose hydrogen breath test",
+    "IgA tTG antibody with total IgA",
+    "Faecal calprotectin",
+    "75SeHCAT retention scan"
+   ],
+   "answer": 2,
+   "explanation": "Type 1 diabetes is linked to coeliac disease, so all new type 1 diabetics are screened with **IgA tTG plus total IgA**, even without symptoms.",
+   "whyNot": [
+    "Faecal elastase tests pancreatic function and is not a screening test here.",
+    "Breath testing is for suspected overgrowth or lactose intolerance.",
+    "",
+    "Calprotectin screens for gut inflammation, not coeliac disease.",
+    "SeHCAT tests bile acid malabsorption."
+   ],
+   "studyRef": {
+    "sectionId": "gi-malabsorption.s2"
+   },
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "pdfPage": 105,
+     "page": 105
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 133,
+     "page": 96
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q24",
+   "kind": "emq",
+   "leadIn": "Pick the best match from the list for each patient below. Any option can be the answer for several patients, or for none.",
+   "pool": "exam",
+   "difficulty": 3,
+   "theme": "Interpreting tests in malabsorption",
+   "options": [
+    "Coeliac disease",
+    "Small-bowel bacterial overgrowth",
+    "Pancreatic exocrine insufficiency",
+    "Bile acid diarrhoea",
+    "Lactase deficiency",
+    "Whipple disease",
+    "Tropical sprue",
+    "Inflammatory bowel disease",
+    "Irritable bowel syndrome",
+    "Giardiasis"
+   ],
+   "items": [
+    {
+     "stem": "A 38-year-old man with diarrhoea has normal faecal elastase, normal duodenal biopsies and a 75SeHCAT 7-day retention of 4%.",
+     "answer": 3,
+     "explanation": "Retention below 5% is abnormal and confirms bile acid malabsorption once the small bowel and pancreas are normal.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s4"
+     }
+    },
+    {
+     "stem": "A 26-year-old woman has 3 months of diarrhoea with blood and mucus, cramping lower abdominal pain and a markedly raised faecal calprotectin.",
+     "answer": 7,
+     "explanation": "Blood and mucus with lower abdominal cramps point to the colon, and calprotectin reflects mucosal inflammation: inflammatory bowel disease rather than malabsorption.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s3"
+     }
+    },
+    {
+     "stem": "A 30-year-old woman with anaemia has a negative IgA tTG, undetectable total IgA, a strongly positive IgG deamidated gliadin peptide antibody, and subtotal villous atrophy on duodenal biopsy.",
+     "answer": 0,
+     "explanation": "Two steps: the negative IgA test is a false negative caused by IgA deficiency (commoner in coeliacs); the IgG test and the histology confirm coeliac disease.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s4"
+     }
+    },
+    {
+     "stem": "A 67-year-old man with systemic sclerosis has diarrhoea. After 50 g of oral glucose, breath hydrogen rises sharply within 20 minutes.",
+     "answer": 1,
+     "explanation": "Glucose is normally absorbed before reaching colonic bacteria, so an early hydrogen rise means bacteria in the small bowel; systemic sclerosis is a motility cause.",
+     "studyRef": {
+      "sectionId": "gi-malabsorption.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 799,
+     "page": 777
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 806,
+     "page": 784
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 829,
+     "page": 807
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1206,
+     "page": 1191
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 830,
+     "page": 808
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q25",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 40-year-old woman has newly diagnosed coeliac disease. Her blood film shows Howell–Jolly bodies and target cells.",
+   "leadIn": "Which vaccination is specifically recommended because of this finding?",
+   "options": [
+    "Hepatitis A vaccine",
+    "Pneumococcal vaccine",
+    "BCG vaccine",
+    "Human papillomavirus vaccine",
+    "Varicella vaccine"
+   ],
+   "answer": 1,
+   "explanation": "Howell–Jolly bodies and target cells show **hyposplenism** from splenic atrophy, so coeliac patients are offered **pneumococcal vaccination** (Kumar & Clark: every 5 years).",
+   "whyNot": [
+    "Not linked to splenic atrophy in coeliac disease.",
+    "",
+    "BCG is not given for hyposplenism.",
+    "HPV vaccination is unrelated to splenic function.",
+    "Varicella vaccine is not the recommended measure for hyposplenism."
+   ],
+   "studyRef": {
+    "sectionId": "gi-malabsorption.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1206,
+     "page": 1191
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 134,
+     "page": 97
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 829,
+     "page": 807
+    }
+   ]
+  },
+  {
+   "id": "gi-malabsorption.q26",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 1,
+   "stem": "A 47-year-old man has 4 months of loose stools and 7 kg weight loss despite eating normally.",
+   "leadIn": "Which feature most strongly suggests malabsorption rather than colonic disease?",
+   "options": [
+    "Blood mixed with the stool",
+    "Mucus in the stool",
+    "Cramping lower abdominal pain",
+    "Rectal bleeding after defecation",
+    "Pale, bulky, floating stools"
+   ],
+   "answer": 4,
+   "explanation": "Steatorrhoea (pale, bulky, offensive, floating stools) with weight loss on a normal diet points to **malabsorption**. Blood, mucus and lower abdominal cramps point to the colon.",
+   "whyNot": [
+    "Blood in the stool points to colonic disease.",
+    "Mucus is a colonic feature.",
+    "Lower abdominal cramps suggest a colonic source.",
+    "Rectal bleeding suggests an anorectal or colonic cause.",
+    ""
+   ],
+   "studyRef": {
+    "sectionId": "gi-malabsorption.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 805,
+     "page": 783
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 806,
+     "page": 784,
+     "table": "Box 21.18"
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "gi-malabsorption.o1",
+   "sectionId": "gi-malabsorption.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 829,
+    "page": 807,
+    "figure": "Fig. 21.42"
+   },
+   "identify": "Subtotal villous atrophy: blunted villi, hyperplastic crypts and a dense lamina propria infiltrate, compared with normal jejunum = coeliac disease (also consider sprue, Whipple disease, giardiasis)."
+  },
+  {
+   "id": "gi-malabsorption.o2",
+   "sectionId": "gi-malabsorption.s3",
+   "cite": {
+    "book": "fa2ck11",
+    "pdfPage": 326,
+    "page": 326,
+    "figure": "FIGURE 2.6-18"
+   },
+   "identify": "Grouped, very itchy papulovesicles on extensor surfaces = dermatitis herpetiformis; links to coeliac disease and responds to gluten-free diet ± dapsone."
+  },
+  {
+   "id": "gi-malabsorption.o3",
+   "sectionId": "gi-malabsorption.s3",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 806,
+    "page": 784,
+    "figure": "Fig. 21.22"
+   },
+   "identify": "Match each sign to its deficiency: night blindness (vit A), koilonychia (iron), glossitis (iron/folate/B12), tetany (Ca/Mg), purpura (vit C/K), oedema (low albumin)."
+  },
+  {
+   "id": "gi-malabsorption.o4",
+   "sectionId": "gi-malabsorption.s6",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 832,
+    "page": 810,
+    "figure": "Fig. 21.43"
+   },
+   "identify": "Consequences of ileal resection: bile salt diarrhoea, fat malabsorption, gallstones, oxalate stones and B12 malabsorption."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:05:57.237Z",
+  "contentHash": "ea565d801c55e673d8cf48835c003db68a8dcbd2564e5c4491e63a6776c805a4"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:05:57.253Z",
+  "contentHash": "ea565d801c55e673d8cf48835c003db68a8dcbd2564e5c4491e63a6776c805a4",
+  "checkerVersion": "source-check-v1"
+ }
+}
