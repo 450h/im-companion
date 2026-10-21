@@ -1,0 +1,2862 @@
+{
+ "topicId": "endo-prolactinoma",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "endo-prolactinoma.s1",
+   "title": "Definitions & size classification",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Hyperprolactinaemia** is a serum prolactin above the reference range. It is a common endocrine finding and usually shows itself as **hypogonadism**, **galactorrhoea** (milk production in someone who is not breastfeeding), or both. A **prolactinoma** is a pituitary adenoma whose cells secrete prolactin; it is the commonest _functioning_ pituitary tumour and the commonest pathological cause of hyperprolactinaemia.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 706,
+       "page": 684
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 223,
+       "page": 223
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 470,
+       "page": 470
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Size classes of pituitary adenoma",
+     "columns": [
+      "Term",
+      "Diameter",
+      "Typical prolactinoma picture"
+     ],
+     "rows": [
+      [
+       "Microadenoma / microprolactinoma",
+       "< 10 mm",
+       "Usual type in pre-menopausal women; presents with endocrine symptoms"
+      ],
+      [
+       "Macroadenoma / macroprolactinoma",
+       "> 10 mm (> 1 cm)",
+       "Men and post-menopausal women; mass effects (headache, visual fields)"
+      ],
+      [
+       "Mesoadenoma (Kumar)",
+       "about 10 mm",
+       "Borderline-size tumour"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 702,
+       "page": 680
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 706,
+       "page": 684
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 662,
+       "page": 640
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Numbers quoted in quick-reference books",
+     "items": [
+      "Prolactinomas make up roughly **40–50%** of pituitary adenomas (Step-Up: up to 40%; Pocket Medicine: 50%).",
+      "About **10%** of prolactinomas also secrete growth hormone (Pocket Medicine).",
+      "Pituitary adenomas are almost always benign and form about 10% of intracranial tumours."
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 469,
+       "page": 469
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 470,
+       "page": 470
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 477,
+       "page": 477
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Macroprolactinoma ≠ macroprolactinaemia.** A macroprolactinoma is a prolactin-secreting tumour larger than 1 cm. Macroprolactinaemia is a lab phenomenon in which prolactin is bound to IgG, forming a large, biologically inactive complex: there is no tumour and nothing to treat.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 706,
+       "page": 684
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.s2",
+   "title": "Pathophysiology: control and actions of prolactin",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Prolactin is unusual among anterior pituitary hormones because its main hypothalamic control is **inhibitory**: dopamine reaching the pituitary through the portal vessels acts on **D2 receptors** and keeps prolactin release tonically suppressed. **TRH** stimulates prolactin, which matters clinically mainly in **primary hypothyroidism**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 661,
+       "page": 639
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 477,
+       "page": 477
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "What excess prolactin does",
+     "items": [
+      "**Breast:** drives milk secretion, but does not make breast tissue grow.",
+      "**Hypothalamus:** reduces GnRH pulsatility, so LH and FSH fall.",
+      "**Gonads:** partly blocks LH action on ovary and testis, so hypogonadism occurs even with an intact pituitary–gonadal axis.",
+      "Result: low oestrogen or testosterone, giving amenorrhoea, infertility, low libido and, long term, osteoporosis."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 661,
+       "page": 639
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 471,
+       "page": 471
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 706,
+       "page": 684
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Three mechanisms behind a high prolactin with a pituitary lesion",
+     "columns": [
+      "Mechanism",
+      "What happens",
+      "Typical prolactin"
+     ],
+     "rows": [
+      [
+       "Prolactinoma",
+       "Tumour cells secrete prolactin; level rises with tumour size",
+       "Highest; > 5000 mIU/L suggests macroprolactinoma"
+      ],
+      [
+       "Stalk disconnection",
+       "Any mass (e.g. non-functioning macroadenoma) compresses the infundibular stalk, cutting off dopamine",
+       "Modest rise (typically 1000–5000 mIU/L)"
+      ],
+      [
+       "Progressive pituitary destruction",
+       "Loss of dopamine control means prolactin rises early while other hormones fall",
+       "Raised rather than low"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 706,
+       "page": 684
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 617,
+       "page": 595
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 477,
+       "page": 477
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Prolactin cells and GH cells share a lineage, so a prolactinoma occasionally co-secretes GH and causes acromegaly. In prolactinomas, the higher the prolactin, the bigger the tumour.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 706,
+       "page": 684
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 477,
+       "page": 477
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Men rarely develop galactorrhoea because prolactin cannot build breast tissue. It appears only when hypogonadism has already produced gynaecomastia.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 706,
+       "page": 684
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 661,
+      "page": 639,
+      "figure": "Fig. 21.35"
+     },
+     "note": "Look at: dopamine inhibiting and TRH stimulating prolactin; prolactin suppressing GnRH and the gonadal action of LH while stimulating the breast."
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.s3",
+   "title": "Causes of hyperprolactinaemia",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Differential diagnosis (Davidson Box 18.58, with additions)",
+     "columns": [
+      "Group",
+      "Causes"
+     ],
+     "rows": [
+      [
+       "Physiological",
+       "Pregnancy, lactation, stress (e.g. after a seizure), sleep, coitus, exercise, nipple stimulation, a baby crying"
+      ],
+      [
+       "Drugs: dopamine antagonists",
+       "Phenothiazine and butyrophenone antipsychotics; antidepressants (tricyclics, SSRIs); antiemetics metoclopramide and domperidone"
+      ],
+      [
+       "Drugs: other",
+       "Dopamine depleters (reserpine, methyldopa); oestrogens (combined pill); verapamil; cimetidine"
+      ],
+      [
+       "Pathological: common",
+       "Stalk disconnection (e.g. non-functioning macroadenoma), prolactinoma (usually micro), primary hypothyroidism, PCOS, macroprolactinaemia"
+      ],
+      [
+       "Pathological: uncommon",
+       "GH/prolactin co-secreting tumour, hypothalamic disease, renal failure, liver failure / cirrhosis"
+      ],
+      [
+       "Rare / other",
+       "Chest wall reflex (e.g. after herpes zoster), post-ictal state, idiopathic"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 706,
+       "page": 684
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 661,
+       "page": 639
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 470,
+       "page": 470
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 223,
+       "page": 223
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Mechanisms worth knowing",
+     "items": [
+      "**Primary hypothyroidism:** high TRH directly stimulates lactotrophs.",
+      "**Renal failure:** prolactin clearance is reduced.",
+      "**Stalk compression** by craniopharyngioma, meningioma or a non-secreting adenoma removes dopamine inhibition.",
+      "**Oestrogens** (combined pill, pregnancy) are a recognised cause, and oestrogen can also make a prolactinoma grow."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 706,
+       "page": 684
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 478,
+       "page": 478
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 223,
+       "page": 223
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 707,
+       "page": 685
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Most prolactinomas are **microadenomas**. Pituitary tumours, including prolactinomas, belong to **MEN 1**, which is why MEN 1 carriers have serum prolactin and calcium checked every year and pituitary/pancreatic MRI every 2 years.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 615,
+       "page": 593
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 706,
+       "page": 684
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 710,
+       "page": 688
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 711,
+       "page": 689
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Before labelling a prolactinoma, go through the \"three Ps plus T\": **pregnancy**, **pills** (drug history) and **physiological** stress, then **thyroid** (TSH). These are the commonest exam traps.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 706,
+       "page": 684
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 471,
+       "page": 471
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.s4",
+   "title": "Clinical features",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Presentation by patient group",
+     "columns": [
+      "Group",
+      "Features",
+      "Tumour size at diagnosis"
+     ],
+     "rows": [
+      [
+       "Pre-menopausal women",
+       "Oligo/amenorrhoea (secondary), anovulatory infertility, galactorrhoea (sometimes only on expression), low libido, dyspareunia, vaginal dryness",
+       "Usually micro: symptoms bring them early"
+      ],
+      [
+       "Men",
+       "Low libido, erectile dysfunction, infertility, shaving less often, lethargy; galactorrhoea and gynaecomastia uncommon",
+       "Often macro: early symptoms are dismissed"
+      ],
+      [
+       "Post-menopausal women",
+       "Hypogonadism is already physiological, so few endocrine symptoms",
+       "More often macro: they present late with mass effects"
+      ],
+      [
+       "Peripubertal patients",
+       "Delayed or arrested puberty",
+       "Variable"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 706,
+       "page": 684
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 703,
+       "page": 681
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 471,
+       "page": 471
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 661,
+       "page": 639
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Mass effects of a macroprolactinoma",
+     "items": [
+      "**Headache** from stretching of the diaphragma sellae.",
+      "**Visual field loss** from chiasmal compression: classically **bitemporal hemianopia** or upper quadrantanopia.",
+      "**Diplopia** if the tumour extends into the cavernous sinus (CN III, IV, VI), which is unusual.",
+      "**Hypopituitarism** from compression of the normal gland."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 705,
+       "page": 683
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 470,
+       "page": 470
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 477,
+       "page": 477
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Pituitary apoplexy** is bleeding into, or infarction of, a pituitary tumour. It causes sudden severe headache, local compression (visual loss, diplopia) and acute hypopituitarism. It needs immediate high-dose glucocorticoid, with urgent decompression if neurological deficit is severe.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 705,
+       "page": 683
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 476,
+       "page": 476
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Galactorrhoea does not prove hyperprolactinaemia: **normoprolactinaemic galactorrhoea** is common. Unilateral discharge in particular needs a breast examination to exclude malignancy or fibrocystic disease.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 661,
+       "page": 639
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 706,
+       "page": 684
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Gynaecomastia:** First Aid lists it among the features of hyperprolactinaemia, but Davidson and Kumar explain it as a result of the associated **hypogonadism**, not a direct prolactin effect (Step-Up calls it uncommon). Follow Davidson.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 223,
+       "page": 223
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 706,
+       "page": 684
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 661,
+       "page": 639
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 471,
+       "page": 471
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 703,
+      "page": 681,
+      "figure": "Fig. 18.28"
+     },
+     "note": "Look at: the summary of pituitary disease (micro vs macroadenoma, mass effects, hormone excess and hypopituitarism)."
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.s5",
+   "title": "Investigations & diagnosis",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Stepwise work-up",
+     "items": [
+      "**1. Exclude pregnancy** in any woman who could be pregnant.",
+      "**2. Serum prolactin:** prolactin is not pulsatile, so one random sample is enough if the venepuncture was not stressful.",
+      "**3. Review drugs** and repeat prolactin after stopping culprits where safe.",
+      "**4. T4 and TSH** to exclude primary hypothyroidism; check gonadal function and renal function.",
+      "**5. Exclude macroprolactin** (PEG precipitation or gel filtration) if the assay cross-reacts.",
+      "**6. Pituitary MRI** (or CT) if prolactin stays high without another explanation.",
+      "**7. With a macroadenoma:** visual fields and full anterior pituitary function."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 706,
+       "page": 684
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 702,
+       "page": 680
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 662,
+       "page": 640
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 471,
+       "page": 471
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 478,
+       "page": 478
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Interpreting prolactin (Davidson; non-pregnant, non-lactating)",
+     "columns": [
+      "Prolactin",
+      "Likely meaning"
+     ],
+     "rows": [
+      [
+       "< ~500 mIU/L (24 ng/mL)",
+       "Normal (assay upper limit)"
+      ],
+      [
+       "500–1000 mIU/L (24–47 ng/mL)",
+       "Stress or drugs; repeat the test"
+      ],
+      [
+       "1000–5000 mIU/L (47–236 ng/mL)",
+       "Drugs, microprolactinoma or stalk disconnection"
+      ],
+      [
+       "> 5000 mIU/L (> 236 ng/mL)",
+       "Highly suggestive of macroprolactinoma (can exceed 100 000 mIU/L)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 706,
+       "page": 684
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 707,
+       "page": 685
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "With a pituitary mass on MRI, the prolactin level separates the two diagnoses: a **very high** level means prolactinoma, while a **modest** rise with a large tumour suggests a non-functioning adenoma causing stalk disconnection.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 662,
+       "page": 640
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 706,
+       "page": 684
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Hook effect:** a giant prolactinoma can produce so much prolactin that some assays read falsely low. If a large tumour has only a modest prolactin, ask the lab to repeat on **serially diluted** serum.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 662,
+       "page": 640
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 478,
+       "page": 478
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Always measure prolactin **before emergency surgery** on a sellar mass. A level above 5000 mIU/L implies a macroprolactinoma that should shrink on a dopamine agonist, making surgery unnecessary.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 705,
+       "page": 683
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Up to 10% of healthy middle-aged adults have an MRI pituitary \"abnormality\". Image only after a clear biochemical abnormality, or with clinical features of a tumour.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 702,
+       "page": 680
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Single versus repeat sample:** Davidson accepts one random prolactin if the patient was not stressed, repeating only mild rises (500–1000 mIU/L). Kumar advises confirming every raised value with a repeat. Follow Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 702,
+       "page": 680
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 706,
+       "page": 684
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 661,
+       "page": 639
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 660,
+      "page": 638,
+      "figure": "Fig. 21.34"
+     },
+     "note": "Look at: the range of serum prolactin for each common cause (stress, pregnancy, drugs, hypothyroidism, renal failure, stalk compression, micro- and macroprolactinoma), with macroprolactinoma reaching the highest levels."
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.s6",
+   "title": "Medical treatment: dopamine agonists",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Treat the cause first: stop offending drugs where possible and give **levothyroxine** for primary hypothyroidism. If an antipsychotic (dopamine antagonist) is the cause and must continue, a dopamine agonist is **contraindicated**; give sex-steroid replacement for the hypogonadism instead. For a prolactinoma, a **dopamine agonist is first line** (Box 18.57), and it usually shrinks even macroadenomas.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 706,
+       "page": 684
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 705,
+       "page": 683
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 472,
+       "page": 472
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Dopamine agonists (Davidson Box 18.59)",
+     "columns": [
+      "Drug",
+      "Dose",
+      "Pros",
+      "Cons"
+     ],
+     "rows": [
+      [
+       "Cabergoline",
+       "250–1000 µg/week in 2 doses",
+       "Long-acting; fewer ergot side-effects; Kumar: drug of choice; Step-Up: often chosen first",
+       "Limited pregnancy data; valve fibrosis at Parkinson doses"
+      ],
+      [
+       "Bromocriptine",
+       "2.5–15 mg/day in 2–3 doses",
+       "Longest experience; short half-life; preferred when pregnancy is planned",
+       "Nausea, headache, postural hypotension, constipation; frequent dosing harms adherence"
+      ],
+      [
+       "Quinagolide",
+       "50–150 µg once daily",
+       "Non-ergot; for patients intolerant of the others",
+       "Limited pregnancy data"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 707,
+       "page": 685
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 662,
+       "page": 640
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 472,
+       "page": 472
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Using them",
+     "items": [
+      "Start low and titrate slowly to limit nausea and postural hypotension, especially with bromocriptine.",
+      "Visual field defects can improve **within days**; tumour shrinkage takes **months**.",
+      "Treat every macroprolactinoma and troublesome galactorrhoea. A post-menopausal woman with a microprolactinoma may need no treatment.",
+      "An asymptomatic microadenoma can be followed with MRI; only 10–20% of microadenomas keep growing.",
+      "Fertility can return quickly, so contraception is needed if pregnancy is not wanted."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 707,
+       "page": 685
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 662,
+       "page": 640
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 478,
+       "page": 478
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 472,
+       "page": 472
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2735,
+       "page": 2735
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Stopping treatment",
+     "items": [
+      "**Microadenoma:** a withdrawal trial after a few years (Kumar: 2–3 years; Step-Up: about 2 years) often succeeds.",
+      "**Macroadenoma:** most recur, so withdraw only after curative surgery or radiotherapy and under close supervision."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 707,
+       "page": 685
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 662,
+       "page": 640
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 472,
+       "page": 472
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Ergot agonists (bromocriptine, cabergoline) act on **5-HT2B** receptors and can cause fibrosis, especially **tricuspid regurgitation**, at the high doses used in Parkinson’s disease. Routine echo screening is usually unnecessary at prolactinoma doses, but consider periodic echo or a non-ergot agent (quinagolide) for long-term use. Dopamine agonists can also cause **impulse-control disorders** such as gambling.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 707,
+       "page": 685
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 662,
+       "page": 640
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 707,
+      "page": 685,
+      "figure": "Fig. 18.29"
+     },
+     "note": "Look at: macroprolactinoma compressing the optic chiasm, then marked shrinkage with the chiasm freed after dopamine agonist therapy."
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.s7",
+   "title": "Surgery, radiotherapy & pregnancy",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Second-line options",
+     "columns": [
+      "Option",
+      "When",
+      "Key facts"
+     ],
+     "rows": [
+      [
+       "Trans-sphenoidal surgery",
+       "Macroprolactinoma that shrinks too little (sometimes because it is cystic); drug intolerance; persisting visual loss",
+       "Cures about 80% of microadenomas, with possible recurrence; much lower cure rate for macroadenomas, which usually still need a dopamine agonist"
+      ],
+      [
+       "External radiotherapy",
+       "Some macroadenomas, to stop regrowth when the agonist is withdrawn; failure of drugs and surgery",
+       "Acts over months to years, so useless for urgent cases; fractionated RT causes hypopituitarism in 50–70% within 10 years, so annual pituitary testing is needed"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 707,
+       "page": 685
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 705,
+       "page": 683
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 663,
+       "page": 641
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 478,
+       "page": 478
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2736,
+       "page": 2736
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Compressed visual pathways are **urgent**: recovery is less likely the longer the defect has lasted, and full recovery is unlikely after **4 months**. For a prolactinoma, urgent treatment means a dopamine agonist, not surgery.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 705,
+       "page": 683
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 707,
+       "page": 685
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Pregnancy (Davidson)",
+     "columns": [
+      "Tumour",
+      "Plan"
+     ],
+     "rows": [
+      [
+       "Microprolactinoma",
+       "Stop the dopamine agonist as soon as pregnancy is confirmed"
+      ],
+      [
+       "Macroprolactinoma",
+       "Oestrogen can make it grow quickly: continue the agonist and monitor prolactin and visual fields"
+      ],
+      [
+       "All patients",
+       "Report headache or visual disturbance promptly"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 707,
+       "page": 685
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Books differ on pregnancy.** Davidson continues the agonist through pregnancy for a macroprolactinoma. Kumar describes agonists as traditionally stopped after conception (particularly for microprolactinomas) and restarted if the tumour grows. The Washington Manual advises delaying pregnancy until a macroprolactinoma is resected or markedly shrunk (15–35% enlarge symptomatically). For the exam, follow Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 707,
+       "page": 685
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 662,
+       "page": 640
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2736,
+       "page": 2736
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Bromocriptine is the agonist preferred when pregnancy is planned because it has the longest safety record. Pregnancy data on cabergoline and quinagolide are more limited.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 662,
+       "page": 640
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 707,
+       "page": 685
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 662,
+      "page": 640,
+      "figure": "Fig. 21.36"
+     },
+     "note": "Look at: a macroprolactinoma before treatment and after 2 years of cabergoline, showing marked shrinkage."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "endo-prolactinoma.c1",
+   "sectionId": "endo-prolactinoma.s1",
+   "front": "Size cut-off between micro- and macroprolactinoma?",
+   "back": "10 mm: micro < 10 mm, macro > 10 mm (> 1 cm)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 702,
+     "page": 680
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.c2",
+   "sectionId": "endo-prolactinoma.s1",
+   "front": "What is macroprolactinaemia?",
+   "back": "Prolactin bound to IgG: a large, biologically inactive complex that causes spurious hyperprolactinaemia; not a tumour",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.c3",
+   "sectionId": "endo-prolactinoma.s2",
+   "front": "Main hypothalamic control of prolactin?",
+   "back": "Tonic **inhibition by dopamine** acting on pituitary D2 receptors; TRH stimulates",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 661,
+     "page": 639
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.c4",
+   "sectionId": "endo-prolactinoma.s2",
+   "front": "How does prolactin excess cause hypogonadism?",
+   "back": "Reduces GnRH pulsatility (low LH/FSH) and partly blocks LH action on the gonads",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 661,
+     "page": 639
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 471,
+     "page": 471
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.c5",
+   "sectionId": "endo-prolactinoma.s2",
+   "front": "\"Disconnection\" hyperprolactinaemia?",
+   "back": "A mass compresses the pituitary stalk, so dopamine cannot reach the lactotrophs and prolactin rises modestly",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.c6",
+   "sectionId": "endo-prolactinoma.s3",
+   "front": "Two antiemetics that raise prolactin?",
+   "back": "Metoclopramide and domperidone (dopamine antagonists)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.c7",
+   "sectionId": "endo-prolactinoma.s3",
+   "front": "Why does primary hypothyroidism raise prolactin?",
+   "back": "High TRH stimulates prolactin secretion",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.c8",
+   "sectionId": "endo-prolactinoma.s4",
+   "front": "Why do men and post-menopausal women present with larger prolactinomas?",
+   "back": "Hypogonadal symptoms are missed or dismissed, so they present late with mass effects",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 703,
+     "page": 681
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 471,
+     "page": 471
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.c9",
+   "sectionId": "endo-prolactinoma.s4",
+   "front": "Classic visual field defect of a macroprolactinoma?",
+   "back": "Bitemporal hemianopia (chiasmal compression) or upper quadrantanopia",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 705,
+     "page": 683
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.c10",
+   "sectionId": "endo-prolactinoma.s5",
+   "front": "First test in a woman of reproductive age with high prolactin?",
+   "back": "Pregnancy test",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 223,
+     "page": 223
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.c11",
+   "sectionId": "endo-prolactinoma.s5",
+   "front": "Prolactin level highly suggestive of macroprolactinoma (Davidson)?",
+   "back": "> 5000 mIU/L (236 ng/mL)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.c12",
+   "sectionId": "endo-prolactinoma.s5",
+   "front": "Hook effect: what is it and how do you exclude it?",
+   "back": "Extremely high prolactin gives a falsely low assay result; repeat on serially diluted serum",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 662,
+     "page": 640
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 478,
+     "page": 478
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.c13",
+   "sectionId": "endo-prolactinoma.s6",
+   "front": "First-line treatment of a prolactinoma, even a macroadenoma with visual loss?",
+   "back": "Dopamine agonist (cabergoline or bromocriptine)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 705,
+     "page": 683
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 707,
+     "page": 685
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.c14",
+   "sectionId": "endo-prolactinoma.s6",
+   "front": "Cardiac risk of ergot dopamine agonists?",
+   "back": "Valvular fibrosis (especially tricuspid regurgitation) via 5-HT2B receptors, mainly at Parkinson doses",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 707,
+     "page": 685
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.c15",
+   "sectionId": "endo-prolactinoma.s7",
+   "front": "Dopamine agonist in pregnancy: micro vs macroprolactinoma (Davidson)?",
+   "back": "Micro: stop once pregnancy is confirmed. Macro: continue, and monitor prolactin and visual fields",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 707,
+     "page": 685
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.c16",
+   "sectionId": "endo-prolactinoma.s7",
+   "front": "Main long-term complication of pituitary radiotherapy?",
+   "back": "Hypopituitarism (50–70% within 10 years), so pituitary function is tested yearly",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 705,
+     "page": 683
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "endo-prolactinoma.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 29-year-old woman has secondary amenorrhoea. Serum prolactin is raised, and pituitary MRI shows a 6 mm lesion.",
+   "leadIn": "Which term best describes the lesion?",
+   "options": [
+    "Microprolactinoma",
+    "Macroprolactinoma",
+    "Macroprolactinaemia",
+    "Craniopharyngioma",
+    "Mesoadenoma"
+   ],
+   "answer": 0,
+   "explanation": "A prolactin-secreting adenoma **under 10 mm** is a **microprolactinoma**, the usual type in pre-menopausal women because symptoms bring them to medical attention early.",
+   "whyNot": [
+    "",
+    "Macroprolactinomas are larger than 10 mm.",
+    "Macroprolactinaemia is IgG-bound prolactin, a lab phenomenon with no tumour.",
+    "Craniopharyngioma is usually a suprasellar mass and does not explain a small intrasellar lesion with high prolactin.",
+    "Kumar reserves \"mesoadenoma\" for tumours of about 10 mm, not 6 mm."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 702,
+     "page": 680
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 662,
+     "page": 640
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 35-year-old woman with regular periods and no galactorrhoea has a prolactin of 1400 mIU/L on a routine screen. After polyethylene glycol precipitation, her prolactin is within the reference range. Pituitary MRI is normal.",
+   "leadIn": "What is the most likely explanation?",
+   "options": [
+    "Microprolactinoma",
+    "Macroprolactinaemia",
+    "Stalk disconnection",
+    "Hook effect",
+    "Primary hypothyroidism"
+   ],
+   "answer": 1,
+   "explanation": "Prolactin bound to IgG (**macroprolactin**) is detected by some assays but cannot reach tissue receptors. PEG precipitation removes it, and the remaining **monomeric prolactin is normal**, which fits an asymptomatic patient with normal imaging.",
+   "whyNot": [
+    "A microprolactinoma raises monomeric prolactin, which would stay high after PEG precipitation.",
+    "",
+    "Stalk disconnection needs a mass compressing the stalk, and her MRI is normal.",
+    "The hook effect gives a falsely low result with a huge tumour, not a falsely high one.",
+    "Hypothyroidism raises true monomeric prolactin, which PEG would not remove."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 662,
+     "page": 640
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A medical student is asked to explain why removing the pituitary stalk from its hypothalamic connections raises prolactin while other anterior pituitary hormones fall.",
+   "leadIn": "Which hypothalamic factor normally restrains prolactin release?",
+   "options": [
+    "TRH",
+    "GnRH",
+    "Dopamine",
+    "Somatostatin",
+    "Vasopressin"
+   ],
+   "answer": 2,
+   "explanation": "Prolactin is under **tonic dopamine inhibition** through D2 receptors. Cut the stalk and dopamine no longer arrives, so prolactin rises (disconnection hyperprolactinaemia) while hormones that need hypothalamic stimulation fall.",
+   "whyNot": [
+    "TRH stimulates prolactin rather than inhibiting it.",
+    "GnRH controls LH and FSH; prolactin suppresses GnRH, not the other way round.",
+    "",
+    "Somatostatin chiefly inhibits GH and TSH.",
+    "Vasopressin is a posterior pituitary hormone with no main role in prolactin control."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 661,
+     "page": 639
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 31-year-old woman with a prolactinoma asks why her periods stopped.",
+   "leadIn": "What is the main mechanism?",
+   "options": [
+    "Prolactin directly destroys ovarian follicles",
+    "Prolactin suppresses GnRH pulsatility and blunts LH action on the ovary",
+    "The tumour compresses gonadotroph cells",
+    "Prolactin increases hepatic SHBG production",
+    "Prolactin stimulates adrenal androgen excess"
+   ],
+   "answer": 1,
+   "explanation": "High prolactin **reduces hypothalamic GnRH pulsatility**, so LH and FSH fall, and it also partly **blocks LH action** at the gonad. This causes hypogonadism even when the pituitary is otherwise intact, as in a microadenoma.",
+   "whyNot": [
+    "Follicles are not destroyed; ovulation recovers when prolactin falls.",
+    "",
+    "Compression causes hypogonadism mainly with large tumours, but a microprolactinoma acts through hormonal suppression.",
+    "SHBG is not the mechanism described.",
+    "Adrenal androgen excess is not the explanation for the amenorrhoea."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 661,
+     "page": 639
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 471,
+     "page": 471
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 26-year-old woman with schizophrenia has galactorrhoea and amenorrhoea after starting a new medication. Pregnancy test is negative.",
+   "leadIn": "Which drug is most likely responsible?",
+   "options": [
+    "Haloperidol",
+    "Bromocriptine",
+    "Levothyroxine",
+    "Cabergoline",
+    "Lithium"
+   ],
+   "answer": 0,
+   "explanation": "Butyrophenone and phenothiazine antipsychotics are **dopamine antagonists**, so they remove the tonic dopamine brake on prolactin. Haloperidol is a classic cause.",
+   "whyNot": [
+    "",
+    "Bromocriptine is a dopamine agonist and lowers prolactin.",
+    "Levothyroxine lowers prolactin in hypothyroidism by reducing TRH.",
+    "Cabergoline is a dopamine agonist used to treat hyperprolactinaemia.",
+    "Lithium is not a dopamine antagonist and is not a classic cause."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 661,
+     "page": 639
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 40-year-old woman has tiredness, weight gain, constipation, oligomenorrhoea and a prolactin of 1200 mIU/L. TSH is markedly raised and free T4 is low.",
+   "leadIn": "What is the best next step?",
+   "options": [
+    "Start cabergoline",
+    "Pituitary MRI",
+    "Start levothyroxine and recheck prolactin",
+    "Trans-sphenoidal surgery",
+    "Gel filtration chromatography"
+   ],
+   "answer": 2,
+   "explanation": "In **primary hypothyroidism**, high TRH stimulates prolactin. Treating the cause with **levothyroxine** should bring prolactin down, so recheck before considering imaging or dopamine agonists.",
+   "whyNot": [
+    "A dopamine agonist treats the symptom but leaves the cause untreated.",
+    "Imaging is premature until the reversible cause is treated; MRI abnormalities are common in healthy people.",
+    "",
+    "There is no evidence of a tumour needing surgery.",
+    "The clinical and thyroid picture explains true hyperprolactinaemia; macroprolactin testing is not the priority."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 471,
+     "page": 471
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 58-year-old man has had headaches for a year and recently bumped into door frames on both sides. He admits his libido has been low for several years.",
+   "leadIn": "Which visual field defect is most likely?",
+   "options": [
+    "Bitemporal hemianopia",
+    "Central scotoma in one eye",
+    "Left homonymous hemianopia",
+    "Binasal hemianopia",
+    "Tunnel vision from glaucoma"
+   ],
+   "answer": 0,
+   "explanation": "Men often present late, with a macroprolactinoma that has grown upward to press on the **optic chiasm**. Compression of the crossing nasal fibres causes **bitemporal hemianopia**, so he misses objects on both sides.",
+   "whyNot": [
+    "",
+    "A unilateral central scotoma reflects optic nerve compression and would not cause bilateral lateral misses.",
+    "A homonymous defect comes from the optic tract or beyond, which is less typical.",
+    "Binasal loss is not the pattern of chiasmal compression.",
+    "Glaucoma does not explain low libido or headache."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 705,
+     "page": 683
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 703,
+     "page": 681
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 470,
+     "page": 470
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 34-year-old man has a 2-year history of reduced libido and erectile dysfunction. He has no breast tissue enlargement.",
+   "leadIn": "Which feature is least likely to be present if his cause is hyperprolactinaemia?",
+   "options": [
+    "Reduced shaving frequency",
+    "Lethargy",
+    "Galactorrhoea",
+    "Low testosterone",
+    "Infertility"
+   ],
+   "answer": 2,
+   "explanation": "Prolactin drives milk secretion but **not breast growth**, so galactorrhoea in men is rare and occurs only when hypogonadism has already caused gynaecomastia. He has no breast enlargement, so galactorrhoea is unlikely.",
+   "whyNot": [
+    "Reduced shaving is a classic hypogonadal symptom in men with high prolactin.",
+    "Lethargy is commonly reported.",
+    "",
+    "Low testosterone follows GnRH suppression.",
+    "Infertility results from the hypogonadism."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 471,
+     "page": 471
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 24-year-old woman presents with galactorrhoea and 4 months without a period.",
+   "leadIn": "Which investigation should be performed first?",
+   "options": [
+    "Serum prolactin",
+    "Pregnancy test",
+    "Pituitary MRI",
+    "TSH",
+    "Visual fields"
+   ],
+   "answer": 1,
+   "explanation": "Pregnancy is the commonest cause of both amenorrhoea and a high prolactin, so it must be **excluded first** in any woman who could be pregnant, before other tests.",
+   "whyNot": [
+    "Prolactin is needed, but a raised value is uninterpretable until pregnancy is excluded.",
+    "",
+    "Imaging comes after biochemistry and exclusion of secondary causes.",
+    "TSH is part of the work-up but follows a pregnancy test.",
+    "Visual fields matter with a macroadenoma; they are not the first step."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 670,
+     "page": 670
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 223,
+     "page": 223
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 47-year-old man has a 3.5 cm pituitary mass reaching the chiasm. His serum prolactin is reported as only modestly raised.",
+   "leadIn": "What should be done to interpret the prolactin result correctly?",
+   "options": [
+    "Repeat the assay on serially diluted serum",
+    "Measure IGF-1",
+    "Perform PEG precipitation",
+    "Measure prolactin after a TRH test",
+    "Measure 9 am cortisol"
+   ],
+   "answer": 0,
+   "explanation": "A giant prolactinoma can saturate the assay and give a falsely low reading (**hook effect**). **Serial dilution** reveals the true, very high value and separates a prolactinoma from a non-functioning tumour causing stalk disconnection.",
+   "whyNot": [
+    "",
+    "IGF-1 screens for acromegaly; it does not correct the prolactin result.",
+    "PEG precipitation detects macroprolactin, a cause of falsely high results.",
+    "A TRH test does not overcome assay saturation.",
+    "Cortisol is part of assessing hypopituitarism, but it does not fix the prolactin interpretation."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 662,
+     "page": 640
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 478,
+     "page": 478
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 30-year-old woman has a 7 mm prolactinoma with amenorrhoea and troublesome galactorrhoea. She is not planning pregnancy.",
+   "leadIn": "What is the first-line treatment?",
+   "options": [
+    "Trans-sphenoidal surgery",
+    "Cabergoline",
+    "External radiotherapy",
+    "Combined oral contraceptive alone",
+    "Octreotide"
+   ],
+   "answer": 1,
+   "explanation": "Dopamine agonists are **first line** for prolactinomas. Cabergoline is long-acting, taken twice weekly and better tolerated than bromocriptine.",
+   "whyNot": [
+    "Surgery is second line for prolactinomas.",
+    "",
+    "Radiotherapy is second line and slow, and it causes hypopituitarism.",
+    "Sex steroids replace oestrogen but do nothing for galactorrhoea or the tumour.",
+    "Somatostatin analogues treat acromegaly, not prolactinoma."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 705,
+     "page": 683
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 707,
+     "page": 685
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 472,
+     "page": 472
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 38-year-old man with chronic schizophrenia, stable on risperidone, has low libido and a prolactin of 2100 mIU/L. MRI pituitary is normal, and his psychiatrist advises against changing the antipsychotic.",
+   "leadIn": "Which approach is most appropriate?",
+   "options": [
+    "Add bromocriptine",
+    "Add cabergoline",
+    "Testosterone replacement",
+    "Trans-sphenoidal exploration",
+    "Pituitary radiotherapy"
+   ],
+   "answer": 2,
+   "explanation": "When a needed **dopamine antagonist** causes hyperprolactinaemia, a dopamine agonist is **contraindicated** because it can undo the antipsychotic effect. Treat the gonadal deficiency with **sex-steroid replacement**.",
+   "whyNot": [
+    "A dopamine agonist opposes the antipsychotic and could cause a psychotic relapse.",
+    "Cabergoline has the same problem as any dopamine agonist here.",
+    "",
+    "The MRI is normal; there is nothing to operate on.",
+    "Radiotherapy has no role in drug-induced hyperprolactinaemia."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 27-year-old woman with a 5 mm microprolactinoma conceived 4 weeks after starting bromocriptine. Pregnancy is now confirmed.",
+   "leadIn": "According to Davidson, what should be done with her dopamine agonist?",
+   "options": [
+    "Stop it now",
+    "Continue it throughout pregnancy",
+    "Switch to cabergoline",
+    "Double the dose",
+    "Replace it with radiotherapy"
+   ],
+   "answer": 0,
+   "explanation": "Microadenomas rarely enlarge in pregnancy, so Davidson advises **stopping the agonist once pregnancy is confirmed**, with prompt reporting of headache or visual change.",
+   "whyNot": [
+    "",
+    "Continuing is the Davidson plan for a **macro**prolactinoma, which may grow under oestrogen.",
+    "Cabergoline has more limited pregnancy safety data, and no agonist is needed here.",
+    "There is no indication to increase treatment.",
+    "Radiotherapy has no place in pregnancy for a microadenoma."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 707,
+     "page": 685
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 662,
+     "page": 640
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 44-year-old man with a cystic macroprolactinoma has persisting visual field loss despite 6 months of maximum-dose cabergoline.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Switch to bromocriptine",
+    "Trans-sphenoidal surgical decompression",
+    "Stop treatment and observe",
+    "Start octreotide",
+    "Fractionated radiotherapy alone"
+   ],
+   "answer": 1,
+   "explanation": "Surgery is needed mainly when a macroprolactinoma **fails to shrink enough** on a dopamine agonist, often because of a **cystic** component, or when visual defects persist.",
+   "whyNot": [
+    "Switching agonist is unlikely to shrink a cystic tumour, and vision cannot wait.",
+    "",
+    "Stopping treatment would let the tumour regrow and vision worsen.",
+    "Octreotide treats acromegaly, not prolactinoma.",
+    "Radiotherapy takes months to years and cannot relieve urgent chiasmal compression."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 707,
+     "page": 685
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 705,
+     "page": 683
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2736,
+     "page": 2736
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 52-year-old woman has a 2.8 cm pituitary mass compressing the chiasm, found on CT after a fall. Neurosurgery is planned for the next morning.",
+   "leadIn": "Which test is most important before surgery?",
+   "options": [
+    "Serum prolactin",
+    "IGF-1",
+    "Overnight dexamethasone suppression test",
+    "Serum calcium",
+    "Plasma metanephrines"
+   ],
+   "answer": 0,
+   "explanation": "If prolactin exceeds **5000 mIU/L**, the mass is probably a macroprolactinoma that will shrink on a **dopamine agonist**, making surgery unnecessary. Prolactin should always be checked before emergency sellar surgery.",
+   "whyNot": [
+    "",
+    "IGF-1 screens for acromegaly but would not change the urgent plan the way prolactin can.",
+    "Screening for Cushing’s does not decide whether surgery is avoidable.",
+    "Calcium is relevant to MEN 1 but not to the surgical decision.",
+    "Metanephrines are for phaeochromocytoma, not a sellar mass."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 705,
+     "page": 683
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 33-year-old woman with irregular periods, hirsutism, acne and polycystic ovaries on ultrasound has a prolactin of 850 mIU/L. Pregnancy test and TSH are normal.",
+   "leadIn": "Which cause best explains her prolactin?",
+   "options": [
+    "Macroprolactinoma",
+    "Polycystic ovary syndrome",
+    "Stalk disconnection",
+    "Renal failure",
+    "GH/prolactin co-secreting tumour"
+   ],
+   "answer": 1,
+   "explanation": "**PCOS** is a common pathological cause of a mild prolactin rise, and her hirsutism, acne and ovarian findings fit it. A level of 500–1000 mIU/L should still be repeated to rule out stress.",
+   "whyNot": [
+    "A macroprolactinoma usually gives levels above 5000 mIU/L.",
+    "",
+    "Stalk disconnection needs a mass on imaging, and there is nothing to suggest one.",
+    "Nothing suggests renal failure.",
+    "Co-secreting tumours are uncommon and cause acromegalic features."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 661,
+     "page": 639
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 66-year-old man has taken cabergoline at high dose for many years for a macroprolactinoma. A new pansystolic murmur at the left lower sternal edge is heard.",
+   "leadIn": "Which mechanism links his murmur to the drug?",
+   "options": [
+    "5-HT2B receptor stimulation causing valve fibrosis",
+    "D2 receptor blockade causing cardiomyopathy",
+    "Hyperprolactinaemia causing endocarditis",
+    "Hypothyroidism causing pericardial effusion",
+    "Hypogonadism causing aortic stenosis"
+   ],
+   "answer": 0,
+   "explanation": "Ergot-derived agonists such as cabergoline stimulate **5-HT2B** receptors and can cause **valve fibrosis**, classically **tricuspid regurgitation** (a pansystolic murmur at the lower left sternal edge), especially at high cumulative doses.",
+   "whyNot": [
+    "",
+    "Cabergoline is a D2 agonist, not an antagonist, and does not cause cardiomyopathy this way.",
+    "Prolactin does not cause endocarditis.",
+    "There is no evidence of hypothyroidism, and an effusion does not cause a murmur.",
+    "Hypogonadism is not linked to aortic stenosis."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 707,
+     "page": 685
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 662,
+     "page": 640
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q18",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 41-year-old man with acromegaly has a raised prolactin as well as a high IGF-1.",
+   "leadIn": "Why might a pituitary tumour secrete both GH and prolactin?",
+   "options": [
+    "Somatotrophs and lactotrophs share a common cell lineage",
+    "GH stimulates lactotrophs directly",
+    "IGF-1 blocks dopamine release",
+    "Prolactin is cleaved from GH",
+    "Both hormones are made in the posterior pituitary"
+   ],
+   "answer": 0,
+   "explanation": "Prolactin-secreting and GH-secreting cells derive from a **common lineage**, so mixed tumours occur. Step-Up notes that about 30% of patients with acromegaly have hyperprolactinaemia.",
+   "whyNot": [
+    "",
+    "GH does not directly stimulate lactotrophs in this way.",
+    "IGF-1 does not block hypothalamic dopamine.",
+    "The hormones are separate gene products.",
+    "Both are anterior pituitary hormones."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 473,
+     "page": 473
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q19",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "A 49-year-old man has a 2.5 cm sellar mass reaching the chiasm. His prolactin is 1800 mIU/L, and repeat measurement on diluted serum gives the same value. IGF-1 and cortisol tests are normal.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Macroprolactinoma",
+    "Non-functioning macroadenoma with stalk disconnection",
+    "Microprolactinoma",
+    "Macroprolactinaemia",
+    "Acromegaly"
+   ],
+   "answer": 1,
+   "explanation": "A macroprolactinoma this large would usually give a prolactin **above 5000 mIU/L**, and dilution has excluded the hook effect. A **modest** rise with a large mass points to **stalk compression** by a non-functioning adenoma. This matters because such tumours do not shrink on dopamine agonists and need surgery.",
+   "whyNot": [
+    "Macroprolactinomas produce prolactin roughly in proportion to size, so 1800 mIU/L is too low once the hook effect is excluded.",
+    "",
+    "The tumour is 2.5 cm, so it is not a microadenoma.",
+    "Macroprolactinaemia does not produce a sellar mass.",
+    "Normal IGF-1 argues against acromegaly."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 662,
+     "page": 640
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 705,
+     "page": 683
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q20",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 36-year-old man with a known pituitary macroadenoma develops a sudden, severe headache, vomiting and double vision. He is drowsy, and his blood pressure is 92/58 mmHg.",
+   "leadIn": "What is the most important immediate treatment?",
+   "options": [
+    "High-dose intravenous hydrocortisone",
+    "Oral cabergoline",
+    "Intravenous levothyroxine",
+    "Pituitary radiotherapy",
+    "Intravenous mannitol alone"
+   ],
+   "answer": 0,
+   "explanation": "This is **pituitary apoplexy**: bleeding or infarction in the tumour causing acute compression and **acute hypopituitarism**. Cortisol deficiency is life-threatening, so give **high-dose glucocorticoid immediately**, and consider urgent decompression for severe deficits.",
+   "whyNot": [
+    "",
+    "A dopamine agonist works too slowly and does not treat adrenal crisis.",
+    "Thyroid hormone does not treat the life-threatening cortisol deficiency, and giving it before glucocorticoid can precipitate adrenal crisis.",
+    "Radiotherapy has no role in the acute event.",
+    "Mannitol does not address the acute cortisol deficiency."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 705,
+     "page": 683
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 476,
+     "page": 476
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 477,
+     "page": 477
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q21",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 58-year-old post-menopausal woman has an incidental 6 mm prolactinoma. She has no galactorrhoea, headache or visual symptoms.",
+   "leadIn": "What is the most appropriate management?",
+   "options": [
+    "Observation without dopamine agonist therapy",
+    "Cabergoline for 2 years",
+    "Trans-sphenoidal surgery",
+    "Radiotherapy",
+    "Oestrogen replacement"
+   ],
+   "answer": 0,
+   "explanation": "After the menopause, **hypogonadism is physiological** and a microadenoma rarely grows, so a microprolactinoma needs treatment only if galactorrhoea is troublesome.",
+   "whyNot": [
+    "",
+    "There is nothing to treat; prolactin suppression would bring no benefit.",
+    "Surgery is not indicated for an asymptomatic microadenoma.",
+    "Radiotherapy risks hypopituitarism with no benefit.",
+    "HRT is not needed to treat the prolactinoma."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 707,
+     "page": 685
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 662,
+     "page": 640
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 478,
+     "page": 478
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q22",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 70-year-old woman on haemodialysis has a mildly raised prolactin. She takes no regular medication other than phosphate binders.",
+   "leadIn": "What is the main reason for her raised prolactin?",
+   "options": [
+    "Reduced renal clearance of prolactin",
+    "Excess TRH",
+    "Stalk compression",
+    "Oestrogen excess",
+    "Dopamine agonist withdrawal"
+   ],
+   "answer": 0,
+   "explanation": "**Renal failure** raises prolactin mainly because the kidneys clear less of it.",
+   "whyNot": [
+    "",
+    "Her thyroid status is not given; renal failure itself explains the result.",
+    "Nothing suggests a sellar mass.",
+    "She is post-menopausal and takes no oestrogen.",
+    "She has never been on a dopamine agonist."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s3"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 478,
+     "page": 478
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q23",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 32-year-old woman has had secondary amenorrhoea for 8 months and expressible galactorrhoea. Pregnancy test is negative, she takes no medication, and TSH is normal. Prolactin is 3200 mIU/L on two samples.",
+   "leadIn": "What is the most appropriate next investigation?",
+   "options": [
+    "Pituitary MRI",
+    "Pelvic ultrasound",
+    "Repeat prolactin in 6 months",
+    "Short Synacthen test",
+    "Bromocriptine trial before imaging"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: pregnancy is excluded. Step 2: there are no drug causes. Step 3: TSH is normal, so primary hypothyroidism is excluded. Step 4: the prolactin is persistently raised in the **1000–5000 mIU/L** band, which fits a microprolactinoma or stalk disconnection. Step 5: a persistently high, unexplained prolactin is the indication for **pituitary MRI**.",
+   "whyNot": [
+    "",
+    "Ultrasound may show PCOS, but it cannot exclude a pituitary lesion.",
+    "Delay is not appropriate; the cause must be found.",
+    "Synacthen tests adrenal reserve and is not the next step for a probable microadenoma.",
+    "Imaging should define the lesion before treatment."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 662,
+     "page": 640
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 478,
+     "page": 478
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q24",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 45-year-old man has headache and bitemporal hemianopia. MRI shows a 3 cm sellar mass compressing the chiasm, and serum prolactin is 48 000 mIU/L.",
+   "leadIn": "What is the best initial treatment?",
+   "options": [
+    "Cabergoline",
+    "Urgent trans-sphenoidal surgery",
+    "Radiotherapy",
+    "Hydrocortisone and observation",
+    "Quinagolide only if surgery fails"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: prolactin is far above 5000 mIU/L, so this is a **macroprolactinoma**. Step 2: prolactinomas respond to dopamine agonists, which usually shrink even large tumours. Step 3: visual fields often improve **within days**, so medical therapy is the urgent treatment and surgery is avoided. Step 4: monitor visual fields and repeat MRI; surgery is for failure or intolerance.",
+   "whyNot": [
+    "",
+    "Surgery is second line and has a low cure rate for macroprolactinomas.",
+    "Radiotherapy acts over months to years.",
+    "Hydrocortisone is given for adrenal insufficiency, but does not treat the tumour.",
+    "Quinagolide is a dopamine agonist for those intolerant of others; surgery is not first."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 705,
+     "page": 683
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 707,
+     "page": 685
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q25",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 29-year-old woman with a 2 cm macroprolactinoma has shrunk well on cabergoline and now wants to conceive. She asks what will happen to her treatment if she becomes pregnant.",
+   "leadIn": "According to Davidson, what is the correct advice?",
+   "options": [
+    "Continue the dopamine agonist in pregnancy, with prolactin and visual field monitoring",
+    "Stop the dopamine agonist at conception and never restart",
+    "Have radiotherapy before conception",
+    "Avoid pregnancy permanently",
+    "Switch to oestrogen therapy"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: decide the size. A 2 cm tumour is a **macro**prolactinoma. Step 2: oestrogen in pregnancy can make it **grow quickly**. Step 3: Davidson therefore advises **continuing** the agonist, monitoring prolactin and visual fields, and reporting headache or visual change promptly. (Kumar and Washington are more cautious; follow Davidson for the exam.)",
+   "whyNot": [
+    "",
+    "Stopping is the Davidson plan for **micro**adenomas only.",
+    "Radiotherapy is not first-line and causes hypopituitarism.",
+    "Pregnancy is not forbidden; it needs planning and monitoring.",
+    "Oestrogen would stimulate the tumour."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 707,
+     "page": 685
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 662,
+     "page": 640
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2736,
+     "page": 2736
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q26",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Causes of a raised serum prolactin",
+   "leadIn": "For each patient below, choose the most likely cause of the raised prolactin from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Microprolactinoma",
+    "Macroprolactinoma",
+    "Stalk disconnection by a non-functioning adenoma",
+    "Primary hypothyroidism",
+    "Metoclopramide",
+    "Macroprolactinaemia",
+    "Pregnancy",
+    "Renal failure",
+    "Polycystic ovary syndrome",
+    "Post-ictal state",
+    "Chest wall reflex after herpes zoster"
+   ],
+   "items": [
+    {
+     "stem": "A 23-year-old woman has 3 months of amenorrhoea, nausea and breast tenderness. Prolactin is 1600 mIU/L.",
+     "answer": 6,
+     "explanation": "Pregnancy is the commonest cause of amenorrhoea with a raised prolactin, and nausea and breast tenderness support it. A pregnancy test comes first.",
+     "studyRef": {
+      "sectionId": "endo-prolactinoma.s3"
+     }
+    },
+    {
+     "stem": "A 60-year-old man with gastroparesis has been taking a prokinetic antiemetic before meals for 3 months and now notices reduced libido. Prolactin is 1900 mIU/L.",
+     "answer": 4,
+     "explanation": "Metoclopramide is a dopamine antagonist used as a prokinetic, and it raises prolactin.",
+     "studyRef": {
+      "sectionId": "endo-prolactinoma.s3"
+     }
+    },
+    {
+     "stem": "A 19-year-old man is seen 30 minutes after a generalised tonic–clonic seizure. A prolactin taken in the emergency department is mildly raised.",
+     "answer": 9,
+     "explanation": "The stress of a seizure transiently raises prolactin (post-ictal state).",
+     "studyRef": {
+      "sectionId": "endo-prolactinoma.s3"
+     }
+    },
+    {
+     "stem": "A 55-year-old man has bitemporal hemianopia and a 3 cm sellar mass. Prolactin is 2200 mIU/L, unchanged on dilution. Cabergoline normalises prolactin, but the tumour does not shrink.",
+     "answer": 2,
+     "explanation": "Two steps: a large mass with only a modest prolactin, after the hook effect is excluded, suggests stalk compression; a true macroprolactinoma would usually shrink on a dopamine agonist, so failure to shrink supports a non-functioning adenoma.",
+     "studyRef": {
+      "sectionId": "endo-prolactinoma.s5"
+     }
+    },
+    {
+     "stem": "A 64-year-old woman has a painful vesicular rash in a band around her right chest, which healed 2 months ago with persistent neuralgia. She now has galactorrhoea, normal TSH and normal pituitary MRI.",
+     "answer": 10,
+     "explanation": "Stimulation of the chest wall nerves (for example after herpes zoster) is a rare reflex cause of hyperprolactinaemia.",
+     "studyRef": {
+      "sectionId": "endo-prolactinoma.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 661,
+     "page": 639
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 662,
+     "page": 640
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 705,
+     "page": 683
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 707,
+     "page": 685
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q27",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Management of hyperprolactinaemia and prolactinoma",
+   "leadIn": "For each patient below, choose the most appropriate management from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Cabergoline",
+    "Bromocriptine",
+    "Quinagolide",
+    "Stop the offending drug and recheck prolactin",
+    "Levothyroxine",
+    "Sex-steroid replacement",
+    "Trans-sphenoidal surgery",
+    "Fractionated radiotherapy",
+    "Observation only",
+    "Stop the dopamine agonist"
+   ],
+   "items": [
+    {
+     "stem": "A 28-year-old woman with a microprolactinoma and anovulatory infertility wants to conceive within the next year. She has not yet started treatment.",
+     "answer": 1,
+     "explanation": "Bromocriptine has the longest safety record when pregnancy is planned, and Davidson notes its use in infertility. Cabergoline has more limited pregnancy data.",
+     "studyRef": {
+      "sectionId": "endo-prolactinoma.s7"
+     }
+    },
+    {
+     "stem": "A 46-year-old man has taken cabergoline for a prolactinoma, but echocardiography now shows new tricuspid regurgitation. He still needs a dopamine agonist.",
+     "answer": 2,
+     "explanation": "Quinagolide is a non-ergot agonist, so it avoids 5-HT2B-mediated valve fibrosis and suits patients who need long-term therapy.",
+     "studyRef": {
+      "sectionId": "endo-prolactinoma.s6"
+     }
+    },
+    {
+     "stem": "A 34-year-old woman with a 4 mm microprolactinoma, treated with cabergoline, has a positive pregnancy test.",
+     "answer": 9,
+     "explanation": "Davidson advises stopping the agonist once pregnancy is confirmed in a microadenoma, because significant growth is unlikely.",
+     "studyRef": {
+      "sectionId": "endo-prolactinoma.s7"
+     }
+    },
+    {
+     "stem": "A 39-year-old man has a macroprolactinoma that has not been controlled despite surgery and maximum tolerated dopamine agonist therapy. He wants to stop medication long term.",
+     "answer": 7,
+     "explanation": "Radiotherapy is reserved for failure of medical and surgical therapy and to prevent regrowth when agonists are withdrawn. It works slowly and causes hypopituitarism, so annual pituitary tests are needed.",
+     "studyRef": {
+      "sectionId": "endo-prolactinoma.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 707,
+     "page": 685
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 705,
+     "page": 683
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 662,
+     "page": 640
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 663,
+     "page": 641
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 478,
+     "page": 478
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q28",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 37-year-old woman has a prolactin of 720 mIU/L on a sample taken after she fainted during venepuncture. She is well, with regular periods, and takes no medication.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Repeat the prolactin under calm conditions",
+    "Pituitary MRI",
+    "Start cabergoline",
+    "Visual field testing",
+    "Measure IGF-1"
+   ],
+   "answer": 0,
+   "explanation": "A level of **500–1000 mIU/L** is usually due to **stress** or drugs, and her sample was taken under obvious stress. Davidson advises a **repeat** before further work-up.",
+   "whyNot": [
+    "",
+    "Imaging before confirming a true rise risks finding an incidental \"abnormality\".",
+    "There is no confirmed hyperprolactinaemia to treat.",
+    "Visual fields are needed for a macroadenoma, not for a single mild rise.",
+    "Nothing suggests acromegaly."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 702,
+     "page": 680
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q29",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 33-year-old woman starts bromocriptine for a microprolactinoma and stops it after 2 days because of dizziness on standing and nausea.",
+   "leadIn": "What would most reduce these side-effects if she restarts?",
+   "options": [
+    "Start at a low dose with food and titrate slowly",
+    "Take the full dose at once to build tolerance",
+    "Add domperidone",
+    "Switch to octreotide",
+    "Take it on an empty stomach in the morning"
+   ],
+   "answer": 0,
+   "explanation": "Bromocriptine causes ergot-type effects (**nausea, postural hypotension**). Starting at a **low dose, with food** (often at bedtime), and increasing slowly reduces them. Tolerance develops over time.",
+   "whyNot": [
+    "",
+    "A large initial dose makes postural hypotension worse.",
+    "Domperidone is a dopamine antagonist that raises prolactin.",
+    "Octreotide does not treat prolactinoma.",
+    "An empty stomach worsens nausea."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 707,
+     "page": 685
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 662,
+     "page": 640
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2735,
+     "page": 2735
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q30",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 26-year-old woman has had oligomenorrhoea for 2 years and has a prolactin of 3000 mIU/L due to a microprolactinoma. She asks about the long-term risk if she is not treated.",
+   "leadIn": "Which complication is she most at risk of?",
+   "options": [
+    "Osteoporosis",
+    "Breast cancer",
+    "Cushing’s syndrome",
+    "Diabetes insipidus",
+    "Hypercalcaemia"
+   ],
+   "answer": 0,
+   "explanation": "Prolonged **oestrogen deficiency** from prolactin-induced hypogonadism reduces bone density, so **osteoporosis** is the key long-term risk and one reason to treat.",
+   "whyNot": [
+    "",
+    "Kumar mentions only an epidemiological association, not an established complication.",
+    "Prolactinomas do not secrete ACTH.",
+    "Diabetes insipidus is a posterior pituitary/hypothalamic disorder, rare with prolactinoma.",
+    "Hypercalcaemia would raise suspicion of MEN 1, but it is not a complication of prolactinoma."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 661,
+     "page": 639
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 471,
+     "page": 471
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2735,
+     "page": 2735
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q31",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 42-year-old woman has a 5 mm prolactinoma. Her mother had parathyroidectomy for hypercalcaemia, and her brother had a pancreatic neuroendocrine tumour.",
+   "leadIn": "Which test is most appropriate for her?",
+   "options": [
+    "Serum calcium",
+    "Serum calcitonin",
+    "Plasma metanephrines",
+    "Urinary 5-HIAA",
+    "Serum IGF-1"
+   ],
+   "answer": 0,
+   "explanation": "Prolactinoma with a family history of **hyperparathyroidism** and a **pancreatic tumour** suggests **MEN 1**. Serum calcium (with PTH) screens for the primary hyperparathyroidism of MEN 1; MEN 1 carriers have calcium and prolactin checked every year.",
+   "whyNot": [
+    "",
+    "Calcitonin screens for medullary thyroid cancer in MEN 2.",
+    "Metanephrines screen for phaeochromocytoma, a MEN 2 feature.",
+    "5-HIAA is for carcinoid syndrome.",
+    "IGF-1 assesses GH excess, which is not the most useful test here."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 710,
+     "page": 688
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 711,
+     "page": 689
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q32",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 35-year-old man has a macroprolactinoma that has shrunk well after 3 years of cabergoline, with normal prolactin. He has not had surgery or radiotherapy. He asks to stop the drug.",
+   "leadIn": "What is the best advice?",
+   "options": [
+    "Most macroprolactinomas recur, so continue unless curative surgery or radiotherapy has been done",
+    "Stop now; macroadenomas rarely recur",
+    "Stop now and repeat MRI in 5 years",
+    "Switch to radiotherapy at once",
+    "Halve the dose and stop at 4 years"
+   ],
+   "answer": 0,
+   "explanation": "Davidson allows withdrawal of a dopamine agonist in a **macroadenoma** only after **curative surgery or radiotherapy** and under close supervision, because **most recur**. Withdrawal trials suit **micro**adenomas.",
+   "whyNot": [
+    "",
+    "Recurrence after stopping is the rule in macroadenomas.",
+    "Stopping without supervision risks regrowth and visual loss.",
+    "Radiotherapy is not needed for a well-controlled tumour.",
+    "An arbitrary taper has no supporting basis."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 707,
+     "page": 685
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 662,
+     "page": 640
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q33",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 3,
+   "stem": "A 50-year-old man had fractionated pituitary radiotherapy 6 years ago for a macroprolactinoma. He now has fatigue, cold intolerance and low libido.",
+   "leadIn": "What is the most likely explanation?",
+   "options": [
+    "Radiotherapy-induced hypopituitarism",
+    "Tumour regrowth causing hook effect",
+    "Cabergoline-induced valvulopathy",
+    "Primary hypothyroidism from radiation",
+    "Normal ageing"
+   ],
+   "answer": 0,
+   "explanation": "Fractionated pituitary radiotherapy causes **progressive hypopituitarism** in **50–70% within 10 years**, so annual pituitary function testing is obligatory. His symptoms fit central hypothyroidism and hypogonadism.",
+   "whyNot": [
+    "",
+    "The hook effect is an assay artefact and does not explain the symptoms.",
+    "Valvulopathy would cause cardiac signs, not this pattern.",
+    "Radiotherapy to the sellar region causes loss of anterior pituitary hormones, so any hypothyroidism here would be secondary (TSH deficiency), not primary.",
+    "Several hormone-deficiency symptoms after radiotherapy should not be dismissed."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 705,
+     "page": 683
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 663,
+     "page": 641
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 703,
+     "page": 681
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q34",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 30-year-old woman with galactorrhoea has a prolactin of 1500 mIU/L. Pregnancy test and TSH are normal. She takes citalopram, which cannot easily be stopped.",
+   "leadIn": "Which statement about further work-up is most accurate?",
+   "options": [
+    "Pituitary MRI is indicated if prolactin stays raised, because the drug cannot be withdrawn to show it is the cause",
+    "SSRIs never raise prolactin, so image immediately",
+    "Start cabergoline without further tests",
+    "Hyperprolactinaemia is excluded because galactorrhoea is often normoprolactinaemic",
+    "Measure GH after a glucose load"
+   ],
+   "answer": 0,
+   "explanation": "SSRIs can raise prolactin, but the usual way to prove a drug cause is to show prolactin falls after withdrawal. When the drug cannot be stopped and prolactin stays raised, that proof is unavailable, so **pituitary imaging** is needed to exclude a tumour.",
+   "whyNot": [
+    "",
+    "SSRIs are a recognised cause of hyperprolactinaemia.",
+    "Treatment should not begin without establishing the cause.",
+    "Her prolactin is raised, so this is not normoprolactinaemic galactorrhoea.",
+    "A glucose suppression test is for acromegaly."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 706,
+     "page": 684
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 661,
+     "page": 639
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 662,
+     "page": 640
+    }
+   ]
+  },
+  {
+   "id": "endo-prolactinoma.q35",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 52-year-old man has a 2.2 cm prolactinoma with superior extension and a mild bitemporal field defect. He starts cabergoline.",
+   "leadIn": "Which response pattern is expected?",
+   "options": [
+    "Visual fields may improve within days, while tumour shrinkage occurs over months",
+    "Visual fields cannot improve without surgery",
+    "The tumour shrinks in days, but fields take years",
+    "Prolactin falls, but the tumour never shrinks",
+    "Shrinkage occurs only after 5 years"
+   ],
+   "answer": 0,
+   "explanation": "Dopamine agonists lower prolactin and **shrink macroprolactinomas over months**, but **visual fields can improve within days**. Washington reports normalised prolactin, shrinkage and better fields in about 90%; visual fields are rechecked at 4–6 weeks and MRI at 3–6 months.",
+   "whyNot": [
+    "",
+    "Most patients improve with medical therapy alone.",
+    "This reverses the real time course.",
+    "Prolactinomas usually shrink; failure to shrink suggests a cystic tumour or non-prolactinoma.",
+    "Shrinkage is visible within months."
+   ],
+   "studyRef": {
+    "sectionId": "endo-prolactinoma.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 707,
+     "page": 685
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2736,
+     "page": 2736
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "endo-prolactinoma.o1",
+   "sectionId": "endo-prolactinoma.s6",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 707,
+    "page": 685,
+    "figure": "Fig. 18.29"
+   },
+   "identify": "MRI: pituitary macroadenoma (prolactinoma) lifting and compressing the optic chiasm, then shrinkage with the chiasm decompressed after dopamine agonist therapy, showing that medical treatment is first line even for large tumours."
+  },
+  {
+   "id": "endo-prolactinoma.o2",
+   "sectionId": "endo-prolactinoma.s7",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 662,
+    "page": 640,
+    "figure": "Fig. 21.36"
+   },
+   "identify": "MRI before and after 2 years of cabergoline: a macroprolactinoma (arrowed) with marked shrinkage on treatment."
+  },
+  {
+   "id": "endo-prolactinoma.o3",
+   "sectionId": "endo-prolactinoma.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 703,
+    "page": 681,
+    "figure": "Fig. 18.28"
+   },
+   "identify": "Pituitary disease summary: micro- versus macroadenoma on MRI, local complications (headache, visual field defect, diplopia, apoplexy), hyperprolactinaemia (galactorrhoea, amenorrhoea, hypogonadism) and hypopituitarism."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:29:51.476Z",
+  "contentHash": "21b3f9c69fcc4120389fa6147baee1ab57c1408c6103d5975ed7d6070affb30b"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:29:51.488Z",
+  "contentHash": "21b3f9c69fcc4120389fa6147baee1ab57c1408c6103d5975ed7d6070affb30b",
+  "checkerVersion": "source-check-v1"
+ }
+}

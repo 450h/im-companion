@@ -1,0 +1,4973 @@
+{
+ "topicId": "endo-diabetes",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "endo-diabetes.s1",
+   "title": "Definition, classification and special types",
+   "objectiveIdx": [
+    0,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Diabetes mellitus** is a syndrome of **chronic hyperglycaemia** caused by **insulin deficiency, insulin resistance, or both**. It carries **acute metabolic** complications and long-term **microvascular** (eye, kidney, nerve) and **macrovascular** complications. **Type 1** is mainly **autoimmune destruction of β cells**, which leaves a severe insulin deficit. **Type 2** combines **insulin resistance** with β cells that **cannot secrete enough insulin** to overcome it.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 744,
+       "page": 722,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 724,
+       "page": 702,
+       "chapter": "Diabetes mellitus"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "The diagnostic glucose cut-offs were set where untreated hyperglycaemia starts to carry a real risk of **microvascular disease, especially retinopathy**. Lesser degrees (**pre-diabetes**) mainly raise **macrovascular** risk and the chance of future diabetes.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 744,
+       "page": 722,
+       "chapter": "Diabetes mellitus"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Aetiological classification (Davidson Box 20.9)",
+     "columns": [
+      "Group",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Type 1",
+       "Immune-mediated (islet autoantibodies) or idiopathic"
+      ],
+      [
+       "Type 2",
+       "Insulin resistance + relative insulin deficiency; about 90% of all diabetes"
+      ],
+      [
+       "Genetic β-cell defects",
+       "MODY, permanent neonatal diabetes"
+      ],
+      [
+       "Exocrine pancreatic disease",
+       "Pancreatitis, pancreatectomy, carcinoma, cystic fibrosis, haemochromatosis"
+      ],
+      [
+       "Endocrinopathies",
+       "Acromegaly (GH), Cushing's (cortisol), glucagonoma, phaeochromocytoma, thyrotoxicosis"
+      ],
+      [
+       "Drugs",
+       "Glucocorticoids, thiazide diuretics, phenytoin; also atypical antipsychotics and HIV protease inhibitors"
+      ],
+      [
+       "Gestational diabetes",
+       "Hyperglycaemia first arising in pregnancy"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 755,
+       "page": 733,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 504,
+       "page": 504,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 730,
+       "page": 708,
+       "chapter": "Diabetes mellitus"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Classical type 1 vs type 2 (Davidson Box 20.12)",
+     "columns": [
+      "Feature",
+      "Type 1",
+      "Type 2"
+     ],
+     "rows": [
+      [
+       "Islet autoantibodies",
+       "Positive in 80–90%",
+       "Negative"
+      ],
+      [
+       "Usual age when it starts",
+       "Under 40",
+       "Over 50"
+      ],
+      [
+       "Weight",
+       "Normal or low",
+       "Usually obese"
+      ],
+      [
+       "How long symptoms last before diagnosis",
+       "Weeks",
+       "Months to years"
+      ],
+      [
+       "Ketones in urine",
+       "Yes",
+       "No"
+      ],
+      [
+       "Fatal quickly if insulin withheld",
+       "Yes",
+       "No"
+      ],
+      [
+       "Complications at diagnosis",
+       "None",
+       "About 25%"
+      ],
+      [
+       "Family history",
+       "Uncommon",
+       "Common"
+      ],
+      [
+       "Other autoimmune disease",
+       "Common",
+       "Uncommon"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 757,
+       "page": 735,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 415,
+       "page": 415,
+       "chapter": "Endocrine and metabolic diseases"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Special types worth knowing",
+     "items": [
+      "**MODY**: autosomal dominant, non-insulin-requiring diabetes diagnosed **before 25** in at least one family member. **Glucokinase MODY** → mild, stable fasting hyperglycaemia that **needs no treatment**. **HNF1α / HNF4α MODY** → **very sensitive to sulphonylureas**. **HNF1β MODY** → **renal cysts** and genital tract malformations.",
+      "**LADA**: an adult with **high-titre islet antibodies (usually GAD)** who does not need insulin at first; treated like type 2 initially but **progresses to insulin sooner**.",
+      "**Permanent neonatal diabetes**: most often **activating KATP-channel mutations (KIR6.2 / SUR1)**; over 90% can switch from insulin to **oral sulphonylureas**.",
+      "**Ketosis-prone type 2 (\"Flatbush\") diabetes**: presents in **DKA**, classically described in African American people; needs insulin at first, but β-cell function often recovers so **metformin can replace insulin after ~3 months**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 755,
+       "page": 733,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 752,
+       "page": 730,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 756,
+       "page": 734,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 754,
+       "page": 732,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 504,
+       "page": 504,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**DKA does not prove type 1.** Ketosis-prone type 2 diabetes presents in DKA, and LADA can look like type 2 at first. Label the type on antibodies, C-peptide and course, not on the first presentation alone.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 754,
+       "page": 732,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 752,
+       "page": 730,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 504,
+       "page": 504,
+       "chapter": "Endocrinology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.s2",
+   "title": "Epidemiology, aetiology and pathogenesis",
+   "objectiveIdx": [
+    2,
+    3,
+    4
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Epidemiology",
+     "items": [
+      "About **415 million** adults (~10%) had diabetes in 2015, projected to reach **642 million by 2040**. The growth is almost all **type 2**, driven by obesity, inactivity, urbanisation and ageing.",
+      "**Type 2 ≈ 90%** of all diabetes, **type 1 ≈ 5–10%**. About three-quarters of people with type 2 live in low- and middle-income countries, and many cases go **undiagnosed** for years.",
+      "**Type 1** incidence is rising and is highest near the poles: **Finland > 60 per 100 000 per year** vs about 0.1 per 100 000 in China, India and Venezuela. More cases are diagnosed in **winter**.",
+      "**Type 2** affects ~10% of UK people over 65; over 70% of cases arise **after age 50**. A **BMI > 30 kg/m²** raises the risk about **10-fold**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 744,
+       "page": 722,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 754,
+       "page": 732,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 730,
+       "page": 708,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 413,
+       "page": 413,
+       "chapter": "Endocrine and metabolic diseases"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Type 1: risk in first-degree relatives (Davidson Box 20.6)",
+     "columns": [
+      "Who has type 1",
+      "Approximate risk"
+     ],
+     "rows": [
+      [
+       "Father only",
+       "10%"
+      ],
+      [
+       "Mother only",
+       "1–4%"
+      ],
+      [
+       "Both parents",
+       "Up to 30%"
+      ],
+      [
+       "Sibling sharing both HLA haplotypes",
+       "16%"
+      ],
+      [
+       "Sibling not HLA-identical",
+       "5%"
+      ],
+      [
+       "Monozygotic twin",
+       "30–50% concordance"
+      ],
+      [
+       "Dizygotic twin",
+       "6–10% concordance"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 751,
+       "page": 729,
+       "chapter": "Diabetes mellitus"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Type 1 aetiology:** polygenic susceptibility, chiefly **HLA DR3 and/or DR4** (travelling with DQA1/DQB1), meets an **environmental trigger**. Proposed triggers include **viruses** (mumps, Coxsackie B4, congenital rubella, CMV, EBV, retroviruses), dietary nitrosamines, early **cow's milk** exposure, the **hygiene hypothesis** and **low vitamin D**. None is proven to be causal. Despite the genetics, **80–85% of new cases have no family history**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 751,
+       "page": 729,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 53,
+       "page": 53,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Type 1 pathogenesis:** T-cell-mediated **insulitis** destroys β cells progressively while **α and δ cells are spared**. Islet autoantibodies appear first, then loss of first-phase insulin secretion and impaired glucose tolerance. Overt diabetes appears only when **80–90% of β-cell function is lost**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 750,
+       "page": 728,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 751,
+       "page": 729,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 414,
+       "page": 414,
+       "chapter": "Endocrine and metabolic diseases"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Type 2 pathogenesis:** **insulin resistance** comes first. Insulin fails to suppress hepatic glucose output, muscle takes up less glucose and adipose lipolysis is not suppressed. The pancreas compensates with **hyperinsulinaemia** until susceptible β cells fail. About **50% of β-cell function is already lost at diagnosis**, and **islet amyloid** is the most consistent histological change. Raised **glucagon** and a diminished **incretin effect** add to the hyperglycaemia. Hyperglycaemia and FFAs then injure β cells further (**glucolipotoxicity**).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 753,
+       "page": 731,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 754,
+       "page": 732,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 730,
+       "page": 708,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 414,
+       "page": 414,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Diabetes mellitus",
+       "page": 747,
+       "pdfPage": 769
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Type 2 risk factors",
+     "items": [
+      "**Genetics**: strong. Monozygotic twin concordance approaches 100%, and **TCF7L2** has the largest effect among common variants.",
+      "**Obesity** (the greatest modifiable risk, especially central fat), overeating and **physical inactivity**.",
+      "**Increasing age**.",
+      "**High-risk ethnicity**: e.g. Native Americans (~33% prevalence in the USA), South Asian, Chinese and Black populations."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 753,
+       "page": 731,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 414,
+       "page": 414,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Diabetes mellitus",
+       "page": 732,
+       "pdfPage": 754
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Endocrinology",
+       "page": 57,
+       "pdfPage": 57
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Metabolic syndrome** (insulin resistance syndrome): type 2 diabetes clusters with **hypertension**, **dyslipidaemia** (high triglycerides, low HDL, small dense LDL), **NAFLD** and, in women, **PCOS**. Visceral fat releasing **FFAs and adipokines** drives hepatic insulin resistance.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 753,
+       "page": 731,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 414,
+       "page": 414,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Diabetes mellitus",
+       "page": 730,
+       "pdfPage": 752
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Acute effects of insulin deficiency:** hyperglycaemia causes **glycosuria and osmotic diuresis**, leading to dehydration. Unrestrained **lipolysis** delivers FFAs to the liver for **ketogenesis**, causing **metabolic acidosis**. H⁺ drives **K⁺ out of cells**, and secondary hyperaldosteronism increases **urinary K⁺ loss**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 752,
+       "page": 730,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 53,
+       "page": 53,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Why type 2 rarely causes ketoacidosis:** suppressing lipolysis needs only a little insulin. The residual insulin in type 2 does this, so marked weight loss and ketosis are unusual.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 754,
+       "page": 732,
+       "chapter": "Diabetes mellitus"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 751,
+      "page": 729,
+      "chapter": "Diabetes mellitus",
+      "figure": "Fig. 20.6"
+     },
+     "note": "Look at: the time course of type 1 — insulitis, then autoantibodies, then loss of first-phase insulin release, then IGT, then overt diabetes as β-cell mass falls"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 752,
+      "page": 730,
+      "chapter": "Diabetes mellitus",
+      "figure": "Fig. 20.7"
+     },
+     "note": "Look at: the two arms of insulin deficiency — hyperglycaemia → osmotic diuresis, and lipolysis → ketogenesis → acidosis, with K⁺ loss"
+    },
+    {
+     "type": "pitfall",
+     "text": "**New diabetes in an older patient with weight loss and poor appetite** should raise suspicion of **pancreatic carcinoma**. **Alcohol-related chronic pancreatitis** is a common but often missed cause, and usually ends up needing insulin.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 754,
+       "page": 732,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Diabetes mellitus",
+       "page": 733,
+       "pdfPage": 755
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Twin concordance figures differ between books.** Step-Up quotes ~50% for type 1 and ~90% for type 2. Davidson gives **30–50%** for identical twins with type 1 and says type 2 concordance **approaches 100%**. Use Davidson's figures; the key point is that the **genetic component is stronger in type 2**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 751,
+       "page": 729,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 753,
+       "page": 731,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 415,
+       "page": 415,
+       "chapter": "Endocrine and metabolic diseases"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.s3",
+   "title": "Clinical features and examination",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Symptoms of hyperglycaemia and their mechanism",
+     "columns": [
+      "Symptom",
+      "Mechanism"
+     ],
+     "rows": [
+      [
+       "Polyuria, nocturia",
+       "Osmotic diuresis from glycosuria"
+      ],
+      [
+       "Thirst, dry mouth, polydipsia",
+       "Compensation for water loss"
+      ],
+      [
+       "Weight loss, fatigue",
+       "Loss of insulin's anabolic action (fat and protein breakdown)"
+      ],
+      [
+       "Blurred vision",
+       "Osmotic swelling of the lens"
+      ],
+      [
+       "Pruritus vulvae, balanitis",
+       "Candida infection"
+      ],
+      [
+       "Boils and other infections",
+       "Common when control is poor"
+      ],
+      [
+       "Also",
+       "Nausea, headache, hyperphagia, mood change"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 757,
+       "page": 735,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 418,
+       "page": 418,
+       "chapter": "Endocrine and metabolic diseases"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "How the types usually present",
+     "columns": [
+      "Aspect",
+      "Type 1",
+      "Type 2"
+     ],
+     "rows": [
+      [
+       "Tempo",
+       "Days to a few weeks, sometimes after an illness",
+       "Often silent; months of tiredness"
+      ],
+      [
+       "Typical first contact",
+       "Thirst, polyuria, weight loss, infections, or **DKA**",
+       "Incidental finding, screening, or a **complication** (MI, stroke, claudication, neuropathy, retinopathy)"
+      ],
+      [
+       "At diagnosis",
+       "Usually no complications",
+       "> 80% overweight (often central), ≥ 50% hypertensive, up to 25% already have complications"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 752,
+       "page": 730,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 757,
+       "page": 735,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 418,
+       "page": 418,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Diabetes mellitus",
+       "page": 732,
+       "pdfPage": 754
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Examining a patient with diabetes",
+     "items": [
+      "**Hands**: limited joint mobility (cheiroarthropathy, the **\"prayer sign\"**), Dupuytren's contracture, carpal tunnel syndrome.",
+      "**Blood pressure**.",
+      "**Skin and axillae**: **acanthosis nigricans** (marker of insulin resistance), necrobiosis lipoidica, xanthelasma, vitiligo.",
+      "**Eyes**: visual acuity, cataract, fundoscopy through dilated pupils.",
+      "**Injection sites**: **lipohypertrophy**.",
+      "**Feet**: callus, clawed toes, ulcers, deformity (Charcot), pulses, **monofilament** sensation and ankle reflexes."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 742,
+       "page": 720,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 743,
+       "page": 721,
+       "chapter": "Diabetes mellitus"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 742,
+      "page": 720,
+      "chapter": "Diabetes mellitus",
+      "figure": "Clinical examination panel",
+      "pageEnd": 721
+     },
+     "note": "Look at: acanthosis nigricans, the prayer sign, necrobiosis lipoidica, lipohypertrophy, Charcot foot and neuropathic ulcer"
+    },
+    {
+     "type": "pearl",
+     "text": "Up to a quarter of people with type 2 already have complications at diagnosis, so the disease may first be found by an **optometrist or podiatrist**, or after an **MI or stroke**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 757,
+       "page": 735,
+       "chapter": "Diabetes mellitus"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A young person with type 1 can deteriorate within days. The first presentation may be **DKA**, sometimes triggered by an intercurrent illness, rather than a clinic visit with thirst.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 752,
+       "page": 730,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 418,
+       "page": 418,
+       "chapter": "Endocrine and metabolic diseases"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.s4",
+   "title": "Investigations and diagnosis",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Diagnostic criteria (any one; see the confirmation rule below)",
+     "columns": [
+      "Test",
+      "Diabetes (SI)",
+      "Diabetes (US units)"
+     ],
+     "rows": [
+      [
+       "Fasting plasma glucose",
+       "≥ 7.0 mmol/L",
+       "≥ 126 mg/dL"
+      ],
+      [
+       "2-h plasma glucose after 75 g OGTT",
+       "≥ 11.1 mmol/L",
+       "≥ 200 mg/dL"
+      ],
+      [
+       "Random plasma glucose",
+       "≥ 11.1 mmol/L",
+       "≥ 200 mg/dL"
+      ],
+      [
+       "HbA1c",
+       "≥ 48 mmol/mol",
+       "≥ 6.5%"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 748,
+       "page": 726,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 58,
+       "page": 58,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 503,
+       "page": 503,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Confirmation rules",
+     "items": [
+      "**Symptomatic** patient: one diagnostic plasma glucose is enough.",
+      "**Asymptomatic** patient: needs **two** diagnostic results, ideally the same test repeated (Step-Up repeats HbA1c after more than 3 months).",
+      "**Never diagnose on capillary (finger-prick) readings.**",
+      "**OGTT**: fasting sample, a 75 g glucose drink, then plasma glucose 2 hours later. It is the preferred test in **pregnancy**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 748,
+       "page": 726,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 749,
+       "page": 727,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 57,
+       "page": 57,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 417,
+       "page": 417,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Endocrinology",
+       "page": 503,
+       "pdfPage": 503
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Pre-diabetes (intermediate hyperglycaemia)",
+     "columns": [
+      "Category",
+      "Criterion"
+     ],
+     "rows": [
+      [
+       "Impaired fasting glucose (IFG)",
+       "Fasting 6.1 to < 7.0 mmol/L (ADA uses ≥ 5.6 mmol/L, i.e. 100–125 mg/dL)"
+      ],
+      [
+       "Impaired glucose tolerance (IGT)",
+       "Fasting < 7.0 mmol/L **and** 2-h OGTT 7.8–11.1 mmol/L (140–199 mg/dL)"
+      ],
+      [
+       "HbA1c",
+       "NICE 42–47 mmol/mol; ADA 39–47 mmol/mol (5.7–6.4%)"
+      ],
+      [
+       "Outlook",
+       "About 1–5% per year progress to type 2; cardiovascular risk is also raised"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 748,
+       "page": 726,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 58,
+       "page": 58,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 413,
+       "page": 413,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Endocrine and metabolic diseases",
+       "page": 414,
+       "pdfPage": 414
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Do not use HbA1c to diagnose** suspected **type 1**, rapid-onset symptomatic hyperglycaemia, or diabetes in **pregnancy**. HbA1c reads **falsely low in anaemia and pregnancy** and is **unreliable with uraemia, haemolysis or a haemoglobinopathy**. Fructosamine can be used for monitoring instead.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 749,
+       "page": 727,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 426,
+       "page": 426,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Diabetes mellitus",
+       "page": 728,
+       "pdfPage": 750
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Glycosuria is not diagnostic.** Its commonest cause is a **low renal threshold** (benign renal glycosuria, common in pregnancy and the young). In older people the threshold rises, so glycosuria may be absent despite high glucose.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 747,
+       "page": 725,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Diabetes mellitus",
+       "page": 732,
+       "pdfPage": 754
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tests that refine the diagnosis",
+     "columns": [
+      "Test",
+      "What it tells you"
+     ],
+     "rows": [
+      [
+       "C-peptide",
+       "Marks **endogenous** insulin secretion, even on injected insulin: very low in long-standing type 1, very high in severe insulin resistance"
+      ],
+      [
+       "Islet autoantibodies",
+       "GAD, IA-2, insulin and ZnT8 antibodies support type 1 or LADA"
+      ],
+      [
+       "Capillary blood ketones",
+       "< 0.6 mmol/L normal; > 3.0 mmol/L with glucose > 10 mmol/L suggests DKA"
+      ],
+      [
+       "Urine dipstick ketones",
+       "Nitroprusside detects **acetoacetate only**, not β-hydroxybutyrate (the main DKA ketone)"
+      ],
+      [
+       "Baseline once diagnosed",
+       "Urea, creatinine and electrolytes, lipids, liver and thyroid function, ketones, urine protein (ACR)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 748,
+       "page": 726,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 749,
+       "page": 727,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 750,
+       "page": 728,
+       "chapter": "Diabetes mellitus"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 756,
+      "page": 734,
+      "chapter": "Diabetes mellitus",
+      "figure": "Fig. 20.9"
+     },
+     "note": "Look at: the new-hyperglycaemia algorithm — unwell or ketotic → DKA/HHS pathway; well → decide type 1 vs type 2 vs other using antibodies, C-peptide and history"
+    },
+    {
+     "type": "pearl",
+     "text": "About **1 in 20 people with type 1 have coeliac disease** on biopsy. Type 1 also clusters with thyroid disease, Addison's, pernicious anaemia and vitiligo. Many countries screen routinely for coeliac disease.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 750,
+       "page": 728,
+       "chapter": "Diabetes mellitus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.s5",
+   "title": "Hyperglycaemic emergencies: DKA and HHS",
+   "objectiveIdx": [
+    8,
+    9
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "DKA vs HHS",
+     "columns": [
+      "Feature",
+      "DKA",
+      "HHS"
+     ],
+     "rows": [
+      [
+       "Typical patient",
+       "Type 1 (any age); ketosis-prone type 2",
+       "Older type 2, increasingly younger adults"
+      ],
+      [
+       "Onset",
+       "Hours, typically < 24 h",
+       "Days to weeks"
+      ],
+      [
+       "Glucose",
+       "≥ 11 mmol/L (can be near-normal: pregnancy, SGLT2 inhibitors)",
+       "> 30 mmol/L"
+      ],
+      [
+       "Ketones",
+       "≥ 3.0 mmol/L (or urine ketones more than 2+)",
+       "< 3 mmol/L"
+      ],
+      [
+       "Acid–base",
+       "Venous bicarbonate < 15 mmol/L and/or pH < 7.3",
+       "pH > 7.3, bicarbonate > 15 mmol/L"
+      ],
+      [
+       "Osmolality",
+       "Variable",
+       "> 320 mOsmol/kg"
+      ],
+      [
+       "Mortality",
+       "Lower",
+       "Up to 20%"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 757,
+       "page": 735,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 760,
+       "page": 738,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 440,
+       "page": 440,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Diabetes mellitus",
+       "page": 736,
+       "pdfPage": 758
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Endocrine and metabolic diseases",
+       "page": 435,
+       "pdfPage": 435
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "DKA: precipitants and features",
+     "items": [
+      "**Precipitants**: missed or inadequate insulin, infection, inflammation (e.g. pancreatitis), infarction (MI, stroke), drugs (steroids, **SGLT2 inhibitors**), intoxication.",
+      "**Features**: nausea and vomiting, **abdominal pain** that can mimic an acute abdomen, **Kussmaul breathing**, ketotic (fruity) breath, dehydration with tachycardia and hypotension, drowsiness.",
+      "**Leucocytosis** is a stress response and **fever may be absent** despite infection. Amylase can rise without pancreatitis."
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 507,
+       "page": 507,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 435,
+       "page": 435,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 758,
+       "page": 736,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 436,
+       "page": 436,
+       "chapter": "Endocrine and metabolic diseases"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Markers of severe DKA (Davidson Box 20.15)",
+     "items": [
+      "Ketones > 6 mmol/L, bicarbonate < 5 mmol/L, pH < 7.0",
+      "Admission **K⁺ < 3.5 mmol/L**",
+      "GCS < 12, SpO₂ < 92% on air, systolic BP < 90 mmHg, pulse > 100 or < 60",
+      "Anion gap > 16 mmol/L"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 758,
+       "page": 736,
+       "chapter": "Diabetes mellitus"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Every DKA patient is total-body potassium depleted**, even if plasma K⁺ is high at first. K⁺ falls sharply once insulin and fluids start, so monitor and replace it from the outset.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 758,
+       "page": 736,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 54,
+       "page": 54,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "DKA: first hours (Davidson Box 20.16, JBDS)",
+     "columns": [
+      "Step",
+      "Detail"
+     ],
+     "rows": [
+      [
+       "Fluids",
+       "0.9% saline **1 L over 60 min** if SBP > 90; if SBP < 90, **500 mL over 10–15 min** then reassess"
+      ],
+      [
+       "Insulin",
+       "**Fixed-rate IV soluble insulin 0.1 U/kg/hr**; continue the usual SC long-acting (basal) analogue"
+      ],
+      [
+       "Potassium (per litre)",
+       "K⁺ > 5.5 → none; **3.5–5.5 → 40 mmol/L**; < 3.5 → senior review, more K⁺ needed"
+      ],
+      [
+       "Targets",
+       "Glucose falls 3–6 mmol/L/hr **or** ketones fall ≥ 0.5 mmol/L/hr"
+      ],
+      [
+       "Glucose",
+       "Add **10% glucose 125 mL/hr** when glucose < 14 mmol/L, continuing saline and insulin"
+      ],
+      [
+       "Resolution",
+       "By 24 h: ketones < 0.3 mmol/L and venous bicarbonate > 18 mmol/L"
+      ],
+      [
+       "Switching",
+       "Restart SC insulin when eating; stop IV insulin **30 min after** the SC short-acting dose"
+      ],
+      [
+       "Also",
+       "Treat the precipitant; LMWH thromboprophylaxis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 759,
+       "page": 737,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 54,
+       "page": 54,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Unit and threshold differences.** US texts (Step-Up, Pocket) define DKA with bicarbonate < 18 and glucose usually > 250 mg/dL. Their potassium rule is to **hold insulin if K⁺ < 3.3**, add K⁺ at 3.3–5.3 and give none above 5.3, and they add 5% dextrose at about 200–250 mg/dL. For our exams follow **Davidson/JBDS**: bicarbonate < 15, K⁺ bands **3.5 / 5.5**, and 10% glucose below 14 mmol/L.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 757,
+       "page": 735,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 759,
+       "page": 737,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 508,
+       "page": 508,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 437,
+       "page": 437,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Endocrinology",
+       "page": 509,
+       "pdfPage": 509
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**IV bicarbonate is not recommended** in DKA. It can paradoxically worsen CSF acidosis and is linked to **cerebral oedema** in the young, the main cause of DKA death in children. Avoid lowering glucose too fast. Large saline volumes can also cause a **hyperchloraemic non-anion-gap acidosis**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 760,
+       "page": 738,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 438,
+       "page": 438,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 509,
+       "page": 509,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Diabetes mellitus",
+       "page": 735,
+       "pdfPage": 757
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Diabetes mellitus",
+       "page": 737,
+       "pdfPage": 759
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "HHS management (Davidson Box 20.17)",
+     "items": [
+      "Start with **0.9% saline alone** (1 L over the first hour); fluid losses can reach 10–12 L.",
+      "Aim for a gradual fall in osmolality of **3–8 mOsmol/kg/hr**; consider 0.45% saline only if osmolality is rising despite adequate fluid balance.",
+      "Insulin **0.05 U/kg/hr only if** ketones (3-hydroxybutyrate) > 1.0 mmol/L, or once glucose is falling **< 5 mmol/L/hr** despite adequate fluids.",
+      "Keep glucose **10–15 mmol/L** in the first 24 h; give **prophylactic LMWH** until discharge; check feet daily."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 760,
+       "page": 738,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 761,
+       "page": 739,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 441,
+       "page": 441,
+       "chapter": "Endocrine and metabolic diseases"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Correct the sodium in hyperglycaemia.** Water moves out of cells and dilutes Na⁺. Davidson adds **1.6 mmol/L for each 5.55 mmol/L (100 mg/dL) of glucose** above normal (Pocket's formula uses 2.4). Total body sodium is not low.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 760,
+       "page": 738,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 436,
+       "page": 436,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Endocrinology",
+       "page": 508,
+       "pdfPage": 508
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Urine ketone sticks can mislead.** Nitroprusside detects acetoacetate only. **β-hydroxybutyrate** is the main ketone in DKA, and in shock the balance shifts further towards it, so the dipstick can underestimate or miss ketosis. Measure **blood ketones**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 748,
+       "page": 726,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 436,
+       "page": 436,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Endocrinology",
+       "page": 508,
+       "pdfPage": 508
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "stepup6",
+      "pdfPage": 440,
+      "page": 440,
+      "chapter": "Endocrine and metabolic diseases",
+      "figure": "TABLE 4-6"
+     },
+     "note": "Look at: side-by-side DKA vs HHS — glucose, pH, ketones, osmolality, treatment and mortality"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.s6",
+   "title": "Hypoglycaemia and lactic acidosis",
+   "objectiveIdx": [
+    8,
+    9
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "In people with diabetes, **hypoglycaemia is a blood glucose < 3.9 mmol/L (70 mg/dL)**. It is **severe** when someone else has to help with treatment. The main causes are **insulin** and **sulphonylureas**. Within **5 years** of diagnosis, most people with type 1 lose their **glucagon response** to hypoglycaemia. Injected insulin keeps working whatever the glucose level.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 760,
+       "page": 738,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 761,
+       "page": 739,
+       "chapter": "Diabetes mellitus"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Symptoms",
+     "columns": [
+      "Type",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Autonomic (adrenergic)",
+       "Sweating, tremor, palpitations, hunger, anxiety"
+      ],
+      [
+       "Neuroglycopenic",
+       "Delirium, drowsiness, speech difficulty, poor concentration, incoordination, irritability; seizures and coma if severe"
+      ],
+      [
+       "Non-specific",
+       "Nausea, tiredness, headache"
+      ],
+      [
+       "Age differences",
+       "Children: behaviour change; older people: visual disturbance, ataxia"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 761,
+       "page": 739,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 510,
+       "page": 510,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Losing the warning symptoms",
+     "items": [
+      "**Impaired awareness of hypoglycaemia** affects about **20–25% of people with type 1**. Recurrent hypos lower the glucose level at which symptoms and counter-regulation start.",
+      "Long-standing **autonomic neuropathy** removes adrenergic warnings, and **β-blockers** can mask them.",
+      "These patients can slip into seizures or coma without warning. After severe hypoglycaemia, a looser HbA1c goal (< 8%) is reasonable."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 762,
+       "page": 740,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 510,
+       "page": 510,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 446,
+       "page": 446,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Endocrine and metabolic diseases",
+       "page": 426,
+       "pdfPage": 426
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Treating hypoglycaemia (Davidson)",
+     "columns": [
+      "Situation",
+      "Treatment"
+     ],
+     "rows": [
+      [
+       "Conscious, able to swallow",
+       "**10–15 g fast-acting carbohydrate**; recheck in 10–15 min; repeat if still < 4.0 mmol/L; then a longer-acting carbohydrate"
+      ],
+      [
+       "Unconscious / cannot swallow, IV access",
+       "IV **75–100 mL of 20% glucose** over 15 min, or **150–200 mL of 10%** over 15 min"
+      ],
+      [
+       "No IV access",
+       "**IM glucagon 1 mg** (0.5 mg in children)"
+      ],
+      [
+       "After long-acting sulphonylurea or long-acting insulin",
+       "Expect recurrence: a **10% glucose infusion** titrated to glucose, or extra carbohydrate"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 762,
+       "page": 740,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 763,
+       "page": 741,
+       "chapter": "Diabetes mellitus"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**50% dextrose is no longer recommended** (Davidson), although US pocket texts still list D50. **Glucagon may work less well after a sulphonylurea or alcohol**, so be ready to give IV glucose.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 763,
+       "page": 741,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 762,
+       "page": 740,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 511,
+       "page": 511,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Hypoglycaemia without diabetes therapy: insulin vs C-peptide",
+     "columns": [
+      "Cause",
+      "Insulin",
+      "C-peptide"
+     ],
+     "rows": [
+      [
+       "Factitious injected insulin",
+       "High",
+       "**Low** (suppressed)"
+      ],
+      [
+       "Insulinoma",
+       "High",
+       "High"
+      ],
+      [
+       "Sulphonylurea ingestion",
+       "High",
+       "High"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 445,
+       "page": 445,
+       "chapter": "Endocrine and metabolic diseases"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Lactic acidosis** gives a **high anion gap metabolic acidosis**. **Type A** (Davidson: type 1) comes from **tissue hypoxia** (shock, circulatory failure). **Type B** (Davidson: type 2) comes from **impaired lactate metabolism** (liver disease, drugs such as **metformin**). Metformin-associated lactic acidosis is **rare**. It mostly follows overdose, or metformin continued despite **advanced renal or hepatic dysfunction**, and usually shows no marked hyperglycaemia or ketosis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 387,
+       "page": 365,
+       "chapter": "Clinical biochemistry and metabolic medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 747,
+       "page": 725,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 504,
+       "page": 504,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Metformin and the kidney:** halve the dose at eGFR 30–45, stop it below 30, and withhold it during any acute illness that risks acute kidney injury. These rules prevent lactic acidosis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 768,
+       "page": 746,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 504,
+       "page": 504,
+       "chapter": "Endocrinology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.s7",
+   "title": "Chronic complications: eyes, kidneys, nerves and large vessels",
+   "objectiveIdx": [
+    7
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Microvascular disease** is marked by **capillary basement-membrane thickening** with leaky vessels. Its risk rises with the **duration and degree of hyperglycaemia**. **Macrovascular disease** (MI, stroke, peripheral arterial disease) causes most of the excess mortality: **cardiovascular disease causes ~70% of deaths**. CAD risk is roughly doubled, and **silent ischaemia** is common.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 778,
+       "page": 756,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 427,
+       "page": 427,
+       "chapter": "Endocrine and metabolic diseases"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Diabetic retinopathy grading (Kumar Box 23.21)",
+     "columns": [
+      "Grade",
+      "Findings",
+      "Action"
+     ],
+     "rows": [
+      [
+       "R1 background (non-proliferative)",
+       "Cotton wool spots; hard exudates; dot (microaneurysm) and blot bleeds",
+       "Annual screening"
+      ],
+      [
+       "R2 pre-proliferative",
+       "**Venous beading/loops, IRMA**, multiple deep round haemorrhages",
+       "Non-urgent referral"
+      ],
+      [
+       "R3 proliferative",
+       "**New vessels**, pre-retinal or vitreous haemorrhage",
+       "Urgent referral"
+      ],
+      [
+       "Advanced",
+       "Fibrosis, traction retinal detachment",
+       "Urgent referral (vision often already lost)"
+      ],
+      [
+       "M1 maculopathy",
+       "Exudates or haemorrhages near the macula ± reduced acuity",
+       "Prompt referral"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 750,
+       "page": 728,
+       "chapter": "Diabetes mellitus"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Retinopathy mechanism and treatment:** capillary occlusion causes ischaemia, which drives **VEGF** release. VEGF causes leakage (microaneurysms, haemorrhages, exudates, **macular oedema**, the main cause of visual loss) and **new vessel** growth that can bleed or detach the retina. Proliferative disease → **pan-retinal laser photocoagulation**. Centre-involving macular oedema → **intravitreal anti-VEGF**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1197,
+       "page": 1175,
+       "chapter": "Medical ophthalmology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1198,
+       "page": 1176,
+       "chapter": "Medical ophthalmology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 431,
+       "page": 431,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Diabetes mellitus",
+       "page": 728,
+       "pdfPage": 750
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 1198,
+      "page": 1176,
+      "chapter": "Medical ophthalmology",
+      "figure": "Fig. 27.8"
+     },
+     "note": "Look at: blot haemorrhages, cotton wool spots, microaneurysms on fluorescein angiography, IRMA, venous beading and new vessels"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 749,
+      "page": 727,
+      "chapter": "Diabetes mellitus",
+      "figure": "Fig. 23.14"
+     },
+     "note": "Look at: microaneurysms and blot haemorrhages, hard exudates, new vessels on the disc, pre-retinal haemorrhage, exudative maculopathy, cataract against the red reflex"
+    },
+    {
+     "type": "table",
+     "title": "Diabetic nephropathy: albuminuria categories",
+     "columns": [
+      "Category",
+      "Davidson (early-morning ACR)",
+      "Step-Up (24-h albumin)"
+     ],
+     "rows": [
+      [
+       "Microalbuminuria (moderately increased)",
+       "Men 2.5–30, women 3.5–30 mg/mmol; positive in 2 of 3 samples",
+       "30–300 mg/day"
+      ],
+      [
+       "Overt nephropathy (severely increased)",
+       "> 30 mg/mmol; dipstick positive",
+       "> 300 mg/day"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 780,
+       "page": 758,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 430,
+       "page": 430,
+       "chapter": "Endocrine and metabolic diseases"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Nephropathy key facts",
+     "items": [
+      "About **30% of type 1** patients have nephropathy 20 years after diagnosis. It is the **leading cause of ESRD** in developed countries (20–50% of new RRT starts).",
+      "Natural history: **hyperfiltration → microalbuminuria → proteinuria (~10 y) → nephrotic range → ESRF**.",
+      "Histology: GBM thickening, mesangial expansion and the **Kimmelstiel–Wilson nodule** (nodular glomerulosclerosis, pathognomonic).",
+      "Treatment: **ACE inhibitor or ARB first** (efferent arteriolar dilatation cuts hyperfiltration); check **K⁺ and creatinine** after starting; then add a diuretic and salt restriction. US texts add an **SGLT2 inhibitor** in type 2. Halving albuminuria nearly halves the risk of ESRD."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 779,
+       "page": 757,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 780,
+       "page": 758,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 429,
+       "page": 429,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 430,
+       "page": 430,
+       "chapter": "Endocrine and metabolic diseases"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 780,
+      "page": 758,
+      "chapter": "Diabetes mellitus",
+      "figure": "Fig. 20.22"
+     },
+     "note": "Look at: nodular diabetic glomerulosclerosis — thickened basement membrane, mesangial expansion and a Kimmelstiel–Wilson nodule"
+    },
+    {
+     "type": "pitfall",
+     "text": "**Screen for nephropathy with the urine ACR, not a dipstick.** A standard dipstick turns positive only at overt proteinuria, when glycaemic control no longer meaningfully slows progression.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 430,
+       "page": 430,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 780,
+       "page": 758,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Endocrine and metabolic diseases",
+       "page": 429,
+       "pdfPage": 429
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Diabetic neuropathy (Davidson Boxes 20.40–20.41)",
+     "columns": [
+      "Type",
+      "Features"
+     ],
+     "rows": [
+      [
+       "Symmetrical distal sensory polyneuropathy (commonest)",
+       "\"Glove and stocking\", feet first; lost ankle reflexes; painful in 15–30%"
+      ],
+      [
+       "Asymmetrical proximal motor (amyotrophy)",
+       "Proximal leg weakness and wasting, severe anterior leg pain, weight loss"
+      ],
+      [
+       "Mononeuropathies",
+       "**CN III (pupil-sparing) and VI**, femoral, sciatic; carpal tunnel entrapment"
+      ],
+      [
+       "Autonomic",
+       "Postural hypotension, resting tachycardia, **gastroparesis**, nocturnal diarrhoea, atonic bladder, erectile dysfunction, gustatory sweating"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 780,
+       "page": 758,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 781,
+       "page": 759,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 782,
+       "page": 760,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 432,
+       "page": 432,
+       "chapter": "Endocrine and metabolic diseases"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Neuropathy treatment (Davidson Box 20.43)",
+     "columns": [
+      "Problem",
+      "Options"
+     ],
+     "rows": [
+      [
+       "Painful neuropathy",
+       "Better glycaemic control; **gabapentin/pregabalin**, **amitriptyline**, **duloxetine**, topical capsaicin, opiates (tramadol)"
+      ],
+      [
+       "Gastroparesis",
+       "Metoclopramide or domperidone; erythromycin"
+      ],
+      [
+       "Postural hypotension",
+       "Support stockings, fludrocortisone"
+      ],
+      [
+       "Diarrhoea",
+       "Loperamide; broad-spectrum antibiotics"
+      ],
+      [
+       "Atonic bladder",
+       "Intermittent self-catheterisation"
+      ],
+      [
+       "Erectile dysfunction",
+       "**PDE5 inhibitors** (sildenafil) first"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 783,
+       "page": 761,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 432,
+       "page": 432,
+       "chapter": "Endocrine and metabolic diseases"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Neuropathy affects **50–90%** of people with diabetes, depending on the definition. Once autonomic symptoms are overt, **30–50% die within 10 years**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 780,
+       "page": 758,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 782,
+       "page": 760,
+       "chapter": "Diabetes mellitus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.s8",
+   "title": "Diabetic foot and skin",
+   "objectiveIdx": [
+    7,
+    10
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Foot ulcers follow **often trivial trauma** to a **neuropathic and/or ischaemic** foot, typically under **callus**. Ischaemia alone causes only a minority; most are **neuropathic or neuro-ischaemic**. Lost sensation lets injuries go unnoticed, and poor blood flow stops them healing.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 783,
+       "page": 761,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 433,
+       "page": 433,
+       "chapter": "Endocrine and metabolic diseases"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Neuropathic vs ischaemic foot",
+     "columns": [
+      "Feature",
+      "Neuropathic",
+      "Ischaemic"
+     ],
+     "rows": [
+      [
+       "Temperature",
+       "Warm",
+       "Cold"
+      ],
+      [
+       "Pulses",
+       "Bounding",
+       "Absent / weak"
+      ],
+      [
+       "Symptoms",
+       "Painless (numbness, paraesthesiae)",
+       "Claudication, rest pain"
+      ],
+      [
+       "Ulcer",
+       "Painless, plantar (under callus / pressure points)",
+       "Painful, on heels and toes"
+      ],
+      [
+       "Inspection",
+       "High arch, clawed toes",
+       "Dependent rubor, trophic changes"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 755,
+       "page": 733,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 783,
+       "page": 761,
+       "chapter": "Diabetes mellitus"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Annual foot screening",
+     "items": [
+      "**10 g monofilament** at five points on each foot (avoid callus). Feeling **fewer than 8 of 10 touches** raises ulcer risk **5–10-fold**.",
+      "Palpate **dorsalis pedis and posterior tibial** pulses.",
+      "Inspect for callus, deformity, clawing, fungal infection and ulcers."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 743,
+       "page": 721,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 783,
+       "page": 761,
+       "chapter": "Diabetes mellitus"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Managing an ulcer",
+     "items": [
+      "Refer to a **multidisciplinary foot team** (diabetologist, podiatrist, vascular surgeon, orthotist).",
+      "**Débride** dead tissue; give **antibiotics** promptly if infected.",
+      "**Off-load** pressure (casts, special footwear).",
+      "**Revascularise** if neuro-ischaemic."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 783,
+       "page": 761,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Diabetes mellitus",
+       "page": 762,
+       "pdfPage": 784
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Acute Charcot neuroarthropathy** presents as a **hot, red, swollen foot** in a patient with neuropathy, and is easily mistaken for cellulitis or osteomyelitis. The **first X-ray is often normal**; **MRI** helps. Treat with **immobilisation in a total contact cast** and avoid weight-bearing. Late deformity gives a **\"rocker-bottom\" foot**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 784,
+       "page": 762,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 781,
+       "page": 759,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Diabetes mellitus",
+       "page": 733,
+       "pdfPage": 755
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Neuropathy can **mask claudication**, and **medial arterial calcification** makes leg arteries stiff, which **falsely raises** ankle blood pressure readings.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 433,
+       "page": 433,
+       "chapter": "Endocrine and metabolic diseases"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Foot-care education (prevention)",
+     "items": [
+      "Inspect and wash the feet **daily**; moisturise dry skin; change socks daily.",
+      "Cut nails regularly; **never walk barefoot**; check shoes for foreign objects; wear well-fitting shoes.",
+      "Do not burst blisters or use over-the-counter corn remedies; cover minor cuts with sterile dressings."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 784,
+       "page": 762,
+       "chapter": "Diabetes mellitus"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Skin and injection-site signs",
+     "items": [
+      "**Necrobiosis lipoidica**, granuloma annulare, bullae, pigmentation, vitiligo, xanthelasma.",
+      "**Acanthosis nigricans**: a marker of insulin resistance.",
+      "**Lipohypertrophy** from repeated injection into one site causes erratic insulin absorption. Check sites in an unexpectedly poor responder and teach site rotation.",
+      "Serious infections linked to diabetes include **mucormycosis** and **necrotising (malignant) otitis externa**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 742,
+       "page": 720,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 743,
+       "page": 721,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 506,
+       "page": 506,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 55,
+       "page": 55,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 781,
+      "page": 759,
+      "chapter": "Diabetes mellitus",
+      "figure": "Fig. 20.23"
+     },
+     "note": "Look at: clawed toes, plantar callus, neuropathic ulcer, digital gangrene, Charcot \"rocker-bottom\" X-ray, superficial femoral artery occlusion on angiogram"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 755,
+      "page": 733,
+      "chapter": "Diabetes mellitus",
+      "figure": "Fig. 23.18"
+     },
+     "note": "Look at: high arch with clawing, a typical plantar neuropathic ulcer, and the distribution of ischaemic ulcers"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "stepup6",
+      "pdfPage": 433,
+      "page": 433,
+      "chapter": "Endocrine and metabolic diseases",
+      "figure": "Figure 4-5"
+     },
+     "note": "Look at: a neuropathic diabetic foot ulcer"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.s9",
+   "title": "Long-term management: targets, oral agents and insulin",
+   "objectiveIdx": [
+    9
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Individualised targets",
+     "columns": [
+      "Patient",
+      "Target"
+     ],
+     "rows": [
+      [
+       "Early type 2 on diet or 1–2 oral agents",
+       "HbA1c **≤ 48 mmol/mol**"
+      ],
+      [
+       "Older, cardiovascular disease, or on insulin with hypoglycaemia risk",
+       "HbA1c about **58 mmol/mol**"
+      ],
+      [
+       "US texts (Pocket)",
+       "HbA1c < 7% for most; < 6.5% if hypo risk low; ≤ 8% if frail or severe hypos"
+      ],
+      [
+       "Blood pressure",
+       "Usually < 140/80 mmHg (US texts: < 130/80)"
+      ],
+      [
+       "Lipids",
+       "Statin for most type 2 patients over 40"
+      ],
+      [
+       "Monitoring",
+       "HbA1c every 3–6 months; annual ACR, eye screening and lipids; feet and BP every visit"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 764,
+       "page": 742,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 506,
+       "page": 506,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 416,
+       "page": 416,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Diabetes mellitus",
+       "page": 743,
+       "pdfPage": 765
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Type 2 stepwise treatment** starts with **lifestyle plus metformin**. If the HbA1c target is not met after about 3 months, add a **second agent** (sulphonylurea, pioglitazone, DPP-4 inhibitor, SGLT2 inhibitor, GLP-1 receptor agonist or basal insulin), then a third, then injectables. **Start insulin early** if glucose is very high or the patient is symptomatic and catabolic. **Type 1 always needs insulin.**",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 764,
+       "page": 742,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 58,
+       "page": 58,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 421,
+       "page": 421,
+       "chapter": "Endocrine and metabolic diseases"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Guideline age matters.** Davidson 24e follows ADA/EASD 2015, written before the cardiovascular outcome trials. Newer US practice (Pocket) gives a **GLP-1 RA first with established or high-risk ASCVD**, and an **SGLT2 inhibitor first with heart failure or proteinuric CKD**, whatever the HbA1c. Davidson already notes these classes are likely to move earlier.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 764,
+       "page": 742,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 770,
+       "page": 748,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 504,
+       "page": 504,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Diabetes mellitus",
+       "page": 746,
+       "pdfPage": 768
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 764,
+      "page": 742,
+      "chapter": "Diabetes mellitus",
+      "figure": "Fig. 20.10"
+     },
+     "note": "Look at: metformin → dual → triple therapy → injectables, with each class's efficacy, hypoglycaemia risk, weight effect and side-effects"
+    },
+    {
+     "type": "table",
+     "title": "Glucose-lowering drugs",
+     "columns": [
+      "Class",
+      "Action",
+      "Weight / hypos",
+      "Key adverse effects"
+     ],
+     "rows": [
+      [
+       "**Metformin** (biguanide)",
+       "Weak mitochondrial inhibitor; cuts gluconeogenesis (AMPK)",
+       "Neutral or loss / no hypos",
+       "GI upset (~25%); rare lactic acidosis; halve dose at eGFR 30–45, stop < 30"
+      ],
+      [
+       "**Sulphonylureas** (gliclazide, glibenclamide)",
+       "Close β-cell KATP channels → insulin release",
+       "Gain / **hypoglycaemia**",
+       "Avoid long-acting **glibenclamide** in older people"
+      ],
+      [
+       "**Pioglitazone** (TZD, PPARγ agonist)",
+       "Increases insulin sensitivity",
+       "Gain / no hypos",
+       "**Fluid retention, heart failure**, fractures, possible bladder cancer"
+      ],
+      [
+       "**DPP-4 inhibitors** (sitagliptin)",
+       "Slow incretin breakdown",
+       "Neutral / no hypos",
+       "Well tolerated; pancreatitis; heart-failure signal with saxagliptin"
+      ],
+      [
+       "**GLP-1 receptor agonists** (liraglutide, exenatide)",
+       "Injected incretin mimetics",
+       "**Weight loss** / no hypos",
+       "**Nausea**; liraglutide improved CV outcomes (LEADER)"
+      ],
+      [
+       "**SGLT2 inhibitors** (empagliflozin)",
+       "Glycosuria",
+       "Weight loss / no hypos",
+       "**Genital fungal infections**, dehydration, rare **euglycaemic DKA**; empagliflozin cut CV death by 35%"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 768,
+       "page": 746,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 769,
+       "page": 747,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 770,
+       "page": 748,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 59,
+       "page": 59,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 504,
+       "page": 504,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Diabetes mellitus",
+       "page": 742,
+       "pdfPage": 764
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Insulin preparations (Davidson Box 20.27)",
+     "columns": [
+      "Type",
+      "Examples",
+      "Onset",
+      "Duration"
+     ],
+     "rows": [
+      [
+       "Rapid-acting analogue",
+       "Lispro, aspart, glulisine",
+       "< 0.5 h",
+       "3–4.5 h"
+      ],
+      [
+       "Short-acting",
+       "Soluble (regular): the one used **IV**",
+       "0.5–1 h",
+       "4–8 h"
+      ],
+      [
+       "Intermediate",
+       "Isophane (NPH): cloudy",
+       "1–3 h",
+       "7–14 h"
+      ],
+      [
+       "Long-acting analogue",
+       "Glargine, detemir, degludec: **no peak**",
+       "1–2 h",
+       "18–26 h"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 771,
+       "page": 749,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 425,
+       "page": 425,
+       "chapter": "Endocrine and metabolic diseases"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Insulin regimens",
+     "items": [
+      "**Type 1**: **basal-bolus** (long-acting once or twice daily plus rapid-acting with meals) or an insulin **pump**. Total needs are usually 0.5–1.0 U/kg/day.",
+      "**Type 2**: usually **once-daily long-acting insulin added to oral agents**.",
+      "**Twice-daily premixed**: about two-thirds of the dose in the morning (short:intermediate 1:2).",
+      "Side-effects: **hypoglycaemia, weight gain, lipohypertrophy**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 772,
+       "page": 750,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 423,
+       "page": 423,
+       "chapter": "Endocrine and metabolic diseases"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "stepup6",
+      "pdfPage": 426,
+      "page": 426,
+      "chapter": "Endocrine and metabolic diseases",
+      "figure": "FIGURE 4-2"
+     },
+     "note": "Look at: the onset, peak and duration curves of rapid, short, intermediate and long-acting insulins"
+    },
+    {
+     "type": "pearl",
+     "text": "**Dawn phenomenon**: fasting hyperglycaemia from early-morning **GH and cortisol** plus waning overnight isophane. It is **not** rebound from nocturnal hypoglycaemia; the old \"Somogyi effect\" has been refuted. Only **night-time glucose testing** confirms nocturnal hypos.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 772,
+       "page": 750,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 416,
+       "page": 416,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Diabetes mellitus",
+       "page": 740,
+       "pdfPage": 762
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**In hospital, never stop basal insulin in type 1.** Without it DKA develops, and sliding-scale insulin alone is inadequate. When nil by mouth, type 2 patients usually get a reduced basal dose and no prandial doses.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 507,
+       "page": 507,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 759,
+       "page": 737,
+       "chapter": "Diabetes mellitus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.s10",
+   "title": "Prevention of diabetes and its complications",
+   "objectiveIdx": [
+    10
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Preventing type 2 in people at risk (IGT / pre-diabetes)",
+     "items": [
+      "**Lifestyle** works best: weight loss, less (saturated) fat, more fibre, and about **30 minutes of moderate activity daily**. Diet and exercise cut progression by about **58%**.",
+      "**Metformin** (about **31%**) and **orlistat** also lower incidence, but less than lifestyle. Keep them for people who cannot change lifestyle or whose glucose keeps rising.",
+      "Explain the **risk of progression**, and control **cardiovascular risk factors** (BP, lipids) aggressively.",
+      "**Bariatric surgery** can normalise glucose and cause remission."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 733,
+       "page": 711,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 503,
+       "page": 503,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 750,
+       "page": 728,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 505,
+       "page": 505,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Type 2 can remit with weight loss.** In the DiRECT trial, an **800 kcal/day** diet put many patients into remission. Pre-diabetes is managed with education and lifestyle change rather than drugs.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 58,
+       "page": 58,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Endocrinology",
+       "page": 57,
+       "pdfPage": 57
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Landmark trials of glycaemic control",
+     "columns": [
+      "Trial",
+      "Finding"
+     ],
+     "rows": [
+      [
+       "**DCCT** (type 1)",
+       "Intensive control cut complications by about **60%** (Kumar: 60% for retinopathy, less for nephropathy and neuropathy) but **tripled severe hypoglycaemia**"
+      ],
+      [
+       "**UKPDS** (type 2)",
+       "Each 11 mmol/mol (1%) fall in HbA1c → **21% fewer diabetes deaths, 14% fewer MIs, 30–40% less microvascular disease**"
+      ],
+      [
+       "**ACCORD** (type 2, older, CVD)",
+       "Pushing HbA1c below 48 mmol/mol **increased mortality**"
+      ],
+      [
+       "Overall",
+       "Tight control clearly prevents **microvascular** disease; macrovascular benefit is less certain"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 779,
+       "page": 757,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 733,
+       "page": 711,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 431,
+       "page": 431,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Diabetes mellitus",
+       "page": 756,
+       "pdfPage": 778
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Do not chase strict targets in frail, older patients** with long-standing diabetes and cardiovascular disease. ACCORD showed harm, and hypoglycaemia risk outweighs benefit, so aim nearer 58 mmol/mol.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 779,
+       "page": 757,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 764,
+       "page": 742,
+       "chapter": "Diabetes mellitus"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Preventing complications in established diabetes",
+     "items": [
+      "Glucose, **BP** and **lipid** control (statin), and stopping smoking.",
+      "**Annual** retinal screening, urine ACR and foot risk assessment, with ACE inhibitor/ARB for albuminuria.",
+      "Daily **foot-care** education."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 764,
+       "page": 742,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 780,
+       "page": 758,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 784,
+       "page": 762,
+       "chapter": "Diabetes mellitus"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 416,
+       "page": 416,
+       "chapter": "Endocrine and metabolic diseases"
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Diabetes mellitus",
+       "page": 743,
+       "pdfPage": 765
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "endo-diabetes.c1",
+   "sectionId": "endo-diabetes.s1",
+   "front": "Glucokinase (GCK) MODY: typical picture and treatment?",
+   "back": "Mild, stable fasting hyperglycaemia (altered glucose set-point), autosomal dominant; usually **needs no treatment**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 755,
+     "page": 733,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c2",
+   "sectionId": "endo-diabetes.s1",
+   "front": "Ketosis-prone (\"Flatbush\") type 2 diabetes?",
+   "back": "Presents in **DKA** (classically described in African American people); insulin at first, but β cells often recover so **metformin can replace insulin after ~3 months**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 754,
+     "page": 732,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c3",
+   "sectionId": "endo-diabetes.s2",
+   "front": "Type 1 risk for a child: father vs mother affected?",
+   "back": "**Father ~10%**; mother 1–4%; both parents up to 30%.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 751,
+     "page": 729,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c4",
+   "sectionId": "endo-diabetes.s2",
+   "front": "β-cell loss when type 1 becomes overt vs at type 2 diagnosis?",
+   "back": "Type 1: **80–90%** of function lost. Type 2: about **50%** lost at diagnosis.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 750,
+     "page": 728,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 753,
+     "page": 731,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c5",
+   "sectionId": "endo-diabetes.s2",
+   "front": "Common gene variant with the largest effect on type 2 risk?",
+   "back": "**TCF7L2**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 753,
+     "page": 731,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Diabetes mellitus",
+     "page": 732,
+     "pdfPage": 754
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c6",
+   "sectionId": "endo-diabetes.s3",
+   "front": "What is the \"prayer sign\" in diabetes?",
+   "back": "**Cheiroarthropathy** (limited joint mobility): the palms cannot be pressed flat together.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 743,
+     "page": 721,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c7",
+   "sectionId": "endo-diabetes.s3",
+   "front": "What proportion of people with type 2 already have complications at diagnosis?",
+   "back": "Up to **25%**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 757,
+     "page": 735,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c8",
+   "sectionId": "endo-diabetes.s4",
+   "front": "Diagnostic thresholds for diabetes (SI)?",
+   "back": "Fasting ≥ **7.0** mmol/L; random or 2-h OGTT ≥ **11.1** mmol/L; HbA1c ≥ **48** mmol/mol. Asymptomatic patients need two results.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 748,
+     "page": 726,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c9",
+   "sectionId": "endo-diabetes.s4",
+   "front": "IFG vs IGT definitions?",
+   "back": "**IFG**: fasting 6.1 to < 7.0 mmol/L. **IGT**: fasting < 7.0 with 2-h OGTT **7.8–11.1** mmol/L.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 748,
+     "page": 726,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c10",
+   "sectionId": "endo-diabetes.s4",
+   "front": "What does C-peptide measure, and why is it useful?",
+   "back": "Endogenous insulin secretion, measurable even on injected insulin: very low in long-standing type 1, very high in insulin resistance.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 749,
+     "page": 727,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c11",
+   "sectionId": "endo-diabetes.s5",
+   "front": "DKA diagnostic criteria (Davidson/JBDS)?",
+   "back": "Ketones ≥ **3.0** mmol/L (or urine > 2+), glucose ≥ **11** mmol/L, and bicarbonate < **15** mmol/L and/or venous pH < **7.3**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 757,
+     "page": 735,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c12",
+   "sectionId": "endo-diabetes.s5",
+   "front": "Name four markers of severe DKA.",
+   "back": "Any of: ketones > 6, bicarbonate < 5, pH < 7.0, admission K⁺ < 3.5, GCS < 12, SpO₂ < 92%, SBP < 90, pulse > 100 or < 60, anion gap > 16.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 758,
+     "page": 736,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c13",
+   "sectionId": "endo-diabetes.s5",
+   "front": "HHS criteria?",
+   "back": "Hypovolaemia, glucose **> 30 mmol/L**, osmolality **> 320 mOsmol/kg**, ketones < 3 mmol/L, pH > 7.3, bicarbonate > 15 mmol/L.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 760,
+     "page": 738,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c14",
+   "sectionId": "endo-diabetes.s5",
+   "front": "In DKA, when is glucose added to the drip?",
+   "back": "When glucose falls **< 14 mmol/L**: 10% glucose 125 mL/hr, while saline and fixed-rate insulin continue.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 759,
+     "page": 737,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c15",
+   "sectionId": "endo-diabetes.s6",
+   "front": "Unconscious hypoglycaemia with IV access: what dose?",
+   "back": "IV **75–100 mL of 20%** (or 150–200 mL of 10%) glucose over 15 min; IM glucagon 1 mg if no access. 50% dextrose is no longer recommended.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 763,
+     "page": 741,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c16",
+   "sectionId": "endo-diabetes.s6",
+   "front": "Hypoglycaemia with high insulin but low C-peptide?",
+   "back": "**Factitious (exogenous) insulin**. Insulinoma and sulphonylureas raise both.",
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 445,
+     "page": 445,
+     "chapter": "Endocrine and metabolic diseases"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c17",
+   "sectionId": "endo-diabetes.s7",
+   "front": "Microalbuminuria by ACR (Davidson)?",
+   "back": "Men **2.5–30**, women **3.5–30** mg/mmol, in 2 of 3 early-morning samples. > 30 mg/mmol = overt nephropathy.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 780,
+     "page": 758,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c18",
+   "sectionId": "endo-diabetes.s7",
+   "front": "Pathognomonic renal lesion of diabetes?",
+   "back": "**Kimmelstiel–Wilson nodule** (nodular glomerulosclerosis).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 780,
+     "page": 758,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 429,
+     "page": 429,
+     "chapter": "Endocrine and metabolic diseases"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c19",
+   "sectionId": "endo-diabetes.s7",
+   "front": "Retinal features of pre-proliferative (R2) retinopathy?",
+   "back": "**Venous beading/loops**, **IRMA**, multiple deep round haemorrhages; non-urgent referral.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 750,
+     "page": 728,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c20",
+   "sectionId": "endo-diabetes.s8",
+   "front": "Monofilament result that predicts foot ulcers?",
+   "back": "Feeling **< 8 of 10** touches (5 sites per foot) → **5–10-fold** higher ulcer risk.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 743,
+     "page": 721,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c21",
+   "sectionId": "endo-diabetes.s8",
+   "front": "Acute Charcot foot: presentation and treatment?",
+   "back": "Hot, red, swollen foot with often normal first X-ray (MRI helps). **Total contact cast**, no weight-bearing.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 784,
+     "page": 762,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c22",
+   "sectionId": "endo-diabetes.s9",
+   "front": "Metformin dose rules by eGFR?",
+   "back": "**Halve** the dose at eGFR 30–45; **stop** below 30; withhold in acute illness.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 768,
+     "page": 746,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c23",
+   "sectionId": "endo-diabetes.s9",
+   "front": "Duration of long-acting analogues (glargine, detemir, degludec)?",
+   "back": "**18–26 h, no peak**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 771,
+     "page": 749,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c24",
+   "sectionId": "endo-diabetes.s9",
+   "front": "Typical adverse effects of SGLT2 inhibitors?",
+   "back": "Genital fungal infections, dehydration, weight loss, rare **euglycaemic DKA**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 770,
+     "page": 748,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 59,
+     "page": 59,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Diabetes mellitus",
+     "page": 742,
+     "pdfPage": 764
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c25",
+   "sectionId": "endo-diabetes.s10",
+   "front": "Prevention in pre-diabetes: lifestyle vs metformin?",
+   "back": "Diet and exercise cut progression by about **58%**; metformin by about **31%**.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 503,
+     "page": 503,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.c26",
+   "sectionId": "endo-diabetes.s10",
+   "front": "UKPDS: benefit of an 11 mmol/mol (1%) HbA1c fall?",
+   "back": "21% fewer diabetes deaths, 14% fewer MIs, 30–40% less microvascular disease.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 779,
+     "page": 757,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "endo-diabetes.q1",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Types of diabetes",
+   "leadIn": "Pick the best option for each scenario. Some options will be used more than once and some not at all.",
+   "options": [
+    "Type 1 diabetes (immune-mediated)",
+    "Type 2 diabetes",
+    "Latent autoimmune diabetes of adults (LADA)",
+    "MODY due to a glucokinase mutation",
+    "MODY due to an HNF1-alpha mutation",
+    "MODY due to an HNF1-beta mutation",
+    "Ketosis-prone type 2 diabetes",
+    "Permanent neonatal diabetes (KATP channel mutation)",
+    "Diabetes secondary to chronic pancreatitis",
+    "Gestational diabetes",
+    "Glucocorticoid-induced diabetes"
+   ],
+   "items": [
+    {
+     "stem": "A 23-year-old woman of normal weight has had fasting plasma glucose readings of 6.6–7.3 mmol/L at every annual check for 6 years, with no change. Her mother and maternal grandmother were told they had \"slightly high sugar\" but never took treatment. Islet antibodies are negative, and there is no retinopathy.",
+     "answer": 3,
+     "explanation": "Lifelong, **stable, mild fasting hyperglycaemia** that does not progress, in an autosomal-dominant pattern, is typical of **glucokinase MODY**. It usually needs no treatment.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s1"
+     }
+    },
+    {
+     "stem": "A 39-year-old man of African-Caribbean origin with a BMI of 34 kg/m² is admitted in diabetic ketoacidosis. GAD and IA-2 antibodies are negative. Four months after discharge, he has been switched from insulin to metformin and his HbA1c remains 47 mmol/mol.",
+     "answer": 6,
+     "explanation": "He presented in **DKA**, but he is obese and antibody-negative, and he came off insulin within months. That fits **ketosis-prone (Flatbush) type 2** diabetes, where β-cell function recovers.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s1"
+     }
+    },
+    {
+     "stem": "A 46-year-old slim woman was diagnosed with type 2 diabetes 14 months ago and has never been ketotic. Her HbA1c rose rapidly despite metformin and then gliclazide, and she now needs insulin. GAD antibodies are present at a high titre.",
+     "answer": 2,
+     "explanation": "Two steps: an adult who **did not need insulin at first** (so not classic type 1), but who has **high-titre GAD antibodies** and **progressed rapidly to insulin**. That is **LADA**.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 755,
+     "page": 733,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 752,
+     "page": 730,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 754,
+     "page": 732,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A man aged 61 who has type 2 diabetes for 8 years has had a capillary glucose of 18–24 mmol/L for 3 weeks while taking metformin. He is thirsty but not vomiting. His blood ketone level is 0.4 mmol/L and venous pH is 7.39.",
+   "leadIn": "Which mechanism best explains why he has not developed ketoacidosis?",
+   "options": [
+    "The liver cannot make ketones in type 2 diabetes",
+    "Low residual insulin is enough to suppress lipolysis",
+    "Glucagon secretion is suppressed in type 2 diabetes",
+    "High free fatty acid levels inhibit hepatic ketogenesis",
+    "Renal SGLT2 transporters excrete ketones in the urine"
+   ],
+   "answer": 1,
+   "explanation": "Suppressing **lipolysis** needs much less insulin than controlling glucose. The residual insulin in type 2 keeps FFA delivery to the liver low, so ketogenesis stays limited even when glucose is high.",
+   "whyNot": [
+    "Wrong: the liver can make ketones in type 2, as ketosis-prone type 2 diabetes presenting in DKA shows.",
+    "",
+    "Wrong: glucagon is actually **increased** in type 2 diabetes and contributes to hyperglycaemia.",
+    "Wrong: FFAs are the **substrate** for hepatic ketogenesis, so more FFA would promote ketosis, not prevent it.",
+    "Wrong: SGLT2 **reabsorbs filtered glucose** in the proximal tubule; it does not excrete ketones."
+   ],
+   "studyRef": {
+    "sectionId": "endo-diabetes.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 754,
+     "page": 732,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 730,
+     "page": 708,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 752,
+     "page": 730,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Diabetes mellitus",
+     "page": 731,
+     "pdfPage": 753
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Diabetes mellitus",
+     "page": 748,
+     "pdfPage": 770
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 32-year-old man has had type 1 diabetes since age 11. His partner does not have diabetes. They are planning a child and ask about the risk of the child developing type 1 diabetes.",
+   "leadIn": "What is the approximate lifetime risk for the child?",
+   "options": [
+    "About 1–4%",
+    "About 10%",
+    "About 16%",
+    "About 30–50%",
+    "Over 60%"
+   ],
+   "answer": 1,
+   "explanation": "When the **father** has type 1, the risk to a child is about **10%**, higher than when the mother is affected (1–4%). Most new cases (80–85%) still have no family history.",
+   "whyNot": [
+    "This is the risk when the **mother** has type 1.",
+    "",
+    "This is the risk for an HLA-identical sibling.",
+    "This is the concordance for an identical twin.",
+    "No first-degree relationship carries this risk; even with both parents affected it is up to about 30%."
+   ],
+   "studyRef": {
+    "sectionId": "endo-diabetes.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 751,
+     "page": 729,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 19-year-old student has 3 weeks of thirst, nocturia and 5 kg weight loss. He also says his distance vision has become blurred over the last week. Random plasma glucose is 24 mmol/L. Fundoscopy is normal.",
+   "leadIn": "What is the most likely cause of his blurred vision?",
+   "options": [
+    "Osmotic swelling of the lens",
+    "Diabetic maculopathy",
+    "Vitreous haemorrhage from new vessels",
+    "Diabetic cataract",
+    "Third cranial nerve palsy"
+   ],
+   "answer": 0,
+   "explanation": "In acute hyperglycaemia, osmotic changes make the **lens swell** and alter its refraction, so vision blurs. It settles as glucose comes down. Fundoscopy is normal here.",
+   "whyNot": [
+    "",
+    "Maculopathy is a chronic microvascular complication that takes years to develop; complications are not expected at type 1 diagnosis and the fundus is normal.",
+    "New vessels and vitreous haemorrhage reflect long-standing proliferative retinopathy, and fundoscopy would be abnormal.",
+    "Cataract is a chronic change and would not appear over a week with a 3-week history.",
+    "A third nerve palsy causes ptosis and diplopia, not blurred distance vision."
+   ],
+   "studyRef": {
+    "sectionId": "endo-diabetes.s3"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 418,
+     "page": 418,
+     "chapter": "Endocrine and metabolic diseases"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 757,
+     "page": 735,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Diabetes mellitus",
+     "page": 721,
+     "pdfPage": 743
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Endocrine and metabolic diseases",
+     "page": 432,
+     "pdfPage": 432
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 54-year-old man with a BMI of 36 kg/m² and hypertension has an HbA1c of 56 mmol/mol on two occasions. On examination, the skin of his axillae and the back of his neck is dark, thickened and velvety.",
+   "leadIn": "Which condition does this skin finding most specifically indicate?",
+   "options": [
+    "Insulin resistance",
+    "Lipohypertrophy from injections",
+    "Necrobiosis lipoidica",
+    "Autoimmune vitiligo",
+    "Diabetic autonomic neuropathy"
+   ],
+   "answer": 0,
+   "explanation": "Dark, velvety skin in the flexures is **acanthosis nigricans**, the skin marker of **insulin resistance**. It fits his obesity and new type 2 diabetes.",
+   "whyNot": [
+    "",
+    "Lipohypertrophy is a soft swelling at insulin injection sites, and he is not on insulin.",
+    "Necrobiosis lipoidica is a diabetes-related skin lesion, but it is not the flexural, velvety marker of insulin resistance.",
+    "Vitiligo is depigmentation, the opposite of this, and is associated with type 1 autoimmunity.",
+    "Autonomic neuropathy causes postural hypotension, gustatory sweating and gastroparesis, not flexural pigmentation."
+   ],
+   "studyRef": {
+    "sectionId": "endo-diabetes.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 743,
+     "page": 721,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 742,
+     "page": 720,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q6",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Interpreting glucose and HbA1c results",
+   "leadIn": "For each patient below, choose the single best match from the list. An option may fit several patients, or none.",
+   "options": [
+    "Normal glucose regulation",
+    "Impaired fasting glucose",
+    "Impaired glucose tolerance",
+    "Diabetes confirmed on the results given",
+    "Possible diabetes: repeat a diagnostic test",
+    "HbA1c unsuitable: use plasma glucose / OGTT",
+    "Benign renal glycosuria",
+    "Pre-diabetes on HbA1c alone (NICE range)",
+    "Stress hyperglycaemia"
+   ],
+   "items": [
+    {
+     "stem": "A 52-year-old asymptomatic woman has a fasting plasma glucose of 6.4 mmol/L. A 75 g OGTT gives a 2-hour value of 7.2 mmol/L.",
+     "answer": 1,
+     "explanation": "Fasting 6.1 to < 7.0 mmol/L with a normal 2-hour value (< 7.8) is **impaired fasting glucose**. IGT would need a 2-hour value of 7.8–11.1.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s4"
+     }
+    },
+    {
+     "stem": "A 63-year-old man with no symptoms has an HbA1c of 51 mmol/mol on a routine health check. No other results are available.",
+     "answer": 4,
+     "explanation": "One diagnostic result in an **asymptomatic** person is not enough. A second diagnostic test, ideally the same test, is needed to confirm.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s4"
+     }
+    },
+    {
+     "stem": "A 31-year-old man has had 4 weeks of thirst, polyuria and 6 kg weight loss. A laboratory random plasma glucose is 16.2 mmol/L.",
+     "answer": 3,
+     "explanation": "With **classic symptoms**, a single random plasma glucose ≥ 11.1 mmol/L confirms diabetes. No repeat test is needed.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s4"
+     }
+    },
+    {
+     "stem": "A 30-year-old woman at 26 weeks of pregnancy has a BMI of 35 kg/m² and a family history of type 2 diabetes. Her GP plans to check for diabetes with an HbA1c.",
+     "answer": 5,
+     "explanation": "HbA1c reads **falsely low in pregnancy** and is not used for diagnosis then. The **OGTT** is the preferred test in pregnancy.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 748,
+     "page": 726,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 749,
+     "page": 727,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 57,
+     "page": 57,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Diabetes mellitus",
+     "page": 728,
+     "pdfPage": 750
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Endocrinology",
+     "page": 503,
+     "pdfPage": 503
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q7",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 3,
+   "theme": "Treating hyperglycaemic emergencies",
+   "leadIn": "Pick the best option for each scenario. Some options will be used more than once and some not at all.",
+   "options": [
+    "0.9% sodium chloride 1 L over 60 minutes",
+    "0.9% sodium chloride 500 mL over 10–15 minutes, then reassess",
+    "Fixed-rate IV insulin 0.1 units/kg/hour",
+    "IV insulin 0.05 units/kg/hour",
+    "Add 10% glucose 125 mL/hour alongside saline and insulin",
+    "Add potassium chloride 40 mmol to each litre of fluid",
+    "No potassium in the fluids; recheck shortly",
+    "IV sodium bicarbonate",
+    "0.45% sodium chloride",
+    "Stop the IV insulin infusion"
+   ],
+   "items": [
+    {
+     "stem": "A woman aged 22 who has type 1 diabetes has vomited for 2 days. Ketones are 5.8 mmol/L, pH 7.12, glucose 29 mmol/L. Blood pressure is 82/48 mmHg and pulse 126/min. What is the first fluid step?",
+     "answer": 1,
+     "explanation": "In DKA with **systolic BP < 90 mmHg**, give **500 mL of 0.9% saline over 10–15 minutes** and reassess. The standard 1 L over an hour is for SBP > 90.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s5"
+     }
+    },
+    {
+     "stem": "A 19-year-old man is 5 hours into DKA treatment on fixed-rate insulin and 0.9% saline. Glucose is now 12.4 mmol/L, ketones 2.3 mmol/L and pH 7.26. What change is needed?",
+     "answer": 4,
+     "explanation": "Glucose is below 14 mmol/L but ketones have not cleared. **Add 10% glucose** so the fixed-rate insulin can continue to switch off ketogenesis without causing hypoglycaemia. Do not stop the insulin.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s5"
+     }
+    },
+    {
+     "stem": "A 26-year-old with DKA has a potassium of 5.9 mmol/L on admission. Saline and fixed-rate insulin have been started. What should be done about potassium in the next bag of fluid?",
+     "answer": 6,
+     "explanation": "K⁺ **> 5.5 mmol/L** means no added potassium for now. He is still total-body depleted, so recheck soon: K⁺ will fall once insulin works.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s5"
+     }
+    },
+    {
+     "stem": "An 80-year-old woman has a glucose of 46 mmol/L, osmolality 362 mOsmol/kg, ketones 0.7 mmol/L and pH 7.36. After 3 hours of 0.9% saline with a good positive fluid balance, her glucose is falling by only 2 mmol/L per hour. What should be started?",
+     "answer": 3,
+     "explanation": "Two steps: the picture is **HHS**, not DKA (low ketones, no acidosis), so saline comes first without insulin. Once glucose falls **< 5 mmol/L/hr despite adequate fluids**, add **low-dose insulin 0.05 U/kg/hr**.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 759,
+     "page": 737,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 760,
+     "page": 738,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 761,
+     "page": 739,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q8",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Hypoglycaemia: management and investigation",
+   "leadIn": "Match every case to one option from the list. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Oral fast-acting carbohydrate 10–15 g, recheck in 10–15 minutes",
+    "IV 20% glucose 75–100 mL over 15 minutes",
+    "IM glucagon 1 mg",
+    "IV 50% dextrose bolus",
+    "Admit for a continuous 10% glucose infusion",
+    "Relax glycaemic targets and avoid further hypoglycaemia",
+    "Measure insulin and C-peptide during a hypoglycaemic episode",
+    "Increase the evening basal insulin dose"
+   ],
+   "items": [
+    {
+     "stem": "An 83-year-old man taking glibenclamide is found drowsy at home with a glucose of 2.0 mmol/L. He wakes after IV glucose in the emergency department. What is the next step?",
+     "answer": 4,
+     "explanation": "**Glibenclamide is long-acting**, so hypoglycaemia will recur after the first correction. Admit him and run a **10% glucose infusion**.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s6"
+     }
+    },
+    {
+     "stem": "A man aged 27 who has type 1 diabetes is found unrousable at home by his partner. His glucose is 1.8 mmol/L. Paramedics have not yet arrived, and his partner has been trained to use the emergency kit kept in the fridge.",
+     "answer": 2,
+     "explanation": "He is unconscious with no IV access, so a trained relative gives **IM glucagon 1 mg**. Oral treatment is unsafe when he cannot swallow.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s6"
+     }
+    },
+    {
+     "stem": "A 25-year-old healthcare assistant without diabetes has three episodes of confusion with glucose of 1.9–2.4 mmol/L, each relieved by glucose. Her sister has type 1 diabetes. What is the most useful next investigation?",
+     "answer": 6,
+     "explanation": "Two steps: unexplained hypoglycaemia with **access to insulin** raises factitious hypoglycaemia. **Insulin and C-peptide** taken during an episode separate injected insulin (high insulin, **low C-peptide**) from insulinoma or sulphonylurea (both high).",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 762,
+     "page": 740,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 763,
+     "page": 741,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 445,
+     "page": 445,
+     "chapter": "Endocrine and metabolic diseases"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q9",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Microvascular complications",
+   "leadIn": "For each patient below, choose the single best match from the list. An option may fit several patients, or none.",
+   "options": [
+    "Background (non-proliferative) retinopathy",
+    "Pre-proliferative retinopathy",
+    "Proliferative retinopathy",
+    "Diabetic maculopathy",
+    "Microalbuminuria (moderately increased albuminuria)",
+    "Overt diabetic nephropathy",
+    "Symmetrical distal sensory polyneuropathy",
+    "Diabetic amyotrophy",
+    "Autonomic neuropathy",
+    "Third cranial nerve palsy"
+   ],
+   "items": [
+    {
+     "stem": "A woman aged 58 who has type 2 diabetes for 6 years attends retinal screening. Both retinas show scattered dot and blot haemorrhages and a few hard exudates well away from the macula. Visual acuity is 6/6 in each eye.",
+     "answer": 0,
+     "explanation": "Dot/blot haemorrhages and exudates **away from the macula**, with normal acuity, are **background (R1)** retinopathy, managed with annual screening.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s7"
+     }
+    },
+    {
+     "stem": "A man aged 34 who has type 1 diabetes for 17 years has screening photographs showing venous beading and intraretinal microvascular abnormalities, but no new vessels.",
+     "answer": 1,
+     "explanation": "**Venous beading and IRMA** without new vessels define **pre-proliferative (R2)** retinopathy, which needs a non-urgent ophthalmology referral.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s7"
+     }
+    },
+    {
+     "stem": "A man aged 44 who has type 1 diabetes for 15 years has early-morning urine albumin:creatinine ratios of 11 and 14 mg/mmol in two of three samples. Urine dipstick is negative for protein and eGFR is 92.",
+     "answer": 4,
+     "explanation": "An ACR of 2.5–30 mg/mmol in men, positive in 2 of 3 samples, is **microalbuminuria**. The dipstick stays negative until overt (> 30 mg/mmol) nephropathy.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 750,
+     "page": 728,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 780,
+     "page": 758,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A man aged 62 who has type 2 diabetes for 20 years cannot feel a monofilament on either foot. He has had 10 days of a hot, red, swollen left midfoot with little pain. There is no ulcer or break in the skin. Foot pulses are bounding, and the foot X-ray is normal.",
+   "leadIn": "What is the most appropriate initial management?",
+   "options": [
+    "Immobilise in a total contact cast and avoid weight-bearing",
+    "Oral flucloxacillin for cellulitis",
+    "Colchicine for acute gout",
+    "Refer for arterial revascularisation",
+    "Reassure him, as the normal X-ray excludes bone disease"
+   ],
+   "answer": 0,
+   "explanation": "A hot, swollen, relatively painless foot in someone with **neuropathy**, with **no skin break**, is **acute Charcot neuroarthropathy** until proved otherwise. The early X-ray is often normal, and MRI helps. Treatment is **immobilisation (total contact cast) and no weight-bearing**.",
+   "whyNot": [
+    "",
+    "Cellulitis usually has a portal of entry such as an ulcer; Charcot is the classic mimic and antibiotics do not treat it.",
+    "Gout is a painful arthritis; a near-painless hot, swollen midfoot in a patient with dense neuropathy is the Charcot pattern.",
+    "Bounding pulses show the foot is not ischaemic; revascularisation is for neuro-ischaemic ulcers.",
+    "The first X-ray in acute Charcot is often normal; missing it leads to collapse and rocker-bottom deformity."
+   ],
+   "studyRef": {
+    "sectionId": "endo-diabetes.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 784,
+     "page": 762,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 743,
+     "page": 721,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Diabetes mellitus",
+     "page": 733,
+     "pdfPage": 755
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 71-year-old woman who smokes has type 2 diabetes. She has a painful ulcer on the tip of her second toe. The foot is cool, the dorsalis pedis and posterior tibial pulses cannot be felt, and she is woken at night by foot pain.",
+   "leadIn": "What type of foot lesion is this?",
+   "options": [
+    "Neuropathic ulcer",
+    "Ischaemic ulcer",
+    "Charcot neuroarthropathy",
+    "Necrobiosis lipoidica",
+    "Osteomyelitis complicating a plantar ulcer"
+   ],
+   "answer": 1,
+   "explanation": "A **cold, pulseless foot** with **rest pain** and a **painful ulcer on a toe tip** is the ischaemic pattern. Neuropathic feet are warm with bounding pulses, and their ulcers are painless and plantar.",
+   "whyNot": [
+    "Neuropathic ulcers are painless, plantar and under callus, on a warm foot with bounding pulses.",
+    "",
+    "Charcot presents as a hot, swollen, deformed foot, not a cold pulseless one.",
+    "Necrobiosis lipoidica is a skin lesion, not an ulcer on a cold, pulseless foot.",
+    "Osteomyelitis complicates deep (often neuropathic) ulcers; nothing here points to bone infection, and the dominant clues are ischaemic."
+   ],
+   "studyRef": {
+    "sectionId": "endo-diabetes.s8"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 755,
+     "page": 733,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 783,
+     "page": 761,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q12",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Glucose-lowering drugs and their adverse effects",
+   "leadIn": "For each patient below, choose the single best match from the list. An option may fit several patients, or none.",
+   "options": [
+    "Metformin",
+    "Gliclazide",
+    "Glibenclamide",
+    "Pioglitazone",
+    "Sitagliptin",
+    "Liraglutide",
+    "Empagliflozin",
+    "Acarbose",
+    "Insulin glargine"
+   ],
+   "items": [
+    {
+     "stem": "A woman aged 59 who has type 2 diabetes started a third oral agent 4 months ago. Her HbA1c has improved and she has lost 3 kg, but she has had two episodes of vulvovaginal candidiasis.",
+     "answer": 6,
+     "explanation": "Weight loss with **genital fungal infection** comes from the glycosuria caused by an **SGLT2 inhibitor**.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s9"
+     }
+    },
+    {
+     "stem": "A 64-year-old man added a tablet to metformin 6 months ago. He has gained 5 kg, has ankle oedema and is more breathless on exertion. He has had no hypoglycaemia.",
+     "answer": 3,
+     "explanation": "Weight gain, **fluid retention and worsening heart failure** without hypoglycaemia point to the PPARγ agonist **pioglitazone**.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s9"
+     }
+    },
+    {
+     "stem": "A 52-year-old woman on metformin started a once-daily injection 2 months ago. She has persistent nausea and has lost 6 kg.",
+     "answer": 5,
+     "explanation": "An injectable that causes **nausea and weight loss** is a **GLP-1 receptor agonist** such as liraglutide.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s9"
+     }
+    },
+    {
+     "stem": "A 55-year-old man on metformin and a newer oral agent is admitted with 2 days of vomiting. pH is 7.11, blood ketones 5.4 mmol/L and glucose only 9.6 mmol/L.",
+     "answer": 6,
+     "explanation": "Two steps: acidosis with high ketones but **near-normal glucose** is **euglycaemic DKA**, a rare but recognised effect of **SGLT2 inhibitors**.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s9"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 769,
+     "page": 747,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 770,
+     "page": 748,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 59,
+     "page": 59,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 508,
+     "page": 508,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 46-year-old man has a BMI of 31 kg/m². His fasting plasma glucose is 6.4 mmol/L and a 2-hour OGTT value is 9.1 mmol/L. He is keen to avoid diabetes.",
+   "leadIn": "Which intervention most effectively reduces his risk of progressing to type 2 diabetes?",
+   "options": [
+    "Structured lifestyle change: weight loss, diet and about 30 minutes of daily activity",
+    "Metformin",
+    "Orlistat",
+    "Gliclazide",
+    "No intervention; repeat the OGTT in a year"
+   ],
+   "answer": 0,
+   "explanation": "He has **IGT**. **Lifestyle change** reduces progression most (about 58%), more than metformin (about 31%) or orlistat. Drugs are kept for people who cannot change lifestyle or whose glucose keeps rising.",
+   "whyNot": [
+    "",
+    "Metformin lowers incidence but less than lifestyle change (about 31% vs 58%).",
+    "Orlistat reduces incidence but is less effective than lifestyle and is a second choice.",
+    "Sulphonylureas are not used to prevent diabetes; they cause weight gain and hypoglycaemia.",
+    "People with pre-diabetes should be told their risk and given lifestyle advice now, with cardiovascular risk factors controlled."
+   ],
+   "studyRef": {
+    "sectionId": "endo-diabetes.s10"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 733,
+     "page": 711,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 503,
+     "page": 503,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 750,
+     "page": 728,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Diabetes mellitus",
+     "page": 747,
+     "pdfPage": 769
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "An 81-year-old woman has had type 2 diabetes for 24 years and had a myocardial infarction 3 years ago. She lives alone and is becoming frail. Her HbA1c is 60 mmol/mol on metformin and gliclazide. A junior doctor proposes adding basal insulin to bring her HbA1c below 48 mmol/mol.",
+   "leadIn": "What is the most appropriate approach?",
+   "options": [
+    "Keep a relaxed target near 58 mmol/mol and avoid hypoglycaemia",
+    "Add basal insulin to reach an HbA1c below 48 mmol/mol",
+    "Replace gliclazide with glibenclamide",
+    "Aim for an HbA1c below 42 mmol/mol to prevent further MI",
+    "Stop all glucose-lowering treatment"
+   ],
+   "answer": 0,
+   "explanation": "For older patients with **cardiovascular disease** and hypoglycaemia risk, Davidson suggests an HbA1c **around 58 mmol/mol**. **ACCORD** found **higher mortality** when such patients were pushed below 48 mmol/mol.",
+   "whyNot": [
+    "",
+    "Intensifying to < 48 mmol/mol in an older patient with CVD raised mortality in ACCORD and increases hypoglycaemia.",
+    "Glibenclamide is long-acting and especially likely to cause hypoglycaemia; avoid it in older people.",
+    "This is stricter still and carries even more hypoglycaemia risk with no proven benefit.",
+    "Her HbA1c is near her individual target on current drugs; stopping all treatment risks symptomatic hyperglycaemia."
+   ],
+   "studyRef": {
+    "sectionId": "endo-diabetes.s10"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 779,
+     "page": 757,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 764,
+     "page": 742,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 769,
+     "page": 747,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q15",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "theme": "Acute metabolic presentations in diabetes",
+   "leadIn": "For each patient below, choose the single best match from the list. An option may fit several patients, or none.",
+   "options": [
+    "Diabetic ketoacidosis",
+    "Euglycaemic diabetic ketoacidosis",
+    "Hyperglycaemic hyperosmolar state",
+    "Type A lactic acidosis (tissue hypoxia)",
+    "Metformin-associated (type B) lactic acidosis",
+    "Hypoglycaemia",
+    "Hyperchloraemic acidosis after saline resuscitation",
+    "Pseudohyponatraemia due to hyperglycaemia",
+    "Diabetic gastroparesis"
+   ],
+   "items": [
+    {
+     "stem": "An 84-year-old care-home resident with type 2 diabetes has had 10 days of increasing confusion. Glucose is 51 mmol/L, sodium 151 mmol/L, osmolality 372 mOsmol/kg, ketones 0.8 mmol/L, pH 7.35 and bicarbonate 23 mmol/L.",
+     "answer": 2,
+     "explanation": "Very high glucose and **osmolality > 320** with **no significant ketosis or acidosis**, developing over days in an older person, is **HHS**.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s5"
+     }
+    },
+    {
+     "stem": "A man aged 70 who has type 2 diabetes on metformin 1 g twice daily has had diarrhoea and vomiting for 3 days. eGFR is 21. pH is 7.04 with a high anion gap and raised lactate. Glucose is 8.1 mmol/L, ketones 0.4 mmol/L and blood pressure 124/76 mmHg.",
+     "answer": 4,
+     "explanation": "High anion gap acidosis with raised lactate, **little hyperglycaemia or ketosis**, and **metformin continued despite severe renal impairment** is metformin-associated (type B) lactic acidosis. BP is normal, so tissue hypoxia (type A) is unlikely.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s6"
+     }
+    },
+    {
+     "stem": "A woman aged 24 who has type 1 diabetes has influenza and has been vomiting. Glucose is 27 mmol/L, ketones 5.2 mmol/L, pH 7.17 and bicarbonate 9 mmol/L.",
+     "answer": 0,
+     "explanation": "Ketones ≥ 3, glucose ≥ 11 and bicarbonate < 15 / pH < 7.3 meet the criteria for **DKA**, precipitated by infection.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s5"
+     }
+    },
+    {
+     "stem": "A 20-year-old man treated for DKA with 6 L of 0.9% saline over 20 hours now has ketones of 0.2 mmol/L and glucose 9 mmol/L. His bicarbonate is 16 mmol/L, chloride is high and the anion gap is normal.",
+     "answer": 6,
+     "explanation": "Two steps: the ketosis has **resolved** (ketones < 0.3), so the persisting low bicarbonate is not ongoing DKA. With a **normal anion gap and high chloride** after large saline volumes, it is **hyperchloraemic acidosis**.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 757,
+     "page": 735,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 760,
+     "page": 738,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 747,
+     "page": 725,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 387,
+     "page": 365,
+     "chapter": "Clinical biochemistry and metabolic medicine"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 438,
+     "page": 438,
+     "chapter": "Endocrine and metabolic diseases"
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Diabetes mellitus",
+     "page": 737,
+     "pdfPage": 759
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A man aged 28 who has type 1 diabetes is admitted with DKA. Results: glucose 34 mmol/L, ketones 4.6 mmol/L, potassium 5.2 mmol/L, white cell count 18 × 10⁹/L, pH 6.94. Temperature is 36.9°C.",
+   "leadIn": "Which result most clearly marks this as severe DKA?",
+   "options": [
+    "pH 6.94",
+    "Glucose 34 mmol/L",
+    "Potassium 5.2 mmol/L",
+    "White cell count 18 × 10⁹/L",
+    "Normal temperature"
+   ],
+   "answer": 0,
+   "explanation": "A **pH below 7.0** is one of Davidson's markers of severe DKA (with ketones > 6, bicarbonate < 5, admission K⁺ < 3.5, low GCS, hypotension and others). It calls for senior and high-dependency review.",
+   "whyNot": [
+    "",
+    "Glucose level does **not** reflect DKA severity; DKA can even occur with near-normal glucose.",
+    "A high-normal admission K⁺ is common; only K⁺ < 3.5 mmol/L on admission marks severity.",
+    "Leucocytosis is a stress response in DKA and does not by itself indicate severity or infection.",
+    "Fever may be absent even with infection; a normal temperature is not a severity marker."
+   ],
+   "studyRef": {
+    "sectionId": "endo-diabetes.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 758,
+     "page": 736,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 757,
+     "page": 735,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A diabetes clinic is reviewing which patients can have diabetes diagnosed by HbA1c alone.",
+   "leadIn": "In which patient is HbA1c an acceptable diagnostic test?",
+   "options": [
+    "An 8-year-old boy with 2 weeks of polyuria and weight loss",
+    "A 30-year-old woman at 28 weeks of pregnancy",
+    "A 55-year-old asymptomatic obese man with a normal full blood count",
+    "A 47-year-old woman with sickle cell disease",
+    "A 60-year-old man on haemodialysis"
+   ],
+   "answer": 2,
+   "explanation": "HbA1c suits **slow-onset, asymptomatic** hyperglycaemia when red cell turnover is normal. The other patients have suspected type 1, pregnancy, a haemoglobinopathy or uraemia.",
+   "whyNot": [
+    "Suspected type 1 / rapid-onset symptomatic hyperglycaemia: HbA1c lags behind and should not be used; measure plasma glucose.",
+    "HbA1c is falsely low in pregnancy; use an OGTT.",
+    "",
+    "Haemoglobinopathies make HbA1c unreliable.",
+    "Uraemia makes HbA1c difficult to interpret."
+   ],
+   "studyRef": {
+    "sectionId": "endo-diabetes.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 749,
+     "page": 727,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 426,
+     "page": 426,
+     "chapter": "Endocrine and metabolic diseases"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q18",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 21-year-old woman was diagnosed with diabetes at 18 and started on insulin. She needs only 10 units a day and has never had ketosis. Her father and paternal grandmother had diabetes diagnosed in their twenties. Islet autoantibodies are negative.",
+   "leadIn": "Which test best shows whether she still produces her own insulin?",
+   "options": [
+    "C-peptide",
+    "HbA1c",
+    "Fasting plasma glucose",
+    "75 g oral glucose tolerance test",
+    "Urine ketone dipstick"
+   ],
+   "answer": 0,
+   "explanation": "**C-peptide** is cleaved from pro-insulin, so it measures **endogenous** insulin secretion even in someone injecting insulin. Preserved C-peptide years after diagnosis argues against type 1 and, with this family history, points to **MODY**.",
+   "whyNot": [
+    "",
+    "HbA1c measures average glycaemia, not insulin secretion.",
+    "Fasting glucose shows control, not whether her β cells still work.",
+    "An OGTT diagnoses glucose intolerance; it does not separate endogenous from injected insulin.",
+    "Urine ketones (acetoacetate only) say nothing about endogenous insulin, and their absence does not exclude type 1."
+   ],
+   "studyRef": {
+    "sectionId": "endo-diabetes.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 749,
+     "page": 727,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 755,
+     "page": 733,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Diabetes mellitus",
+     "page": 726,
+     "pdfPage": 748
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q19",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 29-year-old woman has had type 1 diabetes for 16 years and keeps tight control (HbA1c 45 mmol/mol). Twice this month colleagues have found her confused, with glucose of 2.1 and 2.4 mmol/L. She had no sweating, tremor or hunger beforehand. She takes no other medicines.",
+   "leadIn": "What is the most likely explanation for the lack of warning symptoms?",
+   "options": [
+    "Impaired awareness of hypoglycaemia from recurrent hypoglycaemia",
+    "Masking by a β-blocker",
+    "Insulinoma",
+    "Somogyi effect",
+    "Factitious sulphonylurea ingestion"
+   ],
+   "answer": 0,
+   "explanation": "Long-standing type 1 with **tight control and frequent hypos** lowers the glucose level at which warning symptoms start. That is **impaired awareness**, which affects about 20–25% of people with type 1. Hypoglycaemia must be strictly avoided, and after severe hypos a looser HbA1c goal is reasonable.",
+   "whyNot": [
+    "",
+    "She takes no other medicines, so a β-blocker cannot be masking symptoms.",
+    "She has type 1 and injects insulin, which explains the hypos; nothing suggests an insulinoma.",
+    "The Somogyi effect describes rebound morning hyperglycaemia and has been refuted; it does not explain absent warnings.",
+    "Nothing points to secret drug use; recurrent hypos from her own insulin explain the picture."
+   ],
+   "studyRef": {
+    "sectionId": "endo-diabetes.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 762,
+     "page": 740,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 510,
+     "page": 510,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 446,
+     "page": 446,
+     "chapter": "Endocrine and metabolic diseases"
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Endocrine and metabolic diseases",
+     "page": 416,
+     "pdfPage": 416
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Endocrine and metabolic diseases",
+     "page": 426,
+     "pdfPage": 426
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q20",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A woman aged 21 who has type 1 diabetes presents with DKA: glucose 31 mmol/L, ketones 5.9 mmol/L, pH 7.08, bicarbonate 7 mmol/L and potassium **3.1 mmol/L**. Blood pressure is 104/62 mmHg.",
+   "leadIn": "What is the most appropriate way to handle her potassium?",
+   "options": [
+    "Run fluids and insulin with no added potassium",
+    "Add 40 mmol/L potassium chloride as per the standard regimen",
+    "Seek senior review and give additional potassium beyond the standard 40 mmol/L, with cardiac monitoring",
+    "Give IV sodium bicarbonate to correct the acidosis first",
+    "Double the insulin infusion rate to clear ketones faster"
+   ],
+   "answer": 2,
+   "explanation": "**Step 1:** Everyone in DKA is **total-body K⁺ depleted**, and insulin will drive K⁺ into cells. **Step 2:** An admission K⁺ **below 3.5 mmol/L** is itself a marker of **severe DKA**. **Step 3:** Davidson's table gives no K⁺ above 5.5, **40 mmol/L for 3.5–5.5**, and **senior review with extra potassium** below 3.5, with ECG monitoring in severe cases. (US texts go further and **hold insulin until K⁺ > 3.3**.)",
+   "whyNot": [
+    "With K⁺ already low, insulin would cause dangerous hypokalaemia; potassium must be added.",
+    "The standard 40 mmol/L is for K⁺ 3.5–5.5 mmol/L; at 3.1 more is needed with senior input.",
+    "",
+    "Bicarbonate is not recommended in DKA, and correcting acidosis shifts potassium into cells, lowering it further.",
+    "The insulin rate is fixed at 0.1 U/kg/hr; more insulin would push K⁺ down further."
+   ],
+   "studyRef": {
+    "sectionId": "endo-diabetes.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 758,
+     "page": 736,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 759,
+     "page": 737,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 437,
+     "page": 437,
+     "chapter": "Endocrine and metabolic diseases"
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Diabetes mellitus",
+     "page": 738,
+     "pdfPage": 760
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q21",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A man aged 79 who has type 2 diabetes on gliclazide is brought in with 6 days of increasing drowsiness after a chest infection. Glucose is 44 mmol/L, sodium 149 mmol/L, urea 19 mmol/L, calculated osmolality 360 mOsmol/kg, ketones 0.6 mmol/L and pH 7.34.",
+   "leadIn": "What is the most appropriate initial treatment?",
+   "options": [
+    "0.9% sodium chloride 1 L over the first hour, without insulin initially",
+    "Fixed-rate IV insulin 0.1 units/kg/hour immediately",
+    "0.45% sodium chloride 1 L over the first hour",
+    "10% glucose infusion with IV insulin",
+    "IV sodium bicarbonate"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1, classify:** glucose > 30, osmolality > 320, ketones < 3 and pH > 7.3 make this **HHS**, not DKA. **Step 2, fluid first:** HHS is mainly a profound water and salt deficit, so start **0.9% saline alone**, aiming for an osmolality fall of 3–8 mOsmol/kg/hr. Fluid by itself lowers glucose. **Step 3, insulin later:** start **0.05 U/kg/hr** only if ketones are > 1.0 mmol/L, or if glucose falls < 5 mmol/L/hr despite adequate fluids. Also give LMWH prophylaxis and treat the infection.",
+   "whyNot": [
+    "",
+    "Early full-dose insulin in HHS drops glucose and osmolality too fast, shifting water into cells; insulin is low-dose and delayed unless ketotic.",
+    "0.45% saline is kept for osmolality that keeps rising despite adequate 0.9% saline, not for the start.",
+    "Glucose is 44 mmol/L; glucose is only added once it falls below about 14 mmol/L.",
+    "He is not acidotic, and bicarbonate has no role."
+   ],
+   "studyRef": {
+    "sectionId": "endo-diabetes.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 760,
+     "page": 738,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 761,
+     "page": 739,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q22",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 1,
+   "stem": "A 57-year-old man with a BMI of 33 kg/m² was diagnosed with type 2 diabetes 3 months ago. Despite diet and exercise his HbA1c is 62 mmol/mol. eGFR is 78, and he has no cardiovascular, renal or heart failure history.",
+   "leadIn": "What is the most appropriate first drug?",
+   "options": [
+    "Metformin, started at a low dose and titrated",
+    "Gliclazide",
+    "Pioglitazone",
+    "Basal insulin glargine",
+    "Sitagliptin"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1:** Lifestyle measures alone have not reached target after about 3 months, so a drug is needed. **Step 2:** **Metformin** is first-line. It is weight-neutral, causes no hypoglycaemia, and his eGFR allows the full dose. Start low (500 mg once or twice daily) to limit GI upset, then build up. **Step 3:** If the target is still unmet, add a second agent. In patients with established ASCVD, heart failure or proteinuric CKD, newer guidance uses a GLP-1 RA or SGLT2 inhibitor early.",
+   "whyNot": [
+    "",
+    "A sulphonylurea is a second-line add-on; it causes weight gain and hypoglycaemia in an already obese man.",
+    "Pioglitazone is second-line and causes weight gain and fluid retention.",
+    "Insulin is for severe hyperglycaemia or failure of other agents; an HbA1c of 62 does not need it first.",
+    "DPP-4 inhibitors are second-line add-ons to metformin."
+   ],
+   "studyRef": {
+    "sectionId": "endo-diabetes.s9"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 764,
+     "page": 742,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 768,
+     "page": 746,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 58,
+     "page": 58,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Endocrinology",
+     "page": 504,
+     "pdfPage": 504
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q23",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Secondary causes of diabetes",
+   "leadIn": "Match every case to one option from the list. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Acromegaly",
+    "Cushing's syndrome",
+    "Glucagonoma",
+    "Phaeochromocytoma",
+    "Thyrotoxicosis",
+    "Hereditary haemochromatosis",
+    "Cystic fibrosis",
+    "Alcohol-related chronic pancreatitis",
+    "Pancreatic carcinoma",
+    "Glucocorticoid therapy",
+    "Thiazide diuretic therapy"
+   ],
+   "items": [
+    {
+     "stem": "A 73-year-old man with no family history of diabetes is found to have an HbA1c of 64 mmol/mol. He has lost 9 kg over 3 months and has a poor appetite.",
+     "answer": 8,
+     "explanation": "New diabetes in an **older person with weight loss and anorexia** should prompt a search for **pancreatic carcinoma**.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s1"
+     }
+    },
+    {
+     "stem": "A 56-year-old man has drunk heavily for 30 years. He has recurrent epigastric pain radiating to the back, pale floating stools, and pancreatic calcification on CT. His glucose is now persistently high.",
+     "answer": 7,
+     "explanation": "Pain, **steatorrhoea** and **pancreatic calcification** in a heavy drinker point to **chronic pancreatitis**, an often-missed cause of diabetes that usually needs insulin.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s1"
+     }
+    },
+    {
+     "stem": "A 52-year-old woman has new diabetes, chronic diarrhoea and an unprovoked deep vein thrombosis. Imaging shows a pancreatic tail mass.",
+     "answer": 2,
+     "explanation": "The \"**3 Ds**\" (diabetes, DVT, diarrhoea) with a pancreatic mass suggest a **glucagonoma**.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s1"
+     }
+    },
+    {
+     "stem": "A 48-year-old man has hepatomegaly, abnormal liver tests, grey-bronze skin, a very high transferrin saturation and new diabetes.",
+     "answer": 5,
+     "explanation": "Two steps: **iron overload** (high transferrin saturation) with liver disease and pigmentation is **haemochromatosis**, where iron deposits in the pancreas cause diabetes.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 755,
+     "page": 733,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 754,
+     "page": 732,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 504,
+     "page": 504,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Diabetes mellitus",
+     "page": 734,
+     "pdfPage": 756
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q24",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Insulin preparations and β-cell drugs",
+   "leadIn": "For each patient below, choose the single best match from the list. An option may fit several patients, or none.",
+   "options": [
+    "Rapid-acting analogue (lispro / aspart)",
+    "Soluble (regular) human insulin",
+    "Isophane (NPH) insulin",
+    "Long-acting analogue (glargine / detemir / degludec)",
+    "Twice-daily premixed biphasic insulin",
+    "Continuous subcutaneous insulin infusion (pump)",
+    "Oral sulphonylurea",
+    "Metformin"
+   ],
+   "items": [
+    {
+     "stem": "The insulin made up as 50 units in 50 mL of 0.9% saline for a fixed-rate intravenous infusion in DKA.",
+     "answer": 1,
+     "explanation": "**Soluble (regular) insulin** is the preparation used intravenously.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s9"
+     }
+    },
+    {
+     "stem": "A cloudy insulin that must be mixed before injection. It starts working in 1–3 hours, peaks at 3–8 hours and lasts about 7–14 hours.",
+     "answer": 2,
+     "explanation": "Cloudy, with a peak and an intermediate duration: **isophane (NPH)** insulin.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s9"
+     }
+    },
+    {
+     "stem": "A 4-month-old girl has needed insulin since 3 weeks of age. Genetic testing shows an activating mutation in the KIR6.2 subunit of the β-cell KATP channel. What treatment could replace her insulin?",
+     "answer": 6,
+     "explanation": "Two steps: this is **permanent neonatal diabetes** caused by a **KATP-channel** mutation. Sulphonylureas close that channel, and over 90% of these patients can switch to **oral sulphonylureas**.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 771,
+     "page": 749,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 759,
+     "page": 737,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 756,
+     "page": 734,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q25",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A woman aged 33 who has type 1 diabetes on a basal-bolus regimen has fasting glucose of 13–15 mmol/L every morning. Her bedtime readings are 7–8 mmol/L, and she has no symptoms overnight.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Check her glucose at about 03:00 to look for nocturnal hypoglycaemia",
+    "Increase her evening basal insulin immediately",
+    "Reduce her evening basal insulin because this is the Somogyi effect",
+    "Add metformin",
+    "Increase her breakfast rapid-acting insulin"
+   ],
+   "answer": 0,
+   "explanation": "Morning hyperglycaemia may be the **dawn phenomenon** (early-morning GH and cortisol, waning overnight insulin). Nocturnal hypoglycaemia can only be found by **night-time glucose testing**. Check overnight before changing the basal dose.",
+   "whyNot": [
+    "",
+    "Raising basal insulin without excluding nocturnal hypoglycaemia could make undetected night hypos worse.",
+    "The Somogyi effect (rebound after nocturnal hypos) has been refuted; do not assume it.",
+    "Metformin is not the standard answer to fasting hyperglycaemia in type 1.",
+    "Breakfast insulin covers the post-breakfast rise, not the fasting level before it."
+   ],
+   "studyRef": {
+    "sectionId": "endo-diabetes.s9"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 772,
+     "page": 750,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 416,
+     "page": 416,
+     "chapter": "Endocrine and metabolic diseases"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 762,
+     "page": 740,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q26",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A woman aged 68 who has type 2 diabetes takes metformin 1 g twice daily. Her eGFR has fallen to 38 mL/min/1.73 m² and is stable. She is well.",
+   "leadIn": "What should be done with her metformin?",
+   "options": [
+    "Halve the dose",
+    "Stop it",
+    "Continue the current dose",
+    "Increase the dose",
+    "Switch to glibenclamide"
+   ],
+   "answer": 0,
+   "explanation": "At **eGFR 30–45**, the metformin dose is **reduced (halved)**. It is **stopped below 30**, and withheld during acute illness, to limit the risk of lactic acidosis.",
+   "whyNot": [
+    "",
+    "Stopping is for eGFR below 30 mL/min/1.73 m².",
+    "Full dose at eGFR 38 increases accumulation and lactic acidosis risk.",
+    "Increasing the dose is unsafe with reduced renal function.",
+    "Glibenclamide is long-acting and causes hypoglycaemia; avoid it in older people."
+   ],
+   "studyRef": {
+    "sectionId": "endo-diabetes.s9"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 768,
+     "page": 746,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 504,
+     "page": 504,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q27",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A man aged 41 who has type 1 diabetes for 19 years has early-morning ACRs of 17 and 22 mg/mmol. Blood pressure is 138/84 mmHg, potassium 4.5 mmol/L and creatinine normal.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Start an ACE inhibitor and recheck potassium and creatinine",
+    "Start a thiazide diuretic first",
+    "Start a β-blocker",
+    "Repeat ACR in a year and treat only if the dipstick becomes positive",
+    "Start a calcium-channel blocker"
+   ],
+   "answer": 0,
+   "explanation": "He has **microalbuminuria**. An **ACE inhibitor (or ARB)** is first-line because it dilates the **efferent arteriole** and cuts hyperfiltration. Check **K⁺ and creatinine** after starting. Halving albuminuria nearly halves the risk of ESRD.",
+   "whyNot": [
+    "",
+    "Diuretics are second-line add-ons after ACEi/ARB.",
+    "β-blockers do not target the glomerular hyperfiltration that drives diabetic nephropathy.",
+    "Waiting for dipstick proteinuria wastes the window when treatment works best.",
+    "Other antihypertensives are add-ons; renin–angiotensin blockade is first-line."
+   ],
+   "studyRef": {
+    "sectionId": "endo-diabetes.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 780,
+     "page": 758,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 430,
+     "page": 430,
+     "chapter": "Endocrine and metabolic diseases"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q28",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Managing diabetic neuropathy",
+   "leadIn": "Pick the best option for each scenario. Some options will be used more than once and some not at all.",
+   "options": [
+    "Metoclopramide",
+    "Loperamide",
+    "Intermittent self-catheterisation",
+    "Fludrocortisone with support stockings",
+    "Sildenafil",
+    "Pregabalin",
+    "Topical capsaicin",
+    "Glycopyrrolate cream",
+    "Senna",
+    "Total contact cast"
+   ],
+   "items": [
+    {
+     "stem": "A woman aged 49 who has type 1 diabetes for 28 years has early satiety and vomits undigested food several hours after meals. Her glucose has become erratic. Endoscopy shows no obstruction.",
+     "answer": 0,
+     "explanation": "**Gastroparesis** from autonomic neuropathy is treated with a **dopamine antagonist** (metoclopramide or domperidone); erythromycin is an alternative.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s7"
+     }
+    },
+    {
+     "stem": "A 66-year-old man with long-standing diabetes feels faint when he stands up. His BP is 142/80 mmHg lying and 104/66 mmHg standing, with no rise in heart rate. Support stockings alone have not helped.",
+     "answer": 3,
+     "explanation": "**Postural hypotension** from autonomic neuropathy: support stockings first, then **fludrocortisone**.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s7"
+     }
+    },
+    {
+     "stem": "A 58-year-old man with autonomic neuropathy has recurrent urinary infections. A bladder scan shows 450 mL of residual urine after voiding.",
+     "answer": 2,
+     "explanation": "An **atonic (neurogenic) bladder** with a large residual volume is managed with **intermittent self-catheterisation**.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s7"
+     }
+    },
+    {
+     "stem": "A 52-year-old man has burning pain in both feet that is worse at night, in a stocking distribution. Monofilament sensation is reduced and ankle reflexes are absent. Paracetamol has not helped.",
+     "answer": 5,
+     "explanation": "Two steps: this is painful **distal symmetrical sensory neuropathy**. Davidson lists anticonvulsants (**pregabalin**, gabapentin), tricyclics and duloxetine as the main oral options.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 782,
+     "page": 760,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 783,
+     "page": 761,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 781,
+     "page": 759,
+     "chapter": "Diabetes mellitus"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q29",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "Five patients with diabetes have the following blood results (glucose and ketones in mmol/L).",
+   "leadIn": "Which set of results meets the diagnostic criteria for diabetic ketoacidosis?",
+   "options": [
+    "Glucose 24, ketones 1.2, pH 7.36, bicarbonate 22",
+    "Glucose 18, ketones 3.8, pH 7.24, bicarbonate 13",
+    "Glucose 42, ketones 0.9, pH 7.34, osmolality 352",
+    "Glucose 6.5, ketones 0.4, pH 7.21, lactate 9.0",
+    "Glucose 2.4, ketones 0.2, pH 7.40, bicarbonate 25"
+   ],
+   "answer": 1,
+   "explanation": "DKA needs all three: **ketones ≥ 3.0**, **glucose ≥ 11** and **acidosis** (bicarbonate < 15 and/or pH < 7.3). Only option B has all three.",
+   "whyNot": [
+    "Hyperglycaemia with mild ketosis but no acidosis: not DKA.",
+    "",
+    "Very high glucose and osmolality without ketoacidosis: HHS.",
+    "Acidosis with high lactate and no ketosis: lactic acidosis.",
+    "Low glucose with normal acid–base: hypoglycaemia."
+   ],
+   "studyRef": {
+    "sectionId": "endo-diabetes.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 757,
+     "page": 735,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 760,
+     "page": 738,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 387,
+     "page": 365,
+     "chapter": "Clinical biochemistry and metabolic medicine"
+    }
+   ]
+  },
+  {
+   "id": "endo-diabetes.q30",
+   "kind": "emq",
+   "pool": "mock",
+   "difficulty": 2,
+   "theme": "Choosing the right test in diabetes",
+   "leadIn": "For each patient below, choose the single best match from the list. An option may fit several patients, or none.",
+   "options": [
+    "Fasting plasma glucose",
+    "HbA1c",
+    "75 g oral glucose tolerance test",
+    "Capillary blood ketones",
+    "Urine dipstick for ketones",
+    "C-peptide",
+    "Islet autoantibodies (GAD, IA-2, ZnT8)",
+    "Early-morning urine albumin:creatinine ratio",
+    "10 g monofilament testing",
+    "MRI of the foot",
+    "Coeliac serology"
+   ],
+   "items": [
+    {
+     "stem": "A 32-year-old woman at 25 weeks of pregnancy has a BMI of 36 kg/m² and had a large baby in her last pregnancy. Which test should be used to look for diabetes?",
+     "answer": 2,
+     "explanation": "HbA1c is unreliable in pregnancy. The **OGTT** is the preferred diagnostic test.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s4"
+     }
+    },
+    {
+     "stem": "A man aged 60 who has type 2 diabetes for 4 years has his annual review. Urine dipstick is negative for protein. Which test screens for early diabetic kidney disease?",
+     "answer": 7,
+     "explanation": "An **early-morning urine ACR** detects microalbuminuria long before a dipstick turns positive.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s7"
+     }
+    },
+    {
+     "stem": "A 57-year-old man with neuropathy has a deep plantar ulcer and a warm, swollen midfoot. His X-ray is unhelpful. Which test best distinguishes Charcot neuroarthropathy from osteomyelitis?",
+     "answer": 9,
+     "explanation": "Two steps: a hot swollen foot **with an ulcer** could be Charcot or osteomyelitis, and the early X-ray often cannot tell them apart. **MRI** is the most helpful test.",
+     "studyRef": {
+      "sectionId": "endo-diabetes.s8"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "pdfPage": 57,
+     "page": 57,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 749,
+     "page": 727,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 780,
+     "page": 758,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 784,
+     "page": 762,
+     "chapter": "Diabetes mellitus"
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Endocrinology",
+     "page": 503,
+     "pdfPage": 503
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Diabetes mellitus",
+     "page": 728,
+     "pdfPage": 750
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "endo-diabetes.o1",
+   "sectionId": "endo-diabetes.s2",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 751,
+    "page": 729,
+    "chapter": "Diabetes mellitus",
+    "figure": "Fig. 20.6"
+   },
+   "identify": "Natural history of type 1: genetic susceptibility + environmental trigger → insulitis → autoantibodies → loss of first-phase insulin release → IGT → overt diabetes as β-cell mass falls"
+  },
+  {
+   "id": "endo-diabetes.o2",
+   "sectionId": "endo-diabetes.s3",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 742,
+    "page": 720,
+    "chapter": "Diabetes mellitus",
+    "figure": "Clinical examination panel",
+    "pageEnd": 721
+   },
+   "identify": "Acanthosis nigricans (insulin resistance), the prayer sign (cheiroarthropathy), necrobiosis lipoidica on the shins, and lipohypertrophy at injection sites"
+  },
+  {
+   "id": "endo-diabetes.o3",
+   "sectionId": "endo-diabetes.s7",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 1198,
+    "page": 1176,
+    "chapter": "Medical ophthalmology",
+    "figure": "Fig. 27.8"
+   },
+   "identify": "Background retinopathy (blot haemorrhages, cotton wool spots), IRMA and venous beading (pre-proliferative) and new vessels (proliferative)"
+  },
+  {
+   "id": "endo-diabetes.o4",
+   "sectionId": "endo-diabetes.s7",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 749,
+    "page": 727,
+    "chapter": "Diabetes mellitus",
+    "figure": "Fig. 23.14"
+   },
+   "identify": "Exudative maculopathy (hard exudates near the fovea), new vessels on the disc, and boat-shaped pre-retinal haemorrhage"
+  },
+  {
+   "id": "endo-diabetes.o5",
+   "sectionId": "endo-diabetes.s7",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 780,
+    "page": 758,
+    "chapter": "Diabetes mellitus",
+    "figure": "Fig. 20.22"
+   },
+   "identify": "Kimmelstiel–Wilson nodule: nodular glomerulosclerosis with mesangial expansion, pathognomonic of diabetic nephropathy"
+  },
+  {
+   "id": "endo-diabetes.o6",
+   "sectionId": "endo-diabetes.s8",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 781,
+    "page": 759,
+    "chapter": "Diabetes mellitus",
+    "figure": "Fig. 20.23"
+   },
+   "identify": "Neuropathic plantar ulcer under callus, clawed toes, digital gangrene, and the rocker-bottom deformity of Charcot neuroarthropathy on X-ray"
+  },
+  {
+   "id": "endo-diabetes.o7",
+   "sectionId": "endo-diabetes.s8",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 755,
+    "page": 733,
+    "chapter": "Diabetes mellitus",
+    "figure": "Fig. 23.18"
+   },
+   "identify": "Neuropathic foot (high arch, clawed toes, painless plantar ulcer) vs ischaemic ulcers on the toes and heel margins"
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:45:12.055Z",
+  "contentHash": "35f76a66272ba8c821637f43b7f462a255f54518a4586336878f689ffefbd51b"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:45:12.063Z",
+  "contentHash": "35f76a66272ba8c821637f43b7f462a255f54518a4586336878f689ffefbd51b",
+  "checkerVersion": "source-check-v1"
+ }
+}

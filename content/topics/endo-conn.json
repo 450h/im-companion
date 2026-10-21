@@ -1,0 +1,2395 @@
+{
+ "topicId": "endo-conn",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "endo-conn.s1",
+   "title": "Definition and how common it is",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Primary aldosteronism** (primary hyperaldosteronism) is aldosterone over-production that starts in the **adrenal cortex itself** (zona glomerulosa) and runs **independently of the renin–angiotensin system**. The excess aldosterone expands volume and raises blood pressure, which in turn **suppresses renin**. The signature is therefore **high aldosterone with low renin**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 499,
+       "page": 499
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 64,
+       "page": 64
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 232,
+       "page": 232
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Primary versus secondary hyperaldosteronism",
+     "columns": [
+      "Feature",
+      "Primary",
+      "Secondary"
+     ],
+     "rows": [
+      [
+       "Where the problem starts",
+       "Adrenal gland (renin-independent)",
+       "Outside the adrenal; renin drives aldosterone"
+      ],
+      [
+       "Renin",
+       "Low (suppressed)",
+       "High"
+      ],
+      [
+       "Aldosterone",
+       "High",
+       "High"
+      ],
+      [
+       "Typical triggers",
+       "Adenoma, bilateral hyperplasia",
+       "Poor renal perfusion: diuretics, heart failure, cirrhosis, nephrotic syndrome, renal artery stenosis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 491,
+       "page": 491
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 64,
+       "page": 64
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Key terms and numbers",
+     "items": [
+      "**Conn's syndrome** = an aldosterone-producing adenoma (APA) of one adrenal. It is only **one cause** of primary aldosteronism, and not the commonest.",
+      "Prevalence: up to about **10% of hypertensive patients** (Davidson); Kumar quotes **5–10% of all hypertension**. Figures depend on which screening test is used.",
+      "It is often called the **commonest cause of secondary (endocrine) hypertension**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 628,
+       "page": 606
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 65,
+       "page": 65
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Davidson reserves **\"Conn's syndrome\" for the adenoma** only, while some quick sources use it loosely for all primary aldosteronism. In an exam, \"Conn's\" = unilateral aldosterone-producing adenoma.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 629,
+       "page": 607
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.s2",
+   "title": "Pathophysiology: what excess aldosterone does",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Normally **renin** from the juxtaglomerular apparatus is released when afferent arteriolar pressure falls, when macula densa sodium is low, or with sympathetic stimulation (renin roughly doubles on standing). Renin leads to **angiotensin II**, the main stimulus for **aldosterone** from the zona glomerulosa. Aldosterone binds renal **mineralocorticoid receptors (MR)**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 688,
+       "page": 666,
+       "figure": "Fig. 18.18"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Consequences of autonomous aldosterone excess",
+     "items": [
+      "**Sodium retention** in the distal nephron/collecting duct → ECF expansion → **hypertension**.",
+      "**Potassium excretion** → **hypokalaemia** (but potassium is often normal).",
+      "**H+ secretion** in the collecting duct → **metabolic alkalosis**. It is a chloride-resistant, hypertensive alkalosis (urine Cl > 40).",
+      "Volume expansion and high BP → **renin suppressed**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 688,
+       "page": 666
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 628,
+       "page": 606
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 499,
+       "page": 499
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 279,
+       "page": 279
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Why no oedema? \"Mineralocorticoid escape\".** After about 1.5–2 L of ECF expansion, the rise in ANP, renal perfusion pressure and GFR cuts proximal sodium reabsorption. The extra sodium delivered distally overwhelms aldosterone's effect, so sodium balance is restored. Hypertension persists, but peripheral oedema does not develop.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 194,
+       "page": 175
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 492,
+       "page": 492
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 688,
+      "page": 666,
+      "figure": "Fig. 18.18"
+     },
+     "note": "Look at: the renin–angiotensin–aldosterone axis (JGA → renin → angiotensin II → zona glomerulosa → aldosterone → MR, with negative feedback)."
+    },
+    {
+     "type": "pearl",
+     "text": "Among fluid-overloaded states, Conn's is the odd one out: it gives **hypertension with low potassium** rather than the **peripheral oedema** seen in heart failure, cirrhosis or nephrotic syndrome.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 376,
+       "page": 354
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 194,
+       "page": 175
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.s3",
+   "title": "Causes and the differential of mineralocorticoid excess",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Classify by renin and aldosterone",
+     "columns": [
+      "Renin / aldosterone",
+      "Category",
+      "Causes"
+     ],
+     "rows": [
+      [
+       "Low renin, high aldosterone",
+       "Primary aldosteronism",
+       "Bilateral (idiopathic) adrenal hyperplasia; aldosterone-producing adenoma (Conn's); glucocorticoid-suppressible hyperaldosteronism (rare); adrenal carcinoma (rare)"
+      ],
+      [
+       "High renin, high aldosterone",
+       "Secondary hyperaldosteronism",
+       "Diuretics, cardiac failure, liver failure, nephrotic syndrome, renal artery stenosis, malignant HTN; renin-secreting tumour (very rare)"
+      ],
+      [
+       "Low renin, low aldosterone",
+       "MR activated without aldosterone",
+       "Liquorice, apparent mineralocorticoid excess (11β-HSD2 deficiency), Liddle's syndrome, ectopic ACTH, deoxycorticosterone-secreting tumour, rare CAH"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 491,
+       "page": 491
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 492,
+       "page": 492
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 500,
+       "page": 500
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Primary causes in more detail",
+     "items": [
+      "**Bilateral adrenal hyperplasia** (idiopathic hyperaldosteronism): **the majority, about 60–70%**. Rare before 40 and commoner in men.",
+      "**Aldosterone-producing adenoma**: about **30–40%**. Often very small, commoner in young women.",
+      "Adenomas were once thought to cause about 60% of cases, but widespread ARR screening showed hyperplasia is far commoner.",
+      "**Glucocorticoid-suppressible (-remediable) hyperaldosteronism**: rare, **autosomal dominant**. A chimeric gene (chromosome 8) fuses the aldosterone synthase and 11β-hydroxylase genes, so aldosterone comes under **ACTH control**.",
+      "**Aldosterone-producing carcinoma**: under 1%."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 629,
+       "page": 607
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 491,
+       "page": 491
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 500,
+       "page": 500
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Mimics with low renin AND low aldosterone.** In the kidney, 11β-HSD2 normally converts cortisol (which activates the MR) to cortisone (which does not). If the enzyme is deficient (apparent mineralocorticoid excess) or **inhibited by liquorice**, cortisol floods the MR. **Liddle's syndrome** has an overactive distal epithelial sodium channel. All give hypertension and hypokalaemia that look like Conn's, but aldosterone is low.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 629,
+       "page": 607
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 492,
+       "page": 492
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Zero to Finals lists adenoma as the commonest cause. **Davidson, Kumar and the other quick sources agree that bilateral hyperplasia is commonest.** Follow Davidson: hyperplasia is the majority, and adenoma is the minority.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 64,
+       "page": 64
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 491,
+       "page": 491
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Liquorice inhibits **11β-HSD2** (11β-hydroxysteroid dehydrogenase type 2), not 11β-hydroxylase. One Kumar box says \"11β-hydroxylase\", but Kumar's text and Davidson both say 11β-HSD2.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 628,
+       "page": 606
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 629,
+       "page": 607
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.s4",
+   "title": "Clinical features",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Most patients are **asymptomatic** and simply have **hypertension**, usually mild to moderate. It may be resistant to standard drugs, and long-standing cases can show renal, cardiac and retinal damage. **Accelerated (malignant) hypertension is rare.** Potassium is **frequently normal**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 629,
+       "page": 607
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 492,
+       "page": 492
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 501,
+       "page": 501
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Features when hypokalaemia is present",
+     "columns": [
+      "Feature",
+      "Mechanism"
+     ],
+     "rows": [
+      [
+       "Muscle weakness, tiredness; even paralysis (notably in South-east Asian patients)",
+       "Hypokalaemia"
+      ],
+      [
+       "Polyuria, nocturia, polydipsia",
+       "Hypokalaemic tubular damage → acquired nephrogenic diabetes insipidus"
+      ],
+      [
+       "Tetany (occasional)",
+       "Metabolic alkalosis lowers ionised calcium"
+      ],
+      [
+       "Constipation / paralytic ileus",
+       "Hypokalaemia"
+      ],
+      [
+       "Arrhythmias, ventricular ectopics, T-wave changes; worse digoxin toxicity",
+       "Hypokalaemia"
+      ],
+      [
+       "Headache",
+       "Non-specific (with hypertension)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 383,
+       "page": 361
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 232,
+       "page": 232
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 501,
+       "page": 501
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Exam triggers for suspicion",
+     "items": [
+      "Hypertension with **unprovoked hypokalaemia** in a patient **not on a diuretic**.",
+      "**Young** hypertensive, especially without risk factors or a family history of hypertension.",
+      "Hypertension **resistant** to conventional treatment.",
+      "Mild hypokalaemia (K+ 3.0–3.3 mmol/L) is usually asymptomatic, so the low potassium is often a chance finding on routine bloods."
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 500,
+       "page": 500
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 232,
+       "page": 232
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 65,
+       "page": 65
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 383,
+       "page": 361
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**No peripheral oedema** is the rule (mineralocorticoid escape). Davidson mentions that sodium retention _may_ cause oedema, but its fluid chapter and the other sources stress that peripheral oedema is **not** typical. Oedema with high aldosterone suggests secondary hyperaldosteronism (heart failure, cirrhosis, nephrotic syndrome).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 376,
+       "page": 354
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 194,
+       "page": 175
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 501,
+       "page": 501
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.s5",
+   "title": "Investigations: screen, confirm, then localise",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Who to test",
+     "items": [
+      "Hypertension with **hypokalaemia**, including thiazide-induced hypokalaemia.",
+      "BP **poorly controlled** on standard therapy (e.g. more than 3 drugs).",
+      "**Young age** at presentation, or a **family history of early-onset hypertension**.",
+      "An **adrenal mass** found in a hypertensive patient."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 628,
+       "page": 606
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 492,
+       "page": 492
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Baseline bloods:** hypokalaemic **metabolic alkalosis**, sometimes low magnesium. Sodium sits at the **upper end of normal** in primary disease, whereas it is typically **low in secondary** hyperaldosteronism, because low effective volume drives ADH release and thirst. A urine potassium **> 30 mmol/24 h** while hypokalaemic means renal loss. GI loss gives < 20 mmol/24 h.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 384,
+       "page": 362
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 232,
+       "page": 232
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 629,
+       "page": 607
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Screening test: aldosterone : renin ratio (ARR).** It shows a high aldosterone with a suppressed renin. Most antihypertensives distort it. Davidson advises stopping them for **at least 4 weeks**, using **calcium antagonists or α-blockers** (little effect on the RAS) to control BP meanwhile, and **correcting potassium**, because hypokalaemia itself suppresses renin. Then repeat the test.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Drugs and the ARR",
+     "columns": [
+      "Drug",
+      "Effect on renin",
+      "Effect on ARR"
+     ],
+     "rows": [
+      [
+       "β-blockers",
+       "Lower renin",
+       "Raises ARR → false positive"
+      ],
+      [
+       "Diuretics, ACE inhibitors, ARBs",
+       "Raise renin",
+       "Lowers ARR → false negative"
+      ],
+      [
+       "Spironolactone / eplerenone",
+       "Interfere with the result",
+       "Stop before testing (Pocket Medicine: 6 weeks)"
+      ],
+      [
+       "Calcium antagonists, α-blockers",
+       "Minimal (Davidson)",
+       "Preferred for BP control during testing"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 492,
+       "page": 492
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 493,
+       "page": 493
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 629,
+       "page": 607
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Confirm autonomous secretion (specialist)",
+     "items": [
+      "**Saline infusion** (e.g. 2 L 0.9% saline over 4 h): aldosterone normally suppresses. A final aldosterone **< 5 ng/dL rules out** primary aldosteronism.",
+      "**Oral sodium loading** for 3 days: a high urinary aldosterone despite high urinary sodium confirms the diagnosis.",
+      "Fludrocortisone suppression is an alternative (Kumar).",
+      "Davidson adds **captopril or furosemide stimulation** tests to separate angiotensin II-responsive hyperplasia from an autonomous adenoma."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 629,
+       "page": 607
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 501,
+       "page": 501
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 493,
+       "page": 493
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Subtype: adenoma or hyperplasia?",
+     "items": [
+      "Image **only after biochemical confirmation**. **CT or MRI** of the adrenals finds most adenomas.",
+      "False positives: **non-functioning adrenal adenomas are common**. False negatives: adenomas **< 0.5 cm** are missed.",
+      "**Adrenal vein sampling** (aldosterone, with cortisol to confirm catheter position) is needed when surgery is planned and imaging is inconclusive. Some centres do it routinely. One-sided excess = adenoma; both sides high = bilateral hyperplasia.",
+      "Older clues (Kumar): aldosterone **rises from 09:00 supine to 13:00 upright with adenoma** but falls with hyperplasia; 18-OH cortisol is raised in adenoma."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 629,
+       "page": 607
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 501,
+       "page": 501
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 232,
+       "page": 232
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 400\" role=\"img\" aria-label=\"Work-up of suspected primary aldosteronism\"><g font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\"><rect x=\"40\" y=\"10\" width=\"360\" height=\"44\" rx=\"8\" fill=\"#e8f0fb\" stroke=\"#3a6ea5\"/><text x=\"220\" y=\"29\">1. Who? HTN + low K, resistant HTN,</text><text x=\"220\" y=\"45\">young onset, family history of early HTN</text><line x1=\"220\" y1=\"54\" x2=\"220\" y2=\"74\" stroke=\"#555\" stroke-width=\"2\"/><rect x=\"40\" y=\"74\" width=\"360\" height=\"44\" rx=\"8\" fill=\"#e8f0fb\" stroke=\"#3a6ea5\"/><text x=\"220\" y=\"93\">2. Screen: aldosterone : renin ratio</text><text x=\"220\" y=\"109\">(swap interfering drugs, correct K, then repeat)</text><line x1=\"220\" y1=\"118\" x2=\"220\" y2=\"138\" stroke=\"#555\" stroke-width=\"2\"/><rect x=\"40\" y=\"138\" width=\"360\" height=\"44\" rx=\"8\" fill=\"#e8f0fb\" stroke=\"#3a6ea5\"/><text x=\"220\" y=\"157\">3. Confirm autonomy: aldosterone fails to</text><text x=\"220\" y=\"173\">suppress with salt / saline loading</text><line x1=\"220\" y1=\"182\" x2=\"220\" y2=\"202\" stroke=\"#555\" stroke-width=\"2\"/><rect x=\"40\" y=\"202\" width=\"360\" height=\"44\" rx=\"8\" fill=\"#fdf1e3\" stroke=\"#b5651d\"/><text x=\"220\" y=\"221\">4. Subtype: adrenal CT or MRI</text><text x=\"220\" y=\"237\">(beware incidentalomas and tiny adenomas)</text><line x1=\"220\" y1=\"246\" x2=\"220\" y2=\"266\" stroke=\"#555\" stroke-width=\"2\"/><rect x=\"40\" y=\"266\" width=\"360\" height=\"44\" rx=\"8\" fill=\"#fdf1e3\" stroke=\"#b5651d\"/><text x=\"220\" y=\"285\">5. Surgery planned? Adrenal vein sampling</text><text x=\"220\" y=\"301\">(aldosterone + cortisol each side)</text><line x1=\"130\" y1=\"310\" x2=\"130\" y2=\"330\" stroke=\"#555\" stroke-width=\"2\"/><line x1=\"310\" y1=\"310\" x2=\"310\" y2=\"330\" stroke=\"#555\" stroke-width=\"2\"/><rect x=\"20\" y=\"330\" width=\"200\" height=\"56\" rx=\"8\" fill=\"#e6f4ea\" stroke=\"#2e7d32\"/><text x=\"120\" y=\"351\">Unilateral (adenoma)</text><text x=\"120\" y=\"367\">MR antagonist, then</text><text x=\"120\" y=\"381\">laparoscopic adrenalectomy</text><rect x=\"230\" y=\"330\" width=\"190\" height=\"56\" rx=\"8\" fill=\"#e6f4ea\" stroke=\"#2e7d32\"/><text x=\"325\" y=\"351\">Bilateral (hyperplasia)</text><text x=\"325\" y=\"367\">spironolactone or</text><text x=\"325\" y=\"381\">eplerenone, no surgery</text></g></svg>",
+     "alt": "Algorithm: suspect → aldosterone:renin ratio after removing interfering drugs and correcting potassium → confirm with salt or saline suppression → adrenal CT/MRI → adrenal vein sampling if surgery planned → unilateral disease to adrenalectomy, bilateral disease to MR antagonist.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 501,
+       "page": 501
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 697,
+      "page": 675,
+      "figure": "Fig. 18.23"
+     },
+     "note": "Look at: (A) CT with a left adrenal adenoma (arrow); (B) the resected tumour, canary yellow from intracellular lipid."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "pocket8",
+      "pdfPage": 493,
+      "page": 493,
+      "figure": "Figure 7-4"
+     },
+     "note": "Look at: Pocket Medicine's flowchart \"Approach to suspected hyperaldosteronism\", and compare it with the screen, confirm and subtype steps above."
+    },
+    {
+     "type": "pitfall",
+     "text": "**ARR cut-offs vary by source and assay**: Pocket Medicine uses > 20, while Step-Up and First Aid use > 30. Kumar stresses that a raised ARR **alone never confirms** the diagnosis, because a very low renin always gives a high ratio. Confirm with a suppression test.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 629,
+       "page": 607
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 492,
+       "page": 492
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 501,
+       "page": 501
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 232,
+       "page": 232
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Calcium antagonists: Davidson treats them as safe substitutes during ARR testing, whereas Pocket Medicine says they can raise renin and prefers α-blockers. Follow Davidson, but α-blockers are the safest answer if offered. Also, a hypertensive patient with a **hypokalaemic alkalosis is usually on a diuretic**. Check the drug list first.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 493,
+       "page": 493
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 532,
+       "page": 510
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.s6",
+   "title": "Management: surgery or medical therapy",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Treatment by cause",
+     "columns": [
+      "Cause",
+      "Treatment"
+     ],
+     "rows": [
+      [
+       "Unilateral aldosterone-producing adenoma",
+       "Some weeks of MR antagonist to correct BP and potassium, then **laparoscopic unilateral adrenalectomy**"
+      ],
+      [
+       "Bilateral adrenal hyperplasia",
+       "**Spironolactone** (Kumar: 100–400 mg/day) or **eplerenone**. Surgery does not help"
+      ],
+      [
+       "Glucocorticoid-suppressible hyperaldosteronism",
+       "**Glucocorticoid** to suppress ACTH (± spironolactone)"
+      ],
+      [
+       "Adrenal carcinoma",
+       "Adrenalectomy"
+      ],
+      [
+       "Secondary (e.g. renal artery stenosis)",
+       "Treat the cause (e.g. angioplasty); MR antagonist"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 629,
+       "page": 607
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 493,
+       "page": 493
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 65,
+       "page": 65
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Drugs",
+     "items": [
+      "**MR antagonists** (spironolactone, eplerenone) control both **hypertension and hypokalaemia** in any form of mineralocorticoid excess.",
+      "Spironolactone side-effects: **gynaecomastia (up to 20% of men)**, nausea, rashes. Switch to **eplerenone**, a purer aldosterone antagonist.",
+      "**Amiloride** (10–40 mg/day) blocks the aldosterone-regulated epithelial sodium channel and is an alternative (Davidson). Kumar notes that amiloride and calcium antagonists help BP but do not correct the hyperaldosteronism.",
+      "Severe hypokalaemia: IV potassium generally no faster than **10 mmol/h**. Concentrations above **40 mmol/L** need a central line and cardiac monitoring."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 629,
+       "page": 607
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 198,
+       "page": 179
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 384,
+       "page": 362
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Telling adenoma from hyperplasia matters because **surgery helps only unilateral disease**. Bilateral adrenalectomy does not improve hypertension caused by hyperplasia.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 502,
+       "page": 502
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 232,
+       "page": 232
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Outcome after adrenalectomy. Davidson says surgery **cures the biochemistry**, but **hypertension persists in up to 70%** (depending on how long it was present), probably from irreversible microvascular damage. Kumar says BP **falls** in 70%. Both can be true: BP often improves without normalising. Davidson's message is that ongoing antihypertensive treatment is common.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 629,
+       "page": 607
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "endo-conn.c1",
+   "sectionId": "endo-conn.s1",
+   "front": "Biochemical signature of primary aldosteronism?",
+   "back": "**High aldosterone with low (suppressed) renin**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.c2",
+   "sectionId": "endo-conn.s1",
+   "front": "What does \"Conn's syndrome\" strictly mean (Davidson)?",
+   "back": "An **aldosterone-producing adrenal adenoma**, a minority cause of primary aldosteronism",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.c3",
+   "sectionId": "endo-conn.s1",
+   "front": "Approximate prevalence of primary aldosteronism among hypertensives?",
+   "back": "Up to about **10%** (Kumar: 5–10%). It varies with the screening test",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 628,
+     "page": 606
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.c4",
+   "sectionId": "endo-conn.s2",
+   "front": "Why is peripheral oedema not a feature of primary aldosteronism?",
+   "back": "**Mineralocorticoid escape**: after ~1.5–2 L ECF expansion, more distal sodium delivery (ANP, higher GFR) overrides aldosterone",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 194,
+     "page": 175
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.c5",
+   "sectionId": "endo-conn.s2",
+   "front": "Acid–base disturbance in primary aldosteronism?",
+   "back": "**Hypokalaemic metabolic alkalosis**, from H+ secretion in the collecting duct (chloride-resistant)",
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 499,
+     "page": 499
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 279,
+     "page": 279
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.c6",
+   "sectionId": "endo-conn.s3",
+   "front": "Commonest cause of primary aldosteronism?",
+   "back": "**Bilateral (idiopathic) adrenal hyperplasia**, about 60–70%. Adenoma about 30–40%",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 491,
+     "page": 491
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.c7",
+   "sectionId": "endo-conn.s3",
+   "front": "Genetic basis of glucocorticoid-suppressible hyperaldosteronism?",
+   "back": "Autosomal dominant **chimeric gene** (aldosterone synthase + 11β-hydroxylase), so aldosterone is **ACTH-driven**",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 629,
+     "page": 607
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.c8",
+   "sectionId": "endo-conn.s3",
+   "front": "Liquorice excess: renin and aldosterone levels, and mechanism?",
+   "back": "**Both low.** It inhibits **11β-HSD2**, so cortisol activates the MR",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 629,
+     "page": 607
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.c9",
+   "sectionId": "endo-conn.s4",
+   "front": "Cause of polyuria in primary aldosteronism?",
+   "back": "Hypokalaemic tubular damage → **acquired nephrogenic diabetes insipidus**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 383,
+     "page": 361
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.c10",
+   "sectionId": "endo-conn.s4",
+   "front": "Cause of tetany in primary aldosteronism?",
+   "back": "**Metabolic alkalosis lowering ionised calcium**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.c11",
+   "sectionId": "endo-conn.s5",
+   "front": "Screening test for primary aldosteronism?",
+   "back": "**Plasma aldosterone : renin ratio**, after removing interfering drugs and correcting potassium",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.c12",
+   "sectionId": "endo-conn.s5",
+   "front": "Antihypertensives to use while the ARR is being tested (Davidson)?",
+   "back": "**Calcium antagonists and α-blockers**, which have minimal effect on the RAS",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.c13",
+   "sectionId": "endo-conn.s5",
+   "front": "Why can a raised ARR be misleading?",
+   "back": "A very low renin always gives a high ratio, and cut-offs depend on the assay. **Confirm with a suppression test**",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 629,
+     "page": 607
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.c14",
+   "sectionId": "endo-conn.s5",
+   "front": "Role of adrenal vein sampling?",
+   "back": "Shows **which side** makes the aldosterone (with cortisol to check catheter position) before surgery",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 501,
+     "page": 501
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.c15",
+   "sectionId": "endo-conn.s6",
+   "front": "Treatment of bilateral adrenal hyperplasia?",
+   "back": "**MR antagonist**: spironolactone, or eplerenone if not tolerated. No surgery",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 629,
+     "page": 607
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 502,
+     "page": 502
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.c16",
+   "sectionId": "endo-conn.s6",
+   "front": "Long-term BP after adrenalectomy for an APA (Davidson)?",
+   "back": "Biochemistry is cured, but **hypertension persists in up to 70%**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "endo-conn.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 44-year-old woman is referred with hypertension. Her plasma aldosterone is raised and her plasma renin activity is undetectable. She takes no medication.",
+   "leadIn": "Which pattern does this represent?",
+   "options": [
+    "Primary hyperaldosteronism",
+    "Secondary hyperaldosteronism",
+    "Mineralocorticoid receptor activation without aldosterone",
+    "Mineralocorticoid deficiency",
+    "Essential hypertension with normal RAS activity"
+   ],
+   "answer": 0,
+   "explanation": "Aldosterone high with renin suppressed means the adrenal is producing aldosterone autonomously, which is primary hyperaldosteronism. The resulting volume expansion and hypertension switch off renin.",
+   "whyNot": [
+    "",
+    "Secondary disease is renin-driven, so renin would be high, not undetectable.",
+    "Non-aldosterone MR activation (liquorice, Liddle's) has low renin AND low aldosterone.",
+    "Deficiency would give low aldosterone with high renin.",
+    "Essential hypertension does not cause a raised aldosterone with fully suppressed renin."
+   ],
+   "studyRef": {
+    "sectionId": "endo-conn.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 64,
+     "page": 64
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A student writes \"Conn's syndrome\" as a synonym for every case of primary hyperaldosteronism. Her tutor corrects her using Davidson's definition.",
+   "leadIn": "Which condition does the term Conn's syndrome strictly describe?",
+   "options": [
+    "Aldosterone-producing adrenal adenoma",
+    "Bilateral idiopathic adrenal hyperplasia",
+    "Glucocorticoid-suppressible hyperaldosteronism",
+    "Renin-secreting renal tumour",
+    "Liquorice-induced mineralocorticoid excess"
+   ],
+   "answer": 0,
+   "explanation": "Davidson restricts Conn's syndrome to an aldosterone-producing adenoma, which is only a minority of primary hyperaldosteronism. The commonest cause is bilateral hyperplasia.",
+   "whyNot": [
+    "",
+    "Bilateral hyperplasia is the commonest primary cause but is called idiopathic hyperaldosteronism, not Conn's.",
+    "This is a rare familial ACTH-driven form, not Conn's.",
+    "A renin-secreting tumour causes secondary (high-renin) hyperaldosteronism.",
+    "Liquorice activates the MR with low aldosterone and is a mimic."
+   ],
+   "studyRef": {
+    "sectionId": "endo-conn.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 39-year-old man has BP 172/104 mmHg, K+ 2.9 mmol/L and a confirmed aldosterone-producing adenoma. On examination he has no ankle or sacral oedema despite marked sodium retention by his kidneys earlier in the illness.",
+   "leadIn": "Which mechanism best explains the absence of oedema?",
+   "options": [
+    "Increased distal sodium delivery overriding aldosterone (\"escape\")",
+    "Low plasma oncotic pressure being corrected by the liver",
+    "Aldosterone acting mainly on the proximal tubule",
+    "Suppression of ANP by the high blood pressure",
+    "Hypokalaemia causing sodium loss in the loop of Henle"
+   ],
+   "answer": 0,
+   "explanation": "After roughly 1.5–2 L of ECF expansion, rises in ANP, renal perfusion pressure and GFR reduce proximal sodium uptake. The extra distal sodium delivery overwhelms aldosterone's action and balance is restored, so hypertension persists without oedema.",
+   "whyNot": [
+    "",
+    "Oncotic pressure is not the issue here; albumin is normal in Conn's.",
+    "Aldosterone acts on the distal nephron/collecting duct, not mainly the proximal tubule.",
+    "Volume expansion increases, not suppresses, ANP release.",
+    "This is not the described mechanism of escape."
+   ],
+   "studyRef": {
+    "sectionId": "endo-conn.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 194,
+     "page": 175
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 492,
+     "page": 492
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 50-year-old woman with primary aldosteronism has a venous bicarbonate of 33 mmol/L and K+ 3.0 mmol/L. She has not vomited and takes only amlodipine.",
+   "leadIn": "Which mechanism best accounts for her raised bicarbonate?",
+   "options": [
+    "Aldosterone-stimulated H+ secretion in the collecting duct",
+    "Loss of gastric hydrochloric acid",
+    "Hypoventilation from respiratory muscle weakness",
+    "Increased bicarbonate absorption from the gut",
+    "Proximal tubular bicarbonate wasting"
+   ],
+   "answer": 0,
+   "explanation": "Aldosterone increases H+ secretion into the collecting-duct lumen and drives K+ loss, giving a hypokalaemic metabolic alkalosis. It is a hypertensive, chloride-resistant alkalosis.",
+   "whyNot": [
+    "",
+    "She has not vomited; that would cause a chloride-responsive alkalosis.",
+    "Primary hypoventilation would cause respiratory acidosis, not a primary metabolic alkalosis.",
+    "Gut bicarbonate absorption is not the mechanism of mineralocorticoid alkalosis.",
+    "Proximal bicarbonate wasting produces acidosis (type 2 RTA), not alkalosis."
+   ],
+   "studyRef": {
+    "sectionId": "endo-conn.s2"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 499,
+     "page": 499
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 279,
+     "page": 279
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 55-year-old man is confirmed to have primary aldosteronism after a failed saline suppression test. A trainee predicts that the cause is most likely a single adrenal tumour.",
+   "leadIn": "According to current screening data, what is the most likely cause?",
+   "options": [
+    "Bilateral idiopathic adrenal hyperplasia",
+    "Aldosterone-producing adenoma",
+    "Glucocorticoid-suppressible hyperaldosteronism",
+    "Aldosterone-producing carcinoma",
+    "Deoxycorticosterone-secreting tumour"
+   ],
+   "answer": 0,
+   "explanation": "Since ARR screening became widespread, bilateral hyperplasia has emerged as the majority cause (about 60–70%). Adenoma is about 30–40%. Hyperplasia is also commoner in men over 40.",
+   "whyNot": [
+    "",
+    "Adenoma was once thought to cause about 60% of cases, but it is now known to be the minority.",
+    "This is a rare familial form.",
+    "Carcinoma accounts for less than 1%.",
+    "This causes low aldosterone with low renin, so it does not fit a confirmed aldosterone excess."
+   ],
+   "studyRef": {
+    "sectionId": "endo-conn.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 629,
+     "page": 607
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 491,
+     "page": 491
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 500,
+     "page": 500
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 3,
+   "stem": "A 34-year-old man has BP 158/98 mmHg and K+ 3.1 mmol/L. Renin and aldosterone are both low. He eats several packets of black liquorice sweets every day.",
+   "leadIn": "Which mechanism explains his presentation?",
+   "options": [
+    "Inhibition of renal 11β-hydroxysteroid dehydrogenase type 2",
+    "Inhibition of adrenal 11β-hydroxylase",
+    "Constitutive activation of the epithelial sodium channel",
+    "ACTH-driven aldosterone synthase activity",
+    "Autonomous aldosterone secretion from the zona glomerulosa"
+   ],
+   "answer": 0,
+   "explanation": "Liquorice inhibits 11β-HSD2, so renal cortisol is no longer inactivated to cortisone. Cortisol then occupies the mineralocorticoid receptor, causing hypertension and hypokalaemia with low renin and low aldosterone.",
+   "whyNot": [
+    "",
+    "This is a known error in one Kumar box; 11β-HSD2 is the correct enzyme.",
+    "This is Liddle's syndrome, a genetic channel disorder unrelated to diet.",
+    "This is glucocorticoid-suppressible hyperaldosteronism, which gives HIGH aldosterone.",
+    "Autonomous secretion would give a high aldosterone, not low."
+   ],
+   "studyRef": {
+    "sectionId": "endo-conn.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 629,
+     "page": 607
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 492,
+     "page": 492
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 41-year-old woman with an aldosterone-producing adenoma and K+ 2.6 mmol/L reports getting up four times a night to pass urine and drinking constantly. Her fasting glucose and calcium are normal.",
+   "leadIn": "What is the most likely cause of her polyuria?",
+   "options": [
+    "Acquired nephrogenic diabetes insipidus from hypokalaemia",
+    "Cranial diabetes insipidus",
+    "Osmotic diuresis from hyperglycaemia",
+    "Hypercalcaemia-induced concentrating defect",
+    "Primary polydipsia"
+   ],
+   "answer": 0,
+   "explanation": "Prolonged hypokalaemia damages the renal tubules and causes nephrogenic diabetes insipidus, producing polyuria, nocturia and thirst.",
+   "whyNot": [
+    "",
+    "There is no pituitary or hypothalamic lesion; the kidney is the problem.",
+    "Glucose is normal.",
+    "Calcium is normal.",
+    "The thirst follows the urine loss; primary polydipsia does not explain a renal concentrating defect."
+   ],
+   "studyRef": {
+    "sectionId": "endo-conn.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 383,
+     "page": 361
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 501,
+     "page": 501
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 29-year-old woman with newly diagnosed primary aldosteronism develops carpopedal spasm. Serum total calcium, phosphate and PTH are normal. Venous bicarbonate is 34 mmol/L.",
+   "leadIn": "What is the most likely explanation for the tetany?",
+   "options": [
+    "Metabolic alkalosis reducing ionised calcium",
+    "Primary hypoparathyroidism",
+    "Vitamin D deficiency",
+    "Hyperkalaemia",
+    "Hypophosphataemia"
+   ],
+   "answer": 0,
+   "explanation": "The metabolic alkalosis lowers the ionised calcium even though total calcium is normal. This is the reason Davidson gives for occasional tetany in primary aldosteronism.",
+   "whyNot": [
+    "",
+    "PTH and total calcium are normal.",
+    "Total calcium and phosphate are normal, which argues against deficiency.",
+    "Potassium is low in primary aldosteronism, not high.",
+    "Phosphate is normal, and low phosphate does not cause tetany."
+   ],
+   "studyRef": {
+    "sectionId": "endo-conn.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 47-year-old man with resistant hypertension on bisoprolol, ramipril and indapamide has K+ 3.2 mmol/L. His aldosterone:renin ratio is raised.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Switch to a calcium antagonist and/or α-blocker, correct potassium, and repeat the ARR after at least 4 weeks",
+    "Proceed to laparoscopic adrenalectomy",
+    "Arrange adrenal vein sampling now",
+    "Start spironolactone and repeat the ARR in one week",
+    "Diagnose primary aldosteronism and start lifelong eplerenone"
+   ],
+   "answer": 0,
+   "explanation": "His drugs distort the ratio: the β-blocker lowers renin (raising the ARR), while the ACE inhibitor and diuretic raise renin. Hypokalaemia also suppresses renin. Davidson advises swapping to drugs with minimal RAS effect, correcting K+ and retesting after ≥4 weeks.",
+   "whyNot": [
+    "",
+    "Surgery needs biochemical confirmation and subtype localisation first.",
+    "Localisation comes only after biochemical confirmation.",
+    "Spironolactone interferes with the ratio and must be stopped before testing (Pocket Medicine: 6 weeks).",
+    "A raised ARR alone does not confirm the diagnosis, especially on interfering drugs."
+   ],
+   "studyRef": {
+    "sectionId": "endo-conn.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 629,
+     "page": 607
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 493,
+     "page": 493
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 3,
+   "stem": "A 58-year-old woman has biochemically confirmed primary aldosteronism and wants surgery if it would help. Adrenal CT shows a 1.8 cm left adrenal nodule and a normal right adrenal.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Adrenal vein sampling for aldosterone and cortisol",
+    "Left laparoscopic adrenalectomy without further tests",
+    "Bilateral adrenalectomy",
+    "Repeat aldosterone:renin ratio",
+    "Trial of dexamethasone suppression of aldosterone"
+   ],
+   "answer": 0,
+   "explanation": "Non-functioning adrenal adenomas are common and tiny APAs can be invisible on CT, so the nodule may be incidental. Adrenal vein sampling (with cortisol to check catheter position) shows which side is secreting before surgery.",
+   "whyNot": [
+    "",
+    "Step-Up advises adrenal vein sampling before surgery, and some centres sample even with a unilateral adenoma, because the nodule could be a non-functioning incidentaloma.",
+    "Bilateral adrenalectomy does not help hyperplasia and is not indicated here.",
+    "The diagnosis is already biochemically confirmed.",
+    "GSH is rare and the issue is lateralisation, not glucocorticoid responsiveness."
+   ],
+   "studyRef": {
+    "sectionId": "endo-conn.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 501,
+     "page": 501
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 232,
+     "page": 232
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 61-year-old man has confirmed primary aldosteronism. Adrenal vein sampling shows equally raised aldosterone from both adrenal glands.",
+   "leadIn": "What is the most appropriate treatment?",
+   "options": [
+    "Spironolactone",
+    "Left unilateral adrenalectomy",
+    "Bilateral adrenalectomy",
+    "Dexamethasone",
+    "Renal artery angioplasty"
+   ],
+   "answer": 0,
+   "explanation": "Bilateral secretion means bilateral adrenal hyperplasia, which is treated medically with an MR antagonist. Surgery does not benefit hypertension due to hyperplasia.",
+   "whyNot": [
+    "",
+    "There is no lateralised source to remove.",
+    "Bilateral adrenalectomy does not improve hyperplasia-related hypertension and would cause adrenal insufficiency.",
+    "Glucocorticoids treat only glucocorticoid-suppressible hyperaldosteronism.",
+    "Angioplasty treats renal artery stenosis, a secondary (high-renin) cause."
+   ],
+   "studyRef": {
+    "sectionId": "endo-conn.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 629,
+     "page": 607
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 502,
+     "page": 502
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 493,
+     "page": 493
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 52-year-old man on spironolactone for bilateral adrenal hyperplasia develops tender breast enlargement. His BP and potassium had been well controlled.",
+   "leadIn": "Which drug is the best replacement?",
+   "options": [
+    "Eplerenone",
+    "Bendroflumethiazide",
+    "Furosemide",
+    "Prednisolone",
+    "Bisoprolol"
+   ],
+   "answer": 0,
+   "explanation": "Gynaecomastia affects up to 20% of men on spironolactone. Eplerenone is a more selective aldosterone antagonist, used when spironolactone is not tolerated, and it keeps control of both BP and potassium.",
+   "whyNot": [
+    "",
+    "A thiazide would worsen hypokalaemia and does not block aldosterone.",
+    "A loop diuretic would worsen potassium loss.",
+    "Glucocorticoids treat only the ACTH-driven familial form.",
+    "A β-blocker does not correct the mineralocorticoid excess or hypokalaemia."
+   ],
+   "studyRef": {
+    "sectionId": "endo-conn.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 629,
+     "page": 607
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 232,
+     "page": 232
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q13",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Causes of hypertension with hypokalaemia",
+   "leadIn": "Match each case below to the best option in the list. An option can fit several cases or none.",
+   "options": [
+    "Aldosterone-producing adenoma",
+    "Bilateral adrenal hyperplasia",
+    "Glucocorticoid-suppressible hyperaldosteronism",
+    "Liquorice ingestion",
+    "Liddle's syndrome",
+    "Ectopic ACTH syndrome",
+    "Renal artery stenosis",
+    "Thiazide diuretic therapy",
+    "Renin-secreting renal tumour",
+    "Essential hypertension"
+   ],
+   "items": [
+    {
+     "stem": "A 27-year-old woman has BP 166/102 mmHg and K+ 2.8 mmol/L. Renin is suppressed and aldosterone markedly raised. CT shows a 1.4 cm right adrenal nodule, and adrenal vein sampling shows aldosterone excess only from the right side.",
+     "answer": 0,
+     "explanation": "Low renin with high aldosterone and right-sided lateralisation means a unilateral aldosterone-producing adenoma (Conn's), typical in a young woman.",
+     "studyRef": {
+      "sectionId": "endo-conn.s3"
+     }
+    },
+    {
+     "stem": "A 63-year-old man has hypertension needing four drugs and K+ 3.3 mmol/L. Renin is low, aldosterone high, and saline infusion fails to suppress aldosterone. CT adrenals is normal, and venous sampling shows symmetrical aldosterone excess.",
+     "answer": 1,
+     "explanation": "Confirmed primary aldosteronism with bilateral secretion in an older man means bilateral (idiopathic) hyperplasia, the commonest cause.",
+     "studyRef": {
+      "sectionId": "endo-conn.s3"
+     }
+    },
+    {
+     "stem": "A 22-year-old man has hypertension and hypokalaemia. His father and aunt developed hypertension in their teens. Renin is low and aldosterone high, and aldosterone falls to normal after dexamethasone.",
+     "answer": 2,
+     "explanation": "Autosomal dominant family history with aldosterone that suppresses with glucocorticoid means a chimeric gene putting aldosterone synthesis under ACTH control.",
+     "studyRef": {
+      "sectionId": "endo-conn.s3"
+     }
+    },
+    {
+     "stem": "A 59-year-old smoker with peripheral vascular disease has worsening hypertension, K+ 3.2 mmol/L, high renin and high aldosterone. He takes no diuretic and has no oedema or heart, liver or kidney disease.",
+     "answer": 6,
+     "explanation": "Two steps: high renin plus high aldosterone means secondary hyperaldosteronism. In a hypertensive arteriopath without diuretics or an oedematous state, the likely driver is renal artery stenosis (poor renal perfusion).",
+     "studyRef": {
+      "sectionId": "endo-conn.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 629,
+     "page": 607
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 64,
+     "page": 64
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q14",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Investigations in suspected primary aldosteronism",
+   "leadIn": "Match each case below to the best option in the list. An option can fit several cases or none.",
+   "options": [
+    "Plasma aldosterone : renin ratio",
+    "Intravenous saline suppression test",
+    "CT of the adrenal glands",
+    "Adrenal vein sampling",
+    "24-hour urinary potassium",
+    "Renal artery imaging (Doppler or CT angiography)",
+    "Plasma metanephrines",
+    "Overnight dexamethasone suppression test",
+    "Arterial blood gas",
+    "No further test needed"
+   ],
+   "items": [
+    {
+     "stem": "A 31-year-old man with no family history of hypertension has BP 160/100 mmHg on two occasions and K+ 3.4 mmol/L. He takes no medication.",
+     "answer": 0,
+     "explanation": "A young hypertensive with low potassium should be screened first with the aldosterone:renin ratio.",
+     "studyRef": {
+      "sectionId": "endo-conn.s5"
+     }
+    },
+    {
+     "stem": "A 48-year-old woman, now on amlodipine and doxazosin with corrected potassium, has a persistently raised ARR with suppressed renin. You need to prove that aldosterone secretion is autonomous.",
+     "answer": 1,
+     "explanation": "A raised ARR is a screen only. Failure of aldosterone to suppress after a saline load confirms autonomous secretion.",
+     "studyRef": {
+      "sectionId": "endo-conn.s5"
+     }
+    },
+    {
+     "stem": "A 54-year-old man has biochemically confirmed primary aldosteronism. The next step is to look for an adenoma before deciding on treatment.",
+     "answer": 2,
+     "explanation": "Once the biochemistry is confirmed, adrenal CT (or MRI) is the initial test to look for an adenoma and to exclude carcinoma.",
+     "studyRef": {
+      "sectionId": "endo-conn.s5"
+     }
+    },
+    {
+     "stem": "A 45-year-old woman has K+ 2.9 mmol/L, no hypertension, and denies vomiting or diuretic use. You want to know whether the potassium is being lost through the kidney or the gut.",
+     "answer": 4,
+     "explanation": "Urinary potassium above about 30 mmol/24 h during hypokalaemia means renal loss; below 20 suggests gut loss.",
+     "studyRef": {
+      "sectionId": "endo-conn.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 384,
+     "page": 362
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 501,
+     "page": 501
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q15",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 57-year-old woman had a laparoscopic left adrenalectomy for an aldosterone-producing adenoma 6 months ago. She had been hypertensive for 15 years. Her potassium is now normal off supplements and renin is no longer suppressed, but clinic BP is 152/94 mmHg.",
+   "leadIn": "What is the most likely explanation for her persistent hypertension?",
+   "options": [
+    "Irreversible vascular damage from long-standing hypertension",
+    "Recurrence of the adenoma in the left adrenal bed",
+    "An undetected contralateral aldosterone-producing adenoma",
+    "Glucocorticoid-suppressible hyperaldosteronism",
+    "Post-operative adrenal insufficiency"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: Is the aldosteronism cured? Normal K+ and a renin that is no longer suppressed say yes. Step 2: Why is BP still high? Davidson notes that surgery cures the biochemistry, but hypertension remains in up to 70%, more so the longer it was present before surgery. This is probably due to irreversible microcirculatory damage. Step 3: Reconcile the sources. Kumar's \"BP falls in 70%\" describes improvement, not necessarily normal BP. She simply needs continued antihypertensive treatment.",
+   "whyNot": [
+    "",
+    "Recurrent aldosterone excess would suppress renin again and cause hypokalaemia.",
+    "Ongoing aldosterone excess from the other side would also keep renin suppressed and potassium low.",
+    "GSH would cause persistent hyperaldosteronism with low renin, which she does not have.",
+    "Adrenal insufficiency causes hypotension, not hypertension, and is unlikely after a unilateral operation."
+   ],
+   "studyRef": {
+    "sectionId": "endo-conn.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 629,
+     "page": 607
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q16",
+   "kind": "emq",
+   "pool": "worked",
+   "difficulty": 3,
+   "theme": "Interpreting renin, aldosterone and potassium",
+   "leadIn": "Match each case below to the best option in the list. An option can fit several cases or none.",
+   "options": [
+    "Primary aldosteronism",
+    "Secondary hyperaldosteronism from cardiac failure",
+    "Secondary hyperaldosteronism from renal artery stenosis",
+    "Liquorice ingestion",
+    "Liddle's syndrome",
+    "Ectopic ACTH syndrome",
+    "Diuretic-induced hypokalaemia",
+    "Self-induced vomiting",
+    "Gitelman's syndrome",
+    "Spurious ARR from β-blocker therapy"
+   ],
+   "items": [
+    {
+     "stem": "A 36-year-old man has BP 150/96 mmHg and K+ 3.1 mmol/L. Renin is low and aldosterone low. He takes no medication and eats no liquorice, but his sister has the same picture, and his hypertension responds to amiloride.",
+     "answer": 4,
+     "explanation": "Step 1: low renin AND low aldosterone means the MR pathway is active without aldosterone. Step 2: no liquorice or drugs, a familial pattern and a response to an epithelial sodium-channel blocker point to Liddle's syndrome (overactive distal sodium channel).",
+     "studyRef": {
+      "sectionId": "endo-conn.s3"
+     }
+    },
+    {
+     "stem": "A 24-year-old woman with a low BMI has K+ 2.7 mmol/L, bicarbonate 34 mmol/L, BP 98/60 mmHg and a urine chloride of 15 mmol/L. Renin and aldosterone are both high.",
+     "answer": 7,
+     "explanation": "Step 1: high renin with high aldosterone is secondary, not primary. Step 2: low BP plus a very low urine chloride suggests chloride loss in vomit, unlike diuretics or tubulopathies, where urine chloride is above 40.",
+     "studyRef": {
+      "sectionId": "endo-conn.s4"
+     }
+    },
+    {
+     "stem": "A 64-year-old man with ischaemic heart disease on atenolol has an aldosterone at the upper limit of normal and a very low renin, giving a raised ARR. After switching to amlodipine for 4 weeks, renin is normal and the ARR is normal.",
+     "answer": 9,
+     "explanation": "Step 1: β-blockers suppress renin, so the ratio rises. Step 2: the abnormality vanished once atenolol was swapped for a calcium antagonist, so the first result was a false positive caused by the drug.",
+     "studyRef": {
+      "sectionId": "endo-conn.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 384,
+     "page": 362
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 492,
+     "page": 492
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 279,
+     "page": 279
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 383,
+     "page": 361
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q17",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "You are reviewing five hypertensive patients in clinic.",
+   "leadIn": "Which patient most warrants screening with an aldosterone:renin ratio?",
+   "options": [
+    "A 33-year-old man with BP 158/100 mmHg and K+ 3.1 mmol/L, taking no medication",
+    "A 72-year-old woman controlled on one drug with K+ 4.4 mmol/L",
+    "A 66-year-old man with K+ 3.3 mmol/L two weeks after starting high-dose furosemide for heart failure",
+    "A 50-year-old woman whose clinic BP is high but home readings are normal",
+    "A 45-year-old man with hypertension and an eGFR of 25 mL/min"
+   ],
+   "answer": 0,
+   "explanation": "Indications to test: hypertension with spontaneous hypokalaemia, young onset, resistant hypertension, or a family history of early-onset hypertension. A young man with unprovoked low potassium fits best.",
+   "whyNot": [
+    "",
+    "Controlled on one drug, older, normokalaemic: low pre-test probability.",
+    "Low K on a loop diuretic in heart failure has an obvious explanation (secondary hyperaldosteronism and diuretic loss).",
+    "This suggests white-coat hypertension, not a secondary cause.",
+    "Renal impairment is a different cause of hypertension and gives no clue to aldosterone excess."
+   ],
+   "studyRef": {
+    "sectionId": "endo-conn.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 628,
+     "page": 606
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 492,
+     "page": 492
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q18",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 3,
+   "stem": "A 46-year-old man has BP 164/100 mmHg and K+ 2.9 mmol/L. Twenty-four-hour urinary potassium is 58 mmol while he is hypokalaemic. Plasma renin is suppressed.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Primary aldosteronism",
+    "Chronic diarrhoea",
+    "Laxative misuse",
+    "Renal artery stenosis",
+    "Loop diuretic therapy"
+   ],
+   "answer": 0,
+   "explanation": "Urinary K+ above 30 mmol/day during hypokalaemia means inappropriate renal loss. A suppressed renin points to primary mineralocorticoid excess rather than other causes of hypokalaemia, in which renin is raised.",
+   "whyNot": [
+    "",
+    "Gut losses make the kidney conserve potassium (urine K+ usually < 20 mmol/24 h).",
+    "Like diarrhoea, this is gut loss with low urinary K+.",
+    "Renal artery stenosis causes renal K+ loss but with HIGH renin.",
+    "Diuretics raise renin, and they are the common cause of hypokalaemic alkalosis in hypertensives."
+   ],
+   "studyRef": {
+    "sectionId": "endo-conn.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 384,
+     "page": 362
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 629,
+     "page": 607
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 532,
+     "page": 510
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q19",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Management of mineralocorticoid excess",
+   "leadIn": "Match each case below to the best option in the list. An option can fit several cases or none.",
+   "options": [
+    "Laparoscopic unilateral adrenalectomy",
+    "Bilateral adrenalectomy",
+    "Spironolactone",
+    "Eplerenone",
+    "Amiloride",
+    "Glucocorticoid therapy",
+    "Stop the offending dietary product",
+    "Percutaneous renal artery angioplasty",
+    "Intravenous potassium chloride with cardiac monitoring",
+    "Adrenal vein sampling"
+   ],
+   "items": [
+    {
+     "stem": "A 35-year-old woman has a right adrenal adenoma with aldosterone excess confirmed by venous sampling to be from the right side only. Her BP and potassium have been normalised over 6 weeks of spironolactone. She is fit for surgery.",
+     "answer": 0,
+     "explanation": "Unilateral APA: after medical preparation, laparoscopic unilateral adrenalectomy cures the biochemistry.",
+     "studyRef": {
+      "sectionId": "endo-conn.s6"
+     }
+    },
+    {
+     "stem": "A 19-year-old man and his mother both have hypertension with low renin and high aldosterone, which normalises after dexamethasone.",
+     "answer": 5,
+     "explanation": "Glucocorticoid-suppressible hyperaldosteronism is ACTH-driven, so glucocorticoid therapy corrects it.",
+     "studyRef": {
+      "sectionId": "endo-conn.s6"
+     }
+    },
+    {
+     "stem": "A 60-year-old man with confirmed bilateral adrenal hyperplasia needs treatment for hypertension and K+ 3.0 mmol/L. He has no side-effects to date.",
+     "answer": 2,
+     "explanation": "Bilateral hyperplasia is treated medically; spironolactone is first line (eplerenone if not tolerated).",
+     "studyRef": {
+      "sectionId": "endo-conn.s6"
+     }
+    },
+    {
+     "stem": "A 42-year-old woman with primary aldosteronism has profound weakness, K+ 1.9 mmol/L and frequent ventricular ectopics on ECG.",
+     "answer": 8,
+     "explanation": "Severe symptomatic hypokalaemia with arrhythmia needs IV potassium (generally ≤ 10 mmol/h; higher concentrations only centrally, with cardiac monitoring) before definitive treatment.",
+     "studyRef": {
+      "sectionId": "endo-conn.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 629,
+     "page": 607
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 384,
+     "page": 362
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 493,
+     "page": 493
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q20",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Mechanisms behind findings in mineralocorticoid excess",
+   "leadIn": "Match each case below to the best option in the list. An option can fit several cases or none.",
+   "options": [
+    "Mineralocorticoid escape from sodium retention",
+    "Nephrogenic diabetes insipidus from hypokalaemia",
+    "Reduced ionised calcium from alkalosis",
+    "Inhibition of 11β-HSD2",
+    "ACTH-driven aldosterone synthase from a chimeric gene",
+    "Renin suppressed by hypokalaemia",
+    "Renin suppressed by β-blockade",
+    "Renin stimulated by diuretics",
+    "Anti-androgenic effect of spironolactone",
+    "Vasopressin release from low effective plasma volume"
+   ],
+   "items": [
+    {
+     "stem": "A man with cirrhosis and ascites on high-dose diuretics has high aldosterone and a serum sodium of 127 mmol/L. A man with an adrenal adenoma has a sodium of 144 mmol/L. Which mechanism explains the low sodium in the first man?",
+     "answer": 9,
+     "explanation": "In secondary hyperaldosteronism the effective plasma volume is low, which releases ADH (and angiotensin II drives thirst), so sodium falls. Primary disease keeps sodium high-normal.",
+     "studyRef": {
+      "sectionId": "endo-conn.s3"
+     }
+    },
+    {
+     "stem": "A 52-year-old man later proven to have an aldosterone-producing adenoma had a normal aldosterone:renin ratio a year earlier, measured while he was taking bendroflumethiazide. Which mechanism best explains the falsely reassuring first result?",
+     "answer": 7,
+     "explanation": "Diuretics stimulate renin secretion, which lowers the ratio and can hide primary aldosteronism (a false negative). Davidson advises stopping interfering drugs for at least 4 weeks before retesting.",
+     "studyRef": {
+      "sectionId": "endo-conn.s5"
+     }
+    },
+    {
+     "stem": "A 37-year-old woman with an aldosterone-producing adenoma has BP 170/105 mmHg but no ankle oedema, and her weight has been stable for months.",
+     "answer": 0,
+     "explanation": "After 1.5–2 L ECF expansion, ANP, GFR and increased distal sodium delivery overwhelm aldosterone's sodium-retaining effect. This is mineralocorticoid escape.",
+     "studyRef": {
+      "sectionId": "endo-conn.s2"
+     }
+    },
+    {
+     "stem": "A 58-year-old man on long-term treatment for bilateral adrenal hyperplasia develops bilateral breast tenderness and enlargement.",
+     "answer": 8,
+     "explanation": "Spironolactone is anti-androgenic and causes gynaecomastia in up to 20% of men; eplerenone avoids this.",
+     "studyRef": {
+      "sectionId": "endo-conn.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 194,
+     "page": 175
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 629,
+     "page": 607
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 198,
+     "page": 179
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q21",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Causes of hypokalaemia",
+   "leadIn": "Match each case below to the best option in the list. An option can fit several cases or none.",
+   "options": [
+    "Aldosterone-producing adenoma",
+    "Bilateral adrenal hyperplasia",
+    "Thiazide diuretic",
+    "Self-induced vomiting",
+    "Chronic diarrhoea",
+    "Liddle's syndrome",
+    "Gitelman's syndrome",
+    "Liquorice ingestion",
+    "Ectopic ACTH syndrome",
+    "Renal artery stenosis"
+   ],
+   "items": [
+    {
+     "stem": "A 68-year-old male smoker with weight loss has a new cough, BP 168/98 mmHg, K+ 2.4 mmol/L. Renin and aldosterone are both low.",
+     "answer": 8,
+     "explanation": "Low renin and low aldosterone with hypertension and very low K+ means MR activation by something other than aldosterone. A smoker with weight loss suggests ectopic ACTH from a small-cell lung carcinoma. The very high cortisol overwhelms renal 11β-HSD2 and activates the MR.",
+     "studyRef": {
+      "sectionId": "endo-conn.s3"
+     }
+    },
+    {
+     "stem": "A 30-year-old woman with normal BP has K+ 2.9 mmol/L. Her 24-hour urinary potassium is 12 mmol. She reports frequent loose stools.",
+     "answer": 4,
+     "explanation": "Low urinary K+ (< 20 mmol/24 h) means the kidney is conserving potassium, so the loss is gastrointestinal.",
+     "studyRef": {
+      "sectionId": "endo-conn.s4"
+     }
+    },
+    {
+     "stem": "A 40-year-old woman has K+ 3.2 mmol/L and BP 162/100 mmHg. Renin is suppressed, and aldosterone is high and fails to suppress with saline. Adrenal CT is normal, and venous sampling shows aldosterone excess only from the left side.",
+     "answer": 0,
+     "explanation": "Two steps: confirmed primary aldosteronism, then lateralisation on venous sampling despite a normal CT. This means a small (< 0.5 cm) unilateral adenoma missed by imaging.",
+     "studyRef": {
+      "sectionId": "endo-conn.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 383,
+     "page": 361
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 384,
+     "page": 362
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q22",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 21-year-old man has BP 162/100 mmHg and K+ 3.2 mmol/L. His father had hypertension diagnosed at 18 years. Renin is suppressed and aldosterone is high. Aldosterone falls into the normal range after a short course of dexamethasone.",
+   "leadIn": "What is the most appropriate long-term treatment?",
+   "options": [
+    "Glucocorticoid therapy",
+    "Unilateral laparoscopic adrenalectomy",
+    "Bilateral adrenalectomy",
+    "Amiloride alone",
+    "Renal artery angioplasty"
+   ],
+   "answer": 0,
+   "explanation": "Glucocorticoid-suppressible hyperaldosteronism is an autosomal dominant chimeric-gene disorder in which ACTH drives aldosterone. Glucocorticoid treatment suppresses ACTH and corrects it (± spironolactone).",
+   "whyNot": [
+    "",
+    "There is no lateralised adenoma; the abnormality is genetic in both adrenals.",
+    "This is unnecessary and would cause lifelong adrenal insufficiency.",
+    "Amiloride may lower BP but does not correct the hyperaldosteronism.",
+    "Renin is suppressed, so this is not renovascular disease."
+   ],
+   "studyRef": {
+    "sectionId": "endo-conn.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 629,
+     "page": 607
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 493,
+     "page": 493
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    }
+   ]
+  },
+  {
+   "id": "endo-conn.q23",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 3,
+   "stem": "Two patients have hypokalaemia and a raised plasma aldosterone. Patient A has hypertension. Patient B has heart failure with peripheral oedema on furosemide.",
+   "leadIn": "Which combination of results most strongly suggests that patient A has PRIMARY rather than secondary hyperaldosteronism?",
+   "options": [
+    "Suppressed renin and serum sodium at the upper end of normal",
+    "High renin and low serum sodium",
+    "High renin and serum sodium at the upper end of normal",
+    "Suppressed renin and low serum sodium with oedema",
+    "Normal renin and urinary potassium below 20 mmol/24 h"
+   ],
+   "answer": 0,
+   "explanation": "Primary disease: renin is suppressed and sodium sits at the upper end of normal. Secondary disease (heart failure, diuretics): renin is high and sodium is often low, because low effective volume releases ADH and stimulates thirst.",
+   "whyNot": [
+    "",
+    "This is the secondary pattern seen in patient B.",
+    "A high renin points to secondary hyperaldosteronism whatever the sodium.",
+    "Oedema and low sodium fit a secondary, oedematous state.",
+    "Low urinary K+ means gut losses, and a normal renin does not fit primary disease."
+   ],
+   "studyRef": {
+    "sectionId": "endo-conn.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 376,
+     "page": 354
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "endo-conn.o1",
+   "sectionId": "endo-conn.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 697,
+    "page": 675,
+    "figure": "Fig. 18.23"
+   },
+   "identify": "Adrenal CT: a well-defined left adrenal nodule (arrow) in a hypertensive, hypokalaemic patient. Think aldosterone-producing adenoma (Conn's), but confirm lateralisation, since incidentalomas are common."
+  },
+  {
+   "id": "endo-conn.o2",
+   "sectionId": "endo-conn.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 697,
+    "page": 675,
+    "figure": "Fig. 18.23"
+   },
+   "identify": "Resected specimen: an aldosterone-producing adrenal adenoma, canary yellow in colour. The yellow colour comes from intracellular lipid."
+  },
+  {
+   "id": "endo-conn.o3",
+   "sectionId": "endo-conn.s2",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 688,
+    "page": 666,
+    "figure": "Fig. 18.18"
+   },
+   "identify": "Adrenal structure/RAAS diagram: zona glomerulosa → aldosterone, driven by renin (JGA) → angiotensin II. In primary aldosteronism this feedback loop is broken, so renin is suppressed."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:32:48.256Z",
+  "contentHash": "62bbe4b444ab9d9b4f3fb00741fc0e70c5d62cea82018abf4224dd808300df8e"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:32:48.265Z",
+  "contentHash": "62bbe4b444ab9d9b4f3fb00741fc0e70c5d62cea82018abf4224dd808300df8e",
+  "checkerVersion": "source-check-v1"
+ }
+}

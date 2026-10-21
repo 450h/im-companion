@@ -1,0 +1,4257 @@
+{
+ "topicId": "cardio-history-exam",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "cardio-history-exam.s1",
+   "title": "Presenting symptoms, functional class and chest pain",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Heart disease produces a short list of symptoms, so screen for each one: **chest pain or discomfort**, **breathlessness** (on exertion, orthopnoea, PND), **ankle swelling**, **palpitations**, **syncope**, **intermittent claudication** and **fatigue**. A close link between symptoms and exertion is the hallmark of cardiac disease.",
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 87,
+       "page": 61
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 476,
+       "page": 454,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1044,
+       "page": 1028,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "NYHA functional classes (breathlessness); CCS uses the same four grades for angina",
+     "columns": [
+      "Class",
+      "What the patient can do"
+     ],
+     "rows": [
+      [
+       "I",
+       "No limitation: ordinary activity causes no symptoms"
+      ],
+      [
+       "II",
+       "Slight limitation: comfortable at rest, ordinary activity brings on symptoms"
+      ],
+      [
+       "III",
+       "Marked limitation: comfortable at rest, but less-than-ordinary activity brings on symptoms"
+      ],
+      [
+       "IV",
+       "Symptoms with any physical activity, and possibly at rest"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 476,
+       "page": 454,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1088,
+       "page": 1072,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 87,
+       "page": 61
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Chest pain: pattern points to the cause",
+     "columns": [
+      "Cause",
+      "Character",
+      "Discriminating clues"
+     ],
+     "rows": [
+      [
+       "Stable angina",
+       "Central tightness or heaviness; may spread to jaw or arms",
+       "Predictably brought on by exertion or emotion; settles with rest or GTN within minutes"
+      ],
+      [
+       "Acute coronary syndrome",
+       "Similar ischaemic pain but more severe",
+       "Starts at rest, lasts longer (over ~30 min favours ACS over stable angina); sweating, nausea, breathlessness, faintness"
+      ],
+      [
+       "Aortic dissection",
+       "Very severe, tearing",
+       "Maximal at the moment of onset, goes through to the back; interscapular pain = descending aorta; hypertension, Marfan, Ehlers–Danlos"
+      ],
+      [
+       "Pericarditis",
+       "Sharp, central, pleuritic",
+       "Worse lying flat, eased by sitting up and leaning forward"
+      ],
+      [
+       "Pleurisy",
+       "Sharp, localised, peripheral",
+       "Worse with deep breath or cough; not exertional"
+      ],
+      [
+       "Oesophageal (reflux, spasm)",
+       "Burning or angina-like",
+       "Worse lying flat or after meals; spasm may ease with nitrates or warm drinks"
+      ],
+      [
+       "Chest wall",
+       "Sharp, small area",
+       "Moves with breathing or shoulder movement; reproduced by pressing on the spot"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 85,
+       "page": 59
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 89,
+       "page": 63
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1036,
+       "page": 1020,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1044,
+       "page": 1028,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 88,
+       "page": 62
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "ESC classification of chest pain (count the features)",
+     "items": [
+      "Feature 1: retrosternal discomfort of typical quality and duration",
+      "Feature 2: provoked by exertion or emotional stress",
+      "Feature 3: relieved by rest and/or GTN",
+      "**All three** = typical angina; **two** = atypical angina; **one or none** = non-cardiac chest pain"
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 88,
+       "page": 62
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Taking the chest pain history",
+     "items": [
+      "Ask about chest **discomfort** rather than pain: angina is often a dull ache or pressure",
+      "Ischaemic pain is usually central and may radiate to the jaw or arms; it very rarely goes below the umbilicus",
+      "The most useful features are **reproducibility, predictability and the link with exertion**",
+      "Note how long the symptom has been present: **recent-onset angina** carries more risk than long-standing stable symptoms",
+      "Pain lasting days without a break is unlikely to be angina or ACS"
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 87,
+       "page": 61
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 88,
+       "page": 62
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 476,
+       "page": 454,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "History features that raise the likelihood of ACS (positive LR)",
+     "columns": [
+      "Feature",
+      "LR+"
+     ],
+     "rows": [
+      [
+       "Radiation to the right arm or shoulder",
+       "4.7"
+      ],
+      [
+       "Radiation to both arms",
+       "4.1"
+      ],
+      [
+       "Previous abnormal exercise test",
+       "3.1"
+      ],
+      [
+       "Linked to exertion",
+       "2.4"
+      ],
+      [
+       "Spread to the left arm",
+       "2.3"
+      ],
+      [
+       "Sweating",
+       "2.0"
+      ],
+      [
+       "Vomiting or nausea",
+       "1.9"
+      ],
+      [
+       "Pressure-like feeling",
+       "1.3"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 89,
+       "page": 63
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "First investigations suggested by the history",
+     "items": [
+      "**Exertional chest pain:** FBC, fasting glucose, lipids, thyroid function and a 12-lead ECG. A normal exercise ECG cannot rule out coronary disease; if suspicion remains, CT coronary angiography. Echo if a murmur is heard",
+      "**Suspected ACS:** a 12-lead ECG is mandatory and, with troponin I or T, is the main triage tool. If the first troponin is normal, repeat it 6–12 hours after symptom onset or admission"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 477,
+       "page": 455,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Radiation to the **right** arm or to both arms raises the likelihood of ACS more than radiation to the left arm.",
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 89,
+       "page": 63
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Prompt relief with sublingual GTN does **not** prove angina: oesophageal spasm also responds and the placebo effect is strong. Angina that now comes with less effort or at rest is unstable, i.e. an ACS.",
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 88,
+       "page": 62
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 10,
+       "page": 10
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Ischaemia may be painless: **diabetic** patients are prone to silent infarcts, and heart-transplant recipients may feel no angina because the heart is denervated.",
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 86,
+       "page": 60
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Angina mimics: reflux can give angina-like pain without heartburn and can coexist with angina; cholecystitis gives RUQ tenderness; herpes zoster pain can come before the rash appears.",
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 89,
+       "page": 63
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 476,
+      "page": 454,
+      "chapter": "Cardiology",
+      "figure": "Fig. 16.16"
+     },
+     "note": "Look at: the hand gestures patients use for ischaemic pain (clenched fist, flat hand) and its usual radiation to jaw and arms"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "talley8",
+      "pdfPage": 88,
+      "page": 62,
+      "figure": "Fig. 4.1"
+     },
+     "note": "Look at: where angina is felt and where it radiates"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.s2",
+   "title": "Breathlessness, oedema, palpitations, syncope and claudication",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Cardiac breathlessness",
+     "items": [
+      "Usually **chronic and exertional**: LV output cannot rise with exercise, so LV end-diastolic and pulmonary venous pressures climb, fluid enters the interstitium and the lungs stiffen",
+      "Sudden onset suggests MI, acute pulmonary oedema or acute mitral regurgitation (e.g. ruptured chorda)",
+      "**Orthopnoea:** breathless lying flat; ask how many pillows the patient needs",
+      "**PND:** wakes from sleep gasping, often with cough and wheeze; sits on the edge of the bed or opens a window; settles over minutes. Sleep blunts awareness, so oedema builds up before waking",
+      "Cheyne–Stokes breathing can occur in severe heart failure"
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 89,
+       "page": 63
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 90,
+       "page": 64
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1044,
+       "page": 1028,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 19,
+       "page": 19
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Heart or lung?",
+     "columns": [
+      "Points to heart",
+      "Points to lung"
+     ],
+     "rows": [
+      [
+       "Orthopnoea and PND",
+       "Cough and wheeze as leading symptoms"
+      ],
+      [
+       "Peripheral oedema",
+       "Pleuritic pain"
+      ],
+      [
+       "Breathlessness tightly linked to exertion",
+       "Haemoptysis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1036,
+       "page": 1020,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 90,
+       "page": 64
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "If there is **no orthopnoea**, LV failure is very unlikely to explain the breathlessness (negative LR 0.047). Orthopnoea is a feature of **left**-sided failure.",
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 90,
+       "page": 64
+      },
+      {
+       "book": "allam25",
+       "pdfPage": 10,
+       "page": 9
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Non-cardiac causes of orthopnoea",
+     "items": [
+      "Massive ascites",
+      "Pregnancy",
+      "Bilateral diaphragm paralysis",
+      "Large pleural effusion",
+      "Severe pneumonia"
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 90,
+       "page": 64
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Ankle swelling",
+     "items": [
+      "Cardiac oedema is **symmetrical, painless, pitting and dependent**",
+      "It builds through the day, is worst in the **evening** and improves overnight; bed-bound patients collect it over the **sacrum**",
+      "Recent weight gain (3 kg or more) may be noticed",
+      "Ask about **calcium-channel blockers**, which cause ankle oedema",
+      "Facial puffiness points to nephrotic syndrome rather than heart failure"
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 90,
+       "page": 64
+      },
+      {
+       "book": "allam25",
+       "pdfPage": 10,
+       "page": 9
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1045,
+       "page": 1029,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Palpitations: description and likely rhythm",
+     "columns": [
+      "What the patient reports",
+      "Likely rhythm"
+     ],
+     "rows": [
+      [
+       "A pause, then a single forceful thump (\"missed beats\")",
+       "Ectopic beats"
+      ],
+      [
+       "Very fast and regular; starts and stops abruptly; ended by vagal manoeuvres; polyuria afterwards",
+       "SVT"
+      ],
+      [
+       "Fast and irregular",
+       "Atrial fibrillation"
+      ],
+      [
+       "Regular, pounding, 90–120/min, builds and settles gradually",
+       "Sinus tachycardia: anxiety or a hyperdynamic state (anaemia, pregnancy, thyrotoxicosis, AR)"
+      ],
+      [
+       "Fast, with syncope, or in a patient with heart failure or old MI",
+       "Ventricular tachycardia"
+      ],
+      [
+       "Slow, heavy beats (often not felt at all)",
+       "Bradycardia"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 91,
+       "page": 65
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 477,
+       "page": 455,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1045,
+       "page": 1029,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Palpitation history and next steps",
+     "items": [
+      "Continuous or in discrete attacks? Regular or irregular? Rate? Abrupt or gradual onset and offset?",
+      "Ask the patient to **tap out** the rhythm",
+      "Triggers (exercise, caffeine, alcohol); associated chest pain, light-headedness, pre-syncope or syncope; known structural heart disease",
+      "Arrhythmias switch on and off suddenly; sinus tachycardia speeds up and slows down gradually",
+      "Record an ECG **during** an episode (ambulatory or patient-activated recorder). Palpitations with pre-syncope or syncope need prompt investigation; most other cases are benign",
+      "Carotid sinus massage can end SVT but risks stroke if there is carotid disease"
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 91,
+       "page": 65
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 477,
+       "page": 455,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 478,
+       "page": 456,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1036,
+       "page": 1020,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Syncope (transient loss of consciousness from cerebral hypoperfusion)",
+     "columns": [
+      "Type",
+      "Clues in the history"
+     ],
+     "rows": [
+      [
+       "Vasovagal (commonest)",
+       "Young; emotional or postural trigger; warning of nausea, sweating, yawning, tinnitus, dizziness; quick recovery lying flat"
+      ],
+      [
+       "Postural or postprandial hypotension",
+       "On standing or after meals; drugs; autonomic neuropathy"
+      ],
+      [
+       "Obstructive",
+       "On **exertion**: aortic stenosis, HCM (also pulmonary stenosis, PE, atrial myxoma)"
+      ],
+      [
+       "Stokes–Adams (complete heart block)",
+       "Sudden collapse with no warning; pale, slow or absent pulse; flushes on recovery"
+      ],
+      [
+       "Other arrhythmias",
+       "No warning; known heart disease; family history of sudden death; sick sinus syndrome alternates fast and slow rhythms"
+      ],
+      [
+       "Epileptic seizure (not syncope)",
+       "Aura, tongue biting, jerking, incontinence, drowsy or confused afterwards"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 92,
+       "page": 66
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 93,
+       "page": 67
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1045,
+       "page": 1029,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1036,
+       "page": 1020,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 114,
+       "page": 88
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Drug causes of syncope",
+     "items": [
+      "**QT prolongation:** flecainide, sotalol, amiodarone, quinidine, domperidone, erythromycin or clarithromycin, haloperidol",
+      "**Bradycardia:** β-blockers, verapamil, diltiazem, digoxin",
+      "**Postural hypotension:** most antihypertensives (especially prazosin and calcium-channel blockers) and anti-Parkinsonian drugs"
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 93,
+       "page": 67
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Claudication and fatigue",
+     "items": [
+      "**Claudication:** calf, thigh or buttock pain after a fairly fixed walking distance, relieved by standing still. Pain at rest means severe ischaemia",
+      "Acute limb ischaemia, the six Ps: pain, pallor, pulselessness, paraesthesia, perishingly cold, paralysis",
+      "**Fatigue** in heart failure reflects poor perfusion, but also think of poor sleep, β-blocker side effects, diuretic-induced electrolyte upset, and infection such as endocarditis"
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 94,
+       "page": 68
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1045,
+       "page": 1029,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Spinal stenosis gives pseudo-claudication that eases only on sitting or bending forward, not by simply standing still.",
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 94,
+       "page": 68
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A prolonged Stokes–Adams attack can cause a fit from cerebral hypoxia and be mislabelled epilepsy. Always get an **eyewitness** account and ask about family sudden death (long QT, Brugada).",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1045,
+       "page": 1029,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1036,
+       "page": 1020,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 93,
+       "page": 67
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 478,
+      "page": 456,
+      "chapter": "Cardiology",
+      "figure": "Fig. 16.17"
+     },
+     "note": "Look at: the palpitation algorithm, which splits by regularity and by discrete attacks over 120/min"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.s3",
+   "title": "Risk factors, past, drug, family and social history",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Coronary risk factors to record",
+     "items": [
+      "**Known coronary disease** (the strongest predictor), then hypercholesterolaemia",
+      "Smoking, recorded in **pack-years**",
+      "Hypertension and diabetes: duration and control",
+      "Family history of premature coronary disease in a **first-degree relative before age 60**",
+      "Chronic kidney disease; rheumatoid or other chronic inflammatory disease",
+      "Obesity, inactivity, male sex, older age, erectile dysfunction",
+      "Cocaine or amphetamine use (an important cause of MI in young people)"
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 87,
+       "page": 61
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 94,
+       "page": 68
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 95,
+       "page": 69
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1036,
+       "page": 1020,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 96,
+       "page": 70
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Lipid numbers in the history",
+     "columns": [
+      "Measure",
+      "Value"
+     ],
+     "rows": [
+      [
+       "Total cholesterol",
+       "Above 5.2 mmol/L is undesirable"
+      ],
+      [
+       "Target with established CAD",
+       "Total cholesterol below 4 mmol/L; LDL 1.8 mmol/L or less"
+      ],
+      [
+       "HDL",
+       "Below 1.0 mmol/L adds risk"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 94,
+       "page": 68
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "After stopping smoking, the risk of **MI** falls to that of a never-smoker in about **2 years**; the risk of developing angina takes about **10 years** to approach non-smoker levels.",
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 95,
+       "page": 69
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "A diabetic with no known coronary disease has roughly the same MI risk as a non-diabetic who has already had an infarct. In CKD, coronary disease is the commonest cause of death on dialysis. Erectile dysfunction is a sensitive marker of vascular disease.",
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 95,
+       "page": 69
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Past and treatment history",
+     "items": [
+      "Previous angioplasty or CABG",
+      "Rheumatic fever clues: childhood \"growing pains\", long bed rest, regular penicillin injections, chorea; it predisposes to **valve disease**",
+      "Dental decay matters in valve disease because of endocarditis risk",
+      "Hypertension: salt, weight, alcohol, exercise, home readings, past and present drugs and side effects, NSAIDs or steroids, kidney symptoms",
+      "Heart failure: fluid restriction (often about 1500 mL/day) and daily weights"
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 96,
+       "page": 70
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Family and social history",
+     "items": [
+      "Early heart disease in relatives suggests a genetic cause such as familial hypercholesterolaemia",
+      "Sudden death in the family suggests HCM, long QT or Brugada syndrome",
+      "Social: capacity to work, stairs and adaptations at home, cardiac rehabilitation, baseline function and level of care"
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 97,
+       "page": 71
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 93,
+       "page": 67
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1036,
+       "page": 1020,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A family history only \"counts\" as a coronary risk factor when a **first-degree** relative was affected **before 60**. A grandparent or uncle, or an MI at 70, does not qualify.",
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 95,
+       "page": 69
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.s4",
+   "title": "General inspection, hands, pulse and blood pressure",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Order of the examination",
+     "items": [
+      "Expose the chest and sit the patient at **45°** (also the position for the JVP)",
+      "General appearance: breathlessness, posture, cyanosis, pallor, Marfanoid build",
+      "Hands → radial pulses → blood pressure → face and mouth → neck (JVP, carotids) → praecordium",
+      "Then lung bases, sacrum, abdomen and legs (oedema, peripheral pulses)"
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 102,
+       "page": 76
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1037,
+       "page": 1021,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 132,
+       "page": 106
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Peripheral signs and what they mean",
+     "columns": [
+      "Sign",
+      "Significance"
+     ],
+     "rows": [
+      [
+       "Clubbing",
+       "Cyanotic congenital heart disease (especially Fallot) or infective endocarditis (about 10% of subacute IE)"
+      ],
+      [
+       "Splinter haemorrhages",
+       "Usually trauma, but endocarditis is an important cause"
+      ],
+      [
+       "Osler's nodes",
+       "Tender red nodules on the finger pulps: endocarditis"
+      ],
+      [
+       "Janeway lesions",
+       "Painless macules on palms or pulps: endocarditis"
+      ],
+      [
+       "Tendon xanthomata",
+       "Type II hyperlipidaemia"
+      ],
+      [
+       "Palmar and tuboeruptive xanthomata",
+       "Type III hyperlipidaemia"
+      ],
+      [
+       "Xanthelasma, arcus",
+       "Can be normal; xanthelasma may go with type II/III; arcus adds some risk"
+      ],
+      [
+       "Malar flush",
+       "Mitral stenosis with pulmonary hypertension"
+      ],
+      [
+       "High-arched palate, long limbs",
+       "Marfan's syndrome"
+      ],
+      [
+       "Mucosal petechiae, poor teeth",
+       "Endocarditis"
+      ],
+      [
+       "Scleral jaundice",
+       "Severe congestive failure or haemolysis from a prosthetic valve"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 106,
+       "page": 80
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 107,
+       "page": 81
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 115,
+       "page": 89
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1037,
+       "page": 1021,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1045,
+       "page": 1029,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Cyanosis",
+     "items": [
+      "Visible once capillary oxygen saturation falls below about **85%**",
+      "**Central:** right-to-left shunt (Fallot, transposition) or acute pulmonary oedema; look at tongue and lips",
+      "**Peripheral:** cold hands and feet from vasoconstriction or stasis (heart failure, shock, cold, Raynaud)",
+      "Left-to-right shunts do not cause central cyanosis"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1046,
+       "page": 1030,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "allam25",
+       "pdfPage": 11,
+       "page": 10
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Rate and rhythm",
+     "items": [
+      "Normal resting rate is usually quoted as 60–100/min; bradycardia below 60, tachycardia above 100",
+      "**AF:** irregularly irregular in time and volume; stays irregular after exercise, whereas ectopic beats often disappear",
+      "**Pulse deficit:** in AF or frequent ectopics the apical rate exceeds the radial rate because short-filled beats are too weak to reach the wrist",
+      "**Sinus arrhythmia:** rate rises on inspiration; normal",
+      "A regular rate of about 150 suggests atrial flutter with 2:1 block; fever adds 15–20 beats/min per °C",
+      "**Radiofemoral delay** (especially in a young hypertensive) suggests coarctation; unequal radial pulses suggest subclavian stenosis or aortic dissection"
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 109,
+       "page": 83
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 111,
+       "page": 85
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1046,
+       "page": 1030,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Pulse character (feel the carotid or brachial)",
+     "columns": [
+      "Character",
+      "Main causes"
+     ],
+     "rows": [
+      [
+       "Slow-rising, plateau, small volume",
+       "Aortic stenosis"
+      ],
+      [
+       "Collapsing (water-hammer), wide pulse pressure",
+       "Aortic regurgitation, PDA, hyperdynamic states (anaemia, sepsis), AV fistula"
+      ],
+      [
+       "Bisferiens (two peaks in systole)",
+       "Mixed aortic stenosis and regurgitation; HCM"
+      ],
+      [
+       "Alternans (alternate strong and weak beats)",
+       "Severe LV failure"
+      ],
+      [
+       "Bigeminus (every sinus beat followed by an ectopic)",
+       "Classically digoxin toxicity"
+      ],
+      [
+       "Dicrotic",
+       "Sepsis, hypovolaemic shock, after aortic valve replacement"
+      ],
+      [
+       "Paradoxus (exaggerated inspiratory fall)",
+       "Tamponade, severe asthma, less often constrictive pericarditis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 116,
+       "page": 90
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1046,
+       "page": 1030,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 465,
+       "page": 443,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "allam25",
+       "pdfPage": 11,
+       "page": 10
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 504,
+       "page": 482,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Measuring blood pressure",
+     "items": [
+      "Standard cuff bladder width is 12.5 cm; a normal cuff on a large arm **overestimates** BP",
+      "Avoid an arm with a dialysis fistula",
+      "Find the palpated systolic first, then auscultate with the arm at heart level, deflating 3–4 mmHg per second",
+      "Systolic = **Korotkoff I**; diastolic = **Korotkoff V** (disappearance). Use phase IV (muffling) in severe AR or when sounds never disappear",
+      "Beware the **auscultatory gap** (phase II silence) being mistaken for diastolic",
+      "Arms may differ by up to 10 mmHg; leg pressure is up to 20 mmHg higher than arm pressure except in coarctation"
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 112,
+       "page": 86
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 113,
+       "page": 87
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1047,
+       "page": 1031,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Pulsus paradoxus** is a misnomer: it is an exaggeration of the normal inspiratory fall in systolic BP, to **more than 10 mmHg**. Think tamponade, severe asthma and constriction; aortic regurgitation is not a cause.",
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 113,
+       "page": 87
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1046,
+       "page": 1030,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "allam25",
+       "pdfPage": 19,
+       "page": 18
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Books define **postural hypotension** differently. Talley uses a fall of over 15 mmHg systolic or 10 diastolic after a minute standing; Kumar uses 20 mmHg systolic. Learn **Davidson's**: a drop of **more than 20 mmHg systolic or 10 mmHg diastolic** on standing from lying. Drugs are the commonest cause.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1331,
+       "page": 1309,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 114,
+       "page": 88
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1045,
+       "page": 1029,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "talley8",
+      "pdfPage": 110,
+      "page": 84,
+      "figure": "Fig. 5.16"
+     },
+     "note": "Look at: bigeminy, trigeminy, couplets, sinus arrhythmia and the irregularly irregular pulse of AF"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1046,
+      "page": 1030,
+      "chapter": "Cardiology",
+      "figure": "Fig. 30.10"
+     },
+     "note": "Look at: slow-rising, collapsing, alternans, bisferiens and dicrotic waveforms against the normal pulse"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "talley8",
+      "pdfPage": 113,
+      "page": 87,
+      "figure": "Fig. 5.19"
+     },
+     "note": "Look at: the Korotkoff phases, with systolic at the first sound and diastolic at disappearance"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.s5",
+   "title": "Neck and praecordium: JVP, apex, heaves and thrills",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Assessing the JVP",
+     "items": [
+      "Use the **internal jugular**: it is in direct continuity with the SVC and right atrium, so its height reflects right atrial pressure",
+      "Patient at **45°**, head supported and turned slightly left; look along sternocleidomastoid",
+      "Measure the vertical height above the **sternal angle**; more than **3 cm** means raised right-heart filling pressure",
+      "High in right heart failure and fluid overload; **low in hypovolaemia**",
+      "If hard to see, firm pressure over the abdomen makes it rise"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 465,
+       "page": 443,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 116,
+       "page": 90
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1047,
+       "page": 1031,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Venous or arterial pulsation?",
+     "columns": [
+      "JVP",
+      "Carotid"
+     ],
+     "rows": [
+      [
+       "Two peaks per cycle (in sinus rhythm)",
+       "One peak"
+      ],
+      [
+       "Falls on inspiration; changes with posture",
+       "Unchanged by breathing or posture"
+      ],
+      [
+       "Rises with abdominal pressure",
+       "No change"
+      ],
+      [
+       "Barely palpable; abolished by light pressure at the root of the neck",
+       "Easily palpable; not occluded by light pressure"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 465,
+       "page": 443,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 116,
+       "page": 90
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "JVP waveform",
+     "columns": [
+      "Component",
+      "Cause"
+     ],
+     "rows": [
+      [
+       "a wave",
+       "Right atrial contraction (just before the carotid pulse)"
+      ],
+      [
+       "c wave",
+       "Tricuspid closure (rarely seen)"
+      ],
+      [
+       "x descent",
+       "Atrial relaxation"
+      ],
+      [
+       "v wave",
+       "Atrial filling against a closed tricuspid valve during ventricular systole"
+      ],
+      [
+       "y descent",
+       "Tricuspid opening and rapid ventricular filling"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 117,
+       "page": 91
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 465,
+       "page": 443,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Abnormal JVP findings",
+     "columns": [
+      "Finding",
+      "Causes"
+     ],
+     "rows": [
+      [
+       "Cannon a waves",
+       "Complete heart block; VT with AV dissociation"
+      ],
+      [
+       "Giant (dominant) a waves",
+       "Pulmonary hypertension, pulmonary stenosis, tricuspid stenosis"
+      ],
+      [
+       "No a wave",
+       "Atrial fibrillation (no atrial contraction)"
+      ],
+      [
+       "Large v waves",
+       "Tricuspid regurgitation (LR+ 10.9)"
+      ],
+      [
+       "Steep y descent",
+       "Constrictive pericarditis, severe TR"
+      ],
+      [
+       "Slow y descent",
+       "Tricuspid stenosis, right atrial myxoma"
+      ],
+      [
+       "Kussmaul's sign (rises on inspiration)",
+       "Constrictive pericarditis, tamponade, RV infarction"
+      ],
+      [
+       "Raised, other causes",
+       "Heart failure, fluid overload, renal salt and water retention, SVC obstruction"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 117,
+       "page": 91
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 118,
+       "page": 92
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1047,
+       "page": 1031,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "allam25",
+       "pdfPage": 25,
+       "page": 24
+      },
+      {
+       "book": "allam25",
+       "pdfPage": 26,
+       "page": 25
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Abdominojugular test:** press firmly over the upper abdomen for 10 seconds. A rise that stays above 4 cm suggests RV failure or a raised left atrial pressure.",
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 117,
+       "page": 91
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Apex beat",
+     "items": [
+      "Davidson: normally in the **5th or 6th intercostal space at the mid-clavicular line**",
+      "Count spaces down from the sternal angle (the 2nd space lies just below it)",
+      "Felt in only about half of adults; may be impalpable with obesity, emphysema, pericardial or pleural effusion",
+      "LV dilatation moves it **down and laterally**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 465,
+       "page": 443,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 119,
+       "page": 93
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1047,
+       "page": 1031,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Apex character",
+     "columns": [
+      "Character",
+      "Cause"
+     ],
+     "rows": [
+      [
+       "Pressure-loaded: discrete, heaving, sustained",
+       "Aortic stenosis, hypertension (LVH)"
+      ],
+      [
+       "Volume-loaded: displaced, thrusting",
+       "Mitral or aortic regurgitation, dilated cardiomyopathy"
+      ],
+      [
+       "Dyskinetic: displaced, uncoordinated",
+       "LV aneurysm or LV dysfunction after anterior MI"
+      ],
+      [
+       "Double impulse",
+       "Hypertrophic cardiomyopathy"
+      ],
+      [
+       "Tapping (palpable S1)",
+       "Mitral stenosis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 465,
+       "page": 443,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 120,
+       "page": 94
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1047,
+       "page": 1031,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Rest of the praecordium",
+     "items": [
+      "**Left parasternal heave** (heel of the hand): RV hypertrophy or severe LA enlargement",
+      "**Palpable P2:** severe pulmonary hypertension",
+      "**Thrills** usually mean a severe valve lesion (e.g. a basal thrill in AS). Feel apical thrills with the patient on the left side, basal thrills sitting forward in full expiration",
+      "**Scars:** median sternotomy = valve surgery or CABG (look for leg vein-harvest scars); a lateral thoracotomy under the breast = old closed mitral valvotomy",
+      "Pacemaker or ICD box below the clavicle; a box eroding through the skin is serious because of infection"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 465,
+       "page": 443,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 120,
+       "page": 94
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 119,
+       "page": 93
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 96,
+       "page": 70
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 121,
+       "page": 95
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Mitral stenosis does not enlarge the LV, so the tapping apex is **not displaced**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1047,
+       "page": 1031,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "allam25",
+       "pdfPage": 17,
+       "page": 16
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 25,
+       "page": 25
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Normal apex position: Talley places it 1 cm medial to the mid-clavicular line in the 5th space; Davidson says the **5th or 6th space at the mid-clavicular line**. Use Davidson's wording in the exam.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 465,
+       "page": 443,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 119,
+       "page": 93
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "talley8",
+      "pdfPage": 103,
+      "page": 77,
+      "figure": "Fig. 5.6"
+     },
+     "note": "Look at: the patient at 45° with the sternal angle, JVP height and mid-right atrium lined up"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "talley8",
+      "pdfPage": 117,
+      "page": 91,
+      "figure": "Fig. 5.24"
+     },
+     "note": "Look at: a, c, x, v and y timed against S1 and S2"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1047,
+      "page": 1031,
+      "chapter": "Cardiology",
+      "figure": "Fig. 30.11"
+     },
+     "note": "Look at: JVP waveforms in TR (giant v), constriction (steep y), pulmonary hypertension (large a) and tricuspid stenosis"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.s6",
+   "title": "Auscultation technique, heart sounds and added sounds",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Technique",
+     "items": [
+      "Areas: **aortic** 2nd right ICS at the sternal edge; **pulmonary** 2nd left ICS; **tricuspid** lower left sternal edge; **mitral** the apex",
+      "**Bell** (lightly) for low-pitched sounds: S3, S4, the mid-diastolic rumble of MS",
+      "**Diaphragm** for high-pitched sounds: S1, S2, systolic murmurs, AR, clicks, opening snap",
+      "Time everything against the **carotid pulse**: S1 comes just before the upstroke; systolic murmurs coincide with it",
+      "Left-sided sounds are louder in expiration, right-sided in inspiration"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 465,
+       "page": 443,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 122,
+       "page": 96
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1048,
+       "page": 1032,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 121,
+       "page": 95
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 125,
+       "page": 99
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Heart sounds",
+     "columns": [
+      "Sound",
+      "Variations and causes"
+     ],
+     "rows": [
+      [
+       "S1 loud",
+       "Mitral stenosis (mobile valve), tachycardia or hyperdynamic circulation, short PR"
+      ],
+      [
+       "S1 soft",
+       "First-degree block, mitral regurgitation, heart failure, LBBB, heavily calcified MS"
+      ],
+      [
+       "A2 loud / soft",
+       "Loud in hypertension; soft in calcific aortic stenosis"
+      ],
+      [
+       "S2 fixed wide split",
+       "Atrial septal defect"
+      ],
+      [
+       "S2 wide but variable split",
+       "Delayed RV emptying: RBBB, pulmonary stenosis"
+      ],
+      [
+       "S2 reversed split (wider in expiration)",
+       "Delayed LV emptying: LBBB, severe AS"
+      ],
+      [
+       "S3 (early diastole, after S2)",
+       "Physiological in the young and in pregnancy; pathological in heart failure and MR"
+      ],
+      [
+       "S4 (late diastole, before S1)",
+       "Stiff ventricle: AS, hypertension, HCM. Never present in AF"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 481,
+       "page": 459,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 123,
+       "page": 97
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 125,
+       "page": 99
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1048,
+       "page": 1032,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 124,
+       "page": 98
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Added sounds",
+     "columns": [
+      "Sound",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Opening snap (high-pitched, early diastole)",
+       "Mitral stenosis; moves closer to S2 as stenosis worsens; lost if the valve calcifies"
+      ],
+      [
+       "Ejection click (early systole)",
+       "Mobile congenital aortic or pulmonary stenosis"
+      ],
+      [
+       "Mid-systolic click",
+       "Mitral valve prolapse"
+      ],
+      [
+       "Pericardial knock",
+       "Constrictive pericarditis"
+      ],
+      [
+       "Metallic clicks",
+       "Mechanical prosthetic valve (replaces S1 for mitral, S2 for aortic)"
+      ],
+      [
+       "Pericardial rub",
+       "Scratching, up to three components, varies with posture and breathing; best sitting forward in expiration"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 481,
+       "page": 459,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 125,
+       "page": 99
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 129,
+       "page": 103
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 27,
+       "page": 27
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 126,
+       "page": 100
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Normal effects of inspiration",
+     "items": [
+      "JVP falls",
+      "Systolic BP falls by up to 10 mmHg",
+      "Heart rate rises",
+      "S2 splits: P2 is delayed and A2 comes slightly earlier"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 469,
+       "page": 447,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "An S3 is the most useful cardiac sign of LV failure, together with a displaced apex. A **new S3 after MI** predicts death (LR+ 8.0).",
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 125,
+       "page": 99
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 133,
+       "page": 107
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Do not call every S3 pathological. Davidson lists S3 as **normal in young people and pregnancy**; it is the S4 that always means disease.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 481,
+       "page": 459,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 24,
+       "page": 24
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1048,
+       "page": 1032,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "In mitral stenosis S1 is **loud**; a soft S1 is the trap answer. The opening snap belongs to MS, not to pulmonary hypertension.",
+     "cites": [
+      {
+       "book": "allam25",
+       "pdfPage": 17,
+       "page": 16
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 481,
+       "page": 459,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "allam25",
+       "pdfPage": 19,
+       "page": 18
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 482,
+      "page": 460,
+      "chapter": "Cardiology",
+      "figure": "Fig. 16.22"
+     },
+     "note": "Look at: the cardiac cycle with S1–S4, clicks and the opening snap lined up against the ECG"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.s7",
+   "title": "Murmurs, dynamic manoeuvres and completing the examination",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Murmurs by timing",
+     "columns": [
+      "Timing",
+      "Causes"
+     ],
+     "rows": [
+      [
+       "Pansystolic (constant, S1 to S2)",
+       "Mitral regurgitation, tricuspid regurgitation, VSD"
+      ],
+      [
+       "Ejection (mid-) systolic, crescendo–decrescendo",
+       "Aortic stenosis or sclerosis, pulmonary stenosis, HCM, ASD flow, innocent flow murmur"
+      ],
+      [
+       "Late systolic",
+       "Mitral valve prolapse, papillary muscle dysfunction"
+      ],
+      [
+       "Early diastolic (soft, blowing, decrescendo)",
+       "Aortic or pulmonary regurgitation"
+      ],
+      [
+       "Mid-diastolic (low rumble)",
+       "Mitral stenosis, tricuspid stenosis, increased flow, Austin Flint (AR)"
+      ],
+      [
+       "Continuous",
+       "PDA, AV fistula, venous hum"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 482,
+       "page": 460,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 128,
+       "page": 102
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 26,
+       "page": 26
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Murmur intensity (Davidson)",
+     "columns": [
+      "Grade",
+      "Description"
+     ],
+     "rows": [
+      [
+       "1",
+       "Very soft; heard only in ideal conditions"
+      ],
+      [
+       "2",
+       "Soft"
+      ],
+      [
+       "3",
+       "Moderate; no thrill"
+      ],
+      [
+       "4",
+       "Loud, with a thrill"
+      ],
+      [
+       "5",
+       "Very loud"
+      ],
+      [
+       "6",
+       "Audible without the stethoscope on the chest"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 481,
+       "page": 459,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 129,
+       "page": 103
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 25,
+       "page": 25
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Describing a murmur (SCRIPT)",
+     "items": [
+      "**S**ite where loudest; **C**haracter (blowing, rasping, rumbling); **R**adiation (AS to the carotids, MR to the axilla)",
+      "**I**ntensity (grade); **P**itch; **T**iming in the cycle",
+      "Radiation only happens with a high-velocity jet"
+     ],
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 24,
+       "page": 24
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 481,
+       "page": 459,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Classic murmurs",
+     "columns": [
+      "Lesion",
+      "Murmur",
+      "Associated signs"
+     ],
+     "rows": [
+      [
+       "Aortic stenosis",
+       "Ejection systolic, rasping, base → carotids",
+       "Slow-rising pulse, narrow pulse pressure, soft A2, basal thrill, heaving apex"
+      ],
+      [
+       "Mitral regurgitation",
+       "Pansystolic, blowing, apex → axilla",
+       "Soft S1, S3, displaced thrusting apex"
+      ],
+      [
+       "VSD",
+       "Pansystolic, harsh, lower left sternal edge",
+       "Often a thrill"
+      ],
+      [
+       "Aortic regurgitation",
+       "Soft early diastolic at left sternal edge, sitting forward in held expiration",
+       "Collapsing pulse, wide pulse pressure; Austin Flint rumble at the apex"
+      ],
+      [
+       "Mitral stenosis",
+       "Low mid-diastolic rumble at the apex, bell, left lateral",
+       "Loud S1, opening snap, tapping apex, malar flush"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 482,
+       "page": 460,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 25,
+       "page": 25
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 26,
+       "page": 26
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 465,
+       "page": 443,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Dynamic manoeuvres",
+     "columns": [
+      "Manoeuvre",
+      "Effect"
+     ],
+     "rows": [
+      [
+       "Inspiration",
+       "Right-sided murmurs louder"
+      ],
+      [
+       "Valsalva strain",
+       "HCM louder; AS and MR softer"
+      ],
+      [
+       "Squatting",
+       "HCM softer; AS and MR louder"
+      ],
+      [
+       "Sustained handgrip",
+       "MR and VSD louder; HCM softer"
+      ],
+      [
+       "Left lateral position, bell at apex",
+       "Brings out mitral stenosis"
+      ],
+      [
+       "Sitting forward, held expiration",
+       "Brings out AR and a pericardial rub"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 130,
+       "page": 104
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1048,
+       "page": 1032,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 465,
+       "page": 443,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 129,
+       "page": 103
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Innocent murmur:** soft, mid-systolic, at the left sternal edge, no radiation, and the rest of the heart is normal. Benign murmurs are **never diastolic**. A systolic murmur that radiates or has a thrill is almost always pathological (a systolic thrill has LR+ 12).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 481,
+       "page": 459,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 126,
+       "page": 100
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 128,
+       "page": 102
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Davidson says MR, TR and VSD are the **only** causes of a pansystolic murmur (Talley adds rare aortopulmonary shunts). Kumar allows a grade 4 murmur without a thrill; Davidson ties grade 4 to a thrill. Follow Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 482,
+       "page": 460,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 481,
+       "page": 459,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 128,
+       "page": 102
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1048,
+       "page": 1032,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Completing the examination",
+     "items": [
+      "Lung bases: crackles, effusion",
+      "Sacral and ankle oedema; peripheral pulses",
+      "Abdomen: tender hepatomegaly (pulsatile in TR), ascites, splenomegaly (endocarditis), expansile aorta (AAA)",
+      "Heart failure signs to collect: tachycardia, raised JVP, displaced apex, S3/S4, bibasal crackles, effusion, oedema, ascites, tender liver",
+      "In hypertension add radiofemoral delay, BP in both arms (over 10 mmHg difference suggests vascular disease), postural BP, fundi, renal bruits and urine for blood"
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 132,
+       "page": 106
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 133,
+       "page": 107
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1088,
+       "page": 1072,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1037,
+       "page": 1021,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A carotid bruit is a poor predictor of significant stenosis, and the AS murmur always carries to the neck. A venous hum vanishes with light pressure over the neck.",
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 132,
+       "page": 106
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 482,
+      "page": 460,
+      "chapter": "Cardiology",
+      "figure": "Fig. 16.23"
+     },
+     "note": "Look at: pansystolic, ejection systolic, late systolic, early diastolic and mid-diastolic murmur shapes"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "talley8",
+      "pdfPage": 127,
+      "page": 101,
+      "figure": "Fig. 5.35"
+     },
+     "note": "Look at: where each murmur is loudest and where it radiates"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1048,
+      "page": 1032,
+      "chapter": "Cardiology",
+      "figure": "Fig. 30.12"
+     },
+     "note": "Look at: the four auscultation areas on the chest wall"
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "cardio-history-exam.c1",
+   "sectionId": "cardio-history-exam.s1",
+   "front": "ESC chest pain classification: how many features make \"typical angina\"?",
+   "back": "All three: typical retrosternal discomfort, provoked by exertion or emotion, relieved by rest or GTN. Two = atypical; one or none = non-cardiac.",
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 88,
+     "page": 62
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.c2",
+   "sectionId": "cardio-history-exam.s1",
+   "front": "NYHA class III?",
+   "back": "Comfortable at rest, but less-than-ordinary activity causes symptoms (marked limitation).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 476,
+     "page": 454,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1088,
+     "page": 1072,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.c3",
+   "sectionId": "cardio-history-exam.s1",
+   "front": "Chest pain: tearing, maximal at onset, through to the back?",
+   "back": "Aortic dissection (interscapular pain = descending aorta).",
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 89,
+     "page": 63
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1044,
+     "page": 1028,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.c4",
+   "sectionId": "cardio-history-exam.s1",
+   "front": "Which radiation of chest pain has the highest LR+ for ACS?",
+   "back": "Right arm or shoulder (LR+ 4.7).",
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 89,
+     "page": 63
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.c5",
+   "sectionId": "cardio-history-exam.s2",
+   "front": "Negative LR of absent orthopnoea for LV failure?",
+   "back": "0.047: no orthopnoea makes LVF very unlikely.",
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 90,
+     "page": 64
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.c6",
+   "sectionId": "cardio-history-exam.s2",
+   "front": "Palpitations ended by Valsalva, with polyuria afterwards?",
+   "back": "SVT.",
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 91,
+     "page": 65
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 477,
+     "page": 455,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.c7",
+   "sectionId": "cardio-history-exam.s2",
+   "front": "Sudden collapse without warning, pale, then flushing on recovery?",
+   "back": "Stokes–Adams attack (complete heart block).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1045,
+     "page": 1029,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 93,
+     "page": 67
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.c8",
+   "sectionId": "cardio-history-exam.s3",
+   "front": "Family history of CAD: which relatives and age count?",
+   "back": "First-degree relative affected before age 60.",
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 95,
+     "page": 69
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.c9",
+   "sectionId": "cardio-history-exam.s3",
+   "front": "After quitting smoking, when does MI risk match a never-smoker?",
+   "back": "About 2 years (angina risk about 10 years).",
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 95,
+     "page": 69
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.c10",
+   "sectionId": "cardio-history-exam.s4",
+   "front": "Postural hypotension (Davidson)?",
+   "back": "Fall of more than 20 mmHg systolic or 10 mmHg diastolic on standing from lying.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1331,
+     "page": 1309,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.c11",
+   "sectionId": "cardio-history-exam.s4",
+   "front": "Pulsus paradoxus threshold and causes?",
+   "back": "Inspiratory systolic fall over 10 mmHg: tamponade, severe asthma, constrictive pericarditis.",
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 113,
+     "page": 87
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1046,
+     "page": 1030,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.c12",
+   "sectionId": "cardio-history-exam.s4",
+   "front": "Bisferiens pulse?",
+   "back": "Mixed aortic stenosis and regurgitation, or HCM.",
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 116,
+     "page": 90
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1046,
+     "page": 1030,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.c13",
+   "sectionId": "cardio-history-exam.s5",
+   "front": "Cannon a waves?",
+   "back": "Complete heart block, or VT with AV dissociation.",
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 118,
+     "page": 92
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1047,
+     "page": 1031,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.c14",
+   "sectionId": "cardio-history-exam.s5",
+   "front": "Normal apex position (Davidson)?",
+   "back": "5th or 6th intercostal space, mid-clavicular line.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 465,
+     "page": 443,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.c15",
+   "sectionId": "cardio-history-exam.s5",
+   "front": "Tapping apex beat?",
+   "back": "Palpable S1 of mitral stenosis.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 465,
+     "page": 443,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1047,
+     "page": 1031,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.c16",
+   "sectionId": "cardio-history-exam.s6",
+   "front": "Fixed wide splitting of S2?",
+   "back": "Atrial septal defect.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 481,
+     "page": 459,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 123,
+     "page": 97
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.c17",
+   "sectionId": "cardio-history-exam.s6",
+   "front": "Which added sound is never heard in AF?",
+   "back": "S4 (needs atrial contraction).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 481,
+     "page": 459,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 125,
+     "page": 99
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.c18",
+   "sectionId": "cardio-history-exam.s7",
+   "front": "Only causes of a pansystolic murmur (Davidson)?",
+   "back": "Mitral regurgitation, tricuspid regurgitation, VSD.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 482,
+     "page": 460,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.c19",
+   "sectionId": "cardio-history-exam.s7",
+   "front": "HCM murmur with Valsalva and squatting?",
+   "back": "Louder with Valsalva strain, softer on squatting (opposite to AS and MR).",
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 130,
+     "page": 104
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.c20",
+   "sectionId": "cardio-history-exam.s7",
+   "front": "Murmur grade 4 (Davidson)?",
+   "back": "Loud, with a palpable thrill.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 481,
+     "page": 459,
+     "chapter": "Cardiology"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "cardio-history-exam.q1",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Causes of chest pain",
+   "leadIn": "Pick the best match from the list for each case below. Any option can serve several cases, or none at all.",
+   "options": [
+    "Stable angina",
+    "Unstable angina",
+    "Acute myocardial infarction",
+    "Aortic dissection",
+    "Acute pericarditis",
+    "Pulmonary embolism",
+    "Gastro-oesophageal reflux",
+    "Oesophageal spasm",
+    "Costochondritis",
+    "Herpes zoster",
+    "Pleurisy"
+   ],
+   "items": [
+    {
+     "stem": "A 57-year-old man with poorly controlled hypertension develops sudden, extremely severe pain between his shoulder blades while lifting a box. He says it felt as if something ripped, and it was at its worst the instant it started.",
+     "answer": 3,
+     "explanation": "Pain that is **maximal at onset**, described as tearing and felt **between the scapulae** points to dissection of the descending aorta; hypertension is the risk factor.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s1"
+     }
+    },
+    {
+     "stem": "A 64-year-old woman has had chest tightness when walking uphill for two months, easing after a few minutes of rest. Yesterday the same tightness came on while she sat watching television and lasted 15 minutes. ECG and two troponin measurements 8 hours apart are normal.",
+     "answer": 1,
+     "explanation": "Step 1: the pattern has changed from exertional to **rest pain**, which is unstable. Step 2: normal serial troponins separate unstable angina from infarction.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s1"
+     }
+    },
+    {
+     "stem": "A 31-year-old man had a flu-like illness last week. Now he has sharp central chest pain that is worse when he lies back and on deep breathing, and better when he sits up and leans forward.",
+     "answer": 4,
+     "explanation": "Sharp, pleuritic central pain that is **worse lying flat and eased by leaning forward** after a viral illness is pericarditis.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 89,
+     "page": 63
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1044,
+     "page": 1028,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 88,
+     "page": 62
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 477,
+     "page": 455,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 52-year-old woman describes a retrosternal pressure lasting about five minutes. It comes on when she climbs stairs or argues with her son. It does not settle with rest, and a GTN spray prescribed by her GP has never helped.",
+   "leadIn": "Using the ESC three-feature classification, how is her pain best classed?",
+   "options": [
+    "Typical angina",
+    "Atypical angina",
+    "Non-cardiac chest pain",
+    "Unstable angina",
+    "Acute myocardial infarction"
+   ],
+   "answer": 1,
+   "explanation": "Count the features: typical retrosternal discomfort (yes), provoked by exertion or emotion (yes), relieved by rest or GTN (**no**). Two of three features = **atypical angina**.",
+   "whyNot": [
+    "Typical angina needs all three features, including relief by rest or GTN.",
+    "",
+    "Non-cardiac pain has one feature or none; she has two.",
+    "Unstable angina is a change in pattern (rest pain, less effort); this pain is still exertional.",
+    "Brief, exertion-provoked episodes of five minutes are not the prolonged rest pain of infarction."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s1"
+   },
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 88,
+     "page": 62
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q3",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Causes of transient loss of consciousness",
+   "leadIn": "Pick the best match from the list for each case below. Any option can serve several cases, or none at all.",
+   "options": [
+    "Vasovagal syncope",
+    "Drug-induced postural hypotension",
+    "Complete heart block (Stokes–Adams attack)",
+    "Aortic stenosis",
+    "Hypertrophic cardiomyopathy",
+    "Drug-induced QT prolongation",
+    "Epileptic seizure",
+    "Sick sinus syndrome",
+    "Supraventricular tachycardia"
+   ],
+   "items": [
+    {
+     "stem": "A 19-year-old student faints while giving blood. Just before, she felt hot, sick and sweaty and kept yawning. She came round within a minute of being laid flat.",
+     "answer": 0,
+     "explanation": "A young patient, an emotional trigger, a **prodrome** of nausea, sweating and yawning, and quick recovery lying flat: vasovagal.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s2"
+     }
+    },
+    {
+     "stem": "A 79-year-old man slumps in his chair mid-sentence with no warning. His wife says he went grey and she could not feel a pulse. Within half a minute he came round and his face flushed bright red.",
+     "answer": 2,
+     "explanation": "No warning, pallor with an absent pulse, then **flushing on recovery** is the classic Stokes–Adams attack from complete heart block.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s2"
+     }
+    },
+    {
+     "stem": "A 73-year-old man collapses while walking briskly up a hill. He has had tightness in his chest on exertion for some months. His carotid pulse rises slowly and is of small volume.",
+     "answer": 3,
+     "explanation": "Step 1: **exertional** syncope means an obstructive cause (AS or HCM). Step 2: a **slow-rising, small-volume** pulse identifies aortic stenosis.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1045,
+     "page": 1029,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 92,
+     "page": 66
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 93,
+     "page": 67
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 116,
+     "page": 90
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 26-year-old woman has episodes of a very fast, regular heartbeat. Each one starts suddenly with a \"flip\" and stops just as suddenly, sometimes when she holds her breath and strains. Afterwards she passes large amounts of urine.",
+   "leadIn": "Which rhythm is most likely?",
+   "options": [
+    "Atrial fibrillation",
+    "Sinus tachycardia from anxiety",
+    "Supraventricular tachycardia",
+    "Ventricular ectopic beats",
+    "Ventricular tachycardia"
+   ],
+   "answer": 2,
+   "explanation": "Fast, **regular**, abrupt on and off, stopped by a vagal manoeuvre (Valsalva), with **polyuria** afterwards: SVT.",
+   "whyNot": [
+    "AF feels fast and irregular, and is not reliably ended by Valsalva.",
+    "Sinus tachycardia builds up and settles gradually rather than switching on and off.",
+    "",
+    "Ectopics feel like a pause then a single thump, not sustained racing.",
+    "VT is suggested by syncope or known structural heart disease; a well young woman ending attacks with Valsalva fits SVT."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s2"
+   },
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 91,
+     "page": 65
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 477,
+     "page": 455,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 61-year-old woman has a murmur. She remembers months of bed rest as a child because of painful, swollen joints, and monthly penicillin injections throughout her teens.",
+   "leadIn": "This history mainly raises the likelihood of which condition?",
+   "options": [
+    "Valvular heart disease",
+    "Hypertrophic cardiomyopathy",
+    "Coarctation of the aorta",
+    "Familial hypercholesterolaemia",
+    "Brugada syndrome"
+   ],
+   "answer": 0,
+   "explanation": "Long childhood bed rest, joint pains and **regular penicillin prophylaxis** are clues to past **rheumatic fever**, which leads to valve disease.",
+   "whyNot": [
+    "",
+    "HCM is genetic; the clue is a family history of sudden death, not childhood rheumatic illness.",
+    "Coarctation is congenital and suggested by radiofemoral delay and hypertension.",
+    "FH is suggested by early coronary disease in relatives and xanthomata.",
+    "Brugada is suggested by a family history of sudden death."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s3"
+   },
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 96,
+     "page": 70
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 97,
+     "page": 71
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 109,
+     "page": 83
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 45-year-old man attends for a cardiovascular risk review. He gives several details about his relatives.",
+   "leadIn": "Which detail counts as a significant family history of coronary disease?",
+   "options": [
+    "Father had a myocardial infarction at 55",
+    "Paternal grandfather had a myocardial infarction at 50",
+    "Mother was diagnosed with angina at 72",
+    "Uncle needed coronary bypass surgery at 48",
+    "Older brother had a myocardial infarction at 64"
+   ],
+   "answer": 0,
+   "explanation": "The history counts when a **first-degree** relative was affected **before 60**. Only his father meets both conditions.",
+   "whyNot": [
+    "",
+    "A grandparent is not a first-degree relative.",
+    "First-degree, but affected well after 60.",
+    "An uncle is not a first-degree relative.",
+    "First-degree, but affected after 60."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s3"
+   },
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 95,
+     "page": 69
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q7",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Arterial pulse findings",
+   "leadIn": "Pick the best match from the list for each case below. Any option can serve several cases, or none at all.",
+   "options": [
+    "Slow-rising pulse",
+    "Collapsing pulse",
+    "Pulsus bisferiens",
+    "Pulsus alternans",
+    "Pulsus paradoxus",
+    "Pulsus bigeminus",
+    "Dicrotic pulse",
+    "Irregularly irregular pulse",
+    "Radiofemoral delay"
+   ],
+   "items": [
+    {
+     "stem": "A 24-year-old man has a soft, blowing murmur straight after S2, heard best along the left sternal border with him sitting forward and breath held out. Which pulse finding would you expect when you lift his arm above his head?",
+     "answer": 1,
+     "explanation": "That diastolic murmur is **aortic regurgitation**; a large stroke volume with diastolic run-off gives a collapsing (water-hammer) pulse.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s4"
+     }
+    },
+    {
+     "stem": "An 81-year-old woman with heart failure has nausea after her digoxin dose was increased. Each normal beat is followed closely by an early, weaker beat.",
+     "answer": 5,
+     "explanation": "An ectopic after every sinus beat is bigeminus, classically from **digoxin toxicity**.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s4"
+     }
+    },
+    {
+     "stem": "A 50-year-old woman with lung cancer becomes breathless and hypotensive. Her JVP is very high and her heart sounds are quiet. Which pulse sign would you look for?",
+     "answer": 4,
+     "explanation": "Step 1: hypotension, raised JVP and quiet heart sounds suggest **tamponade**. Step 2: tamponade exaggerates the inspiratory fall in systolic BP (over 10 mmHg), i.e. pulsus paradoxus.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1046,
+     "page": 1030,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 116,
+     "page": 90
+    },
+    {
+     "book": "allam25",
+     "pdfPage": 11,
+     "page": 10
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 504,
+     "page": 482,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1048,
+     "page": 1032,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 3,
+   "stem": "A 77-year-old man on doxazosin reports dizziness when he gets up. His lying blood pressure is 150/84 mmHg. Five readings taken at different times after he stands are listed.",
+   "leadIn": "Which standing reading meets Davidson's definition of postural hypotension?",
+   "options": [
+    "138/80 mmHg",
+    "134/82 mmHg",
+    "128/80 mmHg",
+    "146/78 mmHg",
+    "140/76 mmHg"
+   ],
+   "answer": 2,
+   "explanation": "Davidson's definition is a fall of **more than 20 mmHg systolic or more than 10 mmHg diastolic**. 150 → 128 is a 22 mmHg systolic fall.",
+   "whyNot": [
+    "Falls of 12 systolic and 4 diastolic are below both cut-offs.",
+    "A 16 mmHg systolic fall meets Talley's 15 mmHg threshold but not Davidson's 20 mmHg.",
+    "",
+    "Falls of 4 and 6 mmHg are trivial.",
+    "Falls of 10 systolic and 8 diastolic do not exceed either cut-off."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1331,
+     "page": 1309,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 114,
+     "page": 88
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q9",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Jugular venous pressure and waveform",
+   "leadIn": "Pick the best match from the list for each case below. Any option can serve several cases, or none at all.",
+   "options": [
+    "Cannon a waves",
+    "Giant (dominant) a waves",
+    "Absent a waves",
+    "Large v waves",
+    "Steep y descent with a high JVP",
+    "Slow y descent",
+    "Kussmaul's sign",
+    "Positive abdominojugular test",
+    "Low (non-visible) JVP",
+    "Normal JVP"
+   ],
+   "items": [
+    {
+     "stem": "A 38-year-old man who injects drugs has fever and a pansystolic murmur at the lower left sternal edge that gets louder on inspiration. His liver is enlarged and pulsatile. Which JVP feature would you expect to see rising with each ventricular systole?",
+     "answer": 3,
+     "explanation": "Step 1: a right-sided pansystolic murmur with a **pulsatile liver** is tricuspid regurgitation. Step 2: TR produces giant **v waves** in the JVP.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s5"
+     }
+    },
+    {
+     "stem": "A 59-year-old man has had three days of profuse vomiting and diarrhoea. His blood pressure is 92/60 mmHg and his mouth is dry.",
+     "answer": 8,
+     "explanation": "Hypovolaemia lowers right atrial pressure, so the JVP is **low** and often not visible at 45°.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s5"
+     }
+    },
+    {
+     "stem": "A 55-year-old man had tuberculous pericarditis two years ago. He now has ascites and ankle oedema. You watch his neck while he breathes in deeply. What happens to his JVP during inspiration?",
+     "answer": 6,
+     "explanation": "Constrictive pericarditis stops the right heart filling more on inspiration, so the JVP **rises** on inspiration (Kussmaul's sign) instead of falling.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 117,
+     "page": 91
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 118,
+     "page": 92
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1047,
+     "page": 1031,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 465,
+     "page": 443,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 132,
+     "page": 106
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 63-year-old man has had hypertension for 20 years. His ECG shows left ventricular hypertrophy.",
+   "leadIn": "Which apex beat would you expect?",
+   "options": [
+    "Undisplaced, discrete and heaving",
+    "Displaced and thrusting",
+    "Tapping",
+    "Double impulse",
+    "Displaced and dyskinetic"
+   ],
+   "answer": 0,
+   "explanation": "Hypertension is a **pressure load**: the LV thickens rather than dilates, giving a discrete, sustained, heaving apex that is not displaced.",
+   "whyNot": [
+    "",
+    "A displaced thrusting apex is volume overload (MR, AR, dilated cardiomyopathy).",
+    "A tapping apex is the palpable S1 of mitral stenosis.",
+    "A double impulse suggests HCM.",
+    "Dyskinesia follows anterior MI or LV aneurysm."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 465,
+     "page": 443,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 120,
+     "page": 94
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q11",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Heart sounds",
+   "leadIn": "Pick the best match from the list for each case below. Any option can serve several cases, or none at all.",
+   "options": [
+    "Loud S1",
+    "Soft S1",
+    "Fixed wide splitting of S2",
+    "Reversed splitting of S2",
+    "Wide but variable splitting of S2",
+    "Physiological third heart sound",
+    "Pathological third heart sound",
+    "Fourth heart sound",
+    "Opening snap",
+    "Mid-systolic click",
+    "Ejection click"
+   ],
+   "items": [
+    {
+     "stem": "A healthy 27-year-old woman is 32 weeks pregnant. A low-pitched extra sound is heard just after S2. There is no murmur, her JVP is normal and she is not breathless.",
+     "answer": 5,
+     "explanation": "S3 is common in the **young and in pregnancy**. With no heart failure signs, it is physiological.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s6"
+     }
+    },
+    {
+     "stem": "A 34-year-old woman has a secundum atrial septal defect on echocardiography. What happens to her second heart sound?",
+     "answer": 2,
+     "explanation": "An ASD gives **fixed wide splitting** of S2 that does not change with breathing.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s6"
+     }
+    },
+    {
+     "stem": "A 71-year-old man's ECG shows left bundle branch block. The two parts of S2 move apart when he breathes out.",
+     "answer": 3,
+     "explanation": "LBBB delays LV emptying, so A2 comes after P2 and the split widens in expiration: **reversed splitting**.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 481,
+     "page": 459,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 123,
+     "page": 97
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 125,
+     "page": 99
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 74-year-old woman with long-standing hypertension has been in permanent atrial fibrillation for two years.",
+   "leadIn": "Which auscultatory finding cannot be present?",
+   "options": [
+    "Third heart sound",
+    "Fourth heart sound",
+    "Pansystolic murmur",
+    "Opening snap",
+    "Early diastolic murmur"
+   ],
+   "answer": 1,
+   "explanation": "S4 is produced by atrial contraction into a stiff ventricle. In AF there is **no coordinated atrial contraction**, so S4 is absent.",
+   "whyNot": [
+    "S3 comes from rapid early ventricular filling and can occur in AF.",
+    "",
+    "MR or TR murmurs do not depend on atrial contraction.",
+    "An opening snap of MS can be heard in AF, which often accompanies MS.",
+    "AR murmurs do not depend on atrial contraction."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 481,
+     "page": 459,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 125,
+     "page": 99
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 25,
+     "page": 25
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q13",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Cardiac murmurs",
+   "leadIn": "Pick the best match from the list for each case below. Any option can serve several cases, or none at all.",
+   "options": [
+    "Calcific aortic valve stenosis",
+    "Aortic valve regurgitation",
+    "Rheumatic mitral stenosis",
+    "Mitral valve regurgitation",
+    "Atrial septal defect",
+    "Hypertrophic cardiomyopathy",
+    "Mitral valve prolapse",
+    "Innocent flow murmur",
+    "Coarctation of the aorta",
+    "Pulmonary valve stenosis"
+   ],
+   "items": [
+    {
+     "stem": "A 21-year-old student has a grade 2 mid-systolic murmur at the left sternal edge found at a sports medical. It does not radiate, there is no thrill, and his pulse, heart sounds and apex are normal.",
+     "answer": 7,
+     "explanation": "Soft, mid-systolic, at the left sternal edge, not radiating and with an otherwise **normal heart**: the features of an innocent murmur.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s7"
+     }
+    },
+    {
+     "stem": "A 17-year-old footballer fainted during a match. He has an ejection systolic murmur at the left sternal edge that gets louder when he strains against a closed glottis and softer when he squats.",
+     "answer": 5,
+     "explanation": "Step 1: exertional syncope in a young athlete. Step 2: the murmur **rises with Valsalva and falls with squatting**, the opposite of AS: HCM.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s7"
+     }
+    },
+    {
+     "stem": "A 60-year-old woman who had rheumatic fever as a child has a malar flush. A low-pitched rumble is heard at the apex with the bell when she lies on her left side.",
+     "answer": 2,
+     "explanation": "A mid-diastolic rumble at the apex, heard with the bell in the **left lateral position**, plus a malar flush and rheumatic history: mitral stenosis.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 481,
+     "page": 459,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 482,
+     "page": 460,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 130,
+     "page": 104
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 25,
+     "page": 25
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 93,
+     "page": 67
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 70-year-old woman had an inferior myocardial infarction a week ago. She is now breathless and has a new murmur. It is loudest at the apex, lasts throughout systole up to S2 and radiates to the left axilla.",
+   "leadIn": "Which lesion is most likely?",
+   "options": [
+    "Aortic stenosis",
+    "Mitral regurgitation",
+    "Ventricular septal defect",
+    "Tricuspid regurgitation",
+    "Aortic regurgitation"
+   ],
+   "answer": 1,
+   "explanation": "A pansystolic murmur loudest at the **apex** and radiating to the **axilla** is mitral regurgitation; here from papillary muscle damage after MI.",
+   "whyNot": [
+    "AS is ejection systolic at the base, radiating to the neck.",
+    "",
+    "A VSD murmur is pansystolic but harsh and loudest at the lower left sternal edge, not blowing and apical with axillary radiation.",
+    "TR is pansystolic at the lower left sternal edge, louder on inspiration.",
+    "AR is early diastolic, not pansystolic."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 482,
+     "page": 460,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 481,
+     "page": 459,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 130,
+     "page": 104
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q15",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Palpation of the praecordium",
+   "leadIn": "Pick the best match from the list for each case below. Any option can serve several cases, or none at all.",
+   "options": [
+    "Undisplaced heaving apex",
+    "Displaced thrusting apex",
+    "Tapping apex beat",
+    "Double apical impulse",
+    "Dyskinetic apex",
+    "Left parasternal heave",
+    "Palpable P2",
+    "Systolic thrill at the base",
+    "Impalpable apex beat"
+   ],
+   "items": [
+    {
+     "stem": "A 58-year-old woman has had severe mitral regurgitation for years and is now breathless on exertion.",
+     "answer": 1,
+     "explanation": "Chronic regurgitation is a **volume load**: the LV dilates, so the apex is displaced and thrusting.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s5"
+     }
+    },
+    {
+     "stem": "A 69-year-old man with severe emphysema has a barrel chest. You cannot find his apex in either lateral position.",
+     "answer": 8,
+     "explanation": "Hyperinflated lungs lie between the heart and the chest wall, so the apex is often **impalpable** in emphysema.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s5"
+     }
+    },
+    {
+     "stem": "A 26-year-old woman's brother died suddenly at 19. She has an ejection systolic murmur that becomes softer when she squats.",
+     "answer": 3,
+     "explanation": "Step 1: sudden family death plus a dynamic outflow murmur suggests **HCM**. Step 2: HCM gives a double apical impulse.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s5"
+     }
+    },
+    {
+     "stem": "A 66-year-old man had a large anterior myocardial infarction 6 months ago and echocardiography shows an LV aneurysm.",
+     "answer": 4,
+     "explanation": "An aneurysmal segment bulges out of step with the rest of the ventricle: a displaced, **dyskinetic** apex.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 465,
+     "page": 443,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 120,
+     "page": 94
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1047,
+     "page": 1031,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 130,
+     "page": 104
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 97,
+     "page": 71
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "You are trying to decide whether a pulsation in the right side of the neck is the JVP or the carotid artery.",
+   "leadIn": "Which feature indicates that it is venous?",
+   "options": [
+    "A single peak with each heartbeat",
+    "Easily felt with the fingers",
+    "It rises when you press firmly on the abdomen",
+    "It is unchanged when the patient sits upright",
+    "It persists despite light pressure at the root of the neck"
+   ],
+   "answer": 2,
+   "explanation": "Abdominal pressure pushes blood towards the right heart and **raises the JVP**. The venous pulse also has two peaks, falls on inspiration, varies with posture, is hard to feel and is abolished by light pressure.",
+   "whyNot": [
+    "A single peak is arterial; the JVP has two peaks in sinus rhythm.",
+    "The JVP is barely palpable; an easily felt pulse is arterial.",
+    "",
+    "The JVP changes with posture; an unchanged pulsation is arterial.",
+    "Light pressure obliterates the venous pulse; persistence suggests the carotid."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 465,
+     "page": 443,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 116,
+     "page": 90
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 70-year-old woman with COPD is increasingly breathless. She sleeps on one pillow, has never woken at night short of breath and has no ankle swelling.",
+   "leadIn": "What does the absence of orthopnoea suggest?",
+   "options": [
+    "Left ventricular failure is very unlikely to explain her breathlessness",
+    "Right ventricular failure is very likely",
+    "Pulmonary oedema is present but mild",
+    "She has pericardial constriction",
+    "Her breathlessness is from anaemia"
+   ],
+   "answer": 0,
+   "explanation": "Orthopnoea reflects redistribution of pulmonary oedema when lying flat. Its **absence** carries a negative LR of 0.047 for LV failure, making LVF very unlikely.",
+   "whyNot": [
+    "",
+    "Orthopnoea is a left-sided feature; its absence says nothing in favour of RV failure.",
+    "Pulmonary oedema typically causes orthopnoea; its absence argues against it.",
+    "Nothing in the history points to constriction.",
+    "The absence of orthopnoea does not identify a cause; it only argues against LVF."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s2"
+   },
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 90,
+     "page": 64
+    },
+    {
+     "book": "allam25",
+     "pdfPage": 10,
+     "page": 9
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q18",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 45-year-old woman is breathless after a viral illness. Her systolic blood pressure falls by 18 mmHg each time she breathes in.",
+   "leadIn": "What is this sign called?",
+   "options": [
+    "Pulsus alternans",
+    "Pulsus paradoxus",
+    "Kussmaul's sign",
+    "Pulsus bisferiens",
+    "Sinus arrhythmia"
+   ],
+   "answer": 1,
+   "explanation": "A normal inspiratory fall in systolic BP is under 10 mmHg. A fall of **more than 10 mmHg** is pulsus paradoxus, here suggesting a pericardial effusion with tamponade.",
+   "whyNot": [
+    "Alternans is beat-to-beat alternation of strong and weak beats in severe LV failure.",
+    "",
+    "Kussmaul's sign is a rise in the JVP on inspiration, not a fall in BP.",
+    "Bisferiens is a double systolic peak in mixed aortic valve disease or HCM.",
+    "Sinus arrhythmia is a normal rise in heart rate on inspiration, not a BP change."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s4"
+   },
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 113,
+     "page": 87
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1046,
+     "page": 1030,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q19",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A systolic murmur at the left sternal edge is loud and accompanied by a thrill you can feel with your palm. It is not audible with the stethoscope lifted off the chest.",
+   "leadIn": "Using Davidson's scale, what grade is this murmur?",
+   "options": [
+    "Grade 2",
+    "Grade 3",
+    "Grade 4",
+    "Grade 5",
+    "Grade 6"
+   ],
+   "answer": 2,
+   "explanation": "Davidson grades a **loud murmur with a thrill** as grade 4. Grade 5 is very loud; grade 6 is heard without the stethoscope on the chest.",
+   "whyNot": [
+    "Grade 2 is soft, with no thrill.",
+    "Grade 3 is moderate, with no thrill.",
+    "",
+    "Grade 5 is very loud; this murmur is only described as loud.",
+    "Grade 6 is audible with the stethoscope off the chest, which this murmur is not."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 481,
+     "page": 459,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q20",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 59-year-old man has had 40 minutes of central chest pressure. You want to know which history feature most raises the likelihood that this is an acute coronary syndrome.",
+   "leadIn": "Which feature has the highest positive likelihood ratio for ACS?",
+   "options": [
+    "Radiation to the right arm or shoulder",
+    "Radiation to the left arm",
+    "Sweating",
+    "A pressure-like quality",
+    "Nausea or vomiting"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: recall the likelihood ratios. Highest is spread to the right arm or shoulder (4.7), then both arms (4.1); the left arm is only 2.3, and sweating, vomiting and a pressing quality are all 2.0 or less. Step 2: the highest LR+ is radiation to the **right** arm. Remember: right or both arms beats the \"classic\" left arm.",
+   "whyNot": [
+    "",
+    "Left-arm radiation (LR+ 2.3) is less discriminating than right-arm radiation.",
+    "Sweating has an LR+ of 2.0.",
+    "A pressure feeling barely shifts the probability (LR+ 1.3).",
+    "Nausea or vomiting has an LR+ of 1.9."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s1"
+   },
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 89,
+     "page": 63
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q21",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 68-year-old woman reports a \"fluttering\" heartbeat. Her radial pulse is irregular in both timing and volume, and it stays irregular after she walks up and down the ward. The apical rate is 132/min but only 104/min can be counted at the wrist.",
+   "leadIn": "What is the most likely rhythm?",
+   "options": [
+    "Atrial fibrillation",
+    "Frequent ventricular ectopic beats",
+    "Sinus arrhythmia",
+    "Atrial flutter with 2:1 block",
+    "Supraventricular tachycardia"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: irregular in **time and volume** = irregularly irregular. Step 2: ectopics usually settle with exercise, but this rhythm **stays irregular** after exertion. Step 3: the **pulse deficit** (apex faster than radial) happens because short-filled beats do not reach the wrist. Together: atrial fibrillation.",
+   "whyNot": [
+    "",
+    "Ectopic beats can cause a pulse deficit, but the irregularity usually vanishes with exercise.",
+    "Sinus arrhythmia is a regular pattern linked to breathing, with no pulse deficit.",
+    "Flutter with 2:1 block is regular at about 150/min.",
+    "SVT is fast and regular."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1046,
+     "page": 1030,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 109,
+     "page": 83
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q22",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 19-year-old man has a blood pressure of 168/96 mmHg in his right arm. When you feel his right radial and right femoral pulses together, the femoral pulse is weaker and arrives later.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Coarctation of the aorta",
+    "Subclavian artery stenosis",
+    "Thoracic aortic dissection",
+    "Aortic stenosis",
+    "Essential hypertension"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: hypertension in a **young** patient should trigger a search for secondary causes. Step 2: a delayed, weak femoral pulse (**radiofemoral delay**) means obstruction distal to the arm arteries. Step 3: that combination is coarctation; leg BP would also be lower instead of the usual 20 mmHg higher.",
+   "whyNot": [
+    "",
+    "Subclavian stenosis causes inequality between the two radial pulses, not radiofemoral delay.",
+    "Dissection presents with severe tearing pain and unequal arm pulses.",
+    "AS gives a slow-rising pulse in all arteries, not a delay between arm and leg.",
+    "Essential hypertension does not delay the femoral pulse, and a young age makes a secondary cause likelier."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s4"
+   },
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 109,
+     "page": 83
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 113,
+     "page": 87
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1046,
+     "page": 1030,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q23",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Palpitations and pulse rhythm",
+   "leadIn": "Pick the best match from the list for each case below. Any option can serve several cases, or none at all.",
+   "options": [
+    "Atrial or ventricular ectopic beats",
+    "Atrial fibrillation",
+    "Paroxysmal SVT",
+    "Ventricular tachycardia",
+    "Anxiety-related sinus tachycardia",
+    "Thyrotoxic sinus tachycardia",
+    "Atrial flutter with 2:1 AV block",
+    "Third-degree AV block",
+    "Normal sinus arrhythmia"
+   ],
+   "items": [
+    {
+     "stem": "A 45-year-old man notices that his heart \"stops, then gives a big thump\" when he lies in bed at night. He is otherwise well and the feeling lasts a second.",
+     "answer": 0,
+     "explanation": "A pause followed by a single forceful beat is the typical description of **ectopic beats**.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s2"
+     }
+    },
+    {
+     "stem": "A 67-year-old man with a large anterior MI three years ago and heart failure has sudden rapid regular palpitations followed by collapse.",
+     "answer": 3,
+     "explanation": "Fast palpitations with **syncope** in someone with structural heart disease and **previous heart failure** suggest VT.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s2"
+     }
+    },
+    {
+     "stem": "A 33-year-old woman has lost 6 kg despite a good appetite and cannot stand warm rooms. She feels a constant, regular pounding heartbeat at about 110/min.",
+     "answer": 5,
+     "explanation": "Step 1: continuous, regular pounding at 90–120/min = a **hyperdynamic** sinus tachycardia. Step 2: weight loss and heat intolerance point to thyrotoxicosis as the cause.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s2"
+     }
+    },
+    {
+     "stem": "An 18-year-old man is noted to have a heart rate that speeds up each time he breathes in and slows as he breathes out. He has no symptoms.",
+     "answer": 8,
+     "explanation": "A rate that rises on inspiration in a healthy young person is **sinus arrhythmia**, a normal finding.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 91,
+     "page": 65
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 477,
+     "page": 455,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1045,
+     "page": 1029,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 109,
+     "page": 83
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 656,
+     "page": 634,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q24",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Bedside manoeuvres in the cardiovascular examination",
+   "leadIn": "Pick the most useful bedside manoeuvre for each situation below. Any option can serve several situations, or none at all.",
+   "options": [
+    "Bell at the apex with the patient turned onto the left side",
+    "Diaphragm at the left sternal edge, patient sitting forward in held expiration",
+    "Valsalva strain",
+    "Squatting",
+    "Sustained handgrip",
+    "Deep inspiration",
+    "Light pressure over the root of the neck",
+    "Raising the arm above the heart while feeling the pulse"
+   ],
+   "items": [
+    {
+     "stem": "A 58-year-old woman has a malar flush and a loud S1. You want to bring out a suspected mid-diastolic rumble.",
+     "answer": 0,
+     "explanation": "The MS rumble is **low-pitched** and apical, so use the bell at the apex with the patient on the left side.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s7"
+     }
+    },
+    {
+     "stem": "A 46-year-old man has a wide pulse pressure. You want to hear a suspected soft early diastolic murmur.",
+     "answer": 1,
+     "explanation": "A wide pulse pressure suggests **aortic regurgitation**; its soft high-pitched murmur is best heard with the diaphragm, sitting forward in held expiration.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s7"
+     }
+    },
+    {
+     "stem": "A 40-year-old woman has a pansystolic murmur at the lower left sternal edge. You want to know whether it comes from the tricuspid valve.",
+     "answer": 5,
+     "explanation": "Right-sided murmurs get **louder on inspiration** because venous return to the right heart increases.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s7"
+     }
+    },
+    {
+     "stem": "A healthy 9-year-old has a soft continuous murmur in the right supraclavicular fossa.",
+     "answer": 6,
+     "explanation": "A **venous hum** disappears with light pressure over the neck veins, confirming it is benign.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 130,
+     "page": 104
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 482,
+     "page": 460,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1048,
+     "page": 1032,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 132,
+     "page": 106
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 128,
+     "page": 102
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q25",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 4-year-old boy has blue lips and tongue and finger clubbing. He squats after running.",
+   "leadIn": "Which condition most likely explains his central cyanosis?",
+   "options": [
+    "Fallot's tetralogy",
+    "Atrial septal defect",
+    "Small ventricular septal defect",
+    "Raynaud's phenomenon",
+    "Exposure to cold"
+   ],
+   "answer": 0,
+   "explanation": "Central cyanosis with clubbing in a child points to a **right-to-left shunt**; Fallot's tetralogy is the classic cause.",
+   "whyNot": [
+    "",
+    "An ASD is a left-to-right shunt and does not cause central cyanosis.",
+    "A small VSD is a left-to-right shunt and does not cause central cyanosis.",
+    "Raynaud's causes peripheral, not central, cyanosis.",
+    "Cold causes peripheral cyanosis from vasoconstriction; the tongue stays pink."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1046,
+     "page": 1030,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1045,
+     "page": 1029,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "allam25",
+     "pdfPage": 11,
+     "page": 10
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 559,
+     "page": 537,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q26",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "An 80-year-old woman was started on prazosin for hypertension last week. Since then she has fainted twice, each time within a minute of getting out of bed.",
+   "leadIn": "What is the most likely mechanism of her syncope?",
+   "options": [
+    "Postural hypotension",
+    "QT prolongation",
+    "Drug-induced bradycardia",
+    "Complete heart block",
+    "Vasovagal reflex"
+   ],
+   "answer": 0,
+   "explanation": "Syncope **on standing** after starting an α-blocker such as prazosin is drug-induced postural hypotension; drugs are its commonest cause.",
+   "whyNot": [
+    "",
+    "Prazosin is not a QT-prolonging drug; examples are sotalol, amiodarone and macrolides.",
+    "Bradycardia is caused by β-blockers, verapamil, diltiazem and digoxin, not prazosin.",
+    "Stokes–Adams attacks occur without warning, regardless of posture.",
+    "Vasovagal syncope usually has an emotional trigger and a prodrome, typically in young people."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s2"
+   },
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 93,
+     "page": 67
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 114,
+     "page": 88
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q27",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Breathlessness and swelling: reading the history",
+   "leadIn": "Pick the best match from the list for each case below. Any option can serve several cases, or none at all.",
+   "options": [
+    "Left ventricular failure",
+    "Right-sided heart failure (cor pulmonale)",
+    "Nephrotic syndrome",
+    "Calcium-channel-blocker ankle oedema",
+    "Massive ascites",
+    "Acute mitral regurgitation",
+    "Pulmonary embolism",
+    "Exacerbation of COPD",
+    "Deep vein thrombosis"
+   ],
+   "items": [
+    {
+     "stem": "A 62-year-old man now sleeps on four pillows. Twice this week he woke at 2 am fighting for breath, sat on the edge of the bed and opened the window until it settled.",
+     "answer": 0,
+     "explanation": "Orthopnoea plus **PND** (waking gasping, sitting up, relief over minutes) is the history of LV failure.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s2"
+     }
+    },
+    {
+     "stem": "A 24-year-old woman notices that her eyelids and face are puffy when she wakes, and her ankles swell later in the day. Her urine is frothy.",
+     "answer": 2,
+     "explanation": "Cardiac oedema is dependent and does not start in the face. **Facial puffiness** with frothy urine suggests nephrotic syndrome.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s2"
+     }
+    },
+    {
+     "stem": "A 66-year-old woman started amlodipine a month ago for hypertension. Both ankles are now swollen. She is not breathless, her JVP is not raised and her chest is clear.",
+     "answer": 3,
+     "explanation": "Step 1: symmetrical ankle swelling without signs of heart failure. Step 2: a **calcium-channel blocker** started just before it is the likely cause.",
+     "studyRef": {
+      "sectionId": "cardio-history-exam.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 90,
+     "page": 64
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1044,
+     "page": 1028,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 19,
+     "page": 19
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 415,
+     "page": 393,
+     "chapter": "Nephrology and urology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q28",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 32-year-old man collapses in a supermarket. A witness says he complained of a strange smell, then fell, and his limbs jerked for about two minutes. He had bitten his tongue and remained confused for half an hour afterwards.",
+   "leadIn": "What is the most likely cause?",
+   "options": [
+    "Epileptic seizure",
+    "Vasovagal syncope",
+    "Stokes–Adams attack",
+    "Postural hypotension",
+    "Aortic stenosis"
+   ],
+   "answer": 0,
+   "explanation": "An **aura** (odd smell), prolonged jerking, **tongue biting** and a long period of confusion afterwards point to a seizure rather than syncope.",
+   "whyNot": [
+    "",
+    "Vasovagal syncope has a prodrome of nausea and sweating with quick recovery and no prolonged confusion.",
+    "Stokes–Adams attacks give no warning and recovery is rapid with flushing; a long post-event confusion is not expected.",
+    "Postural hypotension happens on standing, with brief loss of consciousness and rapid recovery.",
+    "AS causes syncope on exertion, with no aura and quick recovery."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s2"
+   },
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 92,
+     "page": 66
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1036,
+     "page": 1020,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q29",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 1,
+   "stem": "A medical student is asked to describe the normal position of the apex beat in an adult.",
+   "leadIn": "Which answer matches Davidson's description?",
+   "options": [
+    "5th or 6th intercostal space at the mid-clavicular line",
+    "4th intercostal space at the anterior axillary line",
+    "2nd left intercostal space at the sternal edge",
+    "5th intercostal space at the left sternal edge",
+    "7th intercostal space at the mid-axillary line"
+   ],
+   "answer": 0,
+   "explanation": "Davidson places the normal apex in the **5th or 6th intercostal space at the mid-clavicular line**. Lateral or downward displacement suggests LV dilatation.",
+   "whyNot": [
+    "",
+    "The anterior axillary line is too lateral; this suggests displacement.",
+    "This is the pulmonary area.",
+    "The lower left sternal edge is the tricuspid area.",
+    "This is a displaced apex, as in LV dilatation."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 465,
+     "page": 443,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 119,
+     "page": 93
+    }
+   ]
+  },
+  {
+   "id": "cardio-history-exam.q30",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 55-year-old man stopped smoking after 30 pack-years. He asks how long it will take for his risk of a heart attack to fall to that of someone who never smoked.",
+   "leadIn": "What is the best answer?",
+   "options": [
+    "About 6 months",
+    "About 2 years",
+    "About 5 years",
+    "About 10 years",
+    "It never falls to that level"
+   ],
+   "answer": 1,
+   "explanation": "The risk of MI falls to never-smoker levels after about **2 years**. The risk of developing angina takes about 10 years to approach that of non-smokers.",
+   "whyNot": [
+    "Six months is too short.",
+    "",
+    "Five years is longer than needed for MI risk.",
+    "Ten years applies to angina risk, not MI.",
+    "MI risk does return to never-smoker levels."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-history-exam.s3"
+   },
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 95,
+     "page": 69
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "cardio-history-exam.o1",
+   "sectionId": "cardio-history-exam.s4",
+   "cite": {
+    "book": "talley8",
+    "pdfPage": 108,
+    "page": 82,
+    "figure": "Fig. 5.12"
+   },
+   "identify": "Splinter haemorrhages: thin dark lines running along the long axis of the nail. Think infective endocarditis (though most are traumatic)."
+  },
+  {
+   "id": "cardio-history-exam.o2",
+   "sectionId": "cardio-history-exam.s4",
+   "cite": {
+    "book": "talley8",
+    "pdfPage": 108,
+    "page": 82,
+    "figure": "Fig. 5.13"
+   },
+   "identify": "Janeway lesion: painless flat red macule on the palm or finger pulp, a sign of infective endocarditis (Osler's nodes, by contrast, are tender)."
+  },
+  {
+   "id": "cardio-history-exam.o3",
+   "sectionId": "cardio-history-exam.s4",
+   "cite": {
+    "book": "talley8",
+    "pdfPage": 108,
+    "page": 82,
+    "figure": "Fig. 5.14"
+   },
+   "identify": "Tuboeruptive xanthomata over the knee: yellow nodules at pressure points, typical of type III hyperlipidaemia."
+  },
+  {
+   "id": "cardio-history-exam.o4",
+   "sectionId": "cardio-history-exam.s4",
+   "cite": {
+    "book": "talley8",
+    "pdfPage": 115,
+    "page": 89,
+    "figure": "Fig. 5.21"
+   },
+   "identify": "Xanthelasmata: yellow plaques on the eyelids; may be normal or reflect type II/III hyperlipidaemia."
+  },
+  {
+   "id": "cardio-history-exam.o5",
+   "sectionId": "cardio-history-exam.s4",
+   "cite": {
+    "book": "talley8",
+    "pdfPage": 107,
+    "page": 81,
+    "figure": "Fig. 5.10"
+   },
+   "identify": "Finger clubbing: loss of the nail-fold angle and increased phalangeal depth ratio. Cardiac causes are cyanotic congenital heart disease and infective endocarditis."
+  },
+  {
+   "id": "cardio-history-exam.o6",
+   "sectionId": "cardio-history-exam.s4",
+   "cite": {
+    "book": "talley8",
+    "pdfPage": 105,
+    "page": 79,
+    "figure": "Fig. 5.9"
+   },
+   "identify": "Marfan's habitus: tall, long limbs, arachnodactyly, pectus excavatum, kyphosis. Listen for aortic regurgitation."
+  },
+  {
+   "id": "cardio-history-exam.o7",
+   "sectionId": "cardio-history-exam.s5",
+   "cite": {
+    "book": "talley8",
+    "pdfPage": 117,
+    "page": 91,
+    "figure": "Fig. 5.24"
+   },
+   "identify": "JVP waveform: name the a, c and v waves and the x and y descents, and time them against S1 and S2."
+  },
+  {
+   "id": "cardio-history-exam.o8",
+   "sectionId": "cardio-history-exam.s7",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 482,
+    "page": 460,
+    "chapter": "Cardiology",
+    "figure": "Fig. 16.23"
+   },
+   "identify": "Murmur timing diagram: identify pansystolic (MR, TR, VSD), ejection systolic (AS), late systolic with click (MVP), early diastolic (AR) and mid-diastolic with opening snap (MS)."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:43:54.083Z",
+  "contentHash": "d6d6902ea8db3f63bac342600ef5206e44e9f0879c48f2beab9d53eda7b2cd1f"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:43:54.094Z",
+  "contentHash": "d6d6902ea8db3f63bac342600ef5206e44e9f0879c48f2beab9d53eda7b2cd1f",
+  "checkerVersion": "source-check-v1"
+ }
+}

@@ -1,0 +1,3178 @@
+{
+ "topicId": "heme-ttp",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "heme-ttp.s1",
+   "title": "Definition and causes",
+   "objectiveIdx": [
+    0,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "TTP is a rare, life-threatening **thrombotic microangiopathy (TMA)**. Its defining paradox is **widespread small-vessel thrombosis together with a low platelet count**, a pairing it shares with DIC and heparin-induced thrombocytopenia. The root problem is a lack of functional **ADAMTS-13**, the protease that trims von Willebrand factor (vWF). It can strike any organ, responds well to treatment, and is usually fatal if missed.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1001,
+       "page": 979
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 398,
+       "page": 374
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 843,
+       "page": 843
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 341,
+       "page": 341
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "The classic pentad (only a minority have all five)",
+     "items": [
+      "**Thrombocytopenia**",
+      "**Microangiopathic haemolytic anaemia (MAHA)** with red cell fragments",
+      "**Neurological** disturbance",
+      "**Fever**",
+      "**Renal impairment**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1001,
+       "page": 979
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 403,
+       "page": 403
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 341,
+       "page": 341
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Forms of TTP and their triggers",
+     "columns": [
+      "Form",
+      "Mechanism",
+      "Examples / notes"
+     ],
+     "rows": [
+      [
+       "Acquired (immune) — the usual form",
+       "Autoantibodies against ADAMTS-13",
+       "Most sporadic cases show true enzyme deficiency with an inhibitor"
+      ],
+      [
+       "Congenital (hereditary)",
+       "Mutations in the ADAMTS-13 gene",
+       "Called **Upshaw–Schulman syndrome**"
+      ],
+      [
+       "Drug-associated",
+       "Antibody-mediated or variable enzyme activity",
+       "Thienopyridines (**ticlopidine, clopidogrel**), **ciclosporin**, quinidine; stepup6 also lists quinine, chemotherapy and immunosuppressants"
+      ],
+      [
+       "Pregnancy and hormones",
+       "Antibody-associated",
+       "**Pregnancy and the post-partum period**, oral contraceptives"
+      ],
+      [
+       "Systemic disease / infection",
+       "Antibody-associated or secondary",
+       "**SLE**, **HIV**, other infections, **malignancy**; Davidson also lists Shiga toxins"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1001,
+       "page": 979
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 398,
+       "page": 374
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 341,
+       "page": 341
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 403,
+       "page": 403
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 273,
+       "page": 236
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 843,
+       "page": 843
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "TTP affects roughly **1 in 750 000 people per year**. Kumar notes that **young adults** are the group most often affected, and First Aid contrasts TTP (mainly adults) with HUS (mainly children).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1001,
+       "page": 979
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1382,
+       "page": 1369
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 404,
+       "page": 404
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Up to **one-quarter** of TTP/HUS cases arise **during pregnancy or after delivery**, so TTP belongs in the differential of low platelets in pregnancy.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1307,
+       "page": 1285
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In **HIV**, a TTP-like illness with severe thrombocytopenia and MAHA can occur; it carries a **better prognosis and fewer relapses** than classical TTP.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 344,
+       "page": 322
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Classic exam trigger: a patient recently started on **clopidogrel or ticlopidine** who develops low platelets, fragmented red cells and confusion. Think **drug-associated TTP**, and remember the precipitating drug must be stopped.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 403,
+       "page": 403
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 398,
+       "page": 374
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Secondary TTP (pregnancy, drugs, SLE, infection) may show **variable ADAMTS-13 activity** and may **lack detectable antibodies**, unlike typical idiopathic acquired TTP.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 398,
+       "page": 374
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.s2",
+   "title": "Pathogenesis",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**ADAMTS-13**, a metalloproteinase that regulates vWF, normally cuts **ultra-large vWF multimers** into normal-sized units. When the enzyme is missing or blocked, the huge multimers stay anchored to the endothelium and **grab and cross-link platelets**, building **platelet-rich microthrombi** in arterioles and capillaries. The organs hit hardest are the **brain and kidneys**, but any organ can be involved.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1001,
+       "page": 979
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 398,
+       "page": 374
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 341,
+       "page": 341
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "What the microthrombi do",
+     "items": [
+      "**Consume platelets** → profound thrombocytopenia",
+      "**Shear red cells** passing through narrowed vessels → fragments (**schistocytes**) and intravascular haemolysis (MAHA)",
+      "**Occlude small vessels** → ischaemic end-organ damage (fluctuating neurology, kidney injury)"
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 843,
+       "page": 843
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 402,
+       "page": 402
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 430,
+       "page": 408
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 300\" role=\"img\" aria-label=\"Pathogenesis of TTP\">\n<rect x=\"180\" y=\"10\" width=\"240\" height=\"40\" rx=\"6\" fill=\"#eef2ff\" stroke=\"#4f46e5\"/>\n<text x=\"300\" y=\"35\" font-size=\"14\" text-anchor=\"middle\" font-family=\"sans-serif\">Low ADAMTS-13 activity</text>\n<line x1=\"300\" y1=\"50\" x2=\"300\" y2=\"75\" stroke=\"#333\" stroke-width=\"2\"/>\n<rect x=\"150\" y=\"75\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#eef2ff\" stroke=\"#4f46e5\"/>\n<text x=\"300\" y=\"100\" font-size=\"14\" text-anchor=\"middle\" font-family=\"sans-serif\">Ultra-large vWF multimers persist</text>\n<line x1=\"300\" y1=\"115\" x2=\"300\" y2=\"140\" stroke=\"#333\" stroke-width=\"2\"/>\n<rect x=\"130\" y=\"140\" width=\"340\" height=\"40\" rx=\"6\" fill=\"#fef3c7\" stroke=\"#b45309\"/>\n<text x=\"300\" y=\"165\" font-size=\"14\" text-anchor=\"middle\" font-family=\"sans-serif\">Platelet-rich microthrombi in small vessels</text>\n<line x1=\"300\" y1=\"180\" x2=\"100\" y2=\"215\" stroke=\"#333\" stroke-width=\"2\"/>\n<line x1=\"300\" y1=\"180\" x2=\"300\" y2=\"215\" stroke=\"#333\" stroke-width=\"2\"/>\n<line x1=\"300\" y1=\"180\" x2=\"500\" y2=\"215\" stroke=\"#333\" stroke-width=\"2\"/>\n<rect x=\"10\" y=\"215\" width=\"180\" height=\"60\" rx=\"6\" fill=\"#fee2e2\" stroke=\"#b91c1c\"/>\n<text x=\"100\" y=\"240\" font-size=\"13\" text-anchor=\"middle\" font-family=\"sans-serif\">Platelets consumed</text>\n<text x=\"100\" y=\"260\" font-size=\"13\" text-anchor=\"middle\" font-family=\"sans-serif\">thrombocytopenia</text>\n<rect x=\"210\" y=\"215\" width=\"180\" height=\"60\" rx=\"6\" fill=\"#fee2e2\" stroke=\"#b91c1c\"/>\n<text x=\"300\" y=\"240\" font-size=\"13\" text-anchor=\"middle\" font-family=\"sans-serif\">Red cells sheared</text>\n<text x=\"300\" y=\"260\" font-size=\"13\" text-anchor=\"middle\" font-family=\"sans-serif\">MAHA, schistocytes</text>\n<rect x=\"410\" y=\"215\" width=\"180\" height=\"60\" rx=\"6\" fill=\"#fee2e2\" stroke=\"#b91c1c\"/>\n<text x=\"500\" y=\"240\" font-size=\"13\" text-anchor=\"middle\" font-family=\"sans-serif\">Vessels occluded</text>\n<text x=\"500\" y=\"260\" font-size=\"13\" text-anchor=\"middle\" font-family=\"sans-serif\">brain, kidney ischaemia</text>\n</svg>",
+     "alt": "Flow chart: low ADAMTS-13 activity leads to persistent ultra-large vWF multimers, then platelet-rich microthrombi, which cause platelet consumption, red cell shearing (MAHA) and small-vessel occlusion.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1001,
+       "page": 979
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 843,
+       "page": 843
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Because the thrombi form on vWF and platelets rather than through runaway activation of the clotting cascade, **clotting factors and fibrinogen are not used up**. PT, APTT and fibrinogen therefore stay normal, unlike **DIC**, where factors (notably V and VIII) and fibrinogen are consumed.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 843,
+       "page": 843
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1000,
+       "page": 978
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 403,
+       "page": 403
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Histology",
+     "items": [
+      "Tissue biopsy in a TMA shows **arterioles plugged with platelet hyaline thrombi**",
+      "The same picture of glomerular microthrombi is seen in HUS renal biopsies"
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 341,
+       "page": 341
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1381,
+       "page": 1368,
+       "figure": "Fig. 36.25"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Platelets are low **because they are being used up**, not because the marrow fails: the marrow shows **increased megakaryocytes** in consumptive thrombocytopenia.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 951,
+       "page": 929
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Transfused platelets are simply **fed into the microthrombi** and can worsen the thrombosis, which is why platelet transfusion is contraindicated.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 404,
+       "page": 404
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 341,
+       "page": 341
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.s3",
+   "title": "Clinical features",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "The pentad: what you see and how often",
+     "columns": [
+      "Feature",
+      "Clinical picture",
+      "Approx. frequency"
+     ],
+     "rows": [
+      [
+       "Thrombocytopenia",
+       "Petechiae, florid purpura",
+       "~100%"
+      ],
+      [
+       "MAHA",
+       "Fatigue, breathlessness, pallor, jaundice",
+       "~100%"
+      ],
+      [
+       "Neurological change",
+       "**Fluctuating, transient** — confusion, delirium, seizures, stroke or hemiplegia, drowsiness, visual loss",
+       "~65%"
+      ],
+      [
+       "Renal impairment",
+       "AKI, usually **mild** and a **late** feature",
+       "~50%"
+      ],
+      [
+       "Fever",
+       "Pyrexia",
+       "~25%"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 341,
+       "page": 341
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 844,
+       "page": 844
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 403,
+       "page": 403
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 273,
+       "page": 236
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "How to recognise it",
+     "items": [
+      "Mnemonic **LMNOP**: Low platelets, MAHA, Neuro change, “Obsolete” kidneys, Pyrexia",
+      "First Aid: **suspect TTP when 3 of the 5** are present",
+      "The **full pentad occurs in only ~5%**; thrombocytopenia plus MAHA is the constant core"
+     ],
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 403,
+       "page": 403
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 341,
+       "page": 341
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1001,
+       "page": 979
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Against **HUS**, TTP more often involves the **brain**, while the **kidney is usually less prominent**. In pregnancy both cause MAHA, AKI and low platelets, but **neurological symptoms and fever point to TTP**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 431,
+       "page": 409
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1307,
+       "page": 1285
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 843,
+       "page": 843
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Less obvious presentations listed by Davidson",
+     "items": [
+      "**Seizures in pregnancy** (with eclampsia and cerebral venous thrombosis)",
+      "A haematological cause of **pyrexia of unknown origin**",
+      "A haematological **sepsis mimic** (alongside haemophagocytic syndrome and lymphoma)"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1298,
+       "page": 1276
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 242,
+       "page": 220
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 220,
+       "page": 198
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Spontaneous bleeding from thrombocytopenia is unusual until platelets drop **below 20 × 10⁹/L**; **below 10 × 10⁹/L** retinal and intracranial bleeding become possible.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 951,
+       "page": 929
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Do **not** wait for all five features. Waiting for fever or renal failure delays treatment of a disease that kills most untreated patients within days.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1001,
+       "page": 979
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 341,
+       "page": 341
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.s4",
+   "title": "Investigations",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "A TMA is diagnosed from **unexplained thrombocytopenia (often < 20 × 10⁹/L) plus MAHA**. The **blood film** is the single most useful first test for a low platelet count. **ADAMTS-13 activity** is the most accurate test for TTP itself.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 341,
+       "page": 341
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 951,
+       "page": 929
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 404,
+       "page": 404
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Expected results in TTP",
+     "columns": [
+      "Test",
+      "Typical result",
+      "Why it matters"
+     ],
+     "rows": [
+      [
+       "FBC",
+       "Low Hb, very low platelets",
+       "Core of the TMA picture"
+      ],
+      [
+       "Blood film",
+       "**Schistocytes** (> 2–3 per high-power field)",
+       "Shows red cell fragmentation"
+      ],
+      [
+       "Haemolysis markers",
+       "**LDH markedly raised**, unconjugated bilirubin up, **haptoglobin very low**, reticulocytes often up",
+       "Intravascular haemolysis (LDH also from tissue ischaemia)"
+      ],
+      [
+       "Direct antiglobulin (Coombs) test",
+       "Negative",
+       "Haemolysis is mechanical, not immune"
+      ],
+      [
+       "PT, APTT, fibrinogen",
+       "**Normal**",
+       "Separates TTP from DIC"
+      ],
+      [
+       "Creatinine",
+       "May be raised",
+       "Usually much higher in HUS"
+      ],
+      [
+       "ADAMTS-13 activity",
+       "**Low** (Davidson: **< 10%**)",
+       "Reduced in TTP but normal in HUS and other TMAs"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 341,
+       "page": 341
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 430,
+       "page": 408
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 431,
+       "page": 409
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 403,
+       "page": 403
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1382,
+       "page": 1369
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 273,
+       "page": 236
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Using the tests",
+     "items": [
+      "Measure **ADAMTS-13 activity whenever TTP or HUS is suspected**",
+      "The **PLASMIC score** helps separate TTP from other TMAs",
+      "Follow treatment with **serial platelet counts and LDH**"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1382,
+       "page": 1369
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 341,
+       "page": 341
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 398,
+       "page": 374
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 430,
+       "page": 408
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 943,
+      "page": 921,
+      "figure": "Fig. 23.8"
+     },
+     "note": "Panel E: red cell fragments of intravascular haemolysis, as in MAHA (HUS, TTP) and DIC."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "fa2ck11",
+      "pdfPage": 404,
+      "page": 404,
+      "figure": "FIGURE 2.7-5"
+     },
+     "note": "Peripheral film with arrowed schistocytes (MAHA or mechanical valve haemolysis)."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "fa2ck11",
+      "pdfPage": 403,
+      "page": 403,
+      "figure": "FIGURE 2.7-4"
+     },
+     "note": "Algorithm for working up thrombocytopenia."
+    },
+    {
+     "type": "pearl",
+     "text": "Normal **PT and APTT** in a patient with low platelets and fragments is the classic clue that this is TTP/HUS rather than DIC, because TTP does not consume clotting factors.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 843,
+       "page": 843
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 403,
+       "page": 403
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The sources phrase the ADAMTS-13 result differently: Davidson gives a cut-off of **< 10%**, Kumar simply says “reduced”, and the quick sources give no number. Follow Davidson for the threshold.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 431,
+       "page": 409
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1382,
+       "page": 1369
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.s5",
+   "title": "Differential diagnosis",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "TTP and its mimics",
+     "columns": [
+      "Condition",
+      "Discriminating clues",
+      "Clotting tests",
+      "Management"
+     ],
+     "rows": [
+      [
+       "**TTP**",
+       "Neurological features prominent; ADAMTS-13 low",
+       "Normal",
+       "Plasma exchange"
+      ],
+      [
+       "**Shiga-toxin HUS**",
+       "Bloody diarrhoea (E. coli O157:H7), mostly children, renal failure dominant",
+       "Normal",
+       "Supportive care"
+      ],
+      [
+       "**Complement-mediated (atypical) HUS**",
+       "Family history, no diarrhoea; complement factor mutations",
+       "Normal",
+       "Plasma exchange, eculizumab (anti-C5)"
+      ],
+      [
+       "**Drug-induced TMA**",
+       "Quinine (with fever), calcineurin or VEGF-A inhibitors",
+       "Normal",
+       "Stop the drug"
+      ],
+      [
+       "**DIC**",
+       "Sepsis, trauma, obstetric event; bleeding",
+       "**Raised D-dimer, low fibrinogen, long PT/APTT**",
+       "Treat the cause"
+      ],
+      [
+       "**Pre-eclampsia / HELLP**",
+       "Third trimester, abnormal LFTs, hypertension",
+       "Usually normal",
+       "Delivery"
+      ],
+      [
+       "**Malignant hypertension**",
+       "Very high BP, retinopathy with papilloedema",
+       "Normal",
+       "BP control"
+      ],
+      [
+       "Malignancy / systemic sclerosis",
+       "Breast, prostate, lung, pancreas, GI tumours; skin features of scleroderma",
+       "Variable",
+       "Treat tumour; ACE inhibitor in scleroderma"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 430,
+       "page": 408
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 431,
+       "page": 409
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 404,
+       "page": 404
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 341,
+       "page": 341
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1000,
+       "page": 978
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 402,
+       "page": 402
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Memory aid: **HUS = MAHA + low platelets + renal failure**; **TTP ≈ HUS + fever + altered mental state**. Kidney dominates HUS, brain dominates TTP.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 843,
+       "page": 843
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 431,
+       "page": 409
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other causes of red cell fragments",
+     "items": [
+      "Mechanical heart valves",
+      "March haemoglobinuria",
+      "Severe burns",
+      "Disseminated carcinoma, malignant or pregnancy-induced hypertension"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 404,
+       "page": 404
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Low platelets in pregnancy",
+     "items": [
+      "**Gestational thrombocytopenia** — commonest, late in pregnancy, harmless, resolves after delivery",
+      "ITP",
+      "SLE",
+      "HELLP",
+      "HUS and **TTP**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1307,
+       "page": 1285
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**ITP** gives isolated immune destruction of platelets with **no haemolysis** and normal or increased marrow megakaryocytes; it is often a diagnosis of exclusion. Step-Up groups TTP with DIC, HUS and HIT type 1 as **non-immune** destructive causes, versus immune causes such as ITP, SLE, HIT type 2 and HIV.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 273,
+       "page": 236
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 838,
+       "page": 838
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 968,
+      "page": 946,
+      "figure": "Fig. 23.19"
+     },
+     "note": "Haemolysis classification: TTP, HUS and DIC sit with the acquired, mechanical (microangiopathic) causes."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1381,
+      "page": 1368,
+      "figure": "Fig. 36.25"
+     },
+     "note": "Renal light microscopy in HUS: arrow marks glomerular microthrombi of a thrombotic microangiopathy."
+    },
+    {
+     "type": "pitfall",
+     "text": "First Aid describes HUS and TTP as one spectrum caused by ADAMTS-13 deficiency. The major texts disagree: Davidson attributes HUS to **Shiga toxin or complement abnormalities** and uses a **low ADAMTS-13 (< 10%)** to separate TTP from HUS, and Kumar states that **ADAMTS-13 activity is normal in HUS**. Follow Davidson.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 404,
+       "page": 404
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 431,
+       "page": 409
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1382,
+       "page": 1369
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 430,
+       "page": 408
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Davidson lists Shiga toxins among TTP associations, but a Shiga-toxin TMA with bloody diarrhoea and dominant renal failure is **HUS**, which is managed **supportively** rather than with plasma exchange.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1001,
+       "page": 979
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 430,
+       "page": 408
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1382,
+       "page": 1369
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.s6",
+   "title": "Management and prognosis",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "TTP is a **haematological emergency**. **Emergency plasma exchange** is the cornerstone and best first treatment. Start it as soon as the diagnosis is made, and stop once the platelet count has recovered.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1001,
+       "page": 979
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 961,
+       "page": 939
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 844,
+       "page": 844
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 404,
+       "page": 404
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Treatment options",
+     "columns": [
+      "Treatment",
+      "How it helps",
+      "Notes"
+     ],
+     "rows": [
+      [
+       "**Plasma exchange**",
+       "Removes the anti-ADAMTS-13 antibody and supplies fresh ADAMTS-13",
+       "Use virus-inactivated plasma where available"
+      ],
+      [
+       "FFP / cryoprecipitate",
+       "Both (solvent-detergent FFP, cryoprecipitate) contain ADAMTS-13",
+       "FFP if plasma exchange is delayed"
+      ],
+      [
+       "Glucocorticoids",
+       "Immunosuppression",
+       "Pulsed IV methylprednisolone in the acute phase"
+      ],
+      [
+       "Rituximab",
+       "Suppresses autoantibody production",
+       "Increasingly first-line (Kumar); used when ADAMTS-13 is confirmed low or for relapse prevention"
+      ],
+      [
+       "Caplacizumab",
+       "Anti-vWF single-variable-domain immunoglobulin; blocks vWF binding to platelet glycoprotein Ib",
+       "Faster platelet recovery and fewer recurrences"
+      ],
+      [
+       "Aspirin",
+       "Antiplatelet",
+       "Listed by Davidson as having a role"
+      ],
+      [
+       "Stop the trigger",
+       "Removes the precipitant",
+       "Withdraw any causative drug in secondary TTP"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 398,
+       "page": 374
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 953,
+       "page": 931
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 341,
+       "page": 341
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 351,
+       "page": 351
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 844,
+       "page": 844
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1001,
+       "page": 979
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Platelet transfusion is contraindicated** in TTP, even with very low counts. The transfused platelets fuel more microthrombi.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 398,
+       "page": 374
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 273,
+       "page": 236
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 404,
+       "page": 404
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 351,
+       "page": 351
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1307,
+       "page": 1285
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Prognosis",
+     "items": [
+      "Untreated: about **90% mortality within the first 10 days**",
+      "Even with proper treatment: **20–30% mortality at 6 months**",
+      "Relapse is common, often linked to **persistently absent ADAMTS-13**",
+      "The HIV-associated TTP-like illness has a better outlook"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1001,
+       "page": 979
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 398,
+       "page": 374
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 344,
+       "page": 322
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**In pregnancy**, TTP is treated with plasma exchange and FFP, sometimes adding glucocorticoids or rituximab; platelet transfusion is again avoided.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1307,
+       "page": 1285
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1298,
+       "page": 1276
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Contrast the mimics: **Shiga-toxin HUS** is managed supportively, **complement-mediated HUS** with plasma exchange and **eculizumab**, and **DIC** by treating its cause.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 430,
+       "page": 408
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 431,
+       "page": 409
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Sources differ on rituximab: Kumar and kcEssentials give it upfront with steroids, Step-Up gives it once ADAMTS-13 is confirmed low, and Pocket Medicine frames it as relapse prevention. Davidson simply lists it as having a role.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 398,
+       "page": 374
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 273,
+       "page": 236
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 844,
+       "page": 844
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 341,
+       "page": 341
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1001,
+       "page": 979
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "heme-ttp.c1",
+   "sectionId": "heme-ttp.s1",
+   "front": "Classic pentad of TTP?",
+   "back": "Thrombocytopenia, MAHA, neurological change, fever, renal impairment (few patients have all five)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1001,
+     "page": 979
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 403,
+     "page": 403
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.c2",
+   "sectionId": "heme-ttp.s1",
+   "front": "Name of hereditary ADAMTS-13 deficiency?",
+   "back": "Upshaw–Schulman syndrome",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 341,
+     "page": 341
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.c3",
+   "sectionId": "heme-ttp.s1",
+   "front": "Antiplatelet drugs classically linked to TTP?",
+   "back": "Thienopyridines: ticlopidine and clopidogrel",
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "pdfPage": 403,
+     "page": 403
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 398,
+     "page": 374
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.c4",
+   "sectionId": "heme-ttp.s1",
+   "front": "Commonest mechanism of acquired TTP?",
+   "back": "Autoantibodies against ADAMTS-13",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1001,
+     "page": 979
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 398,
+     "page": 374
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.c5",
+   "sectionId": "heme-ttp.s2",
+   "front": "What does ADAMTS-13 normally do?",
+   "back": "Cleaves ultra-large vWF multimers into normal-sized units",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1001,
+     "page": 979
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 398,
+     "page": 374
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.c6",
+   "sectionId": "heme-ttp.s2",
+   "front": "Why are PT and APTT normal in TTP?",
+   "back": "Thrombi are platelet–vWF based; clotting factors and fibrinogen are not consumed",
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 843,
+     "page": 843
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 403,
+     "page": 403
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.c7",
+   "sectionId": "heme-ttp.s3",
+   "front": "How often is the full TTP pentad present?",
+   "back": "Only ~5%; thrombocytopenia + MAHA are present in essentially all",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 341,
+     "page": 341
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.c8",
+   "sectionId": "heme-ttp.s3",
+   "front": "TTP vs HUS: which organ dominates each?",
+   "back": "TTP: brain (neurological features). HUS: kidney (renal failure)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 843,
+     "page": 843
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.c9",
+   "sectionId": "heme-ttp.s4",
+   "front": "Haemolysis lab pattern in TTP?",
+   "back": "LDH markedly raised, unconjugated bilirubin up, haptoglobin very low, schistocytes, DAT negative",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 341,
+     "page": 341
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 430,
+     "page": 408
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.c10",
+   "sectionId": "heme-ttp.s4",
+   "front": "ADAMTS-13 activity threshold suggesting TTP (Davidson)?",
+   "back": "< 10%; activity is normal in HUS and other TMAs",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1382,
+     "page": 1369
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.c11",
+   "sectionId": "heme-ttp.s4",
+   "front": "Markers to follow TTP during treatment?",
+   "back": "Serial platelet count and LDH",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 398,
+     "page": 374
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.c12",
+   "sectionId": "heme-ttp.s5",
+   "front": "Lab clue for DIC rather than TTP?",
+   "back": "Prolonged PT/APTT, low fibrinogen, raised D-dimer",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 430,
+     "page": 408
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 402,
+     "page": 402
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.c13",
+   "sectionId": "heme-ttp.s5",
+   "front": "Treatment of complement-mediated (atypical) HUS?",
+   "back": "Plasma exchange and eculizumab (anti-C5)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 430,
+     "page": 408
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.c14",
+   "sectionId": "heme-ttp.s6",
+   "front": "First-line treatment of TTP and its rationale?",
+   "back": "Emergency plasma exchange: removes the antibody and replaces ADAMTS-13",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1001,
+     "page": 979
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 398,
+     "page": 374
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.c15",
+   "sectionId": "heme-ttp.s6",
+   "front": "Blood product contraindicated in TTP?",
+   "back": "Platelet transfusion — it fuels microthrombosis",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 398,
+     "page": 374
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 404,
+     "page": 404
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.c16",
+   "sectionId": "heme-ttp.s6",
+   "front": "Caplacizumab mechanism?",
+   "back": "Anti-vWF agent blocking vWF–glycoprotein Ib binding; faster platelet recovery, fewer recurrences",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 398,
+     "page": 374
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 844,
+     "page": 844
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.c17",
+   "sectionId": "heme-ttp.s6",
+   "front": "TTP mortality untreated vs treated?",
+   "back": "Untreated ~90% within 10 days; treated 20–30% at 6 months",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1001,
+     "page": 979
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "heme-ttp.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 61-year-old man had a coronary stent placed 3 weeks ago and was started on a new antiplatelet agent. He now has episodes of confusion and widespread petechiae. Hb 84 g/L, platelets 14 × 10⁹/L, fragmented red cells on the film, PT and APTT normal.",
+   "leadIn": "Which of his medicines is most likely to have triggered this illness?",
+   "options": [
+    "Clopidogrel",
+    "Atorvastatin",
+    "Bisoprolol",
+    "Ramipril",
+    "Glyceryl trinitrate spray"
+   ],
+   "answer": 0,
+   "explanation": "Low platelets, MAHA and fluctuating neurology after starting a **thienopyridine** suggest **drug-associated TTP**. Clopidogrel and ticlopidine are the classic culprits, and the drug must be stopped.",
+   "whyNot": [
+    "",
+    "Statins are not among the drugs the sources link to TTP (thienopyridines, ciclosporin, quinidine).",
+    "Beta-blockers are not among the drugs the sources link to TTP.",
+    "ACE inhibitors are not among the drugs the sources link to TTP.",
+    "Nitrates are not among the drugs the sources link to TTP."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s1"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "pdfPage": 403,
+     "page": 403
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 398,
+     "page": 374
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 273,
+     "page": 236
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1001,
+     "page": 979
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 29-year-old woman has her first episode of TTP. She takes no medicines, is not pregnant and has no family history. ADAMTS-13 activity is 4% with an inhibitor detected.",
+   "leadIn": "What is the most likely underlying mechanism?",
+   "options": [
+    "Autoantibody against ADAMTS-13",
+    "Shiga toxin binding to renal endothelium",
+    "Inherited mutation of complement factor H",
+    "Antibody against heparin–platelet factor 4 complexes",
+    "Systemic activation of coagulation with factor consumption"
+   ],
+   "answer": 0,
+   "explanation": "Most acquired, sporadic TTP is an **autoimmune** disease: IgG autoantibodies block ADAMTS-13, so ultra-large vWF multimers persist. A detectable inhibitor fits this.",
+   "whyNot": [
+    "",
+    "Shiga toxin causes diarrhoea-associated HUS, with normal ADAMTS-13.",
+    "Complement factor H mutations cause atypical HUS, with normal ADAMTS-13.",
+    "PF4–heparin antibodies cause HIT, which needs heparin exposure.",
+    "Coagulation activation with factor consumption is DIC, where PT/APTT are prolonged."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1001,
+     "page": 979
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 398,
+     "page": 374
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1382,
+     "page": 1369
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 341,
+     "page": 341
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 430,
+     "page": 408
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 35-year-old woman with TTP has a platelet count of 9 × 10⁹/L. A student asks why the count is so low.",
+   "leadIn": "What is the main reason for the thrombocytopenia?",
+   "options": [
+    "Platelets consumed in microthrombi built on ultra-large vWF multimers",
+    "Marrow failure reducing megakaryocyte output",
+    "Pooling of platelets in an enlarged spleen",
+    "Dilution after large-volume fluid resuscitation",
+    "Antibody-coated platelets cleared by splenic macrophages"
+   ],
+   "answer": 0,
+   "explanation": "TTP is a **consumptive** thrombocytopenia: persistent ultra-large vWF multimers capture platelets into microthrombi, using them up. The marrow typically has plenty of megakaryocytes.",
+   "whyNot": [
+    "",
+    "Marrow failure causes reduced production; consumptive causes show increased megakaryocytes.",
+    "Hypersplenism is mechanical pooling, not TTP.",
+    "Dilution follows massive transfusion or fluids, not TTP.",
+    "Antibody-mediated platelet clearance describes ITP."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1001,
+     "page": 979
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 843,
+     "page": 843
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 951,
+     "page": 929
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 838,
+     "page": 838
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "In TTP, a deficient protease allows very large multimers of an adhesive plasma protein to persist on the endothelium.",
+   "leadIn": "Which enzyme normally cleaves these multimers?",
+   "options": [
+    "ADAMTS-13",
+    "Plasmin",
+    "Thrombin",
+    "Activated protein C",
+    "Antithrombin"
+   ],
+   "answer": 0,
+   "explanation": "**ADAMTS-13** cuts ultra-large von Willebrand factor multimers into normal-sized units. Lack of it is the central defect in TTP.",
+   "whyNot": [
+    "",
+    "Plasmin breaks down fibrin, not vWF multimers.",
+    "Thrombin converts fibrinogen to fibrin.",
+    "Activated protein C inactivates factors Va and VIIIa.",
+    "Antithrombin inhibits thrombin and factor Xa."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1001,
+     "page": 979
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 398,
+     "page": 374
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 941,
+     "page": 919
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 40-year-old woman is admitted with suspected TTP. The registrar reminds the team that the full pentad is uncommon.",
+   "leadIn": "Which pair of features is present in essentially every patient with TTP?",
+   "options": [
+    "Thrombocytopenia and MAHA",
+    "Fever and renal failure",
+    "Neurological change and fever",
+    "Renal failure and MAHA",
+    "Fever and thrombocytopenia"
+   ],
+   "answer": 0,
+   "explanation": "Thrombocytopenia and MAHA are present in about **100%**. Neurological change occurs in ~65%, renal failure ~50% and fever only ~25%; the full pentad occurs in about 5%.",
+   "whyNot": [
+    "",
+    "Fever (~25%) and renal failure (~50%) are often absent.",
+    "Neurology (~65%) and fever (~25%) are not constant.",
+    "Renal failure is present in only about half.",
+    "Fever is the least consistent pentad feature."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s3"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 341,
+     "page": 341
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "Two adults present with microangiopathic haemolysis and thrombocytopenia. One has fluctuating confusion and the other has severe oliguric kidney injury.",
+   "leadIn": "Which organ is characteristically more involved in TTP than in HUS?",
+   "options": [
+    "Brain",
+    "Kidney",
+    "Liver",
+    "Lung",
+    "Bowel"
+   ],
+   "answer": 0,
+   "explanation": "Davidson notes that the **brain** is more often affected in TTP, while **kidney** involvement is usually less prominent than in HUS.",
+   "whyNot": [
+    "",
+    "Kidney involvement dominates HUS, and is usually milder in TTP.",
+    "Abnormal liver tests point towards HELLP rather than TTP.",
+    "Lung involvement is not the distinguishing feature.",
+    "Bloody diarrhoea points to Shiga-toxin HUS."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 843,
+     "page": 843
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 430,
+     "page": 408
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 38-year-old man has confusion, purpura, Hb 79 g/L and platelets 12 × 10⁹/L.",
+   "leadIn": "Which set of results best fits TTP?",
+   "options": [
+    "High LDH, low haptoglobin, normal PT and fibrinogen, negative DAT",
+    "High LDH, low haptoglobin, prolonged PT, low fibrinogen, high D-dimer",
+    "Normal LDH, normal haptoglobin, isolated low platelets, normal film",
+    "High LDH, low haptoglobin, positive DAT, spherocytes on film",
+    "Normal LDH, raised MCV, hypersegmented neutrophils, normal haptoglobin"
+   ],
+   "answer": 0,
+   "explanation": "TTP gives **intravascular mechanical haemolysis** (high LDH, low haptoglobin, DAT negative) with a **normal coagulation screen**, because clotting factors are not consumed.",
+   "whyNot": [
+    "",
+    "Prolonged PT, low fibrinogen and high D-dimer indicate DIC.",
+    "An isolated low platelet count without haemolysis suggests ITP.",
+    "A positive DAT with spherocytes suggests autoimmune haemolysis.",
+    "There are no markers of haemolysis, so this is not a TMA picture."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s4"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "pdfPage": 403,
+     "page": 403
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 341,
+     "page": 341
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 430,
+     "page": 408
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 968,
+     "page": 946
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 273,
+     "page": 236
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 27-year-old woman has thrombocytopenia, schistocytes, raised LDH and transient dysphasia. The team wants to confirm the diagnosis.",
+   "leadIn": "Which test is the most accurate for confirming TTP?",
+   "options": [
+    "ADAMTS-13 activity",
+    "Direct antiglobulin test",
+    "D-dimer",
+    "Stool culture for E. coli O157:H7",
+    "Bone marrow aspirate"
+   ],
+   "answer": 0,
+   "explanation": "**ADAMTS-13 activity** is the most accurate test. It is low in TTP (< 10% in Davidson) but normal in HUS and other TMAs.",
+   "whyNot": [
+    "",
+    "The DAT detects immune haemolysis and is negative in TTP.",
+    "D-dimer helps identify DIC.",
+    "Stool culture supports Shiga-toxin HUS.",
+    "Marrow shows only increased megakaryocytes in consumptive causes and is not diagnostic."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s4"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "pdfPage": 404,
+     "page": 404
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1382,
+     "page": 1369
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 430,
+     "page": 408
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 951,
+     "page": 929
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 341,
+     "page": 341
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 3,
+   "stem": "A 30-year-old woman at 31 weeks of pregnancy has a generalised seizure. Temperature 38.4 °C, BP 124/78 mmHg. Platelets 18 × 10⁹/L, Hb 86 g/L, fragments on the film, LDH very high. LFTs, PT and APTT are normal; urine has no protein.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "TTP",
+    "Eclampsia",
+    "HELLP syndrome",
+    "Gestational thrombocytopenia",
+    "Immune thrombocytopenic purpura"
+   ],
+   "answer": 0,
+   "explanation": "MAHA plus low platelets with **fever and neurological features**, a **normal BP**, normal LFTs and no proteinuria point to **TTP**, which is a recognised cause of seizures in pregnancy.",
+   "whyNot": [
+    "",
+    "Eclampsia follows pre-eclampsia, with hypertension and proteinuria.",
+    "HELLP occurs late in pregnancy with abnormal LFTs.",
+    "Gestational thrombocytopenia is mild and has no haemolysis.",
+    "ITP does not cause MAHA, fever or seizures."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1307,
+     "page": 1285
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1298,
+     "page": 1276
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 430,
+     "page": 408
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 70-year-old man is in septic shock from cholangitis. He is oozing from cannula sites. Platelets 32 × 10⁹/L, occasional fragments on the film, PT and APTT prolonged, fibrinogen 0.7 g/L, D-dimer very high.",
+   "leadIn": "What is the most likely cause of his thrombocytopenia?",
+   "options": [
+    "Disseminated intravascular coagulation",
+    "Thrombotic thrombocytopenic purpura",
+    "Shiga-toxin haemolytic uraemic syndrome",
+    "Immune thrombocytopenic purpura",
+    "Heparin-induced thrombocytopenia"
+   ],
+   "answer": 0,
+   "explanation": "Sepsis with bleeding and a **consumptive coagulopathy** (long PT/APTT, low fibrinogen, high D-dimer) is **DIC**. In TTP the clotting screen is normal.",
+   "whyNot": [
+    "",
+    "TTP has a normal PT, APTT and fibrinogen.",
+    "HUS follows bloody diarrhoea and has normal clotting tests.",
+    "ITP does not prolong clotting times or lower fibrinogen.",
+    "HIT needs heparin exposure and does not cause this coagulopathy."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 430,
+     "page": 408
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 402,
+     "page": 402
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1000,
+     "page": 978
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 33-year-old woman has confirmed TTP with platelets 10 × 10⁹/L and fluctuating confusion.",
+   "leadIn": "What is the most appropriate first treatment?",
+   "options": [
+    "Emergency plasma exchange",
+    "Platelet transfusion",
+    "Intravenous immunoglobulin",
+    "Splenectomy",
+    "Supportive care with intravenous fluids"
+   ],
+   "answer": 0,
+   "explanation": "**Emergency plasma exchange** removes the anti-ADAMTS-13 antibody and supplies the enzyme. It is the cornerstone of treatment and should start as soon as the diagnosis is made.",
+   "whyNot": [
+    "",
+    "Platelet transfusion is contraindicated: it fuels microthrombosis.",
+    "IVIG is used in ITP, not as TTP first-line therapy.",
+    "Splenectomy is a second-line ITP treatment.",
+    "Supportive care alone leaves untreated TTP with ~90% early mortality."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1001,
+     "page": 979
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 844,
+     "page": 844
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 398,
+     "page": 374
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 273,
+     "page": 236
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A junior doctor plans treatment for a man with TTP whose platelet count is 7 × 10⁹/L.",
+   "leadIn": "Which intervention is contraindicated?",
+   "options": [
+    "Platelet transfusion",
+    "Plasma exchange",
+    "Intravenous methylprednisolone",
+    "Rituximab",
+    "Caplacizumab"
+   ],
+   "answer": 0,
+   "explanation": "**Platelet concentrates are contraindicated** in TTP: the extra platelets feed the microthrombi and can worsen the illness.",
+   "whyNot": [
+    "",
+    "Plasma exchange is the mainstay of treatment.",
+    "Pulsed methylprednisolone is given in the acute phase.",
+    "Rituximab is increasingly part of primary treatment.",
+    "Caplacizumab speeds platelet recovery and reduces recurrence."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 398,
+     "page": 374
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 404,
+     "page": 404
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 351,
+     "page": 351
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A woman with acquired TTP is started on plasma exchange and steroids. The haematologist adds a drug that targets von Willebrand factor.",
+   "leadIn": "What is the mechanism of this added drug (caplacizumab)?",
+   "options": [
+    "Blocks vWF binding to platelet glycoprotein Ib",
+    "Blocks terminal complement activation at C5",
+    "Stimulates the thrombopoietin receptor",
+    "Inhibits platelet cyclo-oxygenase",
+    "Inhibits factor Xa through antithrombin"
+   ],
+   "answer": 0,
+   "explanation": "Caplacizumab is an anti-vWF single-variable-domain immunoglobulin that **stops vWF interacting with platelet glycoprotein Ib**, giving faster platelet recovery and fewer recurrences.",
+   "whyNot": [
+    "",
+    "This is eculizumab, used in complement-mediated HUS.",
+    "Thrombopoietin receptor agonists (e.g. eltrombopag) are used in refractory ITP.",
+    "This describes aspirin.",
+    "Antithrombin-dependent inhibition of Xa describes heparins and fondaparinux."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 398,
+     "page": 374
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 844,
+     "page": 844
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 960,
+     "page": 938
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 273,
+     "page": 236
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A medical student asks how dangerous TTP is if it is not treated.",
+   "leadIn": "What is the approximate mortality of untreated TTP within the first 10 days?",
+   "options": [
+    "90%",
+    "50%",
+    "20–30%",
+    "10%",
+    "5%"
+   ],
+   "answer": 0,
+   "explanation": "Davidson quotes about **90% mortality in the first 10 days** without treatment; with appropriate therapy mortality is still 20–30% at 6 months.",
+   "whyNot": [
+    "",
+    "Too low for untreated TTP.",
+    "This is the 6-month mortality despite treatment.",
+    "Far below the untreated figure.",
+    "Far below the untreated figure."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1001,
+     "page": 979
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 6-year-old boy had bloody diarrhoea 5 days after eating an undercooked burger at a barbecue. He is now passing little urine. Creatinine is markedly raised, platelets 45 × 10⁹/L, fragments on the film, PT and APTT normal. He is alert and orientated.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Shiga-toxin haemolytic uraemic syndrome",
+    "Thrombotic thrombocytopenic purpura",
+    "Complement-mediated haemolytic uraemic syndrome",
+    "Disseminated intravascular coagulation",
+    "Immune thrombocytopenic purpura"
+   ],
+   "answer": 0,
+   "explanation": "A child with **bloody diarrhoea**, dominant **renal failure**, MAHA and no neurological features has **Shiga-toxin (E. coli O157:H7) HUS**, managed supportively.",
+   "whyNot": [
+    "",
+    "TTP usually affects adults and has prominent neurology with milder renal involvement.",
+    "Atypical HUS lacks preceding bloody diarrhoea and often has a family history.",
+    "DIC prolongs PT and APTT.",
+    "ITP causes no haemolysis or kidney injury."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 430,
+     "page": 408
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 404,
+     "page": 404
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 341,
+     "page": 341
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "A 24-year-old man has MAHA, platelets 60 × 10⁹/L and acute kidney injury without diarrhoea. His mother and uncle had similar episodes. ADAMTS-13 activity is 70%.",
+   "leadIn": "Which targeted treatment is most appropriate?",
+   "options": [
+    "Eculizumab",
+    "Caplacizumab",
+    "Eltrombopag",
+    "Tranexamic acid",
+    "Unfractionated heparin"
+   ],
+   "answer": 0,
+   "explanation": "Normal ADAMTS-13, a **family history** and no diarrhoea suggest **complement-mediated (atypical) HUS**. Treatment is plasma exchange with **eculizumab**, an anti-C5 antibody.",
+   "whyNot": [
+    "",
+    "Caplacizumab targets vWF and is used in TTP, which is excluded by a normal ADAMTS-13.",
+    "Eltrombopag is used in refractory ITP.",
+    "Tranexamic acid is an antifibrinolytic and does not block complement, the driver of this illness.",
+    "Heparin is not used to treat atypical HUS."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 430,
+     "page": 408
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1382,
+     "page": 1369
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 273,
+     "page": 236
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1001,
+     "page": 979
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A woman is receiving daily plasma exchange for TTP. The team needs to judge whether the disease is settling.",
+   "leadIn": "Which pair of tests is best for following disease activity?",
+   "options": [
+    "Platelet count and LDH",
+    "D-dimer and fibrinogen",
+    "ESR and CRP",
+    "Ferritin and transferrin saturation",
+    "Serum B12 and folate"
+   ],
+   "answer": 0,
+   "explanation": "Kumar recommends following **serial platelet counts and LDH**. Recovery of the platelet count also tells you when plasma exchange can stop.",
+   "whyNot": [
+    "",
+    "These track DIC, not TTP activity.",
+    "Inflammatory markers do not reflect microvascular thrombosis.",
+    "Iron studies are irrelevant here.",
+    "Haematinics are not activity markers."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 398,
+     "page": 374
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 844,
+     "page": 844
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 430,
+     "page": 408
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q18",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 50-year-old man has a platelet count of 22 × 10⁹/L on a routine test. The cause is unclear.",
+   "leadIn": "Which single investigation is the most useful first step?",
+   "options": [
+    "Peripheral blood film",
+    "Bone marrow aspirate",
+    "Platelet autoantibody assay",
+    "ADAMTS-13 activity",
+    "Coagulation screen"
+   ],
+   "answer": 0,
+   "explanation": "Davidson calls the **blood film** the single most useful initial test for thrombocytopenia: it checks for clumping, fragments and other abnormal cells.",
+   "whyNot": [
+    "",
+    "Marrow is a later test, used to show megakaryocytes or infiltration.",
+    "Platelet antibodies are not needed to diagnose ITP.",
+    "ADAMTS-13 is sent once a TMA picture is found.",
+    "A clotting screen helps identify DIC but is not the first step for low platelets."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 951,
+     "page": 929
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 273,
+     "page": 236
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q19",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 31-year-old woman has thrombocytopenia, MAHA and a raised creatinine. The team is trying to separate TTP from HUS.",
+   "leadIn": "Which ADAMTS-13 activity result, according to Davidson, favours TTP?",
+   "options": [
+    "Less than 10%",
+    "40–60%",
+    "70–90%",
+    "100–120%",
+    "Greater than 150%"
+   ],
+   "answer": 0,
+   "explanation": "Davidson states that an ADAMTS-13 activity **below 10%** helps distinguish TTP from HUS. Activity is normal in HUS and other TMAs.",
+   "whyNot": [
+    "",
+    "Not low enough to indicate TTP.",
+    "Within the range seen in HUS and other TMAs.",
+    "A normal level argues against TTP.",
+    "A high-normal level argues against TTP."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1382,
+     "page": 1369
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q20",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 68-year-old woman has been taking quinine for night cramps. She develops fever, acute kidney injury, fragmented red cells and platelets 40 × 10⁹/L. PT and APTT are normal.",
+   "leadIn": "What is the key step in management?",
+   "options": [
+    "Stop the quinine",
+    "Transfuse platelets",
+    "Start therapeutic heparin",
+    "Arrange splenectomy",
+    "Give intravenous immunoglobulin"
+   ],
+   "answer": 0,
+   "explanation": "Quinine is a cause of **drug-induced TMA** (often with fever). Davidson lists **stopping the offending drug** as the management.",
+   "whyNot": [
+    "",
+    "Platelet transfusion is avoided in TMAs such as TTP/HUS.",
+    "Heparin is not a treatment for drug-induced TMA.",
+    "Splenectomy is an ITP treatment.",
+    "IVIG treats immune platelet destruction, not a drug TMA."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 430,
+     "page": 408
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 351,
+     "page": 351
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 273,
+     "page": 236
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q21",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 32-year-old woman has 2 days of confusion and word-finding difficulty that come and go. She has petechiae and a temperature of 38.2 °C. Hb 78 g/L, platelets 11 × 10⁹/L, fragmented red cells on the film. LDH 1850 U/L, unconjugated bilirubin raised, haptoglobin undetectable. PT, APTT and fibrinogen are normal. DAT negative. Creatinine 140 µmol/L.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Thrombotic thrombocytopenic purpura",
+    "Disseminated intravascular coagulation",
+    "Immune thrombocytopenic purpura",
+    "Warm autoimmune haemolytic anaemia",
+    "Shiga-toxin haemolytic uraemic syndrome"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: low platelets plus **fragments, high LDH and absent haptoglobin** = microangiopathic haemolysis, so this is a TMA. Step 2: **normal PT, APTT and fibrinogen** exclude DIC. Step 3: a **negative DAT** excludes immune haemolysis. Step 4: **fluctuating neurology and fever** with only mild renal impairment point to **TTP** rather than HUS. Next: send ADAMTS-13 and start plasma exchange urgently.",
+   "whyNot": [
+    "",
+    "DIC would prolong PT/APTT and lower fibrinogen.",
+    "ITP causes no haemolysis, fever or neurology.",
+    "Warm AIHA gives a positive DAT and spherocytes, with no thrombocytopenia from consumption.",
+    "Shiga-toxin HUS follows bloody diarrhoea, with renal failure dominant and no neurology."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s4"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 341,
+     "page": 341
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 403,
+     "page": 403
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 968,
+     "page": 946
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 430,
+     "page": 408
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q22",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 26-year-old man has newly diagnosed TTP with platelets 9 × 10⁹/L and gum bleeding. An ADAMTS-13 result is expected in 3 days. The night team asks what to do first.",
+   "leadIn": "What is the most appropriate immediate management?",
+   "options": [
+    "Start urgent plasma exchange",
+    "Transfuse platelets to stop the bleeding",
+    "Wait for the ADAMTS-13 result before treating",
+    "Give intravenous immunoglobulin",
+    "Give intravenous fluids and observe"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: TTP is a **haematological emergency**: untreated mortality is ~90% in 10 days. Step 2: **early plasma exchange is crucial**, so start it once the clinical and lab picture fits, not after the confirmatory assay. Step 3: resist the instinct to give platelets despite the very low count: **platelet transfusion is contraindicated** because it fuels thrombosis. Add steroids, and consider rituximab and caplacizumab.",
+   "whyNot": [
+    "",
+    "Platelets are contraindicated in TTP.",
+    "Delay is dangerous; early plasma exchange is crucial.",
+    "IVIG is an ITP treatment.",
+    "Supportive care alone is inadequate."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1001,
+     "page": 979
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 844,
+     "page": 844
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 398,
+     "page": 374
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q23",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 1,
+   "stem": "A 29-year-old woman at 37 weeks of pregnancy is well. Routine bloods show platelets 112 × 10⁹/L, a normal Hb, a normal film and normal LFTs. BP is 118/72 mmHg.",
+   "leadIn": "What is the most likely cause of her low platelets?",
+   "options": [
+    "Gestational thrombocytopenia",
+    "Thrombotic thrombocytopenic purpura",
+    "HELLP syndrome",
+    "Immune thrombocytopenic purpura",
+    "Haemolytic uraemic syndrome"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: work through the pregnancy causes (gestational, ITP, SLE, HELLP, HUS, TTP). Step 2: there is **no haemolysis** (normal Hb and film), which excludes TTP and HUS. Step 3: normal BP and LFTs exclude HELLP. Step 4: a mild fall late in pregnancy in a well woman is **gestational thrombocytopenia**, the commonest and a benign cause.",
+   "whyNot": [
+    "",
+    "TTP needs MAHA, and usually much lower platelets.",
+    "HELLP has haemolysis, abnormal LFTs and hypertension.",
+    "ITP is possible but is less common than gestational thrombocytopenia in this setting.",
+    "HUS causes MAHA and AKI."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1307,
+     "page": 1285
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q24",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 9-year-old girl has had several episodes of thrombocytopenia with fragmented red cells since infancy. Her ADAMTS-13 activity is undetectable and no inhibitor is found. Her brother is similarly affected.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Upshaw–Schulman syndrome",
+    "Bernard–Soulier syndrome",
+    "Glanzmann’s thrombasthenia",
+    "Wiskott–Aldrich syndrome",
+    "May–Hegglin anomaly"
+   ],
+   "answer": 0,
+   "explanation": "Inherited ADAMTS-13 deficiency without an inhibitor is congenital TTP, called **Upshaw–Schulman syndrome**.",
+   "whyNot": [
+    "",
+    "Bernard–Soulier is a platelet adhesion defect (missing GPIb complex), without haemolysis.",
+    "Glanzmann’s is a GPIIb/IIIa aggregation defect without thrombocytopenia from consumption.",
+    "Wiskott–Aldrich gives small platelets, not MAHA.",
+    "May–Hegglin is an inherited macrothrombocytopathy, not a TMA."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s1"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 341,
+     "page": 341
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 398,
+     "page": 374
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 951,
+     "page": 929
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q25",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A man with TTP is waiting for plasma exchange, which will take some hours to arrange.",
+   "leadIn": "Which blood product contains ADAMTS-13 and can be given in the meantime?",
+   "options": [
+    "Solvent-detergent fresh frozen plasma",
+    "Platelet concentrate",
+    "Red cell concentrate",
+    "Human albumin solution",
+    "Prothrombin complex concentrate"
+   ],
+   "answer": 0,
+   "explanation": "Solvent-detergent FFP (and cryoprecipitate) contain **ADAMTS-13**. Pocket Medicine advises FFP if plasma exchange is delayed.",
+   "whyNot": [
+    "",
+    "Platelets are contraindicated in TTP.",
+    "Red cells are not a source of ADAMTS-13; the sources name only plasma products (SD-FFP, cryoprecipitate).",
+    "Albumin is not listed as a source of ADAMTS-13; only SD-FFP and cryoprecipitate are.",
+    "PCC is used to reverse warfarin and is not listed as a source of ADAMTS-13."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 398,
+     "page": 374
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 341,
+     "page": 341
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 351,
+     "page": 351
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 953,
+     "page": 931
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q26",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A student is learning the TTP pentad and its frequencies.",
+   "leadIn": "Which pentad feature is present least often?",
+   "options": [
+    "Fever",
+    "Thrombocytopenia",
+    "Microangiopathic haemolytic anaemia",
+    "Neurological change",
+    "Renal failure"
+   ],
+   "answer": 0,
+   "explanation": "Fever occurs in only about **25%** of patients, against ~100% for low platelets and MAHA, ~65% for neurological change and ~50% for renal failure.",
+   "whyNot": [
+    "",
+    "Present in essentially all patients.",
+    "Present in essentially all patients.",
+    "Present in about two-thirds.",
+    "Present in about half."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s3"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 341,
+     "page": 341
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q27",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 3,
+   "stem": "A 36-year-old woman was treated for acquired TTP a year ago and is now in clinical remission with a normal platelet count.",
+   "leadIn": "Which finding is most associated with a risk of relapse?",
+   "options": [
+    "Persistently absent ADAMTS-13 activity",
+    "Normal serum LDH",
+    "Normal haptoglobin",
+    "Normal prothrombin time",
+    "Reticulocyte count within the reference range"
+   ],
+   "answer": 0,
+   "explanation": "Kumar notes that recurrent and relapsing TTP is often linked to a **persistent lack of ADAMTS-13**. Rituximab is used to help prevent relapse.",
+   "whyNot": [
+    "",
+    "A normal LDH indicates no active haemolysis.",
+    "A normal haptoglobin indicates no active haemolysis.",
+    "PT is normal in TTP, active or not.",
+    "A normal reticulocyte count reflects no ongoing haemolysis."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 398,
+     "page": 374
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 341,
+     "page": 341
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q28",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 22-year-old woman has 4 days of petechiae and nosebleeds. Platelets 8 × 10⁹/L, Hb 134 g/L, the film shows no fragments and LDH is normal. She is otherwise well and afebrile.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Immune thrombocytopenic purpura",
+    "Thrombotic thrombocytopenic purpura",
+    "Disseminated intravascular coagulation",
+    "Haemolytic uraemic syndrome",
+    "Aplastic anaemia"
+   ],
+   "answer": 0,
+   "explanation": "Isolated severe thrombocytopenia with **no haemolysis** (normal Hb, no fragments, normal LDH) in a well young woman suggests **ITP**, often a diagnosis of exclusion.",
+   "whyNot": [
+    "",
+    "TTP needs MAHA with fragments and a raised LDH.",
+    "DIC occurs in sick patients with abnormal clotting tests.",
+    "HUS needs MAHA and AKI.",
+    "Aplastic anaemia lowers all cell lines, so Hb would be low too."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s5"
+   },
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 273,
+     "page": 236
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 951,
+     "page": 929
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 341,
+     "page": 341
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 990,
+     "page": 968
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q29",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 3,
+   "stem": "A 48-year-old man presents with headache and blurred vision. BP 238/142 mmHg, papilloedema on fundoscopy, creatinine rising, Hb 95 g/L, platelets 70 × 10⁹/L and fragments on the film. PT and APTT are normal. He is alert and orientated.",
+   "leadIn": "What is the most likely cause of the microangiopathy?",
+   "options": [
+    "Malignant hypertension",
+    "Thrombotic thrombocytopenic purpura",
+    "Shiga-toxin haemolytic uraemic syndrome",
+    "Disseminated intravascular coagulation",
+    "Complement-mediated haemolytic uraemic syndrome"
+   ],
+   "answer": 0,
+   "explanation": "In Davidson’s TMA table, **very high BP with hypertensive retinopathy and papilloedema** points to malignant hypertension, treated by controlling BP.",
+   "whyNot": [
+    "",
+    "TTP has prominent neurology and very low platelets; severe hypertension with papilloedema points elsewhere.",
+    "There is no bloody diarrhoea.",
+    "Clotting tests are normal.",
+    "There is no family history, and the hypertensive retinopathy explains the picture."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 430,
+     "page": 408
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q30",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Causes of red cell fragmentation and low platelets",
+   "leadIn": "Match each patient below with the best-fitting diagnosis from the options. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Acquired (immune) TTP",
+    "Congenital TTP (Upshaw–Schulman syndrome)",
+    "Shiga-toxin HUS",
+    "Complement-mediated HUS",
+    "Disseminated intravascular coagulation",
+    "HELLP syndrome",
+    "Malignant hypertension",
+    "Quinine-induced TMA",
+    "Mechanical heart valve haemolysis",
+    "Immune thrombocytopenic purpura"
+   ],
+   "items": [
+    {
+     "stem": "A 45-year-old woman has 3 days of intermittent confusion and fever. Platelets 12 × 10⁹/L, fragments on the film, PT and APTT normal, ADAMTS-13 activity 3% with an inhibitor present.",
+     "answer": 0,
+     "explanation": "Fever, fluctuating neurology and MAHA with **very low ADAMTS-13 plus an inhibitor** = acquired autoimmune TTP.",
+     "studyRef": {
+      "sectionId": "heme-ttp.s1"
+     }
+    },
+    {
+     "stem": "A 74-year-old man with a metallic aortic valve replacement has fatigue. Hb 96 g/L, fragments on the film, raised LDH, low haptoglobin, platelets 210 × 10⁹/L.",
+     "answer": 8,
+     "explanation": "Fragments and intravascular haemolysis with a **normal platelet count** in a patient with a prosthetic valve suggest mechanical valve haemolysis, not a TMA.",
+     "studyRef": {
+      "sectionId": "heme-ttp.s5"
+     }
+    },
+    {
+     "stem": "A woman at 34 weeks of pregnancy has right upper quadrant pain. BP 162/104 mmHg, ALT 410 U/L, platelets 58 × 10⁹/L, fragments on the film.",
+     "answer": 5,
+     "explanation": "Third trimester, hypertension and **abnormal LFTs** with haemolysis and low platelets = HELLP, which resolves with delivery.",
+     "studyRef": {
+      "sectionId": "heme-ttp.s5"
+     }
+    },
+    {
+     "stem": "A 67-year-old man is in septic shock from an abdominal source and is bleeding from line sites. Platelets 30 × 10⁹/L, fragments present, PT prolonged, fibrinogen 0.6 g/L.",
+     "answer": 4,
+     "explanation": "Two steps: the film and platelets suggest a TMA, but the **prolonged PT and low fibrinogen** in a septic, bleeding patient show coagulation consumption = DIC.",
+     "studyRef": {
+      "sectionId": "heme-ttp.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 430,
+     "page": 408
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1001,
+     "page": 979
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 341,
+     "page": 341
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 402,
+     "page": 402
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q31",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 31-year-old woman is 5 days post-partum. She has a seizure, then remains confused. Temperature 38.3 °C, BP 126/80 mmHg. Platelets 15 × 10⁹/L, fragments on the film, LDH very high, LFTs normal, PT and APTT normal.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Plasma exchange",
+    "Magnesium sulphate infusion",
+    "Platelet transfusion",
+    "Therapeutic low-molecular-weight heparin",
+    "Intravenous immunoglobulin"
+   ],
+   "answer": 0,
+   "explanation": "Post-partum MAHA, thrombocytopenia, fever and seizures with normal BP, LFTs and clotting point to **TTP**. Treatment is **plasma exchange** (with FFP and sometimes steroids or rituximab); platelets are avoided.",
+   "whyNot": [
+    "",
+    "Magnesium treats eclampsia, which needs hypertension; BP is normal here.",
+    "Platelet transfusion should be avoided in TTP.",
+    "LMWH is for cerebral venous thrombosis, which does not explain MAHA.",
+    "IVIG is an ITP treatment."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1307,
+     "page": 1285
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1298,
+     "page": 1276
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q32",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 3,
+   "stem": "A 42-year-old woman has MAHA, platelets 25 × 10⁹/L and a creatinine of 210 µmol/L. She has mild confusion but no diarrhoea.",
+   "leadIn": "Which result would most strongly support TTP over HUS?",
+   "options": [
+    "ADAMTS-13 activity of 5%",
+    "Undetectable haptoglobin",
+    "Pathogenic complement factor H mutation",
+    "Stool PCR positive for Shiga toxin",
+    "Schistocytes on the blood film"
+   ],
+   "answer": 0,
+   "explanation": "A **very low ADAMTS-13 activity** (< 10%) separates TTP from HUS, in which ADAMTS-13 is normal.",
+   "whyNot": [
+    "",
+    "Low haptoglobin occurs in both TTP and HUS.",
+    "Complement mutations point to atypical HUS.",
+    "Shiga toxin points to diarrhoea-associated HUS.",
+    "Schistocytes are seen in both."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1382,
+     "page": 1369
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 430,
+     "page": 408
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 404,
+     "page": 404
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q33",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 1,
+   "stem": "A pathologist examines tissue from a patient who died of untreated TTP.",
+   "leadIn": "What are the occluding microvascular thrombi mainly composed of?",
+   "options": [
+    "Platelets bound to von Willebrand factor",
+    "Fibrin formed after consumption of clotting factors",
+    "Cholesterol crystals",
+    "Sickled red cells",
+    "Immune complexes with complement"
+   ],
+   "answer": 0,
+   "explanation": "Ultra-large vWF multimers cross-link **platelets**, producing **platelet-rich (hyaline) thrombi** in arterioles and capillaries.",
+   "whyNot": [
+    "",
+    "Fibrin-rich thrombi with factor consumption describe DIC.",
+    "Cholesterol emboli follow arterial instrumentation.",
+    "Sickling causes vaso-occlusion in sickle cell disease.",
+    "Immune complex deposition is a vasculitis mechanism."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1001,
+     "page": 979
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 341,
+     "page": 341
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 974,
+     "page": 952
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1065,
+     "page": 1043
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1000,
+     "page": 978
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q34",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 39-year-old man with acquired TTP is receiving daily plasma exchange and methylprednisolone. The haematologist wants an agent that targets von Willebrand factor to speed platelet recovery and reduce recurrence.",
+   "leadIn": "Which drug fits this description?",
+   "options": [
+    "Caplacizumab",
+    "Eculizumab",
+    "Eltrombopag",
+    "Tranexamic acid",
+    "Unfractionated heparin"
+   ],
+   "answer": 0,
+   "explanation": "**Caplacizumab** blocks the vWF–glycoprotein Ib interaction, giving faster platelet recovery and fewer recurrences.",
+   "whyNot": [
+    "",
+    "Eculizumab blocks C5 and is used in complement-mediated HUS.",
+    "Eltrombopag is a thrombopoietin agonist used in ITP.",
+    "Tranexamic acid is an antifibrinolytic and does not act on von Willebrand factor.",
+    "Heparin does not target the vWF–platelet interaction."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 398,
+     "page": 374
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 844,
+     "page": 844
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 273,
+     "page": 236
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409
+    }
+   ]
+  },
+  {
+   "id": "heme-ttp.q35",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 1,
+   "stem": "A patient has thrombocytopenia and red cell fragments on the blood film.",
+   "leadIn": "Which finding would most suggest DIC rather than TTP?",
+   "options": [
+    "Prolonged PT and APTT with low fibrinogen",
+    "Markedly raised LDH",
+    "Schistocytes on the film",
+    "Undetectable haptoglobin",
+    "Platelet count below 20 × 10⁹/L"
+   ],
+   "answer": 0,
+   "explanation": "DIC consumes clotting factors and fibrinogen, so **PT and APTT are prolonged and fibrinogen is low**. In TTP these are normal.",
+   "whyNot": [
+    "",
+    "LDH is high in both.",
+    "Fragments occur in both.",
+    "Haptoglobin is low in both.",
+    "Severe thrombocytopenia occurs in both."
+   ],
+   "studyRef": {
+    "sectionId": "heme-ttp.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 430,
+     "page": 408
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 403,
+     "page": 403
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 843,
+     "page": 843
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "heme-ttp.o1",
+   "sectionId": "heme-ttp.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 943,
+    "page": 921,
+    "figure": "Fig. 23.8"
+   },
+   "identify": "Panel E: red cell fragments (schistocytes) → intravascular, microangiopathic haemolysis, as in TTP, HUS or DIC"
+  },
+  {
+   "id": "heme-ttp.o2",
+   "sectionId": "heme-ttp.s4",
+   "cite": {
+    "book": "fa2ck11",
+    "pdfPage": 404,
+    "page": 404,
+    "figure": "FIGURE 2.7-5"
+   },
+   "identify": "Arrowed fragmented red cells (schistocytes) → MAHA (TTP/HUS) or mechanical valve haemolysis; with low platelets and confusion, think TTP"
+  },
+  {
+   "id": "heme-ttp.o3",
+   "sectionId": "heme-ttp.s5",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 1381,
+    "page": 1368,
+    "figure": "Fig. 36.25"
+   },
+   "identify": "Glomerulus with arrowed microthrombi → thrombotic microangiopathy (renal lesion typical of HUS; TTP is the main differential)"
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:31:12.210Z",
+  "contentHash": "7d61f71b954cecc88fbed5c80b6a143548fab16ec7e2b835ab0df21fbb85f0cf"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:31:12.225Z",
+  "contentHash": "7d61f71b954cecc88fbed5c80b6a143548fab16ec7e2b835ab0df21fbb85f0cf",
+  "checkerVersion": "source-check-v1"
+ }
+}

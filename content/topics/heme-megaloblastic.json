@@ -1,0 +1,3370 @@
+{
+ "topicId": "heme-megaloblastic",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "heme-megaloblastic.s1",
+   "title": "Definition and classification",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Megaloblastic anaemia** is a macrocytic anaemia in which **defective DNA synthesis** delays maturation of the nucleus in bone marrow erythroblasts. These abnormal precursors are called **megaloblasts**. Almost all cases come from **vitamin B12 or folate deficiency**, or from a disturbance of folate metabolism.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 965,
+       "page": 943,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 357,
+       "page": 333,
+       "chapter": "Haematology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 239,
+       "page": 202,
+       "chapter": "Haematological disease"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Key terms",
+     "items": [
+      "**Megaloblast:** an oversized red cell precursor with an immature nucleus. Its chromatin is fine, open and stippled.",
+      "**Macrocytosis** (Davidson): average red cell size increased, **MCV > 100 fL**. Microcytosis is MCV < 76 fL.",
+      "Macrocytic anaemias split by **marrow appearance** into **megaloblastic** and **non-megaloblastic (normoblastic)** types.",
+      "In practice the marrow is rarely examined first. The opening tests for macrocytosis are **serum B12 and red cell folate**."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 357,
+       "page": 333,
+       "chapter": "Haematology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 943,
+       "page": 921,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 963,
+       "page": 941,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 239,
+       "page": 202,
+       "chapter": "Haematological disease"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "A coexisting cause of small cells, such as **iron deficiency**, can produce a **dimorphic film** (two red cell populations) with a normal or even low average MCV. A normal MCV does not exclude megaloblastic anaemia.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 357,
+       "page": 333,
+       "chapter": "Haematology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Books use different cut-offs. **Davidson** defines macrocytosis as **MCV > 100 fL**. Kumar & Clark (and the Essentials table) use **MCV > 96 fL**. Use Davidson’s figure in the exam.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 943,
+       "page": 921,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 963,
+       "page": 941,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 236,
+       "page": 199,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 357,
+       "page": 333,
+       "chapter": "Haematology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 357,
+      "page": 333,
+      "chapter": "Haematology",
+      "figure": "Fig. 16.10"
+     },
+     "note": "Look at: bone marrow megaloblasts (arrowed), large cells whose nuclei have a fine, open chromatin pattern."
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.s2",
+   "title": "Vitamin B12 and folate metabolism",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "B12 and folate meet in one reaction. **Folate (as methyl-THF) is the substrate and B12 the co-factor** for turning **homocysteine into methionine**. This step regenerates tetrahydrofolate (THF), which is needed to make the thymidine used for DNA. The methyl donor that converts **dUMP to dTMP** is methylene-THF. Without B12, folate stays **trapped as methyl-THF**, so DNA synthesis fails in either deficiency. Lack of either vitamin also **raises plasma homocysteine**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 965,
+       "page": 943,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 357,
+       "page": 333,
+       "chapter": "Haematology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "B12 has a **second job** that folate does not share: it is the co-factor for converting **methylmalonyl-CoA to succinyl-CoA**. This is why **methylmalonic acid (MMA) rises only in B12 deficiency**, while homocysteine rises in both.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 813,
+       "page": 813,
+       "chapter": "Hematology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 814,
+       "page": 814,
+       "chapter": "Hematology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "B12 and folate compared",
+     "columns": [
+      "Feature",
+      "Vitamin B12",
+      "Folate"
+     ],
+     "rows": [
+      [
+       "Sources",
+       "Animal foods only: meat, fish, eggs, milk",
+       "Leafy vegetables, fruit, liver and kidney"
+      ],
+      [
+       "Intake vs need",
+       "Diet gives 5–30 μg/day; need is about 1 μg/day",
+       "Western diet exceeds the minimum of about 50 μg/day"
+      ],
+      [
+       "Cooking",
+       "Not usually destroyed",
+       "Destroyed by excess cooking"
+      ],
+      [
+       "Absorption site",
+       "Terminal ileum, as the B12–intrinsic factor complex",
+       "Upper small bowel, after polyglutamates are converted to monoglutamate"
+      ],
+      [
+       "Carrier in plasma",
+       "Transcobalamin II delivers it to tissues (B12 on TCII = holotranscobalamin, the “active” form)",
+       "Loosely bound to albumin; enterohepatic circulation"
+      ],
+      [
+       "Stores (Davidson)",
+       "Liver holds about **3 years**’ supply",
+       "Small; deficiency can appear within **weeks**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 966,
+       "page": 944,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 967,
+       "page": 945,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 358,
+       "page": 334,
+       "chapter": "Haematology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "B12 absorption, step by step",
+     "items": [
+      "Gastric acid and pepsin free B12 from food proteins.",
+      "Free B12 binds **R protein** (R binder) in the stomach.",
+      "Gastric **parietal cells** secrete **intrinsic factor (IF)**.",
+      "In the duodenum, pancreatic secretions raise the pH and B12 moves from R protein to IF.",
+      "The B12–IF complex binds receptors in the **terminal ileum** and is absorbed.",
+      "In plasma, B12 travels on **transcobalamin II** to the tissues. B12 in bile is reabsorbed (enterohepatic circulation)."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 966,
+       "page": 944,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 240,
+       "page": 203,
+       "chapter": "Haematological disease"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Without intrinsic factor, **under 1%** of dietary B12 is absorbed. About **1% of an oral dose** crosses the gut **passively**, without IF. This is why **high-dose oral B12** can work even in pernicious anaemia.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 966,
+       "page": 944,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 240,
+       "page": 203,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 327,
+       "page": 327,
+       "chapter": "Hematology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Red cell folate can be low in B12 deficiency**, because B12 is needed to convert serum folate into its active form inside cells.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 241,
+       "page": 204,
+       "chapter": "Haematological disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Store estimates differ. **Davidson:** B12 lasts about 3 years and folate only weeks. **Kumar & Clark Essentials:** B12 2 years or more, folate about 4 months. **Pocket Medicine:** B12 2–3 years, folate 2–3 months. The exam point is the same in every book: B12 deficiency takes **years** to appear, folate deficiency develops **fast**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 966,
+       "page": 944,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 967,
+       "page": 945,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 240,
+       "page": 203,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 242,
+       "page": 205,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 326,
+       "page": 326,
+       "chapter": "Hematology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 357,
+      "page": 333,
+      "chapter": "Haematology",
+      "figure": "Fig. 16.12"
+     },
+     "note": "Look at: how B12 and folate interact. Methyl-THF gives up its methyl group via homocysteine → methionine (needs B12), and methylene-THF drives dUMP → dTMP for DNA."
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.s3",
+   "title": "Pathogenesis",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Slow DNA synthesis holds back the **nucleus** while the **cytoplasm** matures normally. This mismatch is called **nucleocytoplasmic asynchrony**. Every rapidly dividing tissue is affected, including the tongue, buccal mucosa, gut and cervix. The fast-turning bone marrow shows the most dramatic changes.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 965,
+       "page": 943,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 326,
+       "page": 326,
+       "chapter": "Hematology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Effects in the marrow and blood",
+     "items": [
+      "**Ineffective erythropoiesis:** precursors die inside a **hypercellular** marrow.",
+      "This intramedullary haemolysis raises **unconjugated bilirubin and LDH**, but **reticulocytes stay low**, unlike peripheral haemolysis.",
+      "**Iron stores are usually increased.**",
+      "Red cells are large and oval. Granulocyte precursors form **giant metamyelocytes**, and mature neutrophils become **hypersegmented** (six or more lobes).",
+      "White cells and platelets are also affected. Severe cases show **pancytopenia**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 965,
+       "page": 943,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 239,
+       "page": 202,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 326,
+       "page": 326,
+       "chapter": "Hematology"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Neurological damage occurs in B12 deficiency, not folate deficiency.** It affects up to **40%** of B12-deficient patients. The lesion is **focal demyelination** of the spinal cord, peripheral nerves, optic nerves and cerebrum.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 965,
+       "page": 943,
+       "chapter": "Haematology and transfusion medicine"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Pernicious anaemia (PA)** is an organ-specific **autoimmune atrophic gastritis** of the gastric fundus. The mucosa is infiltrated by plasma cells and lymphocytes. Parietal and chief cells are lost and replaced by mucin-secreting cells, so the stomach makes **no acid (achlorhydria)** and **no intrinsic factor**. Ileal absorption of B12 then fails.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 358,
+       "page": 334,
+       "chapter": "Haematology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 966,
+       "page": 944,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 240,
+       "page": 203,
+       "chapter": "Haematological disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Pancytopenia with a **cellular** marrow suggests **severe megaloblastic anaemia** (ineffective haematopoiesis). It should not be mistaken for marrow failure, where the marrow is hypocellular.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 952,
+       "page": 930,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 327,
+       "page": 327,
+       "chapter": "Hematology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.s4",
+   "title": "Causes of B12 and folate deficiency",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Causes of vitamin B12 deficiency",
+     "columns": [
+      "Mechanism",
+      "Causes",
+      "Exam note"
+     ],
+     "rows": [
+      [
+       "Low intake",
+       "Strict vegans",
+       "Less strict vegetarians may have slightly low levels without tissue deficiency"
+      ],
+      [
+       "Gastric",
+       "Pernicious anaemia; total or partial gastrectomy; hypochlorhydria in the elderly; congenital IF deficiency",
+       "Total gastrectomy **always** causes deficiency within 5 years; partial gastrectomy in only 10–20% by 5 years"
+      ],
+      [
+       "Small bowel",
+       "Terminal ileal Crohn’s disease or resection; bacterial overgrowth; fish tapeworm; tropical sprue",
+       "Overgrowth (motility disorders, hypogammaglobulinaemia, blind loops) competes for B12 and improves partly with antibiotics"
+      ],
+      [
+       "Pancreatic",
+       "Exocrine insufficiency",
+       "B12 is not transferred from R protein to IF; levels slightly low, usually no tissue deficiency"
+      ],
+      [
+       "Utilisation",
+       "Nitrous oxide; congenital transcobalamin II deficiency",
+       "Nitrous oxide inactivates B12"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 966,
+       "page": 944,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 358,
+       "page": 334,
+       "chapter": "Haematology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 240,
+       "page": 203,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 813,
+       "page": 813,
+       "chapter": "Hematology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Pernicious anaemia: who gets it",
+     "items": [
+      "The **commonest cause of B12 deficiency in adults** in Western countries.",
+      "Incidence about **25 per 100 000** over age 40, with an average onset at **60 years**. Commoner in **women**.",
+      "Linked with other autoimmune disease: **Hashimoto’s thyroiditis, Graves’ disease, vitiligo and Addison’s disease**, and with a family history of these.",
+      "Carries a **higher risk of gastric carcinoma** than the general population."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 966,
+       "page": 944,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 358,
+       "page": 334,
+       "chapter": "Haematology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 241,
+       "page": 204,
+       "chapter": "Haematological disease"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Causes of folate deficiency",
+     "columns": [
+      "Mechanism",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Poor intake (the main cause)",
+       "Edentulous elderly, psychiatric patients, poverty, alcohol excess, anorexia, a “tea and toast” diet"
+      ],
+      [
+       "Malabsorption",
+       "Coeliac disease, small bowel surgery, Crohn’s disease, tropical sprue"
+      ],
+      [
+       "Increased use",
+       "Pregnancy and lactation, prematurity, chronic haemolysis, malignancy, inflammatory disease, dialysis"
+      ],
+      [
+       "Drugs",
+       "Anticonvulsants (phenytoin, primidone, valproate, carbamazepine), methotrexate, trimethoprim, pyrimethamine, sulfasalazine, the contraceptive pill"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 967,
+       "page": 945,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 359,
+       "page": 335,
+       "chapter": "Haematology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 242,
+       "page": 205,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 817,
+       "page": 817,
+       "chapter": "Hematology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Pregnancy-related folate deficiency is the commonest cause of megaloblastosis worldwide.** The risk is higher with **twins, multiparity and hyperemesis gravidarum**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 967,
+       "page": 945,
+       "chapter": "Haematology and transfusion medicine"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Megaloblastic change without B12 or folate lack",
+     "items": [
+      "Drugs that block DNA synthesis, e.g. **hydroxycarbamide** and **azathioprine**.",
+      "Inherited enzyme defects such as **orotic aciduria**.",
+      "**Myelodysplasia**."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 357,
+       "page": 333,
+       "chapter": "Haematology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 326,
+       "page": 326,
+       "chapter": "Hematology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Chronic haemolysis uses up folate. In **hereditary spherocytosis** a **megaloblastic crisis** follows folate deficiency, sometimes as the first presentation during pregnancy.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 969,
+       "page": 947,
+       "chapter": "Haematology and transfusion medicine"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.s5",
+   "title": "Clinical features",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Symptoms (approximate frequency, Davidson)",
+     "items": [
+      "Malaise (90%), paraesthesiae (80%), breathlessness (50%), sore mouth (20%).",
+      "Weight loss and impotence.",
+      "Poor memory, depression, personality change, hallucinations, visual disturbance."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 965,
+       "page": 943,
+       "chapter": "Haematology and transfusion medicine"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Signs",
+     "items": [
+      "**Smooth, red, sore tongue (glossitis)** and **angular cheilosis/stomatitis**.",
+      "A **“lemon-yellow”** tinge, from pallor plus mild jaundice caused by ineffective erythropoiesis.",
+      "Vitiligo and skin pigmentation.",
+      "Signs of the anaemia itself: heart failure; **pyrexia** may also occur."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 965,
+       "page": 943,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 358,
+       "page": 334,
+       "chapter": "Haematology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 241,
+       "page": 204,
+       "chapter": "Haematological disease"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Neurology of B12 deficiency",
+     "columns": [
+      "Site",
+      "Findings"
+     ],
+     "rows": [
+      [
+       "Peripheral nerves",
+       "Glove-and-stocking paraesthesiae; loss of ankle reflexes"
+      ],
+      [
+       "Spinal cord: **subacute combined degeneration (SCDC)**",
+       "Posterior columns: reduced vibration and joint position sense, sensory ataxia. Corticospinal tracts: UMN signs (spasticity, brisk knee jerks, extensor plantars). Untreated, it leads to progressive weakness and paraplegia"
+      ],
+      [
+       "Brain and optic nerve",
+       "Dementia, mood change, optic atrophy"
+      ],
+      [
+       "Autonomic",
+       "Autonomic neuropathy; urinary/faecal incontinence, impotence"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 966,
+       "page": 944,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 241,
+       "page": 204,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 814,
+       "page": 814,
+       "chapter": "Hematology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 327,
+       "page": 327,
+       "chapter": "Hematology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Neurology can come before the anaemia.** B12 deficiency may cause marked neurological disease with normal blood counts, and late diagnosis risks permanent damage. Check B12 in anyone being assessed for **dementia or neuropathy**.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 814,
+       "page": 814,
+       "chapter": "Hematology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 358,
+       "page": 334,
+       "chapter": "Haematology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Folate deficiency does not cause neuropathy.** Its features are those of the anaemia (plus glossitis). Neuropathy points to B12.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 242,
+       "page": 205,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 359,
+       "page": 335,
+       "chapter": "Haematology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 965,
+       "page": 943,
+       "chapter": "Haematology and transfusion medicine"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "A classic local exam case is a patient with a **previous gastrectomy** who develops leg weakness and stiffness with glove-and-stocking sensory loss. The answer is **SCDC on top of B12 deficiency**.",
+     "cites": [
+      {
+       "book": "allam25",
+       "pdfPage": 31,
+       "page": 30,
+       "chapter": "Blood"
+      },
+      {
+       "book": "allam25",
+       "pdfPage": 33,
+       "page": 32,
+       "chapter": "Blood"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.s6",
+   "title": "Investigations",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Typical results in megaloblastic anaemia",
+     "columns": [
+      "Test",
+      "Result"
+     ],
+     "rows": [
+      [
+       "Haemoglobin",
+       "Low, sometimes very low"
+      ],
+      [
+       "MCV",
+       "Raised, commonly **> 120 fL**"
+      ],
+      [
+       "Reticulocytes",
+       "Low for the degree of anaemia"
+      ],
+      [
+       "White cells, platelets",
+       "Normal or low; pancytopenia when severe"
+      ],
+      [
+       "Blood film",
+       "Oval macrocytes, poikilocytosis, red cell fragments, **hypersegmented neutrophils (≥ 6 lobes)**"
+      ],
+      [
+       "LDH",
+       "Raised, often markedly"
+      ],
+      [
+       "Bilirubin",
+       "Mildly raised (unconjugated) from intramedullary destruction"
+      ],
+      [
+       "Ferritin",
+       "Raised"
+      ],
+      [
+       "Bone marrow (only if unclear)",
+       "Hypercellular, megaloblasts, giant metamyelocytes, dysplastic megakaryocytes, increased iron"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 966,
+       "page": 944,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 965,
+       "page": 943,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 241,
+       "page": 204,
+       "chapter": "Haematological disease"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Confirming B12 deficiency",
+     "items": [
+      "**Serum B12** is the first-line test and usually diagnostic, often < 50 ng/L (normal > 160 ng/L).",
+      "**MMA and homocysteine** help when B12 is borderline but suspicion is high. **Raised MMA is specific to B12 lack**; homocysteine rises in both deficiencies.",
+      "**Falsely low B12:** pregnancy (physiological fall), the oral contraceptive pill, and myeloma (paraprotein interferes with the assay)."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 966,
+       "page": 944,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 241,
+       "page": 204,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 814,
+       "page": 814,
+       "chapter": "Hematology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 359,
+       "page": 335,
+       "chapter": "Haematology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Finding the cause of B12 deficiency",
+     "items": [
+      "**Anti-intrinsic factor antibodies** plus B12 deficiency **confirm pernicious anaemia**. They are specific but positive in only about **50%**.",
+      "**Antiparietal cell antibodies** are present in **> 90%** of PA but also in about 20% of normal women over 60. They are sensitive, not specific.",
+      "**Serum gastrin** is raised in PA, because of achlorhydria.",
+      "The **Schilling test** (radiolabelled B12 absorption with and without IF) is **obsolete**, replaced by autoantibody tests.",
+      "If no cause is obvious: imaging of the terminal ileum and **distal duodenal biopsy** for coeliac disease. Endoscopy in PA only if there are gastric symptoms."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 966,
+       "page": 944,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 241,
+       "page": 204,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 327,
+       "page": 327,
+       "chapter": "Hematology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 815,
+       "page": 815,
+       "chapter": "Hematology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 359,
+       "page": 335,
+       "chapter": "Haematology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Confirming folate deficiency",
+     "items": [
+      "**Red cell folate** best reflects tissue stores and prolonged deficiency.",
+      "**Serum folate** swings with recent intake. A single folate-rich meal can normalise it, while alcohol, anorexia and anticonvulsants can lower it without true deficiency.",
+      "Folate deficiency: **homocysteine raised, MMA normal**.",
+      "If the diet does not explain it, look for **small bowel disease** (e.g. coeliac) with a biopsy."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 967,
+       "page": 945,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 242,
+       "page": 205,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 326,
+       "page": 326,
+       "chapter": "Hematology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 359,
+       "page": 335,
+       "chapter": "Haematology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A **negative IF antibody test does not exclude PA**. A patient with no other cause of B12 deficiency may still have it (Kumar).",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 359,
+       "page": 335,
+       "chapter": "Haematology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 241,
+       "page": 204,
+       "chapter": "Haematological disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Kumar suggests **holotranscobalamin** may be a better marker than serum B12. **Davidson** keeps **serum B12 as first-line** and says MMA, holotranscobalamin and homocysteine add little in most cases. Follow Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 966,
+       "page": 944,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 359,
+       "page": 335,
+       "chapter": "Haematology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 357,
+      "page": 333,
+      "chapter": "Haematology",
+      "figure": "Fig. 16.11"
+     },
+     "note": "Look at: oval macrocytes with a hypersegmented neutrophil (arrowed), the classic megaloblastic blood film."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "stepup6",
+      "pdfPage": 815,
+      "page": 815,
+      "chapter": "Hematology",
+      "figure": "Figure 9-5"
+     },
+     "note": "Look at: a single neutrophil with too many nuclear lobes in vitamin B12 deficiency."
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.s7",
+   "title": "Differential diagnosis of macrocytosis",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "There are three ways for red cells to become large. (1) **Defective DNA synthesis**: B12 or folate lack, cytotoxic drugs, myelodysplasia. (2) **Marked reticulocytosis**, because young red cells are bigger. (3) **Raised plasma lipid**, with extra lipid laid down on the red cell membrane: liver disease, hypothyroidism, alcohol, hyperlipidaemia, pregnancy.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 963,
+       "page": 941,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 360,
+       "page": 336,
+       "chapter": "Haematology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Causes of a raised MCV",
+     "columns": [
+      "Group",
+      "Causes",
+      "Clue"
+     ],
+     "rows": [
+      [
+       "Megaloblastic",
+       "B12 or folate deficiency; DNA-synthesis drugs (methotrexate, hydroxycarbamide, azathioprine, zidovudine); myelodysplasia; orotic aciduria",
+       "Hypersegmented neutrophils, oval macrocytes, low vitamin levels (except drugs, MDS)"
+      ],
+      [
+       "Physiological",
+       "Pregnancy, newborn",
+       "MCV may rise by about 5 fL in pregnancy"
+      ],
+      [
+       "Alcohol",
+       "Excess intake",
+       "**Commonest cause of macrocytosis in the UK**; MCV is a surrogate marker of heavy drinking"
+      ],
+      [
+       "Liver disease",
+       "Chronic liver disease",
+       "Target cells or spur cells on the film"
+      ],
+      [
+       "Reticulocytosis",
+       "Haemolysis, bleeding",
+       "**High reticulocyte count**"
+      ],
+      [
+       "Endocrine",
+       "Hypothyroidism",
+       "Normal B12 and folate"
+      ],
+      [
+       "Marrow disorders",
+       "Myelodysplasia, aplastic anaemia, sideroblastic anaemia, myeloma",
+       "Other cytopenias; marrow needed"
+      ],
+      [
+       "Artefact",
+       "Cold agglutinins",
+       "Red cells clump; MCV falls to normal when the sample is warmed to 37°C"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 943,
+       "page": 921,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 963,
+       "page": 941,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 360,
+       "page": 336,
+       "chapter": "Haematology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 243,
+       "page": 206,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 327,
+       "page": 327,
+       "chapter": "Hematology"
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 330\" role=\"img\" aria-label=\"Approach to a raised MCV\">\n<rect x=\"230\" y=\"10\" width=\"180\" height=\"40\" rx=\"6\" fill=\"#e8eef7\" stroke=\"#34507a\"/>\n<text x=\"320\" y=\"35\" font-size=\"14\" text-anchor=\"middle\" font-family=\"sans-serif\">MCV above 100 fL</text>\n<line x1=\"320\" y1=\"50\" x2=\"320\" y2=\"75\" stroke=\"#34507a\" stroke-width=\"2\"/>\n<rect x=\"200\" y=\"75\" width=\"240\" height=\"40\" rx=\"6\" fill=\"#e8eef7\" stroke=\"#34507a\"/>\n<text x=\"320\" y=\"100\" font-size=\"14\" text-anchor=\"middle\" font-family=\"sans-serif\">Reticulocyte count?</text>\n<line x1=\"260\" y1=\"115\" x2=\"130\" y2=\"150\" stroke=\"#34507a\" stroke-width=\"2\"/>\n<line x1=\"380\" y1=\"115\" x2=\"500\" y2=\"150\" stroke=\"#34507a\" stroke-width=\"2\"/>\n<rect x=\"20\" y=\"150\" width=\"220\" height=\"56\" rx=\"6\" fill=\"#fdf1e3\" stroke=\"#a5651b\"/>\n<text x=\"130\" y=\"173\" font-size=\"13\" text-anchor=\"middle\" font-family=\"sans-serif\">High: haemolysis or bleeding</text>\n<text x=\"130\" y=\"193\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">(big young red cells)</text>\n<rect x=\"390\" y=\"150\" width=\"230\" height=\"56\" rx=\"6\" fill=\"#e8eef7\" stroke=\"#34507a\"/>\n<text x=\"505\" y=\"173\" font-size=\"13\" text-anchor=\"middle\" font-family=\"sans-serif\">Low or normal: check serum</text>\n<text x=\"505\" y=\"193\" font-size=\"13\" text-anchor=\"middle\" font-family=\"sans-serif\">B12 and red cell folate</text>\n<line x1=\"450\" y1=\"206\" x2=\"350\" y2=\"240\" stroke=\"#34507a\" stroke-width=\"2\"/>\n<line x1=\"560\" y1=\"206\" x2=\"540\" y2=\"240\" stroke=\"#34507a\" stroke-width=\"2\"/>\n<rect x=\"180\" y=\"240\" width=\"250\" height=\"76\" rx=\"6\" fill=\"#e6f4ea\" stroke=\"#2f7a45\"/>\n<text x=\"305\" y=\"263\" font-size=\"13\" text-anchor=\"middle\" font-family=\"sans-serif\">Low: megaloblastic anaemia</text>\n<text x=\"305\" y=\"283\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">find the cause (IF antibodies,</text>\n<text x=\"305\" y=\"301\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">diet, gut, drugs, pregnancy)</text>\n<rect x=\"440\" y=\"240\" width=\"190\" height=\"76\" rx=\"6\" fill=\"#f4e6f0\" stroke=\"#7a2f66\"/>\n<text x=\"535\" y=\"263\" font-size=\"13\" text-anchor=\"middle\" font-family=\"sans-serif\">Normal: alcohol, liver,</text>\n<text x=\"535\" y=\"283\" font-size=\"13\" text-anchor=\"middle\" font-family=\"sans-serif\">thyroid, drugs, MDS,</text>\n<text x=\"535\" y=\"301\" font-size=\"13\" text-anchor=\"middle\" font-family=\"sans-serif\">pregnancy, artefact</text>\n</svg>",
+     "alt": "Algorithm for MCV above 100 fL: high reticulocytes suggest haemolysis or bleeding; otherwise check B12 and red cell folate. Low levels mean megaloblastic anaemia; normal levels suggest alcohol, liver, thyroid, drugs, MDS, pregnancy or artefact.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 963,
+       "page": 941,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 239,
+       "page": 202,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 243,
+       "page": 206,
+       "chapter": "Haematological disease"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "A raised MCV is a useful **surrogate marker of alcohol excess**. Alcohol can also cause true megaloblastic anaemia, through **direct marrow toxicity** and **dietary folate deficiency**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 360,
+       "page": 336,
+       "chapter": "Haematology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 243,
+       "page": 206,
+       "chapter": "Haematological disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A very high MCV in a sample that shows **clumped red cells** may be an **artefact from cold agglutinins**. Rewarm the sample to 37°C and repeat the count before investigating further.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 360,
+       "page": 336,
+       "chapter": "Haematology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Macrocytosis with a **high reticulocyte count** points to haemolysis or bleeding. Megaloblastic anaemia has **low** reticulocytes despite its raised bilirubin and LDH.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 963,
+       "page": 941,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 965,
+       "page": 943,
+       "chapter": "Haematology and transfusion medicine"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 963,
+      "page": 941,
+      "chapter": "Haematology and transfusion medicine",
+      "figure": "Fig. 23.17"
+     },
+     "note": "Look at: the three routes to a large red cell (DNA synthesis defect, reticulocytosis, membrane lipid), contrasted with the haemoglobinisation defects that cause microcytosis."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 943,
+      "page": 921,
+      "chapter": "Haematology and transfusion medicine",
+      "figure": "Fig. 23.8"
+     },
+     "note": "Look at: panel B, macrocytosis. Large red cells, with the main causes of macrocytosis listed beside the panel."
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.s8",
+   "title": "Management",
+   "objectiveIdx": [
+    7
+   ],
+   "blocks": [
+    {
+     "type": "pitfall",
+     "text": "**Never give folic acid alone** when the cause of megaloblastic anaemia is unknown. It can correct the blood count while **precipitating or worsening B12 neuropathy (SCDC)**. If a very ill patient must be treated before results arrive, give **both B12 and folic acid**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 967,
+       "page": 945,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 243,
+       "page": 206,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 327,
+       "page": 327,
+       "chapter": "Hematology"
+      },
+      {
+       "book": "allam25",
+       "pdfPage": 30,
+       "page": 29,
+       "chapter": "Blood"
+      },
+      {
+       "book": "allam25",
+       "pdfPage": 33,
+       "page": 32,
+       "chapter": "Blood"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Davidson regimens",
+     "columns": [
+      "Situation",
+      "Treatment"
+     ],
+     "rows": [
+      [
+       "B12 deficiency, no neurology",
+       "Hydroxocobalamin **1000 μg IM, 6 doses 2–3 days apart**, then **1000 μg every 3 months for life**"
+      ],
+      [
+       "B12 deficiency with neurology",
+       "Hydroxocobalamin 1000 μg IM **on alternate days until no further improvement**, then 3-monthly maintenance"
+      ],
+      [
+       "After total gastrectomy",
+       "Lifelong 3-monthly B12 injections"
+      ],
+      [
+       "After partial gastrectomy",
+       "An annual B12 injection prevents deficiency"
+      ],
+      [
+       "Folate deficiency",
+       "Oral folic acid **5 mg daily for 3 weeks**, then **5 mg once weekly** for maintenance"
+      ],
+      [
+       "Prophylaxis",
+       "Folic acid in pregnancy (also lowers neural tube defect risk) and chronic haemolysis; **5 mg daily for life in hereditary spherocytosis**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 967,
+       "page": 945,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 966,
+       "page": 944,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 969,
+       "page": 947,
+       "chapter": "Haematology and transfusion medicine"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Expected response and what to watch",
+     "items": [
+      "**Reticulocytes peak at day 5–10**, and Hb then rises by about **10 g/L per week**.",
+      "As the marrow recovers, **potassium falls**. Hypokalaemia can be fatal, so check K+.",
+      "New red cells **use up iron quickly**. If the response stalls and the film becomes **dimorphic**, add iron.",
+      "Hyperuricaemia may occur during B12 therapy.",
+      "A sensory neuropathy may take **6–12 months** to improve, and long-standing damage may never recover."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 967,
+       "page": 945,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 281,
+       "page": 244,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 360,
+       "page": 336,
+       "chapter": "Haematology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Transfusion",
+     "items": [
+      "Rarely needed. Reserve it for **severe angina or heart failure**.",
+      "The heart is adapted to chronic anaemia, so the volume load can cause **cardiac decompensation**.",
+      "If essential, use **exchange transfusion** or **1 unit given slowly with diuretic cover**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 967,
+       "page": 945,
+       "chapter": "Haematology and transfusion medicine"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other points",
+     "items": [
+      "Treat the **underlying cause**, e.g. a gluten-free diet in coeliac disease.",
+      "**Oral B12** (e.g. 2 mg daily) is an alternative for mild cases or good adherence, and high doses work even with malabsorption.",
+      "Dietary B12 deficiency (vegans): oral cyanocobalamin supplements.",
+      "Neural tube defect prevention: at least **400 μg/day** folic acid before conception and in pregnancy, or **5 mg/day** after a previously affected pregnancy.",
+      "Monitor B12 after gastrectomy or ileal resection."
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 242,
+       "page": 205,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 243,
+       "page": 206,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 281,
+       "page": 244,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 360,
+       "page": 336,
+       "chapter": "Haematology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 815,
+       "page": 815,
+       "chapter": "Hematology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Regimens differ between books. **Davidson** (exam standard) uses 6 IM doses, then 3-monthly; with neurology, alternate days until improvement stops. **Kumar & Clark Essentials** uses 1 mg three times a week for 2 weeks; with neurology, daily for 6 days, then every 2 months. **Pocket Medicine** uses daily for 7 days, then weekly, then monthly. Folate courses range from **3 weeks** (Davidson) to **4 months** (Kumar & Clark Essentials).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 967,
+       "page": 945,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 281,
+       "page": 244,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 242,
+       "page": 205,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 327,
+       "page": 327,
+       "chapter": "Hematology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Pocket Medicine says neurological deficits reverse if treated **within 6 months**. Davidson stresses that recovery takes **6–12 months** and that long-standing damage may be permanent. Either way, **treat early**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 967,
+       "page": 945,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 327,
+       "page": 327,
+       "chapter": "Hematology"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "heme-megaloblastic.c1",
+   "sectionId": "heme-megaloblastic.s1",
+   "front": "What defines megaloblastic anaemia?",
+   "back": "Marrow erythroblasts with **delayed nuclear maturation** relative to the cytoplasm, caused by **defective DNA synthesis** (usually B12 or folate deficiency).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 357,
+     "page": 333,
+     "chapter": "Haematology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 965,
+     "page": 943,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.c2",
+   "sectionId": "heme-megaloblastic.s1",
+   "front": "Davidson cut-off for macrocytosis?",
+   "back": "**MCV > 100 fL** (Kumar & Clark Essentials uses > 96 fL).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 943,
+     "page": 921,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 236,
+     "page": 199,
+     "chapter": "Haematological disease"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.c3",
+   "sectionId": "heme-megaloblastic.s2",
+   "front": "Where is the B12–intrinsic factor complex absorbed, and what carries B12 in plasma?",
+   "back": "**Terminal ileum**; carried to tissues by **transcobalamin II**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.c4",
+   "sectionId": "heme-megaloblastic.s2",
+   "front": "How long do liver B12 stores last (Davidson), compared with folate stores?",
+   "back": "B12 about **3 years**; folate stores are small, so deficiency can appear within **weeks**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 967,
+     "page": 945,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.c5",
+   "sectionId": "heme-megaloblastic.s2",
+   "front": "Which metabolite rises in B12 deficiency but not in folate deficiency, and why?",
+   "back": "**Methylmalonic acid**, because B12 alone is the co-factor for methylmalonyl-CoA → succinyl-CoA.",
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 813,
+     "page": 813,
+     "chapter": "Hematology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 814,
+     "page": 814,
+     "chapter": "Hematology"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.c6",
+   "sectionId": "heme-megaloblastic.s3",
+   "front": "Why are LDH and bilirubin raised while reticulocytes are low?",
+   "back": "**Ineffective erythropoiesis**: precursors die inside a hypercellular marrow.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 965,
+     "page": 943,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.c7",
+   "sectionId": "heme-megaloblastic.s3",
+   "front": "What fraction of B12-deficient patients get neurological disease, and what is the lesion?",
+   "back": "Up to **40%**; **focal demyelination** of cord, peripheral and optic nerves and cerebrum.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 965,
+     "page": 943,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.c8",
+   "sectionId": "heme-megaloblastic.s4",
+   "front": "Commonest cause of megaloblastosis worldwide?",
+   "back": "**Folate deficiency in pregnancy**, especially twins, multiparity and hyperemesis.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 967,
+     "page": 945,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.c9",
+   "sectionId": "heme-megaloblastic.s4",
+   "front": "B12 deficiency risk after total versus partial gastrectomy?",
+   "back": "Total: **always** within 5 years. Partial: **10–20%** by 5 years.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.c10",
+   "sectionId": "heme-megaloblastic.s5",
+   "front": "Which tracts are involved in subacute combined degeneration of the cord?",
+   "back": "**Posterior columns** (vibration, proprioception) and **corticospinal tracts** (UMN signs).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.c11",
+   "sectionId": "heme-megaloblastic.s6",
+   "front": "Most specific antibody test for pernicious anaemia?",
+   "back": "**Anti-intrinsic factor antibodies.** Specific but positive in only ~50%. Antiparietal cell antibodies are positive in > 90% but non-specific.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 241,
+     "page": 204,
+     "chapter": "Haematological disease"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.c12",
+   "sectionId": "heme-megaloblastic.s6",
+   "front": "Best test of tissue folate status?",
+   "back": "**Red cell folate.** Serum folate changes with recent meals.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 967,
+     "page": 945,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 242,
+     "page": 205,
+     "chapter": "Haematological disease"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.c13",
+   "sectionId": "heme-megaloblastic.s7",
+   "front": "Commonest cause of macrocytosis in the UK?",
+   "back": "**Alcohol excess.**",
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 243,
+     "page": 206,
+     "chapter": "Haematological disease"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.c14",
+   "sectionId": "heme-megaloblastic.s7",
+   "front": "Raised MCV that becomes normal when the sample is warmed to 37°C?",
+   "back": "**Cold agglutinins** (spurious macrocytosis from red cell clumping).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 360,
+     "page": 336,
+     "chapter": "Haematology"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.c15",
+   "sectionId": "heme-megaloblastic.s8",
+   "front": "Davidson regimen for uncomplicated B12 deficiency?",
+   "back": "Hydroxocobalamin **1000 μg IM × 6 doses, 2–3 days apart**, then **1000 μg every 3 months for life**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 967,
+     "page": 945,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.c16",
+   "sectionId": "heme-megaloblastic.s8",
+   "front": "Two metabolic problems to watch in the first weeks of B12 therapy?",
+   "back": "**Hypokalaemia** (K+ moves into new cells) and **iron depletion** (dimorphic film → add iron).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 967,
+     "page": 945,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 281,
+     "page": 244,
+     "chapter": "Haematological disease"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.c17",
+   "sectionId": "heme-megaloblastic.s8",
+   "front": "Why not give folic acid alone in undiagnosed megaloblastic anaemia?",
+   "back": "It can correct the anaemia but **worsen or precipitate B12 neuropathy (SCDC)**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 967,
+     "page": 945,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 243,
+     "page": 206,
+     "chapter": "Haematological disease"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "heme-megaloblastic.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 63-year-old woman has Hb 82 g/L and MCV 118 fL. Her bone marrow aspirate shows large red cell precursors. Their nuclei have a fine, open chromatin pattern, but their cytoplasm looks normally haemoglobinised.",
+   "leadIn": "Which process best explains this marrow appearance?",
+   "options": [
+    "Defective DNA synthesis",
+    "Defective haem synthesis",
+    "Defective globin chain synthesis",
+    "Excess lipid deposited on red cell membranes",
+    "Premature release of reticulocytes"
+   ],
+   "answer": 0,
+   "explanation": "The nucleus lags behind a normally maturing cytoplasm. These are **megaloblasts**, the hallmark of **defective DNA synthesis**, usually from B12 or folate deficiency.",
+   "whyNot": [
+    "",
+    "Faulty haem synthesis (iron deficiency, sideroblastic anaemia) produces small, poorly filled cells, not megaloblasts.",
+    "Globin chain defects (thalassaemia) cause microcytosis.",
+    "Membrane lipid changes (alcohol, liver disease, hypothyroidism) raise the MCV but leave the marrow normoblastic.",
+    "Reticulocytosis raises the MCV, but the marrow precursors are normal."
+   ],
+   "studyRef": {
+    "sectionId": "heme-megaloblastic.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 357,
+     "page": 333,
+     "chapter": "Haematology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 963,
+     "page": 941,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 46-year-old woman has followed a strict vegan diet for 15 years and has heavy periods. Hb 88 g/L, MCV 89 fL. Her blood film shows two red cell populations, small pale cells and large oval cells, plus hypersegmented neutrophils.",
+   "leadIn": "What best explains the normal MCV?",
+   "options": [
+    "Combined iron and B12 deficiency giving a dimorphic picture",
+    "Anaemia of chronic disease",
+    "Early aplastic anaemia",
+    "Artefact from cold agglutinins",
+    "Acute blood loss"
+   ],
+   "answer": 0,
+   "explanation": "Two populations of cells average out to a **normal MCV**. A vegan diet explains **B12 lack** (oval macrocytes, hypersegmented neutrophils), and menorrhagia explains **iron deficiency** (small pale cells). A normal MCV does not exclude megaloblastic anaemia.",
+   "whyNot": [
+    "",
+    "Anaemia of chronic disease does not produce oval macrocytes or hypersegmented neutrophils.",
+    "Aplastic anaemia causes pancytopenia with an empty marrow, not a dimorphic film with hypersegmented neutrophils.",
+    "Cold agglutinins falsely raise the MCV; they do not create two cell populations.",
+    "Acute blood loss gives a normocytic picture, without macrocytes or hypersegmentation."
+   ],
+   "studyRef": {
+    "sectionId": "heme-megaloblastic.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 357,
+     "page": 333,
+     "chapter": "Haematology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 967,
+     "page": 945,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 34-year-old man has eaten no meat, fish, eggs or dairy products for 12 years. He now has a macrocytic anaemia and a low serum B12, although he felt well for many years after changing his diet.",
+   "leadIn": "Which fact best explains the long delay before deficiency appeared?",
+   "options": [
+    "Liver B12 stores last about 3 years",
+    "B12 is destroyed by normal cooking",
+    "The daily B12 requirement is about 50 μg",
+    "B12 is absorbed mainly in the duodenum",
+    "Leafy vegetables are the main B12 source"
+   ],
+   "answer": 0,
+   "explanation": "The liver holds roughly **3 years’ worth of B12**. Together with enterohepatic recycling, this means deficiency takes **years** to show even when intake stops. B12 comes only from animal foods.",
+   "whyNot": [
+    "",
+    "Cooking does not usually destroy B12 (excess cooking destroys folate).",
+    "The B12 requirement is about 1 μg/day; 50 μg is the minimum folate intake.",
+    "The B12–IF complex is absorbed in the terminal ileum.",
+    "B12 is found only in animal foods; leafy vegetables supply folate."
+   ],
+   "studyRef": {
+    "sectionId": "heme-megaloblastic.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 358,
+     "page": 334,
+     "chapter": "Haematology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 967,
+     "page": 945,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 45-year-old man had 80 cm of terminal ileum resected for Crohn’s disease 6 years ago. His stomach and pancreas are normal. He now has a macrocytic anaemia with a low serum B12.",
+   "leadIn": "Which step in B12 handling has been lost?",
+   "options": [
+    "Release of B12 from food proteins by acid and pepsin",
+    "Binding of B12 to R protein",
+    "Transfer of B12 from R protein to intrinsic factor",
+    "Receptor-mediated uptake of the B12–intrinsic factor complex",
+    "Hepatic production of transcobalamin II"
+   ],
+   "answer": 3,
+   "explanation": "The B12–intrinsic factor complex is taken up by **specific receptors in the terminal ileum**. Removing that segment loses this step, even with a normal stomach and pancreas.",
+   "whyNot": [
+    "This happens in the stomach, which is intact.",
+    "R protein binding occurs in the stomach, which is normal.",
+    "This transfer depends on pancreatic secretions raising the pH; his pancreas is normal.",
+    "",
+    "Transcobalamin II is made by the liver and is unaffected by bowel resection."
+   ],
+   "studyRef": {
+    "sectionId": "heme-megaloblastic.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 240,
+     "page": 203,
+     "chapter": "Haematological disease"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 66-year-old woman has Hb 70 g/L, MCV 121 fL, a reticulocyte count that is low for her anaemia, a markedly raised LDH and a mildly raised unconjugated bilirubin. Her direct Coombs test is negative.",
+   "leadIn": "Which mechanism best explains the raised LDH and bilirubin?",
+   "options": [
+    "Death of red cell precursors within the bone marrow",
+    "Immune destruction of circulating red cells in the spleen",
+    "Mechanical fragmentation of red cells in small vessels",
+    "Failure of hepatic bilirubin conjugation",
+    "Replacement of the marrow by malignant cells"
+   ],
+   "answer": 0,
+   "explanation": "In megaloblastic anaemia, precursors die **inside the marrow** (ineffective erythropoiesis). This releases LDH and raises bilirubin, but because few cells reach the blood the **reticulocyte count stays low**.",
+   "whyNot": [
+    "",
+    "Peripheral immune haemolysis would give a high reticulocyte count and a positive Coombs test.",
+    "Fragmentation haemolysis causes reticulocytosis and does not raise the MCV to 121 fL.",
+    "A conjugation defect does not explain the anaemia, macrocytosis or high LDH.",
+    "Marrow infiltration does not typically cause a very high MCV with raised LDH and bilirubin from ineffective erythropoiesis."
+   ],
+   "studyRef": {
+    "sectionId": "heme-megaloblastic.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 965,
+     "page": 943,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 58-year-old woman with vitiligo and treated Hashimoto’s thyroiditis has a low serum B12. A gastric biopsy shows atrophic fundic mucosa infiltrated by plasma cells and lymphocytes, with loss of parietal cells.",
+   "leadIn": "Which consequence of this lesion directly causes her B12 deficiency?",
+   "options": [
+    "Absent intrinsic factor secretion",
+    "Excess gastric acid destroying dietary B12",
+    "Overgrowth of bacteria in the stomach",
+    "Loss of pancreatic proteases",
+    "Reduced transcobalamin II production"
+   ],
+   "answer": 0,
+   "explanation": "Autoimmune atrophic gastritis destroys **parietal cells**, so **intrinsic factor is not made**. Without IF, less than 1% of dietary B12 is absorbed. This is **pernicious anaemia**.",
+   "whyNot": [
+    "",
+    "Parietal cell loss causes achlorhydria, not acid excess.",
+    "Bacterial overgrowth is a small bowel problem in motility disorders, not the mechanism here.",
+    "Pancreatic function is unaffected by autoimmune gastritis.",
+    "Transcobalamin II is made in the liver and is normal."
+   ],
+   "studyRef": {
+    "sectionId": "heme-megaloblastic.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 358,
+     "page": 334,
+     "chapter": "Haematology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q7",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Causes of B12 and folate deficiency",
+   "leadIn": "Match each patient below to the best option from the list. Any option can fit one case, several cases, or none.",
+   "options": [
+    "Pernicious anaemia",
+    "Strict vegan diet",
+    "Total gastrectomy",
+    "Terminal ileal Crohn’s disease",
+    "Fish tapeworm infestation",
+    "Bacterial overgrowth",
+    "Nitrous oxide exposure",
+    "Pregnancy",
+    "Phenytoin therapy",
+    "Coeliac disease",
+    "Chronic haemolysis"
+   ],
+   "items": [
+    {
+     "stem": "A 52-year-old woman with systemic sclerosis has bloating and diarrhoea. Her B12 is low and her stomach mucosa is normal on biopsy. After a course of antibiotics her B12 level partly recovers.",
+     "answer": 5,
+     "explanation": "Two steps: systemic sclerosis causes a **gut motility disorder**, which allows **bacterial overgrowth**. The bacteria compete for B12, and antibiotics partly correct it.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s4"
+     }
+    },
+    {
+     "stem": "A 34-year-old man with hereditary spherocytosis stopped taking his regular folic acid a year ago. His Hb has fallen, his MCV has risen to 108 fL and his red cell folate is low.",
+     "answer": 10,
+     "explanation": "Ongoing red cell turnover in **chronic haemolysis** consumes folate. In spherocytosis this can produce a megaloblastic crisis, hence lifelong folic acid.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s4"
+     }
+    },
+    {
+     "stem": "A 31-year-old woman has chronic loose stools, weight loss and a macrocytic anaemia with low red cell folate. She eats a varied diet. A distal duodenal biopsy shows villous atrophy.",
+     "answer": 9,
+     "explanation": "Villous atrophy on duodenal biopsy points to **coeliac disease**, a classic malabsorptive cause of folate deficiency.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 967,
+     "page": 945,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 969,
+     "page": 947,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 242,
+     "page": 205,
+     "chapter": "Haematological disease"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 71-year-old man is unsteady, especially in the dark, and has tingling feet. Vibration and joint position sense are lost at the toes, Romberg’s test is positive, ankle jerks are absent and both plantar responses are extensor. Hb 128 g/L, MCV 104 fL.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Subacute combined degeneration of the cord",
+    "Motor neuron disease",
+    "Syringomyelia",
+    "Anterior spinal artery occlusion",
+    "Tabes dorsalis"
+   ],
+   "answer": 0,
+   "explanation": "Posterior column loss (vibration, proprioception, positive Romberg), **UMN signs** (extensor plantars) and a peripheral neuropathy (absent ankle jerks), together with macrocytosis, are classic for **SCDC from B12 deficiency**. Note that the anaemia can be mild or absent.",
+   "whyNot": [
+    "",
+    "Motor neuron disease spares sensation.",
+    "Syringomyelia causes dissociated loss of pain and temperature, typically in the arms.",
+    "Anterior spinal artery occlusion is sudden and spares the posterior columns.",
+    "Tabes affects the posterior columns but does not give UMN signs; the macrocytosis points to B12."
+   ],
+   "studyRef": {
+    "sectionId": "heme-megaloblastic.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 814,
+     "page": 814,
+     "chapter": "Hematology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 241,
+     "page": 204,
+     "chapter": "Haematological disease"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 29-year-old woman, 34 weeks pregnant with twins, has had severe vomiting for much of the pregnancy. She is tired and breathless and has a sore red tongue. Hb 84 g/L, MCV 112 fL. Sensation and reflexes are normal.",
+   "leadIn": "What is the most likely cause of her anaemia?",
+   "options": [
+    "Folate deficiency",
+    "Pernicious anaemia",
+    "Iron deficiency",
+    "Hypothyroidism",
+    "Thalassaemia trait"
+   ],
+   "answer": 0,
+   "explanation": "**Pregnancy-related folate deficiency** is the commonest cause of megaloblastosis worldwide, and **twins and hyperemesis** add to the risk. Glossitis fits, and the lack of neurology fits folate.",
+   "whyNot": [
+    "",
+    "Pernicious anaemia usually starts around 60, and the twin pregnancy with hyperemesis points to folate.",
+    "Iron deficiency is microcytic.",
+    "Hypothyroidism gives a mild normoblastic macrocytosis, not a megaloblastic picture with glossitis.",
+    "Thalassaemia trait is microcytic."
+   ],
+   "studyRef": {
+    "sectionId": "heme-megaloblastic.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 967,
+     "page": 945,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 242,
+     "page": 205,
+     "chapter": "Haematological disease"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q10",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Investigations in megaloblastic anaemia",
+   "leadIn": "Match each patient below to the best option from the list. Any option can fit one case, several cases, or none.",
+   "options": [
+    "Serum vitamin B12",
+    "Red cell folate",
+    "Anti-intrinsic factor antibodies",
+    "Antiparietal cell antibodies",
+    "Serum methylmalonic acid",
+    "Plasma homocysteine",
+    "Reticulocyte count",
+    "Bone marrow aspirate",
+    "Distal duodenal biopsy",
+    "Schilling test",
+    "Serum ferritin"
+   ],
+   "items": [
+    {
+     "stem": "A 70-year-old man has paraesthesiae and an MCV of 109 fL. His serum B12 is at the lower limit of normal and his red cell folate is normal. Which test best confirms tissue B12 deficiency and separates it from folate lack?",
+     "answer": 4,
+     "explanation": "**Methylmalonic acid** rises only in B12 deficiency. It is useful when B12 is borderline but suspicion is strong. Homocysteine rises in both deficiencies, so it cannot separate them.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s6"
+     }
+    },
+    {
+     "stem": "A 55-year-old woman has a confirmed low serum B12. Which test, if positive, establishes pernicious anaemia without further investigation?",
+     "answer": 2,
+     "explanation": "**Anti-IF antibodies** with B12 deficiency are diagnostic of PA. Antiparietal cell antibodies are sensitive but not specific.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s6"
+     }
+    },
+    {
+     "stem": "A 33-year-old woman has a macrocytic anaemia with low red cell folate and a normal B12. She eats plenty of vegetables, drinks no alcohol and takes no drugs. Which test is most likely to reveal the cause?",
+     "answer": 8,
+     "explanation": "Two steps: folate deficiency that diet does not explain suggests **malabsorption**, for example coeliac disease. A **small bowel (distal duodenal) biopsy** looks for it.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 814,
+     "page": 814,
+     "chapter": "Hematology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 359,
+     "page": 335,
+     "chapter": "Haematology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 242,
+     "page": 205,
+     "chapter": "Haematological disease"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q11",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Causes of macrocytosis",
+   "leadIn": "Match each patient below to the best option from the list. Any option can fit one case, several cases, or none.",
+   "options": [
+    "Vitamin B12 deficiency",
+    "Folate deficiency",
+    "Alcohol excess",
+    "Liver disease",
+    "Hypothyroidism",
+    "Haemolysis with reticulocytosis",
+    "Myelodysplastic syndrome",
+    "Hydroxycarbamide therapy",
+    "Zidovudine therapy",
+    "Cold agglutinins",
+    "Normal pregnancy",
+    "Aplastic anaemia"
+   ],
+   "items": [
+    {
+     "stem": "A 59-year-old woman has an MCV of 127 fL on an automated count, and the film shows clumps of red cells. After the sample is warmed to 37°C and rerun, the MCV is 92 fL.",
+     "answer": 9,
+     "explanation": "Red cell clumping falsely raises the MCV, which corrects on warming: the classic **cold agglutinin** artefact.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s7"
+     }
+    },
+    {
+     "stem": "A 41-year-old man with HIV has taken an antiretroviral regimen containing a thymidine analogue nucleoside for several years. MCV 110 fL, Hb normal, B12 and folate normal.",
+     "answer": 8,
+     "explanation": "Two steps: normal vitamins exclude a deficiency, so look at the drugs. **Zidovudine** interferes with DNA synthesis and is a recognised cause of macrocytosis.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s7"
+     }
+    },
+    {
+     "stem": "A 28-year-old woman with known warm autoimmune haemolytic anaemia has Hb 92 g/L, MCV 104 fL and a reticulocyte count of 15%. B12 and folate are normal.",
+     "answer": 5,
+     "explanation": "Reticulocytes are larger than mature red cells, so a **marked reticulocytosis** raises the MCV.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s7"
+     }
+    },
+    {
+     "stem": "A 50-year-old woman has gained weight, feels the cold and is constipated. MCV 103 fL, Hb 121 g/L, B12 and folate normal, and the film shows no hypersegmented neutrophils.",
+     "answer": 4,
+     "explanation": "**Hypothyroidism** causes a mild normoblastic macrocytosis through membrane lipid changes.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 943,
+     "page": 921,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 963,
+     "page": 941,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 360,
+     "page": 336,
+     "chapter": "Haematology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 243,
+     "page": 206,
+     "chapter": "Haematological disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 327,
+     "page": 327,
+     "chapter": "Hematology"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 74-year-old man is admitted confused and breathless, with Hb 45 g/L, MCV 126 fL and ankle oedema. Serum B12 and red cell folate have been sent, but results will take 3 days. The team decides he needs vitamin treatment now.",
+   "leadIn": "Which treatment should be started?",
+   "options": [
+    "Hydroxocobalamin and folic acid together",
+    "Folic acid alone",
+    "Oral iron alone",
+    "Hydroxocobalamin alone, withholding folate until results",
+    "Oral cyanocobalamin alone"
+   ],
+   "answer": 0,
+   "explanation": "When a very ill patient must be treated before results are back, Davidson advises **both B12 and folic acid**. Folic acid alone could worsen undiagnosed B12 neuropathy.",
+   "whyNot": [
+    "",
+    "Folic acid alone in B12 deficiency can precipitate or worsen neuropathy.",
+    "Iron does not treat a megaloblastic anaemia.",
+    "Folate deficiency may coexist, and Davidson advises covering both while results are awaited.",
+    "Low-dose oral B12 is not appropriate for a very ill patient with possible malabsorption, and it leaves folate deficiency untreated."
+   ],
+   "studyRef": {
+    "sectionId": "heme-megaloblastic.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 967,
+     "page": 945,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 66-year-old woman with pernicious anaemia and Hb 58 g/L starts IM hydroxocobalamin. On day 3 she develops muscle weakness and palpitations.",
+   "leadIn": "Which biochemical change is most likely?",
+   "options": [
+    "Hypokalaemia",
+    "Hyperkalaemia",
+    "Hypercalcaemia",
+    "Hyponatraemia",
+    "Hypoglycaemia"
+   ],
+   "answer": 0,
+   "explanation": "Rapid marrow regeneration moves **potassium into the new cells**. The resulting hypokalaemia can be fatal, so monitor K+ early in treatment.",
+   "whyNot": [
+    "",
+    "Potassium falls, not rises, as new cells take it up.",
+    "Calcium is not shifted by marrow recovery.",
+    "Sodium is not characteristically affected by B12 therapy.",
+    "Glucose is not affected by B12 replacement."
+   ],
+   "studyRef": {
+    "sectionId": "heme-megaloblastic.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 967,
+     "page": 945,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 281,
+     "page": 244,
+     "chapter": "Haematological disease"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q14",
+   "kind": "emq",
+   "pool": "worked",
+   "difficulty": 2,
+   "theme": "Diagnosing the cause of megaloblastic anaemia",
+   "leadIn": "Match each patient to the most likely diagnosis in the list. Any option can fit one case, several cases, or none.",
+   "options": [
+    "Pernicious anaemia",
+    "Dietary B12 deficiency",
+    "Post-gastrectomy B12 deficiency",
+    "Ileal disease causing B12 malabsorption",
+    "Dietary folate deficiency",
+    "Pregnancy-related folate deficiency",
+    "Folate malabsorption",
+    "Drug-induced megaloblastic change",
+    "Myelodysplastic syndrome",
+    "Alcohol-related macrocytosis"
+   ],
+   "items": [
+    {
+     "stem": "A 64-year-old woman with Graves’ disease and vitiligo has a sore, smooth tongue and a pale lemon-yellow complexion. MCV 119 fL, serum B12 low, anti-intrinsic factor antibodies positive.",
+     "answer": 0,
+     "explanation": "Step 1: macrocytosis with low B12 means **B12-deficient megaloblastic anaemia**. Step 2: other autoimmune disease (Graves’, vitiligo) and a typical age suggest autoimmunity. Step 3: **anti-IF antibodies** confirm **pernicious anaemia**.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s4"
+     }
+    },
+    {
+     "stem": "A 60-year-old woman had a partial gastrectomy for peptic ulcer 12 years ago and has had no follow-up. She now has exertional breathlessness, numb hands and feet, pallor and a soft systolic flow murmur. MCV 116 fL.",
+     "answer": 2,
+     "explanation": "Step 1: macrocytic anaemia plus sensory neuropathy points to **B12** rather than folate. Step 2: the gastrectomy removed acid- and IF-secreting mucosa. Deficiency follows partial gastrectomy in 10–20% (and total gastrectomy always), so this is **post-gastrectomy B12 deficiency**.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s4"
+     }
+    },
+    {
+     "stem": "A 73-year-old man has an MCV of 108 fL with mild neutropenia and thrombocytopenia. B12, red cell folate and thyroid function are normal; he drinks no alcohol and takes no drugs. His marrow is cellular with dysplastic changes.",
+     "answer": 8,
+     "explanation": "Step 1: normal vitamins rule out a deficiency. Step 2: no alcohol, drugs or thyroid disease. Step 3: macrocytosis with other cytopenias and a **dysplastic cellular marrow** means **myelodysplasia**, which can also show megaloblastic change.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 943,
+     "page": 921,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 326,
+     "page": 326,
+     "chapter": "Hematology"
+    },
+    {
+     "book": "allam25",
+     "pdfPage": 33,
+     "page": 32,
+     "chapter": "Blood"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 358,
+     "page": 334,
+     "chapter": "Haematology"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q15",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 61-year-old woman with Hashimoto’s thyroiditis has fatigue and paraesthesiae. Hb 90 g/L, MCV 117 fL, hypersegmented neutrophils, serum B12 low. Both antiparietal cell antibodies and anti-intrinsic factor antibodies are positive.",
+   "leadIn": "Which single result establishes pernicious anaemia as the cause?",
+   "options": [
+    "Positive anti-intrinsic factor antibodies",
+    "Positive antiparietal cell antibodies",
+    "MCV of 117 fL",
+    "Hypersegmented neutrophils",
+    "Low serum B12"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: the MCV, film and low B12 show a **B12-deficient megaloblastic anaemia**, but not why. Step 2: antiparietal cell antibodies occur in > 90% of PA but also in about 20% of healthy older women, so they are **not specific**. Step 3: **anti-IF antibodies** with B12 deficiency are **diagnostic of PA** without further tests.",
+   "whyNot": [
+    "",
+    "Sensitive but not specific; found in about 20% of normal women over 60.",
+    "Macrocytosis has many causes and does not identify the mechanism.",
+    "Hypersegmentation shows megaloblastic change from any cause, including folate lack.",
+    "Low B12 confirms the deficiency, not its cause."
+   ],
+   "studyRef": {
+    "sectionId": "heme-megaloblastic.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 241,
+     "page": 204,
+     "chapter": "Haematological disease"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q16",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Treatment of megaloblastic anaemia",
+   "leadIn": "Match each patient below to the best option from the list. Any option can fit one case, several cases, or none.",
+   "options": [
+    "Hydroxocobalamin 1000 μg IM, 6 doses 2–3 days apart, then every 3 months for life",
+    "Hydroxocobalamin 1000 μg IM on alternate days until no further improvement, then 3-monthly",
+    "Hydroxocobalamin 1000 μg IM once a year",
+    "Folic acid 5 mg daily for 3 weeks",
+    "Folic acid 5 mg daily for life",
+    "Folic acid 5 mg once weekly",
+    "Hydroxocobalamin and folic acid together",
+    "Slow transfusion of 1 unit of red cells with diuretic cover",
+    "Oral iron",
+    "No treatment needed"
+   ],
+   "items": [
+    {
+     "stem": "A 68-year-old woman has newly diagnosed pernicious anaemia, Hb 85 g/L, and no neurological symptoms or signs.",
+     "answer": 0,
+     "explanation": "For **uncomplicated** B12 deficiency, Davidson gives 6 IM doses 2–3 days apart, then **3-monthly for life**.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s8"
+     }
+    },
+    {
+     "stem": "A 70-year-old man with pernicious anaemia has reduced vibration sense, a positive Romberg’s test and extensor plantars.",
+     "answer": 1,
+     "explanation": "With **neurological involvement**, give hydroxocobalamin on **alternate days until improvement stops**, then maintenance.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s8"
+     }
+    },
+    {
+     "stem": "A 25-year-old woman with hereditary spherocytosis asks what long-term vitamin she should take to avoid a megaloblastic crisis.",
+     "answer": 4,
+     "explanation": "Davidson recommends **folic acid 5 mg daily for life** in hereditary spherocytosis.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s8"
+     }
+    },
+    {
+     "stem": "A 62-year-old man with pernicious anaemia responded to hydroxocobalamin, but his Hb has stalled at 105 g/L by week 3 and his film is now dimorphic.",
+     "answer": 8,
+     "explanation": "Two steps: a stalled response plus a **dimorphic film** means new red cells have **used up the iron stores**. Add **iron**.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s8"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 967,
+     "page": 945,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 969,
+     "page": 947,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 52-year-old man has an MCV of 106 fL and Hb 141 g/L on a routine check. He drinks about 50 units of alcohol a week. B12, folate and thyroid function are normal, and there are no hypersegmented neutrophils.",
+   "leadIn": "What is the most likely cause of his macrocytosis?",
+   "options": [
+    "Alcohol excess",
+    "Pernicious anaemia",
+    "Folate deficiency",
+    "Myelodysplastic syndrome",
+    "Haemolysis"
+   ],
+   "answer": 0,
+   "explanation": "**Alcohol excess** is the commonest cause of macrocytosis in the UK. A raised MCV is used as a surrogate marker of heavy drinking.",
+   "whyNot": [
+    "",
+    "B12 is normal and there is no megaloblastic film.",
+    "Folate is normal.",
+    "MDS is possible in older patients with cytopenias, but his Hb is normal and he has an obvious cause.",
+    "Haemolysis would cause anaemia with reticulocytosis."
+   ],
+   "studyRef": {
+    "sectionId": "heme-megaloblastic.s7"
+   },
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 243,
+     "page": 206,
+     "chapter": "Haematological disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 360,
+     "page": 336,
+     "chapter": "Haematology"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q18",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "A 31-year-old woman at 36 weeks’ gestation has a serum B12 of 95 ng/L on a routine screen. Hb 112 g/L, MCV 96 fL, film normal. She eats meat and dairy and has no neurological symptoms.",
+   "leadIn": "What is the most likely explanation for the low B12?",
+   "options": [
+    "Physiological fall in B12 during pregnancy",
+    "Pernicious anaemia",
+    "Dietary B12 deficiency",
+    "Terminal ileal disease",
+    "Fish tapeworm infestation"
+   ],
+   "answer": 0,
+   "explanation": "B12 levels **fall physiologically in pregnancy**. Up to about one woman in ten falls under 100 ng/L late in pregnancy, yet genuine deficiency is uncommon. Her normal film and mixed diet fit this.",
+   "whyNot": [
+    "",
+    "She has no features of a megaloblastic anaemia or neurology to suggest PA.",
+    "She eats animal products.",
+    "Nothing in the history suggests ileal disease.",
+    "There is no history of raw fish intake or other features."
+   ],
+   "studyRef": {
+    "sectionId": "heme-megaloblastic.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 963,
+     "page": 941,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q19",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 62-year-old woman with rheumatoid arthritis has taken a weekly disease-modifying drug for 2 years without folate supplements. She now has an MCV of 112 fL, mouth ulcers and a low red cell folate.",
+   "leadIn": "Which drug is most likely responsible?",
+   "options": [
+    "Methotrexate",
+    "Hydroxychloroquine",
+    "Paracetamol",
+    "Omeprazole",
+    "Prednisolone"
+   ],
+   "answer": 0,
+   "explanation": "**Methotrexate** is an antifolate. It is a recognised cause of folate deficiency and megaloblastic change, which is why it is given with folic acid.",
+   "whyNot": [
+    "",
+    "Hydroxychloroquine is not a folate antagonist.",
+    "Paracetamol does not cause megaloblastic anaemia.",
+    "Omeprazole is not listed as a cause of folate deficiency.",
+    "Prednisolone does not interfere with folate metabolism."
+   ],
+   "studyRef": {
+    "sectionId": "heme-megaloblastic.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 967,
+     "page": 945,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 359,
+     "page": 335,
+     "chapter": "Haematology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 242,
+     "page": 205,
+     "chapter": "Haematological disease"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q20",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "A 68-year-old man has an MCV of 108 fL and a borderline serum B12. Further tests show raised plasma homocysteine and raised serum methylmalonic acid. Red cell folate is normal.",
+   "leadIn": "What do these results indicate?",
+   "options": [
+    "Vitamin B12 deficiency",
+    "Folate deficiency",
+    "Iron deficiency",
+    "Alcohol-related macrocytosis",
+    "Hypothyroidism"
+   ],
+   "answer": 0,
+   "explanation": "Homocysteine rises in both deficiencies, but **raised MMA is specific to B12 deficiency**, because only B12 drives methylmalonyl-CoA → succinyl-CoA.",
+   "whyNot": [
+    "",
+    "Folate deficiency raises homocysteine but leaves MMA normal.",
+    "Iron deficiency does not raise MMA or homocysteine and is microcytic.",
+    "Alcohol does not raise MMA.",
+    "Hypothyroidism does not raise MMA."
+   ],
+   "studyRef": {
+    "sectionId": "heme-megaloblastic.s2"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 814,
+     "page": 814,
+     "chapter": "Hematology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 326,
+     "page": 326,
+     "chapter": "Hematology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 327,
+     "page": 327,
+     "chapter": "Hematology"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q21",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Clinical and laboratory findings",
+   "leadIn": "Match each description to the best finding in the list. Any option can fit one case, several cases, or none.",
+   "options": [
+    "Hypersegmented neutrophils",
+    "Giant metamyelocytes",
+    "Raised reticulocyte count",
+    "Markedly raised LDH",
+    "Raised serum ferritin",
+    "Low serum ferritin",
+    "Lemon-yellow complexion",
+    "Extensor plantars with absent ankle jerks",
+    "Optic atrophy",
+    "Raised homocysteine with normal methylmalonic acid",
+    "Raised serum gastrin",
+    "Target cells"
+   ],
+   "items": [
+    {
+     "stem": "A vegan with MCV 118 fL has a peripheral blood film. Which film finding reflects defective DNA synthesis in the granulocyte series?",
+     "answer": 0,
+     "explanation": "Mature **neutrophils with six or more lobes** are the film signature of megaloblastic anaemia.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s6"
+     }
+    },
+    {
+     "stem": "A 35-year-old man who drinks heavily and eats poorly has a megaloblastic anaemia with normal serum B12. Which metabolite pattern is expected?",
+     "answer": 9,
+     "explanation": "Two steps: normal B12 with a poor diet and alcohol points to **folate deficiency**. Folate lack raises homocysteine, but MMA stays normal because B12 is sufficient.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s6"
+     }
+    },
+    {
+     "stem": "A 68-year-old woman has untreated pernicious anaemia (Hb 70 g/L, MCV 124 fL). Which iron study result is typical before treatment?",
+     "answer": 4,
+     "explanation": "Iron stores are **increased** in megaloblastic anaemia (Davidson Box 23.32: ferritin raised). Stores fall rapidly once treatment starts.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s6"
+     }
+    },
+    {
+     "stem": "A 60-year-old woman has autoimmune gastritis with achlorhydria. Which hormone result is expected?",
+     "answer": 10,
+     "explanation": "Achlorhydria in pernicious anaemia is accompanied by a **raised serum gastrin**.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 965,
+     "page": 943,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 326,
+     "page": 326,
+     "chapter": "Hematology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 327,
+     "page": 327,
+     "chapter": "Hematology"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q22",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Causes of vitamin B12 deficiency",
+   "leadIn": "Match each patient below to the best option from the list. Any option can fit one case, several cases, or none.",
+   "options": [
+    "Pernicious anaemia",
+    "Strict vegan diet",
+    "Total gastrectomy",
+    "Partial gastrectomy",
+    "Terminal ileal resection",
+    "Fish tapeworm infestation",
+    "Bacterial overgrowth",
+    "Pancreatic exocrine insufficiency",
+    "Nitrous oxide",
+    "Congenital transcobalamin II deficiency",
+    "Hypochlorhydria of old age"
+   ],
+   "items": [
+    {
+     "stem": "A 32-year-old man has eaten no animal products of any kind for 10 years and does not take supplements. His B12 is low and he has a macrocytic anaemia.",
+     "answer": 1,
+     "explanation": "B12 comes only from animal foods, so **strict veganism** is the one purely dietary cause of tissue B12 deficiency.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s4"
+     }
+    },
+    {
+     "stem": "A 48-year-old man who regularly eats raw freshwater fish develops a megaloblastic anaemia with a low B12. Anti-IF antibodies are negative.",
+     "answer": 5,
+     "explanation": "Heavy infestation with the **fish tapeworm** competes for dietary B12.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s4"
+     }
+    },
+    {
+     "stem": "A 45-year-old man with alcoholic chronic pancreatitis has steatorrhoea. His B12 is slightly low, but his Hb, MCV and film are normal.",
+     "answer": 7,
+     "explanation": "Two steps: pancreatic secretions are needed to move B12 from R protein to IF. **Exocrine insufficiency** blocks this transfer, but it usually gives only slightly low levels without tissue deficiency.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s4"
+     }
+    },
+    {
+     "stem": "A 23-year-old man who repeatedly inhales recreational gas from small canisters develops numb feet and a sensory ataxia.",
+     "answer": 8,
+     "explanation": "**Nitrous oxide inactivates B12**, causing a functional deficiency with neurological damage.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 240,
+     "page": 203,
+     "chapter": "Haematological disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 358,
+     "page": 334,
+     "chapter": "Haematology"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 50-year-old man had a total gastrectomy for gastric cancer 8 years ago and stopped attending follow-up. He has fatigue, numb feet and Hb 92 g/L with MCV 115 fL.",
+   "leadIn": "What is the most likely cause of his anaemia?",
+   "options": [
+    "B12 deficiency from loss of intrinsic factor",
+    "Folate deficiency from poor intake",
+    "Anaemia of chronic disease",
+    "Marrow infiltration by recurrent carcinoma",
+    "Isolated iron deficiency"
+   ],
+   "answer": 0,
+   "explanation": "Total gastrectomy removes every parietal cell, so **B12 deficiency always develops within 5 years** unless lifelong 3-monthly injections are given. Neuropathy confirms B12 rather than folate.",
+   "whyNot": [
+    "",
+    "Folate deficiency does not cause neuropathy.",
+    "Anaemia of chronic disease is normocytic or microcytic.",
+    "Marrow infiltration is possible but would not explain the high MCV with neuropathy.",
+    "Iron deficiency (which can also follow gastrectomy) is microcytic."
+   ],
+   "studyRef": {
+    "sectionId": "heme-megaloblastic.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "allam25",
+     "pdfPage": 32,
+     "page": 31,
+     "chapter": "Blood"
+    },
+    {
+     "book": "allam25",
+     "pdfPage": 33,
+     "page": 32,
+     "chapter": "Blood"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q24",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 77-year-old edentulous widower who lives alone is admitted with a macrocytic anaemia. A serum folate taken on day 2, after several hospital meals, is normal. His red cell folate is low and his B12 is normal.",
+   "leadIn": "What is the best interpretation?",
+   "options": [
+    "Folate deficiency with serum folate corrected by recent intake",
+    "Vitamin B12 deficiency",
+    "Laboratory error in the red cell folate",
+    "Alcohol-related macrocytosis with normal stores",
+    "Myelodysplastic syndrome"
+   ],
+   "answer": 0,
+   "explanation": "Serum folate reflects **recent intake**, and one folate-rich meal can normalise it. **Red cell folate** shows tissue stores, so it is the reliable result. The edentulous elderly are prone to dietary folate deficiency.",
+   "whyNot": [
+    "",
+    "B12 is normal.",
+    "Red cell folate is the more accurate measure; the discrepancy is expected.",
+    "Low red cell folate indicates true depletion, not normal stores.",
+    "A clear deficiency explains the picture; MDS is not suggested."
+   ],
+   "studyRef": {
+    "sectionId": "heme-megaloblastic.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 967,
+     "page": 945,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q25",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 58-year-old man had a partial gastrectomy a year ago. His B12 is currently normal and he asks how to prevent deficiency.",
+   "leadIn": "According to Davidson, what prophylaxis is appropriate?",
+   "options": [
+    "An annual intramuscular B12 injection",
+    "Three-monthly B12 injections for life",
+    "Weekly folic acid 5 mg",
+    "Monthly intravenous iron",
+    "No prophylaxis is ever needed"
+   ],
+   "answer": 0,
+   "explanation": "Only **10–20%** of patients become B12-deficient within 5 years of **partial** gastrectomy, and an **annual injection** prevents it. Three-monthly injections are for **total** gastrectomy.",
+   "whyNot": [
+    "",
+    "This is the regimen after total gastrectomy, where deficiency is inevitable.",
+    "Folic acid does not prevent B12 deficiency and could mask it.",
+    "Iron is not the vitamin in question, although iron deficiency can also follow gastric surgery.",
+    "Davidson recommends prophylaxis because some patients do become deficient."
+   ],
+   "studyRef": {
+    "sectionId": "heme-megaloblastic.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q26",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 3,
+   "theme": "Anaemia classified by red cell size",
+   "leadIn": "Match each patient below to the best option from the list. Any option can fit one case, several cases, or none.",
+   "options": [
+    "Iron deficiency",
+    "Thalassaemia trait",
+    "Sideroblastic anaemia",
+    "Anaemia of chronic disease",
+    "Vitamin B12 deficiency",
+    "Folate deficiency",
+    "Alcohol excess",
+    "Hypothyroidism",
+    "Aplastic anaemia",
+    "Acute blood loss"
+   ],
+   "items": [
+    {
+     "stem": "A 66-year-old woman has pancytopenia with MCV 121 fL and hypersegmented neutrophils. Her marrow is hypercellular with megaloblasts, and she has absent ankle jerks.",
+     "answer": 4,
+     "explanation": "A cellular megaloblastic marrow with pancytopenia and **neuropathy** points to **B12 deficiency**. Folate lack does not cause neuropathy.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s3"
+     }
+    },
+    {
+     "stem": "A 30-year-old man has pancytopenia with MCV 102 fL. B12 and folate are normal and a trephine biopsy shows an almost empty, fatty marrow.",
+     "answer": 8,
+     "explanation": "Two steps: normal vitamins exclude megaloblastic anaemia, and a **hypocellular** marrow with pancytopenia defines **aplastic anaemia**, a normoblastic cause of macrocytosis.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s7"
+     }
+    },
+    {
+     "stem": "A 79-year-old edentulous widow lives on tea and toast. She has glossitis, MCV 115 fL, normal neurology, normal B12 and low red cell folate.",
+     "answer": 5,
+     "explanation": "Poor intake is the main cause of **folate deficiency**, especially in the edentulous elderly. There is no neuropathy.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 965,
+     "page": 943,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 952,
+     "page": 930,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 967,
+     "page": 945,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 243,
+     "page": 206,
+     "chapter": "Haematological disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 327,
+     "page": 327,
+     "chapter": "Hematology"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q27",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 3,
+   "stem": "A 69-year-old woman has 6 months of memory decline and tingling feet. Hb 131 g/L, MCV 99 fL. Serum B12 is very low and anti-intrinsic factor antibodies are positive.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Start intramuscular hydroxocobalamin now",
+    "Repeat B12 once she becomes anaemic",
+    "Start folic acid alone",
+    "Arrange a bone marrow examination before treatment",
+    "Request a Schilling test"
+   ],
+   "answer": 0,
+   "explanation": "B12 deficiency can cause **neurological disease with little or no anaemia**, and delay risks permanent damage. PA is confirmed, so **treat now**. With neurology, Davidson gives hydroxocobalamin on alternate days until improvement stops.",
+   "whyNot": [
+    "",
+    "Waiting risks irreversible neurological damage.",
+    "Folic acid alone can worsen B12 neuropathy.",
+    "A marrow is unnecessary when the diagnosis is clear.",
+    "The Schilling test is obsolete, and PA is already confirmed by anti-IF antibodies."
+   ],
+   "studyRef": {
+    "sectionId": "heme-megaloblastic.s5"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 814,
+     "page": 814,
+     "chapter": "Hematology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 358,
+     "page": 334,
+     "chapter": "Haematology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 966,
+     "page": 944,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 967,
+     "page": 945,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "heme-megaloblastic.q28",
+   "kind": "emq",
+   "pool": "mock",
+   "difficulty": 3,
+   "theme": "Megaloblastic anaemia: next best step",
+   "leadIn": "Match each patient below to the best option from the list. Any option can fit one case, several cases, or none.",
+   "options": [
+    "Serum B12 and red cell folate",
+    "Anti-intrinsic factor antibodies",
+    "Bone marrow aspirate",
+    "Distal duodenal biopsy",
+    "Upper gastrointestinal endoscopy",
+    "Hydroxocobalamin and folic acid immediately",
+    "Folic acid alone",
+    "Slow 1-unit red cell transfusion with diuretic cover",
+    "Repeat count on a sample warmed to 37°C",
+    "Serum methylmalonic acid"
+   ],
+   "items": [
+    {
+     "stem": "An 80-year-old woman with Hb 40 g/L and MCV 125 fL has angina at rest and crackles to both mid-zones. B12 and folate have been sent and vitamins started.",
+     "answer": 7,
+     "explanation": "Transfusion is rarely needed, but **severe angina or heart failure** justifies it. Because of the risk of volume overload, give **1 unit slowly with diuretic** (or an exchange transfusion).",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s8"
+     }
+    },
+    {
+     "stem": "A 57-year-old man has an MCV of 112 fL on a routine count. He does not drink, and his reticulocyte count is low. Which test comes first?",
+     "answer": 0,
+     "explanation": "Two steps: with no alcohol and no reticulocytosis, a deficiency is likely. The first tests for macrocytosis are **serum B12 and red cell folate**. A marrow is not first line.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s1"
+     }
+    },
+    {
+     "stem": "A 66-year-old woman with pernicious anaemia, confirmed 5 years ago and treated, now reports new dyspepsia, early satiety and weight loss.",
+     "answer": 4,
+     "explanation": "Two steps: PA carries a **higher risk of gastric carcinoma**, and endoscopy in PA is indicated when **gastric symptoms** appear. Arrange **upper GI endoscopy**.",
+     "studyRef": {
+      "sectionId": "heme-megaloblastic.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 967,
+     "page": 945,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 239,
+     "page": 202,
+     "chapter": "Haematological disease"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 241,
+     "page": 204,
+     "chapter": "Haematological disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 359,
+     "page": 335,
+     "chapter": "Haematology"
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "heme-megaloblastic.o1",
+   "sectionId": "heme-megaloblastic.s6",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 357,
+    "page": 333,
+    "chapter": "Haematology",
+    "figure": "Fig. 16.11"
+   },
+   "identify": "Peripheral film: **oval macrocytes** with a **hypersegmented neutrophil** (≥ 6 lobes) → megaloblastic anaemia (B12 or folate deficiency)."
+  },
+  {
+   "id": "heme-megaloblastic.o2",
+   "sectionId": "heme-megaloblastic.s1",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 357,
+    "page": 333,
+    "chapter": "Haematology",
+    "figure": "Fig. 16.10"
+   },
+   "identify": "Bone marrow: **megaloblasts**, large erythroblasts with fine, open, stippled nuclear chromatin → defective DNA synthesis."
+  },
+  {
+   "id": "heme-megaloblastic.o3",
+   "sectionId": "heme-megaloblastic.s6",
+   "cite": {
+    "book": "stepup6",
+    "pdfPage": 815,
+    "page": 815,
+    "chapter": "Hematology",
+    "figure": "Figure 9-5"
+   },
+   "identify": "Single **hypersegmented neutrophil** on a blood smear → vitamin B12 deficiency (megaloblastic anaemia)."
+  },
+  {
+   "id": "heme-megaloblastic.o4",
+   "sectionId": "heme-megaloblastic.s7",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 943,
+    "page": 921,
+    "chapter": "Haematology and transfusion medicine",
+    "figure": "Fig. 23.8"
+   },
+   "identify": "Panel B: **macrocytosis** (MCV > 100 fL). Name causes: B12/folate deficiency, alcohol/liver disease, hypothyroidism, MDS, drugs."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:33:41.711Z",
+  "contentHash": "91834aaecde559d36d124174384665027e4e394969afddd9ec7a790700d4f736"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:33:41.722Z",
+  "contentHash": "91834aaecde559d36d124174384665027e4e394969afddd9ec7a790700d4f736",
+  "checkerVersion": "source-check-v1"
+ }
+}

@@ -1,0 +1,3140 @@
+{
+ "topicId": "neph-systemic-disease",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "neph-systemic-disease.s1",
+   "title": "Diabetic kidney disease",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Diabetic nephropathy is the **leading cause of CKD and end-stage renal failure in developed countries**, making up roughly **20–50% of people starting RRT**. About **30% of type 1 diabetics** have nephropathy by 20 years after diagnosis, after which the yearly risk falls below 1%. Risk in white people with type 2 diabetes is similar. Clinical nephropathy usually shows itself 15–25 years into the disease.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 779,
+       "page": 757
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 431,
+       "page": 409
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 720,
+       "page": 683
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Who is at risk?",
+     "items": [
+      "Poor glycaemic control and long duration of diabetes",
+      "Other microvascular complications already present (especially retinopathy)",
+      "Ethnicity: e.g. Asians, Pima Indians",
+      "Hypertension before nephropathy develops",
+      "Family history of diabetic nephropathy or of hypertension"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 779,
+       "page": 757
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Two drivers: **activation of the renin–angiotensin system** (intrarenal and systemic) and **direct toxicity of chronic hyperglycaemia**, which provokes inflammation and fibrosis. The earliest change is **hyperfiltration** (GFR > 150 mL/min per m²) with **enlarged kidneys**; podocytes are lost into the urine early. By the time **microalbuminuria** appears, the **GBM is thickened** and **mesangial matrix accumulates**. Later come **nodular (Kimmelstiel–Wilson) glomerulosclerosis** and **hyaline change in afferent and efferent arterioles**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 779,
+       "page": 757
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1372,
+       "page": 1359
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 720,
+       "page": 683
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 721,
+       "page": 684
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Albuminuria categories in diabetes",
+     "columns": [
+      "Category",
+      "Urine albumin",
+      "ACR (early-morning sample)",
+      "Standard dipstick"
+     ],
+     "rows": [
+      [
+       "Moderately increased (old name: microalbuminuria)",
+       "30–300 mg/day",
+       "Men 2.5–30 mg/mmol; women 3.5–30 mg/mmol",
+       "Negative"
+      ],
+      [
+       "Severely increased (old name: macroalbuminuria) = overt nephropathy",
+       "> 300 mg/day",
+       "> 30 mg/mmol",
+       "Positive"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 780,
+       "page": 758
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 779,
+       "page": 757
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 397,
+       "page": 360
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 430,
+       "page": 430
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Screening rules",
+     "items": [
+      "Screen with the **urine albumin:creatinine ratio**, not the dipstick. A dipstick only turns trace-positive at about 300 mg/24 h, so a positive stick means you are already late",
+      "A raised ACR is repeated: microalbuminuria is **established when 2 of 3 samples are positive**",
+      "Microalbuminuria predicts nephropathy well in **type 1** diabetes. In older type 2 patients it is less specific, but it still marks higher macrovascular risk"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 780,
+       "page": 758
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 779,
+       "page": 757
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 429,
+       "page": 429
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Natural history (type 1):** hyperfiltration in the early years drifts back to normal by about 10 years. In the susceptible ~30%, sustained proteinuria appears at about 10 years, reaches the **nephrotic range by about 14 years** and end-stage disease by about **16 years**. Hypertension typically emerges as albuminuria turns into persistent proteinuria. Once proteinuria is persistent, ESKD is usually only **5–10 years** away even if creatinine is still normal.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 780,
+       "page": 758,
+       "figure": "Fig. 20.21"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 429,
+       "page": 429
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 720,
+       "page": 683
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 780,
+      "page": 758,
+      "figure": "Fig. 20.21"
+     },
+     "note": "Look at: the two curves (GFR and proteinuria) against years of type 1 diabetes, with hyperfiltration first, then microalbuminuria, nephrotic-range protein and renal failure."
+    },
+    {
+     "type": "table",
+     "title": "Renal Pathology Society classes (Kumar)",
+     "columns": [
+      "Class",
+      "Histology"
+     ],
+     "rows": [
+      [
+       "I",
+       "Isolated GBM thickening"
+      ],
+      [
+       "IIa / IIb",
+       "Mild / severe mesangial expansion"
+      ],
+      [
+       "III",
+       "At least one Kimmelstiel–Wilson nodule, < 50% global glomerulosclerosis"
+      ],
+      [
+       "IV",
+       "> 50% global glomerulosclerosis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1372,
+       "page": 1359
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Management",
+     "items": [
+      "**ACE inhibitor or ARB first-line**: they protect the kidney beyond the same BP fall achieved with other drugs. Start them once microalbuminuria appears, **even if BP is normal**",
+      "**Second line:** add a diuretic and/or salt restriction, which boosts both the antiproteinuric and BP-lowering effect",
+      "**BP target < 130/80 mmHg** (Kumar, KC). Tight BP control is the most important single measure once proteinuria is established",
+      "**SGLT2 inhibitors** (dapagliflozin, empagliflozin, canagliflozin) and GLP-1 agonists protect kidney and heart beyond glucose lowering. In proteinuric CKD, SGLT2i cut progression risk by about 30–40% after a small early eGFR dip. They increase genital infections",
+      "Glycaemic control slows progression mainly at the microalbuminuria stage and has little effect once overt proteinuria is present",
+      "Also: statin, stop smoking, aggressive cardiovascular risk reduction"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 780,
+       "page": 758
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1372,
+       "page": 1359
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 720,
+       "page": 683
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 304,
+       "page": 304
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 430,
+       "page": 430
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 431,
+       "page": 409
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Why RAS blockade works: angiotensin II constricts the **efferent arteriole**. Blocking it dilates that arteriole, lowering glomerular pressure, hyperfiltration and protein leak. **Halving albuminuria roughly halves** the long-term risk of ESRD.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 780,
+       "page": 758
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "ACEi/ARB raise **potassium** and can cause a sharp fall in GFR if there is **renal artery stenosis**. Check U&E after starting and after every dose increase; a creatinine rise of about 20% is expected. Pocket Medicine advises stopping if creatinine rises > 30% or K⁺ > 5.4, and **never combining ACEi with ARB**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 780,
+       "page": 758
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 448,
+       "page": 426
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 304,
+       "page": 304
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Biopsy is rarely needed** in a diabetic with proteinuria. Suspect another disease if proteinuria or GFR loss is **very rapid**, or if there is **no retinopathy** or other microvascular damage (proliferative retinopathy accompanies nephropathy in about 90% of type 1 and 60% of type 2 patients). Diabetic nephropathy gives a **bland** sediment; an active sediment points elsewhere.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 431,
+       "page": 409
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 315,
+       "page": 315
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 405,
+       "page": 368
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Kimmelstiel–Wilson **nodular** glomerulosclerosis is **pathognomonic** of diabetes; diffuse hyaline sclerosis is also seen in hypertension. Other diabetic renal problems: frequent UTIs and **papillary necrosis** (sloughed papillae can obstruct the ureter).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 780,
+       "page": 758,
+       "figure": "Fig. 20.22"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 429,
+       "page": 429
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 721,
+       "page": 684
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Diabetics often need **RRT at a higher eGFR** than other patients because of fluid overload or symptomatic uraemia. **Simultaneous pancreas–kidney transplant** can give insulin independence.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 780,
+       "page": 758
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 780,
+      "page": 758,
+      "figure": "Fig. 20.22"
+     },
+     "note": "Look at: thickened basement membranes, mesangial expansion and the rounded Kimmelstiel–Wilson nodule (arrow)."
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.s2",
+   "title": "Hypertensive nephrosclerosis and malignant hypertension",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Hypertension is both a **cause and a consequence** of kidney disease, and the two are often impossible to separate clinically. Davidson attributes **5–20% of CKD** to hypertension but calls the causal link **controversial**, since much of it may come from an underlying primary renal disease. US sources (Step-Up) rank hypertensive nephrosclerosis as the **second commonest cause of ESRD after diabetes**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 437,
+       "page": 415
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1383,
+       "page": 1370
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 415,
+       "page": 378
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 711,
+       "page": 711
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Benign vs malignant nephrosclerosis",
+     "columns": [
+      "Feature",
+      "Benign (chronic essential HTN)",
+      "Malignant (accelerated) phase"
+     ],
+     "rows": [
+      [
+       "Vessel lesion",
+       "Intimal thickening with reduplicated internal elastic lamina; hyalinised arteriolar walls",
+       "**Fibrinoid necrosis**, most marked in afferent arterioles; fibrin and thrombus in small vessels"
+      ],
+      [
+       "Kidneys",
+       "Both shrink (sometimes unequally); more glomeruli sclerosed",
+       "Acute damage on top of any chronic change"
+      ],
+      [
+       "Urine / blood",
+       "Mild proteinuria, microscopic haematuria, mild–moderate creatinine rise",
+       "Proteinuria (usually 1–3 g/day, occasionally nephrotic), haematuria, casts; **MAHA with thrombocytopenia**"
+      ],
+      [
+       "Course",
+       "Slow; can reach ESRD",
+       "Rapidly progressive; untreated, < 10% survive 2 years (Kumar; KC gives 10 years)"
+      ],
+      [
+       "Key treatment",
+       "BP control, ideally with ACEi/ARB",
+       "Controlled, gradual BP reduction"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1383,
+       "page": 1370
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 712,
+       "page": 712
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 415,
+       "page": 378
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Severe CKD from essential hypertension is rare in white people (about 1 in 10 000), but people of **black African descent** have roughly **four times** the ESKD rate. This is partly explained by **APOL1** risk variants, which probably spread because they protect against African sleeping sickness.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1383,
+       "page": 1370
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 415,
+       "page": 378
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Recognising accelerated (malignant) hypertension",
+     "items": [
+      "Very high BP **plus rapidly progressive end-organ damage**: grade 3–4 retinopathy (haemorrhages, exudates, papilloedema), renal dysfunction (especially proteinuria) and/or hypertensive encephalopathy",
+      "A **thrombotic microangiopathy**: fragmented red cells and low platelets alongside AKI",
+      "Vicious circle: fibrin in arteriolar walls damages the kidney → more renin → BP rises further",
+      "Can complicate hypertension of any cause; left ventricular failure may occur"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 536,
+       "page": 514
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 430,
+       "page": 408
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 415,
+       "page": 378
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 712,
+       "page": 712
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Treat accelerated hypertension **slowly**: autoregulation is reset, so a rapid fall can cause cerebral damage (including occipital blindness). Aim for about **150/90 mmHg over 24–48 hours**, usually with bed rest and oral drugs.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 536,
+       "page": 514
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Good BP control in malignant hypertension can stabilise or even improve renal function, heal the arteriolar lesions and stop the haemolysis. In hypertension from bilateral renal disease, **ACEi/ARB are drugs of choice** because they add renoprotection at the same BP.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1384,
+       "page": 1371
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 415,
+       "page": 378
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A **sudden creatinine rise within days of starting an ACEi/ARB** suggests **bilateral renal artery stenosis** (or stenosis in a single kidney): GFR there depends on angiotensin II constricting the efferent arteriole. Stop the drug. Higher-risk groups include CKD, heart failure and hypertensive nephrosclerosis.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 710,
+       "page": 710
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 448,
+       "page": 426
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.s3",
+   "title": "Lupus nephritis",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Overt renal disease affects **about a third** (Kumar, KC 30%; Pocket 40%) of SLE patients, and about **25% of these reach ESKD within 10 years**. Subclinical involvement (non-visible haematuria, proteinuria, near-normal function) is common. The usual presentation is **subacute nephritis**: haematuria, hypertension, variable renal impairment and **heavy, often nephrotic-range proteinuria**. SLE gives an **active** urine sediment (a mixed nephritic/nephrotic picture).",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1379,
+       "page": 1366
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 432,
+       "page": 410
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 341,
+       "page": 304
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 552,
+       "page": 552
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 405,
+       "page": 368
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "ISN/RPS classes of lupus nephritis",
+     "columns": [
+      "Class",
+      "Lesion",
+      "Typical picture",
+      "Treatment"
+     ],
+     "rows": [
+      [
+       "I",
+       "Minimal mesangial",
+       "Little or nothing",
+       "No specific therapy"
+      ],
+      [
+       "II",
+       "Mesangial proliferative",
+       "Microscopic haematuria/proteinuria",
+       "No specific therapy (± ACEi)"
+      ],
+      [
+       "III",
+       "Focal proliferative",
+       "Haematuria, proteinuria ± HTN, reduced GFR",
+       "Induction: steroids + MMF or IV cyclophosphamide"
+      ],
+      [
+       "IV",
+       "Diffuse proliferative, **subendothelial deposits** (most common and most severe)",
+       "Nephritic + nephrotic, hypertension, renal impairment",
+       "As class III"
+      ],
+      [
+       "V",
+       "Membranous (subepithelial)",
+       "**Nephrotic syndrome**; may coexist with III/IV",
+       "ACEi; MMF + steroids if nephrotic-range"
+      ],
+      [
+       "VI",
+       "Advanced sclerosing (≥ 90% glomeruli sclerosed)",
+       "ESKD",
+       "RRT; no response to immunosuppression"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1379,
+       "page": 1366
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1380,
+       "page": 1367
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 552,
+       "page": 552
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 553,
+       "page": 553
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1379,
+      "page": 1366,
+      "figure": "Fig. 36.24"
+     },
+     "note": "Look at: class IV diffuse proliferative lupus nephritis, with endothelial and mesangial cell proliferation filling the glomerulus."
+    },
+    {
+     "type": "bullets",
+     "title": "Investigations",
+     "items": [
+      "Serology: **ANA, anti-dsDNA**, anti-Sm (anti-Ro also found); **low C3 and C4**, and particularly **low C1q**, in active disease",
+      "Immunofluorescence: **granular** immune-complex deposits, often a \"full house\" of IgG, IgM, IgA, C3, C1q and C4",
+      "Early warning: falling serum albumin or rising urine protein:creatinine ratio; urea and creatinine rise late",
+      "**Biopsy** defines the class, and about 25% of patients change class between serial biopsies"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1379,
+       "page": 1366
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 312,
+       "page": 312
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 342,
+       "page": 305
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Treatment of proliferative (III/IV) and membranous (V) disease",
+     "items": [
+      "**Induction:** high-dose glucocorticoids plus **IV pulsed cyclophosphamide** or **mycophenolate mofetil (MMF)**, which are equally effective. Trials showed steroids + cyclophosphamide reduce ESRD",
+      "**Maintenance:** MMF (better than azathioprine) or azathioprine",
+      "**Hydroxychloroquine** benefits all classes",
+      "Newer add-ons: **voclosporin** (with MMF + steroids, more complete renal responses on less steroid) and **belimumab** (anti-BLyS)"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 432,
+       "page": 410
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1380,
+       "page": 1367
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 552,
+       "page": 552
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Prognosis is better in classes I, II and V. Class VI scarring will not respond to immunosuppression and usually means ESKD. Cyclophosphamide may work less well than MMF in **black and Hispanic** patients. Fewer than half achieve remission of the nephritis.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1380,
+       "page": 1367
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 553,
+       "page": 553
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Lupus can hit the kidney outside the glomerulus too: **tubulointerstitial nephritis**, **renal vein thrombosis**, renal artery stenosis, and **antiphospholipid**-related thrombotic microangiopathy or glomerular infarction.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1380,
+       "page": 1367
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "SLICC 2012: **biopsy-proven lupus nephritis plus a positive ANA or anti-dsDNA** is on its own enough to classify a patient as having SLE.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 596,
+       "page": 596
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Drug-induced lupus** (hydralazine, procainamide, isoniazid, minocycline, anti-TNF) is **anti-histone positive** with **normal complement**, and renal disease is rare. It usually settles within weeks of stopping the drug, so do not label it lupus nephritis.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 553,
+       "page": 553
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.s4",
+   "title": "Renal vasculitis and other systemic vascular disease",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Small-vessel vasculitis** damages glomeruli fast: a **focal necrotising glomerulonephritis**, often with **crescents**, causing **rapidly progressive GN (RPGN)**. Patients are usually systemically unwell (acute-phase response, weight loss, arthralgia). Some have kidney-limited disease; others develop life-threatening **pulmonary haemorrhage**. The main causes of RPGN are ANCA vasculitis, anti-GBM disease and severe immune-complex nephritis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 432,
+       "page": 410
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 409,
+       "page": 372
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "ANCA-associated vasculitis",
+     "columns": [
+      "Feature",
+      "Granulomatosis with polyangiitis (GPA)",
+      "Microscopic polyangiitis (MPA)"
+     ],
+     "rows": [
+      [
+       "ANCA",
+       "Usually **PR3 (cANCA)**; ~90% ANCA+ (80% PR3, 20% MPO)",
+       "Usually **MPO (pANCA)**; ~70% ANCA+, almost all MPO"
+      ],
+      [
+       "Histology",
+       "Necrotising **granulomatous** vasculitis",
+       "Non-granulomatous"
+      ],
+      [
+       "Upper airway",
+       "Epistaxis, nasal crusting, sinusitis, saddle nose",
+       "Absent"
+      ],
+      [
+       "Lungs",
+       "Nodules, cavities, haemoptysis",
+       "Alveolar haemorrhage"
+      ],
+      [
+       "Kidney",
+       "Renal involvement ~80%; RPGN",
+       "GN in 80–100%; RPGN"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1063,
+       "page": 1041
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 559,
+       "page": 559
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 560,
+       "page": 560
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1377,
+       "page": 1364
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Diagnosis",
+     "items": [
+      "PR3-ANCA is positive in > 90% of active GPA and up to half of MPA; **MPO-ANCA dominates renal-limited vasculitis**. ELISA plus immunofluorescence gives about 99% specificity",
+      "Even so, ANCA results are **not specific enough on their own**: get tissue. a **biopsy of affected tissue** (usually the kidney) confirms the diagnosis",
+      "Biopsy: **pauci-immune** (little or no immunoglobulin on IF) necrotising crescentic GN. Urine: red cell casts and dysmorphic red cells",
+      "Other ANCA-positive vasculitis: EGPA (Churg–Strauss). ANCA-negative small-vessel: HSP (IgA vasculitis), cryoglobulinaemia, cutaneous leucocytoclastic vasculitis"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1377,
+       "page": 1364
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 432,
+       "page": 410
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 559,
+       "page": 559
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 347,
+       "page": 310
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Immunofluorescence patterns in crescentic GN",
+     "columns": [
+      "IF pattern",
+      "Disease"
+     ],
+     "rows": [
+      [
+       "**Linear** IgG along the GBM",
+       "Anti-GBM disease (Goodpasture when lungs involved; lung disease usually comes first)"
+      ],
+      [
+       "**Granular** immune-complex deposits",
+       "SLE, IgA nephropathy/HSP, post-infectious GN, cryoglobulinaemia"
+      ],
+      [
+       "**Pauci-immune** (negative)",
+       "ANCA vasculitis (GPA, MPA, renal-limited)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1373,
+       "page": 1360
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 694,
+       "page": 694
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 312,
+       "page": 312
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 693,
+       "page": 693
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "pocket8",
+      "pdfPage": 312,
+      "page": 312,
+      "figure": "Figure 4-8"
+     },
+     "note": "Look at: the algorithm sorting glomerulonephritis by immunofluorescence pattern (linear, granular, pauci-immune)."
+    },
+    {
+     "type": "bullets",
+     "title": "Treatment of ANCA vasculitis with renal involvement",
+     "items": [
+      "**Induction:** high-dose glucocorticoids plus **cyclophosphamide** or **rituximab** (equally effective; Pocket prefers rituximab as less toxic). Davidson also lists MMF",
+      "**Fulminant disease** (RPGN, lung haemorrhage): IV methylprednisolone 1 g daily for 3 days; plasma exchange (see pitfall)",
+      "**Maintenance:** switch cyclophosphamide to **azathioprine** (better than MMF) or give **fixed-dose rituximab** every 3–6 months (better than azathioprine)",
+      "**Co-trimoxazole** reduces relapses linked to nasal *Staph. aureus* carriage",
+      "**Avacopan** (oral C5a-receptor blocker) raises remission rates and spares steroids",
+      "A rising ANCA titre without clinical flare should **not** by itself change treatment"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 432,
+       "page": 410
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1377,
+       "page": 1364
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 560,
+       "page": 560
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Plasma exchange — the books differ.** Davidson: it adds benefit when renal damage keeps progressing despite immunosuppression. Kumar cites **PEXIVAS** (> 700 patients): plasma exchange did not reduce death or ESKD, and lower-dose steroids cut serious infections. Pocket: it may reduce ESRD in the highest-risk patients. For the exam, follow Davidson: an **add-on for progressive renal damage**, not routine.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 432,
+       "page": 410
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1377,
+       "page": 1364
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 560,
+       "page": 560
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "The worst prognostic signs are **pulmonary haemorrhage** and the **severity of renal failure at presentation**. The earlier treatment starts, the more renal function can be saved: if RPGN is suspected, give pulse methylprednisolone straight away while awaiting biopsy.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1377,
+       "page": 1364
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 313,
+       "page": 313
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Drug-induced ANCA vasculitis** (propylthiouracil, hydralazine, minocycline, penicillamine) is usually **very high-titre MPO-ANCA**, with constitutional symptoms, arthralgia, skin vasculitis, crescentic GN and lung haemorrhage.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1377,
+       "page": 1364
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 449,
+       "page": 427
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Polyarteritis nodosa** is a **medium-vessel** arteritis (sometimes hepatitis B-related) and does **not cause GN**. When renal vessels are involved it causes **hypertension, renal aneurysms and infarcts**. The lungs are rarely involved. Diagnose by angiography or biopsy.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 432,
+       "page": 410
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 348,
+       "page": 311
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other systemic vascular conditions affecting the kidney",
+     "items": [
+      "**HSP (IgA vasculitis):** mainly children after a URTI; purpura on legs and buttocks, arthritis, abdominal pain and IgA nephritis (kidney involved in ~50%; ~1% reach end-stage)",
+      "**Scleroderma renal crisis:** more common in **diffuse** cutaneous SSc (5–20%). Intense intrarenal vasospasm with **very high renin** → severe hypertension, MAHA and oliguric AKI. It can be triggered by **glucocorticoids** or stopping an ACEi. **ACE inhibitors** raised 1-year survival from 20% to 75%, but about half still need RRT",
+      "**Cholesterol atheroemboli:** after arteriography, vascular surgery, anticoagulants or thrombolysis in a patient with atheroma. Renal impairment, haematuria, proteinuria, **eosinophilia**, **livedo reticularis** and **ischaemic toes**; mimics vasculitis; no specific treatment"
+     ],
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 240,
+       "page": 240
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 432,
+       "page": 410
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 302,
+       "page": 302
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 431,
+       "page": 409
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 421,
+      "page": 399,
+      "figure": "Fig. 15.12"
+     },
+     "note": "Look at: panel C (focal necrotising GN, typical of small-vessel vasculitis) and panel E (a crescent filling Bowman's space)."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1377,
+      "page": 1364,
+      "figure": "Fig. 36.22"
+     },
+     "note": "Look at: cytoplasmic (cANCA) vs perinuclear (pANCA) immunofluorescence on neutrophils."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 431,
+      "page": 409,
+      "figure": "Fig. 15.17"
+     },
+     "note": "Look at: the foot after coronary stenting, showing livedo and ischaemic toes from cholesterol atheroemboli."
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.s5",
+   "title": "Drug-induced nephropathy",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The kidney concentrates many drugs, in the cortex by proximal tubular transport and in the medulla by the countercurrent system. Numerically, **NSAIDs and ACE inhibitors** cause the most drug-related renal problems. Haemodynamic injury, ATN and allergic reactions usually **reverse if caught early**; fibrotic damage often does not.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 448,
+       "page": 426
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Mechanisms and examples",
+     "columns": [
+      "Mechanism",
+      "Drugs",
+      "Notes"
+     ],
+     "rows": [
+      [
+       "Haemodynamic",
+       "NSAIDs; ACEi/ARB; contrast",
+       "NSAIDs constrict the afferent arteriole; ACEi relax the efferent arteriole"
+      ],
+      [
+       "Acute tubular necrosis",
+       "Aminoglycosides, vancomycin, amphotericin, cisplatin, tenofovir, foscarnet, contrast, paracetamol overdose",
+       "Muddy-brown granular casts"
+      ],
+      [
+       "Loss of tubular function",
+       "Lithium, cisplatin, aminoglycosides",
+       "Concentrating defect at lower exposures than ATN"
+      ],
+      [
+       "Immune GN",
+       "Penicillamine, gold (membranous); NSAIDs (minimal change, membranous); PTU, hydralazine (ANCA crescentic GN)",
+       ""
+      ],
+      [
+       "Acute interstitial nephritis",
+       "PPIs, penicillins/β-lactams, cephalosporins, NSAIDs, mesalazine, sulfonamides, diuretics, checkpoint inhibitors",
+       "Allergic, idiosyncratic"
+      ],
+      [
+       "Chronic interstitial nephritis",
+       "Lithium, ciclosporin, tacrolimus, analgesics",
+       "Fibrosis, less reversible"
+      ],
+      [
+       "Papillary necrosis",
+       "Long-term NSAIDs/analgesics",
+       "Ischaemic, from the NSAID effect on renal blood flow"
+      ],
+      [
+       "Crystal obstruction",
+       "Aciclovir, indinavir, methotrexate, sulfonamides",
+       "Aciclovir: fine needle-shaped crystals"
+      ],
+      [
+       "Thrombotic microangiopathy",
+       "Calcineurin inhibitors, anti-VEGF agents, TKIs, mTOR inhibitors",
+       ""
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 449,
+       "page": 427
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1393,
+       "page": 1380
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 299,
+       "page": 299
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 317,
+       "page": 317
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 312,
+       "page": 312
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 424,
+       "page": 402
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**NSAIDs** block the vasodilator prostaglandins that keep the **afferent arteriole** open, so renal blood flow falls, especially with **volume depletion, heart failure, cirrhosis, sepsis or existing CKD**. **ACE inhibitors** remove the angiotensin II **efferent** constriction that sustains GFR beyond a renal artery stenosis or during hypoperfusion; a creatinine rise of about 20% is expected, so check renal function before and after starting.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 448,
+       "page": 426
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 449,
+       "page": 427
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Drug-induced AIN vs nephrotoxic ATN",
+     "columns": [
+      "Feature",
+      "Acute interstitial nephritis",
+      "Acute tubular necrosis"
+     ],
+     "rows": [
+      [
+       "Clue",
+       "Fever, rash, eosinophilia (not always); often **non-oliguric**",
+       "Toxin exposure (aminoglycoside, contrast, cisplatin…)"
+      ],
+      [
+       "Urine",
+       "White cells and **white cell casts**, **sterile** culture; modest tubular proteinuria (< 1 g/day)",
+       "**Muddy-brown granular casts**; FENa > 2%"
+      ],
+      [
+       "Biopsy",
+       "Interstitial inflammation (mononuclear cells, eosinophils, sometimes granulomas); glomeruli spared",
+       "Tubular cell necrosis, breaks in tubular basement membrane"
+      ],
+      [
+       "Treatment",
+       "Stop the drug; consider prednisolone",
+       "Remove the toxin; supportive"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 424,
+       "page": 402
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 299,
+       "page": 299
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 414,
+       "page": 377
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 424,
+       "page": 402,
+       "figure": "Fig. 15.13"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Acute interstitial nephritis — key points",
+     "items": [
+      "Usually drug-induced; **PPIs are fast becoming the commonest cause**; AIN accounts for about 10–15% of AKI",
+      "Stop the culprit drug. Davidson: **prednisolone 1 mg/kg/day** may speed recovery and limit scarring. Step-Up reserves steroids for creatinine that keeps rising after withdrawal",
+      "Avoid re-exposure"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 424,
+       "page": 402
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 694,
+       "page": 694
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 696,
+       "page": 696
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Eosinophiluria is a poor discriminator** for AIN, and AIN and ATN often look the same clinically: only a biopsy reliably separates them. Think of AIN in any unexplained **non-oliguric AKI** after a new drug.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 424,
+       "page": 402
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 696,
+       "page": 696
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Contrast nephropathy and gadolinium",
+     "items": [
+      "Contrast nephropathy: renal function falls **within 48 hours** of IV contrast, peaks at 3–5 days and recovers in 7–10 days (if not, think of **cholesterol emboli**)",
+      "Risk factors: CKD, diabetes, myeloma, heart failure, older age, hypotension, large volumes and **high-osmolality** contrast",
+      "Prevention: **IV isotonic saline**, smallest dose of low/iso-osmolar contrast, withhold NSAIDs (Pocket also holds ACEi/ARB and diuretics), and **omit metformin for 48 hours** afterwards",
+      "**Gadolinium** (MRI) in severe CKD (typically GFR < 15 or on dialysis; caution < 30) can cause **nephrogenic systemic fibrosis** of skin, joints and organs"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 412,
+       "page": 390
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 301,
+       "page": 301
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Aminoglycoside + loop diuretic** is a particularly nephrotoxic pairing. In any established AKI, stop nephrotoxins (NSAIDs, ACEi), avoid hypovolaemia and adjust doses of renally excreted drugs, using levels where available.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1393,
+       "page": 1380
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 429,
+       "page": 392
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Analgesic nephropathy** (long-term NSAIDs, aspirin, older phenacetin mixes) causes chronic interstitial nephritis and **papillary necrosis**: polyuria/nocturia from a concentrating defect, sterile pyuria, haematuria, or renal colic from a sloughed papilla. Diagnose with CT urogram; stop the analgesic.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 425,
+       "page": 403
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 696,
+       "page": 696
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 414,
+       "page": 377
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 424,
+      "page": 402,
+      "figure": "Fig. 15.13"
+     },
+     "note": "Look at: panel B (ATN, tubular breaks and shed cells) vs panel D (NSAID allergic interstitial nephritis, mononuclear infiltrate between tubules with glomeruli spared)."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "neph-systemic-disease.c1",
+   "sectionId": "neph-systemic-disease.s1",
+   "front": "Most common cause of CKD and end-stage renal failure in developed countries?",
+   "back": "Diabetic nephropathy, about 20–50% of people starting RRT.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 779,
+     "page": 757
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.c2",
+   "sectionId": "neph-systemic-disease.s1",
+   "front": "ACR range defining microalbuminuria (men / women), and when is it \"established\"?",
+   "back": "Men 2.5–30 mg/mmol, women 3.5–30 mg/mmol on early-morning urine; established if 2 of 3 samples are positive. ACR > 30 = overt nephropathy.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 780,
+     "page": 758
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.c3",
+   "sectionId": "neph-systemic-disease.s1",
+   "front": "Lesion pathognomonic of diabetic kidney disease?",
+   "back": "Kimmelstiel–Wilson nodule (nodular glomerulosclerosis).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 780,
+     "page": 758,
+     "figure": "Fig. 20.22"
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.c4",
+   "sectionId": "neph-systemic-disease.s1",
+   "front": "First- and second-line treatment for diabetic nephropathy proteinuria?",
+   "back": "First: ACE inhibitor or ARB (even if normotensive). Second: add a diuretic and/or salt restriction.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 780,
+     "page": 758
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 266,
+     "page": 266
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.c5",
+   "sectionId": "neph-systemic-disease.s1",
+   "front": "Two features in a diabetic with proteinuria that should prompt a renal biopsy?",
+   "back": "Very rapid rise in proteinuria or fall in GFR, and absence of retinopathy/other microvascular disease.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.c6",
+   "sectionId": "neph-systemic-disease.s2",
+   "front": "Hallmark arteriolar lesion of malignant-phase hypertension?",
+   "back": "Fibrinoid necrosis, most marked in afferent arterioles, often with MAHA and thrombocytopenia.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1383,
+     "page": 1370
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.c7",
+   "sectionId": "neph-systemic-disease.s2",
+   "front": "BP goal in accelerated hypertension?",
+   "back": "About 150/90 mmHg over 24–48 hours; faster lowering risks cerebral damage.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 536,
+     "page": 514
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.c8",
+   "sectionId": "neph-systemic-disease.s2",
+   "front": "Gene variant behind higher hypertension-attributed ESKD in people of African descent?",
+   "back": "APOL1 risk variants.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1383,
+     "page": 1370
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.c9",
+   "sectionId": "neph-systemic-disease.s3",
+   "front": "Most common and most severe class of lupus nephritis?",
+   "back": "Class IV, diffuse proliferative with subendothelial deposits.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1379,
+     "page": 1366
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.c10",
+   "sectionId": "neph-systemic-disease.s3",
+   "front": "Induction therapy for class III/IV lupus nephritis?",
+   "back": "High-dose glucocorticoids plus MMF or IV pulsed cyclophosphamide (equally effective).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 432,
+     "page": 410
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1380,
+     "page": 1367
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.c11",
+   "sectionId": "neph-systemic-disease.s3",
+   "front": "Serology in active lupus nephritis?",
+   "back": "Positive anti-dsDNA; low C3, C4 and especially C1q.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1379,
+     "page": 1366
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.c12",
+   "sectionId": "neph-systemic-disease.s4",
+   "front": "ANCA type in GPA vs MPA?",
+   "back": "GPA: PR3-ANCA (cANCA). MPA: MPO-ANCA (pANCA).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1063,
+     "page": 1041
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1377,
+     "page": 1364
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.c13",
+   "sectionId": "neph-systemic-disease.s4",
+   "front": "Immunofluorescence finding in ANCA glomerulonephritis?",
+   "back": "Pauci-immune (little or no deposit), vs linear in anti-GBM and granular in immune-complex GN.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1373,
+     "page": 1360
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.c14",
+   "sectionId": "neph-systemic-disease.s4",
+   "front": "Treatment of scleroderma renal crisis and its effect?",
+   "back": "ACE inhibitor; 1-year survival rose from 20% to 75%, though ~50% still need RRT.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 432,
+     "page": 410
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.c15",
+   "sectionId": "neph-systemic-disease.s5",
+   "front": "Drug class fast becoming the commonest cause of acute interstitial nephritis?",
+   "back": "Proton pump inhibitors.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 424,
+     "page": 402
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.c16",
+   "sectionId": "neph-systemic-disease.s5",
+   "front": "How do NSAIDs reduce GFR?",
+   "back": "They block vasodilator prostaglandins at the afferent arteriole, reducing renal blood flow, especially in volume depletion, HF, cirrhosis, sepsis or CKD.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 448,
+     "page": 426
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.c17",
+   "sectionId": "neph-systemic-disease.s5",
+   "front": "Main measures to prevent contrast nephropathy?",
+   "back": "IV isotonic saline, withhold NSAIDs, minimal low/iso-osmolar contrast, omit metformin for 48 h.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 412,
+     "page": 390
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 301,
+     "page": 301
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "neph-systemic-disease.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 34-year-old woman has had type 1 diabetes for 18 years and has background retinopathy. Her early-morning urine albumin:creatinine ratio is 11 mg/mmol on two of three samples. BP is 124/76 mmHg and creatinine is normal. Dipstick is negative for protein.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Start an ACE inhibitor",
+    "Arrange a renal biopsy",
+    "Repeat the ACR in 12 months with no change in treatment",
+    "Start amlodipine",
+    "Start furosemide"
+   ],
+   "answer": 0,
+   "explanation": "An ACR of 3.5–30 mg/mmol in a woman on 2 of 3 samples is **established microalbuminuria**. ACE inhibitors (or ARBs) are first-line from this stage, **even when BP is normal**, because they lower glomerular pressure and protein leak beyond any BP effect.",
+   "whyNot": [
+    "",
+    "Typical long-standing type 1 diabetes with retinopathy and slow albuminuria needs no biopsy.",
+    "Waiting misses the stage where intervention changes outcome.",
+    "A calcium channel blocker lowers BP but lacks the specific renoprotection of RAS blockade, and BP is already normal.",
+    "A diuretic is a second-line add-on to RAS blockade, not first-line."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 780,
+     "page": 758
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1372,
+     "page": 1359
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 266,
+     "page": 266
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 58-year-old man has had type 2 diabetes for 5 years. Over 3 months his eGFR has fallen from 76 to 41 mL/min/1.73 m² and his urine protein:creatinine ratio has risen sharply. Fundoscopy is normal. Urine microscopy shows red cells.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Renal biopsy",
+    "Increase his ACE inhibitor to the maximum dose",
+    "Intensify glycaemic control",
+    "Add an SGLT2 inhibitor and review in 6 months",
+    "Add an ARB to his ACE inhibitor"
+   ],
+   "answer": 0,
+   "explanation": "Very **rapid** progression, **no retinopathy** and an active sediment are atypical for diabetic nephropathy, so another glomerular disease must be excluded. Biopsy is rarely needed in diabetics, but these are exactly the red flags that justify it.",
+   "whyNot": [
+    "",
+    "Optimising RAS blockade treats diabetic nephropathy but does not address a possible different diagnosis.",
+    "Glycaemic control has little effect once proteinuria is established and would not explain this picture.",
+    "SGLT2 inhibitors slow diabetic CKD, but delaying diagnosis of a possibly treatable GN is wrong.",
+    "Dual ACEi + ARB blockade should not be used."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 315,
+     "page": 315
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 304,
+     "page": 304
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 405,
+     "page": 368
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 44-year-old man of West African origin presents with headache and blurred vision. BP is 236/142 mmHg. Fundi show flame haemorrhages, exudates and papilloedema. Creatinine is 270 µmol/L, urine shows protein 2+ and blood 1+, Hb 96 g/L with fragmented red cells on the film, and platelets are 88 × 10⁹/L.",
+   "leadIn": "Which renal lesion is most likely?",
+   "options": [
+    "Fibrinoid necrosis of afferent arterioles",
+    "Kimmelstiel–Wilson nodules",
+    "Pauci-immune crescentic glomerulonephritis",
+    "Linear IgG deposition along the GBM",
+    "Intimal thickening with reduplicated elastic lamina alone"
+   ],
+   "answer": 0,
+   "explanation": "Very high BP with grade 4 retinopathy, AKI and a microangiopathic picture is **malignant-phase hypertension**. Its hallmark is **fibrinoid necrosis**, most prominent in afferent arterioles, with fibrin in small vessels causing red cell fragmentation and low platelets.",
+   "whyNot": [
+    "",
+    "Kimmelstiel–Wilson nodules are diabetic; there is no history of diabetes.",
+    "Vasculitic crescentic GN causes RPGN but not papilloedema with this degree of hypertension.",
+    "Linear anti-GBM deposits occur in Goodpasture disease, often with lung haemorrhage, not MAHA.",
+    "This is the chronic benign nephrosclerosis lesion; it does not explain acute MAHA and papilloedema."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1383,
+     "page": 1370
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 536,
+     "page": 514
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 712,
+     "page": 712
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 51-year-old woman is admitted with BP 228/136 mmHg, bilateral papilloedema and a creatinine of 190 µmol/L. She is alert, with no focal neurology and no chest pain.",
+   "leadIn": "What is the most appropriate blood pressure plan?",
+   "options": [
+    "Lower BP gradually to about 150/90 mmHg over 24–48 hours with bed rest and oral drugs",
+    "Lower BP to below 120/80 mmHg within the first hour",
+    "Lower BP to 130/80 mmHg within 6 hours using IV drugs",
+    "Withhold treatment until a renal biopsy has been done",
+    "Give a single large IV dose of a loop diuretic and repeat BP next day"
+   ],
+   "answer": 0,
+   "explanation": "In accelerated hypertension, autoregulation of cerebral and renal blood flow is reset. Rapid lowering can cause **cerebral ischaemia** (even occipital blindness) and worsen kidney perfusion. Davidson advises a **controlled fall to about 150/90 mmHg over 24–48 hours**.",
+   "whyNot": [
+    "",
+    "Too fast and too low: risks stroke and blindness.",
+    "Still too rapid for altered autoregulation.",
+    "BP control is the treatment; biopsy does not take priority.",
+    "A diuretic alone is not the controlled regimen advised, and patients may be volume-depleted."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 536,
+     "page": 514
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 24-year-old woman with SLE has ankle swelling. BP is 152/96 mmHg. Urine shows protein 3+, blood 2+ and red cell casts. Creatinine is 142 µmol/L. C3 and C4 are low and anti-dsDNA is high. Biopsy shows endocapillary and mesangial proliferation in nearly every glomerulus with large subendothelial deposits.",
+   "leadIn": "Which ISN/RPS class of lupus nephritis is this?",
+   "options": [
+    "Class II",
+    "Class III",
+    "Class IV",
+    "Class V",
+    "Class VI"
+   ],
+   "answer": 2,
+   "explanation": "Proliferation affecting **most glomeruli** with **subendothelial** deposits is **class IV (diffuse)**, the most common and most severe class, typically with nephritic and nephrotic features, hypertension and impaired function.",
+   "whyNot": [
+    "Class II is mesangial only, with mild urinary findings.",
+    "Class III is focal, involving a minority of glomeruli.",
+    "",
+    "Class V is membranous (subepithelial deposits) with nephrotic proteinuria and usually little proliferation.",
+    "Class VI is advanced sclerosis (≥ 90% of glomeruli), not active proliferation."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1379,
+     "page": 1366
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 552,
+     "page": 552
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 27-year-old woman has biopsy-proven class IV lupus nephritis with a creatinine of 160 µmol/L and nephrotic-range proteinuria.",
+   "leadIn": "Which induction regimen is most appropriate?",
+   "options": [
+    "High-dose glucocorticoids plus mycophenolate mofetil",
+    "ACE inhibitor alone",
+    "Hydroxychloroquine alone",
+    "Azathioprine alone",
+    "Plasma exchange alone"
+   ],
+   "answer": 0,
+   "explanation": "Proliferative (III/IV) lupus nephritis is induced with **high-dose steroids plus MMF or IV pulsed cyclophosphamide**, which are equally effective. Maintenance then uses MMF or azathioprine; hydroxychloroquine is added in all classes.",
+   "whyNot": [
+    "",
+    "An ACEi helps proteinuria but does not treat active proliferative inflammation.",
+    "Hydroxychloroquine is background therapy for all classes, not induction for class IV.",
+    "Azathioprine is a maintenance agent.",
+    "Plasma exchange is not standard induction for lupus nephritis."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 432,
+     "page": 410
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1380,
+     "page": 1367
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 552,
+     "page": 552
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 52-year-old man has had 2 months of recurrent nosebleeds, nasal crusting and sinus pain. He now has haemoptysis, and chest X-ray shows cavitating nodules. Urine shows red cell casts and creatinine is 310 µmol/L.",
+   "leadIn": "Which antibody is most likely to be positive?",
+   "options": [
+    "PR3-ANCA (cANCA)",
+    "MPO-ANCA (pANCA)",
+    "Anti-GBM antibody",
+    "Anti-dsDNA",
+    "Anti-histone antibody"
+   ],
+   "answer": 0,
+   "explanation": "Upper-airway disease (epistaxis, crusting, sinusitis), cavitating lung nodules and GN is **granulomatosis with polyangiitis**, which is usually **PR3-ANCA (cytoplasmic)** positive.",
+   "whyNot": [
+    "",
+    "MPO-ANCA is typical of microscopic polyangiitis, which spares the upper airway.",
+    "Anti-GBM disease causes lung haemorrhage and GN but not sinus disease or cavitating nodules.",
+    "Anti-dsDNA is a lupus antibody.",
+    "Anti-histone antibodies point to drug-induced lupus, in which renal disease is rare."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1063,
+     "page": 1041
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 559,
+     "page": 559
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1377,
+     "page": 1364
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 69-year-old woman has 3 weeks of fatigue, weight loss and joint aches. Creatinine has risen from 88 to 410 µmol/L. Urine dipstick shows blood 3+ and protein 2+. She has no ENT or skin symptoms. Biopsy shows focal necrotising glomerulonephritis with crescents and no immune deposits on immunofluorescence.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Microscopic polyangiitis",
+    "Lupus nephritis",
+    "Anti-GBM disease",
+    "IgA nephropathy",
+    "Polyarteritis nodosa"
+   ],
+   "answer": 0,
+   "explanation": "Systemic upset, RPGN and a **pauci-immune** necrotising crescentic GN in an older patient without ENT disease is ANCA vasculitis, most likely **MPA** (usually MPO-ANCA).",
+   "whyNot": [
+    "",
+    "Lupus gives granular \"full house\" immune deposits.",
+    "Anti-GBM disease shows linear IgG on the GBM.",
+    "IgA nephropathy shows mesangial IgA deposits.",
+    "PAN affects medium vessels and does not cause GN."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 432,
+     "page": 410
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1373,
+     "page": 1360
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 560,
+     "page": 560
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 72-year-old woman started omeprazole 6 weeks ago. Her creatinine has risen from 85 to 240 µmol/L, and urine output is normal. She has a low-grade fever and an itchy rash. Blood eosinophils are raised. Urine shows white cells and white cell casts, culture is sterile, and protein is 1+.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Acute interstitial nephritis",
+    "Acute tubular necrosis",
+    "Acute pyelonephritis",
+    "Pre-renal acute kidney injury",
+    "Membranous nephropathy"
+   ],
+   "answer": 0,
+   "explanation": "Non-oliguric AKI after a new drug, with fever, rash, eosinophilia and **sterile white cell casts**, is **drug-induced AIN**. PPIs are fast becoming its commonest cause.",
+   "whyNot": [
+    "",
+    "ATN follows ischaemia or a direct toxin and gives granular casts, not white cell casts with rash.",
+    "Pyelonephritis gives positive urine culture and loin pain.",
+    "Pre-renal AKI has a bland sediment and a reason for hypoperfusion.",
+    "Membranous nephropathy presents with nephrotic syndrome, not AKI with pyuria."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 424,
+     "page": 402
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 299,
+     "page": 299
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 68-year-old man with heart failure takes furosemide and ramipril. He starts ibuprofen for an acute gout flare. Five days later his creatinine has risen from 120 to 210 µmol/L.",
+   "leadIn": "What is the main mechanism of the ibuprofen effect?",
+   "options": [
+    "Afferent arteriolar constriction from loss of vasodilator prostaglandins",
+    "Efferent arteriolar dilatation",
+    "Intratubular crystal precipitation",
+    "Immune-complex glomerulonephritis",
+    "Papillary necrosis with ureteric obstruction"
+   ],
+   "answer": 0,
+   "explanation": "In heart failure, renal perfusion relies on **prostaglandin-mediated afferent dilatation**. NSAIDs remove this, so renal blood flow and GFR fall. The ACE inhibitor (efferent dilatation) worsens the haemodynamic hit.",
+   "whyNot": [
+    "",
+    "Efferent dilatation is the ACE inhibitor mechanism, not the NSAID one.",
+    "Crystal nephropathy is caused by drugs such as aciclovir and methotrexate.",
+    "NSAIDs can cause minimal change or membranous disease, but not within days and without nephrotic features.",
+    "Papillary necrosis follows long-term analgesic use, not a few days."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 448,
+     "page": 426
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 449,
+     "page": 427
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 29-year-old with type 1 diabetes for 9 years has just been found to have persistent microalbuminuria. A renal biopsy is taken as part of a research study.",
+   "leadIn": "Which glomerular change is most likely to be present?",
+   "options": [
+    "GBM thickening with mesangial matrix accumulation",
+    "Kimmelstiel–Wilson nodules in most glomeruli",
+    "Global sclerosis of more than half the glomeruli",
+    "Cellular crescents",
+    "Fibrinoid necrosis of arterioles"
+   ],
+   "answer": 0,
+   "explanation": "The first lesions, appearing at about the time microalbuminuria starts, are **GBM thickening and mesangial matrix accumulation**. Nodules and global sclerosis come later as heavy proteinuria develops.",
+   "whyNot": [
+    "",
+    "Nodules are a later feature of established nephropathy.",
+    "Over 50% global sclerosis is RPS class IV, end-stage territory.",
+    "Crescents are features of RPGN, not diabetic nephropathy.",
+    "Fibrinoid necrosis is malignant hypertension."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 779,
+     "page": 757
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1372,
+     "page": 1359
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A man aged 61 who has type 2 diabetes has eGFR 46 mL/min/1.73 m² and ACR 62 mg/mmol despite maximum-dose ramipril. BP is 128/76 mmHg.",
+   "leadIn": "Which additional drug is most likely to slow progression of his kidney disease?",
+   "options": [
+    "Dapagliflozin",
+    "Gliclazide",
+    "Losartan",
+    "Naproxen",
+    "Pioglitazone"
+   ],
+   "answer": 0,
+   "explanation": "**SGLT2 inhibitors** reduce glomerular pressure and give renal and cardiac protection beyond glucose lowering, cutting CKD progression risk by about 30–40% in proteinuric CKD. Expect a small transient eGFR dip.",
+   "whyNot": [
+    "",
+    "A sulfonylurea lowers glucose but has no specific renoprotection, and glycaemic control matters less once proteinuria is established.",
+    "Combining an ARB with an ACE inhibitor is not recommended (hyperkalaemia, AKI).",
+    "NSAIDs reduce renal blood flow and are nephrotoxic.",
+    "Not described as renoprotective in these sources; it is a glucose-lowering drug."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s1"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 304,
+     "page": 304
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 429,
+     "page": 429
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1372,
+     "page": 1359
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 63-year-old man of Nigerian descent has had poorly controlled hypertension for 20 years. Creatinine is 170 µmol/L, urine shows mild proteinuria and a bland sediment, and both kidneys are small and smooth. He is not diabetic.",
+   "leadIn": "Variants in which gene most likely contribute to his kidney disease risk?",
+   "options": [
+    "APOL1",
+    "PKD1",
+    "COL4A5",
+    "HFE",
+    "CFH"
+   ],
+   "answer": 0,
+   "explanation": "People of black African descent have about four times the rate of hypertension-attributed ESKD, partly due to **APOL1** risk variants, which spread because they protect against trypanosomiasis.",
+   "whyNot": [
+    "",
+    "PKD1 causes polycystic kidney disease with large cystic kidneys, not small smooth ones.",
+    "COL4A5 causes Alport syndrome, with haematuria and deafness from youth.",
+    "HFE mutations cause haemochromatosis.",
+    "Complement factor H mutations cause atypical HUS."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1383,
+     "page": 1370
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 425,
+     "page": 403
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 302,
+     "page": 302
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 66-year-old man taking hydralazine for 2 years develops arthralgia, a photosensitive rash and pleuritic chest pain. ANA is positive and anti-histone antibodies are strongly positive.",
+   "leadIn": "Which further finding would best fit drug-induced lupus rather than SLE?",
+   "options": [
+    "Normal C3 and C4",
+    "High-titre anti-dsDNA",
+    "Red cell casts in the urine",
+    "Class IV nephritis on biopsy",
+    "Low C1q"
+   ],
+   "answer": 0,
+   "explanation": "Drug-induced lupus is **anti-histone positive with normal complement**, and renal involvement is rare. It usually settles after stopping the drug.",
+   "whyNot": [
+    "",
+    "Anti-dsDNA points to idiopathic SLE.",
+    "Red cell casts suggest GN, which is rare in drug-induced lupus.",
+    "Proliferative nephritis would point to true SLE (or hydralazine ANCA vasculitis), not simple drug-induced lupus.",
+    "Low C1q is a marker of active lupus nephritis."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s3"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 553,
+     "page": 553
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1379,
+     "page": 1366
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 47-year-old woman with diffuse cutaneous systemic sclerosis was started on prednisolone 40 mg daily for myositis. Ten days later she has severe headache, BP 214/122 mmHg, falling urine output and a rising creatinine. The film shows fragmented red cells and platelets are low.",
+   "leadIn": "Which drug should be started first?",
+   "options": [
+    "ACE inhibitor",
+    "Beta-blocker",
+    "Higher-dose prednisolone",
+    "Rituximab",
+    "Calcium channel blocker alone"
+   ],
+   "answer": 0,
+   "explanation": "This is **scleroderma renal crisis**, driven by intense renal vasospasm with **very high renin** and often triggered by glucocorticoids. **ACE inhibitors** are the key treatment, raising 1-year survival from 20% to 75%.",
+   "whyNot": [
+    "",
+    "A beta-blocker does not target the renin-driven mechanism.",
+    "Steroids can trigger renal crisis and would make it worse.",
+    "Immunosuppression does not treat the vascular crisis.",
+    "Other agents can be added, but an ACE inhibitor is first-line and the one shown to improve survival."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 432,
+     "page": 410
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 302,
+     "page": 302
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "A 74-year-old man had coronary angiography and stenting 3 weeks ago. Since then his creatinine has risen steadily from 110 to 290 µmol/L. He has a mottled lacy rash on both thighs and painful purple toes with good foot pulses. Eosinophils are raised and urine shows trace blood and protein.",
+   "leadIn": "What is the most likely cause of his renal impairment?",
+   "options": [
+    "Cholesterol atheroembolism",
+    "Contrast nephropathy",
+    "Microscopic polyangiitis",
+    "Drug-induced acute interstitial nephritis",
+    "Polyarteritis nodosa"
+   ],
+   "answer": 0,
+   "explanation": "Two steps: the timing (weeks after an arterial procedure) and the signs (livedo reticularis, ischaemic toes with pulses, eosinophilia) point to **showers of cholesterol emboli** from atheroma. It can mimic vasculitis and has no specific treatment.",
+   "whyNot": [
+    "",
+    "Contrast nephropathy begins within 48 h and recovers in 7–10 days; a slow rise over weeks suggests emboli.",
+    "MPA would give an active sediment and ANCA, without a procedural trigger or toe ischaemia.",
+    "AIN can cause eosinophilia but not livedo and ischaemic toes.",
+    "PAN is a medium-vessel vasculitis unrelated to a procedure."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 431,
+     "page": 409,
+     "figure": "Fig. 15.17"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 301,
+     "page": 301
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 55-year-old man has taken lithium for bipolar disorder for 15 years. He has polyuria and nocturia, and his creatinine has crept up over several years. Urine sediment is bland with minimal proteinuria.",
+   "leadIn": "What is the most likely renal lesion?",
+   "options": [
+    "Chronic interstitial nephritis with a concentrating defect",
+    "Membranous nephropathy",
+    "Acute tubular necrosis",
+    "Crystal nephropathy",
+    "ANCA-associated crescentic GN"
+   ],
+   "answer": 0,
+   "explanation": "Long-term lithium causes a **loss of concentrating ability** and, over years, **chronic interstitial nephritis**, giving polyuria and slowly progressive CKD with a bland urine.",
+   "whyNot": [
+    "",
+    "Membranous nephropathy causes nephrotic proteinuria; drug causes include penicillamine and gold.",
+    "ATN is acute.",
+    "Crystal nephropathy occurs with aciclovir, indinavir or methotrexate.",
+    "ANCA GN gives RPGN with an active sediment."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 449,
+     "page": 427
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 414,
+     "page": 377
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q18",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 39-year-old woman is given high-dose IV aciclovir for herpes simplex encephalitis. Two days later her creatinine has doubled. Urine microscopy shows fine needle-shaped crystals.",
+   "leadIn": "What is the mechanism of her kidney injury?",
+   "options": [
+    "Drug crystals obstructing the tubules",
+    "Allergic interstitial nephritis",
+    "Afferent arteriolar vasoconstriction",
+    "Immune-complex glomerulonephritis",
+    "Papillary necrosis"
+   ],
+   "answer": 0,
+   "explanation": "Aciclovir precipitates as **needle-shaped crystals in the tubules**, causing intrinsic AKI. It is now a more common example of crystal nephropathy than older drugs.",
+   "whyNot": [
+    "",
+    "AIN gives white cells and casts, not drug crystals.",
+    "Haemodynamic AKI is the NSAID/ACEi mechanism.",
+    "Aciclovir does not cause GN.",
+    "Papillary necrosis follows chronic analgesic use, diabetes or sickle-cell disease."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 449,
+     "page": 427
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 317,
+     "page": 317
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q19",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 64-year-old man with type 2 diabetes, peripheral vascular disease and an abdominal bruit is started on ramipril for albuminuria. Ten days later creatinine has risen from 112 to 186 µmol/L and K⁺ is 5.9 mmol/L. He feels well and is not volume-depleted.",
+   "leadIn": "What is the most likely explanation?",
+   "options": [
+    "Bilateral renal artery stenosis unmasked by ACE inhibition",
+    "Natural progression of diabetic nephropathy",
+    "Acute interstitial nephritis caused by ramipril",
+    "Contrast nephropathy",
+    "Diabetic papillary necrosis"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1:** a rise of about 20% is expected after starting an ACE inhibitor; here it is about 66%, well over the 30% at which the drug should be stopped. **Step 2:** a large rise within days, plus widespread atheroma (PVD, bruit), means GFR depended on angiotensin II constricting the efferent arteriole beyond **renal artery stenosis**. **Step 3:** stop the ACE inhibitor, treat hyperkalaemia and image the renal arteries.",
+   "whyNot": [
+    "",
+    "Diabetic nephropathy progresses over years, not 10 days.",
+    "AIN is rare with ACE inhibitors and would usually give pyuria, rash or eosinophilia.",
+    "There has been no contrast exposure.",
+    "Papillary necrosis presents with colic or haematuria from sloughed papillae."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 780,
+     "page": 758
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 448,
+     "page": 426
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 710,
+     "page": 710
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 304,
+     "page": 304
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q20",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 31-year-old woman with SLE has 6 weeks of leg swelling and frothy urine. BP is 122/78 mmHg. Urine shows protein 4+ and no blood, and serum albumin is 19 g/L. Creatinine is normal. Biopsy shows thickened capillary loops with subepithelial immune deposits and no cell proliferation.",
+   "leadIn": "Which class of lupus nephritis is this?",
+   "options": [
+    "Class II",
+    "Class III",
+    "Class IV",
+    "Class V",
+    "Class VI"
+   ],
+   "answer": 3,
+   "explanation": "**Step 1:** the clinical picture is **pure nephrotic syndrome** (heavy proteinuria, low albumin, oedema) with no haematuria, hypertension or renal impairment. **Step 2:** subepithelial deposits with thickened loops and no proliferation is a **membranous** pattern. **Step 3:** membranous lupus nephritis is **class V**; it can coexist with III/IV. Treat with an ACE inhibitor, adding MMF + steroids if nephrotic-range.",
+   "whyNot": [
+    "Class II is mesangial, with only mild urinary abnormalities.",
+    "Class III shows focal proliferation, usually with haematuria.",
+    "Class IV is diffuse proliferation with subendothelial deposits and a nephritic picture.",
+    "",
+    "Class VI is ≥ 90% sclerosis with ESKD."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s3"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 553,
+     "page": 553
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 315,
+     "page": 315
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1379,
+     "page": 1366
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q21",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 26-year-old male smoker has had haemoptysis for 10 days and now passes dark urine. Creatinine has risen to 480 µmol/L over a week. He has no ENT symptoms, rash or arthralgia. Renal biopsy shows crescents in most glomeruli, and immunofluorescence shows a continuous linear band of IgG along the glomerular capillary walls.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Anti-GBM (Goodpasture) disease",
+    "Granulomatosis with polyangiitis",
+    "Microscopic polyangiitis",
+    "Lupus nephritis",
+    "Henoch–Schönlein purpura"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1:** lung haemorrhage plus RPGN is a pulmonary–renal syndrome: think ANCA vasculitis or anti-GBM disease. **Step 2:** the immunofluorescence pattern decides it: **linear** IgG = anti-GBM; pauci-immune = ANCA; granular = immune complex. **Step 3:** lung disease usually precedes the renal disease. Treat with pulse steroids, cyclophosphamide and **plasma exchange**.",
+   "whyNot": [
+    "",
+    "GPA is pauci-immune on IF and usually has upper-airway disease.",
+    "MPA is also pauci-immune.",
+    "Lupus gives granular immune-complex deposits.",
+    "HSP gives granular mesangial IgA, purpura and abdominal pain."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s4"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 694,
+     "page": 694
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1373,
+     "page": 1360
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 312,
+     "page": 312
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 313,
+     "page": 313
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 693,
+     "page": 693
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 421,
+     "page": 399
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q22",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Renal histology in systemic disease",
+   "leadIn": "For each patient below, choose the renal biopsy finding most likely to be seen. Any option can be chosen once, several times or not at all.",
+   "options": [
+    "Nodular glomerulosclerosis (Kimmelstiel–Wilson lesions)",
+    "Fibrinoid necrosis of afferent arterioles",
+    "Diffuse proliferative GN with subendothelial immune deposits",
+    "Membranous pattern with subepithelial deposits",
+    "Pauci-immune focal necrotising crescentic GN",
+    "Linear IgG along the glomerular basement membrane",
+    "Interstitial mononuclear infiltrate sparing the glomeruli",
+    "Tubular cell necrosis with breaks in the tubular basement membrane",
+    "Arterial intimal thickening with reduplicated elastic lamina",
+    "Mesangial IgA deposits"
+   ],
+   "items": [
+    {
+     "stem": "A 56-year-old woman has had type 1 diabetes for 31 years, with laser-treated proliferative retinopathy and peripheral neuropathy. She now has nephrotic-range proteinuria and a slowly rising creatinine. Biopsy was done because of an unexplained episode of haematuria.",
+     "answer": 0,
+     "explanation": "Long-standing type 1 diabetes with retinopathy and nephrotic-range proteinuria: Kimmelstiel–Wilson nodular glomerulosclerosis.",
+     "studyRef": {
+      "sectionId": "neph-systemic-disease.s1"
+     }
+    },
+    {
+     "stem": "A 40-year-old man has BP 244/150 mmHg, papilloedema, fragmented red cells on the film, low platelets and an acute rise in creatinine.",
+     "answer": 1,
+     "explanation": "Malignant-phase hypertension: fibrinoid necrosis of afferent arterioles with a thrombotic microangiopathy.",
+     "studyRef": {
+      "sectionId": "neph-systemic-disease.s2"
+     }
+    },
+    {
+     "stem": "A 71-year-old man with weight loss and arthralgia has creatinine rising over 2 weeks and an active urine sediment. Serology shows high-titre MPO antibodies; anti-GBM and ANA are negative.",
+     "answer": 4,
+     "explanation": "MPO-ANCA vasculitis (MPA) gives a pauci-immune necrotising crescentic GN.",
+     "studyRef": {
+      "sectionId": "neph-systemic-disease.s4"
+     }
+    },
+    {
+     "stem": "A 52-year-old woman took naproxen daily for 3 weeks for back pain. She now has fever, a rash and non-oliguric AKI. Urine shows white cell casts and is sterile on culture.",
+     "answer": 6,
+     "explanation": "Two steps: a new NSAID with fever, rash and sterile white cell casts means drug-induced acute interstitial nephritis, whose biopsy shows an interstitial mononuclear infiltrate sparing the glomeruli.",
+     "studyRef": {
+      "sectionId": "neph-systemic-disease.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 780,
+     "page": 758,
+     "figure": "Fig. 20.22"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1383,
+     "page": 1370
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 432,
+     "page": 410
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 424,
+     "page": 402,
+     "figure": "Fig. 15.13"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 559,
+     "page": 559
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 57-year-old woman with type 2 diabetes and microalbuminuria is started on lisinopril 5 mg daily. Baseline creatinine is 92 µmol/L and K⁺ 4.6 mmol/L.",
+   "leadIn": "What monitoring is most appropriate?",
+   "options": [
+    "Creatinine and potassium within 1–2 weeks of starting and after each dose increase",
+    "HbA1c in 3 months only",
+    "Urine ACR in 1 year only",
+    "Creatinine and potassium only if she becomes unwell",
+    "Renal ultrasound before each dose change"
+   ],
+   "answer": 0,
+   "explanation": "RAS blockade can cause **hyperkalaemia** and a fall in GFR, especially with renal artery stenosis. U&E should be checked **after starting and after every dose increase** (Pocket: within 1–2 weeks). A modest creatinine rise is expected.",
+   "whyNot": [
+    "",
+    "HbA1c does not detect drug-related hyperkalaemia or AKI.",
+    "ACR tracks response but does not ensure safety.",
+    "Hyperkalaemia and AKI can be silent.",
+    "Imaging is not routine monitoring."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 780,
+     "page": 758
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 304,
+     "page": 304
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q24",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A 17-year-old girl newly diagnosed with type 1 diabetes asks about kidney damage. You explain the natural history shown in Davidson for the minority who are susceptible.",
+   "leadIn": "In susceptible patients, by about how many years after diagnosis does proteinuria typically reach the nephrotic range?",
+   "options": [
+    "About 2 years",
+    "About 5 years",
+    "About 10 years",
+    "About 14 years",
+    "About 25 years"
+   ],
+   "answer": 3,
+   "explanation": "In the susceptible ~30%: hyperfiltration settles by ~10 years, sustained proteinuria appears after ~10 years, **nephrotic range by ~14 years** and end stage at ~16 years.",
+   "whyNot": [
+    "Too early: hyperfiltration dominates the first years.",
+    "Still within the hyperfiltration/normal-GFR phase.",
+    "This is when sustained proteinuria starts, not nephrotic-range protein.",
+    "",
+    "By 25 years susceptible patients have usually reached end stage; after 20 years the new-nephropathy risk is < 1%/year."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 780,
+     "page": 758,
+     "figure": "Fig. 20.21"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 779,
+     "page": 757
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q25",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 45-year-old man has CKD from reflux nephropathy. BP is 162/98 mmHg and urine protein is 1.4 g/day. He has no diabetes.",
+   "leadIn": "Which antihypertensive class is preferred?",
+   "options": [
+    "ACE inhibitor",
+    "Beta-blocker",
+    "Alpha-blocker",
+    "Dihydropyridine calcium channel blocker",
+    "Centrally acting agent"
+   ],
+   "answer": 0,
+   "explanation": "Hypertension from bilateral renal disease is driven by RAAS activation and salt/water retention. **ACEi/ARB** are drugs of choice because they give **extra renoprotection** at the same BP and reduce proteinuria.",
+   "whyNot": [
+    "",
+    "Lowers BP but without the specific antiproteinuric effect.",
+    "Not a first-choice agent in proteinuric CKD.",
+    "Useful as add-on but lacks renoprotection beyond BP lowering.",
+    "Not preferred; no specific renal benefit."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s2"
+   },
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 415,
+     "page": 378
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1384,
+     "page": 1371
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q26",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 38-year-old woman with SLE for 15 years has creatinine 610 µmol/L and small kidneys. Repeat biopsy shows global sclerosis in more than 90% of glomeruli with no active proliferation.",
+   "leadIn": "What is the most appropriate management?",
+   "options": [
+    "Prepare for renal replacement therapy",
+    "IV pulsed cyclophosphamide",
+    "High-dose glucocorticoids plus MMF",
+    "Plasma exchange",
+    "Voclosporin added to MMF"
+   ],
+   "answer": 0,
+   "explanation": "This is **class VI** (advanced sclerosing) lupus nephritis. The scarred kidneys will not respond to immunosuppression, so the plan is RRT.",
+   "whyNot": [
+    "",
+    "Immunosuppression treats active inflammation, not scar.",
+    "Induction therapy is for active III/IV/V disease.",
+    "No role in sclerotic lupus nephritis.",
+    "Voclosporin is an add-on for active disease induction."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1379,
+     "page": 1366
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1380,
+     "page": 1367
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 553,
+     "page": 553
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q27",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 66-year-old man with MPO-ANCA vasculitis and RPGN reached remission after 4 months of glucocorticoids and cyclophosphamide.",
+   "leadIn": "Which agent is most appropriate to maintain remission according to the trial evidence cited in Kumar?",
+   "options": [
+    "Azathioprine",
+    "Mycophenolate mofetil",
+    "Oral cyclophosphamide for a further 2 years",
+    "Hydroxychloroquine",
+    "No further immunosuppression"
+   ],
+   "answer": 0,
+   "explanation": "After induction, cyclophosphamide is switched to **azathioprine**, which beat MMF head-to-head. Fixed-dose rituximab every 3 months is better still. Co-trimoxazole reduces relapse linked to nasal *S. aureus*.",
+   "whyNot": [
+    "",
+    "MMF was less effective than azathioprine in the comparison trial.",
+    "Prolonged cyclophosphamide adds toxicity; it is switched once remission is achieved.",
+    "Not a vasculitis maintenance drug.",
+    "Relapse is common after complete withdrawal; long-term low-dose immunosuppression is often needed."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1377,
+     "page": 1364
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 560,
+     "page": 560
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q28",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 70-year-old diabetic man (type 2) takes metformin and ibuprofen. His eGFR is 38 mL/min/1.73 m². He needs a contrast-enhanced CT of the abdomen.",
+   "leadIn": "Which measure is most important to reduce his risk of contrast nephropathy?",
+   "options": [
+    "IV isotonic saline before and after the scan",
+    "Prophylactic haemodialysis after the scan",
+    "Use of high-osmolality contrast",
+    "IV furosemide before the scan",
+    "Continuing ibuprofen for analgesia"
+   ],
+   "answer": 0,
+   "explanation": "He has CKD and diabetes, both risk factors. Prevention: **IV isotonic saline**, minimal low/iso-osmolar contrast, **stop the NSAID** and **omit metformin for 48 hours**.",
+   "whyNot": [
+    "",
+    "Not a recommended preventive measure.",
+    "High-osmolality contrast increases risk.",
+    "Diuretics are withheld, not given, around contrast.",
+    "NSAIDs should be withheld."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 412,
+     "page": 390
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 301,
+     "page": 301
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q29",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 3,
+   "stem": "A 64-year-old woman has MPO-ANCA vasculitis with creatinine 380 µmol/L, red cell casts and a biopsy showing pauci-immune crescentic GN. There is no lung haemorrhage. She had haemorrhagic cystitis on a previous course of cyclophosphamide, so the team wants to avoid that drug.",
+   "leadIn": "Which induction regimen is most appropriate?",
+   "options": [
+    "High-dose glucocorticoids plus rituximab",
+    "Glucocorticoids alone",
+    "Plasma exchange alone",
+    "Azathioprine plus glucocorticoids",
+    "Hydroxychloroquine plus glucocorticoids"
+   ],
+   "answer": 0,
+   "explanation": "Rituximab with high-dose glucocorticoids is **as effective as cyclophosphamide** for inducing remission in ANCA vasculitis and is a good option when cyclophosphamide is undesirable. Pocket Medicine now prefers it as less toxic.",
+   "whyNot": [
+    "",
+    "Steroids alone are insufficient for organ-threatening ANCA GN.",
+    "Plasma exchange is at most an adjunct, never sole therapy.",
+    "Azathioprine is used for maintenance, not induction.",
+    "Hydroxychloroquine is a lupus drug."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 432,
+     "page": 410
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1377,
+     "page": 1364
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 560,
+     "page": 560
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q30",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 3,
+   "stem": "An 80-year-old man with sepsis has been on gentamicin and IV furosemide for 6 days. His blood pressure has been stable. Creatinine has risen from 95 to 320 µmol/L. Urine shows muddy-brown granular casts; fractional sodium excretion is 3%.",
+   "leadIn": "What is the most likely cause of his AKI?",
+   "options": [
+    "Nephrotoxic acute tubular necrosis",
+    "Acute interstitial nephritis",
+    "Pre-renal AKI from over-diuresis",
+    "Crystal nephropathy",
+    "ANCA-associated glomerulonephritis"
+   ],
+   "answer": 0,
+   "explanation": "Muddy-brown granular casts and FENa > 2% indicate **ATN**. Aminoglycosides are directly tubulotoxic, and combining them with a **loop diuretic** is particularly nephrotoxic.",
+   "whyNot": [
+    "",
+    "AIN gives white cell casts, often with rash or eosinophilia.",
+    "Pre-renal AKI has FENa < 1% and a bland sediment.",
+    "Gentamicin does not form crystals.",
+    "No haematuria or red cell casts to suggest GN."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1393,
+     "page": 1380
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 299,
+     "page": 299
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 449,
+     "page": 427
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q31",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 3,
+   "stem": "A renal biopsy from a 59-year-old man with long-standing type 2 diabetes shows several Kimmelstiel–Wilson nodules, with about 30% of glomeruli globally sclerosed.",
+   "leadIn": "Which Renal Pathology Society class of diabetic nephropathy is this?",
+   "options": [
+    "Class I",
+    "Class IIa",
+    "Class IIb",
+    "Class III",
+    "Class IV"
+   ],
+   "answer": 3,
+   "explanation": "**Class III** requires at least one Kimmelstiel–Wilson nodule with **< 50%** global glomerulosclerosis. More than 50% global sclerosis would be class IV.",
+   "whyNot": [
+    "Class I is isolated GBM thickening.",
+    "Class IIa is mild mesangial expansion without nodules.",
+    "Class IIb is severe mesangial expansion without nodules.",
+    "",
+    "Class IV needs > 50% global sclerosis."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1372,
+     "page": 1359
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q32",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 49-year-old man has a BP of 210/130 mmHg at a routine visit. He is asymptomatic.",
+   "leadIn": "Which additional finding would establish accelerated (malignant) hypertension?",
+   "options": [
+    "Grade 4 retinopathy with new proteinuria and rising creatinine",
+    "BP above 180/110 mmHg on a repeat reading",
+    "Left ventricular hypertrophy on ECG",
+    "Grade 1 retinopathy (arteriolar narrowing) only",
+    "A raised plasma renin level"
+   ],
+   "answer": 0,
+   "explanation": "Accelerated hypertension is defined by **high BP plus rapidly progressive end-organ damage**: grade 3–4 retinopathy, renal dysfunction (especially proteinuria) and/or encephalopathy. A BP number alone is not enough.",
+   "whyNot": [
+    "",
+    "BP level alone does not define it.",
+    "LVH shows chronic, not rapidly progressive, damage.",
+    "Grade 1–2 changes are chronic hypertensive retinopathy.",
+    "Renin rises in the vicious circle but is not a diagnostic criterion."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 536,
+     "page": 514
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 415,
+     "page": 378
+    }
+   ]
+  },
+  {
+   "id": "neph-systemic-disease.q33",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 61-year-old woman on haemodialysis needs an MRI scan. The radiologist is concerned about giving gadolinium contrast.",
+   "leadIn": "Which complication is the main concern?",
+   "options": [
+    "Nephrogenic systemic fibrosis",
+    "Acute tubular necrosis",
+    "Acute interstitial nephritis",
+    "Lactic acidosis",
+    "Cholesterol atheroembolism"
+   ],
+   "answer": 0,
+   "explanation": "Gadolinium agents can cause **nephrogenic systemic fibrosis** (progressive sclerosis of skin, deeper tissues and organs), reported only in renal impairment, typically GFR < 15 or on dialysis.",
+   "whyNot": [
+    "",
+    "Iodinated contrast is the classic cause of contrast nephropathy; a dialysis patient has little function to lose.",
+    "Gadolinium is not a recognised cause of AIN.",
+    "Lactic acidosis is the metformin concern with iodinated contrast.",
+    "Atheroemboli follow arterial instrumentation, not MRI."
+   ],
+   "studyRef": {
+    "sectionId": "neph-systemic-disease.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 412,
+     "page": 390
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 301,
+     "page": 301
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "neph-systemic-disease.o1",
+   "sectionId": "neph-systemic-disease.s1",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 780,
+    "page": 758,
+    "figure": "Fig. 20.22"
+   },
+   "identify": "Nodular diabetic glomerulosclerosis: a rounded **Kimmelstiel–Wilson nodule** with thickened basement membranes and mesangial expansion (pathognomonic of diabetes)."
+  },
+  {
+   "id": "neph-systemic-disease.o2",
+   "sectionId": "neph-systemic-disease.s3",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 1379,
+    "page": 1366,
+    "figure": "Fig. 36.24"
+   },
+   "identify": "Class IV (diffuse proliferative) lupus nephritis: endothelial and mesangial cell proliferation filling the glomerular tuft."
+  },
+  {
+   "id": "neph-systemic-disease.o3",
+   "sectionId": "neph-systemic-disease.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 421,
+    "page": 399,
+    "figure": "Fig. 15.12"
+   },
+   "identify": "Panel C: **focal necrotising GN** (bright pink necrosis with nuclear dust), typical of small-vessel vasculitis. Panel E: a **crescent** in Bowman's space."
+  },
+  {
+   "id": "neph-systemic-disease.o4",
+   "sectionId": "neph-systemic-disease.s4",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 1377,
+    "page": 1364,
+    "figure": "Fig. 36.22"
+   },
+   "identify": "Neutrophil immunofluorescence: diffuse **cytoplasmic (cANCA, usually PR3)** vs **perinuclear (pANCA, usually MPO)** staining."
+  },
+  {
+   "id": "neph-systemic-disease.o5",
+   "sectionId": "neph-systemic-disease.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 424,
+    "page": 402,
+    "figure": "Fig. 15.13"
+   },
+   "identify": "Panel D: **acute allergic interstitial nephritis** after an NSAID — mononuclear infiltrate between tubules, glomeruli spared. Compare panel B (ATN)."
+  },
+  {
+   "id": "neph-systemic-disease.o6",
+   "sectionId": "neph-systemic-disease.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 431,
+    "page": 409,
+    "figure": "Fig. 15.17"
+   },
+   "identify": "Foot after coronary stenting: livedo and **ischaemic toes** from cholesterol atheroemboli (renal impairment, eosinophilia; mimics vasculitis)."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:29:01.435Z",
+  "contentHash": "0be0b1e1b7ff6fde58e5df52e7e27b3332f88eba6de4f474d225badced64c0ed"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:29:01.445Z",
+  "contentHash": "0be0b1e1b7ff6fde58e5df52e7e27b3332f88eba6de4f474d225badced64c0ed",
+  "checkerVersion": "source-check-v1"
+ }
+}

@@ -1,0 +1,3614 @@
+{
+ "topicId": "id-malaria",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "id-malaria.s1",
+   "title": "Plasmodium species, life cycle and pathogenesis",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Malaria is a **protozoal infection** with _Plasmodium_, passed on by the bite of an infected **female _Anopheles_ mosquito**, usually at night. Five species infect humans. Four are classic human parasites: **P. falciparum**, **P. vivax**, **P. malariae** and **P. ovale** (which has two subspecies, _curtisi_ and _wallikeri_). The fifth, **P. knowlesi**, is mainly a monkey parasite. **Falciparum causes almost all malaria deaths.** It is also the usual species in travellers returning from **Africa**, and about **1%** of these patients die, mostly because the diagnosis is made late.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 295,
+       "page": 273
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 585,
+       "page": 563
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Infectious disease",
+       "pdfPage": 173,
+       "page": 173
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 63,
+       "page": 26
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Routes other than the mosquito bite",
+     "items": [
+      "Transfusion of **contaminated blood**",
+      "**Needle sharing** among people who inject drugs",
+      "Contaminated **hospital equipment**",
+      "**“Airport malaria”**: infection near airports from infected mosquitoes carried in on aircraft"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 586,
+       "page": 564
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 63,
+       "page": 26
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 295,
+       "page": 273
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Life cycle, step by step",
+     "items": [
+      "A female mosquito takes in **gametocytes** (the sexual forms) with a blood meal. Over **7–20 days** the parasite develops in the mosquito, and **sporozoites** collect in its salivary glands.",
+      "At the next bite, sporozoites enter the blood and within about **30 minutes** they have left it for the **liver**.",
+      "They multiply in hepatocytes. After some days the hepatocytes burst and release **merozoites** into the blood.",
+      "Merozoites invade red cells and develop from **ring** to **trophozoite** to **schizont**. When the schizont ruptures it releases new merozoites, and this **rupture causes the fever**.",
+      "A few merozoites become **gametocytes** instead. These are what the next mosquito picks up."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 295,
+       "page": 273
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 296,
+       "page": 274
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 586,
+       "page": 564
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "How the species differ (follows Davidson)",
+     "columns": [
+      "Feature",
+      "P. vivax / P. ovale",
+      "P. malariae",
+      "P. falciparum"
+     ],
+     "rows": [
+      [
+       "Minimum incubation (pre-patent period)",
+       "8–25 days",
+       "15–30 days",
+       "8–25 days"
+      ],
+      [
+       "Liver stage",
+       "Persists as **hypnozoites**",
+       "Pre-erythrocytic only",
+       "Pre-erythrocytic only"
+      ],
+      [
+       "Red-cell (asexual) cycle",
+       "48 h, synchronous",
+       "72 h, synchronous",
+       "Under 48 h, **asynchronous**"
+      ],
+      [
+       "Fever pattern",
+       "Alternate days",
+       "Every third day",
+       "No regular pattern"
+      ],
+      [
+       "Red cells invaded",
+       "Reticulocytes",
+       "Normoblasts (Kumar: older cells)",
+       "Cells of **all ages**, especially young ones"
+      ],
+      [
+       "Late events",
+       "Relapses are common in the first 2 years",
+       "Fever can recur (recrudescence) after many years",
+       "Fever can recur (recrudescence) for up to a year"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 296,
+       "page": 274
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 586,
+       "page": 564
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Hypnozoites** (dormant liver forms) occur **only in P. vivax and P. ovale**. They explain why the first attack, or a relapse, can come **months or years** after the person has left the endemic area, even after a drug that kills only blood stages. **P. falciparum, P. knowlesi and P. malariae have no persistent liver stage**, so treated falciparum does not relapse.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 296,
+       "page": 274
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 63,
+       "page": 26
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Why falciparum is so dangerous.** Red cells carrying trophozoites develop surface **“knob” proteins** and **stick to the endothelium of post-capillary venules** in the brain, kidney, liver, lung and gut. They also clump with uninfected cells into **rosettes**. The blocked, congested vessels damage organs, and the toxic material released when schizonts burst adds to the damage. Because falciparum enters red cells of **every age**, it reaches the highest parasite loads and causes the worst haemolysis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 297,
+       "page": 275
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 296,
+       "page": 274
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 586,
+       "page": 564
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 63,
+       "page": 26
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Why patients become anaemic",
+     "items": [
+      "Haemolysis of **infected** red cells",
+      "Haemolysis of **uninfected** red cells as well (seen in blackwater fever)",
+      "**Dyserythropoiesis**",
+      "**Splenomegaly** and sequestration of red cells",
+      "**Folate depletion**"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 586,
+       "page": 564
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 297,
+       "page": 275
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Host factors and immunity",
+     "columns": [
+      "Host factor",
+      "Effect on malaria"
+     ],
+     "rows": [
+      [
+       "**Sickle-cell trait (HbAS)**",
+       "Protects against the **lethal complications of falciparum**. This survival advantage keeps the gene common in malarial regions."
+      ],
+      [
+       "Thalassaemia, G6PD deficiency, HLA-B53",
+       "Other protective traits that falciparum has selected for"
+      ],
+      [
+       "**Duffy-negative red cells** (common in West Africa)",
+       "**P. vivax cannot enter** these cells"
+      ],
+      [
+       "Repeated infection (stable, year-round transmission)",
+       "Partial immunity with low-grade parasitaemia that causes few symptoms. It is **largely lost after a few years** without exposure."
+      ],
+      [
+       "**Splenectomy**, **pregnancy**",
+       "Higher risk of severe, overwhelming malaria"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 297,
+       "page": 275
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 586,
+       "page": 564
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Infectious disease",
+       "pdfPage": 189,
+       "page": 189
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Stable vs unstable transmission.** Where transmission is stable and year-round (much of sub-Saharan Africa), deaths are mainly in **children**, and adults who survive carry partial immunity. Where it is unstable or seasonal, little immunity develops, so disease is symptomatic at **all ages** and epidemics can kill people of any age.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 585,
+       "page": 563
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 586,
+       "page": 564
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Migrants visiting friends and relatives** in their home country are a high-risk group. They have lost their partial immunity while away, and they often do not take prophylaxis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 295,
+       "page": 273
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The books differ on the falciparum red-cell cycle. Kumar & Clark gives about **48 h**, the same as vivax. **Davidson** gives **under 48 h and asynchronous**, which explains why falciparum fever has no regular rhythm. Use Davidson’s version.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 296,
+       "page": 274
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 586,
+       "page": 564
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Infectious disease",
+      "pdfPage": 296,
+      "page": 274,
+      "figure": "Fig. 11.33"
+     },
+     "note": "Look at: the full cycle. The sexual stage is in the mosquito, the hepatic stage includes **hypnozoites** (vivax and ovale only), and the erythrocytic loop runs ring → trophozoite → schizont → merozoites."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Infectious disease",
+      "pdfPage": 586,
+      "page": 564,
+      "figure": "Fig. 20.29"
+     },
+     "note": "Look at: the life cycle of P. vivax, with the dormant liver **hypnozoite** shown beside red-cell schizogony."
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.s2",
+   "title": "Clinical presentation by species",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The features of malaria are **non-specific**. Think of it in **anyone with fever who has been in an endemic area**. The usual incubation period is **10–21 days** (Kumar), or **10–14 days** for vivax, ovale and falciparum and **18 days to 6 weeks** for malariae (K&C Essentials). Falciparum **rarely presents more than 3 months** after exposure, even in someone taking prophylaxis. Vivax can cause its **first attack up to a year** after the person has left.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 297,
+       "page": 275
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 586,
+       "page": 564
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 587,
+       "page": 565
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 63,
+       "page": 26
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 64,
+       "page": 27
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Common features (any species)",
+     "items": [
+      "Fever with **rigors** and **drenching sweats**. The temperature often reaches **41 °C**, and each attack lasts about 4–6 hours.",
+      "Malaise, headache, myalgia, vomiting or diarrhoea",
+      "Signs: **pallor** (anaemia), **hepatosplenomegaly** (the spleen often enlarges from about day 4) and **jaundice** from haemolysis",
+      "At first the fever is continuous or erratic. A regular **tertian or quartan** pattern appears only after some days.",
+      "Patients often feel well between attacks. Some presentations have **no fever**."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 586,
+       "page": 564
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Infectious disease",
+       "pdfPage": 173,
+       "page": 173
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Infectious disease",
+       "pdfPage": 1014,
+       "page": 1014
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 64,
+       "page": 27
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Species-by-species picture",
+     "columns": [
+      "Species",
+      "Typical illness",
+      "Distinguishing points"
+     ],
+     "rows": [
+      [
+       "**P. falciparum**",
+       "The most dangerous species. Onset is often **insidious**.",
+       "Malaise, headache, vomiting, cough and mild diarrhoea. The fever has **no set pattern**. **Jaundice** (from haemolysis and liver dysfunction), tender hepatosplenomegaly, and **rapid anaemia and thrombocytopenia**."
+      ],
+      [
+       "**P. vivax / P. ovale**",
+       "Usually mild. Several days of continuous fever come first, then **alternate-day paroxysms**.",
+       "Each paroxysm has a **cold stage with rigor** (temperature up to about 40 °C), then a **hot, flushed stage** lasting several hours, then **profuse sweating**. Anaemia develops slowly, and **relapses** are common in the first 2 years."
+      ],
+      [
+       "**P. malariae**",
+       "Mild. Fever comes **every third day**.",
+       "Parasitaemia can last **for years**. Chronic infection in children causes **glomerulonephritis and nephrotic syndrome**."
+      ],
+      [
+       "**P. knowlesi**",
+       "A macaque parasite found in parts of **South-east Asia**",
+       "Usually mild, but it **can deteriorate rapidly** and has caused fatal disease."
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 297,
+       "page": 275
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 298,
+       "page": 276
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 587,
+       "page": 565
+      },
+      {
+       "book": "washington36",
+       "chapter": "Malaria",
+       "pdfPage": 1487,
+       "page": 1487
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Patients who do worse",
+     "items": [
+      "**Pregnancy**: immunity is reduced, and falciparum binds to **chondroitin sulphate A** in the placenta. Abortion and intrauterine growth restriction are frequent results.",
+      "**Children**: they can go from reasonable health to **coma and death within hours**.",
+      "**Previous splenectomy**: higher risk of severe malaria"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 297,
+       "page": 275
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 587,
+       "page": 565
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 586,
+       "page": 564
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Hyper-reactive malarial (tropical) splenomegaly** affects older children and adults in **hyperendemic** areas. It is an exaggerated immune response to repeated infection: **massive splenomegaly**, **anaemia** and **raised IgM**, with **scanty or absent parasites**. It usually responds to **prolonged antimalarial prophylaxis**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 587,
+       "page": 565
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 63,
+       "page": 26
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Exam keyword: **fever + rigors + sweating + recent trip to Africa = malaria** until proved otherwise. **P. falciparum is a medical emergency.** It can kill within **24 hours** of the first symptoms, so these patients are discussed with infection specialists and managed in HDU or ICU.",
+     "cites": [
+      {
+       "book": "allam25",
+       "chapter": "Infection and blood",
+       "pdfPage": 45,
+       "page": 44
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Infectious disease",
+       "pdfPage": 1014,
+       "page": 1014
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 64,
+       "page": 27
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A falciparum patient who **looks only mildly unwell can deteriorate quickly** into dangerous complications. Never send home a febrile returning traveller until malaria has been excluded.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 297,
+       "page": 275
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 587,
+       "page": 565
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A **rash, skin ulcer, eosinophilia, lymphadenopathy, neck stiffness or photophobia** is not typical of malaria. Look for a different or an additional diagnosis.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "chapter": "Infectious disease",
+       "pdfPage": 1014,
+       "page": 1014
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Infectious disease",
+       "pdfPage": 1015,
+       "page": 1015
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Infectious disease",
+      "pdfPage": 297,
+      "page": 275,
+      "figure": "Fig. 11.34"
+     },
+     "note": "Look at: falciparum features by organ system, with insets of **malaria retinopathy with Roth’s spots**, **disconjugate gaze** from a cranial nerve palsy, and blood films of falciparum ring forms beside a vivax trophozoite and schizont."
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.s3",
+   "title": "Investigations and diagnosis",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Examine **Giemsa-stained thick and thin blood films** whenever malaria is suspected. This is the standard diagnostic test. Exclude malaria in **every febrile person who has travelled to an endemic area**, and take films ideally **during a fever**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 298,
+       "page": 276
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 64,
+       "page": 27
+      },
+      {
+       "book": "washington36",
+       "chapter": "Malaria",
+       "pdfPage": 1488,
+       "page": 1488
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Diagnostic tests",
+     "columns": [
+      "Test",
+      "What it gives you",
+      "Limitations"
+     ],
+     "rows": [
+      [
+       "**Thick film**",
+       "The red cells are lysed and more blood is examined, so it **detects low parasitaemia** (highest yield)",
+       "Harder to read, and the species is hard to identify"
+      ],
+      [
+       "**Thin film**",
+       "**Confirms** the diagnosis, identifies the **species** and measures the **% of red cells parasitised** (falciparum)",
+       "Less sensitive than the thick film"
+      ],
+      [
+       "**Rapid diagnostic test (RDT)**",
+       "Detects parasite antigen (falciparum **HRP-2**, Plasmodium **LDH**). Very sensitive and specific for falciparum, and useful where film readers lack experience.",
+       "Weaker for other species and at low parasitaemia. Can **stay positive for a month or more**. Use it **alongside films**, not instead of them."
+      ],
+      [
+       "**PCR**",
+       "Mainly a research tool. It can tell **recrudescence** of the same parasite from **reinfection**.",
+       "Not a routine first-line test"
+      ],
+      [
+       "**Serology**",
+       "—",
+       "**No diagnostic value** in acute malaria"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 298,
+       "page": 276
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 587,
+       "page": 565
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 64,
+       "page": 27
+      },
+      {
+       "book": "washington36",
+       "chapter": "Malaria",
+       "pdfPage": 1488,
+       "page": 1488
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Reading the film",
+     "items": [
+      "In early falciparum infection you usually see **only ring forms**. In the other species **all erythrocytic stages** may be present.",
+      "Falciparum parasites may be **very scanty**, especially after partial treatment.",
+      "**Gametocytes** appear after about 2 weeks and **persist after treatment**. They are **harmless to the patient** but can infect mosquitoes."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 298,
+       "page": 276
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Work-up of the febrile returning traveller",
+     "items": [
+      "Malaria films with or without an RDT, **repeated if negative**",
+      "**FBC**: often a normocytic anaemia with reticulocytosis and early **thrombocytopenia**",
+      "U&E and creatinine, LFTs, **blood glucose**, urinalysis, and a chest X-ray if indicated",
+      "If the patient is unwell: blood gases, **lactate**, clotting and **blood cultures**",
+      "**Pregnancy test** in every woman of childbearing potential, because malaria in pregnancy is more often complicated"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 254,
+       "page": 232
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 61,
+       "page": 24
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 64,
+       "page": 27
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 65,
+       "page": 28
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Infectious disease",
+       "pdfPage": 1015,
+       "page": 1015
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**One negative film does not exclude malaria.** Examine **at least three films** before calling malaria unlikely. K&C Essentials repeats the films at 12–24 hours and again at 24 hours. Zero to Finals sends three samples on three consecutive days because parasites are released into the blood in cycles.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 587,
+       "page": 565
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 61,
+       "page": 24
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 64,
+       "page": 27
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Infectious disease",
+       "pdfPage": 173,
+       "page": 173
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "In falciparum the **peripheral parasite count can mislead**. Many parasitised cells are **sequestered in the microcirculation**, so a low count does not rule out severe disease.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 587,
+       "page": 565
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "In **endemic areas**, finding parasites does not prove they are causing the illness. Exclude bacterial infection as well, for example with a **lumbar puncture** in a drowsy febrile patient.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 587,
+       "page": 565
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Thrombocytopenia is common** in malaria and, **on its own, does not mean severe disease**. In any patient with altered mental status, check a **fingerstick glucose** to exclude hypoglycaemia.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 65,
+       "page": 28
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Infectious disease",
+       "pdfPage": 1015,
+       "page": 1015
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Not every red-cell parasite is malaria.** _Babesia_ is a **tick-borne** protozoan that also lives inside red cells. Most US cases are **B. microti** and most European cases **B. divergens**. It causes fever, malaise and sometimes haemolytic anaemia **1–4 weeks after a tick bite**, is **severe after splenectomy**, and is diagnosed on the blood film. Treatment is quinine with clindamycin.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 300,
+       "page": 278
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "fa2ck11",
+      "chapter": "Infectious disease",
+      "pdfPage": 1015,
+      "page": 1015,
+      "figure": "FIGURE 2.16-2"
+     },
+     "note": "Look at: a thin film crowded with ring-infected red cells. This is **falciparum hyperparasitaemia** in a patient with cerebral malaria."
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.s4",
+   "title": "Treatment of uncomplicated malaria and radical cure",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Falciparum is now **resistant to chloroquine and sulfadoxine–pyrimethamine almost everywhere**, so uncomplicated falciparum is treated with **artemisinin-based combination therapy (ACT)**. Artemisinin resistance has been reported in South-east Asia. **Admit every falciparum patient**, at least for the first 24 hours, because they can deteriorate quickly. Give antipyretics and IV fluids as needed.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 299,
+       "page": 277
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 588,
+       "page": 566
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 65,
+       "page": 28
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Infectious disease",
+       "pdfPage": 174,
+       "page": 174
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Uncomplicated falciparum (Davidson Box 11.55)",
+     "columns": [
+      "Choice",
+      "Regimen",
+      "Notes"
+     ],
+     "rows": [
+      [
+       "**Preferred**",
+       "**Co-artemether** (artemether–lumefantrine): **4 tablets at 0, 8, 24, 36, 48 and 60 h**",
+       "First-line ACT"
+      ],
+      [
+       "Alternative",
+       "**Quinine** 600 mg salt three times daily for 5–7 days, **with or followed by doxycycline** 200 mg daily for 7 days",
+       "Use **clindamycin instead of doxycycline** in pregnancy and in young children"
+      ],
+      [
+       "Alternative",
+       "**Atovaquone–proguanil**: 4 tablets once daily for 3 days",
+       "—"
+      ],
+      [
+       "**Pregnancy**",
+       "Co-artemether, but **avoid it in early pregnancy**. Otherwise quinine **plus clindamycin** 450 mg three times daily for 7 days.",
+       "Seek expert advice"
+      ],
+      [
+       "Other WHO ACTs",
+       "Artesunate–amodiaquine, dihydroartemisinin–piperaquine, artesunate–mefloquine, artesunate–sulfadoxine–pyrimethamine",
+       "The choice depends on local resistance to the partner drug. **Artesunate–SP is not suitable for vivax or mixed infection.**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 299,
+       "page": 277
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 588,
+       "page": 566
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 66,
+       "page": 29
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Non-falciparum malaria",
+     "columns": [
+      "Step",
+      "Treatment",
+      "Key point"
+     ],
+     "rows": [
+      [
+       "Blood stage (vivax, ovale, malariae, knowlesi)",
+       "Oral **chloroquine**: 600 mg base, then 300 mg at 6 h, then 150 mg twice daily for 2 more days. ACT is an alternative.",
+       "All are sensitive to ACT. For **chloroquine-resistant vivax** (reported from Indonesia), give co-artemether."
+      ],
+      [
+       "**Radical cure** (vivax and ovale only)",
+       "**Primaquine 30 mg daily (vivax)** or **15 mg daily (ovale)** for **14 days**",
+       "Kills the **liver hypnozoites**. Start only **after confirming normal G6PD**."
+      ],
+      [
+       "Mild–moderate G6PD deficiency",
+       "Primaquine **0.75 mg/kg once weekly for 8 weeks**",
+       "Lower-intensity regimen"
+      ],
+      [
+       "Malariae, knowlesi",
+       "Chloroquine or ACT",
+       "No hypnozoites, so primaquine is not needed for radical cure"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 299,
+       "page": 277
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 66,
+       "page": 29
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 588,
+       "page": 566
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Never give an artemisinin as monotherapy**, because it encourages resistance. The WHO also recommends a **single dose of primaquine (0.75 mg/kg) as a gametocide** after falciparum treatment, to cut onward transmission.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 588,
+       "page": 566
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Primaquine can cause haemolysis in G6PD deficiency**, so screen everyone before giving it. **Methaemoglobinaemia** (cyanosis) is more common but harmless.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 299,
+       "page": 277
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 66,
+       "page": 29
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The sources disagree on doses. Kumar gives primaquine **0.25–0.5 mg/kg/day for 2–3 weeks**, and K&C Essentials gives chloroquine as **620/310 mg**. Kumar’s table also pairs quinine with **doxycycline** in the first trimester. Follow **Davidson**: primaquine 30 mg (vivax) or 15 mg (ovale) for 14 days, and **clindamycin, not doxycycline, in pregnancy**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 299,
+       "page": 277
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 588,
+       "page": 566
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 66,
+       "page": 29
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.s5",
+   "title": "Severe falciparum malaria: complications and management",
+   "objectiveIdx": [
+    4,
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Definition (Davidson).** Treat as severe malaria any **non-immune** patient with a **parasite count above 2%** or **any complication**. It is a **medical emergency**. Management has four parts: prompt parenteral antimalarials, active treatment of each complication, correction of fluid, electrolyte and acid–base problems, and **avoidance of harmful add-on treatments**. Care takes place in HDU or ICU.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 299,
+       "page": 277
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 65,
+       "page": 28
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Complications of falciparum malaria",
+     "columns": [
+      "System",
+      "Complication"
+     ],
+     "rows": [
+      [
+       "Neurological",
+       "**Cerebral malaria**: delirium, seizures or coma, **usually without localising signs**. There may be disconjugate gaze, opisthotonus and **malaria retinopathy**. **Untreated, it is universally fatal.**"
+      ],
+      [
+       "Metabolic",
+       "**Hypoglycaemia** (from the infection and from **quinine**) and **metabolic (lactic) acidosis**"
+      ],
+      [
+       "Blood",
+       "**Severe anaemia** (Hb below 80 g/L), thrombocytopenia, **DIC** and spontaneous bleeding"
+      ],
+      [
+       "Renal",
+       "**Acute kidney injury**, oliguria, acute tubular necrosis, and **haemoglobinuria (“blackwater fever”)**"
+      ],
+      [
+       "Respiratory",
+       "**Pulmonary oedema / ARDS** (non-cardiogenic) and secondary bacterial pneumonia"
+      ],
+      [
+       "Circulatory",
+       "**Shock (“algid malaria”)**, often with Gram-negative bacteraemia, and dysrhythmias with quinine"
+      ],
+      [
+       "Liver / spleen",
+       "Jaundice, tender hepatomegaly (acute hepatopathy) and **splenic rupture**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 297,
+       "page": 275
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 587,
+       "page": 565
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 64,
+       "page": 27
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Infectious disease",
+       "pdfPage": 1016,
+       "page": 1016
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Infectious disease",
+       "pdfPage": 174,
+       "page": 174
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Antimalarial drugs in severe malaria (order of preference)",
+     "columns": [
+      "Option",
+      "Regimen",
+      "Points to remember"
+     ],
+     "rows": [
+      [
+       "1. **IV artesunate** (drug of choice)",
+       "**2.4 mg/kg at 0, 12 and 24 h, then daily**",
+       "Give parenteral treatment for **at least 24 h**, then switch to oral treatment once tolerated and complete a **full ACT course**. **Late haemolysis** is a recognised side-effect."
+      ],
+      [
+       "2. **IV quinine** (if artesunate is unavailable)",
+       "**Loading dose 20 mg/kg over 4 h** (maximum 1.4 g), then 10 mg/kg as 4-hour infusions **8-hourly**",
+       "Always give with **doxycycline or clindamycin**. **Omit the loading dose** if quinine, quinidine or mefloquine was given in the previous 24 h. Monitor the **ECG for QRS and QT**."
+      ],
+      [
+       "3–5. If no IV route",
+       "IM artesunate, then IM artemether, then **rectal artesunate 10 mg/kg** followed by transfer",
+       "Bridging options in remote settings"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 299,
+       "page": 277
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 589,
+       "page": 567
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 65,
+       "page": 28
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Supportive management of complications (Davidson Box 11.54)",
+     "columns": [
+      "Problem",
+      "Action"
+     ],
+     "rows": [
+      [
+       "Coma (cerebral malaria)",
+       "Protect the airway, nurse on the side, exclude **hypoglycaemia** and **bacterial meningitis**, and intubate if needed. **Avoid glucocorticoids, heparin and adrenaline.**"
+      ],
+      [
+       "Convulsions",
+       "Treat promptly with **diazepam** or paraldehyde"
+      ],
+      [
+       "Hypoglycaemia",
+       "**50% dextrose**, then a **10% dextrose** infusion. Glucagon may not work."
+      ],
+      [
+       "Severe anaemia (PCV below 15%)",
+       "Transfuse **screened** blood"
+      ],
+      [
+       "Pulmonary oedema",
+       "Sit the patient up at **45°**, give oxygen, venesect 250 mL, give a diuretic and **stop IV fluids**"
+      ],
+      [
+       "Acute kidney injury",
+       "Exclude pre-renal causes, give fluid if appropriate, and use dialysis or haemofiltration"
+      ],
+      [
+       "Shock (“algid malaria”)",
+       "Suspect **Gram-negative sepsis**: take blood cultures and give **parenteral antibiotics**"
+      ],
+      [
+       "Hyperparasitaemia",
+       "Consider **exchange transfusion** for parasitaemia **above 10%** in a non-immune patient with severe disease (not tested in RCTs)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 298,
+       "page": 276
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 299,
+       "page": 277
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Blackwater fever** is massive **intravascular haemolysis** of both parasitised and unparasitised red cells. Haemoglobin in the urine turns it **very dark**. A classic exam case is a traveller from Africa with fever, rigors and dark urine after **irregular antimalarial treatment**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 587,
+       "page": 565
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 297,
+       "page": 275
+      },
+      {
+       "book": "allam25",
+       "chapter": "Infection and blood",
+       "pdfPage": 44,
+       "page": 43
+      },
+      {
+       "book": "allam25",
+       "chapter": "Infection and blood",
+       "pdfPage": 42,
+       "page": 41
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Fluid balance is a balancing act.** Both **pulmonary oedema** and **pre-renal failure** are common in severe malaria, and **secondary bacterial infection** is common too. Monitor glucose, renal function, clotting and breathing closely.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 588,
+       "page": 566
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 65,
+       "page": 28
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The cut-off for severe malaria differs between sources. **Davidson: above 2%** in a non-immune patient. Kumar: above 1%. K&C Essentials lists above 10% as a severe feature but gives **parenteral treatment from above 2%**. The US Washington Manual uses above 5% and starts with IV quinidine. **Follow Davidson (above 2%) and IV artesunate.**",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 299,
+       "page": 277
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 587,
+       "page": 565
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 64,
+       "page": 27
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 65,
+       "page": 28
+      },
+      {
+       "book": "washington36",
+       "chapter": "Malaria",
+       "pdfPage": 1487,
+       "page": 1487
+      },
+      {
+       "book": "washington36",
+       "chapter": "Malaria",
+       "pdfPage": 1489,
+       "page": 1489
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Do not give corticosteroids, heparin or adrenaline** in cerebral malaria. Davidson lists them as harmful add-on treatments. **Avoid mefloquine** after severe malaria because it raises the risk of the **post-malaria neurological syndrome**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 298,
+       "page": 276
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Infectious disease",
+      "pdfPage": 587,
+      "page": 565,
+      "figure": "Fig. 20.30"
+     },
+     "note": "Look at: the features of severe falciparum malaria by system: shock, hypoglycaemia, acidosis, cerebral malaria, severe anaemia, DIC, jaundice, blackwater fever, renal failure and ARDS."
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.s6",
+   "title": "Prevention and chemoprophylaxis",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Prevention: the “ABC” approach",
+     "items": [
+      "**A**wareness of the risk at the destination",
+      "**B**ite avoidance: high-percentage **DEET** repellent, covering the arms and legs after dark, and sleeping under **permethrin-impregnated nets** (or wearing treated clothing)",
+      "**C**hemoprophylaxis matched to the area and taken reliably, with medical advice sought promptly for any fever"
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 66,
+       "page": 29
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 299,
+       "page": 277
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Infectious disease",
+       "pdfPage": 174,
+       "page": 174
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Adult chemoprophylaxis (Davidson Box 11.56)",
+     "columns": [
+      "Drug",
+      "Dose",
+      "Timing",
+      "Cautions"
+     ],
+     "rows": [
+      [
+       "**Mefloquine**",
+       "250 mg **weekly**",
+       "**2–3 weeks before** travel until **4 weeks after**. The early start allows side-effects to show.",
+       "Contraindicated in the **first trimester**, lactation, **cardiac conduction disorders**, **epilepsy** and **psychiatric disorders**. Causes neuropsychiatric effects such as bad dreams."
+      ],
+      [
+       "**Doxycycline**",
+       "100 mg **daily**",
+       "**1 week before** until **4 weeks after**",
+       "**Photosensitivity** and sunburn, plus diarrhoea and thrush. **Avoid in pregnancy.**"
+      ],
+      [
+       "**Atovaquone–proguanil** (Malarone)",
+       "1 tablet **daily**",
+       "**1–2 days before** until **1 week after**",
+       "Best side-effect profile but the most expensive. **Avoid in pregnancy.**"
+      ],
+      [
+       "Chloroquine + proguanil (only where there is no chloroquine resistance)",
+       "300 mg base weekly + 100–200 mg daily",
+       "1 week before until 4 weeks after",
+       "**Safe in pregnancy and lactation.** Anyone taking chloroquine for **more than 5 years** needs eye checks for retinopathy."
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 300,
+       "page": 278
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 299,
+       "page": 277
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Infectious disease",
+       "pdfPage": 174,
+       "page": 174
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Infectious disease",
+       "pdfPage": 175,
+       "page": 175
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Sulfadoxine–pyrimethamine (Fansidar) must never be used for prophylaxis.** It has caused deaths from **agranulocytosis** and **Stevens–Johnson syndrome**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 299,
+       "page": 277
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**No prophylaxis is 100% effective.** Antimalarials prevent about 90% of infections. Even with appropriate prophylaxis taken fully, malaria **stays on the differential** for any febrile returning traveller.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Infectious diseases",
+       "pdfPage": 61,
+       "page": 24
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 589,
+       "page": 567
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Infectious disease",
+       "pdfPage": 174,
+       "page": 174
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The sources give different timings. Zero to Finals starts doxycycline **2 days** before travel. First Aid starts atovaquone–proguanil and mefloquine **at least 2 weeks** before. Follow **Davidson**: doxycycline from 1 week before, Malarone from 1–2 days before, and mefloquine from 2–3 weeks before.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 300,
+       "page": 278
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Infectious disease",
+       "pdfPage": 175,
+       "page": 175
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Infectious disease",
+       "pdfPage": 1015,
+       "page": 1015
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Vaccine: **RTS,S/AS01**, the first malaria vaccine to complete large phase 3 trials, prevented about **39%** of expected cases. In endemic areas, control relies on **insecticide-treated nets**, indoor residual spraying and **intermittent preventive therapy** for high-risk groups.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 589,
+       "page": 567
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 299,
+       "page": 277
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "id-malaria.c1",
+   "sectionId": "id-malaria.s1",
+   "front": "Which Plasmodium species form **hypnozoites**?",
+   "back": "**P. vivax** and **P. ovale** only. These dormant liver forms cause relapse and need **primaquine** for radical cure.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 296,
+     "page": 274
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 299,
+     "page": 277
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.c2",
+   "sectionId": "id-malaria.s1",
+   "front": "Red-cell cycle of **P. falciparum** (Davidson)?",
+   "back": "**Under 48 h and asynchronous**, so the fever has **no regular pattern**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 296,
+     "page": 274
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.c3",
+   "sectionId": "id-malaria.s1",
+   "front": "Mechanism of organ damage in falciparum?",
+   "back": "Infected red cells express **knob proteins**, **stick to the endothelium of post-capillary venules** and form rosettes. The congested vessels lead to organ damage.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 297,
+     "page": 275
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.c4",
+   "sectionId": "id-malaria.s1",
+   "front": "Red-cell trait that makes people **resistant to P. vivax**?",
+   "back": "Lack of the **Duffy blood group antigen** (common in West Africa)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 297,
+     "page": 275
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 586,
+     "page": 564
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.c5",
+   "sectionId": "id-malaria.s2",
+   "front": "Fever periodicity: vivax/ovale vs malariae?",
+   "back": "Vivax/ovale: **alternate days** (48 h). Malariae: **every third day** (72 h).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 296,
+     "page": 274
+    },
+    {
+     "book": "washington36",
+     "chapter": "Malaria",
+     "pdfPage": 1487,
+     "page": 1487
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.c6",
+   "sectionId": "id-malaria.s2",
+   "front": "Renal complication of chronic **P. malariae** in children?",
+   "back": "**Glomerulonephritis** with **nephrotic syndrome**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 298,
+     "page": 276
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 587,
+     "page": 565
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.c7",
+   "sectionId": "id-malaria.s2",
+   "front": "Latest usual presentation after exposure: falciparum vs vivax?",
+   "back": "Falciparum: rarely **more than 3 months**. Vivax: first attack **up to 1 year** after leaving.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 587,
+     "page": 565
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.c8",
+   "sectionId": "id-malaria.s3",
+   "front": "Thick film vs thin film?",
+   "back": "Thick film: **detects** parasites, even at low levels. Thin film: **confirms the species** and measures **% parasitaemia**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 298,
+     "page": 276
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Infectious diseases",
+     "pdfPage": 64,
+     "page": 27
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.c9",
+   "sectionId": "id-malaria.s3",
+   "front": "How many films before malaria is called unlikely?",
+   "back": "**At least three**",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 587,
+     "page": 565
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Infectious diseases",
+     "pdfPage": 61,
+     "page": 24
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.c10",
+   "sectionId": "id-malaria.s4",
+   "front": "Co-artemether regimen for uncomplicated falciparum?",
+   "back": "**4 tablets at 0, 8, 24, 36, 48 and 60 h**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 299,
+     "page": 277
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.c11",
+   "sectionId": "id-malaria.s4",
+   "front": "Primaquine for radical cure (Davidson)?",
+   "back": "**30 mg daily (vivax)** or **15 mg daily (ovale)** for **14 days**, after confirming **normal G6PD**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 299,
+     "page": 277
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.c12",
+   "sectionId": "id-malaria.s5",
+   "front": "Davidson’s definition of **severe malaria**?",
+   "back": "A non-immune patient with **parasitaemia above 2%** or **any complication**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 299,
+     "page": 277
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.c13",
+   "sectionId": "id-malaria.s5",
+   "front": "Drug of choice for severe malaria?",
+   "back": "**IV artesunate 2.4 mg/kg at 0, 12 and 24 h**, then daily, followed by a full oral ACT course",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 299,
+     "page": 277
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Infectious diseases",
+     "pdfPage": 65,
+     "page": 28
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.c14",
+   "sectionId": "id-malaria.s5",
+   "front": "What is **blackwater fever**?",
+   "back": "Massive **intravascular haemolysis** causing **haemoglobinuria** (very dark urine)",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 587,
+     "page": 565
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 297,
+     "page": 275
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.c15",
+   "sectionId": "id-malaria.s5",
+   "front": "Treatment of hypoglycaemia in severe malaria?",
+   "back": "**50% dextrose**, then a **10% dextrose infusion**. Glucagon may fail, and **quinine** can cause the hypoglycaemia.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 298,
+     "page": 276
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 588,
+     "page": 566
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.c16",
+   "sectionId": "id-malaria.s6",
+   "front": "Contraindications to **mefloquine**?",
+   "back": "First trimester, lactation, **cardiac conduction disorders**, **epilepsy** and **psychiatric illness**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 300,
+     "page": 278
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.c17",
+   "sectionId": "id-malaria.s6",
+   "front": "Doxycycline prophylaxis timing (Davidson)?",
+   "back": "100 mg daily from **1 week before** travel until **4 weeks after**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 300,
+     "page": 278
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "id-malaria.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 32-year-old man was treated with chloroquine alone for P. vivax malaria after a trip to India 8 months ago, and his symptoms settled fully. He has not travelled since. He now has fever every other day, and the blood film again shows P. vivax.",
+   "leadIn": "What best explains this new episode?",
+   "options": [
+    "Reactivation of dormant liver hypnozoites",
+    "Persisting gametocytes in the blood",
+    "Reinfection from a local mosquito",
+    "Sequestration of parasitised red cells in the spleen",
+    "Antibody-mediated haemolysis of uninfected red cells"
+   ],
+   "answer": 0,
+   "explanation": "Vivax and ovale leave **hypnozoites** in the liver. Chloroquine kills only the blood stages, so without **primaquine** the hypnozoites can wake up months later and cause a **relapse**.",
+   "whyNot": [
+    "",
+    "Gametocytes are harmless to the patient and do not restart the asexual cycle that causes fever.",
+    "He has not travelled, and local transmission is not the explanation. Relapse after blood-stage-only treatment is typical of vivax.",
+    "Sequestration is a falciparum mechanism of organ damage, not a cause of late relapse.",
+    "Haemolysis of uninfected cells contributes to anaemia but does not produce parasites on a new film."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 296,
+     "page": 274
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 299,
+     "page": 277
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 586,
+     "page": 564
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 26-year-old nurse whose family comes from West Africa asks why P. vivax infection is rare in her community, although P. falciparum is common there.",
+   "leadIn": "Which red-cell characteristic is responsible?",
+   "options": [
+    "Absence of the Duffy blood group antigen",
+    "Sickle-cell trait (HbAS)",
+    "G6PD deficiency",
+    "Beta-thalassaemia trait",
+    "HLA-B53"
+   ],
+   "answer": 0,
+   "explanation": "P. vivax needs the **Duffy antigen** to enter red cells. Many West Africans lack it, so they are **protected from vivax**.",
+   "whyNot": [
+    "",
+    "Sickle-cell trait protects against the **lethal complications of falciparum**. It does not block entry of vivax.",
+    "G6PD deficiency is a protective trait selected by **falciparum**, not a barrier to vivax.",
+    "Thalassaemia is another falciparum-selected trait and does not prevent vivax entry.",
+    "HLA-B53 is linked with protection from falciparum, not vivax."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 297,
+     "page": 275
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 586,
+     "page": 564
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 45-year-old engineer returned from Kenya 12 days ago. For 3 days he has had malaise, headache, vomiting, a dry cough and loose stools, with an irregular fever. He is mildly jaundiced, and his liver and spleen are enlarged and tender. His platelet count is low.",
+   "leadIn": "Which species is most likely?",
+   "options": [
+    "P. falciparum",
+    "P. vivax",
+    "P. ovale",
+    "P. malariae",
+    "P. knowlesi"
+   ],
+   "answer": 0,
+   "explanation": "An **insidious** illness after travel to **Africa**, with GI and respiratory symptoms, a fever with **no set pattern**, **jaundice**, tender hepatosplenomegaly and **thrombocytopenia**, is the textbook picture of **falciparum**.",
+   "whyNot": [
+    "",
+    "Vivax usually settles into a regular alternate-day paroxysm, and anaemia develops slowly.",
+    "Ovale also tends to give an alternate-day fever pattern and is usually mild.",
+    "Malariae is mild with fever every third day. Rapid jaundice and thrombocytopenia are not typical.",
+    "Knowlesi is acquired in South-east Asia from macaques, not in Kenya."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 297,
+     "page": 275
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 295,
+     "page": 273
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 587,
+     "page": 565
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "An 8-year-old boy living in a malaria-endemic village has had low-grade parasitaemia for years and occasional fevers every third day. He now has generalised oedema and heavy proteinuria.",
+   "leadIn": "Which species is most likely responsible?",
+   "options": [
+    "P. malariae",
+    "P. falciparum",
+    "P. vivax",
+    "P. ovale",
+    "P. knowlesi"
+   ],
+   "answer": 0,
+   "explanation": "Fever **every third day** (a 72-hour cycle), parasitaemia lasting **years**, and **nephrotic syndrome** in a child point to chronic **P. malariae**, which can cause glomerulonephritis in children.",
+   "whyNot": [
+    "",
+    "Falciparum can cause acute kidney injury in severe disease, but not a years-long mild illness with nephrotic syndrome.",
+    "Vivax causes an alternate-day fever and relapses, not chronic nephrotic syndrome.",
+    "Ovale also has a 48-hour cycle and is not linked with nephrotic syndrome.",
+    "Knowlesi is a South-east Asian macaque parasite and is not associated with nephrotic syndrome."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 298,
+     "page": 276
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 587,
+     "page": 565
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 296,
+     "page": 274
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A febrile woman back from Ghana has a positive thick blood film for malaria parasites.",
+   "leadIn": "Which test will identify the species and the percentage of red cells parasitised?",
+   "options": [
+    "Giemsa-stained thin blood film",
+    "Repeat thick film in 12 hours",
+    "HRP-2 rapid antigen test",
+    "Malaria serology",
+    "Blood culture"
+   ],
+   "answer": 0,
+   "explanation": "The **thick film** is best for **detecting** parasites. The **thin film** confirms the **species** and allows the **% parasitaemia** to be counted, which falciparum management depends on.",
+   "whyNot": [
+    "",
+    "A repeat thick film adds sensitivity but still does not reliably give the species or a % count.",
+    "An HRP-2 test shows falciparum antigen but cannot give the percentage of infected cells.",
+    "Serology has no diagnostic value in acute malaria.",
+    "Blood culture looks for bacteria, not malaria parasites."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 298,
+     "page": 276
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Infectious diseases",
+     "pdfPage": 64,
+     "page": 27
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 30-year-old man has a fever 2 weeks after returning from Nigeria. His first malaria film, taken 4 hours ago, is negative. He remains febrile but is otherwise stable.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Repeat the blood films, aiming for at least three in total",
+    "Exclude malaria and discharge with antipyretics",
+    "Send malaria serology",
+    "Start empirical chloroquine",
+    "Arrange a bone marrow aspirate"
+   ],
+   "answer": 0,
+   "explanation": "One negative film does **not** exclude malaria. Examine **at least three films** (for example, repeated at 12–24 h) before calling malaria unlikely in a febrile traveller.",
+   "whyNot": [
+    "",
+    "Falciparum can kill quickly. Discharging after a single negative film is the classic dangerous error.",
+    "Serology has no diagnostic value for acute malaria.",
+    "Chloroquine is ineffective against falciparum from Africa, and treatment should follow a confirmed diagnosis.",
+    "Marrow sampling is not part of the malaria work-up. Repeat films are the next step."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 587,
+     "page": 565
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Infectious diseases",
+     "pdfPage": 64,
+     "page": 27
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Infectious diseases",
+     "pdfPage": 61,
+     "page": 24
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 28-year-old woman back from Uganda has P. falciparum malaria with 0.5% parasitaemia. She is alert, eating and drinking, has normal renal function and is not pregnant.",
+   "leadIn": "Which treatment is preferred?",
+   "options": [
+    "Artemether–lumefantrine",
+    "Chloroquine",
+    "Sulfadoxine–pyrimethamine",
+    "Primaquine",
+    "Oral artesunate alone"
+   ],
+   "answer": 0,
+   "explanation": "Uncomplicated falciparum is treated with an **ACT**. Davidson’s preferred option is **co-artemether (artemether–lumefantrine)**, 4 tablets at 0, 8, 24, 36, 48 and 60 h.",
+   "whyNot": [
+    "",
+    "Falciparum is resistant to chloroquine almost worldwide.",
+    "Falciparum is also widely resistant to sulfadoxine–pyrimethamine.",
+    "Primaquine targets hypnozoites (vivax and ovale) or acts as a single-dose gametocide. It does not treat the blood stage.",
+    "Artemisinins must **never** be given as monotherapy, because that breeds resistance."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 299,
+     "page": 277
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 588,
+     "page": 566
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 35-year-old man is being treated with chloroquine for P. vivax malaria. The team plans to add primaquine.",
+   "leadIn": "Which test must be checked first?",
+   "options": [
+    "G6PD activity",
+    "QT interval on ECG",
+    "Retinal examination",
+    "Thyroid function",
+    "Serum lithium level"
+   ],
+   "answer": 0,
+   "explanation": "Primaquine can cause **haemolysis in G6PD deficiency**, so confirm normal G6PD before radical cure. In mild–moderate deficiency a weekly regimen (0.75 mg/kg for 8 weeks) is used.",
+   "whyNot": [
+    "",
+    "QT monitoring matters with IV quinine, not primaquine.",
+    "Retinal checks matter for long-term chloroquine (more than 5 years), not for a primaquine course.",
+    "Thyroid function has no bearing on primaquine safety.",
+    "Lithium levels are irrelevant here."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 299,
+     "page": 277
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Infectious diseases",
+     "pdfPage": 66,
+     "page": 29
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 34-year-old woman returned from Ghana 10 days ago. She is drowsy with a GCS of 10. Her blood glucose is normal, and her thin film shows P. falciparum with 6% parasitaemia.",
+   "leadIn": "Which antimalarial treatment is most appropriate?",
+   "options": [
+    "IV artesunate",
+    "Oral artemether–lumefantrine",
+    "IV chloroquine",
+    "Oral mefloquine",
+    "Oral atovaquone–proguanil"
+   ],
+   "answer": 0,
+   "explanation": "Impaired consciousness and parasitaemia above 2% make this **severe falciparum malaria**. The drug of choice is **IV artesunate** 2.4 mg/kg at 0, 12 and 24 h, then daily, followed by an oral ACT once she can take it.",
+   "whyNot": [
+    "",
+    "Oral treatment is for uncomplicated malaria. A drowsy patient needs parenteral therapy.",
+    "Falciparum is chloroquine-resistant almost everywhere.",
+    "Mefloquine should be avoided in severe malaria because of the post-malaria neurological syndrome.",
+    "An oral drug is unsuitable for severe disease with impaired consciousness."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 299,
+     "page": 277
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 298,
+     "page": 276
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Infectious diseases",
+     "pdfPage": 65,
+     "page": 28
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 40-year-old man is receiving IV quinine for severe falciparum malaria. Six hours into treatment he becomes sweaty and confused and then has a generalised seizure.",
+   "leadIn": "What is the most likely cause of this deterioration?",
+   "options": [
+    "Hypoglycaemia",
+    "Hyponatraemia",
+    "Bacterial meningitis",
+    "Intracranial haemorrhage",
+    "Hypocalcaemia"
+   ],
+   "answer": 0,
+   "explanation": "Hypoglycaemia in severe malaria is caused both by the **infection** and by **quinine**. Sweating, confusion and a seizure call for an immediate glucose check, then **50% dextrose followed by a 10% infusion**.",
+   "whyNot": [
+    "",
+    "Possible in any ill patient, but nothing points to it, and quinine-related hypoglycaemia is the classic trap.",
+    "Always worth excluding in coma, but the sudden sweating on quinine favours hypoglycaemia.",
+    "Bleeding can occur with DIC, but the sweating and the timing on quinine point to low glucose.",
+    "Not a recognised malaria or quinine complication in these sources."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 588,
+     "page": 566
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 298,
+     "page": 276
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 29-year-old woman with bipolar disorder is travelling to East Africa, where chloroquine resistance is high.",
+   "leadIn": "Which prophylactic drug is contraindicated for her?",
+   "options": [
+    "Mefloquine",
+    "Doxycycline",
+    "Atovaquone–proguanil",
+    "Proguanil",
+    "Chloroquine"
+   ],
+   "answer": 0,
+   "explanation": "**Mefloquine** is contraindicated in **psychiatric disorders**, epilepsy, cardiac conduction disorders, the first trimester and lactation, because it can cause neuropsychiatric effects.",
+   "whyNot": [
+    "",
+    "A suitable option in high-resistance areas. Its main problems are photosensitivity and GI upset.",
+    "A suitable option in high-resistance areas, with the best side-effect profile.",
+    "Not contraindicated by psychiatric illness, although it is used with chloroquine only where there is no resistance.",
+    "Its main long-term caution is retinopathy. Psychiatric illness is not a listed contraindication, but it is ineffective where resistance is high."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 300,
+     "page": 278
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Infectious disease",
+     "pdfPage": 1016,
+     "page": 1016
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 299,
+     "page": 277
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 24-year-old student will take doxycycline 100 mg daily as malaria prophylaxis for a 3-week trip to Tanzania.",
+   "leadIn": "According to Davidson, when should she take it?",
+   "options": [
+    "From 1 week before travel until 4 weeks after return",
+    "From 2–3 weeks before travel until 4 weeks after return",
+    "From 1–2 days before travel until 1 week after return",
+    "From arrival until 1 week after return",
+    "From 1 week before travel until the day of return"
+   ],
+   "answer": 0,
+   "explanation": "Davidson’s regimen is doxycycline **100 mg daily, from 1 week before until 4 weeks after** travel.",
+   "whyNot": [
+    "",
+    "This is the **mefloquine** timing. The early start allows side-effects to show before travel.",
+    "This is the **atovaquone–proguanil** timing.",
+    "Davidson starts doxycycline **1 week before** travel and continues it for **4 weeks after** return.",
+    "Davidson continues doxycycline for **4 weeks after** return, not just to the day of return."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 300,
+     "page": 278
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 27-year-old man back from Pakistan had several days of continuous fever. Now, every other day, he has a shaking chill with a temperature of 40 °C, then several hours of flushing, then heavy sweating. Between attacks he feels fairly well.",
+   "leadIn": "Which feature of the parasite explains this regular alternate-day pattern?",
+   "options": [
+    "A synchronous 48-hour red-cell cycle",
+    "An asynchronous red-cell cycle of under 48 hours",
+    "A synchronous 72-hour red-cell cycle",
+    "Reactivation of hypnozoites every 48 hours",
+    "Sequestration of infected cells in post-capillary venules"
+   ],
+   "answer": 0,
+   "explanation": "A regular **alternate-day** paroxysm (cold stage, hot stage, sweating) means the parasites mature and rupture **together every 48 h**. This is the **synchronous 48-hour cycle** of vivax or ovale.",
+   "whyNot": [
+    "",
+    "This is falciparum’s cycle, which gives fever with **no set pattern**.",
+    "A 72-hour cycle (malariae) gives fever every **third** day.",
+    "Hypnozoites cause relapse after months or years. They do not set a 48-hour rhythm.",
+    "Sequestration is how falciparum damages organs. It does not set fever periodicity."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 296,
+     "page": 274
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 298,
+     "page": 276
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 38-year-old woman completed treatment for falciparum malaria 4 weeks ago and feels well. She has not travelled since. A routine HRP-2 rapid test is positive, but repeated thick and thin films are negative.",
+   "leadIn": "What is the most likely explanation?",
+   "options": [
+    "Parasite antigen persisting after successful treatment",
+    "Recrudescence of falciparum",
+    "Reinfection with a new parasite",
+    "Relapse from liver hypnozoites",
+    "Emerging artemisinin resistance"
+   ],
+   "answer": 0,
+   "explanation": "RDT positivity can **persist for a month or more** after cure. RDTs should therefore be read **alongside films**. Negative films in a well patient point to residual antigen.",
+   "whyNot": [
+    "",
+    "Recrudescence would produce symptoms and parasites on the film.",
+    "Reinfection would also show parasites on the film, and she has not been re-exposed.",
+    "Falciparum has **no hypnozoites**, so it cannot relapse.",
+    "Treatment failure from resistance would leave detectable asexual parasites."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 298,
+     "page": 276
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 296,
+     "page": 274
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 50-year-old man with severe falciparum malaria on IV artesunate becomes cold and clammy, with a blood pressure of 78/40 mmHg.",
+   "leadIn": "Besides resuscitation, which additional step is most important?",
+   "options": [
+    "Take blood cultures and start parenteral antibiotics",
+    "Give IV hydrocortisone",
+    "Start an IV heparin infusion",
+    "Switch to oral artemether–lumefantrine",
+    "Arrange exchange transfusion"
+   ],
+   "answer": 0,
+   "explanation": "Shock in malaria (**“algid malaria”**) should raise suspicion of **Gram-negative sepsis**. Take **blood cultures** and give **parenteral antibiotics** while correcting the circulation.",
+   "whyNot": [
+    "",
+    "Glucocorticoids are listed among the **harmful** add-on treatments in severe malaria.",
+    "Heparin is also listed as harmful in severe malaria.",
+    "A shocked patient needs parenteral therapy, not a switch to oral drugs.",
+    "Exchange transfusion is considered for parasitaemia above 10%. It does not treat superadded sepsis."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 298,
+     "page": 276
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Infectious diseases",
+     "pdfPage": 65,
+     "page": 28
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Infectious disease",
+     "pdfPage": 1016,
+     "page": 1016
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 22-year-old woman with cerebral malaria is comatose. IV artesunate has been started, her glucose is normal and a lumbar puncture is clear.",
+   "leadIn": "Which treatment should be avoided?",
+   "options": [
+    "IV dexamethasone",
+    "IV diazepam if she has a seizure",
+    "Nursing on her side with airway protection",
+    "Regular capillary glucose checks",
+    "Intubation if her airway is at risk"
+   ],
+   "answer": 0,
+   "explanation": "In cerebral malaria **glucocorticoids, heparin and adrenaline are harmful** and should be avoided. The other measures are standard supportive care.",
+   "whyNot": [
+    "",
+    "Seizures should be treated promptly with diazepam (or paraldehyde).",
+    "Airway protection and nursing on the side are core coma care.",
+    "Hypoglycaemia is common, from both the infection and quinine, so glucose must be monitored.",
+    "Intubation is recommended when needed to protect the airway."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 298,
+     "page": 276
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 588,
+     "page": 566
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "A 31-year-old woman who is 10 weeks pregnant has uncomplicated P. falciparum malaria after a visit to Malawi.",
+   "leadIn": "Following Davidson, which regimen is most appropriate?",
+   "options": [
+    "Quinine plus clindamycin",
+    "Quinine plus doxycycline",
+    "Artemether–lumefantrine",
+    "Atovaquone–proguanil",
+    "Chloroquine plus primaquine"
+   ],
+   "answer": 0,
+   "explanation": "Davidson advises **avoiding co-artemether in early pregnancy** and using **quinine plus clindamycin** (450 mg three times daily for 7 days). Clindamycin replaces doxycycline in pregnancy.",
+   "whyNot": [
+    "",
+    "Kumar’s table lists this for the first trimester, but doxycycline is avoided in pregnancy. Follow Davidson and use clindamycin.",
+    "Davidson says to avoid co-artemether in **early** pregnancy. It is used later in pregnancy.",
+    "Atovaquone–proguanil is avoided in pregnancy.",
+    "Falciparum is resistant to chloroquine almost worldwide, and primaquine targets vivax and ovale hypnozoites, not the falciparum blood stage."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 299,
+     "page": 277
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 588,
+     "page": 566
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Infectious disease",
+     "pdfPage": 1016,
+     "page": 1016
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q18",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 60-year-old woman who lives next to a major European airport and has never travelled abroad develops fever. A film shows P. falciparum ring forms.",
+   "leadIn": "What is the most likely route of infection?",
+   "options": [
+    "An infected mosquito carried in on an aircraft",
+    "Reactivation of hypnozoites from an infection years ago",
+    "Ingestion of contaminated food",
+    "Person-to-person respiratory spread",
+    "Contact with a pet dog"
+   ],
+   "answer": 0,
+   "explanation": "Rare cases near airports come from **infected mosquitoes imported on aircraft** (**“airport malaria”**). Other non-mosquito routes include transfusion, shared needles and contaminated equipment.",
+   "whyNot": [
+    "",
+    "Falciparum has **no hypnozoites**, and she has never been exposed.",
+    "Malaria is not spread through food.",
+    "Malaria is not spread by the respiratory route.",
+    "Dogs are not a source of human falciparum."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 295,
+     "page": 273
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 586,
+     "page": 564
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Infectious diseases",
+     "pdfPage": 63,
+     "page": 26
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q19",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 35-year-old farmer who has lived all his life in a hyperendemic malaria area has a massive spleen, anaemia and markedly raised IgM. Repeated blood films show scanty parasites.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Hyper-reactive malarial splenomegaly",
+    "Chronic myeloid leukaemia",
+    "Cirrhosis with portal hypertension",
+    "Hereditary spherocytosis",
+    "Cerebral malaria"
+   ],
+   "answer": 0,
+   "explanation": "An exaggerated immune response to repeated malaria produces **massive splenomegaly, anaemia and raised IgM** with **few or no parasites**. It usually responds to **prolonged antimalarial prophylaxis**.",
+   "whyNot": [
+    "",
+    "Massive splenomegaly can occur, but nothing here points to it, and raised IgM with heavy malaria exposure is the classic pattern of HMS.",
+    "Nothing suggests liver disease, and raised IgM is not expected.",
+    "An inherited haemolytic anaemia with no link to malaria exposure. It does not explain the raised IgM.",
+    "Cerebral malaria is an acute falciparum emergency with impaired consciousness, not chronic splenomegaly."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 587,
+     "page": 565
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Infectious diseases",
+     "pdfPage": 63,
+     "page": 26
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q20",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 42-year-old man with falciparum malaria has a parasitaemia of only 0.5%, but he is becoming drowsy. The registrar says the low count is reassuring.",
+   "leadIn": "Why can the peripheral count underestimate severity in falciparum?",
+   "options": [
+    "Parasitised cells are sequestered in the microcirculation",
+    "Thin films are less sensitive than thick films",
+    "Gametocytes are not included in the count",
+    "Most parasites are dormant in the liver",
+    "Rapid tests cross-react with other species"
+   ],
+   "answer": 0,
+   "explanation": "Falciparum-infected cells **stick in small vessels**, so many parasites never reach the peripheral film. A **low count does not exclude severe disease**, and his drowsiness matters more.",
+   "whyNot": [
+    "",
+    "True but irrelevant. The thin film is what measures the percentage.",
+    "Gametocytes are a minor, harmless stage and do not explain the gap.",
+    "Falciparum has no dormant liver stage.",
+    "Rapid tests do not determine the parasite percentage."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 587,
+     "page": 565
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 297,
+     "page": 275
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q21",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 36-year-old woman flew home from Nigeria 11 days ago. She has fever and has become confused. Her thin film shows P. falciparum rings with 4% parasitaemia, her capillary glucose is 2.1 mmol/L and her creatinine is raised.",
+   "leadIn": "What is the most appropriate immediate management?",
+   "options": [
+    "IV artesunate and IV dextrose, with HDU-level monitoring",
+    "Oral artemether–lumefantrine on a general ward",
+    "IV artesunate plus IV dexamethasone",
+    "Exchange transfusion as the sole treatment",
+    "Oral quinine plus doxycycline"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1 – Is this severe?** Davidson defines severe malaria as parasitaemia **above 2%** or **any complication** in a non-immune patient. She has 4%, plus confusion, hypoglycaemia and renal impairment, so the answer is yes. **Step 2 – Antimalarial.** Severe malaria needs a parenteral drug, and **IV artesunate** (2.4 mg/kg at 0, 12 and 24 h, then daily) is first choice. **Step 3 – Complications.** Correct the hypoglycaemia now with **50% dextrose, then a 10% infusion**, and watch fluid balance and renal function closely in HDU or ICU. **Step 4 – Avoid harm.** Steroids are on Davidson’s list of harmful add-ons.",
+   "whyNot": [
+    "",
+    "Oral treatment on a ward is for uncomplicated disease. She has several severe features.",
+    "Glucocorticoids are harmful in severe malaria.",
+    "Exchange transfusion is only considered for parasitaemia above 10% and never replaces antimalarial drugs.",
+    "An oral regimen is inadequate for severe disease with confusion."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 299,
+     "page": 277
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 298,
+     "page": 276
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Infectious diseases",
+     "pdfPage": 65,
+     "page": 28
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q22",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 30-year-old man has P. vivax malaria after 6 months working in India. He is clinically well, and his G6PD level is normal.",
+   "leadIn": "What is the most appropriate complete treatment plan?",
+   "options": [
+    "Chloroquine, then primaquine 30 mg daily for 14 days",
+    "Chloroquine alone",
+    "Primaquine alone for 14 days",
+    "Chloroquine, then primaquine 15 mg daily for 14 days",
+    "IV artesunate, then an oral ACT"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1 – Treat the blood stage.** Non-falciparum malaria responds to oral **chloroquine** (600 mg base, 300 mg at 6 h, then 150 mg twice daily for 2 days), or an ACT can be used. **Step 2 – Clear the liver.** Vivax leaves **hypnozoites**, so a radical cure with **primaquine** is needed. **Step 3 – Check safety and dose.** G6PD is normal, so give the vivax dose of **30 mg daily for 14 days**. The 15 mg dose is for ovale.",
+   "whyNot": [
+    "",
+    "Without primaquine the hypnozoites remain, and relapse is likely.",
+    "Primaquine is given to destroy the liver **hypnozoites**. The acute blood-stage attack still needs chloroquine or an ACT.",
+    "15 mg daily is the **ovale** dose. Vivax needs 30 mg.",
+    "IV artesunate is for severe malaria. He is well."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 299,
+     "page": 277
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Infectious diseases",
+     "pdfPage": 66,
+     "page": 29
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Infectious diseases",
+     "pdfPage": 65,
+     "page": 28
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q23",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 25-year-old non-immune backpacker returned from Uganda a week ago. He is alert, with normal renal function and glucose. His thin film shows only small ring forms, with 3% of red cells parasitised.",
+   "leadIn": "Which combination of species and management is most appropriate?",
+   "options": [
+    "P. falciparum; treat as severe malaria with IV artesunate",
+    "P. falciparum; oral artemether–lumefantrine as an outpatient",
+    "P. vivax; chloroquine plus primaquine",
+    "P. malariae; chloroquine alone",
+    "P. ovale; chloroquine plus primaquine"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1 – Species.** In early falciparum infection usually **only ring forms** are seen, and a % count is reported for falciparum. Add Africa as the source and this is falciparum. **Step 2 – Severity.** Davidson treats a non-immune patient with **parasitaemia above 2%** as **severe**, even when he looks well. K&C Essentials likewise gives **parenteral therapy above 2%**. **Step 3 – Drug.** Give **IV artesunate**, then a full ACT once he can take tablets. Every falciparum patient is admitted.",
+   "whyNot": [
+    "",
+    "Above 2% parasitaemia calls for parenteral treatment, and no falciparum patient should be managed as an outpatient at first.",
+    "Vivax films show all erythrocytic stages, not rings only.",
+    "Malariae also shows all stages and gives a mild illness with low parasitaemia.",
+    "Ovale shows all stages on the film, and the % count is the falciparum yardstick."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 298,
+     "page": 276
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 299,
+     "page": 277
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Infectious diseases",
+     "pdfPage": 65,
+     "page": 28
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 297,
+     "page": 275
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q24",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Blood-borne protozoa causing fever",
+   "leadIn": "Match each case below to the single most likely organism in the list. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Plasmodium falciparum",
+    "Plasmodium vivax",
+    "Plasmodium ovale",
+    "Plasmodium malariae",
+    "Plasmodium knowlesi",
+    "Babesia microti",
+    "Trypanosoma brucei gambiense",
+    "Trypanosoma brucei rhodesiense"
+   ],
+   "items": [
+    {
+     "stem": "A 44-year-old timber worker has just returned from forest areas in Malaysian Borneo, where macaque monkeys were common. A mild fever over 2 days has turned into a rapidly worsening illness, and the film shows malaria parasites.",
+     "answer": 4,
+     "explanation": "**P. knowlesi** is a **macaque** parasite that infects humans in parts of **South-east Asia**. It is usually mild but **can deteriorate rapidly**.",
+     "studyRef": {
+      "sectionId": "id-malaria.s2"
+     }
+    },
+    {
+     "stem": "A 9-year-old girl living in an endemic area has had years of low-level parasitaemia with occasional fever every 72 hours. She now has nephrotic syndrome.",
+     "answer": 3,
+     "explanation": "A **72-hour** cycle, parasitaemia lasting years and **nephrotic syndrome** in a child point to chronic **P. malariae**.",
+     "studyRef": {
+      "sectionId": "id-malaria.s2"
+     }
+    },
+    {
+     "stem": "A 33-year-old man of Gambian descent, whose red cells lack the Duffy antigen, has his second episode of alternate-day fever, 9 months after a visit to West Africa. He has not travelled since, and the film shows a non-falciparum species.",
+     "answer": 2,
+     "explanation": "Relapse months later means **hypnozoites**, so the species is **vivax or ovale**. Duffy-negative red cells **cannot be entered by vivax**, which leaves **P. ovale**.",
+     "studyRef": {
+      "sectionId": "id-malaria.s1"
+     }
+    },
+    {
+     "stem": "A 58-year-old man who had a splenectomy years ago develops fever, malaise and haemolytic anaemia 2 weeks after a tick bite while hiking in the USA. He has never been to the tropics, and the film shows intra-erythrocytic parasites.",
+     "answer": 5,
+     "explanation": "**Babesiosis** is a **tick-borne** intra-erythrocytic protozoan infection (most American cases are **B. microti**). Disease is severe in **splenectomised** patients and is diagnosed on the blood film. With no tropical travel, malaria is unlikely.",
+     "studyRef": {
+      "sectionId": "id-malaria.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 587,
+     "page": 565
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 298,
+     "page": 276
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 297,
+     "page": 275
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 300,
+     "page": 278
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q25",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 30-year-old woman who is 8 weeks pregnant must travel to a region where malaria is present but chloroquine resistance is absent.",
+   "leadIn": "Which prophylactic regimen is most suitable?",
+   "options": [
+    "Chloroquine plus proguanil",
+    "Mefloquine",
+    "Doxycycline",
+    "Atovaquone–proguanil",
+    "Sulfadoxine–pyrimethamine"
+   ],
+   "answer": 0,
+   "explanation": "Davidson states that **proguanil and chloroquine are safe in pregnancy and lactation**, and this combination is the regimen for areas **without chloroquine resistance**.",
+   "whyNot": [
+    "",
+    "Contraindicated in the **first trimester**.",
+    "Avoided in pregnancy, and it causes photosensitivity.",
+    "Avoided in pregnancy.",
+    "Never used for prophylaxis because of fatal agranulocytosis and Stevens–Johnson syndrome."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 299,
+     "page": 277
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 300,
+     "page": 278
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q26",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 45-year-old man with severe falciparum malaria has received several litres of IV fluid. He becomes breathless, with oxygen saturation of 86% and bilateral crackles.",
+   "leadIn": "What is the most appropriate immediate management?",
+   "options": [
+    "Sit him at 45°, give oxygen and a diuretic, and stop IV fluids",
+    "Give a further fluid bolus",
+    "Give IV hydrocortisone",
+    "Start IV heparin",
+    "Arrange exchange transfusion"
+   ],
+   "answer": 0,
+   "explanation": "Pulmonary oedema is common in severe malaria, so fluid balance needs constant attention. Box 11.54 advises nursing at **45°**, **oxygen**, venesection of 250 mL, a **diuretic** and **stopping IV fluids**, with ventilatory support if hypoxaemia threatens life.",
+   "whyNot": [
+    "",
+    "More fluid will worsen pulmonary oedema.",
+    "Glucocorticoids are harmful in severe malaria.",
+    "Heparin is also on the harmful list.",
+    "Exchange transfusion is considered for parasitaemia above 10%. It does not treat pulmonary oedema."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 298,
+     "page": 276
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 588,
+     "page": 566
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q27",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A non-immune 29-year-old man with severe falciparum malaria has worsening organ dysfunction despite IV artesunate. His parasitaemia is persistently high.",
+   "leadIn": "Above what parasitaemia does Davidson suggest considering exchange transfusion?",
+   "options": [
+    "10% of red cells",
+    "1% of red cells",
+    "2% of red cells",
+    "5% of red cells",
+    "25% of red cells"
+   ],
+   "answer": 0,
+   "explanation": "Exchange transfusion is unproven in RCTs but **may be considered** for non-immune patients with severe disease and parasitaemia **above 10%**.",
+   "whyNot": [
+    "",
+    "Kumar’s threshold for **severe** malaria. It is not an exchange-transfusion threshold.",
+    "Davidson’s threshold for defining **severe** malaria.",
+    "The US threshold for hyperparasitaemia in complicated malaria.",
+    "Not a threshold used in these sources."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 298,
+     "page": 276
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 299,
+     "page": 277
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 588,
+     "page": 566
+    },
+    {
+     "book": "washington36",
+     "chapter": "Malaria",
+     "pdfPage": 1487,
+     "page": 1487
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q28",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 27-year-old woman was treated successfully for falciparum malaria 10 days ago and is now well. She has not travelled since. A follow-up film shows a few gametocytes and no asexual forms.",
+   "leadIn": "What does this finding mean for her?",
+   "options": [
+    "It is expected and harmless to her",
+    "Treatment has failed and asexual parasites persist",
+    "She has been reinfected",
+    "Liver hypnozoites are reactivating",
+    "Artemisinin resistance is emerging"
+   ],
+   "answer": 0,
+   "explanation": "Gametocytes appear after about **2 weeks** and **persist after treatment**. They are **harmless** to the patient, although they can infect mosquitoes.",
+   "whyNot": [
+    "",
+    "There are no asexual forms, so the blood stage has been cleared.",
+    "Reinfection would show asexual forms, and she has not been re-exposed.",
+    "Falciparum has no hypnozoites.",
+    "Resistance shows as persisting **asexual** parasites, not gametocytes."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 298,
+     "page": 276
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 296,
+     "page": 274
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q29",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A medical student is asked why falciparum infections can reach far higher parasite loads than vivax infections.",
+   "leadIn": "Which feature of falciparum best explains this?",
+   "options": [
+    "It invades red cells of all ages",
+    "It invades only reticulocytes",
+    "It invades only normoblasts",
+    "It forms hypnozoites",
+    "It has a 72-hour cycle"
+   ],
+   "answer": 0,
+   "explanation": "Falciparum **invades red cells of any age** (especially young ones), so it has the largest pool of targets and causes the **most severe haemolysis**. Vivax and ovale are restricted to reticulocytes.",
+   "whyNot": [
+    "",
+    "This applies to vivax and ovale, which limits their parasite load.",
+    "Davidson gives this restriction for malariae.",
+    "Hypnozoites belong to vivax and ovale and do not raise blood-stage counts.",
+    "The 72-hour cycle belongs to malariae."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 296,
+     "page": 274
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 586,
+     "page": 564
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 297,
+     "page": 275
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q30",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A junior doctor is ordering tests for a febrile traveller just back from Mozambique.",
+   "leadIn": "Which test has no diagnostic value for acute malaria?",
+   "options": [
+    "Malaria serology",
+    "Giemsa thick film",
+    "Giemsa thin film",
+    "Rapid antigen test",
+    "PCR for parasite DNA"
+   ],
+   "answer": 0,
+   "explanation": "**Serological tests are of no diagnostic value** for acute malaria. Diagnosis rests on **films**, supported by **RDTs**. PCR is sensitive but mainly a research tool.",
+   "whyNot": [
+    "",
+    "The most sensitive routine test for detecting parasites.",
+    "Identifies the species and the % parasitaemia.",
+    "A useful adjunct to films, especially for falciparum.",
+    "Sensitive, and helps tell recrudescence from reinfection, although used mainly in research."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 587,
+     "page": 565
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 298,
+     "page": 276
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Infectious disease",
+     "pdfPage": 1015,
+     "page": 1015
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q31",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A patient has mixed P. falciparum and P. vivax infection and needs an artemisinin-based combination.",
+   "leadIn": "Which ACT is not suitable?",
+   "options": [
+    "Artesunate–sulfadoxine–pyrimethamine",
+    "Artemether–lumefantrine",
+    "Artesunate–amodiaquine",
+    "Dihydroartemisinin–piperaquine",
+    "Artesunate–mefloquine"
+   ],
+   "answer": 0,
+   "explanation": "Of the WHO fixed-dose ACTs, **artesunate–sulfadoxine–pyrimethamine** is **not suitable for vivax or mixed infection**.",
+   "whyNot": [
+    "",
+    "A WHO-recommended ACT that is also used for chloroquine-resistant vivax.",
+    "A WHO-recommended ACT with no such restriction.",
+    "A WHO-recommended ACT with no such restriction.",
+    "A WHO-recommended ACT with no such restriction."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 588,
+     "page": 566
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 299,
+     "page": 277
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q32",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 52-year-old woman with severe falciparum malaria is started on IV quinine because artesunate is unavailable.",
+   "leadIn": "Which cardiac monitoring is specifically recommended?",
+   "options": [
+    "ECG monitoring of QRS duration and QT interval",
+    "Daily echocardiography of ejection fraction",
+    "Daily troponin measurement",
+    "24-hour Holter monitoring after discharge",
+    "Daily BNP measurement"
+   ],
+   "answer": 0,
+   "explanation": "Quinine can cause **dysrhythmias**, so patients are monitored by **ECG, with attention to QRS duration and QT interval**. Also omit the loading dose if quinine, quinidine or mefloquine was given in the previous 24 h.",
+   "whyNot": [
+    "",
+    "Quinine’s risk is conduction and repolarisation, not pump function.",
+    "Not the recommended monitoring for quinine.",
+    "Monitoring is needed during the infusion, not after discharge.",
+    "Not relevant to quinine toxicity."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 299,
+     "page": 277
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 297,
+     "page": 275
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q33",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 3,
+   "stem": "A 27-year-old primigravida from a malaria-endemic area has falciparum infection detected at 20 weeks. Ultrasound shows intrauterine growth restriction.",
+   "leadIn": "Which parasite property best explains the placental damage?",
+   "options": [
+    "Binding of infected red cells to placental chondroitin sulphate A",
+    "Formation of hypnozoites in placental tissue",
+    "Invasion of fetal reticulocytes only",
+    "A synchronous 72-hour red-cell cycle",
+    "Release of gametocytes into the amniotic fluid"
+   ],
+   "answer": 0,
+   "explanation": "In pregnancy, immunity is impaired and falciparum **binds preferentially to chondroitin sulphate A** on the maternal side of the placenta. The result is **abortion and IUGR**.",
+   "whyNot": [
+    "",
+    "Hypnozoites are a liver stage of vivax and ovale only.",
+    "Not the mechanism of placental falciparum disease.",
+    "This is malariae’s cycle. Falciparum is under 48 h and asynchronous.",
+    "Gametocytes are harmless transmission forms."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 297,
+     "page": 275
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q34",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 1,
+   "stem": "A traveller asks why her friend was warned never to use a particular antimalarial for prevention.",
+   "leadIn": "Which drug must not be used for chemoprophylaxis because of deaths from agranulocytosis and Stevens–Johnson syndrome?",
+   "options": [
+    "Sulfadoxine–pyrimethamine",
+    "Mefloquine",
+    "Doxycycline",
+    "Atovaquone–proguanil",
+    "Chloroquine"
+   ],
+   "answer": 0,
+   "explanation": "**Fansidar (sulfadoxine–pyrimethamine)** must not be used for prophylaxis. Deaths have occurred from **agranulocytosis** and **Stevens–Johnson syndrome**.",
+   "whyNot": [
+    "",
+    "Its problems are neuropsychiatric, and it remains a prophylactic option.",
+    "An accepted prophylactic despite photosensitivity.",
+    "An accepted prophylactic with the best side-effect profile.",
+    "Used for prophylaxis where there is no resistance. Long-term use needs eye checks."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 299,
+     "page": 277
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q35",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 1,
+   "stem": "A 35-year-old man presents with fever, chills and sweating 2 weeks after returning from Sierra Leone.",
+   "leadIn": "What is the most appropriate first diagnostic test?",
+   "options": [
+    "Giemsa-stained thick and thin blood films",
+    "Blood cultures alone",
+    "Malaria serology",
+    "Bone marrow aspiration",
+    "Abdominal ultrasound"
+   ],
+   "answer": 0,
+   "explanation": "Fever with chills and sweats after a **trip to Africa** means malaria until proved otherwise. Start with **thick and thin blood films**, repeated if negative.",
+   "whyNot": [
+    "",
+    "Useful in the work-up, but they do not diagnose malaria.",
+    "No diagnostic value for acute malaria.",
+    "Not part of the malaria work-up.",
+    "May show splenomegaly but does not diagnose malaria."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 254,
+     "page": 232
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 298,
+     "page": 276
+    },
+    {
+     "book": "allam25",
+     "chapter": "Infection and blood",
+     "pdfPage": 45,
+     "page": 44
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q36",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 40-year-old man returned from Sudan, where he took antimalarial tablets irregularly. He has high fever with rigors, and over a day his urine has become very dark, almost black. Urinalysis shows haemoglobin but few red cells, and his creatinine is rising.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Blackwater fever",
+    "Rhabdomyolysis",
+    "Acute post-infectious glomerulonephritis",
+    "Obstructive jaundice",
+    "Nephrotic syndrome"
+   ],
+   "answer": 0,
+   "explanation": "Fever after Africa, with **dark urine from haemoglobinuria** and AKI, is **blackwater fever**: massive **intravascular haemolysis** of parasitised and unparasitised red cells in falciparum malaria.",
+   "whyNot": [
+    "",
+    "Also gives dark urine and AKI, but from myoglobin. Nothing here suggests muscle injury, and the travel history points to malaria.",
+    "Gives haematuria with red cells, and it follows a streptococcal infection.",
+    "Dark urine from bilirubin would not show haemoglobin on urinalysis.",
+    "Linked to chronic malariae, but it causes heavy proteinuria and oedema, not acute haemoglobinuria."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 587,
+     "page": 565
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 297,
+     "page": 275
+    },
+    {
+     "book": "allam25",
+     "chapter": "Infection and blood",
+     "pdfPage": 44,
+     "page": 43
+    },
+    {
+     "book": "allam25",
+     "chapter": "Infection and blood",
+     "pdfPage": 42,
+     "page": 41
+    }
+   ]
+  },
+  {
+   "id": "id-malaria.q37",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 1,
+   "stem": "A geneticist explains why a particular haemoglobin variant remains common in sub-Saharan Africa despite being harmful in its homozygous form.",
+   "leadIn": "Which inherited trait protects against the lethal complications of falciparum malaria?",
+   "options": [
+    "Sickle-cell trait (HbAS)",
+    "Duffy-negative red cells",
+    "Hereditary spherocytosis",
+    "Asplenia",
+    "Haemochromatosis"
+   ],
+   "answer": 0,
+   "explanation": "**HbS heterozygotes** are protected against the **lethal complications** of falciparum. This **survival advantage** keeps the gene common in malarial regions.",
+   "whyNot": [
+    "",
+    "Duffy negativity blocks **vivax** entry. It does not protect against falciparum complications.",
+    "Not among the protective traits Davidson lists (HbS, thalassaemia, G6PD deficiency, HLA-B53).",
+    "Splenectomy **increases** the risk of severe malaria.",
+    "Not among the protective traits Davidson lists (HbS, thalassaemia, G6PD deficiency, HLA-B53)."
+   ],
+   "studyRef": {
+    "sectionId": "id-malaria.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 297,
+     "page": 275
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Infectious disease",
+     "pdfPage": 189,
+     "page": 189
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "id-malaria.o1",
+   "sectionId": "id-malaria.s3",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Infectious disease",
+    "pdfPage": 297,
+    "page": 275,
+    "figure": "Fig. 11.34"
+   },
+   "identify": "**P. falciparum** blood film: fine **ring forms** inside red cells. Early falciparum usually shows rings only."
+  },
+  {
+   "id": "id-malaria.o2",
+   "sectionId": "id-malaria.s2",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Infectious disease",
+    "pdfPage": 297,
+    "page": 275,
+    "figure": "Fig. 11.34"
+   },
+   "identify": "**P. vivax** blood film: a large **trophozoite** and a **schizont** in red cells. All erythrocytic stages are seen in non-falciparum species."
+  },
+  {
+   "id": "id-malaria.o3",
+   "sectionId": "id-malaria.s5",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Infectious disease",
+    "pdfPage": 297,
+    "page": 275,
+    "figure": "Fig. 11.34"
+   },
+   "identify": "Fundus showing **malaria retinopathy with Roth’s spots**, a sign of severe or cerebral falciparum malaria."
+  },
+  {
+   "id": "id-malaria.o4",
+   "sectionId": "id-malaria.s5",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Infectious disease",
+    "pdfPage": 297,
+    "page": 275,
+    "figure": "Fig. 11.34"
+   },
+   "identify": "**Disconjugate gaze** from a cranial nerve palsy in **cerebral malaria**"
+  },
+  {
+   "id": "id-malaria.o5",
+   "sectionId": "id-malaria.s3",
+   "cite": {
+    "book": "fa2ck11",
+    "chapter": "Infectious disease",
+    "pdfPage": 1015,
+    "page": 1015,
+    "figure": "FIGURE 2.16-2"
+   },
+   "identify": "Thin smear packed with ring-infected red cells: **falciparum hyperparasitaemia** in cerebral malaria"
+  },
+  {
+   "id": "id-malaria.o6",
+   "sectionId": "id-malaria.s1",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Infectious disease",
+    "pdfPage": 296,
+    "page": 274,
+    "figure": "Fig. 11.33"
+   },
+   "identify": "Life-cycle diagram. Identify the **hypnozoite** (vivax and ovale only), the **schizont** and the **gametocytes**."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:28:44.077Z",
+  "contentHash": "6974cd9bd12879452385bc5e32cfacf0db8c2e52aef0325bfac6dea9ccf5b04f"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:28:44.092Z",
+  "contentHash": "6974cd9bd12879452385bc5e32cfacf0db8c2e52aef0325bfac6dea9ccf5b04f",
+  "checkerVersion": "source-check-v1"
+ }
+}

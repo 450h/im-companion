@@ -1,0 +1,3782 @@
+{
+ "topicId": "onc-lymphoma",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "onc-lymphoma.s1",
+   "title": "Definition, epidemiology & aetiology",
+   "objectiveIdx": [
+    0,
+    1,
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "A **lymphoma** is a malignant tumour of lymphoid cells that live mainly in lymphoid tissue (nodes, spleen, mucosal lymphoid tissue). The diagnosis is made on **biopsy histology**, which splits lymphomas into **Hodgkin lymphoma (HL)** and **non-Hodgkin lymphoma (NHL)**. Most lymphomas of both kinds are of **B-cell** origin. NHL is a **monoclonal** proliferation, and Davidson puts it at about **90% B-cell and 10% T-cell**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 983,
+       "page": 961
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 986,
+       "page": 964
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 368,
+       "page": 368
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Grade: how fast the tumour divides (mainly an NHL concept)",
+     "items": [
+      "**High grade:** rapid proliferation, history of **weeks**, frequent **extranodal** disease. It can be life-threatening and is fatal if untreated, but it is **potentially curable**.",
+      "**Low grade:** slow proliferation, often present for **months** before diagnosis, with an **indolent** course. It is **not curable** with conventional therapy."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 983,
+       "page": 961
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 986,
+       "page": 964
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "HL vs NHL: epidemiology (Davidson figures)",
+     "columns": [
+      "Feature",
+      "Hodgkin lymphoma",
+      "Non-Hodgkin lymphoma"
+     ],
+     "rows": [
+      [
+       "Incidence",
+       "~4 new cases/100 000/year",
+       "~12 new cases/100 000/year, rising ~3% a year"
+      ],
+      [
+       "Sex",
+       "Slight male excess (1.5 : 1)",
+       "Slight male excess"
+      ],
+      [
+       "Age",
+       "Median 31 y; **bimodal**, peaks at 20–35 and 50–70 y",
+       "Median 65–70 y; incidence climbs with age (rare before 40)"
+      ],
+      [
+       "Commonest types",
+       "Nodular sclerosing classical HL (~70%)",
+       "DLBCL (~30%) then follicular (~20%): together > two-thirds of NHL"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 984,
+       "page": 962
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 986,
+       "page": 964
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 427,
+       "page": 403
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 303,
+       "page": 266
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 426,
+       "page": 402
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Taken together, lymphomas run at about **15–20 per 100 000** a year, making them the **fifth commonest malignancy** in the West and more frequent than leukaemia. Roughly **20%** start at a **primary extranodal site** rather than in a node.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 422,
+       "page": 398
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 300,
+       "page": 263
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Aetiology of Hodgkin lymphoma",
+     "items": [
+      "The cause is **unknown**. HL is commoner in people from well-educated backgrounds and small families.",
+      "A past history of **infectious mononucleosis** triples the risk, but a causal role for **EBV** is not proven. Up to 40% of patients have raised EBV antibody titres at diagnosis, and EBV DNA has been found in HL tissue.",
+      "Quick sources also list **HIV**, autoimmune disease (e.g. RA, sarcoidosis) and family history."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 984,
+       "page": 962
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 423,
+       "page": 399
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 195,
+       "page": 195
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "NHL: infections and conditions linked to specific lymphomas",
+     "columns": [
+      "Agent / condition",
+      "Associated lymphoma"
+     ],
+     "rows": [
+      [
+       "EBV",
+       "Post-transplant NHL; **endemic (African) Burkitt** (strong link)"
+      ],
+      [
+       "HHV-8",
+       "Primary effusion lymphoma"
+      ],
+      [
+       "HTLV-1",
+       "Adult T-cell leukaemia/lymphoma (Japan, Caribbean)"
+      ],
+      [
+       "_H. pylori_",
+       "**Gastric MALT lymphoma**"
+      ],
+      [
+       "_Chlamydia psittaci_",
+       "Ocular MALT lymphoma"
+      ],
+      [
+       "Sjögren / Hashimoto",
+       "MALT (marginal zone) lymphoma"
+      ],
+      [
+       "HIV",
+       "NHL is a late, **AIDS-defining** complication (relative risk ~60–100×)"
+      ],
+      [
+       "Immunodeficiency",
+       "Inherited (ataxia-telangiectasia, Wiskott–Aldrich) or drug-induced (organ transplant)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 986,
+       "page": 964
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 425,
+       "page": 401
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 881,
+       "page": 881
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 373,
+       "page": 373
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Endemic Burkitt lymphoma is **always EBV-associated** and follows the **malaria belt** of equatorial Africa. Exam pairing: Burkitt with EBV, malaria and HIV.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 428,
+       "page": 404
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 196,
+       "page": 196
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Sources disagree on the **B : T split** in NHL: Davidson gives **90 : 10**, Kumar & Clark and the Essentials ~80 : 20, and Pocket Medicine/Step-Up ~85 : 15. Davidson's 90% is the figure to quote.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 986,
+       "page": 964
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 425,
+       "page": 401
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 371,
+       "page": 371
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 880,
+       "page": 880
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "HL epidemiology numbers vary too. Kumar quotes **~3/100 000** with M : F 1.3 : 1 and a third-decade peak, and quick sources give age peaks of ~20 and ~75 years. Learn Davidson's figures: **~4/100 000, 1.5 : 1, peaks 20–35 and 50–70 years**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 984,
+       "page": 962
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 423,
+       "page": 399
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 195,
+       "page": 195
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.s2",
+   "title": "Pathogenesis, classification & histology",
+   "objectiveIdx": [
+    3,
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "B cells are selected for antigen in the **germinal (follicle) centre** of the node. Mistakes during this process produce **B-cell lymphomas**, which are by far the most common type. More generally, NHL is a **clonal expansion** frozen at a particular stage of lymphocyte development. Malignant change usually comes from errors in **class switching** or in **immunoglobulin / T-cell receptor gene recombination**, so the breakpoints often lie in Ig or TCR loci. Tumours of **mature, non-dividing** cells are **indolent**, while those of **proliferating** cells (lymphoblasts, immunoblasts) are **aggressive**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 983,
+       "page": 961
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 425,
+       "page": 401
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 303,
+       "page": 266
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Signature translocations in NHL",
+     "columns": [
+      "Lymphoma",
+      "Translocation",
+      "Gene effect"
+     ],
+     "rows": [
+      [
+       "Follicular",
+       "t(14;18)",
+       "IGH–**BCL2**: blocks apoptosis"
+      ],
+      [
+       "Burkitt",
+       "t(8;14)",
+       "**MYC** moved next to IGH: drives proliferation"
+      ],
+      [
+       "Mantle cell",
+       "t(11;14)",
+       "CCND1–IGH: **cyclin D1** overexpression"
+      ],
+      [
+       "Anaplastic large cell",
+       "t(2;5)",
+       "NPM1–**ALK** tyrosine kinase"
+      ],
+      [
+       "MALT lymphoma",
+       "t(11;18)",
+       "BIRC3–MALT1: blocks apoptosis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 986,
+       "page": 964
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 426,
+       "page": 402
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 372,
+       "page": 372
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "The hallmark of HL is the **Reed–Sternberg (RS) cell**, a large malignant cell of **B-cell origin**. It has two (or more) nuclei, each with a prominent eosinophilic nucleolus, giving the **\"owl's eyes\"** look. RS cells make up **< 1%** of the node. The rest is a reactive background of T cells, B cells, plasma cells, eosinophils and fibroblasts, and this inflammatory background helps separate HL from NHL. Classical RS cells are **CD15+, CD30+ and usually CD20−**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 983,
+       "page": 961
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 984,
+       "page": 962,
+       "figure": "Fig. 23.26"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 370,
+       "page": 370
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 879,
+       "page": 879
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "WHO classification of Hodgkin lymphoma",
+     "columns": [
+      "Type",
+      "Share",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "**Nodular lymphocyte-predominant HL** (non-classical)",
+       "5%",
+       "\"Popcorn\" cells, strongly **CD20+**; behaves like low-grade B-cell NHL (slow, localised, rarely fatal)"
+      ],
+      [
+       "Classical: **nodular sclerosing**",
+       "~70%",
+       "Young adults and **women**; collagen bands; **mediastinal** disease; usually stage I–II"
+      ],
+      [
+       "Classical: mixed cellularity",
+       "~20%",
+       "Older patients; more often advanced stage"
+      ],
+      [
+       "Classical: lymphocyte-rich",
+       "~5%",
+       "Usually **men**; good prognosis"
+      ],
+      [
+       "Classical: lymphocyte-depleted",
+       "Rare",
+       "Seen with HIV; worst prognosis; probably large-cell/anaplastic NHL in many cases"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 983,
+       "page": 961
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 984,
+       "page": 962
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 423,
+       "page": 399
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 424,
+       "page": 400
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 370,
+       "page": 370
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Classifying NHL",
+     "items": [
+      "The WHO system sorts NHL by **lineage** (B vs T/NK) and **maturation stage** (precursor vs mature), and adds histology, cytogenetics and clinical features.",
+      "At the bedside, **grade** (proliferation rate) matters most. **DLBCL** is the classic high-grade lymphoma and **follicular** the classic low-grade one.",
+      "Histology: a **follicular (nodular)** pattern suggests low grade, and a **diffuse** sheet of cells suggests high grade.",
+      "**Mantle cell** lymphoma has low-grade-looking histology but behaves aggressively and carries a poor prognosis.",
+      "Less common types include Burkitt, mantle cell, MALT and T-cell lymphomas."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 986,
+       "page": 964
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 987,
+       "page": 965,
+       "figure": "Fig. 23.29"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 425,
+       "page": 401
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Subtypes worth knowing",
+     "columns": [
+      "Subtype",
+      "Features"
+     ],
+     "rows": [
+      [
+       "Burkitt",
+       "The **fastest-proliferating** lymphoma. Three forms: **endemic** (always EBV, malaria belt, jaw), **sporadic** (children and young adults, often abdominal) and **immunodeficiency-related** (HIV, post-transplant)."
+      ],
+      [
+       "MALT (marginal zone)",
+       "Arises in chronically inflamed mucosa: stomach (_H. pylori_), salivary gland (Sjögren). Usually indolent."
+      ],
+      [
+       "Mycosis fungoides / Sézary",
+       "Cutaneous **T-cell** lymphoma: eczema-like patches progressing to erythroderma. Sézary syndrome = skin plus circulating cells."
+      ],
+      [
+       "Peripheral T-cell lymphomas",
+       "Rarer than B-cell types and **CD20-negative**. ALK-positive anaplastic large-cell lymphoma does better than other T-cell types."
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 428,
+       "page": 404
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 430,
+       "page": 406
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 882,
+       "page": 882
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 883,
+       "page": 883
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 984,
+      "page": 962,
+      "figure": "Fig. 23.26"
+     },
+     "note": "Look at: the large binucleate Reed–Sternberg cell with prominent eosinophilic nucleoli, sitting among small reactive lymphocytes."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 987,
+      "page": 965,
+      "figure": "Fig. 23.29"
+     },
+     "note": "Compare: follicular/nodular pattern (low-grade NHL) vs diffuse effacement of the node (high-grade NHL)."
+    },
+    {
+     "type": "pearl",
+     "text": "In classical HL the histological subtype changes the prognosis little, except **lymphocyte-depleted** disease, which has the worst outlook.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 877,
+       "page": 877
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 370,
+       "page": 370
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Step-Up calls **follicular** the commonest NHL and lists \"lymphocyte predominance\" among four HL subtypes. Follow the WHO/Davidson scheme instead: **DLBCL is the commonest lymphoma** (~30%, follicular second at ~20%), and nodular lymphocyte-predominant HL is the **non-classical** type, separate from classical lymphocyte-rich HL.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 984,
+       "page": 962
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 427,
+       "page": 403
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 877,
+       "page": 877
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 882,
+       "page": 882
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 426,
+       "page": 402
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.s3",
+   "title": "Clinical features",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Presentation: HL vs NHL",
+     "columns": [
+      "Feature",
+      "Hodgkin lymphoma",
+      "Non-Hodgkin lymphoma"
+     ],
+     "rows": [
+      [
+       "Nodes",
+       "Painless, **rubbery**, usually cervical or supraclavicular; size may fluctuate",
+       "Painless, firm, mobile; often at several sites"
+      ],
+      [
+       "Pattern of spread",
+       "**Contiguous**, node to next node; isolated below-diaphragm disease < 10%",
+       "Often **widely disseminated** at presentation, non-contiguous"
+      ],
+      [
+       "Extranodal disease",
+       "Rare (bone, brain, skin)",
+       "Common: marrow, gut, thyroid, lung, skin, testis, brain"
+      ],
+      [
+       "Mediastinum",
+       "Young patients with nodular sclerosis: large, often **silent** mass or dry cough and breathlessness",
+       "A minority of DLBCL present with a primary mediastinal mass"
+      ],
+      [
+       "Systemic upset",
+       "~35% B symptoms; itch in 10–15%; **alcohol-induced nodal pain**; Pel-Ebstein fever",
+       "B symptoms ~15–50% by subtype; sweats, weight loss, fever, itch"
+      ],
+      [
+       "Bone marrow",
+       "Can be involved (that is stage IV); assessed by PET-CT, with marrow biopsy only if PET is not used",
+       "Low grade **50–60%**, high grade ~10%, causing anaemia, leukopenia or thrombocytopenia"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 984,
+       "page": 962
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 986,
+       "page": 964
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 369,
+       "page": 369
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 423,
+       "page": 399
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 881,
+       "page": 881
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 427,
+       "page": 403
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "B symptoms (count for staging)",
+     "items": [
+      "Fever **> 38°C**",
+      "Drenching **night sweats**",
+      "Unexplained loss of **> 10% body weight** within 6 months"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 424,
+       "page": 400
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 369,
+       "page": 369
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 301,
+       "page": 264
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "NHL: compression and organ syndromes",
+     "items": [
+      "Gut obstruction and ascites; GI lymphoma can cause early satiety, vomiting and weight loss",
+      "**Superior vena cava obstruction**",
+      "**Spinal cord compression**",
+      "Cytopenias from marrow infiltration; rash in cutaneous lymphoma; hepatosplenomegaly"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 986,
+       "page": 964
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 881,
+       "page": 881
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Subtype clues in the history",
+     "columns": [
+      "Subtype",
+      "Typical presentation"
+     ],
+     "rows": [
+      [
+       "Endemic Burkitt",
+       "Young African child with a **rapidly growing jaw tumour**. Next commonest is an abdominal mass with marrow involvement; CNS, kidney and testis also occur."
+      ],
+      [
+       "Sporadic Burkitt",
+       "Mainly abdominal organs (masses, hepatomegaly)"
+      ],
+      [
+       "DLBCL",
+       "Rapidly enlarging painless mass, often in someone over 65; fatal within months if untreated"
+      ],
+      [
+       "Mantle cell",
+       "Older men (M : F 3 : 1), generalised nodes, marrow and blood involvement, multiple bowel lesions"
+      ],
+      [
+       "Gastric MALT",
+       "Dyspepsia, ulcer-type symptoms, bleeding or a gastric mass"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 427,
+       "page": 403
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 428,
+       "page": 404
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 429,
+       "page": 405
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 430,
+       "page": 406
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 882,
+       "page": 882
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 196,
+       "page": 196
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 424,
+      "page": 400,
+      "figure": "Fig. 17.15"
+     },
+     "note": "Look at: a widened mediastinum from a mediastinal nodal mass in Hodgkin lymphoma."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 987,
+      "page": 965,
+      "figure": "Fig. 23.30"
+     },
+     "note": "Look at: bulky axillary nodes with distended superficial veins in high-grade lymphoma."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 429,
+      "page": 405,
+      "figure": "Fig. 17.20"
+     },
+     "note": "Look at: a child with facial and jaw swelling from Burkitt lymphoma."
+    },
+    {
+     "type": "pearl",
+     "text": "**Pain in the nodes after drinking alcohol** and generalised **pruritus** are classic HL clues. Neither is a B symptom, so neither changes the stage.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 423,
+       "page": 399
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 195,
+       "page": 195
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Hepatosplenomegaly in HL does **not always** mean the liver or spleen is involved. Likewise, abnormal LFTs may occur without hepatic infiltration.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 984,
+       "page": 962
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.s4",
+   "title": "Investigations & diagnosis",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Lymphoma is a **tissue diagnosis**. Take an **excision biopsy** of a node big enough for histology, immunophenotyping and molecular studies. A **core biopsy** (e.g. CT-guided) is acceptable for deep, impalpable disease. **Fine needle aspiration is inadequate** because it loses the nodal architecture. Biopsy any node **> 1 cm** that persists for **> 4 weeks** without an infective cause.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 423,
+       "page": 399
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 369,
+       "page": 369
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 984,
+       "page": 962
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 883,
+       "page": 883
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Work-up of a patient with lymphoma",
+     "columns": [
+      "Test",
+      "What it shows / why"
+     ],
+     "rows": [
+      [
+       "FBC and film",
+       "May be normal. In HL, **anaemia or lymphopenia** is a poor prognostic sign, and eosinophilia or neutrophilia may occur. Cytopenias suggest marrow disease."
+      ],
+      [
+       "ESR",
+       "Often raised in HL and tracks disease activity"
+      ],
+      [
+       "Renal function",
+       "Baseline before chemotherapy"
+      ],
+      [
+       "LFTs",
+       "May be abnormal with or without liver infiltration; an **obstructive pattern** suggests **porta hepatis nodes**"
+      ],
+      [
+       "LDH (± β2-microglobulin in NHL)",
+       "**Raised LDH is an adverse** prognostic factor"
+      ],
+      [
+       "Serum urate",
+       "Very high in aggressive NHL, with a risk of renal failure when treatment starts"
+      ],
+      [
+       "Immunoglobulins",
+       "IgG or IgM paraprotein can act as a response marker"
+      ],
+      [
+       "Virology",
+       "**HIV, hepatitis B (HBsAg + anti-HBc) and C** before rituximab"
+      ],
+      [
+       "Imaging",
+       "CXR (mediastinal mass); CT chest/abdomen/pelvis; **FDG-PET-CT** for staging and response"
+      ],
+      [
+       "Marrow aspirate + trephine",
+       "NHL staging; only needed if PET is not used to assess marrow"
+      ],
+      [
+       "Immunophenotype, cytogenetics, molecular",
+       "Defines lineage and subtype; detects translocations and Ig/TCR gene rearrangements"
+      ],
+      [
+       "Before chemotherapy",
+       "Echocardiogram (anthracycline), spirometry (bleomycin), fertility preservation referral"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 984,
+       "page": 962
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 987,
+       "page": 965
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 423,
+       "page": 399
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 369,
+       "page": 369
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 301,
+       "page": 264
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 303,
+       "page": 266
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Differential of generalised lymphadenopathy",
+     "items": [
+      "Infection: EBV, CMV, toxoplasma, TB, HIV",
+      "Malignancy: lymphoma, leukaemia",
+      "Systemic disease: SLE, sarcoidosis, rheumatoid arthritis",
+      "Drugs, e.g. phenytoin"
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 302,
+       "page": 265
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**PET** separates an active residual mass (FDG-avid) from **fibrosis or necrosis** (PET-negative) after chemotherapy, which guides whether radiotherapy is needed.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 303,
+       "page": 266
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 985,
+       "page": 963,
+       "figure": "Fig. 23.27"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Tumour lysis:** very aggressive NHL (especially **Burkitt**) can have a very high urate and precipitate renal failure once treatment begins. Give **rasburicase** prophylaxis and check potassium and phosphate very frequently for at least **72 hours**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 987,
+       "page": 965
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 428,
+       "page": 404
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 985,
+      "page": 963,
+      "figure": "Fig. 23.27"
+     },
+     "note": "Look at: an anterior mediastinal mass pushing the trachea aside on CXR; intense FDG uptake at diagnosis and loss of uptake (complete response) after treatment."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 985,
+      "page": 963,
+      "figure": "Fig. 23.28"
+     },
+     "note": "Look at: CT-guided needle biopsy of enlarged retroperitoneal nodes, the route for occult disease."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 429,
+      "page": 405,
+      "figure": "Fig. 17.21"
+     },
+     "note": "Look at: circulating mantle cell lymphoma cells that can mimic CLL, so immunophenotyping/cytogenetics is needed."
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.s5",
+   "title": "Staging & prognostic factors",
+   "objectiveIdx": [
+    7
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Ann Arbor staging (Cotswolds modification)",
+     "columns": [
+      "Stage",
+      "Extent"
+     ],
+     "rows": [
+      [
+       "I",
+       "One lymph node region (I), or one extralymphatic site (IE)"
+      ],
+      [
+       "II",
+       "≥ 2 node regions on the **same side** of the diaphragm (II), or an extralymphatic site plus nodes on that side (IIE)"
+      ],
+      [
+       "III",
+       "Node regions on **both sides** of the diaphragm, ± spleen (IIIS) or localised extralymphatic site (IIIE)"
+      ],
+      [
+       "IV",
+       "**Diffuse** involvement of extralymphatic tissue, e.g. liver or bone marrow"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 984,
+       "page": 962
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 424,
+       "page": 400
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Stage suffixes",
+     "columns": [
+      "Suffix",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "A",
+       "No systemic symptoms"
+      ],
+      [
+       "B",
+       "Fever > 38°C, drenching night sweats, or > 10% weight loss in 6 months"
+      ],
+      [
+       "X",
+       "**Bulk**: mediastinal widening > 1/3, or a nodal mass > 10 cm"
+      ],
+      [
+       "E",
+       "A single extranodal site contiguous with known nodal disease"
+      ],
+      [
+       "S",
+       "Splenic involvement"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 424,
+       "page": 400
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 369,
+       "page": 369
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "The same staging system is used for **HL and NHL**, but NHL is much more often **stage III–IV** at presentation. Lymphatic structures include the nodes, **spleen**, thymus, Waldeyer's ring, appendix and Peyer's patches. In NHL, the **histological subtype** shapes treatment and prognosis more than the stage does.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 984,
+       "page": 962
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 986,
+       "page": 964
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 372,
+       "page": 372
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Hodgkin lymphoma prognosis",
+     "items": [
+      "Adverse features: **bulk > 10 cm**, anaemia, lymphopenia, **raised LDH**, B symptoms.",
+      "Early-unfavourable criteria (Pocket): age > 50, bulky mediastinum, B symptoms, ESR > 50, > 3 nodal sites.",
+      "Early stage: > 90% reach complete remission with chemotherapy plus involved-field RT, and most are cured.",
+      "Advanced stage: historically 50–70% cured, now beyond 80% long-term survival with PET-directed therapy.",
+      "Primary refractory disease or relapse within a year carries a poor prognosis."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 984,
+       "page": 962
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 986,
+       "page": 964
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 371,
+       "page": 371
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 303,
+       "page": 266
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Hasenclever index (advanced HL): 1 point each",
+     "columns": [
+      "Factor",
+      "Adverse value"
+     ],
+     "rows": [
+      [
+       "Age",
+       "> 45 years"
+      ],
+      [
+       "Sex",
+       "Male"
+      ],
+      [
+       "Albumin",
+       "< 40 g/L"
+      ],
+      [
+       "Haemoglobin",
+       "< 105 g/L"
+      ],
+      [
+       "Stage",
+       "IV"
+      ],
+      [
+       "White cell count",
+       "> 15 × 10⁹/L"
+      ],
+      [
+       "Lymphocytes",
+       "< 0.6 × 10⁹/L"
+      ],
+      [
+       "Outcome",
+       "Score 0–1: ~90% 5-year overall survival (79% progression-free); highest scores ~59% OS"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 986,
+       "page": 964
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "NHL prognostic indices",
+     "columns": [
+      "Index",
+      "Adverse factors",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "IPI (high-grade NHL)",
+       "Older age (> 60), stage III–IV, > 1 extranodal site, raised LDH, poor performance status (ECOG ≥ 2)",
+       "Low risk: > 75% 5-year survival; high risk: ~25%"
+      ],
+      [
+       "R-IPI (DLBCL on R-CHOP)",
+       "Same five factors",
+       "Very good (0), good (1–2), poor (≥ 3)"
+      ],
+      [
+       "FLIPI (follicular)",
+       "Age > 60, stage III–IV, Hb < 120 g/L, > 4 nodal areas, raised LDH",
+       "Guides choice and intensity of therapy"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 988,
+       "page": 966
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 428,
+       "page": 404
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 372,
+       "page": 372
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 373,
+       "page": 373
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "NHL outcome figures",
+     "items": [
+      "Low-grade NHL: relapsing–remitting, median survival ~**12 years**. It transforms to high grade at **~3% per year**, with poor survival after transformation.",
+      "DLBCL on R-CHOP: ~75% respond, ~50% disease-free at 5 years. Relapse carries < 10% 5-year survival, and HSCT helps patients under 65.",
+      "Activated B-cell (ABC) DLBCL and **MYC + BCL2/BCL6 \"double-hit\"** rearrangements do worse.",
+      "Overall NHL 5-year survival is ~65%."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 988,
+       "page": 966
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 427,
+       "page": 403
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 373,
+       "page": 373
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 883,
+       "page": 883
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The Hasenclever survival percentages differ between Davidson and Kumar & Clark. Use **Davidson's** figures (score 0–1 gives ~90% 5-year OS). The **seven factors** are the same in both, and they are the examinable part.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 986,
+       "page": 964
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 425,
+       "page": 401
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.s6",
+   "title": "Management of Hodgkin lymphoma",
+   "objectiveIdx": [
+    8,
+    9
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "HL treatment by setting (Davidson / UK practice)",
+     "columns": [
+      "Setting",
+      "Treatment"
+     ],
+     "rows": [
+      [
+       "Early (IA/IIA), no risk factors",
+       "**2 cycles ABVD + 20 Gy** involved-site RT"
+      ],
+      [
+       "Early, with risk factors (bulk, high ESR)",
+       "**4 cycles ABVD + 30 Gy** involved-site RT"
+      ],
+      [
+       "Early, non-bulky, PET-negative after 3 ABVD",
+       "RT may be **omitted** (RAPID trial)"
+      ],
+      [
+       "Advanced (III–IV)",
+       "**6–8 cycles ABVD**, with an interim PET after 2 cycles"
+      ],
+      [
+       "Advanced, interim PET-2 negative",
+       "Drop bleomycin and finish with **AVD** (less lung toxicity)"
+      ],
+      [
+       "Advanced, interim PET-2 positive",
+       "Escalate to **BEACOPP**: 2-year relapse-free survival ~65%, against ~13% if ABVD continues"
+      ],
+      [
+       "Relapse responding to salvage",
+       "Salvage chemo then **high-dose (BEAM) autologous SCT**, ideally PET-negative first"
+      ],
+      [
+       "Resistant disease",
+       "Brentuximab vedotin, PD-1 inhibitors, allogeneic SCT"
+      ],
+      [
+       "NLPHL",
+       "Early stage: RT alone; strongly CD20+, so rituximab-based therapy is an option"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 985,
+       "page": 963
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 986,
+       "page": 964
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 424,
+       "page": 400
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 425,
+       "page": 401
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 370,
+       "page": 370
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Regimens to decode",
+     "items": [
+      "**ABVD**: doxorubicin (**A**driamycin), **b**leomycin, **v**inblastine, **d**acarbazine. It is non-sterilising and carries a low risk of second cancer.",
+      "**BEACOPP**: bleomycin, etoposide, doxorubicin, cyclophosphamide, vincristine (Oncovin), procarbazine, prednisolone. It is more toxic, with more late effects.",
+      "**BEAM** (autograft conditioning): carmustine (BCNU), etoposide, cytarabine, melphalan."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 985,
+       "page": 963
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 425,
+       "page": 401
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Targeted therapy in HL",
+     "items": [
+      "**Brentuximab vedotin**: an antibody–drug conjugate against **CD30** on RS cells that delivers the antimitotic **monomethyl auristatin E**. It is used after failure of autograft or when the patient is unfit for one, and as a bridge to allograft. It can replace bleomycin in advanced disease, at the cost of more toxicity.",
+      "**PD-1 blockade** (pembrolizumab, nivolumab) gives useful responses in relapsed or refractory HL."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 986,
+       "page": 964
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 425,
+       "page": 401
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 371,
+       "page": 371
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Late effects of HL treatment",
+     "items": [
+      "**Breast cancer** after chest RT in young women, so they need a screening programme. **Lung cancer** in smokers after lung irradiation.",
+      "Cardiac disease from **doxorubicin** and RT; pulmonary toxicity from **bleomycin**.",
+      "**Hypothyroidism** after neck RT, so check TSH annually.",
+      "Second cancers overall (~4.6×, for decades), including leukaemia/MDS.",
+      "ABVD has a **low** risk of infertility and secondary MDS/AML."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 985,
+       "page": 963
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 371,
+       "page": 371
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 196,
+       "page": 196
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Omitting RT in early HL:** Kumar & Clark says RT should not be dropped because relapse rises slightly. Davidson (RAPID trial) says non-bulky patients who are **PET-negative after 3 ABVD can safely omit RT**. Follow Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 985,
+       "page": 963
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 425,
+       "page": 401
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Cycle numbers for advanced HL vary: the Essentials says 8 ABVD, Pocket Medicine 6 (PET-adapted). Davidson's answer is **6–8 cycles, guided by interim PET-2**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 985,
+       "page": 963
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 303,
+       "page": 266
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 371,
+       "page": 371
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.s7",
+   "title": "Management of non-Hodgkin lymphoma & targeted therapy",
+   "objectiveIdx": [
+    8,
+    9
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Low-grade (follicular) NHL",
+     "items": [
+      "**80%** present at an advanced stage and follow a relapsing–remitting course over years.",
+      "**Watch and wait** if asymptomatic.",
+      "Treat for: marked systemic symptoms, uncomfortable or disfiguring nodes, **marrow failure**, or **compression** syndromes.",
+      "Localised stage I disease (rare): **radiotherapy**.",
+      "Chemo-immunotherapy: **R-CVP, R-CHOP or R-bendamustine**. Oral chlorambucil is well tolerated but not curative.",
+      "**Rituximab maintenance** for 2 years delays relapse but has not improved survival.",
+      "Relapse: idelalisib (PI3K inhibitor); high-dose chemotherapy with autologous SCT."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 987,
+       "page": 965
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 372,
+       "page": 372
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "High-grade NHL (DLBCL)",
+     "items": [
+      "Treat **at diagnosis**: untreated, it is fatal within months.",
+      "**R-CHOP** is first line for stage II and above, usually **6 cycles** in advanced disease.",
+      "Stage I non-bulky: 4 cycles of (R-)CHOP then involved-site RT. RT is also used for residual bulk and compression syndromes.",
+      "Cardiac impairment: **R-GCVP** (gemcitabine replaces doxorubicin).",
+      "**CNS prophylaxis** (intrathecal or high-dose methotrexate) for high CNS risk: raised LDH with > 2 extranodal sites, or testis, breast or epidural disease.",
+      "Chemo-sensitive relapse: salvage then **autologous HSCT**. Pocket Medicine also lists **CAR-T** cells for relapsed disease."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 988,
+       "page": 966
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 427,
+       "page": 403
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 428,
+       "page": 404
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 373,
+       "page": 373
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Other subtypes",
+     "columns": [
+      "Lymphoma",
+      "Management"
+     ],
+     "rows": [
+      [
+       "Burkitt",
+       "Urgent intensive regimen: high-dose cyclophosphamide, methotrexate and cytarabine (e.g. CODOX-M/IVAC, DA-EPOCH-R), with **mandatory CNS prophylaxis** and tumour-lysis prophylaxis. Curative intent regardless of HIV status."
+      ],
+      [
+       "Gastric MALT (low grade, localised)",
+       "**_H. pylori_ eradication**, with endoscopy and biopsy at 6, 12 and 24 months. If it persists: rituximab ± chemotherapy or low-dose RT."
+      ],
+      [
+       "Mantle cell",
+       "Intensive chemo-immunotherapy ± autograft in the fit; **ibrutinib (BTK inhibitor)** at relapse"
+      ],
+      [
+       "Peripheral T-cell",
+       "CHOP-type combination chemotherapy **without rituximab** (T cells lack CD20); worse outcomes"
+      ],
+      [
+       "HIV-associated NHL",
+       "Give antiretroviral therapy alongside chemotherapy; avoid rituximab if **CD4 < 50**"
+      ],
+      [
+       "Primary CNS lymphoma",
+       "**High-dose methotrexate**-based regimen + steroids ± RT"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 428,
+       "page": 404
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 430,
+       "page": 406
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 987,
+       "page": 965
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 373,
+       "page": 373
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 374,
+       "page": 374
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 429,
+       "page": 405
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Antibodies and targeted drugs",
+     "columns": [
+      "Drug",
+      "Target / use"
+     ],
+     "rows": [
+      [
+       "Rituximab",
+       "Anti-**CD20**. Up to 60% durable responses alone, and synergy with chemo. Added to CHOP, it raises CR rates and overall survival."
+      ],
+      [
+       "Obinutuzumab",
+       "Newer anti-CD20. With chemo it improves PFS in follicular lymphoma but is more toxic."
+      ],
+      [
+       "Brentuximab vedotin",
+       "Anti-**CD30** drug conjugate: relapsed/refractory Hodgkin lymphoma; can replace bleomycin in advanced HL"
+      ],
+      [
+       "Ibrutinib",
+       "BTK inhibitor: relapsed mantle cell"
+      ],
+      [
+       "Idelalisib",
+       "PI3K inhibitor: relapsed follicular"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 987,
+       "page": 965
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 988,
+       "page": 966
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 372,
+       "page": 372
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 986,
+       "page": 964
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 371,
+       "page": 371
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**CHOP** = cyclophosphamide, **H**ydroxydaunorubicin (doxorubicin), **O**ncovin (vincristine), prednisolone. Check **echo** before the anthracycline and **HBsAg + anti-HBc** before rituximab, because rituximab can reactivate HBV.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 369,
+       "page": 369
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 373,
+       "page": 373
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 423,
+       "page": 399
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 987,
+       "page": 965
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Quoted DLBCL cure rates vary widely: Step-Up gives an older \"85% with CHOP\", the Essentials 60–70% cure in early stage with R-CHOP, and Davidson ~50% disease-free at 5 years overall. For exams, quote **Davidson** and remember that the IPI stratifies the figure.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 988,
+       "page": 966
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 304,
+       "page": 267
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 882,
+       "page": 882
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "onc-lymphoma.c1",
+   "sectionId": "onc-lymphoma.s1",
+   "front": "Lineage split of NHL (Davidson)?",
+   "back": "~**90% B-cell**, ~10% T-cell (other books quote 80–85% B).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 986,
+     "page": 964
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 425,
+     "page": 401
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 371,
+     "page": 371
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c2",
+   "sectionId": "onc-lymphoma.s1",
+   "front": "Age distribution of Hodgkin lymphoma?",
+   "back": "**Bimodal**: peaks at 20–35 and 50–70 years; median 31.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 984,
+     "page": 962
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c3",
+   "sectionId": "onc-lymphoma.s1",
+   "front": "Which virus causes adult T-cell leukaemia/lymphoma?",
+   "back": "**HTLV-1** (endemic in Japan and the Caribbean).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 986,
+     "page": 964
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 878,
+     "page": 878
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c4",
+   "sectionId": "onc-lymphoma.s1",
+   "front": "Infection linked to ocular MALT lymphoma?",
+   "back": "_Chlamydia psittaci_ (gastric MALT: _H. pylori_).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 425,
+     "page": 401
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c5",
+   "sectionId": "onc-lymphoma.s2",
+   "front": "t(14;18) — which lymphoma, which gene?",
+   "back": "**Follicular** lymphoma: IGH–BCL2 overexpression blocks apoptosis.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 986,
+     "page": 964
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 426,
+     "page": 402
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c6",
+   "sectionId": "onc-lymphoma.s2",
+   "front": "t(11;14) — which lymphoma, which protein?",
+   "back": "**Mantle cell** lymphoma: cyclin D1 overexpression.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 986,
+     "page": 964
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 426,
+     "page": 402
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c7",
+   "sectionId": "onc-lymphoma.s2",
+   "front": "Immunophenotype of the classical Reed–Sternberg cell?",
+   "back": "**CD15+, CD30+**, usually CD20−.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 370,
+     "page": 370
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c8",
+   "sectionId": "onc-lymphoma.s2",
+   "front": "Commonest HL subtype and its typical patient?",
+   "back": "**Nodular sclerosing** (~70%): young adults, women, mediastinal disease.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 984,
+     "page": 962
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 370,
+     "page": 370
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c9",
+   "sectionId": "onc-lymphoma.s3",
+   "front": "Two HL symptoms that do NOT count as B symptoms?",
+   "back": "**Pruritus** and **alcohol-induced pain** in involved nodes.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 423,
+     "page": 399
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c10",
+   "sectionId": "onc-lymphoma.s3",
+   "front": "Marrow involvement: low-grade vs high-grade NHL?",
+   "back": "Low grade **50–60%**; high grade ~10%.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 986,
+     "page": 964
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c11",
+   "sectionId": "onc-lymphoma.s4",
+   "front": "Why is FNA inadequate to diagnose lymphoma?",
+   "back": "The **nodal architecture** is needed, so take an excision (or core) biopsy.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 423,
+     "page": 399
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 369,
+     "page": 369
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c12",
+   "sectionId": "onc-lymphoma.s4",
+   "front": "Serology needed before rituximab?",
+   "back": "**HBsAg and anti-HBc** (HBV reactivation risk), plus HCV and HIV.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 369,
+     "page": 369
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 987,
+     "page": 965
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c13",
+   "sectionId": "onc-lymphoma.s5",
+   "front": "Ann Arbor stage III?",
+   "back": "Node regions on **both sides of the diaphragm** (± spleen, S).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 984,
+     "page": 962
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c14",
+   "sectionId": "onc-lymphoma.s5",
+   "front": "Suffix X in Cotswolds staging?",
+   "back": "**Bulk**: mediastinal widening > 1/3 or nodal mass > 10 cm.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 424,
+     "page": 400
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c15",
+   "sectionId": "onc-lymphoma.s5",
+   "front": "The seven Hasenclever factors?",
+   "back": "Age > 45, male, albumin < 40 g/L, Hb < 105 g/L, stage IV, WCC > 15, lymphocytes < 0.6 (× 10⁹/L).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 986,
+     "page": 964
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c16",
+   "sectionId": "onc-lymphoma.s5",
+   "front": "Rate of transformation of low-grade NHL to high grade?",
+   "back": "~**3% per year**, with poor survival afterwards.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 988,
+     "page": 966
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c17",
+   "sectionId": "onc-lymphoma.s6",
+   "front": "ABVD components?",
+   "back": "Doxorubicin (Adriamycin), bleomycin, vinblastine, dacarbazine.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 985,
+     "page": 963
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c18",
+   "sectionId": "onc-lymphoma.s6",
+   "front": "Advanced HL still PET-positive after 2 ABVD — next?",
+   "back": "Escalate to **BEACOPP**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 985,
+     "page": 963
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 425,
+     "page": 401
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c19",
+   "sectionId": "onc-lymphoma.s6",
+   "front": "Brentuximab vedotin — target and payload?",
+   "back": "Anti-**CD30** antibody delivering monomethyl auristatin E.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 986,
+     "page": 964
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c20",
+   "sectionId": "onc-lymphoma.s7",
+   "front": "First-line therapy for stage II+ DLBCL?",
+   "back": "**R-CHOP** (6 cycles in advanced disease).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 988,
+     "page": 966
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 428,
+     "page": 404
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.c21",
+   "sectionId": "onc-lymphoma.s7",
+   "front": "First-line therapy for localised low-grade gastric MALT lymphoma?",
+   "back": "**_H. pylori_ eradication** with endoscopic follow-up.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 430,
+     "page": 406
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 304,
+     "page": 267
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "onc-lymphoma.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 54-year-old woman who grew up in the Caribbean presents with generalised lymphadenopathy and a skin rash. Biopsy shows a mature **T-cell** lymphoma, and abnormal lymphocytes are circulating in her blood.",
+   "leadIn": "Which infection is most likely to be causally linked to her lymphoma?",
+   "options": [
+    "Epstein–Barr virus",
+    "Human herpesvirus 8",
+    "Human T-cell lymphotropic virus type 1",
+    "_Helicobacter pylori_",
+    "Hepatitis C virus"
+   ],
+   "answer": 2,
+   "explanation": "A T-cell leukaemia/lymphoma in someone from an HTLV-1-endemic area (Caribbean, Japan) points to **adult T-cell leukaemia/lymphoma**, caused by **HTLV-1**.",
+   "whyNot": [
+    "EBV is linked to Burkitt and post-transplant B-cell lymphomas, not adult T-cell leukaemia/lymphoma.",
+    "HHV-8 is linked to primary effusion lymphoma.",
+    "",
+    "_H. pylori_ drives gastric MALT (B-cell) lymphoma.",
+    "Hepatitis C is a general NHL risk factor without this T-cell/geographic pattern."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 986,
+     "page": 964
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 425,
+     "page": 401
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 878,
+     "page": 878
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 196,
+     "page": 196
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A student is comparing the epidemiology of Hodgkin and non-Hodgkin lymphoma using Davidson's figures.",
+   "leadIn": "Which feature is typical of non-Hodgkin lymphoma rather than Hodgkin lymphoma?",
+   "options": [
+    "Median age at diagnosis of about 31 years",
+    "Bimodal age peaks at 20–35 and 50–70 years",
+    "Median age at diagnosis of 65–70 years",
+    "Higher rates in well-educated people from small families",
+    "Threefold higher risk after infectious mononucleosis"
+   ],
+   "answer": 2,
+   "explanation": "NHL has a **median age of 65–70 years** and its incidence keeps rising with age. All the other features describe **Hodgkin lymphoma**.",
+   "whyNot": [
+    "A median age of 31 describes HL.",
+    "The bimodal pattern belongs to HL.",
+    "",
+    "This social-class association is described for HL.",
+    "The post-glandular-fever risk is described for HL."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 984,
+     "page": 962
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 986,
+     "page": 964
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 22-year-old woman has a dry cough and a large anterior mediastinal mass. A supraclavicular node biopsy shows bands of collagen dividing the node into nodules. Scattered large binucleate cells are **CD15+ and CD30+**, set in a background of eosinophils, plasma cells and T cells.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Nodular sclerosing classical Hodgkin lymphoma",
+    "Mixed cellularity classical Hodgkin lymphoma",
+    "Lymphocyte-depleted classical Hodgkin lymphoma",
+    "Nodular lymphocyte-predominant Hodgkin lymphoma",
+    "Follicular lymphoma"
+   ],
+   "answer": 0,
+   "explanation": "The CD15+/CD30+ Reed–Sternberg cells mean **classical HL**. Collagen bands in a young woman with mediastinal disease mean **nodular sclerosis**, the commonest subtype (~70%).",
+   "whyNot": [
+    "",
+    "Mixed cellularity favours older patients and lacks collagen bands.",
+    "Lymphocyte-depleted HL is rare, seen with HIV and in older men, and shows few background lymphocytes.",
+    "NLPHL has CD20+ \"popcorn\" cells and is not CD15/CD30-type classical HL.",
+    "Follicular lymphoma is a low-grade B-cell NHL with no Reed–Sternberg cells."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 984,
+     "page": 962
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 370,
+     "page": 370
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 877,
+     "page": 877
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 66-year-old man has generalised lymphadenopathy, splenomegaly and abnormal lymphocytes in his blood that were first thought to be CLL. Immunohistochemistry on a node biopsy shows strong nuclear **cyclin D1** expression.",
+   "leadIn": "Which chromosomal translocation is most likely present?",
+   "options": [
+    "t(14;18)",
+    "t(8;14)",
+    "t(11;14)",
+    "t(2;5)",
+    "t(11;18)"
+   ],
+   "answer": 2,
+   "explanation": "Cyclin D1 overexpression from **t(11;14)** (CCND1–IGH) defines **mantle cell lymphoma**, which can mimic CLL in the blood.",
+   "whyNot": [
+    "t(14;18) upregulates BCL2 in follicular lymphoma.",
+    "t(8;14) deregulates MYC in Burkitt lymphoma.",
+    "",
+    "t(2;5) creates NPM1–ALK in anaplastic large-cell lymphoma.",
+    "t(11;18) occurs in MALT lymphoma."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 986,
+     "page": 964
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 426,
+     "page": 402
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 429,
+     "page": 405
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 23-year-old man has a 2-month history of a painless, rubbery left supraclavicular node. He has generalised itch and the node aches after he drinks beer. He has lost 3 kg (4% of his body weight) and denies fevers or night sweats. Biopsy confirms classical Hodgkin lymphoma.",
+   "leadIn": "Which statement about his symptoms and staging is correct?",
+   "options": [
+    "His pruritus makes him category B",
+    "His alcohol-induced pain makes him category B",
+    "His weight loss makes him category B",
+    "He is category A because none of his symptoms are B symptoms",
+    "Supraclavicular involvement adds the suffix E"
+   ],
+   "answer": 3,
+   "explanation": "B symptoms are only **fever > 38°C, drenching night sweats and > 10% weight loss in 6 months**. Itch and alcohol-induced pain are classic HL features but are **not counted**, and 4% weight loss is below the threshold, so he is **A**.",
+   "whyNot": [
+    "Pruritus is a recognised HL symptom but is not a staging B symptom.",
+    "Alcohol-related nodal pain is a classic clue but does not count for staging.",
+    "Weight loss must exceed 10% within 6 months.",
+    "",
+    "E denotes contiguous extranodal disease; a supraclavicular node is nodal."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 423,
+     "page": 399
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 424,
+     "page": 400
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "You are teaching a student how the presentations of Hodgkin and non-Hodgkin lymphoma differ.",
+   "leadIn": "Which finding at presentation favours NHL over HL?",
+   "options": [
+    "A single cervical node with orderly spread to the next node group",
+    "Extranodal disease in the stomach and testis",
+    "Pain in the nodes after drinking alcohol",
+    "A large, surprisingly asymptomatic mediastinal mass in a young woman",
+    "Nodes that fluctuate in size"
+   ],
+   "answer": 1,
+   "explanation": "NHL is often **disseminated and extranodal** at diagnosis (gut, testis, thyroid, skin, marrow, brain). HL spreads contiguously and rarely goes extranodal.",
+   "whyNot": [
+    "Contiguous node-to-node spread is typical of HL.",
+    "",
+    "Alcohol-induced nodal pain is a classic HL clue.",
+    "This is typical of nodular sclerosing HL.",
+    "Fluctuating nodes are described in HL."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 984,
+     "page": 962
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 986,
+     "page": 964
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 369,
+     "page": 369
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 35-year-old man has a 2.5 cm painless, rubbery cervical node that has persisted for 6 weeks. There are no signs of infection, and a CXR is normal.",
+   "leadIn": "What is the most appropriate investigation to establish the diagnosis?",
+   "options": [
+    "Fine needle aspiration cytology of the node",
+    "Excision biopsy of the node",
+    "Bone marrow aspirate and trephine",
+    "PET-CT scan",
+    "Serum lactate dehydrogenase"
+   ],
+   "answer": 1,
+   "explanation": "Lymphoma needs a **tissue diagnosis with preserved architecture**, so excise the node for histology, immunophenotyping and molecular studies.",
+   "whyNot": [
+    "FNA loses the nodal architecture and is inadequate for diagnosing lymphoma.",
+    "",
+    "Marrow biopsy is for staging, not first diagnosis.",
+    "PET-CT stages disease and guides biopsy, but cannot give histology.",
+    "LDH is non-specific and prognostic only."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 423,
+     "page": 399
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 369,
+     "page": 369
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 883,
+     "page": 883
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 195,
+     "page": 195
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 58-year-old man with newly diagnosed stage III diffuse large B-cell lymphoma is about to start R-CHOP.",
+   "leadIn": "Which blood test is essential before the first dose of rituximab?",
+   "options": [
+    "Hepatitis B surface antigen and core antibody",
+    "Serum angiotensin-converting enzyme",
+    "Serum free light chains",
+    "Antinuclear antibody",
+    "Serum ferritin"
+   ],
+   "answer": 0,
+   "explanation": "Rituximab can **reactivate hepatitis B**, so HBsAg and anti-HBc (plus HCV and HIV) must be checked before therapy.",
+   "whyNot": [
+    "",
+    "ACE is a sarcoidosis marker with no role before rituximab.",
+    "Free light chains are used in myeloma work-up.",
+    "ANA screens for connective tissue disease, not a rituximab safety check.",
+    "Ferritin has no role in pre-rituximab screening."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s4"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 369,
+     "page": 369
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 987,
+     "page": 965
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 30-year-old woman with classical Hodgkin lymphoma has involved cervical and mediastinal nodes. PET-CT also shows splenic involvement but no other extranodal disease. She reports drenching night sweats.",
+   "leadIn": "What is her Ann Arbor stage?",
+   "options": [
+    "IIB",
+    "IIIA",
+    "IIISB",
+    "IVB",
+    "IIEB"
+   ],
+   "answer": 2,
+   "explanation": "Disease above the diaphragm plus the **spleen** (below it) = **stage III with S**. Night sweats add **B**.",
+   "whyNot": [
+    "Stage II requires all disease on one side of the diaphragm; the spleen lies below it.",
+    "Her night sweats make her B, not A.",
+    "",
+    "Stage IV needs diffuse extralymphatic disease (e.g. liver, marrow); the spleen is a lymphatic organ.",
+    "E denotes a contiguous extranodal site, and her disease spans both sides of the diaphragm."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 984,
+     "page": 962
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 424,
+     "page": 400
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A patient with advanced Hodgkin lymphoma is being scored on the Hasenclever index.",
+   "leadIn": "Which finding scores a point?",
+   "options": [
+    "Serum albumin 35 g/L",
+    "Age 40 years",
+    "Female sex",
+    "Haemoglobin 120 g/L",
+    "White cell count 10 × 10⁹/L"
+   ],
+   "answer": 0,
+   "explanation": "Points are scored for albumin **< 40 g/L**, age > 45, male sex, Hb < 105 g/L, stage IV, WCC > 15 × 10⁹/L and lymphocytes < 0.6 × 10⁹/L.",
+   "whyNot": [
+    "",
+    "Age must exceed 45 years.",
+    "Male, not female, sex scores.",
+    "Hb must be below 105 g/L.",
+    "WCC must exceed 15 × 10⁹/L."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 986,
+     "page": 964
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 26-year-old woman has stage IIA classical Hodgkin lymphoma confined to the neck. There is no bulky disease and her ESR is normal.",
+   "leadIn": "According to Davidson, what is the standard treatment?",
+   "options": [
+    "Involved-site radiotherapy alone",
+    "Two cycles of ABVD followed by 20 Gy involved-site radiotherapy",
+    "Six cycles of escalated BEACOPP",
+    "Six cycles of R-CHOP",
+    "Watch and wait"
+   ],
+   "answer": 1,
+   "explanation": "Early-stage HL **without risk factors** gets **2 × ABVD + 20 Gy** involved-site RT. Combined therapy beats RT alone.",
+   "whyNot": [
+    "Trials show combined chemo-RT outperforms RT alone in early-stage HL.",
+    "",
+    "BEACOPP is reserved for advanced disease that is PET-positive after 2 ABVD.",
+    "R-CHOP is for DLBCL, not classical HL.",
+    "Classical HL is treated with curative intent at diagnosis."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 985,
+     "page": 963
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 34-year-old man with stage IVB Hodgkin lymphoma has had two cycles of ABVD. An interim PET-CT still shows intense FDG uptake in several nodal sites.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Continue ABVD for four more cycles",
+    "Omit bleomycin and continue with AVD",
+    "Escalate to BEACOPP",
+    "Stop chemotherapy and observe",
+    "Switch to radiotherapy alone"
+   ],
+   "answer": 2,
+   "explanation": "A **positive PET-2** predicts a very high relapse risk on ABVD (only ~13% relapse-free at 2 years). Escalating to **BEACOPP** raises relapse-free survival to about 65%.",
+   "whyNot": [
+    "Continuing ABVD after a positive PET-2 gives poor results.",
+    "Dropping bleomycin is for PET-negative patients.",
+    "",
+    "Active advanced disease must be treated.",
+    "RT alone is not curative for advanced-stage HL."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 985,
+     "page": 963
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 425,
+     "page": 401
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 71-year-old man is found to have stage IIIA follicular lymphoma. He feels well. His blood count is normal, and there is no organ compression or bulky disease.",
+   "leadIn": "What is the most appropriate management?",
+   "options": [
+    "Watch and wait",
+    "Immediate R-CHOP",
+    "Autologous stem cell transplantation",
+    "Radiotherapy to all nodal sites",
+    "Ibrutinib"
+   ],
+   "answer": 0,
+   "explanation": "Low-grade NHL is **not curable** with conventional therapy, and a well patient (no symptoms, organ impairment, bulk or rapid progression) is managed expectantly. Use **watch and wait** until symptoms, cytopenias or compression develop.",
+   "whyNot": [
+    "",
+    "Chemo-immunotherapy is held until there is a treatment indication.",
+    "Autologous SCT is reserved for relapsed disease.",
+    "RT is used for rare localised stage I disease.",
+    "Ibrutinib is for relapsed mantle cell lymphoma."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 987,
+     "page": 965
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 426,
+     "page": 402
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 427,
+     "page": 403
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 63-year-old woman has dyspepsia. Endoscopic biopsy shows a low-grade marginal zone B-cell lymphoma confined to the stomach, and a urease test is positive.",
+   "leadIn": "What is the treatment of choice?",
+   "options": [
+    "_H. pylori_ eradication therapy",
+    "Partial gastrectomy",
+    "R-CHOP chemo-immunotherapy",
+    "Involved-field radiotherapy",
+    "Brentuximab vedotin"
+   ],
+   "answer": 0,
+   "explanation": "Localised low-grade **gastric MALT** lymphoma often regresses with **_H. pylori_ eradication** alone, with endoscopic re-evaluation at 6, 12 and 24 months.",
+   "whyNot": [
+    "",
+    "Surgery is rarely needed.",
+    "Chemo-immunotherapy is for persistent or transformed disease.",
+    "Low-dose RT is used if the lymphoma persists after eradication.",
+    "Brentuximab targets CD30 and is used mainly in HL."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 430,
+     "page": 406
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 304,
+     "page": 267
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 372,
+     "page": 372
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q15",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Lymphoma subtypes",
+   "leadIn": "Match each patient below with the best option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Nodular sclerosing classical Hodgkin lymphoma",
+    "Mixed cellularity classical Hodgkin lymphoma",
+    "Nodular lymphocyte-predominant Hodgkin lymphoma",
+    "Follicular lymphoma",
+    "Diffuse large B-cell lymphoma",
+    "Burkitt lymphoma",
+    "Mantle cell lymphoma",
+    "Gastric MALT lymphoma",
+    "Anaplastic large-cell lymphoma",
+    "Mycosis fungoides",
+    "Adult T-cell leukaemia/lymphoma",
+    "Primary effusion lymphoma"
+   ],
+   "items": [
+    {
+     "stem": "A 7-year-old boy from rural Uganda has a mass in his mandible that has grown visibly over 3 weeks. Biopsy shows a very high proliferation fraction, and the MYC gene is rearranged.",
+     "answer": 5,
+     "explanation": "A rapidly growing **jaw tumour** in an equatorial African child with **MYC** rearrangement is **endemic Burkitt lymphoma** (EBV-associated).",
+     "studyRef": {
+      "sectionId": "onc-lymphoma.s3"
+     }
+    },
+    {
+     "stem": "A 61-year-old woman has had slowly enlarging painless nodes at several sites for 4 years. Node histology shows a nodular pattern, and the cells overexpress an anti-apoptotic protein because of t(14;18).",
+     "answer": 3,
+     "explanation": "An indolent course, a **nodular** pattern and **t(14;18)/BCL2** mean **follicular lymphoma**.",
+     "studyRef": {
+      "sectionId": "onc-lymphoma.s2"
+     }
+    },
+    {
+     "stem": "A 70-year-old man with dyspepsia has a low-grade marginal-zone B-cell infiltrate in a gastric biopsy, and the rapid urease test is positive.",
+     "answer": 7,
+     "explanation": "A low-grade gastric lymphoma with _H. pylori_ infection is **gastric MALT lymphoma**.",
+     "studyRef": {
+      "sectionId": "onc-lymphoma.s2"
+     }
+    },
+    {
+     "stem": "A 57-year-old man has had itchy, eczema-like patches for years that have now spread to cover almost all his skin. Skin biopsy shows infiltrating atypical T cells, and the blood film is normal.",
+     "answer": 9,
+     "explanation": "Eczematoid lesions progressing to erythroderma from a skin-based **T-cell** lymphoma, without blood involvement, is **mycosis fungoides** (Sézary syndrome adds circulating cells).",
+     "studyRef": {
+      "sectionId": "onc-lymphoma.s2"
+     }
+    },
+    {
+     "stem": "A 38-year-old man with advanced HIV develops a large pleural effusion. Cytology shows malignant lymphoid cells infected with human herpesvirus 8 (HHV-8). Imaging shows no solid mass.",
+     "answer": 11,
+     "explanation": "**HHV-8** is the virus linked with **primary effusion lymphoma**, which fits a malignant lymphomatous effusion with no solid mass.",
+     "studyRef": {
+      "sectionId": "onc-lymphoma.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 986,
+     "page": 964
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 426,
+     "page": 402
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 428,
+     "page": 404
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 430,
+     "page": 406
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 882,
+     "page": 882
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 883,
+     "page": 883
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 19-year-old man has sporadic Burkitt lymphoma with bulky abdominal disease. Before chemotherapy his serum urate is very high and his creatinine is at the upper limit of normal.",
+   "leadIn": "Which measure is most important as treatment starts?",
+   "options": [
+    "Rasburicase prophylaxis with very frequent potassium and phosphate monitoring for at least 72 hours",
+    "Start allopurinol only after the first cycle has finished",
+    "Delay chemotherapy for 4 weeks until the urate normalises",
+    "Oral potassium supplements to prevent hypokalaemia",
+    "Fluid restriction to reduce tumour oedema"
+   ],
+   "answer": 0,
+   "explanation": "Burkitt is the fastest-growing lymphoma, and its cells break down rapidly on treatment (**tumour lysis**). Give **rasburicase** and check potassium and phosphate very frequently for ≥ 72 h.",
+   "whyNot": [
+    "",
+    "Prophylaxis must start before cytotoxic therapy, not after.",
+    "Burkitt progresses too quickly to delay treatment.",
+    "Tumour lysis causes hyperkalaemia, so potassium supplements are dangerous.",
+    "Fluid restriction worsens urate nephropathy; hydration is needed."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 428,
+     "page": 404
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 987,
+     "page": 965
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 74-year-old man with stage IV diffuse large B-cell lymphoma has severe left ventricular systolic dysfunction on echocardiography.",
+   "leadIn": "Which regimen is preferred?",
+   "options": [
+    "R-CHOP at full dose",
+    "R-GCVP",
+    "ABVD",
+    "Oral chlorambucil",
+    "Escalated BEACOPP"
+   ],
+   "answer": 1,
+   "explanation": "In cardiac impairment, **R-GCVP** replaces the anthracycline doxorubicin with **gemcitabine**.",
+   "whyNot": [
+    "The doxorubicin in CHOP is cardiotoxic.",
+    "",
+    "ABVD is an HL regimen and also contains doxorubicin.",
+    "Chlorambucil is a palliative oral drug for low-grade disease.",
+    "BEACOPP is an intensive HL regimen with an anthracycline."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 428,
+     "page": 404
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q18",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 38-year-old woman was treated at 19 for Hodgkin lymphoma with chemotherapy and mediastinal radiotherapy. She is now well and in long-term follow-up.",
+   "leadIn": "Which surveillance is most specifically indicated by her treatment history?",
+   "options": [
+    "Entry to a breast cancer screening programme",
+    "Annual serum PSA",
+    "Annual bone marrow examination",
+    "Yearly upper GI endoscopy",
+    "Annual stool for occult blood from age 25"
+   ],
+   "answer": 0,
+   "explanation": "Young women given **chest irradiation** have a raised **breast cancer** risk and should take part in screening. Neck RT also warrants annual TSH.",
+   "whyNot": [
+    "",
+    "PSA is irrelevant in a woman.",
+    "Routine marrow biopsy is not used for surveillance.",
+    "There is no specific gastric risk from mediastinal RT.",
+    "Colorectal screening is not specifically indicated by HL treatment."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 985,
+     "page": 963
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 371,
+     "page": 371
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q19",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "A 52-year-old man has stage II diffuse large B-cell lymphoma with one extranodal site. His LDH is normal and he is fully active (ECOG 0).",
+   "leadIn": "Which new finding would move him into a higher IPI risk group?",
+   "options": [
+    "Serum LDH above the upper limit of normal",
+    "B-cell rather than T-cell lineage",
+    "Involvement of cervical rather than axillary nodes",
+    "Haemoglobin of 130 g/L",
+    "Absence of B symptoms"
+   ],
+   "answer": 0,
+   "explanation": "The IPI scores **age > 60, stage III–IV, > 1 extranodal site, raised LDH and poor performance status**. A raised LDH would add a point.",
+   "whyNot": [
+    "",
+    "Lineage is not an IPI factor.",
+    "The specific node group is not scored.",
+    "Normal Hb is not an IPI factor (Hb is in FLIPI, and there it counts when < 120 g/L).",
+    "B symptoms are not in the IPI."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 988,
+     "page": 966
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 373,
+     "page": 373
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q20",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 50-year-old man has stage IVB classical Hodgkin lymphoma. Results: albumin 36 g/L, Hb 110 g/L, WCC 12 × 10⁹/L, lymphocytes 0.8 × 10⁹/L.",
+   "leadIn": "What is his Hasenclever score?",
+   "options": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "answer": 2,
+   "explanation": "Work through all seven factors in turn. **Age > 45:** yes (1). **Male:** yes (2). **Albumin < 40 g/L:** 36, yes (3). **Hb < 105 g/L:** 110, no. **Stage IV:** yes (4). **WCC > 15:** 12, no. **Lymphocytes < 0.6:** 0.8, no. The total is **4**. The trap is scoring the \"nearly abnormal\" Hb and lymphocyte values; each cut-off is strict.",
+   "whyNot": [
+    "This misses at least two of age, sex, albumin and stage.",
+    "This misses one positive factor, usually albumin or stage IV.",
+    "",
+    "This wrongly scores Hb 110 or lymphocytes 0.8, neither of which crosses its threshold.",
+    "This wrongly scores both borderline values."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 986,
+     "page": 964
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q21",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 21-year-old woman has a 6-week dry cough and mild breathlessness. CXR shows an anterior mediastinal mass. On examination she has a 3 cm rubbery right supraclavicular node.",
+   "leadIn": "What is the most appropriate next step to make the diagnosis?",
+   "options": [
+    "Excision biopsy of the supraclavicular node",
+    "Fine needle aspiration of the supraclavicular node",
+    "A trial of oral corticosteroids",
+    "Sputum cytology",
+    "Bone marrow aspirate"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: a young woman with a mediastinal mass, cough and a rubbery node suggests **nodular sclerosing HL** (or another lymphoma). Step 2: lymphoma needs **architecture-preserving histology**. Step 3: choose the most accessible involved tissue, the **supraclavicular node**, rather than a mediastinal procedure. Excise it for histology, immunophenotyping and molecular work.",
+   "whyNot": [
+    "",
+    "FNA cannot assess nodal architecture.",
+    "Steroids can shrink lymphoma and spoil the histology; treatment comes after diagnosis.",
+    "Sputum cytology does not sample a nodal mass.",
+    "Marrow biopsy stages disease but rarely makes the first diagnosis."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 423,
+     "page": 399
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 984,
+     "page": 962
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 369,
+     "page": 369
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q22",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 41-year-old man with HIV, not on treatment, has a CD4 count of 30 cells/µL. He is diagnosed with advanced diffuse large B-cell lymphoma.",
+   "leadIn": "Which treatment approach is most appropriate?",
+   "options": [
+    "R-CHOP while stopping antiretroviral drugs",
+    "CHOP-based chemotherapy with concurrent antiretroviral therapy, omitting rituximab",
+    "Watch and wait until the CD4 count recovers",
+    "Rituximab monotherapy",
+    "Radiotherapy alone"
+   ],
+   "answer": 1,
+   "explanation": "Step 1: HIV-related NHL is treated with curative intent, much like disease in HIV-negative patients. Step 2: **giving antiretroviral therapy alongside chemotherapy** improves survival. Step 3: with **CD4 < 50**, rituximab raises the risk of death from infection, so leave it out. The answer is CHOP-based chemotherapy with concurrent antiretroviral therapy.",
+   "whyNot": [
+    "Stopping antiretrovirals removes their survival benefit, and rituximab is risky at CD4 < 50.",
+    "",
+    "DLBCL is rapidly fatal if untreated.",
+    "Single-agent rituximab is inadequate for DLBCL and risky at this CD4 count.",
+    "RT alone does not treat advanced disease."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s7"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 374,
+     "page": 374
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 428,
+     "page": 404
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q23",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Treatment of lymphoma",
+   "leadIn": "Match each patient below with the best option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Two cycles of ABVD + 20 Gy involved-site radiotherapy",
+    "Four cycles of ABVD + 30 Gy involved-site radiotherapy",
+    "Escalation to BEACOPP",
+    "Salvage chemotherapy then high-dose autologous stem cell transplant",
+    "Brentuximab vedotin",
+    "Watch and wait",
+    "Six cycles of R-CHOP",
+    "_H. pylori_ eradication therapy",
+    "Intensive high-dose cyclophosphamide/methotrexate/cytarabine with CNS prophylaxis",
+    "Ibrutinib",
+    "CHOP-type chemotherapy without rituximab",
+    "Involved-site radiotherapy alone"
+   ],
+   "items": [
+    {
+     "stem": "A 73-year-old woman has asymptomatic stage IIIA follicular lymphoma with normal blood counts and no compressive disease.",
+     "answer": 5,
+     "explanation": "Asymptomatic advanced low-grade NHL: **watch and wait**.",
+     "studyRef": {
+      "sectionId": "onc-lymphoma.s7"
+     }
+    },
+    {
+     "stem": "A 24-year-old man has stage IIA classical Hodgkin lymphoma with an 11 cm mediastinal mass.",
+     "answer": 1,
+     "explanation": "Two steps: a mass > 10 cm is **bulk**, a risk factor, so early-stage disease gets **4 × ABVD + 30 Gy**.",
+     "studyRef": {
+      "sectionId": "onc-lymphoma.s6"
+     }
+    },
+    {
+     "stem": "A 33-year-old woman relapses with Hodgkin lymphoma 18 months after completing ABVD. She is fit.",
+     "answer": 3,
+     "explanation": "Relapsed HL is treated with **salvage chemotherapy** aiming for PET-negative remission, then a **BEAM autograft**.",
+     "studyRef": {
+      "sectionId": "onc-lymphoma.s6"
+     }
+    },
+    {
+     "stem": "A 67-year-old man with mantle cell lymphoma relapses after chemo-immunotherapy.",
+     "answer": 9,
+     "explanation": "The **BTK inhibitor ibrutinib** is approved for relapsed mantle cell lymphoma.",
+     "studyRef": {
+      "sectionId": "onc-lymphoma.s7"
+     }
+    },
+    {
+     "stem": "A 60-year-old man has stage IV peripheral T-cell lymphoma, not otherwise specified.",
+     "answer": 10,
+     "explanation": "T cells do not express **CD20**, so treat with DLBCL-type combination chemotherapy **without rituximab**.",
+     "studyRef": {
+      "sectionId": "onc-lymphoma.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 985,
+     "page": 963
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 987,
+     "page": 965
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 425,
+     "page": 401
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 429,
+     "page": 405
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 430,
+     "page": 406
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q24",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 29-year-old man has newly diagnosed classical Hodgkin lymphoma, and his baseline full blood count is reviewed.",
+   "leadIn": "Which finding is a poor prognostic factor?",
+   "options": [
+    "Lymphopenia",
+    "Eosinophilia",
+    "Neutrophilia",
+    "Normal haemoglobin",
+    "Normal platelet count"
+   ],
+   "answer": 0,
+   "explanation": "In HL, a **normocytic anaemia or lymphopenia** carries a worse prognosis. Lymphopenia < 0.6 × 10⁹/L is also a Hasenclever factor.",
+   "whyNot": [
+    "",
+    "Eosinophilia may occur in HL but is not listed as adverse.",
+    "Neutrophilia may be seen but is not a listed adverse factor.",
+    "A normal Hb is not adverse; anaemia is.",
+    "A normal platelet count carries no adverse weight."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 984,
+     "page": 962
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 986,
+     "page": 964
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q25",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 59-year-old man has stage IV diffuse large B-cell lymphoma involving the testis. His LDH is raised.",
+   "leadIn": "In addition to R-CHOP, what should he receive?",
+   "options": [
+    "Intrathecal or high-dose methotrexate as CNS prophylaxis",
+    "Prophylactic cranial irradiation",
+    "Brentuximab vedotin",
+    "Two years of rituximab maintenance",
+    "No additional therapy"
+   ],
+   "answer": 0,
+   "explanation": "Testicular, breast or epidural disease, or a high LDH with > 2 extranodal sites, carries a **high CNS relapse risk**. Give **intrathecal or high-dose methotrexate**.",
+   "whyNot": [
+    "",
+    "Cranial RT is not the recommended prophylaxis here.",
+    "Brentuximab targets CD30 and has no role in standard DLBCL CNS prophylaxis.",
+    "Rituximab maintenance is not CNS prophylaxis; the CNS-directed options are intrathecal methotrexate or high-dose methotrexate, which crosses the blood–brain barrier.",
+    "Testicular involvement is a recognised indication for CNS prophylaxis."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 428,
+     "page": 404
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 373,
+     "page": 373
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q26",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 3,
+   "stem": "A 64-year-old woman has a thyroid mass from diffuse large B-cell lymphoma, with involved nodes in the adjacent neck. There is no disease below the diaphragm.",
+   "leadIn": "What is her Ann Arbor stage?",
+   "options": [
+    "I",
+    "IE",
+    "IIE",
+    "III",
+    "IV"
+   ],
+   "answer": 2,
+   "explanation": "An **extralymphatic site plus lymph node regions on the same side** of the diaphragm is **IIE**.",
+   "whyNot": [
+    "Stage I covers a single node region only.",
+    "IE is a single extralymphatic site without node involvement.",
+    "",
+    "Stage III needs disease on both sides of the diaphragm.",
+    "Stage IV means diffuse extralymphatic disease, not one localised contiguous site."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 984,
+     "page": 962
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 424,
+     "page": 400
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q27",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A 31-year-old man with classical Hodgkin lymphoma relapses after an autologous stem cell transplant. His team plans an antibody–drug conjugate.",
+   "leadIn": "Which antigen does this drug target?",
+   "options": [
+    "CD20",
+    "CD30",
+    "CD19",
+    "CD15",
+    "PD-1"
+   ],
+   "answer": 1,
+   "explanation": "**Brentuximab vedotin** binds **CD30** on Reed–Sternberg cells and releases monomethyl auristatin E inside them.",
+   "whyNot": [
+    "CD20 is the rituximab target; classical RS cells are usually CD20-negative.",
+    "",
+    "CD19 is a B-cell antigen, but it is not the target of brentuximab vedotin.",
+    "CD15 is a diagnostic marker of RS cells but not a drug target.",
+    "PD-1 is blocked by pembrolizumab or nivolumab, which are antibodies, not drug conjugates."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 986,
+     "page": 964
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 370,
+     "page": 370
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q28",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 3,
+   "stem": "A 66-year-old man has had follicular lymphoma on watch and wait for 6 years. Over 3 weeks one abdominal node has grown rapidly. He has night sweats, and his LDH has risen sharply.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Re-biopsy the rapidly enlarging node",
+    "Lengthen the follow-up interval",
+    "Start rituximab maintenance",
+    "Test for _H. pylori_",
+    "Repeat the blood count in 3 months"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: sudden growth, B symptoms and a rising LDH in follicular lymphoma suggest **transformation to DLBCL** (~3% per year). Step 2: transformation is proven histologically, so **re-biopsy** before choosing aggressive treatment.",
+   "whyNot": [
+    "",
+    "This picture needs urgent assessment, not less follow-up.",
+    "Maintenance does not treat a transformed high-grade lymphoma.",
+    "This is not gastric MALT lymphoma.",
+    "Waiting risks progression of a high-grade lymphoma."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 988,
+     "page": 966
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 426,
+     "page": 402
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 427,
+     "page": 403
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q29",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A 25-year-old woman asks whether anything in her past increases her risk of Hodgkin lymphoma.",
+   "leadIn": "Which history is most clearly associated with a higher risk of Hodgkin lymphoma?",
+   "options": [
+    "Previous infectious mononucleosis",
+    "_Helicobacter pylori_ gastritis",
+    "HTLV-1 infection",
+    "Chronic hepatitis C",
+    "Ocular _Chlamydia psittaci_ infection"
+   ],
+   "answer": 0,
+   "explanation": "A past history of **infectious mononucleosis** makes HL about **three times** more likely, though EBV has not been proven causal.",
+   "whyNot": [
+    "",
+    "_H. pylori_ is linked with gastric MALT lymphoma.",
+    "HTLV-1 causes adult T-cell leukaemia/lymphoma.",
+    "Hepatitis C is a risk factor for NHL.",
+    "_C. psittaci_ is linked with ocular MALT lymphoma."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 984,
+     "page": 962
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 423,
+     "page": 399
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 196,
+     "page": 196
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q30",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 1,
+   "stem": "A 6-year-old girl from Malawi has a rapidly enlarging tumour of the jaw. Biopsy shows sheets of medium-sized B cells with a very high proliferation rate, and the tumour is EBV-positive.",
+   "leadIn": "Which cytogenetic abnormality is most likely?",
+   "options": [
+    "t(8;14)",
+    "t(14;18)",
+    "t(11;14)",
+    "t(2;5)",
+    "t(11;18)"
+   ],
+   "answer": 0,
+   "explanation": "This is **endemic Burkitt lymphoma**, defined by **t(8;14)**, which moves MYC next to the IGH locus.",
+   "whyNot": [
+    "",
+    "t(14;18) is the follicular lymphoma translocation.",
+    "t(11;14) is typical of mantle cell lymphoma.",
+    "t(2;5) is typical of anaplastic large-cell lymphoma.",
+    "t(11;18) occurs in MALT lymphoma."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 986,
+     "page": 964
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 426,
+     "page": 402
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 428,
+     "page": 404
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q31",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 25-year-old man is on his fourth cycle of ABVD for Hodgkin lymphoma. He develops a dry cough and exertional breathlessness, and lung function shows a reduced transfer factor.",
+   "leadIn": "Which drug is most likely responsible?",
+   "options": [
+    "Doxorubicin",
+    "Bleomycin",
+    "Vinblastine",
+    "Dacarbazine",
+    "Procarbazine"
+   ],
+   "answer": 1,
+   "explanation": "**Bleomycin** causes the pulmonary toxicity of ABVD, which is why it is dropped (AVD) when interim PET is negative.",
+   "whyNot": [
+    "Doxorubicin causes cardiac toxicity.",
+    "",
+    "Vinblastine is not the recognised cause of ABVD lung toxicity.",
+    "Dacarbazine is not the lung-toxic component.",
+    "Procarbazine is part of BEACOPP, not ABVD."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 985,
+     "page": 963
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q32",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 30-year-old man has a single enlarged cervical node. Biopsy shows a nodular infiltrate with scattered large \"popcorn\" cells that are strongly **CD20-positive** and negative for CD15 and CD30.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Nodular lymphocyte-predominant Hodgkin lymphoma",
+    "Nodular sclerosing classical Hodgkin lymphoma",
+    "Mixed cellularity classical Hodgkin lymphoma",
+    "Lymphocyte-rich classical Hodgkin lymphoma",
+    "Burkitt lymphoma"
+   ],
+   "answer": 0,
+   "explanation": "CD20+ **popcorn** cells without the classical CD15/CD30 profile define **NLPHL**, a non-classical HL that behaves like low-grade B-cell NHL.",
+   "whyNot": [
+    "",
+    "Classical subtypes have CD15+/CD30+ RS cells.",
+    "Classical subtypes have CD15+/CD30+ RS cells.",
+    "Lymphocyte-rich HL is a classical subtype with CD15+/CD30+ cells.",
+    "Burkitt is a high-grade lymphoma of monotonous medium-sized cells, not popcorn cells."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 983,
+     "page": 961
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 423,
+     "page": 399
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 370,
+     "page": 370
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q33",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 27-year-old woman finishes six cycles of ABVD for advanced Hodgkin lymphoma. CT shows a 4 cm residual mediastinal mass, but PET shows **no FDG uptake** in it.",
+   "leadIn": "What does this finding most likely represent?",
+   "options": [
+    "Inactive fibrotic or necrotic residue consistent with complete metabolic response",
+    "Active lymphoma needing escalation to BEACOPP",
+    "Transformation to non-Hodgkin lymphoma",
+    "Mediastinal tuberculosis",
+    "A radiation-induced second cancer"
+   ],
+   "answer": 0,
+   "explanation": "PET separates **active tumour (avid)** from **fibrosis or necrosis (non-avid)**. A PET-negative residual mass is a complete metabolic response, and radiotherapy can often be omitted.",
+   "whyNot": [
+    "",
+    "Escalation is for FDG-avid (PET-positive) disease.",
+    "Nothing suggests a new high-grade process, and the mass is metabolically inactive.",
+    "There are no features of infection, and active TB would usually be FDG-avid.",
+    "She has had no radiotherapy and is just finishing treatment."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s4"
+   },
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 303,
+     "page": 266
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 985,
+     "page": 963,
+     "figure": "Fig. 23.27"
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q34",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 52-year-old woman with long-standing Sjögren syndrome develops a progressively enlarging, painless parotid swelling. Biopsy shows a low-grade B-cell infiltrate arising in mucosa-associated lymphoid tissue.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "MALT (extranodal marginal zone) lymphoma",
+    "Burkitt lymphoma",
+    "Nodular sclerosing Hodgkin lymphoma",
+    "Mantle cell lymphoma",
+    "Mycosis fungoides"
+   ],
+   "answer": 0,
+   "explanation": "Chronic autoimmune inflammation of the salivary glands (Sjögren) predisposes to **MALT lymphoma** of the salivary gland.",
+   "whyNot": [
+    "",
+    "Burkitt is high-grade, with jaw or abdominal masses in the young.",
+    "HL presents with nodal disease and Reed–Sternberg cells.",
+    "Mantle cell lymphoma presents with generalised nodes, marrow and blood involvement in older men.",
+    "Mycosis fungoides is a cutaneous T-cell lymphoma."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 430,
+     "page": 406
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 881,
+     "page": 881
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q35",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 28-year-old man with newly diagnosed classical Hodgkin lymphoma has a baseline PET-CT for staging.",
+   "leadIn": "Which staging investigation can usually be omitted when PET-CT is used?",
+   "options": [
+    "Bone marrow biopsy",
+    "Full blood count",
+    "Serum LDH",
+    "HIV test",
+    "Echocardiogram before ABVD"
+   ],
+   "answer": 0,
+   "explanation": "PET-CT assesses marrow involvement well enough that **marrow biopsy is needed only if PET is not used** for marrow staging.",
+   "whyNot": [
+    "",
+    "FBC is part of every lymphoma work-up and has prognostic value.",
+    "LDH is an adverse prognostic marker and is always checked.",
+    "HIV status affects treatment decisions and is routinely tested.",
+    "Cardiac function is checked before anthracycline-containing chemotherapy."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 423,
+     "page": 399
+    }
+   ]
+  },
+  {
+   "id": "onc-lymphoma.q36",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 3,
+   "stem": "A 36-year-old man with HIV and a CD4 count of 25 cells/µL develops headache and confusion. MRI shows an enhancing periventricular mass. Brain biopsy shows a diffuse large B-cell lymphoma, and EBV is detected in the tumour.",
+   "leadIn": "What is the most appropriate treatment?",
+   "options": [
+    "High-dose methotrexate-based chemotherapy with steroids",
+    "ABVD",
+    "Standard R-CHOP",
+    "Watch and wait",
+    "Anti-toxoplasma therapy alone"
+   ],
+   "answer": 0,
+   "explanation": "This is **primary CNS lymphoma** (very low CD4, EBV-driven). It is treated with a **high-dose methotrexate**-based regimen, which crosses the blood–brain barrier, plus steroids ± RT.",
+   "whyNot": [
+    "",
+    "ABVD is a Hodgkin regimen.",
+    "CHOP drugs penetrate the CNS poorly.",
+    "PCNSL is rapidly fatal if untreated.",
+    "The biopsy has already shown lymphoma rather than toxoplasmosis."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lymphoma.s7"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 374,
+     "page": 374
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 430,
+     "page": 406
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "onc-lymphoma.o1",
+   "sectionId": "onc-lymphoma.s2",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 984,
+    "page": 962,
+    "figure": "Fig. 23.26"
+   },
+   "identify": "**Reed–Sternberg cell**: large binucleate cell with prominent eosinophilic nucleoli (\"owl's eyes\") among reactive small lymphocytes. Diagnosis: **Hodgkin lymphoma**."
+  },
+  {
+   "id": "onc-lymphoma.o2",
+   "sectionId": "onc-lymphoma.s2",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 423,
+    "page": 399,
+    "figure": "Fig. 17.14"
+   },
+   "identify": "Classical HL histology: scattered mononuclear Hodgkin cells and a binucleate Reed–Sternberg cell in a background of benign lymphocytes and histiocytes."
+  },
+  {
+   "id": "onc-lymphoma.o3",
+   "sectionId": "onc-lymphoma.s2",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 987,
+    "page": 965,
+    "figure": "Fig. 23.29"
+   },
+   "identify": "NHL architecture: a **follicular/nodular** pattern means **low grade**, and diffuse effacement means **high grade**."
+  },
+  {
+   "id": "onc-lymphoma.o4",
+   "sectionId": "onc-lymphoma.s3",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 424,
+    "page": 400,
+    "figure": "Fig. 17.15"
+   },
+   "identify": "CXR: **mediastinal mass** (widened mediastinum) from Hodgkin lymphoma. Think of a young woman with nodular sclerosing HL and cough."
+  },
+  {
+   "id": "onc-lymphoma.o5",
+   "sectionId": "onc-lymphoma.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 985,
+    "page": 963,
+    "figure": "Fig. 23.27"
+   },
+   "identify": "Anterior mediastinal mass deviating the trachea. PET-CT is **FDG-avid** at diagnosis and **PET-negative** (complete metabolic response) after treatment."
+  },
+  {
+   "id": "onc-lymphoma.o6",
+   "sectionId": "onc-lymphoma.s3",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 987,
+    "page": 965,
+    "figure": "Fig. 23.30"
+   },
+   "identify": "**Bulky axillary lymphadenopathy** with distended superficial veins: high-grade NHL."
+  },
+  {
+   "id": "onc-lymphoma.o7",
+   "sectionId": "onc-lymphoma.s3",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 429,
+    "page": 405,
+    "figure": "Fig. 17.20"
+   },
+   "identify": "Child with jaw/facial swelling: **endemic Burkitt lymphoma** (EBV, malaria belt, t(8;14))."
+  },
+  {
+   "id": "onc-lymphoma.o8",
+   "sectionId": "onc-lymphoma.s4",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 429,
+    "page": 405,
+    "figure": "Fig. 17.21"
+   },
+   "identify": "Blood film of **mantle cell lymphoma** cells that can mimic CLL. Confirm by immunophenotyping/cytogenetics (t(11;14), cyclin D1)."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:30:09.568Z",
+  "contentHash": "cf67104bac733759be514d2a50dd17490ed07314ffc052586a4834d5ae148a6c"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:30:09.579Z",
+  "contentHash": "cf67104bac733759be514d2a50dd17490ed07314ffc052586a4834d5ae148a6c",
+  "checkerVersion": "source-check-v1"
+ }
+}

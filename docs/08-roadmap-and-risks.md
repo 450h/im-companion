@@ -1,5 +1,11 @@
 # 08 — Roadmap, testing & risks
 
+> **Delivery status (2026-10-22):** the owner asked for everything through v0.5.0 at once. All app features were built and **all 90 topics** were generated on 21–22 Oct by parallel agent workflows. Each topic had two scanners and a consolidator (owner's 3-agent pattern), plus an independent source-check (ADR-0009). So the weekly streaming plan below was compressed into two releases:
+> - **v0.1.0** (21 Oct, 23 topics)
+> - **v0.5.0** (all content)
+>
+> Later releases are for corrections from ⚑ reports. The plan engine still shows ⏳ pending for any topic missing from a student's installed version.
+
 _Revised 2026-10-21 after QA review: release cadence (N9, N11), the core loop in v0.1.0 (B1), golden tests (B6)._
 
 ## 1. Principles

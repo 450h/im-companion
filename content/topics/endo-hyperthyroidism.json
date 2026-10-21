@@ -1,0 +1,3419 @@
+{
+ "topicId": "endo-hyperthyroidism",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "endo-hyperthyroidism.s1",
+   "title": "Definition, epidemiology & pathophysiology",
+   "objectiveIdx": [
+    0,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Thyrotoxicosis** is the clinical syndrome caused by too much circulating thyroid hormone, whatever its source. **Hyperthyroidism**, used strictly, means the thyroid gland itself is overproducing hormone. _Primary_ disease starts in the gland; _secondary_ disease is driven by excess TSH from the pituitary or hypothalamus.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 657,
+       "page": 635
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 49,
+       "page": 49
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Terminology varies between books. Zero to Finals separates the two terms (thyrotoxicosis = any hormone excess, e.g. thyroiditis or tablets; hyperthyroidism = gland overactivity), while Step-Up uses them interchangeably. Davidson presents them together as one clinical state. In an SBA, a \"hyperthyroid\" patient may still have a low-uptake (non-overactive gland) cause.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 49,
+       "page": 49
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 457,
+       "page": 457
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 657,
+       "page": 635
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Epidemiology",
+     "items": [
+      "Affects about **2–5% of women** at some time in life; female:male about **5:1**; usually presents at **20–40 years**.",
+      "More than 99% of cases come from disease of the thyroid itself; pituitary (TSH-driven) causes are very rare."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 636,
+       "page": 614
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 661,
+       "page": 624
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Physiology that explains the tests",
+     "items": [
+      "The gland secretes mostly **T4** (a prohormone, half-life about 1 week) and little **T3** (half-life about 18 h); roughly **85% of circulating T3** is made from T4 by peripheral deiodinases.",
+      "Over 99% of T4/T3 is protein-bound, mainly to **TBG**; only the free fraction acts on tissues.",
+      "TSH and free T4 have an **inverse log-linear** relationship, so TSH is the most sensitive single test of thyroid status.",
+      "TSH lags behind changes in T4/T3 by **4–6 weeks**, and it misleads in pituitary disease."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 656,
+       "page": 634
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Mechanisms of thyrotoxicosis",
+     "columns": [
+      "Mechanism",
+      "Example",
+      "Isotope uptake"
+     ],
+     "rows": [
+      [
+       "IgG antibodies (TRAb) switch on the TSH receptor; every follicle overworks and the gland grows",
+       "Graves' disease",
+       "High, diffuse"
+      ],
+      [
+       "Nodules secrete hormone autonomously; TSH falls and the rest of the gland atrophies",
+       "Toxic multinodular goitre, toxic adenoma",
+       "Patchy or single hot spot"
+      ],
+      [
+       "Inflamed follicles leak stored colloid hormone; new synthesis is impaired",
+       "Subacute, painless or post-partum thyroiditis",
+       "Negligible"
+      ],
+      [
+       "Iodine load in a predisposed gland (Jod–Basedow effect)",
+       "Contrast media, amiodarone type I",
+       "Low (iodine-saturated)"
+      ],
+      [
+       "Hormone from outside the thyroid",
+       "Factitious T4 ingestion, struma ovarii",
+       "Negligible"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 665,
+       "page": 643
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 668,
+       "page": 646
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 669,
+       "page": 647
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 450,
+       "page": 450
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 453,
+       "page": 453
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 658,
+       "page": 636
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Graves' disease: why it happens",
+     "items": [
+      "Strong genetic component: thyrotoxicosis concordance about **50% in identical twins vs 5% in non-identical twins**; risk loci include MHC, CTLA4, PTPN22, TSHR and FCRL3.",
+      "Proposed trigger: gut bacteria (_Yersinia enterocolitica_, some _E. coli_) carry TSH-receptor-like antigens, so cross-reacting antibodies may arise (molecular mimicry).",
+      "TRAb are found in **80–95%** of patients with Graves' disease.",
+      "**Smoking** has only a weak link with Graves' thyrotoxicosis but a strong link with the eye disease."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 665,
+       "page": 643
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 666,
+       "page": 644
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Graves' ophthalmopathy:** cytokines make orbital fibroblasts multiply and secrete water-attracting glycosaminoglycans. Together with an inflammatory infiltrate, this swells and later scars the extraocular muscles, raises pressure behind the globe and pushes the eye forward (proptosis). Severe cases compress the optic nerve. Pretibial myxoedema is the same process in the skin of the shin.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 667,
+       "page": 645
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 668,
+       "page": 646
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 664,
+       "page": 627
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 49,
+       "page": 49
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Iodine and the thyroid",
+     "items": [
+      "**Wolff–Chaikoff effect:** a large iodine load acutely blocks hormone synthesis and release; it lasts about 10 days, then the gland \"escapes\". This is why iodine is used in thyroid storm and before surgery.",
+      "**Jod–Basedow effect:** iodine (contrast, expectorants, supplementation) provokes thyrotoxicosis in a gland already prone to it, such as a multinodular goitre or Graves' in remission."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 669,
+       "page": 647
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Think of isotope uptake as a measure of _new_ hormone production: **high uptake = the gland is making hormone** (Graves', nodules); **low uptake = hormone is leaking from damaged follicles or coming from outside the gland** (thyroiditis, factitious).",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 453,
+       "page": 453
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 659,
+       "page": 637
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 665,
+      "page": 643,
+      "figure": "Fig. 18.7"
+     },
+     "note": "Natural history of Graves' thyrotoxicosis: most patients have fluctuating disease or relapses; only a minority have a single episode followed by remission."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 668,
+      "page": 646,
+      "figure": "Fig. 18.9"
+     },
+     "note": "Transient thyroiditis TFT time course: a thyrotoxic phase, then a hypothyroid phase, then recovery over about 6 months."
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.s2",
+   "title": "Causes of thyrotoxicosis",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Causes and relative frequency (Davidson, Edinburgh series)",
+     "columns": [
+      "Cause",
+      "Share of cases",
+      "Key clue"
+     ],
+     "rows": [
+      [
+       "Graves' disease",
+       "76%",
+       "Diffuse goitre with bruit, eye disease, TRAb positive"
+      ],
+      [
+       "Toxic multinodular goitre",
+       "14%",
+       "Older patient, irregular nodular gland"
+      ],
+      [
+       "Solitary toxic adenoma",
+       "5%",
+       "Single nodule, usually > 3 cm"
+      ],
+      [
+       "Subacute (de Quervain's) thyroiditis",
+       "3%",
+       "Painful tender gland after a viral illness, high ESR"
+      ],
+      [
+       "Amiodarone",
+       "1%",
+       "Drug history"
+      ],
+      [
+       "Post-partum thyroiditis",
+       "0.5%",
+       "Within 12 months of delivery"
+      ],
+      [
+       "Factitious (surreptitious T4)",
+       "0.2%",
+       "No goitre, low thyroglobulin"
+      ],
+      [
+       "TSH-secreting pituitary adenoma",
+       "0.2%",
+       "TSH raised, not suppressed"
+      ],
+      [
+       "Follicular carcinoma ± metastases",
+       "0.1%",
+       "Known thyroid cancer"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 658,
+       "page": 636
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 659,
+       "page": 637
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 668,
+       "page": 646
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 671,
+       "page": 649
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Rare causes worth knowing",
+     "items": [
+      "**Struma ovarii:** an ovarian teratoma containing functioning thyroid tissue.",
+      "**hCG-driven:** hydatidiform mole or choriocarcinoma (hCG stimulates the TSH receptor); also gestational thyrotoxicosis in early pregnancy.",
+      "**Neonatal thyrotoxicosis** from maternal TRAb crossing the placenta.",
+      "**Iodine:** radiographic contrast media and iodine supplementation programmes.",
+      "**Immune checkpoint inhibitors** (ipilimumab, nivolumab, pembrolizumab) causing thyroiditis."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 658,
+       "page": 636
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 636,
+       "page": 614
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 483,
+       "page": 483
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Nodular causes",
+     "items": [
+      "**Toxic multinodular goitre:** develops from a long-standing simple goitre; nodules work autonomously and fully suppress TSH in about a quarter of cases, often with T4/T3 still in range (subclinical) but sometimes overtly toxic. Mostly older women; the commonest cause in old age.",
+      "**Toxic adenoma:** an autonomous follicular adenoma, usually > 3 cm, mostly in women over 40. TSH suppression makes the rest of the gland atrophy. Thyrotoxicosis is usually mild, and in almost half only **T3** is raised."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 670,
+       "page": 648
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 671,
+       "page": 649
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 672,
+       "page": 650
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 661,
+       "page": 624
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Thyroiditis (destructive, low-uptake) causes",
+     "items": [
+      "**Subacute (de Quervain's):** follows Coxsackie, mumps or adenovirus infection; usually women aged 20–40.",
+      "**Painless thyroiditis:** after viral illness, with underlying autoimmune disease, or triggered by interferon-α or lithium.",
+      "**Post-partum thyroiditis:** within 6 months of delivery in women with anti-TPO antibodies.",
+      "All follow the same triphasic course: thyrotoxic, then hypothyroid, then usually back to normal."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 668,
+       "page": 646
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 669,
+       "page": 647
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 485,
+       "page": 485
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Amiodarone-induced thyrotoxicosis (each 200 mg tablet carries 75 mg iodine)",
+     "columns": [
+      "Feature",
+      "Type I",
+      "Type II"
+     ],
+     "rows": [
+      [
+       "Mechanism",
+       "Iodine fuels excess synthesis (Jod–Basedow)",
+       "Direct toxic damage: destructive thyroiditis"
+      ],
+      [
+       "Underlying gland",
+       "Abnormal: nodular goitre or latent Graves'",
+       "Previously normal"
+      ],
+      [
+       "Responds to",
+       "Antithyroid drugs",
+       "Prednisolone"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 669,
+       "page": 647
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 670,
+       "page": 648
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 637,
+       "page": 615
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Checkpoint-inhibitor thyroiditis is the commonest endocrine immune-related adverse effect (about 15%), appearing 3–12 weeks after starting treatment. It usually needs only a β-blocker and analgesia. Graves' disease also clusters with other autoimmune disease such as pernicious anaemia and myasthenia gravis.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 637,
+       "page": 615
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 661,
+       "page": 624
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Books quote different numbers. Graves' share: **76%** (Davidson) vs about **80%** (Step-Up) vs **60–80%** (Pocket Medicine). Peak age: Graves' most often affects women aged **30–50** (Davidson), hyperthyroidism overall mostly 20–40 years (Kumar), and most Graves' patients are 40–60 at diagnosis (Pocket). Use Davidson's figures in the exam.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 658,
+       "page": 636
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 450,
+       "page": 450
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 483,
+       "page": 483
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 636,
+       "page": 614
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 665,
+       "page": 643
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 484,
+       "page": 484
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.s3",
+   "title": "Clinical features",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Features of thyrotoxicosis by frequency",
+     "columns": [
+      "Frequency",
+      "Symptoms",
+      "Signs"
+     ],
+     "rows": [
+      [
+       "Common",
+       "Weight loss with normal or increased appetite, heat intolerance, sweating, palpitations, tremor, irritability, fatigue",
+       "Sinus tachycardia, tremor, palmar erythema, lid retraction and lid lag, weight loss"
+      ],
+      [
+       "Less common",
+       "Diarrhoea/steatorrhoea, oligomenorrhoea, infertility, muscle weakness, anxiety, excess tears, periodic paralysis (mainly in Chinese and other Asian groups)",
+       "AF, systolic hypertension with wide pulse pressure, heart failure, hyper-reflexia, proximal myopathy, osteoporosis, goitre with bruit (Graves')"
+      ],
+      [
+       "Rare",
+       "Vomiting, apathy, anorexia, worsening asthma",
+       "Onycholysis, gynaecomastia, spider naevi, pigmentation"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 658,
+       "page": 636
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 659,
+       "page": 637
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 49,
+       "page": 49
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 662,
+       "page": 625
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Any cause vs Graves' only",
+     "columns": [
+      "Seen in any thyrotoxicosis",
+      "Only in Graves' disease"
+     ],
+     "rows": [
+      [
+       "Lid retraction and lid lag (sympathetic over-drive of levator palpebrae)",
+       "Exophthalmos, periorbital oedema, chemosis, ophthalmoplegia/diplopia"
+      ],
+      [
+       "Tremor, tachycardia, warm peripheries",
+       "Diffuse goitre with a bruit"
+      ],
+      [
+       "Weight loss, heat intolerance",
+       "Pretibial myxoedema and thyroid acropachy (clubbing-like periosteal new bone)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 658,
+       "page": 636
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 661,
+       "page": 624
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 664,
+       "page": 627
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Graves' eye and skin disease",
+     "items": [
+      "Eye disease is detectable in **up to 50%** at presentation (up to 90% on formal testing); it may come before or after the thyrotoxicosis and does not follow its course.",
+      "Symptoms: gritty eyes, excess watering worse in wind and bright light, pain, photophobia, diplopia.",
+      "**Optic nerve compression:** falling visual acuity, loss of colour vision, relative afferent pupillary defect. This is sight-threatening.",
+      "Worse in **smokers** and when thyroid control is poor, especially if the patient becomes hypothyroid.",
+      "**Pretibial myxoedema** (< 5%): raised pink-purple plaques on the front of the shin extending to the foot, sometimes itchy, with peau d'orange skin and coarse hair."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 667,
+       "page": 645
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 668,
+       "page": 646
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 484,
+       "page": 484
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 664,
+       "page": 627
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "What the gland feels like",
+     "columns": [
+      "Palpation",
+      "Suggests"
+     ],
+     "rows": [
+      [
+       "Diffuse, soft, symmetrical, non-tender ± bruit",
+       "Graves' disease"
+      ],
+      [
+       "Diffuse and exquisitely tender",
+       "Subacute thyroiditis"
+      ],
+      [
+       "Irregular, lumpy, asymmetrical",
+       "Toxic multinodular goitre"
+      ],
+      [
+       "Single nodule, rest of gland impalpable",
+       "Toxic adenoma (or cyst/carcinoma)"
+      ],
+      [
+       "Lower border not felt; check Pemberton's sign",
+       "Retrosternal extension of a goitre"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 653,
+       "page": 631
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 452,
+       "page": 452
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Elderly patients** may show few adrenergic features and present only with AF, heart failure, weight loss, anorexia or apathy (**apathetic thyrotoxicosis**, which can mimic hypothyroidism or depression); multinodular goitre is the usual cause. **Children** may grow too fast, become hyperactive or even gain weight; adolescents may present with falling school performance. Check TFTs in every patient with AF.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 638,
+       "page": 616
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 672,
+       "page": 650
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 451,
+       "page": 451
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 667,
+       "page": 645
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Lid lag and lid retraction do **not** prove Graves' disease: they occur in every cause of thyrotoxicosis. Only proptosis, ophthalmoplegia, periorbital/conjunctival oedema, pretibial myxoedema and acropachy point specifically to Graves'.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 658,
+       "page": 636
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 664,
+       "page": 627
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 667,
+      "page": 645,
+      "figure": "Fig. 18.8"
+     },
+     "note": "Look at: bilateral proptosis with periorbital swelling, and the orbital CT with bulky extraocular muscles crowding the optic nerve at the orbital apex."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 637,
+      "page": 615,
+      "figure": "Fig. 21.23"
+     },
+     "note": "System-by-system diagram of hyperthyroid symptoms and signs; note which ones are Graves'-only."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "stepup6",
+      "pdfPage": 451,
+      "page": 451,
+      "figure": "FIGURE 4-6"
+     },
+     "note": "Photograph captioned exophthalmos in thyrotoxicosis (Step-Up's text also points to it when describing lid retraction). Proptosis is Graves'-specific; lid retraction alone is not."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kcEssentials",
+      "pdfPage": 665,
+      "page": 628,
+      "figure": "Fig. 14.8"
+     },
+     "note": "NOSPECS grading of the severity of Graves' eye involvement."
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.s4",
+   "title": "Investigations & diagnosis",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Step 1: confirm biochemical thyrotoxicosis",
+     "items": [
+      "Measure **TSH, free T4 and T3**. TSH is the best single screening test: a normal or high TSH makes primary hyperthyroidism unlikely.",
+      "In primary thyrotoxicosis TSH is **undetectable** (< 0.05 mU/L); the exception is a TSH-secreting pituitary adenoma, where TSH is raised or normal.",
+      "About **5%** have **T3 toxicosis**: T3 raised with T4 only in the upper reference range.",
+      "Repeat abnormal results to confirm before committing to long drug courses or destructive treatment."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 658,
+       "page": 636
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 453,
+       "page": 453
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 661,
+       "page": 624
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 48,
+       "page": 48
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Step 2: find the cause",
+     "items": [
+      "**TSH receptor antibodies (TRAb):** positive in Graves' disease, very rare in people without autoimmune thyroid disease.",
+      "**99mTc pertechnetate scintigraphy** (has largely replaced radio-iodine uptake tests): shows the uptake pattern. Not needed in most drug-induced cases.",
+      "**ECG:** sinus tachycardia or AF.",
+      "Ultrasound can also help separate Graves' from nodular disease."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 658,
+       "page": 636
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 659,
+       "page": 637
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 660,
+       "page": 638
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 661,
+       "page": 624
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Scintigraphy patterns",
+     "columns": [
+      "Scan appearance",
+      "Diagnosis"
+     ],
+     "rows": [
+      [
+       "Diffuse, increased uptake throughout the gland",
+       "Graves' disease"
+      ],
+      [
+       "Several patchy hot nodules",
+       "Toxic multinodular goitre"
+      ],
+      [
+       "One hot nodule; rest of gland not seen (TSH suppressed)",
+       "Toxic adenoma"
+      ],
+      [
+       "Negligible uptake (salivary glands may still show)",
+       "Thyroiditis (viral, painless, post-partum, iodine-induced), exogenous T4, recent iodine load, struma ovarii"
+      ],
+      [
+       "Cold (non-functioning) area",
+       "Needs evaluation for malignancy"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 660,
+       "page": 638
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 48,
+       "page": 48
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 480,
+       "page": 480
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Thyroid antibodies: who has them (%)",
+     "columns": [
+      "Group",
+      "Anti-TPO",
+      "TRAb"
+     ],
+     "rows": [
+      [
+       "Healthy population",
+       "8–27",
+       "0"
+      ],
+      [
+       "Graves' disease",
+       "50–80",
+       "80–95"
+      ],
+      [
+       "Multinodular goitre / transient thyroiditis",
+       "~30–40",
+       "0"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 659,
+       "page": 637
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A **positive TRAb confirms** Graves' disease, but a **negative TRAb does not exclude it** (it is positive in only 80–95%). Anti-TPO and anti-thyroglobulin antibodies are **useless** for working out the cause, because many healthy people and several other thyroid disorders have them. Kumar adds that modern third-generation TRAb assays are about 97–99% specific.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 660,
+       "page": 638
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 659,
+       "page": 637
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 638,
+       "page": 616
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Factitious thyrotoxicosis** (secret T4 use): negligible isotope uptake + **T4:T3 ratio above 70:1** (normally about 30:1, because all T3 comes from peripheral conversion) + **low or undetectable thyroglobulin**. Together these clinch it. In thyroiditis, by contrast, thyroglobulin is high.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 659,
+       "page": 637
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 480,
+       "page": 480
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other results",
+     "items": [
+      "Non-specific: raised ALT, GGT and ALP (liver and bone), raised bilirubin, mild hypercalcaemia (or hypercalciuria), glycosuria, anaemia. They do not help the diagnosis; recheck only once euthyroid.",
+      "Subacute thyroiditis: high ESR, transient low-titre thyroid antibodies, suppressed uptake during the toxic phase."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 660,
+       "page": 638
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 668,
+       "page": 646
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 484,
+       "page": 484
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 330\" role=\"img\" aria-label=\"Algorithm for finding the cause of thyrotoxicosis\">\n<rect x=\"0\" y=\"0\" width=\"560\" height=\"330\" fill=\"#ffffff\"/>\n<rect x=\"150\" y=\"10\" width=\"260\" height=\"40\" rx=\"6\" fill=\"#e8f0fe\" stroke=\"#3b5b92\"/>\n<text x=\"280\" y=\"27\" font-size=\"13\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">Low or undetectable TSH</text>\n<text x=\"280\" y=\"43\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">raised T4 and/or T3 (repeat to confirm)</text>\n<line x1=\"280\" y1=\"50\" x2=\"280\" y2=\"70\" stroke=\"#333333\" stroke-width=\"1.5\"/>\n<rect x=\"20\" y=\"70\" width=\"250\" height=\"78\" rx=\"6\" fill=\"#fdecea\" stroke=\"#a33a2c\"/>\n<text x=\"145\" y=\"88\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">Graves' clues?</text>\n<text x=\"145\" y=\"104\" font-size=\"11\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">diffuse goitre + bruit, true eye disease,</text>\n<text x=\"145\" y=\"119\" font-size=\"11\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">pretibial myxoedema, positive TRAb</text>\n<text x=\"145\" y=\"138\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\" font-weight=\"bold\">Yes: Graves' disease</text>\n<rect x=\"290\" y=\"70\" width=\"250\" height=\"78\" rx=\"6\" fill=\"#fff4e0\" stroke=\"#9a6a12\"/>\n<text x=\"415\" y=\"88\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">Non-Graves' clues?</text>\n<text x=\"415\" y=\"104\" font-size=\"11\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">delivery within 6 months, painful neck,</text>\n<text x=\"415\" y=\"119\" font-size=\"11\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">amiodarone or T4 use, nodular gland</text>\n<text x=\"415\" y=\"138\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\" font-weight=\"bold\">or no clues: scan</text>\n<line x1=\"415\" y1=\"148\" x2=\"415\" y2=\"170\" stroke=\"#333333\" stroke-width=\"1.5\"/>\n<rect x=\"160\" y=\"170\" width=\"390\" height=\"34\" rx=\"6\" fill=\"#e9f5ec\" stroke=\"#2f7a45\"/>\n<text x=\"355\" y=\"192\" font-size=\"13\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">99mTc pertechnetate scintigraphy</text>\n<line x1=\"200\" y1=\"204\" x2=\"80\" y2=\"236\" stroke=\"#333333\" stroke-width=\"1.5\"/>\n<line x1=\"300\" y1=\"204\" x2=\"215\" y2=\"236\" stroke=\"#333333\" stroke-width=\"1.5\"/>\n<line x1=\"400\" y1=\"204\" x2=\"350\" y2=\"236\" stroke=\"#333333\" stroke-width=\"1.5\"/>\n<line x1=\"500\" y1=\"204\" x2=\"485\" y2=\"236\" stroke=\"#333333\" stroke-width=\"1.5\"/>\n<rect x=\"10\" y=\"236\" width=\"130\" height=\"84\" rx=\"6\" fill=\"#f2f2f2\" stroke=\"#555555\"/>\n<text x=\"75\" y=\"256\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\" font-weight=\"bold\">Negligible</text>\n<text x=\"75\" y=\"274\" font-size=\"11\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">transient thyroiditis</text>\n<text x=\"75\" y=\"290\" font-size=\"11\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">or exogenous T4</text>\n<text x=\"75\" y=\"306\" font-size=\"11\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">(check thyroglobulin)</text>\n<rect x=\"150\" y=\"236\" width=\"130\" height=\"84\" rx=\"6\" fill=\"#f2f2f2\" stroke=\"#555555\"/>\n<text x=\"215\" y=\"256\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\" font-weight=\"bold\">Diffuse</text>\n<text x=\"215\" y=\"274\" font-size=\"11\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">Graves' disease</text>\n<text x=\"215\" y=\"290\" font-size=\"11\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">(even if TRAb</text>\n<text x=\"215\" y=\"306\" font-size=\"11\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">negative)</text>\n<rect x=\"290\" y=\"236\" width=\"130\" height=\"84\" rx=\"6\" fill=\"#f2f2f2\" stroke=\"#555555\"/>\n<text x=\"355\" y=\"256\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\" font-weight=\"bold\">Patchy, nodular</text>\n<text x=\"355\" y=\"274\" font-size=\"11\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">toxic multinodular</text>\n<text x=\"355\" y=\"290\" font-size=\"11\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">goitre</text>\n<rect x=\"430\" y=\"236\" width=\"120\" height=\"84\" rx=\"6\" fill=\"#f2f2f2\" stroke=\"#555555\"/>\n<text x=\"490\" y=\"256\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\" font-weight=\"bold\">One hot spot</text>\n<text x=\"490\" y=\"274\" font-size=\"11\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">toxic adenoma,</text>\n<text x=\"490\" y=\"290\" font-size=\"11\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">rest of gland</text>\n<text x=\"490\" y=\"306\" font-size=\"11\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">suppressed</text>\n</svg>",
+     "alt": "Algorithm: confirm low TSH with raised T4/T3; if Graves' features are present diagnose Graves'; otherwise use a technetium scan: negligible uptake means thyroiditis or exogenous T4, diffuse means Graves', patchy means toxic multinodular goitre, a single hot spot means toxic adenoma.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 660,
+       "page": 638
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 660,
+      "page": 638,
+      "figure": "Fig. 18.5"
+     },
+     "note": "Algorithm for finding the cause, with technetium scans showing low uptake, a single toxic adenoma, patchy multinodular goitre and diffuse Graves' uptake."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "pocket8",
+      "pdfPage": 484,
+      "page": 484,
+      "figure": "Figure 7-2"
+     },
+     "note": "Pocket Medicine's flow chart for the workup of primary hyperthyroidism; compare its steps with Davidson's Fig. 18.5 approach."
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.s5",
+   "title": "Differential diagnosis & tricky TFT patterns",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Reading TFTs when TSH is abnormal",
+     "columns": [
+      "TSH",
+      "T4",
+      "T3",
+      "Most likely"
+     ],
+     "rows": [
+      [
+       "Undetectable",
+       "Raised",
+       "Raised",
+       "Primary thyrotoxicosis"
+      ],
+      [
+       "Undetectable",
+       "Normal (upper range)",
+       "Raised",
+       "T3 toxicosis"
+      ],
+      [
+       "Undetectable",
+       "Upper normal",
+       "Upper normal",
+       "Subclinical thyrotoxicosis"
+      ],
+      [
+       "Low/undetectable",
+       "Raised",
+       "Normal",
+       "Too much levothyroxine (prescribed or factitious)"
+      ],
+      [
+       "Low/undetectable",
+       "Raised",
+       "Low or normal",
+       "Non-thyroidal illness; amiodarone"
+      ],
+      [
+       "Raised",
+       "Raised",
+       "Raised",
+       "TSH-secreting adenoma, thyroid hormone resistance, or poor levothyroxine adherence with a recent catch-up dose"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 658,
+       "page": 636
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Clinical clues that separate the causes",
+     "items": [
+      "**Points away from Graves':** delivery in the past 6 months, a painful neck or flu-like illness, amiodarone or thyroxine use, a palpable nodular gland or single nodule.",
+      "**Points to Graves':** diffuse goitre with bruit, true ophthalmopathy, pretibial myxoedema, positive TRAb.",
+      "Systemically unwell with abnormal TFTs: consider non-thyroidal illness and repeat once recovered."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 660,
+       "page": 638
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Thyrotoxicosis vs anxiety:** the mild case can be hard to separate. Favour the thyroid if there are eye signs, a diffuse goitre, proximal myopathy, wasting, weight loss despite a good appetite, and **warm** hands (anxiety gives clammy hands). Never start treatment without biochemical confirmation. In the elderly, consider thyrotoxicosis before blaming unexplained weight loss on depression or hidden cancer.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 638,
+       "page": 616
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 451,
+       "page": 451
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Look-alikes on the lab report",
+     "items": [
+      "**Non-thyroidal illness (sick euthyroid):** low TSH, raised T4, normal/low T3 from reduced T4→T3 conversion; avoid testing during acute illness.",
+      "**Drugs and states lowering TSH:** dopamine, glucocorticoids, severe illness, high-dose biotin.",
+      "**Raised TBG** (pregnancy, oestrogen/OCP, hepatitis) raises _total_ T4 while free hormone stays normal.",
+      "**Early pregnancy:** high hCG weakly stimulates the TSH receptor, giving suppressed TSH and slightly raised fT4/fT3 in the first trimester, sometimes with hyperemesis; truly new maternal hyperthyroidism is usually Graves'.",
+      "**Thyroid hormone resistance** (TRβ mutation): raised T4/T3 with non-suppressed TSH in a clinically euthyroid patient; differentials are TSHoma and assay interference."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 664,
+       "page": 642
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 480,
+       "page": 480
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 454,
+       "page": 454
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 639,
+       "page": 617
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 640,
+       "page": 618
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Subclinical thyrotoxicosis",
+     "items": [
+      "Undetectable TSH with T4/T3 at the top of the range; usually older patients with multinodular goitre.",
+      "Increases the risk of **AF and osteoporosis** (Pocket adds coronary disease and fracture).",
+      "Becomes overt at about **5% per year** (Davidson); Pocket quotes about 15% within 2 years. Usually treated with 131I."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 664,
+       "page": 642
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 486,
+       "page": 486
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Post-partum thyroiditis** affects 5–10% of women within 6 months of delivery (anti-TPO often positive in early pregnancy). New symptomatic thyrotoxicosis within 12 months of childbirth with **negligible isotope uptake** suggests it; it tends to recur in later pregnancies and may end in permanent hypothyroidism.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 669,
+       "page": 647
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 670,
+      "page": 648,
+      "figure": "Fig. 18.12"
+     },
+     "note": "CT of a retrosternal multinodular goitre narrowing the trachea, causing breathlessness and stridor."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 642,
+      "page": 620,
+      "figure": "Fig. 21.26"
+     },
+     "note": "Technetium scan of a multinodular goitre and CT of a retrosternal goitre deviating the trachea."
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.s6",
+   "title": "Complications: thyroid storm, AF and others",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Thyroid storm (thyrotoxic crisis)** is rare but life-threatening, with a mortality of about **10%** even when treated (Davidson). Features: **fever**, agitation, **delirium**, tachycardia or AF, vomiting/diarrhoea, jaundice, and heart failure in older patients. The usual trigger is **infection** in someone with unrecognised or under-treated thyrotoxicosis; others are thyroidectomy in an unprepared patient and the first few days after 131I.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 661,
+       "page": 639
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 663,
+       "page": 626
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 457,
+       "page": 457
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Burch–Wartofsky score: the high-scoring items",
+     "columns": [
+      "Domain",
+      "Top score"
+     ],
+     "rows": [
+      [
+       "Temperature ≥ 40.0 °C",
+       "30"
+      ],
+      [
+       "CNS: seizures or coma",
+       "30"
+      ],
+      [
+       "Pulse ≥ 140/min",
+       "25"
+      ],
+      [
+       "GI: unexplained jaundice",
+       "20"
+      ],
+      [
+       "Heart failure: pulmonary oedema",
+       "20"
+      ],
+      [
+       "AF present",
+       "10"
+      ],
+      [
+       "Precipitant present",
+       "10"
+      ],
+      [
+       "Interpreting the total",
+       "≥ 45 likely storm; 25–44 impending; < 25 unlikely"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 661,
+       "page": 639
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Treating thyroid storm (Davidson)",
+     "items": [
+      "Rehydrate; remember the usual precipitant is infection.",
+      "**Propranolol** 80 mg four times daily orally (or 1–5 mg IV four times daily).",
+      "**Sodium ipodate** 500 mg daily: blocks hormone release and T4→T3 conversion; T3 normal within 48–72 h. Dexamethasone 2 mg four times daily has a similar effect.",
+      "**Carbimazole** 40–60 mg daily to stop new synthesis (rectally if the patient cannot swallow; no IV form)."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 661,
+       "page": 639
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Books differ on storm details. Mortality: **10%** (Davidson) vs **10–30%** (Step-Up) vs **20–30%** (Pocket). Kumar & Clark Essentials uses carbimazole 20 mg 8-hourly, propranolol, potassium iodide and IV hydrocortisone; Step-Up prefers **PTU** because it also blocks T4→T3 conversion. Iodine should be given only **after** the antithyroid drug (Pocket: more than 1 h after PTU).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 661,
+       "page": 639
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 457,
+       "page": 457
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 486,
+       "page": 486
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 664,
+       "page": 627
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Atrial fibrillation",
+     "items": [
+      "Occurs in about **10%** of thyrotoxic patients and in almost **half of men over 60**.",
+      "Rate responds **poorly to digoxin** but well to a **β-blocker**.",
+      "Thromboembolism is common: **anticoagulate** unless contraindicated.",
+      "About **50% return to sinus rhythm** once euthyroid; the rest may need cardioversion."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 660,
+       "page": 638
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other complications",
+     "items": [
+      "**Osteoporosis** (fracture, loss of height) and **AF** with thromboembolism, both more likely when TSH stays suppressed.",
+      "**Thyrotoxic cardiomyopathy:** ischaemic-looking ECG changes that reverse once euthyroid.",
+      "**Sight-threatening optic nerve compression** in Graves' ophthalmopathy.",
+      "**Pregnancy:** TRAb and antithyroid drugs cross the placenta; poor control causes fetal tachycardia, growth restriction, prematurity and stillbirth. TRAb measured in the third trimester predicts neonatal thyrotoxicosis."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 640,
+       "page": 618
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 664,
+       "page": 627
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1301,
+       "page": 1279
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 639,
+       "page": 617
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 659,
+       "page": 637
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 640,
+      "page": 618,
+      "figure": "Fig. 21.24"
+     },
+     "note": "ECG in thyrotoxic cardiomyopathy: marked lateral T-wave inversion."
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.s7",
+   "title": "Management",
+   "objectiveIdx": [
+    7
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Symptom control: β-blockers",
+     "items": [
+      "A **non-selective** β-blocker (propranolol 160 mg daily, or nadolol 40–80 mg daily) eases symptoms within 24–48 h; propranolol also slightly reduces T4→T3 conversion.",
+      "Use only short-term (awaiting definitive treatment, or after 131I). It does not treat the cause.",
+      "If β-blockers are contraindicated (e.g. asthma), **verapamil** can be used, but it mainly slows the heart rate."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 659,
+       "page": 637
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 485,
+       "page": 485
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 660,
+       "page": 638
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Antithyroid drugs (Davidson)",
+     "items": [
+      "Carbimazole (active metabolite methimazole) or propylthiouracil (PTU) inhibit **iodination of tyrosine**.",
+      "Start high: **carbimazole 40–60 mg** or **PTU 400–600 mg** daily. Patients feel better in 10–14 days and are euthyroid by 6–8 weeks.",
+      "Then titrate to **5–20 mg carbimazole** for **12–18 months**, hoping for remission.",
+      "**Block-and-replace:** carbimazole 30–40 mg plus levothyroxine 100–150 µg daily, for patients whose TFTs swing despite good adherence.",
+      "**Relapse in 50–70%**, mostly within 2 years. Higher risk: **younger age, male sex, goitre, high TRAb** at diagnosis and at stopping."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 666,
+       "page": 644
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 50,
+       "page": 50
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Starting doses differ: Kumar and K&C Essentials start **carbimazole 20–40 mg** daily (PTU 100–200 mg 8-hourly), Davidson 40–60 mg. Kumar's block-and-replace is carbimazole 40 mg + levothyroxine 100 µg for about 18 months, and it is **contraindicated in pregnancy**. Follow Davidson's numbers in the exam.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 666,
+       "page": 644
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 638,
+       "page": 616
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 663,
+       "page": 626
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Antithyroid drug adverse effects",
+     "items": [
+      "**Rash:** the most common (about 2%).",
+      "**Agranulocytosis** (0.2% in Davidson): routine white cell counts do not predict it. Warn every patient to **stop the drug and get an urgent blood count** if a sore throat or fever develops. It reverses on stopping.",
+      "**PTU hepatotoxicity:** rare but can be fatal (liver failure); PTU is therefore second-line, used in pregnancy/breastfeeding or after a carbimazole reaction. PTU can also cause vasculitis."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 666,
+       "page": 644
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 663,
+       "page": 626
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 456,
+       "page": 456
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Agranulocytosis rates vary between books: **0.2%** (Davidson) vs **0.5%** (Pocket Medicine). Davidson wins for the exam.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 666,
+       "page": 644
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 485,
+       "page": 485
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Choosing definitive treatment for Graves' disease",
+     "columns": [
+      "Option",
+      "Usual indications",
+      "Contraindications",
+      "Main problems"
+     ],
+     "rows": [
+      [
+       "Antithyroid drugs",
+       "First episode, age < 40",
+       "Breastfeeding: use PTU",
+       "Rash 2%, agranulocytosis 0.2%, PTU liver toxicity, > 50% relapse"
+      ],
+      [
+       "Subtotal thyroidectomy",
+       "Large goitre; poor adherence (especially young); relapse after drugs in the young",
+       "Previous thyroid surgery; voice-dependent job",
+       "Hypothyroidism ~25%, transient hypocalcaemia 10%, permanent hypoparathyroidism 1%, recurrent laryngeal nerve palsy 1%"
+      ],
+      [
+       "Radio-iodine (131I)",
+       "Age > 40; relapse after surgery; serious comorbidity",
+       "Pregnancy or planned within 6 months; active ophthalmopathy",
+       "Hypothyroidism ~40% in year 1 and 80% by 15 years; may worsen eye disease"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 666,
+       "page": 644
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Surgery",
+     "items": [
+      "Make the patient **euthyroid first** with antithyroid drugs.",
+      "Add **potassium iodide 60 mg three times daily for 10 days** pre-op to cut hormone release and gland vascularity; operate within 10–14 days because of the escape effect.",
+      "**Near-total thyroidectomy** is now often preferred: lifelong hypothyroidism but the best chance of cure.",
+      "Other indications: drug intolerance or non-adherence in someone refusing 131I, suspected malignancy."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 667,
+       "page": 645
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 669,
+       "page": 647
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 663,
+       "page": 626
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Post-thyroidectomy hypothyroidism figures differ: about **25%** in Davidson's comparison box but **15%** in Davidson's text (with 5% staying thyrotoxic), and **30%** in Step-Up (plus 10% recurrence). Nerve palsy and permanent hypoparathyroidism are about **1%** in all sources.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 666,
+       "page": 644
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 667,
+       "page": 645
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 455,
+       "page": 455
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Radio-iodine (131I)",
+     "items": [
+      "Single oral dose of about **400–600 MBq** (10–15 mCi); works in **75% within 4–12 weeks**; give a second dose if still toxic at 6 months.",
+      "Carbimazole blocks organification of 131I: avoid it until **48 h after** the dose (Pocket: stop antithyroid drugs 3 days before).",
+      "May worsen ophthalmopathy: avoid with active eye inflammation; cover mild disease with a tapering course of **prednisolone**.",
+      "Exclude pregnancy first; **avoid conception for 6 months** (men too). Avoid close contact with children and pregnant women for about 3 weeks.",
+      "Most patients eventually become hypothyroid: check TSH every year for life after 131I or surgery."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 667,
+       "page": 645
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 485,
+       "page": 485
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 50,
+       "page": 50
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 455,
+       "page": 455
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 663,
+       "page": 626
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Treatment of the other causes",
+     "columns": [
+      "Cause",
+      "Treatment"
+     ],
+     "rows": [
+      [
+       "Toxic multinodular goitre",
+       "131I (higher dose, up to 800 MBq, because uptake is lower); surgery for a large goitre. Long-term drugs only for frail elderly patients, as relapse is invariable after stopping"
+      ],
+      [
+       "Toxic adenoma",
+       "131I 400–800 MBq (ideal: surrounding atrophic tissue is spared, so hypothyroidism is unusual) or hemithyroidectomy"
+      ],
+      [
+       "Subacute thyroiditis",
+       "NSAIDs (prednisolone 40 mg daily for 3–4 weeks if needed) + β-blocker. Antithyroid drugs do not help. Temporary levothyroxine in the hypothyroid phase"
+      ],
+      [
+       "Amiodarone-induced",
+       "Start antithyroid drug + prednisolone; a quick response (1–2 weeks) suggests type II, so stop the antithyroid drug. Gland resists 131I. Check TFTs before starting amiodarone"
+      ],
+      [
+       "Checkpoint-inhibitor thyroiditis",
+       "β-blocker and analgesia; antithyroid drugs rarely needed"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 671,
+       "page": 649
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 668,
+       "page": 646
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 670,
+       "page": 648
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 637,
+       "page": 615
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 485,
+       "page": 485
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Graves' ophthalmopathy",
+     "items": [
+      "Most need reassurance only. **Stop smoking**, lubricating drops, tinted glasses; keep the patient euthyroid and avoid hypothyroidism.",
+      "Mild disease: **selenium 100 µg twice daily for 6 months**.",
+      "Severe inflammation: **IV methylprednisolone**, sometimes orbital radiotherapy (or other immunosuppressants).",
+      "Loss of visual acuity: **urgent orbital decompression**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 668,
+       "page": 646
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 665,
+       "page": 628
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Pregnancy and breastfeeding",
+     "items": [
+      "Antithyroid drugs are first choice. **PTU is preferred**, because carbimazole in the first trimester is linked to **choanal atresia and aplasia cutis**.",
+      "Use the lowest dose that keeps the mother euthyroid (typically < 150 mg PTU or < 15 mg carbimazole daily) to avoid fetal hypothyroidism and goitre.",
+      "Surgery, if needed, is safest in the **second trimester**. **131I is absolutely contraindicated.**",
+      "PTU is the drug of choice when breastfeeding (less enters the milk)."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1301,
+       "page": 1279
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Kumar uses PTU before conception and in the first trimester, then recommends **switching to carbimazole in the second and third trimesters** because PTU liver problems are reported more often. Davidson simply prefers PTU in pregnancy. Step-Up notes methimazole is teratogenic in the first trimester.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 639,
+       "page": 617
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1301,
+       "page": 1279
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 456,
+       "page": 456
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "UK practice usually starts with antithyroid drugs; US practice often uses radio-iodine first. A high TRAb level near the end of a drug course predicts relapse, so consider continuing the drug or moving to definitive treatment.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 663,
+       "page": 626
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 455,
+       "page": 455
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 666,
+       "page": 644
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "endo-hyperthyroidism.c1",
+   "sectionId": "endo-hyperthyroidism.s1",
+   "front": "Where does most circulating T3 come from?",
+   "back": "About 85% is made in peripheral tissues by deiodination of T4; the thyroid secretes mainly T4.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 656,
+     "page": 634
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.c2",
+   "sectionId": "endo-hyperthyroidism.s1",
+   "front": "What drives Graves' thyrotoxicosis?",
+   "back": "IgG antibodies (TRAb) that stimulate the TSH receptor, causing excess hormone production and a diffuse goitre.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 665,
+     "page": 643
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.c3",
+   "sectionId": "endo-hyperthyroidism.s1",
+   "front": "Wolff–Chaikoff vs Jod–Basedow effect?",
+   "back": "Wolff–Chaikoff: a large iodine load briefly blocks hormone synthesis/release (~10 days). Jod–Basedow: iodine triggers thyrotoxicosis in a predisposed gland.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 669,
+     "page": 647
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.c4",
+   "sectionId": "endo-hyperthyroidism.s2",
+   "front": "Commonest cause of thyrotoxicosis in old age?",
+   "back": "Toxic multinodular goitre.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 672,
+     "page": 650
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.c5",
+   "sectionId": "endo-hyperthyroidism.s2",
+   "front": "Amiodarone thyrotoxicosis type I vs type II?",
+   "back": "Type I: iodine-driven excess synthesis in an abnormal gland (treat with antithyroid drugs). Type II: destructive thyroiditis (treat with prednisolone).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 669,
+     "page": 647
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 670,
+     "page": 648
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.c6",
+   "sectionId": "endo-hyperthyroidism.s3",
+   "front": "Which eye signs occur in ANY cause of thyrotoxicosis?",
+   "back": "Lid retraction and lid lag. Proptosis, ophthalmoplegia and chemosis are Graves'-only.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 658,
+     "page": 636
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.c7",
+   "sectionId": "endo-hyperthyroidism.s3",
+   "front": "Signs of optic nerve compression in Graves' eye disease?",
+   "back": "Reduced visual acuity, loss of colour vision, relative afferent pupillary defect.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 667,
+     "page": 645
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.c8",
+   "sectionId": "endo-hyperthyroidism.s4",
+   "front": "Factitious thyrotoxicosis: the diagnostic triad?",
+   "back": "Negligible isotope uptake, T4:T3 ratio > 70:1, and low/undetectable thyroglobulin.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 659,
+     "page": 637
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.c9",
+   "sectionId": "endo-hyperthyroidism.s4",
+   "front": "Does a negative TRAb exclude Graves' disease?",
+   "back": "No. TRAb is positive in only 80–95% of Graves' patients; a positive test confirms it.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 660,
+     "page": 638
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.c10",
+   "sectionId": "endo-hyperthyroidism.s5",
+   "front": "Undetectable TSH, normal T4, raised T3?",
+   "back": "T3 toxicosis (about 5% of thyrotoxic patients).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 658,
+     "page": 636
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.c11",
+   "sectionId": "endo-hyperthyroidism.s5",
+   "front": "Raised T4/T3 with a raised (non-suppressed) TSH?",
+   "back": "TSH-secreting pituitary adenoma or thyroid hormone resistance (also poor levothyroxine adherence with a recent loading dose).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 658,
+     "page": 636
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.c12",
+   "sectionId": "endo-hyperthyroidism.s6",
+   "front": "Burch–Wartofsky score cut-offs?",
+   "back": "≥ 45 likely thyroid storm; 25–44 impending; < 25 unlikely.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 661,
+     "page": 639
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.c13",
+   "sectionId": "endo-hyperthyroidism.s6",
+   "front": "Thyrotoxic AF: which rate-control drug works poorly?",
+   "back": "Digoxin; β-blockers work well. Anticoagulate unless contraindicated.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 660,
+     "page": 638
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.c14",
+   "sectionId": "endo-hyperthyroidism.s7",
+   "front": "Carbimazole patient develops sore throat or fever?",
+   "back": "Stop the drug and check an urgent full blood count (agranulocytosis risk ~0.2%).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 666,
+     "page": 644
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.c15",
+   "sectionId": "endo-hyperthyroidism.s7",
+   "front": "Main contraindications to radio-iodine?",
+   "back": "Pregnancy or planned pregnancy within 6 months, and active Graves' ophthalmopathy.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 666,
+     "page": 644
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.c16",
+   "sectionId": "endo-hyperthyroidism.s7",
+   "front": "Which antithyroid drug in the first trimester and why?",
+   "back": "Propylthiouracil, because carbimazole is linked to choanal atresia and aplasia cutis.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1301,
+     "page": 1279
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "endo-hyperthyroidism.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 27-year-old woman has weight loss, tremor and a smooth, symmetrically enlarged thyroid with a bruit. TSH is undetectable and free T4 is high. A technetium scan shows uniformly increased uptake.",
+   "leadIn": "Which mechanism best explains her thyroid overactivity?",
+   "options": [
+    "IgG antibodies stimulating the TSH receptor",
+    "Autonomous nodules secreting hormone independently of TSH",
+    "Leakage of stored hormone from inflamed follicles",
+    "Excess TSH secretion by a pituitary adenoma",
+    "Ingestion of exogenous levothyroxine"
+   ],
+   "answer": 0,
+   "explanation": "Diffuse goitre with a bruit plus diffuse high uptake is Graves' disease, in which TSH-receptor-stimulating IgG (TRAb) drives every follicle to overproduce hormone and the gland to enlarge.",
+   "whyNot": [
+    "",
+    "Autonomous nodules give patchy or single-spot uptake with the rest of the gland suppressed.",
+    "Thyroiditis gives negligible uptake because damaged cells cannot trap tracer.",
+    "A TSHoma causes a raised or normal TSH, not an undetectable one.",
+    "Exogenous T4 suppresses uptake and there would be no goitre."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hyperthyroidism.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 665,
+     "page": 643
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 660,
+     "page": 638
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 31-year-old woman, 3 months after delivery, has palpitations and heat intolerance. Her thyroid is small and painless. TSH is suppressed, free T4 raised, and a technetium scan shows almost no thyroid uptake.",
+   "leadIn": "What best explains the low uptake?",
+   "options": [
+    "Damaged follicular cells cannot trap tracer while TSH is suppressed",
+    "Stimulating antibodies saturate the TSH receptors",
+    "Autonomous nodules suppress the rest of the gland",
+    "Peripheral conversion of T4 to T3 is blocked",
+    "High TBG in the puerperium binds the tracer"
+   ],
+   "answer": 0,
+   "explanation": "This is post-partum (transient) thyroiditis. Stored hormone leaks out of inflamed follicles, but the injured cells cannot trap iodide or tracer, and TSH is suppressed, so uptake is negligible. High uptake means new synthesis; low uptake means leakage or an external source.",
+   "whyNot": [
+    "",
+    "Stimulating antibodies (Graves') increase uptake.",
+    "Autonomous nodules still show as hot spots on the scan.",
+    "Reduced T4→T3 conversion (e.g. non-thyroidal illness) does not change gland uptake of tracer.",
+    "TBG binds circulating hormone; it does not affect tracer trapping by the gland."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hyperthyroidism.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 668,
+     "page": 646
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 669,
+     "page": 647
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 453,
+     "page": 453
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q3",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Causes of thyrotoxicosis",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Graves' disease",
+    "Toxic multinodular goitre",
+    "Toxic adenoma",
+    "Subacute (de Quervain's) thyroiditis",
+    "Post-partum thyroiditis",
+    "Amiodarone-induced thyrotoxicosis",
+    "Factitious thyrotoxicosis",
+    "TSH-secreting pituitary adenoma",
+    "Struma ovarii",
+    "Hydatidiform mole"
+   ],
+   "items": [
+    {
+     "stem": "A 47-year-old woman has mild palpitations and a firm 4 cm lump in the right lobe of her thyroid. TSH is undetectable, free T4 is normal and T3 is raised. A technetium scan shows a single area of intense uptake, with the rest of the gland not visible.",
+     "answer": 2,
+     "explanation": "A single hot nodule with the rest of the gland switched off is a toxic adenoma (usually > 3 cm, women over 40). In almost half of these only T3 is raised.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s2"
+     }
+    },
+    {
+     "stem": "A 29-year-old woman has had neck pain radiating to both ears for a week, worse on swallowing, starting soon after a flu-like illness. Her thyroid is enlarged and very tender. ESR is 68 mm/h, T4 is raised and isotope uptake is negligible.",
+     "answer": 3,
+     "explanation": "Painful tender gland after a viral illness, high ESR and low uptake = subacute (de Quervain's) thyroiditis.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s2"
+     }
+    },
+    {
+     "stem": "A 26-year-old woman has heavy vaginal bleeding at 13 weeks of pregnancy. Her uterus is larger than dates and her serum hCG is far above the expected level. She is tremulous and tachycardic, with suppressed TSH and raised free T4.",
+     "answer": 9,
+     "explanation": "Two steps: the presentation (large-for-dates uterus, very high hCG, bleeding) suggests a molar pregnancy; very high hCG stimulates the TSH receptor and causes thyrotoxicosis.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 658,
+     "page": 636
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 671,
+     "page": 649
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 668,
+     "page": 646
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 34-year-old woman has a 3-month history of weight loss, sweating and tremor. Her TSH is undetectable and free T4 is raised.",
+   "leadIn": "Which examination finding points most specifically to Graves' disease rather than another cause?",
+   "options": [
+    "Lid lag",
+    "Lid retraction",
+    "Raised purplish plaques over both shins",
+    "Palmar erythema",
+    "Sinus tachycardia"
+   ],
+   "answer": 2,
+   "explanation": "Pretibial myxoedema (raised pink-purple plaques on the shins) is specific to Graves' disease. Lid lag, lid retraction, palmar erythema and tachycardia occur with any cause of thyrotoxicosis.",
+   "whyNot": [
+    "Lid lag comes from sympathetic over-activity of levator palpebrae and occurs with any cause.",
+    "Lid retraction has the same sympathetic mechanism and is not specific.",
+    "",
+    "Palmar erythema is a common sign of any thyrotoxicosis.",
+    "Tachycardia is a common non-specific sign."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hyperthyroidism.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 658,
+     "page": 636
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 668,
+     "page": 646
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 76-year-old woman is brought in by her daughter with 3 months of low mood, poor appetite, 6 kg weight loss and difficulty rising from a chair. She is not tremulous or sweaty. Her pulse is irregularly irregular at 112/min. An irregular goitre is felt.",
+   "leadIn": "What is the most appropriate next investigation?",
+   "options": [
+    "Serum TSH and free T4",
+    "Depression screening questionnaire",
+    "Serum creatine kinase",
+    "CT chest, abdomen and pelvis",
+    "Transthoracic echocardiogram"
+   ],
+   "answer": 0,
+   "explanation": "Older patients often present with 'apathetic' thyrotoxicosis: AF, weight loss, anorexia, proximal myopathy and apathy with few adrenergic signs, usually from a multinodular goitre. TFTs are mandatory in any new AF.",
+   "whyNot": [
+    "",
+    "Depression should not be assumed before excluding thyrotoxicosis in unexplained weight loss.",
+    "Proximal weakness here is a thyrotoxic myopathy; CK would not reveal the cause.",
+    "Imaging for hidden cancer comes after simple tests such as TFTs.",
+    "An echo may be needed later for AF but will not identify the cause."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hyperthyroidism.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 638,
+     "page": 616
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 672,
+     "page": 650
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 451,
+     "page": 451
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q6",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Technetium scan and laboratory patterns",
+   "leadIn": "For each patient below, choose the result you would most expect to find. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Diffuse, uniformly increased uptake",
+    "Single hot nodule with the rest of the gland not seen",
+    "Patchy uptake within several nodules",
+    "Negligible uptake with undetectable serum thyroglobulin",
+    "Negligible uptake with a raised ESR",
+    "Negligible uptake with raised thyroglobulin after recent delivery",
+    "Normal uptake with normal TSH",
+    "Single cold nodule in an otherwise normal gland"
+   ],
+   "items": [
+    {
+     "stem": "A 28-year-old pharmacy technician has palpitations and weight loss. There is no goitre and no eye signs. TSH is undetectable, free T4 is high and the T4:T3 ratio is about 80:1.",
+     "answer": 3,
+     "explanation": "Secret levothyroxine use suppresses TSH, gland uptake and thyroglobulin; the high T4:T3 ratio (> 70:1) is another clue to factitious thyrotoxicosis.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s4"
+     }
+    },
+    {
+     "stem": "A 74-year-old woman with a long-standing lumpy, asymmetrical goitre has an undetectable TSH and T4 just above the reference range.",
+     "answer": 2,
+     "explanation": "Toxic multinodular goitre gives patchy uptake in autonomous nodules.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s4"
+     }
+    },
+    {
+     "stem": "A 33-year-old woman is thyrotoxic with bilateral proptosis, periorbital swelling and double vision. TSH receptor antibodies are reported as negative.",
+     "answer": 0,
+     "explanation": "Two steps: proptosis with periorbital oedema and diplopia is true ophthalmopathy, which only occurs in Graves' disease; TRAb is negative in up to 20% of Graves' patients, so the scan will still show diffuse uptake.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 659,
+     "page": 637
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 660,
+     "page": 638
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 670,
+     "page": 648
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q7",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Interpreting thyroid function tests",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Primary thyrotoxicosis",
+    "T3 toxicosis",
+    "Subclinical thyrotoxicosis",
+    "Non-thyroidal illness",
+    "TSH-secreting pituitary adenoma",
+    "Over-replacement with levothyroxine",
+    "Raised thyroxine-binding globulin",
+    "Secondary hypothyroidism",
+    "Physiological hCG effect of early pregnancy",
+    "Post-partum thyroiditis"
+   ],
+   "items": [
+    {
+     "stem": "A 71-year-old woman with a nodular goitre feels well. TSH is undetectable; free T4 and free T3 are both at the top of the reference range.",
+     "answer": 2,
+     "explanation": "Undetectable TSH with T4/T3 in the upper reference range is subclinical thyrotoxicosis, typically from a multinodular goitre in older patients.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s5"
+     }
+    },
+    {
+     "stem": "A 58-year-old man on the intensive care unit with pneumonia and septic shock has TSH 0.08 mU/L, raised T4 and low T3. He has no goitre and no previous thyroid history.",
+     "answer": 3,
+     "explanation": "Low TSH, raised T4 and low T3 in a very sick patient is non-thyroidal illness (reduced T4→T3 conversion). Repeat after recovery.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s5"
+     }
+    },
+    {
+     "stem": "A 44-year-old man has headaches, sweating and palpitations. Visual field testing shows loss of the outer half of both visual fields. TSH is mildly raised and free T4 is high.",
+     "answer": 4,
+     "explanation": "Two steps: bitemporal field loss points to a pituitary mass; raised T4 with a non-suppressed TSH points to TSH-driven (secondary) thyrotoxicosis.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 658,
+     "page": 636
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 664,
+     "page": 642
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 46-year-old woman with untreated Graves' disease is admitted with pneumonia. Temperature is 40.3 °C, pulse 148/min in AF, and she is delirious. Rehydration, propranolol and carbimazole are started.",
+   "leadIn": "Which additional drug lowers T3 quickly by blocking both hormone release and T4→T3 conversion?",
+   "options": [
+    "Sodium ipodate",
+    "Digoxin",
+    "Radio-iodine (131I)",
+    "Verapamil",
+    "Levothyroxine"
+   ],
+   "answer": 0,
+   "explanation": "Sodium ipodate, an iodine-containing contrast agent, blocks thyroid hormone release and T4→T3 conversion and normalises T3 within 48–72 h. Dexamethasone has a similar effect.",
+   "whyNot": [
+    "",
+    "Digoxin controls thyrotoxic AF poorly and does not reduce hormone levels.",
+    "131I takes weeks to work and can itself precipitate storm.",
+    "Verapamil slows the heart rate but has no effect on hormone release or conversion.",
+    "Levothyroxine would add to the hormone excess."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hyperthyroidism.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 661,
+     "page": 639
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 63-year-old man with newly diagnosed Graves' disease is in AF with a ventricular rate of 128/min. He has no contraindications to any drug.",
+   "leadIn": "Which drug is most effective for controlling his ventricular rate?",
+   "options": [
+    "Propranolol",
+    "Digoxin",
+    "Amiodarone",
+    "Verapamil",
+    "Carbimazole alone"
+   ],
+   "answer": 0,
+   "explanation": "In thyrotoxic AF the ventricular rate responds well to a β-blocker and poorly to digoxin. He should also be anticoagulated, and about half revert to sinus rhythm once euthyroid.",
+   "whyNot": [
+    "",
+    "The rate in thyrotoxic AF is characteristically resistant to digoxin.",
+    "Amiodarone carries a large iodine load and can itself cause thyroid dysfunction.",
+    "Verapamil is the alternative only when β-blockers cannot be used, e.g. asthma.",
+    "Carbimazole treats the cause but takes 6–8 weeks to make patients euthyroid, so it does not control the rate now."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hyperthyroidism.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 660,
+     "page": 638
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 669,
+     "page": 647
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 659,
+     "page": 637
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 666,
+     "page": 644
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q10",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Treating Graves' disease",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Carbimazole titration regimen",
+    "Propylthiouracil",
+    "Radio-iodine (131I)",
+    "Near-total thyroidectomy",
+    "Propranolol alone",
+    "NSAID with a β-blocker",
+    "Prednisolone alone",
+    "Block-and-replace regimen",
+    "Hemithyroidectomy",
+    "Potassium iodide alone"
+   ],
+   "items": [
+    {
+     "stem": "A 25-year-old woman has her first episode of Graves' disease with a small goitre and no eye disease. She is not planning a pregnancy.",
+     "answer": 0,
+     "explanation": "For a first episode under 40, a course of carbimazole titrated over 12–18 months is the usual first choice (UK practice).",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s7"
+     }
+    },
+    {
+     "stem": "A 30-year-old woman is 8 weeks pregnant and newly diagnosed with Graves' disease.",
+     "answer": 1,
+     "explanation": "PTU is preferred in pregnancy because first-trimester carbimazole is linked to choanal atresia and aplasia cutis. 131I is absolutely contraindicated.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s7"
+     }
+    },
+    {
+     "stem": "A 34-year-old man relapses after an 18-month course of carbimazole. He has a very large goitre with pressure symptoms and active Graves' eye disease with chemosis.",
+     "answer": 3,
+     "explanation": "Two steps: active ophthalmopathy rules out radio-iodine; a large goitre and relapse in a young patient are indications for surgery, now usually near-total thyroidectomy.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 666,
+     "page": 644
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 667,
+     "page": 645
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1301,
+     "page": 1279
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q11",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "theme": "Clues to the cause of thyrotoxicosis",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Graves' disease",
+    "Toxic multinodular goitre",
+    "Toxic adenoma",
+    "Subacute (de Quervain's) thyroiditis",
+    "Post-partum thyroiditis",
+    "Amiodarone-induced thyrotoxicosis type I",
+    "Amiodarone-induced thyrotoxicosis type II",
+    "Factitious thyrotoxicosis",
+    "Checkpoint-inhibitor thyroiditis",
+    "Iodine-induced (Jod–Basedow) thyrotoxicosis"
+   ],
+   "items": [
+    {
+     "stem": "A 59-year-old man with metastatic melanoma started pembrolizumab 7 weeks ago. He now has palpitations and sweating; TSH is suppressed, free T4 raised and isotope uptake negligible.",
+     "answer": 8,
+     "explanation": "Thyroiditis is the commonest endocrine immune-related effect of checkpoint inhibitors, appearing 3–12 weeks after starting.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s2"
+     }
+    },
+    {
+     "stem": "A 68-year-old man with a known nodular goitre and normal TFTs has a CT coronary angiogram. Three weeks later he develops weight loss and AF with suppressed TSH and raised T4. He takes no regular medication.",
+     "answer": 9,
+     "explanation": "Iodinated contrast in a gland already prone to autonomy (multinodular goitre) triggers thyrotoxicosis: the Jod–Basedow effect.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s2"
+     }
+    },
+    {
+     "stem": "A 72-year-old man with a previously normal thyroid has taken amiodarone for 3 years. He becomes thyrotoxic, is started on both carbimazole and prednisolone, and his T4 falls to normal within 10 days.",
+     "answer": 6,
+     "explanation": "Two steps: a normal gland beforehand and a rapid response (1–2 weeks) to the combination point to type II (destructive) disease, which is steroid-responsive; carbimazole can be withdrawn.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s2"
+     }
+    },
+    {
+     "stem": "A 30-year-old woman, 4 months after giving birth, has palpitations and irritability. Her thyroid is small and painless. Anti-TPO antibodies are positive and isotope uptake is negligible.",
+     "answer": 4,
+     "explanation": "New thyrotoxicosis within 12 months of delivery with negligible uptake (and anti-TPO positivity) is post-partum thyroiditis.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 637,
+     "page": 615
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 669,
+     "page": 647
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 670,
+     "page": 648
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 658,
+     "page": 636
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 24-year-old man with Graves' disease and a moderate goitre is starting a course of carbimazole and asks about his chance of staying well afterwards.",
+   "leadIn": "Which feature at diagnosis most increases his risk of relapse after the course?",
+   "options": [
+    "High TSH receptor antibody titre",
+    "Older age at diagnosis",
+    "Female sex",
+    "Absence of a goitre",
+    "Absence of eye signs"
+   ],
+   "answer": 0,
+   "explanation": "Risk factors for relapse after antithyroid drugs are younger age, male sex, a goitre and high TRAb titres at diagnosis and at stopping. Overall 50–70% relapse, mostly within 2 years.",
+   "whyNot": [
+    "",
+    "Younger, not older, age raises relapse risk.",
+    "Male sex, not female, raises relapse risk.",
+    "The presence of a goitre is the risk factor.",
+    "Eye signs are not listed among the relapse predictors."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hyperthyroidism.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 666,
+     "page": 644
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 36-year-old woman has been taking carbimazole for 5 weeks for Graves' disease. She phones with a 2-day history of severe sore throat and fever of 38.6 °C.",
+   "leadIn": "What is the most appropriate immediate advice?",
+   "options": [
+    "Stop carbimazole and have an urgent full blood count",
+    "Continue carbimazole and start oral antibiotics",
+    "Halve the carbimazole dose and review in a week",
+    "Switch to propylthiouracil without a blood test",
+    "Reassure her because her baseline white cell count was normal"
+   ],
+   "answer": 0,
+   "explanation": "Sore throat or fever on an antithyroid drug may be agranulocytosis, which cannot be predicted by routine white cell counts. The drug must be stopped and a blood count checked urgently; it reverses on stopping.",
+   "whyNot": [
+    "",
+    "Continuing the drug risks progression of agranulocytosis.",
+    "Dose reduction does not remove the risk.",
+    "Agranulocytosis can occur with either drug; she needs a blood count first.",
+    "Routine counts do not predict this reaction."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hyperthyroidism.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 666,
+     "page": 644
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 663,
+     "page": 626
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 638,
+     "page": 616
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 52-year-old woman has relapsed Graves' disease without eye involvement and chooses radio-iodine.",
+   "leadIn": "Which advice is correct?",
+   "options": [
+    "Avoid pregnancy for 6 months after treatment",
+    "Lifelong normal thyroid function is the expected outcome",
+    "Restart carbimazole on the day of treatment to boost its effect",
+    "Thyroid function will be normal within 48 hours",
+    "A second dose is never possible"
+   ],
+   "answer": 0,
+   "explanation": "After 131I, pregnancy (and fathering children) should be avoided for 6 months. It works in about 75% within 4–12 weeks; most patients eventually become hypothyroid; carbimazole is avoided until 48 h after because it blocks organification; a second dose can be given at 6 months.",
+   "whyNot": [
+    "",
+    "Hypothyroidism is about 40% in the first year and 80% by 15 years.",
+    "Carbimazole reduces 131I efficacy and should be avoided until 48 h after the dose.",
+    "The effect takes 4–12 weeks.",
+    "A further dose can be given if still toxic at 6 months."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hyperthyroidism.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 667,
+     "page": 645
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 666,
+     "page": 644
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 73-year-old woman with a multinodular goitre feels well. Her TSH is undetectable on two occasions, with free T4 and T3 at the upper end of the reference range.",
+   "leadIn": "Which complication is she at increased risk of?",
+   "options": [
+    "Atrial fibrillation",
+    "Hyponatraemia",
+    "Macrocytic anaemia",
+    "Carpal tunnel syndrome",
+    "Hypercholesterolaemia"
+   ],
+   "answer": 0,
+   "explanation": "Subclinical thyrotoxicosis raises the risk of AF and osteoporosis, and converts to overt disease at about 5% a year, so it is usually treated with 131I.",
+   "whyNot": [
+    "",
+    "Hyponatraemia is a feature of hypothyroidism.",
+    "Macrocytic anaemia is associated with hypothyroidism.",
+    "Carpal tunnel syndrome is a hypothyroid feature.",
+    "Raised cholesterol is a feature of hypothyroidism."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hyperthyroidism.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 664,
+     "page": 642
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 660,
+     "page": 638
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 659,
+     "page": 637
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q16",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 1,
+   "stem": "A 27-year-old woman has 2 months of weight loss despite a good appetite, palpitations and gritty, watery eyes. She has a soft, diffuse goitre with a bruit and bilateral proptosis. TSH is undetectable and free T4 is raised.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Graves' disease",
+    "Toxic multinodular goitre",
+    "Subacute thyroiditis",
+    "Toxic adenoma",
+    "Factitious thyrotoxicosis"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: undetectable TSH with raised T4 confirms primary thyrotoxicosis. Step 2: look for Graves'-specific features. Proptosis (not just lid lag) and a diffuse goitre with a bruit only occur in Graves' disease. Step 3: with clear Graves' features, a scan is not needed; TRAb supports the diagnosis. Remember: young woman + diffuse bruit + true eye disease = Graves'.",
+   "whyNot": [
+    "",
+    "Toxic MNG gives an irregular nodular gland in older patients and no ophthalmopathy.",
+    "Subacute thyroiditis gives a painful tender gland after a viral illness.",
+    "A toxic adenoma is a single nodule with an atrophic remaining gland.",
+    "Factitious disease gives no goitre and no eye disease."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hyperthyroidism.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 658,
+     "page": 636
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 660,
+     "page": 638
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q17",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 50-year-old woman with poorly controlled Graves' disease presents with a urinary tract infection. Temperature 40.1 °C, pulse 146/min in sinus rhythm, she is agitated but orientated, and has vomiting and diarrhoea. There is no heart failure and no jaundice.",
+   "leadIn": "How should her Burch–Wartofsky score be interpreted?",
+   "options": [
+    "Likely thyroid storm (score ≥ 45)",
+    "Impending thyroid storm (score 25–44)",
+    "Storm unlikely (score < 25)",
+    "Cannot be scored without AF",
+    "Cannot be scored until TFTs are back"
+   ],
+   "answer": 0,
+   "explanation": "Add the domains: temperature ≥ 40.0 °C = 30; pulse ≥ 140 = 25; CNS mild (agitation) = 10; GI moderate (vomiting/diarrhoea) = 10; precipitant (infection) = 10; AF absent = 0; heart failure absent = 0. Total = 85, well above 45, so storm is likely. The score is clinical and does not need TFT results. Treat at once: fluids, propranolol, sodium ipodate or steroid, and carbimazole.",
+   "whyNot": [
+    "",
+    "The total is 85, above the 25–44 band.",
+    "The total is far above 25.",
+    "AF adds 10 points when present, but its absence just scores 0.",
+    "The score uses clinical features only."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hyperthyroidism.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 661,
+     "page": 639
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q18",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 67-year-old man has taken amiodarone for 2 years for ventricular tachycardia. He now has weight loss and tremor; TSH is suppressed and free T4 high. Isotope uptake is low. It is unclear whether his thyroid was abnormal before amiodarone. Cardiology advise that amiodarone cannot be stopped.",
+   "leadIn": "What is the most appropriate initial treatment?",
+   "options": [
+    "Carbimazole plus prednisolone, then withdraw one according to the response",
+    "Radio-iodine (131I)",
+    "Carbimazole alone for 18 months",
+    "Levothyroxine",
+    "Observation until amiodarone washes out"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: amiodarone thyrotoxicosis is type I (iodine-driven synthesis in an abnormal gland, responds to antithyroid drugs) or type II (destructive thyroiditis, responds to prednisolone); uptake is low in both, so they are hard to tell apart. Step 2: the practical approach is to start both. A quick response within 1–2 weeks suggests type II, so stop the antithyroid drug; a slower response suggests type I, so stop the steroid. Step 3: 131I does not work because the iodine-loaded gland resists it.",
+   "whyNot": [
+    "",
+    "The iodine load makes the gland resistant to 131I.",
+    "Carbimazole alone is ineffective if this is type II.",
+    "Levothyroxine treats amiodarone-induced hypothyroidism, not thyrotoxicosis.",
+    "Amiodarone has a half-life of 50–60 days, so its effects last a long time and active treatment is needed."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hyperthyroidism.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 669,
+     "page": 647
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 670,
+     "page": 648
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q19",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Complications of thyrotoxicosis and its treatment",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Agranulocytosis",
+    "Hepatotoxicity",
+    "Hypocalcaemia from hypoparathyroidism",
+    "Recurrent laryngeal nerve palsy",
+    "Permanent hypothyroidism",
+    "Worsening ophthalmopathy",
+    "Thyroid storm",
+    "Optic nerve compression",
+    "Choanal atresia",
+    "Drug rash"
+   ],
+   "items": [
+    {
+     "stem": "A 38-year-old woman has tingling around the mouth and painful spasms of her hands 2 days after a thyroidectomy for Graves' disease.",
+     "answer": 2,
+     "explanation": "Damage to or removal of the parathyroids causes post-operative hypocalcaemia (transient in about 10%, permanent hypoparathyroidism in about 1%).",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s7"
+     }
+    },
+    {
+     "stem": "A 61-year-old man treated with radio-iodine 9 years ago now has tiredness, weight gain and constipation. His TSH is raised.",
+     "answer": 4,
+     "explanation": "Hypothyroidism after 131I is common (about 40% in year 1, 80% by 15 years), hence lifelong annual TSH checks.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s7"
+     }
+    },
+    {
+     "stem": "A newborn has breathing difficulty because both posterior nasal passages are blocked. His mother took carbimazole throughout early pregnancy.",
+     "answer": 8,
+     "explanation": "First-trimester carbimazole is linked to choanal atresia and aplasia cutis, which is why PTU is preferred in early pregnancy.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s7"
+     }
+    },
+    {
+     "stem": "A 45-year-old smoker with Graves' eye disease notices colours look washed out and her vision is blurred in the right eye. The right pupil shows a relative afferent defect.",
+     "answer": 7,
+     "explanation": "Reduced acuity, loss of colour vision and an RAPD are signs of optic nerve compression, an indication for urgent orbital decompression.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 666,
+     "page": 644
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 667,
+     "page": 645
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1301,
+     "page": 1279
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 668,
+     "page": 646
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q20",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Drugs used in thyrotoxicosis",
+   "leadIn": "For each description below, choose the most appropriate drug from the list. Any option can be the answer for several descriptions, or for none.",
+   "options": [
+    "Carbimazole",
+    "Propylthiouracil",
+    "Propranolol",
+    "Potassium iodide",
+    "Sodium ipodate",
+    "Dexamethasone",
+    "Selenium",
+    "Levothyroxine",
+    "Verapamil",
+    "Prednisolone"
+   ],
+   "items": [
+    {
+     "stem": "A drug that blocks iodination of tyrosine, is the usual first-line agent in the UK, and can be given rectally to an unconscious patient in thyroid storm.",
+     "answer": 0,
+     "explanation": "Carbimazole inhibits tyrosine iodination; it has no IV form but works rectally.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s7"
+     }
+    },
+    {
+     "stem": "Given for 10 days before thyroidectomy to reduce hormone release and gland vascularity; surgery must follow within 10–14 days.",
+     "answer": 3,
+     "explanation": "Potassium iodide uses the Wolff–Chaikoff effect, which wears off after about 10 days (escape).",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s7"
+     }
+    },
+    {
+     "stem": "Taken for 6 months by a patient with mild Graves' eye disease to slow its progression.",
+     "answer": 6,
+     "explanation": "Selenium 100 µg twice daily improves mild ophthalmopathy and quality of life.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s7"
+     }
+    },
+    {
+     "stem": "Used for heart-rate control in a thyrotoxic patient with asthma.",
+     "answer": 8,
+     "explanation": "Verapamil is the alternative when β-blockers are contraindicated, though it mainly slows the heart rate.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 661,
+     "page": 639
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 666,
+     "page": 644
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 667,
+     "page": 645
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 669,
+     "page": 647
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 668,
+     "page": 646
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 660,
+     "page": 638
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q21",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 29-year-old woman with Graves' disease, treated with PTU during pregnancy, is now 32 weeks pregnant. The obstetric team wants to assess the risk to the baby after birth.",
+   "leadIn": "Which test best predicts neonatal thyrotoxicosis?",
+   "options": [
+    "Maternal TSH receptor antibodies",
+    "Maternal anti-TPO antibodies",
+    "Maternal serum thyroglobulin",
+    "Maternal free T3",
+    "Maternal hCG"
+   ],
+   "answer": 0,
+   "explanation": "TRAb crosses the placenta and can stimulate the fetal/neonatal thyroid. Measuring TRAb in the third trimester predicts neonatal thyrotoxicosis.",
+   "whyNot": [
+    "",
+    "Anti-TPO antibodies do not stimulate the TSH receptor.",
+    "Thyroglobulin reflects thyroid tissue/leakage, not risk to the baby.",
+    "Maternal T3 reflects her own control, not antibody transfer.",
+    "hCG affects maternal TFTs in early pregnancy only."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hyperthyroidism.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1301,
+     "page": 1279
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q22",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 32-year-old woman has a painful, tender thyroid 2 weeks after a viral illness. TSH is suppressed, T4 raised, ESR high, and isotope uptake negligible.",
+   "leadIn": "What is the most appropriate treatment?",
+   "options": [
+    "NSAID with a β-blocker",
+    "Carbimazole",
+    "Radio-iodine (131I)",
+    "Total thyroidectomy",
+    "Levothyroxine"
+   ],
+   "answer": 0,
+   "explanation": "Subacute thyroiditis: pain responds to NSAIDs (prednisolone if severe) and the mild thyrotoxicosis to a β-blocker. Antithyroid drugs don't help because synthesis is reduced, not increased.",
+   "whyNot": [
+    "",
+    "Hormone synthesis is impaired, so blocking it achieves nothing.",
+    "Uptake is negligible and the condition is self-limiting.",
+    "Surgery has no role in a transient inflammation.",
+    "Levothyroxine may be needed later, in the hypothyroid phase, not now."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hyperthyroidism.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 668,
+     "page": 646
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 485,
+     "page": 485
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 66-year-old woman has toxic multinodular goitre with a moderate goitre and no compression symptoms. She is otherwise well.",
+   "leadIn": "What is the most appropriate definitive treatment?",
+   "options": [
+    "Radio-iodine (131I)",
+    "An 18-month carbimazole course aiming for remission",
+    "Levothyroxine",
+    "Prednisolone",
+    "NSAID with a β-blocker"
+   ],
+   "answer": 0,
+   "explanation": "Toxic MNG is usually treated with 131I, often at a higher dose because uptake is lower. Surgery is for large goitres; long-term drugs only for the frail. Relapse after stopping antithyroid drugs is invariable.",
+   "whyNot": [
+    "",
+    "Remission does not occur in autonomous nodular disease; relapse follows withdrawal.",
+    "Levothyroxine does not shrink MNG and may worsen thyrotoxicosis.",
+    "Steroids treat type II amiodarone and severe thyroiditis, not nodular autonomy.",
+    "This is for transient thyroiditis."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hyperthyroidism.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 671,
+     "page": 649
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q24",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 3,
+   "theme": "Choosing the next investigation",
+   "leadIn": "For each patient below, choose the most appropriate next investigation. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Serum TSH",
+    "Free T4 and T3",
+    "TSH receptor antibodies",
+    "99mTc pertechnetate scan",
+    "ESR",
+    "Serum thyroglobulin",
+    "12-lead ECG",
+    "CT of the neck and upper thorax",
+    "Visual acuity, colour vision and pupil examination",
+    "Anti-TPO antibodies",
+    "MRI of the pituitary"
+   ],
+   "items": [
+    {
+     "stem": "A 66-year-old woman, known for many years to have a multinodular goitre, has developed noisy breathing. Pemberton's sign is positive. The lower edge of the goitre cannot be felt.",
+     "answer": 7,
+     "explanation": "A retrosternal goitre causing stridor needs CT to show tracheal compression and the extent of the goitre.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s5"
+     }
+    },
+    {
+     "stem": "A 37-year-old man with Graves' disease and proptosis reports that his vision has become blurred over a week.",
+     "answer": 8,
+     "explanation": "Blurred vision in ophthalmopathy may mean optic nerve compression: check acuity, colour vision and for an RAPD urgently, because loss of acuity needs urgent decompression.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s3"
+     }
+    },
+    {
+     "stem": "A 43-year-old woman has confirmed thyrotoxicosis (undetectable TSH, raised free T4). She has no eye signs, no neck pain, takes no drugs, has not been pregnant recently, and no goitre or nodule can be felt. TSH receptor antibodies are negative.",
+     "answer": 3,
+     "explanation": "Two steps: there are no clues to either Graves' or a non-Graves' cause, and a negative TRAb does not exclude Graves'. The next step is a technetium scan to show the uptake pattern.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 670,
+     "page": 648
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 653,
+     "page": 631
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 667,
+     "page": 645
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 660,
+     "page": 638
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q25",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 3,
+   "stem": "A 29-year-old woman with Graves' disease is on a block-and-replace regimen (carbimazole plus levothyroxine). She plans to try for a baby in the next few months.",
+   "leadIn": "What is the most appropriate change to her treatment?",
+   "options": [
+    "Switch to propylthiouracil alone at the lowest effective dose",
+    "Continue block-and-replace through pregnancy",
+    "Give radio-iodine now so she can conceive next month",
+    "Increase carbimazole and stop levothyroxine",
+    "Stop all treatment once she conceives"
+   ],
+   "answer": 0,
+   "explanation": "Block-and-replace is unsuitable in pregnancy because carbimazole crosses the placenta more readily than T4, risking fetal hypothyroidism. PTU is preferred before conception and in the first trimester (carbimazole is linked to choanal atresia/aplasia cutis), at the lowest dose that keeps her euthyroid.",
+   "whyNot": [
+    "",
+    "Kumar states block-and-replace is contraindicated in pregnancy.",
+    "131I requires avoiding pregnancy for 6 months afterwards.",
+    "Carbimazole in early pregnancy carries teratogenic risk, and higher doses risk fetal hypothyroidism.",
+    "Uncontrolled thyrotoxicosis harms the fetus (tachycardia, growth restriction, stillbirth)."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hyperthyroidism.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 638,
+     "page": 616
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 639,
+     "page": 617
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1301,
+     "page": 1279
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 666,
+     "page": 644
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q26",
+   "kind": "emq",
+   "pool": "mock",
+   "difficulty": 2,
+   "theme": "Management in special situations",
+   "leadIn": "For each patient below, choose the most appropriate management. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Carbimazole plus prednisolone, then withdraw one according to response",
+    "Radio-iodine (131I)",
+    "Hemithyroidectomy",
+    "NSAID with a β-blocker",
+    "Propylthiouracil at the lowest effective dose",
+    "IV methylprednisolone",
+    "Urgent orbital decompression",
+    "Long-term low-dose carbimazole",
+    "Temporary levothyroxine",
+    "Stop smoking, lubricating drops and selenium"
+   ],
+   "items": [
+    {
+     "stem": "A 35-year-old woman who smokes has mild Graves' eye disease with gritty, watering eyes. Acuity and colour vision are normal and there is no active inflammation.",
+     "answer": 9,
+     "explanation": "Mild ophthalmopathy: smoking cessation, lubricants and 6 months of selenium.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s7"
+     }
+    },
+    {
+     "stem": "An 86-year-old woman in a nursing home with severe COPD and dementia has toxic multinodular goitre. She cannot comply with radiation-safety precautions and is not fit for surgery.",
+     "answer": 7,
+     "explanation": "Long-term antithyroid drugs are reserved for frail older patients in whom 131I or surgery is not appropriate, since relapse after stopping is invariable.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s7"
+     }
+    },
+    {
+     "stem": "A 33-year-old woman had de Quervain's thyroiditis 10 weeks ago. She now feels tired and cold; TSH is raised and T4 low.",
+     "answer": 8,
+     "explanation": "Two steps: after the thyrotoxic phase of transient thyroiditis comes a hypothyroid phase; symptomatic patients get temporary levothyroxine, as function usually recovers within 4–6 months.",
+     "studyRef": {
+      "sectionId": "endo-hyperthyroidism.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 668,
+     "page": 646
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 671,
+     "page": 649
+    }
+   ]
+  },
+  {
+   "id": "endo-hyperthyroidism.q27",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 48-year-old man with Graves' disease has diplopia. Orbital CT shows bulky extraocular muscles crowding the orbital apex.",
+   "leadIn": "Which process best explains the muscle enlargement?",
+   "options": [
+    "Fibroblast secretion of glycosaminoglycans with inflammatory infiltration",
+    "Sympathetic over-activity of levator palpebrae superioris",
+    "Haemorrhage into the extraocular muscles",
+    "Direct toxic effect of excess T3 on muscle fibres",
+    "Lymphoma infiltrating the orbit"
+   ],
+   "answer": 0,
+   "explanation": "Cytokine-stimulated orbital fibroblasts secrete hydrophilic glycosaminoglycans; fluid and inflammatory cells swell and later scar the muscles, raising retrobulbar pressure and causing proptosis and possible optic nerve compression.",
+   "whyNot": [
+    "",
+    "Sympathetic over-activity explains lid retraction/lag in any thyrotoxicosis, not muscle swelling.",
+    "Haemorrhage is not the mechanism of Graves' ophthalmopathy.",
+    "Eye disease does not follow hormone levels and is immune-mediated.",
+    "Lymphoma is a rare complication of Hashimoto's thyroiditis, not the cause of Graves' muscle enlargement."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hyperthyroidism.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 667,
+     "page": 645
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 668,
+     "page": 646
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 658,
+     "page": 636
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "endo-hyperthyroidism.o1",
+   "sectionId": "endo-hyperthyroidism.s3",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 667,
+    "page": 645,
+    "figure": "Fig. 18.8"
+   },
+   "identify": "Graves' ophthalmopathy: bilateral proptosis with periorbital swelling; CT shows enlarged extraocular muscles compressing the optic nerve at the orbital apex (reduced acuity)."
+  },
+  {
+   "id": "endo-hyperthyroidism.o2",
+   "sectionId": "endo-hyperthyroidism.s3",
+   "cite": {
+    "book": "stepup6",
+    "pdfPage": 451,
+    "page": 451,
+    "figure": "FIGURE 4-6"
+   },
+   "identify": "Exophthalmos (Step-Up photograph): eyes pushed forward by retro-orbital swelling, a sign specific to Graves' disease. Lid retraction or stare on its own can occur with any cause of thyrotoxicosis."
+  },
+  {
+   "id": "endo-hyperthyroidism.o3",
+   "sectionId": "endo-hyperthyroidism.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 660,
+    "page": 638,
+    "figure": "Fig. 18.5"
+   },
+   "identify": "Technetium scans: negligible uptake (thyroiditis/exogenous T4), single hot nodule with suppressed gland (toxic adenoma), patchy nodules (toxic MNG), diffuse uptake (Graves')."
+  },
+  {
+   "id": "endo-hyperthyroidism.o4",
+   "sectionId": "endo-hyperthyroidism.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 670,
+    "page": 648,
+    "figure": "Fig. 18.12"
+   },
+   "identify": "CT neck/thorax: retrosternal multinodular goitre compressing the trachea, causing stridor and breathlessness."
+  },
+  {
+   "id": "endo-hyperthyroidism.o5",
+   "sectionId": "endo-hyperthyroidism.s6",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 640,
+    "page": 618,
+    "figure": "Fig. 21.24"
+   },
+   "identify": "ECG of thyrotoxic cardiomyopathy: marked lateral T-wave inversion that reverses once euthyroid."
+  },
+  {
+   "id": "endo-hyperthyroidism.o6",
+   "sectionId": "endo-hyperthyroidism.s1",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 668,
+    "page": 646,
+    "figure": "Fig. 18.9"
+   },
+   "identify": "TFT graph of transient thyroiditis: high T4/T3 with suppressed TSH, then a hypothyroid phase, then recovery by about 6 months."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:32:20.872Z",
+  "contentHash": "46b86d30d01c538d47c04768741416b3fa4e46de8b93834c4e90fb77bc6ae725"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:32:20.882Z",
+  "contentHash": "46b86d30d01c538d47c04768741416b3fa4e46de8b93834c4e90fb77bc6ae725",
+  "checkerVersion": "source-check-v1"
+ }
+}

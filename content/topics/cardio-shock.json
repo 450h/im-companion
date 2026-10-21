@@ -1,0 +1,3443 @@
+{
+ "topicId": "cardio-shock",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "cardio-shock.s1",
+   "title": "Definition, oxygen delivery and categories of shock",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Shock is **circulatory failure**: the oxygen delivered to the tissues (DO2) no longer meets their metabolic needs. Kumar frames it as inadequate or **maldistributed** perfusion, producing generalised cellular hypoxia and/or cells that cannot use the oxygen they receive. **Hypotension is not the same thing as shock**: a patient can be hypotensive yet perfusing well, or critically under-perfused with an apparently \"normal\" BP.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 215,
+       "page": 193,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 233,
+       "page": 214,
+       "chapter": "Critical care medicine"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Oxygen delivery and blood pressure",
+     "items": [
+      "**O2 content** ≈ haemoglobin × saturation × a constant (almost all O2 is carried on Hb).",
+      "**Cardiac output** = heart rate × stroke volume; stroke volume depends on **preload** (filling) and **contractility**.",
+      "In shock, the two most productive levers on DO2 are **optimising Hb** and **optimising cardiac output**.",
+      "**MAP = diastolic + (systolic − diastolic)/3** (weighted to diastole because diastole fills about two-thirds of the cycle).",
+      "MAP **> 65 mmHg** keeps the kidneys perfused in most patients; people with chronic hypertension may need up to **80 mmHg**. A physiological MAP below 65 is rare."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 215,
+       "page": 193,
+       "chapter": "Acute medicine and critical illness"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Categories of shock",
+     "columns": [
+      "Category",
+      "Core problem",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Hypovolaemic",
+       "Loss of circulating volume → low preload",
+       "Haemorrhage; burns, GI losses, hyperglycaemic hyperosmolar state"
+      ],
+      [
+       "Cardiogenic",
+       "Pump failure",
+       "Acute MI, arrhythmia, acute valve lesion, myocarditis"
+      ],
+      [
+       "Obstructive",
+       "Mechanical block to forward flow or filling",
+       "Massive PE, cardiac tamponade, tension pneumothorax"
+      ],
+      [
+       "Distributive — septic",
+       "Vasodilatation, leak, maldistributed flow",
+       "Pneumonia, urinary or abdominal sepsis"
+      ],
+      [
+       "Distributive — anaphylactic",
+       "Allergen-triggered vasodilatation and capillary leak",
+       "Bee sting, drug reaction"
+      ],
+      [
+       "Distributive — neurogenic",
+       "Loss of sympathetic vasomotor tone",
+       "High cervical cord or major brain injury (hypotension **with bradycardia**); autonomic Guillain–Barré"
+      ],
+      [
+       "Other",
+       "Drug or endocrine",
+       "Calcium-channel-blocker overdose, Addisonian crisis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 228,
+       "page": 206,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 153,
+       "page": 153,
+       "chapter": "Cardiovascular"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 234,
+       "page": 215,
+       "chapter": "Critical care medicine"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 159,
+       "page": 159,
+       "chapter": "Cardiovascular"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Compensation:** falling BP stimulates baroreceptors (and chemoreceptors), driving sympathetic activity and adrenal catecholamine release → vasoconstriction, tachycardia and stronger contraction. Renal hypoperfusion switches on **renin–angiotensin–aldosterone** (vasoconstriction plus Na and water retention), and the stress response releases ADH, ACTH/cortisol and glucagon.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 234,
+       "page": 215,
+       "chapter": "Critical care medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 609,
+       "page": 572,
+       "chapter": "Intensive care medicine"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Uncorrected, shock activates **coagulation** (microvascular thrombosis, possible DIC) and spreading inflammation leads to **multiple organ dysfunction syndrome (MODS)**, which carries a high mortality.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 612,
+       "page": 575,
+       "chapter": "Intensive care medicine"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Mechanisms frequently **overlap**: septic shock is mainly distributive but is commonly compounded by hypovolaemia (leak) and myocardial depression.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 234,
+       "page": 215,
+       "chapter": "Critical care medicine"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.s2",
+   "title": "Etiology of cardiogenic shock",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Cardiogenic shock** is hypoperfusion caused by an inadequate cardiac output — formally a **cardiac index < 2.2 L/min/m²**. Many illnesses (sepsis, haemorrhage, anaphylaxis) can end in pump failure, but the _primary_ cardiac causes below are the ones to recognise.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 221,
+       "page": 199,
+       "chapter": "Acute medicine and critical illness"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Primary causes of cardiogenic shock",
+     "columns": [
+      "Group",
+      "Causes"
+     ],
+     "rows": [
+      [
+       "Acute MI (commonest)",
+       "**LV dysfunction** in most; **RV infarction**; mechanical complications: free-wall rupture → tamponade, septal rupture → acquired **VSD**, papillary-muscle infarction/rupture → acute **MR**"
+      ],
+      [
+       "Other myocardial",
+       "Myocarditis, decompensated chronic heart failure, post-cardiac-arrest state"
+      ],
+      [
+       "Rhythm",
+       "Ventricular tachycardia (from LV damage, MI or myocarditis), other tachy- or bradyarrhythmias"
+      ],
+      [
+       "Valve / aorta",
+       "Acute valve lesion (e.g. mitral endocarditis, cusp rupture), aortic dissection"
+      ],
+      [
+       "Obstructive (Davidson groups with cardiogenic)",
+       "Massive PE, cardiac tamponade"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 221,
+       "page": 199,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 222,
+       "page": 200,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 155,
+       "page": 155,
+       "chapter": "Cardiovascular"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 611,
+       "page": 574,
+       "chapter": "Intensive care medicine"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**The downward spiral:** systolic failure lowers cardiac output, BP and therefore **coronary perfusion**, causing more ischaemia. Diastolic failure raises LV end-diastolic pressure → pulmonary congestion → **hypoxaemia**, which worsens ischaemia further. Reflex peripheral vasoconstriction adds afterload and tightens the spiral.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 221,
+       "page": 199,
+       "chapter": "Acute medicine and critical illness"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Killip class (heart failure after MI)",
+     "items": [
+      "**I** — no crackles, no S3",
+      "**II** — crackles in < 50% of lung fields, or an S3",
+      "**III** — crackles in > 50% of lung fields",
+      "**IV** — cardiogenic shock"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1106,
+       "page": 1090,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Myocardial stunning:** viable muscle around a fresh infarct can contract poorly for several days and then recover — so heart failure early after MI deserves aggressive treatment.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 221,
+       "page": 199,
+       "chapter": "Acute medicine and critical illness"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Definitions differ by source. **Davidson: cardiac index < 2.2 L/min/m²** (follow this). Pocket Medicine adds MAP < 60 mmHg and PCWP > 18 mmHg (post-MI shock in ~7%); Step-Up uses SBP < 90 mmHg with urine < 20 mL/h despite adequate (usually high) LV filling pressure. All agree: low output **with high filling pressures**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 221,
+       "page": 199,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 47,
+       "page": 47,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 155,
+       "page": 155,
+       "chapter": "Cardiovascular"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 222,
+      "page": 200,
+      "chapter": "Acute medicine and critical illness",
+      "figure": "Fig. 10.16"
+     },
+     "note": "Look at: the six cartoons of cardiogenic causes — LV infarct, RV infarct, tamponade, mitral endocarditis, PE and VT. Fig. 10.17 on the same page draws the downward spiral."
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.s3",
+   "title": "Etiology of septic shock",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Sepsis-3 definitions (as in Davidson)",
+     "columns": [
+      "Term",
+      "Criteria"
+     ],
+     "rows": [
+      [
+       "Sepsis",
+       "Life-threatening organ dysfunction from a dysregulated host response to infection: suspected infection plus a **SOFA rise ≥ 2**, or ≥ 2 of **SBP < 100 mmHg**, **GCS ≤ 14**, **RR ≥ 22/min**"
+      ],
+      [
+       "Septic shock",
+       "Sepsis in which, **after fluid resuscitation**, both persist: **vasopressors needed to keep MAP > 65 mmHg** and **lactate > 2 mmol/L** (18 mg/dL)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 218,
+       "page": 196,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 173,
+       "page": 154,
+       "chapter": "Sepsis and bacterial infection"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**SIRS is no longer used to define sepsis.** Older texts (Step-Up) still use SIRS (≥ 2 of temp > 38 or < 36 °C, HR > 90, RR > 20 or PaCO2 < 32 mmHg, WBC > 12 or < 4 ×10⁹/L) + infection. qSOFA only **flags high risk** — it is not diagnostic. Davidson writes SBP **< 100**; Kumar and Pocket write **≤ 100**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 173,
+       "page": 154,
+       "chapter": "Sepsis and bacterial infection"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 161,
+       "page": 161,
+       "chapter": "Cardiovascular"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 218,
+       "page": 196,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 187,
+       "page": 187,
+       "chapter": "Pulmonary and ICU"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 615,
+       "page": 578,
+       "chapter": "Intensive care medicine"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Common sources",
+     "items": [
+      "**Community-acquired pneumonia** — the commonest cause of sepsis needing ICU",
+      "Urinary tract infection, intra-abdominal (peritonitis, cholangitis, abscess)",
+      "Meningitis, cellulitis and other soft-tissue infection",
+      "Viral and fungal infection can produce a picture identical to bacterial sepsis"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 238,
+       "page": 219,
+       "chapter": "Critical care medicine"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 159,
+       "page": 159,
+       "chapter": "Cardiovascular"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 218,
+       "page": 196,
+       "chapter": "Acute medicine and critical illness"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Why a local infection becomes systemic",
+     "items": [
+      "Genetic susceptibility",
+      "Large organism load or high virulence",
+      "Delayed source control (surgical or antimicrobial)",
+      "Resistant organism",
+      "Host factors — immune status, nutrition, frailty"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 218,
+       "page": 196,
+       "chapter": "Acute medicine and critical illness"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Pathogenesis:** microbial patterns (PAMPs — e.g. Gram-negative **LPS/lipid A**, bound by LBP and signalling through **CD14/TLR4**; Gram-positive lipoteichoic acid) and danger signals from damaged cells (**alarmins/DAMPs**) trigger macrophages to release **TNF-α, IL-6** and other cytokines. Activated neutrophils damage endothelium; **inducible NO synthase** causes vasodilatation; fluid and protein leak out (intravascular depletion); tissue-factor-driven microthrombosis can progress to **DIC**, which usually heralds multi-organ failure.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 218,
+       "page": 196,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 236,
+       "page": 217,
+       "chapter": "Critical care medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 612,
+       "page": 575,
+       "chapter": "Intensive care medicine"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Haemodynamics:** SVR falls (warm, vasodilated), cardiac output is usually **normal or high**, yet contractility and EF are reduced. Arteriovenous shunting and **mitochondrial failure** mean tissues cannot extract O2 → **raised mixed venous saturation with lactic acidosis** (\"tissue dysoxia\").",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 236,
+       "page": 217,
+       "chapter": "Critical care medicine"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 160,
+       "page": 160,
+       "chapter": "Cardiovascular"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 219,
+       "page": 197,
+       "chapter": "Acute medicine and critical illness"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Sterile insults — **pancreatitis, burns, major trauma or surgery** — release DAMPs and can produce the same inflammatory and haemodynamic picture as infection.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 218,
+       "page": 196,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 612,
+       "page": 575,
+       "chapter": "Intensive care medicine"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Sepsis is the leading cause of death in non-coronary adult ICUs; mortality runs **20–60%**, rising with the **number of failing organs**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 238,
+       "page": 219,
+       "chapter": "Critical care medicine"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 219,
+      "page": 197,
+      "chapter": "Acute medicine and critical illness",
+      "figure": "Fig. 10.12"
+     },
+     "note": "Look at: the four levels of organ damage in sepsis — macrovascular, microvascular, arteriovenous shunting and cellular (mitochondrial) injury."
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.s4",
+   "title": "Etiology of hypovolaemic shock",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Causes of hypovolaemic shock",
+     "columns": [
+      "Type",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Haemorrhagic",
+       "Trauma, GI bleeding, retroperitoneal bleeding, major fractures, ruptured aortic aneurysm"
+      ],
+      [
+       "Non-haemorrhagic — external loss",
+       "Severe vomiting or diarrhoea, dehydration, **burns**, osmotic diuresis in **hyperglycaemic hyperosmolar state**"
+      ],
+      [
+       "Non-haemorrhagic — third space",
+       "Fluid pooling in the lumen in **bowel obstruction**"
+      ],
+      [
+       "Relative (part of another shock)",
+       "Capillary leak and sequestration in sepsis and anaphylaxis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 228,
+       "page": 206,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 158,
+       "page": 158,
+       "chapter": "Cardiovascular"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 611,
+       "page": 574,
+       "chapter": "Intensive care medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 240,
+       "page": 221,
+       "chapter": "Critical care medicine"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Volume loss lowers **preload**, so stroke volume and cardiac output fall; SVR rises as compensation. Losses that develop **slowly** are tolerated better, while sudden loss and cardiac comorbidity worsen outcome. Compensation starts to fail once roughly **20–25% of blood volume** is lost.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 157,
+       "page": 157,
+       "chapter": "Cardiovascular"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 158,
+       "page": 158,
+       "chapter": "Cardiovascular"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Do not miss **concealed bleeding** into the pleura, GI tract or retroperitoneum. Early in acute haemorrhage — before about 30 mL/kg of fluid has been given — the **Hb can be falsely reassuring** (haemodilution has not yet happened).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 214,
+       "page": 192,
+       "chapter": "Acute medicine and critical illness"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.s5",
+   "title": "Clinical picture",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Features common to all shock",
+     "items": [
+      "Hypotension (SBP < 90 mmHg or a fall > 40 mmHg), **tachycardia**",
+      "**Oliguria** (< 0.5 mL/kg/h)",
+      "Altered mental state — drowsiness, confusion, agitation",
+      "Metabolic (lactic) acidosis with compensatory **tachypnoea**"
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 187,
+       "page": 187,
+       "chapter": "Pulmonary and ICU"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 154,
+       "page": 154,
+       "chapter": "Cardiovascular"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 237,
+       "page": 218,
+       "chapter": "Critical care medicine"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Bedside discrimination",
+     "columns": [
+      "Shock type",
+      "Peripheries / pulse",
+      "JVP",
+      "Extra clues"
+     ],
+     "rows": [
+      [
+       "Hypovolaemic",
+       "Cold, pale, clammy; slow capillary refill (> 3 s); thready pulse, **narrow pulse pressure**",
+       "Low",
+       "Trauma, GI bleed, vomiting/diarrhoea"
+      ],
+      [
+       "Cardiogenic",
+       "Cold, clammy",
+       "**Raised**",
+       "Gallop (S3/S4), pulsus alternans, basal crackles, pulmonary oedema"
+      ],
+      [
+       "Obstructive",
+       "Cold",
+       "**Raised**",
+       "Tamponade: muffled heart sounds, pulsus paradoxus, Kussmaul sign. PE: RV heave, loud P2"
+      ],
+      [
+       "Septic",
+       "**Warm**, bounding pulse, rapid refill, low diastolic / **wide pulse pressure**",
+       "Low",
+       "Fever or hypothermia, focus of infection"
+      ],
+      [
+       "Anaphylactic",
+       "Warm, vasodilated",
+       "Low",
+       "Urticaria, angio-oedema, wheeze/stridor, GI upset; recent drug or allergen"
+      ],
+      [
+       "Neurogenic",
+       "Warm",
+       "Low",
+       "Spinal injury; **bradycardia** despite hypotension"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 237,
+       "page": 218,
+       "chapter": "Critical care medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 614,
+       "page": 577,
+       "chapter": "Intensive care medicine"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 160,
+       "page": 160,
+       "chapter": "Cardiovascular"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 154,
+       "page": 154,
+       "chapter": "Cardiovascular"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 228,
+       "page": 206,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 238,
+       "page": 219,
+       "chapter": "Critical care medicine"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "High- versus low-output hypotension (Davidson)",
+     "columns": [
+      "Feature",
+      "High cardiac output",
+      "Low cardiac output"
+     ],
+     "rows": [
+      [
+       "Signs",
+       "Warm hands, strong pulse, low venous pressure",
+       "Cold/clammy, peripheral cyanosis, raised venous pressure"
+      ],
+      [
+       "Causes",
+       "Sepsis, allergy, drug overdose, acidosis (DKA), thyrotoxicosis, beri-beri",
+       "Bleeding, aortic stenosis, dysrhythmia, obstruction (PE, tamponade), chronic heart failure"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 215,
+       "page": 193,
+       "chapter": "Acute medicine and critical illness"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "A **low-output** state presents with hypotension, oliguria, delirium and cold clammy peripheries; added **pulmonary oedema** brings breathlessness, hypoxaemia, cyanosis and basal inspiratory crackles.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 221,
+       "page": 199,
+       "chapter": "Acute medicine and critical illness"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Sepsis — features beyond the circulation",
+     "items": [
+      "Fever and rigors, or **hypothermia** (more common in the elderly, very young and immunocompromised; worse prognosis)",
+      "Jaundice, confusion or coma",
+      "Bleeding from puncture sites (coagulopathy)",
+      "Rash and meningism",
+      "Hyperglycaemia; hypoglycaemia in severe cases"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 238,
+       "page": 219,
+       "chapter": "Critical care medicine"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 160,
+       "page": 160,
+       "chapter": "Cardiovascular"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Anaphylactic shock:** profound vasodilatation (warm, hypotensive, tachycardic) with erythema, urticaria, angio-oedema, bronchospasm, laryngeal oedema and GI upset. Send clotted blood for **mast-cell tryptase within 45–60 minutes** to confirm.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 237,
+       "page": 218,
+       "chapter": "Critical care medicine"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Hypotension is a late sign.** A young fit patient can hold BP despite losing ~25% of circulating volume, and a high SVR may keep SBP normal while perfusion is poor. Clues: **shock index (HR/SBP) > 0.9**, pulse pressure < 25% of SBP.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 237,
+       "page": 218,
+       "chapter": "Critical care medicine"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 188,
+       "page": 188,
+       "chapter": "Pulmonary and ICU"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Sepsis is easily missed in the **elderly or immunosuppressed**: look for mild confusion, tachycardia, tachypnoea, unexplained hypotension, falling urine output, rising creatinine and new glucose intolerance.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 238,
+       "page": 219,
+       "chapter": "Critical care medicine"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 160,
+       "page": 160,
+       "chapter": "Cardiovascular"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 614,
+       "page": 577,
+       "chapter": "Intensive care medicine"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.s6",
+   "title": "Investigations and haemodynamic monitoring",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Initial tests",
+     "items": [
+      "**All patients:** FBC, U&E/creatinine, glucose, LFTs, coagulation, arterial blood gas (pH, base deficit), **lactate**, ECG",
+      "**Suspected sepsis:** cultures (blood, urine, sputum, CSF, pus) — ideally before antibiotics but never delaying them; chest imaging; once stable, **contrast CT chest/abdomen** is high-yield for the source",
+      "**Suspected cardiac cause:** ECG for ischaemia/arrhythmia; **echo** for EF, mechanical MI complications, valve disease, pericardial effusion",
+      "D-dimer and CTPA if PE is suspected"
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 616,
+       "page": 579,
+       "chapter": "Intensive care medicine"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 154,
+       "page": 154,
+       "chapter": "Cardiovascular"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 156,
+       "page": 156,
+       "chapter": "Cardiovascular"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 219,
+       "page": 197,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 222,
+       "page": 200,
+       "chapter": "Acute medicine and critical illness"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Lactate** is the key severity marker. Davidson calls **> 2.4 mmol/L** hyperlactataemia and links **> 8 mmol/L** with extremely high mortality. It rises in **every** type of shock (not specific to sepsis), and **lactate clearance** tracks whether resuscitation is working. Other objective markers of poor tissue O2 delivery: a rising **base deficit** and falling **urine output** (aim ≈ 0.5 mL/kg/h).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 218,
+       "page": 196,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 215,
+       "page": 193,
+       "chapter": "Acute medicine and critical illness"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Two lactate numbers: the **septic-shock criterion is > 2 mmol/L**, whereas Davidson labels **> 2.4 mmol/L** as hyperlactataemia (a severity marker). Do not mix them up in an MCQ.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 218,
+       "page": 196,
+       "chapter": "Acute medicine and critical illness"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Haemodynamic profiles",
+     "columns": [
+      "Shock",
+      "Cardiac output",
+      "SVR",
+      "CVP",
+      "PCWP (PAOP)"
+     ],
+     "rows": [
+      [
+       "Hypovolaemic",
+       "↓",
+       "↑",
+       "↓",
+       "↓"
+      ],
+      [
+       "Cardiogenic",
+       "↓",
+       "↑",
+       "↑",
+       "↑"
+      ],
+      [
+       "Tamponade",
+       "↓",
+       "↑",
+       "↑",
+       "↑ (rises in parallel with CVP)"
+      ],
+      [
+       "Massive PE",
+       "↓",
+       "↑",
+       "↑ (high PA pressure)",
+       "↓"
+      ],
+      [
+       "Septic / anaphylactic",
+       "↑ (or normal)",
+       "↓",
+       "↓",
+       "↓"
+      ],
+      [
+       "Neurogenic",
+       "↓",
+       "↓",
+       "—",
+       "↓"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 237,
+       "page": 218,
+       "chapter": "Critical care medicine"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 153,
+       "page": 153,
+       "chapter": "Cardiovascular"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Reference values (Davidson)",
+     "columns": [
+      "Variable",
+      "Normal range"
+     ],
+     "rows": [
+      [
+       "Cardiac output",
+       "4–8 L/min"
+      ],
+      [
+       "Cardiac index",
+       "2.5–4 L/min/m²"
+      ],
+      [
+       "CVP",
+       "0–6 mmHg"
+      ],
+      [
+       "PA systolic / diastolic",
+       "15–30 / 5–15 mmHg"
+      ],
+      [
+       "PA wedge pressure",
+       "2–10 mmHg (high in LV failure, fluid overload)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 229,
+       "page": 207,
+       "chapter": "Acute medicine and critical illness"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Monitoring tools",
+     "items": [
+      "**Bedside echo** in persistent shock: estimates output and excludes **tamponade**; in massive PE shows a small, vigorous, under-filled LV with a **dilated RV** (CTPA usually confirms PE)",
+      "**PA (Swan–Ganz) catheter:** PA pressures, wedge pressure, cardiac output and mixed venous saturation → separates vasodilatation from pump failure; rare but serious risks — lung infarction, **PA rupture**, catheter thrombosis",
+      "**CVP:** a single value means little (normal 5–10 cmH2O at the mid-axilla in K&C Essentials); the **trend and response to a fluid challenge** are more useful",
+      "**Fluid responsiveness:** pulse-pressure variation > 13% with breathing, respiratory change in IVC diameter, or > 10% rise in pulse pressure on **passive leg raise**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 222,
+       "page": 200,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 228,
+       "page": 206,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 618,
+       "page": 581,
+       "chapter": "Intensive care medicine"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 188,
+       "page": 188,
+       "chapter": "Pulmonary and ICU"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Acute MI: four haemodynamic subsets",
+     "columns": [
+      "Cardiac output",
+      "No pulmonary oedema",
+      "Pulmonary oedema"
+     ],
+     "rows": [
+      [
+       "Normal",
+       "Good prognosis; no heart-failure treatment",
+       "Moderate LV dysfunction → vasodilators + diuretics"
+      ],
+      [
+       "Low",
+       "**RV infarct or hypovolaemia → fluid challenge** (consider PA catheter)",
+       "Extensive MI, poor prognosis → consider IABP, vasodilators, diuretics, inotropes"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 221,
+       "page": 199,
+       "chapter": "Acute medicine and critical illness"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Organ-dysfunction and DIC markers in sepsis",
+     "items": [
+      "Creatinine > 177 µmol/L or urine < 0.5 mL/kg/h for 2 h; bilirubin > 34 µmol/L",
+      "Platelets < 100 ×10⁹/L, INR > 1.5, aPTT > 60 s",
+      "**DIC:** raised FDPs/D-dimer, prolonged PT, aPTT and thrombin time, falling platelets and fibrinogen — oozing from puncture sites yet still thrombotic; classically with **meningococcal** sepsis"
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 615,
+       "page": 578,
+       "chapter": "Intensive care medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 237,
+       "page": 218,
+       "chapter": "Critical care medicine"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 229,
+      "page": 207,
+      "chapter": "Acute medicine and critical illness",
+      "figure": "Fig. 10.20"
+     },
+     "note": "Look at: the Swan–Ganz trace as the catheter passes RA → RV → PA → wedge; the wedge trace approximates left atrial pressure."
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.s7",
+   "title": "Management",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "General resuscitation",
+     "items": [
+      "Airway, high-flow O2 (15 L/min via reservoir mask), early ventilatory support if needed",
+      "Two large-bore cannulae; arterial line and central access as soon as practical",
+      "**10 mL/kg fluid challenge** (crystalloid or colloid — **avoid starches**), repeatable to a total of **30 mL/kg**",
+      "Start a **vasopressor early** rather than after very large fluid volumes (venoconstriction also mobilises volume)",
+      "Still shocked after 30 mL/kg → reconsider: **concealed haemorrhage** or **obstruction**; bedside echo to assess output and exclude tamponade",
+      "Monitor pulse, BP, ECG, urine output, lactate"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 228,
+       "page": 206,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 615,
+       "page": 578,
+       "chapter": "Intensive care medicine"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Vasoactive drugs",
+     "columns": [
+      "Drug",
+      "Main action",
+      "Typical role"
+     ],
+     "rows": [
+      [
+       "**Noradrenaline**",
+       "Strong vasoconstrictor (α), mild inotrope",
+       "**First-line in most shock**; pressor of choice in septic shock. Davidson: a pure inotrope or chronotrope may be preferred when that is the main need (some cardiogenic or bradycardic shock)"
+      ],
+      [
+       "Adrenaline",
+       "Inotrope + vasoconstrictor + chronotrope",
+       "Low cardiac output; refractory hypotension"
+      ],
+      [
+       "Dobutamine",
+       "β1 inotrope; lowers SVR",
+       "Low cardiac output (e.g. cardiogenic); may need noradrenaline alongside"
+      ],
+      [
+       "Milrinone (PDE III inhibitor)",
+       "Inotrope + vasodilator, bypasses β-receptor",
+       "Less tachycardia; useful if on β-blockers"
+      ],
+      [
+       "Vasopressin",
+       "Pure vasoconstrictor",
+       "Added when hypotension persists on high-dose noradrenaline with adequate output"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 228,
+       "page": 206,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 242,
+       "page": 223,
+       "chapter": "Critical care medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 617,
+       "page": 580,
+       "chapter": "Intensive care medicine"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 188,
+       "page": 188,
+       "chapter": "Pulmonary and ICU"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Septic shock",
+     "items": [
+      "**Sepsis Six within 1 hour:** high-flow O2, blood cultures, IV antibiotics, lactate + FBC, IV fluids, accurate urine output",
+      "**Antibiotics ASAP** — broad-spectrum, chosen by likely source and local resistance; each hour of delay adds **5–10% mortality** (Davidson)",
+      "**Source control:** drain abscesses, remove infected lines/devices",
+      "Transfuse to **Hb 70–90 g/L**; 4% albumin is an acceptable colloid; intubate early in severe cases",
+      "Noradrenaline is the pressor of choice; vasopressin as add-on"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 219,
+       "page": 197,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 240,
+       "page": 221,
+       "chapter": "Critical care medicine"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 188,
+       "page": 188,
+       "chapter": "Pulmonary and ICU"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Cardiogenic shock",
+     "items": [
+      "Acute MI → **immediate PCI** (emergency revascularisation improves survival)",
+      "Treat the cause: pericardiocentesis for tamponade, valve surgery, arrhythmia control",
+      "High filling pressures → **avoid fluid loading**; loop diuretic, nitrates (venodilator), nitroprusside for afterload (cyanide risk with prolonged high doses)",
+      "Noradrenaline for hypotension; dobutamine or milrinone for low output (inotropes raise myocardial O2 demand)",
+      "**IABP** inflates in diastole → better coronary perfusion and lower afterload, but **no survival benefit**; risks: balloon thrombosis, mesenteric ischaemia, femoral pseudo-aneurysm",
+      "**VA-ECMO** can be life-saving in profound cardiogenic shock"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 221,
+       "page": 199,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 156,
+       "page": 156,
+       "chapter": "Cardiovascular"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 243,
+       "page": 224,
+       "chapter": "Critical care medicine"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 229,
+       "page": 207,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 157,
+       "page": 157,
+       "chapter": "Cardiovascular"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 241,
+       "page": 222,
+       "chapter": "Critical care medicine"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Haemorrhagic shock",
+     "items": [
+      "Stop the bleeding (surgery, endoscopy, embolisation) and give blood early via a massive-transfusion protocol",
+      "**Hypotensive resuscitation** with blood products until surgical control",
+      "Red cells : FFP : platelets **1 : 1 : 1**; warm the blood; **10 mL of 10% calcium chloride** for citrate-induced hypocalcaemia",
+      "Massive transfusion = > 8–10 units red cells in 24 h; massive haemorrhage = ≥ 50% of blood volume in 3 h or > 150 mL/min",
+      "Complications: hypothermia, coagulopathy, hypocalcaemia, hyperkalaemia, lung injury"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 240,
+       "page": 221,
+       "chapter": "Critical care medicine"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 159,
+       "page": 159,
+       "chapter": "Cardiovascular"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 616,
+       "page": 579,
+       "chapter": "Intensive care medicine"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Anaphylactic shock:** remove the trigger, high-flow O2, **IM adrenaline 500 µg (0.5 mL of 1:1000)**, repeated after 5 minutes if needed; 0.9% saline 500–1000 mL; chlorphenamine 10 mg and hydrocortisone 200 mg; observe for 6–8 hours (late reaction).",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 613,
+       "page": 576,
+       "chapter": "Intensive care medicine"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Fluids:** hydroxyethyl starch causes AKI and coagulopathy and raises mortality — not in the critically ill. Large volumes of 0.9% saline cause **hyperchloraemic acidosis**. Bicarbonate only for extreme persistent acidosis (pH < 7.0).",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 241,
+       "page": 222,
+       "chapter": "Critical care medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 616,
+       "page": 579,
+       "chapter": "Intensive care medicine"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Goal-directed targets:** Kumar still prints the old resuscitation goals (MAP > 65, CVP 8–12 mmHg, urine > 0.5 mL/kg/h, ScvO2 ≥ 70%), yet a few pages later notes that early goal-directed therapy does not appear to improve outcome; Pocket likewise reports **no mortality benefit** over usual care and calls static CVP a poor guide to fluid response. Follow Davidson: 10 mL/kg boluses to 30 mL/kg, early vasopressor, target **MAP > 65**, guide by lactate clearance.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 240,
+       "page": 221,
+       "chapter": "Critical care medicine"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 189,
+       "page": 189,
+       "chapter": "Pulmonary and ICU"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 228,
+       "page": 206,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 243,
+       "page": 224,
+       "chapter": "Critical care medicine"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 188,
+       "page": 188,
+       "chapter": "Pulmonary and ICU"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Steroids in septic shock:** Kumar — low-dose steroids raise BP but give **no mortality benefit**; Pocket — hydrocortisone 50 mg 6-hourly + fludrocortisone shortens shock and **may** reduce mortality. Davidson's sepsis section does not discuss them. Both Pocket and K&C Essentials keep them for **refractory, vasopressor-resistant** shock — not routine use.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 235,
+       "page": 216,
+       "chapter": "Critical care medicine"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 189,
+       "page": 189,
+       "chapter": "Pulmonary and ICU"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 618,
+       "page": 581,
+       "chapter": "Intensive care medicine"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Dopamine is not first line:** compared with noradrenaline it caused more arrhythmia and, in cardiogenic shock (SOAP II), higher 28-day mortality. Also: the antibiotic-delay penalty is quoted as 5–10% per hour (Davidson) and 7.6% per hour (Pocket).",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 156,
+       "page": 156,
+       "chapter": "Cardiovascular"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 188,
+       "page": 188,
+       "chapter": "Pulmonary and ICU"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 219,
+       "page": 197,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 189,
+       "page": 189,
+       "chapter": "Pulmonary and ICU"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Fluids are not always wrong in cardiogenic shock: a **low-output MI without pulmonary oedema** (RV infarct or hypovolaemia) gets a **fluid challenge**; low output **with** oedema needs diuretics and inotropes.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 221,
+       "page": 199,
+       "chapter": "Acute medicine and critical illness"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 156,
+       "page": 156,
+       "chapter": "Cardiovascular"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 239,
+      "page": 220,
+      "chapter": "Critical care medicine",
+      "figure": "Fig. 10.24"
+     },
+     "note": "Look at: the step-by-step algorithm for the shocked or at-risk patient — airway/breathing, circulation, monitoring, then organ support."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "cardio-shock.c1",
+   "sectionId": "cardio-shock.s1",
+   "front": "Define shock (Davidson).",
+   "back": "Circulatory failure: oxygen delivery is too low for the tissues' metabolic needs. Hypotension is common but not required.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 215,
+     "page": 193,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.c2",
+   "sectionId": "cardio-shock.s1",
+   "front": "Formula for MAP, and the usual target?",
+   "back": "MAP = diastolic + (systolic − diastolic)/3; aim **> 65 mmHg** (up to 80 in chronic hypertension).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 215,
+     "page": 193,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.c3",
+   "sectionId": "cardio-shock.s1",
+   "front": "Shock with hypotension AND bradycardia after a high cervical cord injury?",
+   "back": "**Neurogenic shock** — loss of sympathetic outflow.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 228,
+     "page": 206,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.c4",
+   "sectionId": "cardio-shock.s2",
+   "front": "Haemodynamic definition of cardiogenic shock (Davidson)?",
+   "back": "Hypoperfusion from low output; **cardiac index < 2.2 L/min/m²**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 221,
+     "page": 199,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.c5",
+   "sectionId": "cardio-shock.s2",
+   "front": "Three mechanical complications of MI that cause cardiogenic shock?",
+   "back": "Free-wall rupture → tamponade; septal rupture → VSD; papillary-muscle rupture → acute MR.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 221,
+     "page": 199,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.c6",
+   "sectionId": "cardio-shock.s2",
+   "front": "Killip class IV means?",
+   "back": "Cardiogenic shock after MI.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1106,
+     "page": 1090,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.c7",
+   "sectionId": "cardio-shock.s3",
+   "front": "Sepsis-3 definition of septic shock?",
+   "back": "After fluids: vasopressor needed for **MAP > 65 mmHg** AND **lactate > 2 mmol/L**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 218,
+     "page": 196,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.c8",
+   "sectionId": "cardio-shock.s3",
+   "front": "Commonest cause of sepsis needing ICU?",
+   "back": "Community-acquired pneumonia.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 238,
+     "page": 219,
+     "chapter": "Critical care medicine"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.c9",
+   "sectionId": "cardio-shock.s3",
+   "front": "Why is mixed venous O2 saturation high in septic shock?",
+   "back": "Shunting and mitochondrial failure stop tissues extracting O2 (\"tissue dysoxia\").",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 236,
+     "page": 217,
+     "chapter": "Critical care medicine"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.c10",
+   "sectionId": "cardio-shock.s4",
+   "front": "Two non-haemorrhagic causes of hypovolaemic shock listed by Davidson?",
+   "back": "Burns and hyperglycaemic hyperosmolar state.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 228,
+     "page": 206,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.c11",
+   "sectionId": "cardio-shock.s4",
+   "front": "Why can the Hb mislead in acute haemorrhage?",
+   "back": "Before ~30 mL/kg fluid, haemodilution has not occurred, so Hb looks falsely normal.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 214,
+     "page": 192,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.c12",
+   "sectionId": "cardio-shock.s5",
+   "front": "Raised JVP occurs in which shock types?",
+   "back": "Cardiogenic and obstructive (tamponade, PE).",
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 155,
+     "page": 155,
+     "chapter": "Cardiovascular"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 237,
+     "page": 218,
+     "chapter": "Critical care medicine"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.c13",
+   "sectionId": "cardio-shock.s5",
+   "front": "Shock index suggesting significant shock?",
+   "back": "HR/SBP **> 0.9**.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 188,
+     "page": 188,
+     "chapter": "Pulmonary and ICU"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.c14",
+   "sectionId": "cardio-shock.s6",
+   "front": "Lactate level associated with extremely high mortality?",
+   "back": "**> 8 mmol/L**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 218,
+     "page": 196,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.c15",
+   "sectionId": "cardio-shock.s6",
+   "front": "Septic shock haemodynamic profile?",
+   "back": "CO high/normal, SVR low, CVP and PCWP low.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 237,
+     "page": 218,
+     "chapter": "Critical care medicine"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 153,
+     "page": 153,
+     "chapter": "Cardiovascular"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.c16",
+   "sectionId": "cardio-shock.s6",
+   "front": "Echo picture in massive PE?",
+   "back": "Small, vigorous, under-filled LV with a dilated RV.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 222,
+     "page": 200,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.c17",
+   "sectionId": "cardio-shock.s7",
+   "front": "First-line vasoactive drug in most shock?",
+   "back": "**Noradrenaline**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 228,
+     "page": 206,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.c18",
+   "sectionId": "cardio-shock.s7",
+   "front": "The Sepsis Six?",
+   "back": "O2, blood cultures, IV antibiotics, lactate + FBC, IV fluids, urine-output monitoring — within 1 h.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 219,
+     "page": 197,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.c19",
+   "sectionId": "cardio-shock.s7",
+   "front": "Does an IABP improve survival in cardiogenic shock?",
+   "back": "No — it improves physiology (diastolic coronary perfusion) but not survival.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 229,
+     "page": 207,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.c20",
+   "sectionId": "cardio-shock.s7",
+   "front": "IM adrenaline dose in adult anaphylaxis?",
+   "back": "500 µg = 0.5 mL of 1:1000, repeat after 5 min if needed.",
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 613,
+     "page": 576,
+     "chapter": "Intensive care medicine"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "cardio-shock.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 70-year-old man who has been hypertensive for many years is on the ward after a urinary infection. His BP is 104/56 mmHg, pulse 96/min. He is passing 15 mL of urine per hour (weight 80 kg) and his lactate is 3.1 mmol/L.",
+   "leadIn": "Which statement best describes his situation?",
+   "options": [
+    "He is not shocked because his systolic BP is above 90 mmHg",
+    "He is shocked: oxygen delivery is failing to meet tissue demand",
+    "He has physiological hypotension and needs no action",
+    "He is shocked only if his MAP is below 50 mmHg",
+    "He cannot be shocked while his heart rate is below 100/min"
+   ],
+   "answer": 1,
+   "explanation": "Shock is defined by **inadequate tissue oxygen delivery**, not by a BP number. Oliguria (< 0.5 mL/kg/h) and a raised lactate are objective markers of hypoperfusion. His MAP is ~72 mmHg — a chronic hypertensive may need up to 80 mmHg to perfuse the kidneys.",
+   "whyNot": [
+    "A \"normal\" BP does not exclude shock; perfusion markers matter more.",
+    "",
+    "Oliguria and high lactate show this is pathological.",
+    "There is no MAP cut-off of 50; > 65 (up to 80 in chronic hypertension) is the target.",
+    "Tachycardia is common but not required for the diagnosis."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 215,
+     "page": 193,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 24-year-old motorcyclist has a high cervical spinal cord injury. BP is 78/40 mmHg, pulse 48/min, and his feet are warm and pink. FAST scan shows no free fluid.",
+   "leadIn": "Which category of shock is most likely?",
+   "options": [
+    "Hypovolaemic",
+    "Cardiogenic",
+    "Obstructive",
+    "Neurogenic",
+    "Septic"
+   ],
+   "answer": 3,
+   "explanation": "Loss of sympathetic outflow from a **high cord injury** gives hypotension with **inappropriate bradycardia** and warm peripheries — neurogenic shock, a distributive type.",
+   "whyNot": [
+    "Haemorrhage causes tachycardia and cold peripheries; FAST is negative.",
+    "No cardiac cause is suggested and the peripheries are warm.",
+    "Obstruction (tension pneumothorax, tamponade) gives tachycardia and raised JVP.",
+    "",
+    "There is no infection and the timing is immediate after trauma."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 228,
+     "page": 206,
+     "chapter": "Acute medicine and critical illness"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 153,
+     "page": 153,
+     "chapter": "Cardiovascular"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 66-year-old man is 4 days after an anterior STEMI. He suddenly becomes breathless and hypotensive. A new loud pansystolic murmur is heard at the left sternal edge with a thrill. Oxygen saturation in the right ventricle is higher than in the right atrium.",
+   "leadIn": "What is the most likely cause of his shock?",
+   "options": [
+    "Papillary-muscle rupture",
+    "Acquired ventricular septal defect",
+    "Free-wall rupture with tamponade",
+    "Right ventricular infarction",
+    "Acute pulmonary embolism"
+   ],
+   "answer": 1,
+   "explanation": "A **step-up in O2 saturation** from RA to RV means left-to-right shunting across a **ruptured interventricular septum** — an acquired VSD, one of the mechanical complications of MI that cause cardiogenic shock.",
+   "whyNot": [
+    "Acute MR also gives a new murmur, but no oxygen step-up in the RV.",
+    "",
+    "Tamponade causes muffled sounds and raised JVP, not a new murmur.",
+    "RV infarction causes hypotension with raised JVP but no murmur or shunt.",
+    "PE does not produce a pansystolic murmur or a left-to-right shunt."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 221,
+     "page": 199,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 58-year-old woman with an acute inferior MI has a BP of 82/50 mmHg. A pulmonary artery catheter shows a cardiac index of 1.8 L/min/m² and a raised wedge pressure.",
+   "leadIn": "Which measured value fulfils Davidson's formal definition of cardiogenic shock?",
+   "options": [
+    "Cardiac index below 2.2 L/min/m²",
+    "Systolic BP below 100 mmHg",
+    "Wedge pressure above 10 mmHg",
+    "Lactate above 2 mmol/L",
+    "Heart rate above 100/min"
+   ],
+   "answer": 0,
+   "explanation": "Davidson defines cardiogenic shock as hypoperfusion from inadequate output, formally a **cardiac index < 2.2 L/min/m²**.",
+   "whyNot": [
+    "",
+    "SBP < 100 is a Sepsis-3 / qSOFA criterion, not the cardiogenic definition.",
+    "A raised wedge supports the diagnosis but is not Davidson's defining value (other books use > 18 mmHg).",
+    "Lactate rises in all shock; > 2 mmol/L is part of the septic-shock definition.",
+    "Tachycardia is non-specific."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 221,
+     "page": 199,
+     "chapter": "Acute medicine and critical illness"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 47,
+     "page": 47,
+     "chapter": "Pulmonary and ICU"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 61-year-old woman with pyelonephritis remains hypotensive after 30 mL/kg of IV crystalloid. Noradrenaline is needed to keep her MAP at 66 mmHg. Her lactate is 3.4 mmol/L.",
+   "leadIn": "Under Sepsis-3, how is her condition classified?",
+   "options": [
+    "Bacteraemia",
+    "SIRS",
+    "Sepsis without shock",
+    "Septic shock",
+    "Multiple organ dysfunction syndrome"
+   ],
+   "answer": 3,
+   "explanation": "Septic shock = sepsis in which, **after fluid resuscitation**, vasopressors are needed to keep **MAP > 65 mmHg** and **lactate is > 2 mmol/L**. She meets both.",
+   "whyNot": [
+    "Bacteraemia is just organisms in the blood and says nothing about circulatory failure.",
+    "SIRS is an older concept no longer used to define sepsis.",
+    "Vasopressor dependence plus raised lactate moves her beyond sepsis alone.",
+    "",
+    "MODS needs multiple organ failures; the defining features here are those of septic shock."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 218,
+     "page": 196,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 55-year-old man in septic shock from pneumonia has warm peripheries and a high cardiac output on monitoring, yet his lactate keeps rising and his central venous O2 saturation is 84%.",
+   "leadIn": "Which mechanism best explains the rising lactate despite a high cardiac output?",
+   "options": [
+    "Inadequate haemoglobin concentration",
+    "Impaired cellular oxygen use from mitochondrial dysfunction and shunting",
+    "Pump failure with low cardiac output",
+    "Obstruction to venous return",
+    "Excess oxygen consumption by skeletal muscle"
+   ],
+   "answer": 1,
+   "explanation": "In septic shock, arteriovenous shunting and **mitochondrial failure** stop tissues extracting O2. Venous blood returns well-saturated (**high SvO2**) while cells make lactate — \"tissue dysoxia\".",
+   "whyNot": [
+    "Hb is not mentioned as low and would not raise venous saturation.",
+    "",
+    "His output is high, not low.",
+    "Obstruction gives low output and cold peripheries.",
+    "Excess muscle use would lower, not raise, venous saturation."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 236,
+     "page": 217,
+     "chapter": "Critical care medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 219,
+     "page": 197,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 38-year-old man has had profuse vomiting and diarrhoea for three days. He is cold, clammy and confused, with BP 84/60 mmHg and pulse 128/min. He has no blood loss.",
+   "leadIn": "Which type of shock is this?",
+   "options": [
+    "Haemorrhagic hypovolaemic",
+    "Non-haemorrhagic hypovolaemic",
+    "Septic",
+    "Cardiogenic",
+    "Obstructive"
+   ],
+   "answer": 1,
+   "explanation": "Fluid loss from the gut without bleeding is **non-haemorrhagic hypovolaemic** shock: low preload, low output and a compensatory rise in SVR (cold, clammy).",
+   "whyNot": [
+    "There is no blood loss.",
+    "",
+    "Septic shock usually gives warm peripheries and a focus of infection; this is volume loss.",
+    "There is no cardiac history or raised JVP.",
+    "Nothing suggests PE, tamponade or tension pneumothorax."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s4"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 158,
+     "page": 158,
+     "chapter": "Cardiovascular"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 228,
+     "page": 206,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 79-year-old man on warfarin is brought in after a fall. He is pale and tachycardic (pulse 118/min) with BP 92/60 mmHg. His Hb is 128 g/L. He has groin bruising and flank pain. He has received only 300 mL of fluid.",
+   "leadIn": "Which is the best interpretation?",
+   "options": [
+    "A normal Hb excludes significant bleeding",
+    "The Hb may be falsely reassuring; concealed retroperitoneal bleeding should be sought",
+    "His tachycardia is best treated with a β-blocker",
+    "Septic shock is the most likely cause",
+    "He has cardiogenic shock from the fall"
+   ],
+   "answer": 1,
+   "explanation": "Early in acute haemorrhage, before about **30 mL/kg** of fluid has been given, the Hb has not yet fallen. Flank pain on warfarin points to **retroperitoneal bleeding** — a classic concealed source.",
+   "whyNot": [
+    "Hb lags behind acute blood loss.",
+    "",
+    "Treating the rate rather than the cause is dangerous in a deteriorating patient.",
+    "There is no infective focus; anticoagulation and trauma suggest bleeding.",
+    "There is no evidence of a cardiac cause."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 214,
+     "page": 192,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 47-year-old woman is hypotensive (BP 80/38 mmHg). Her hands are warm with a bounding pulse and brisk capillary refill. JVP is not visible.",
+   "leadIn": "Which cause of hypotension best fits these signs?",
+   "options": [
+    "Massive haemorrhage",
+    "Severe aortic stenosis",
+    "Cardiac tamponade",
+    "Sepsis",
+    "Chronic heart failure"
+   ],
+   "answer": 3,
+   "explanation": "Warm hands, a bounding pulse and low venous pressure describe **high-output hypotension** — sepsis, allergy, drug overdose, DKA, thyrotoxicosis or beri-beri.",
+   "whyNot": [
+    "Bleeding gives a low-output picture: cold, clammy and thready.",
+    "Aortic stenosis gives low output and cold peripheries.",
+    "Tamponade gives raised JVP and cold peripheries.",
+    "",
+    "Chronic heart failure is a low-output state with raised venous pressure."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 215,
+     "page": 193,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 63-year-old man is hypotensive two days after cardiac surgery. JVP is raised to the angle of the jaw and rises further on inspiration. His heart sounds are quiet and the systolic BP falls by 15 mmHg on inspiration.",
+   "leadIn": "Which type of shock is most likely?",
+   "options": [
+    "Septic",
+    "Hypovolaemic",
+    "Obstructive (tamponade)",
+    "Anaphylactic",
+    "Neurogenic"
+   ],
+   "answer": 2,
+   "explanation": "Muffled heart sounds, **pulsus paradoxus** and a raised JVP with **Kussmaul sign** point to tamponade — an obstructive shock. JVP is raised only in cardiogenic and obstructive shock.",
+   "whyNot": [
+    "Septic shock has a low JVP and warm peripheries.",
+    "Hypovolaemia gives a low JVP.",
+    "",
+    "Anaphylaxis gives low JVP with urticaria or bronchospasm.",
+    "Neurogenic shock follows cord injury and has a low JVP."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s5"
+   },
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 614,
+     "page": 577,
+     "chapter": "Intensive care medicine"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 155,
+     "page": 155,
+     "chapter": "Cardiovascular"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 52-year-old man is shocked after a large GI bleed. His cardiac output is low and SVR is high.",
+   "leadIn": "Which pattern of filling pressures is expected?",
+   "options": [
+    "Low CVP and low wedge pressure",
+    "High CVP and high wedge pressure",
+    "High CVP with low wedge pressure",
+    "Equal rise in CVP and wedge pressure",
+    "Normal CVP with high wedge pressure"
+   ],
+   "answer": 0,
+   "explanation": "In **hypovolaemic** shock both CVP and PA wedge (occlusion) pressure are low, with low output and high SVR.",
+   "whyNot": [
+    "",
+    "High CVP and wedge suggest cardiogenic shock.",
+    "High CVP with low wedge suggests massive PE.",
+    "A parallel rise in both suggests tamponade.",
+    "An isolated high wedge suggests LV failure, not volume loss."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 237,
+     "page": 218,
+     "chapter": "Critical care medicine"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 68-year-old woman collapses on day 5 after hip replacement. She is hypotensive with a raised JVP. Bedside echo shows a small, hyperdynamic, under-filled left ventricle and a dilated right ventricle.",
+   "leadIn": "Which investigation will most likely confirm the diagnosis?",
+   "options": [
+    "Coronary angiography",
+    "CT pulmonary angiography",
+    "Serum troponin",
+    "Blood cultures",
+    "Contrast CT abdomen"
+   ],
+   "answer": 1,
+   "explanation": "A vigorous, under-filled LV with a **dilated RV** in a post-operative collapse suggests **massive PE**; CTPA usually gives the definitive diagnosis.",
+   "whyNot": [
+    "Angiography is for coronary occlusion, not PE.",
+    "",
+    "Troponin can rise in PE and MI alike; it does not confirm the cause.",
+    "Nothing suggests sepsis.",
+    "Abdominal CT looks for a septic source or bleed, not PE."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 222,
+     "page": 200,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 59-year-old woman with septic shock remains hypotensive (MAP 58 mmHg) after a 30 mL/kg fluid challenge. Echo shows good LV function.",
+   "leadIn": "Which vasoactive drug should be started first?",
+   "options": [
+    "Dopamine",
+    "Dobutamine",
+    "Noradrenaline",
+    "Milrinone",
+    "Isoprenaline"
+   ],
+   "answer": 2,
+   "explanation": "**Noradrenaline** is the first-line vasoactive agent in most shock and the pressor of choice in septic shock (fewer arrhythmias and lower mortality than dopamine).",
+   "whyNot": [
+    "Dopamine causes more arrhythmia and is no longer first line.",
+    "Dobutamine lowers SVR — it is for low cardiac output, which she does not have.",
+    "",
+    "Milrinone is an inodilator; it would worsen vasodilatation.",
+    "Isoprenaline is a chronotrope, not a vasopressor for sepsis."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 228,
+     "page": 206,
+     "chapter": "Acute medicine and critical illness"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 188,
+     "page": 188,
+     "chapter": "Pulmonary and ICU"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 242,
+     "page": 223,
+     "chapter": "Critical care medicine"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 72-year-old man is in cardiogenic shock from an acute anterior STEMI 2 hours after the onset of pain. BP is 80/50 mmHg and he has bibasal crackles.",
+   "leadIn": "Which intervention is most likely to improve his survival?",
+   "options": [
+    "Immediate percutaneous coronary intervention",
+    "Intra-aortic balloon pump alone",
+    "A 30 mL/kg fluid bolus",
+    "Intravenous dopamine",
+    "Low-dose hydrocortisone"
+   ],
+   "answer": 0,
+   "explanation": "In cardiogenic shock from acute MI, **immediate PCI** (emergency revascularisation) is the key step and improves survival.",
+   "whyNot": [
+    "",
+    "IABP improves physiology but has not been shown to improve survival.",
+    "He has pulmonary oedema; fluid loading would worsen it.",
+    "Dopamine had higher mortality than noradrenaline in cardiogenic shock (SOAP II).",
+    "Steroids are discussed only as an add-on for refractory septic shock; they do not address an occluded coronary artery."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 221,
+     "page": 199,
+     "chapter": "Acute medicine and critical illness"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 156,
+     "page": 156,
+     "chapter": "Cardiovascular"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 229,
+     "page": 207,
+     "chapter": "Acute medicine and critical illness"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 189,
+     "page": 189,
+     "chapter": "Pulmonary and ICU"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q15",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Types of shock",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Hypovolaemic (haemorrhagic)",
+    "Hypovolaemic (non-haemorrhagic)",
+    "Cardiogenic",
+    "Obstructive — cardiac tamponade",
+    "Obstructive — massive pulmonary embolism",
+    "Obstructive — tension pneumothorax",
+    "Septic",
+    "Anaphylactic",
+    "Neurogenic",
+    "Addisonian crisis"
+   ],
+   "items": [
+    {
+     "stem": "A 34-year-old woman becomes acutely hypotensive and wheezy minutes after an IV antibiotic is started. She has warm peripheries, facial swelling and widespread hives.",
+     "answer": 7,
+     "explanation": "Rapid onset after a drug, with warm vasodilatation, urticaria, angio-oedema and bronchospasm = **anaphylactic** shock.",
+     "studyRef": {
+      "sectionId": "cardio-shock.s5"
+     }
+    },
+    {
+     "stem": "A 76-year-old woman with diabetes is drowsy and hypotensive. Her glucose is 48 mmol/L, sodium 156 mmol/L and she has no ketones. Her JVP is not visible.",
+     "answer": 1,
+     "explanation": "Osmotic diuresis in **hyperglycaemic hyperosmolar state** — a non-haemorrhagic hypovolaemic cause Davidson lists.",
+     "studyRef": {
+      "sectionId": "cardio-shock.s5"
+     }
+    },
+    {
+     "stem": "A 29-year-old ventilated trauma patient suddenly becomes hypotensive and hypoxic. The trachea is deviated to the left, breath sounds are absent on the right and the JVP is raised.",
+     "answer": 5,
+     "explanation": "Raised JVP + absent breath sounds + tracheal deviation under positive-pressure ventilation = **tension pneumothorax**, an obstructive shock.",
+     "studyRef": {
+      "sectionId": "cardio-shock.s5"
+     }
+    },
+    {
+     "stem": "A 64-year-old man with known ischaemic cardiomyopathy is cold and confused. JVP is raised, there is a gallop rhythm and coarse crackles to the mid-zones.",
+     "answer": 2,
+     "explanation": "Cold peripheries with raised JVP, gallop and pulmonary oedema = myocardial (pump) failure — **cardiogenic** shock.",
+     "studyRef": {
+      "sectionId": "cardio-shock.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 237,
+     "page": 218,
+     "chapter": "Critical care medicine"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 614,
+     "page": 577,
+     "chapter": "Intensive care medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 228,
+     "page": 206,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 45-year-old woman with acute pancreatitis has fever, tachycardia, warm peripheries and hypotension. Blood, urine and fluid cultures are repeatedly negative.",
+   "leadIn": "What best explains her picture?",
+   "options": [
+    "A hidden bacterial infection must be present",
+    "Damage-associated molecular patterns (DAMPs) triggering a sterile systemic inflammatory response",
+    "Primary pump failure",
+    "Concealed haemorrhage",
+    "Anaphylaxis to an analgesic"
+   ],
+   "answer": 1,
+   "explanation": "Tissue injury releases **alarmins/DAMPs** that set off the same inflammatory cascade as infection — pancreatitis, burns, trauma and major surgery can mimic septic shock.",
+   "whyNot": [
+    "Cultures are negative and a sterile cause fits the trigger.",
+    "",
+    "Warm peripheries suggest vasodilatation, not pump failure.",
+    "Bleeding gives cold peripheries.",
+    "Nothing suggests an allergic trigger."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 218,
+     "page": 196,
+     "chapter": "Acute medicine and critical illness"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 612,
+     "page": 575,
+     "chapter": "Intensive care medicine"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "An 84-year-old care-home resident is \"not herself\". Temperature is 35.6 °C, pulse 104/min, RR 24/min, BP 98/60 mmHg. Urine output has fallen and her creatinine has risen since last week.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Normal ageing",
+    "Sepsis",
+    "Dementia progression",
+    "Hypothyroidism",
+    "Dehydration only"
+   ],
+   "answer": 1,
+   "explanation": "In the elderly, sepsis often presents with **mild confusion, hypothermia, tachycardia, tachypnoea, falling urine output and rising creatinine** rather than fever.",
+   "whyNot": [
+    "New confusion with abnormal observations is never \"normal ageing\".",
+    "",
+    "Dementia does not cause tachycardia, tachypnoea and AKI.",
+    "Hypothyroidism causes bradycardia, not tachycardia.",
+    "Dehydration does not explain hypothermia and tachypnoea; sepsis must be excluded first."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 238,
+     "page": 219,
+     "chapter": "Critical care medicine"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 160,
+     "page": 160,
+     "chapter": "Cardiovascular"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q18",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 50-year-old man in septic shock has a lactate of 2.6 mmol/L at admission and 1.4 mmol/L six hours later on noradrenaline.",
+   "leadIn": "What does the change in lactate most likely indicate?",
+   "options": [
+    "His sepsis has resolved and antibiotics can stop",
+    "Resuscitation is restoring tissue oxygen delivery",
+    "He has developed liver failure",
+    "The lactate was never relevant because it is sepsis-specific",
+    "He no longer needs urine-output monitoring"
+   ],
+   "answer": 1,
+   "explanation": "**Lactate clearance** tracks the adequacy of resuscitation. Lactate rises in all shock types, so a fall means tissue perfusion is improving.",
+   "whyNot": [
+    "Clearance reflects perfusion, not eradication of infection.",
+    "",
+    "Liver failure impairs clearance and would raise lactate.",
+    "Lactate is not sepsis-specific; it rises in every type of shock.",
+    "Urine output remains a key perfusion marker."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 218,
+     "page": 196,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q19",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 33-year-old man has a gunshot wound to the abdomen. BP 76/40 mmHg, pulse 140/min. The surgeons are preparing theatre.",
+   "leadIn": "Which resuscitation strategy is most appropriate before the bleeding is controlled?",
+   "options": [
+    "Large-volume crystalloid to normalise the BP",
+    "Hypotensive resuscitation with blood products in a 1:1:1 ratio",
+    "Hydroxyethyl starch to expand volume",
+    "Noradrenaline infusion alone",
+    "Delay all fluids until after surgery"
+   ],
+   "answer": 1,
+   "explanation": "Before surgical control, **hypotensive resuscitation** with blood products (red cells : FFP : platelets 1:1:1) limits ongoing bleeding and gives the surgeon a better chance of haemostasis.",
+   "whyNot": [
+    "Pushing BP to normal with crystalloid increases bleeding and dilutes clotting factors.",
+    "",
+    "Starches cause AKI and coagulopathy and should not be used.",
+    "Vasopressors do not replace lost volume.",
+    "Some volume (as blood) is needed to keep him alive until theatre."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 240,
+     "page": 221,
+     "chapter": "Critical care medicine"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 241,
+     "page": 222,
+     "chapter": "Critical care medicine"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q20",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 60-year-old man is hypotensive in ICU. A PA catheter shows: cardiac output 8.5 L/min, SVR low, CVP 2 mmHg, wedge 4 mmHg.",
+   "leadIn": "Which type of shock fits these numbers?",
+   "options": [
+    "Hypovolaemic",
+    "Cardiogenic",
+    "Cardiac tamponade",
+    "Massive pulmonary embolism",
+    "Septic"
+   ],
+   "answer": 4,
+   "explanation": "Step 1: output is **high** (normal 4–8 L/min) — this already excludes the low-output shocks (hypovolaemic, cardiogenic, obstructive). Step 2: SVR is **low** → vasodilatation. Step 3: CVP and wedge are low → no pump or obstructive problem. High output + low SVR + low filling pressures = **septic (or anaphylactic) shock**.",
+   "whyNot": [
+    "Hypovolaemia gives low output and high SVR.",
+    "Cardiogenic shock has low output and high filling pressures.",
+    "Tamponade shows parallel rises in CVP and wedge with low output.",
+    "PE gives high CVP, high PA pressure, low wedge and low output.",
+    ""
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 237,
+     "page": 218,
+     "chapter": "Critical care medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 229,
+     "page": 207,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q21",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 69-year-old man with an acute inferior STEMI is hypotensive (BP 84/50 mmHg). His chest is clear, the JVP is raised and ST elevation is present in V4R. A PA catheter shows a low cardiac output with a normal wedge pressure.",
+   "leadIn": "What is the most appropriate first step?",
+   "options": [
+    "IV furosemide",
+    "IV glyceryl trinitrate",
+    "A cautious fluid challenge",
+    "Intra-aortic balloon pump",
+    "Sodium nitroprusside"
+   ],
+   "answer": 2,
+   "explanation": "Step 1: inferior MI + raised JVP + clear lungs + ST elevation in V4R = **RV infarction**. Step 2: Davidson's MI subsets — **low output without pulmonary oedema** is due to RV dysfunction or hypovolaemia → **fluid challenge** (PA catheter to guide). Step 3: venodilators and diuretics reduce RV preload and would worsen the BP.",
+   "whyNot": [
+    "Diuretics lower preload, which the RV needs — BP would fall further.",
+    "Nitrates venodilate and can cause profound hypotension in RV infarction.",
+    "",
+    "IABP is considered for low output **with** pulmonary oedema (extensive MI).",
+    "Nitroprusside lowers afterload and preload; dangerous here."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 221,
+     "page": 199,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q22",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 40-year-old woman has severe community-acquired pneumonia. BP 82/44 mmHg, lactate 4.2 mmol/L. She has had 10 mL/kg of crystalloid and is still hypotensive.",
+   "leadIn": "What is the best next step?",
+   "options": [
+    "Wait for culture results before giving antibiotics",
+    "Give further fluid boluses up to 30 mL/kg, start noradrenaline early and give IV antibiotics now",
+    "Give 5 litres of 0.9% saline before any vasopressor",
+    "Start hydrocortisone as first-line therapy",
+    "Start dopamine"
+   ],
+   "answer": 1,
+   "explanation": "Step 1: suspected sepsis → **Sepsis Six within the hour**, including antibiotics now (every hour of delay adds 5–10% mortality). Step 2: Davidson — 10 mL/kg boluses repeatable to **30 mL/kg**, with an **early vasopressor** (noradrenaline) rather than waiting for huge volumes. Step 3: if still shocked after 30 mL/kg, look for another cause (bleeding, obstruction).",
+   "whyNot": [
+    "Cultures should not delay antibiotics.",
+    "",
+    "Very large saline volumes cause hyperchloraemic acidosis and oedema; vasopressors should start early.",
+    "Steroids are reserved for refractory shock on escalating pressors.",
+    "Dopamine is inferior to noradrenaline."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 219,
+     "page": 197,
+     "chapter": "Acute medicine and critical illness"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 228,
+     "page": 206,
+     "chapter": "Acute medicine and critical illness"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 241,
+     "page": 222,
+     "chapter": "Critical care medicine"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 188,
+     "page": 188,
+     "chapter": "Pulmonary and ICU"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 189,
+     "page": 189,
+     "chapter": "Pulmonary and ICU"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q23",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Drugs in shock",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Noradrenaline",
+    "Adrenaline (intramuscular)",
+    "Dobutamine",
+    "Milrinone",
+    "Vasopressin",
+    "Dopamine",
+    "Hydrocortisone with fludrocortisone",
+    "Intravenous furosemide",
+    "10% calcium chloride",
+    "Sodium bicarbonate"
+   ],
+   "items": [
+    {
+     "stem": "A 27-year-old man develops stridor, urticaria and BP 70/40 mmHg after eating peanuts.",
+     "answer": 1,
+     "explanation": "Anaphylaxis: **IM adrenaline 500 µg** (0.5 mL of 1:1000), repeated after 5 min if needed.",
+     "studyRef": {
+      "sectionId": "cardio-shock.s7"
+     }
+    },
+    {
+     "stem": "A 58-year-old man on long-term bisoprolol is in cardiogenic shock with a low cardiac index. An inotrope that bypasses the β-receptor is wanted.",
+     "answer": 3,
+     "explanation": "**Milrinone** (PDE III inhibitor) works downstream of the β-receptor, so it is effective in β-blocked patients and causes less tachycardia.",
+     "studyRef": {
+      "sectionId": "cardio-shock.s7"
+     }
+    },
+    {
+     "stem": "A 49-year-old woman in septic shock is on high-dose noradrenaline. Echo shows good cardiac output, but her MAP is still 58 mmHg.",
+     "answer": 4,
+     "explanation": "Persistent hypotension on high-dose noradrenaline with adequate output → add **vasopressin**.",
+     "studyRef": {
+      "sectionId": "cardio-shock.s7"
+     }
+    },
+    {
+     "stem": "A 31-year-old trauma patient has received 12 units of red cells. He develops perioral tingling and the ECG shows a prolonged QT.",
+     "answer": 8,
+     "explanation": "Citrate in stored blood binds calcium; give **10 mL of 10% calcium chloride** IV.",
+     "studyRef": {
+      "sectionId": "cardio-shock.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 613,
+     "page": 576,
+     "chapter": "Intensive care medicine"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 242,
+     "page": 223,
+     "chapter": "Critical care medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 228,
+     "page": 206,
+     "chapter": "Acute medicine and critical illness"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 240,
+     "page": 221,
+     "chapter": "Critical care medicine"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q24",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A medical student is asked how to improve oxygen delivery in a shocked patient.",
+   "leadIn": "Which pair of measures does Davidson regard as the most productive?",
+   "options": [
+    "Raising FiO2 and PEEP",
+    "Optimising haemoglobin and cardiac output",
+    "Lowering temperature and sedating",
+    "Correcting sodium and potassium",
+    "Giving bicarbonate and calcium"
+   ],
+   "answer": 1,
+   "explanation": "O2 delivery = O2 content (mainly Hb × saturation) × cardiac output. Since almost all O2 is carried on Hb, **Hb and cardiac output** are the biggest levers.",
+   "whyNot": [
+    "Saturation is usually already high; extra FiO2 adds little dissolved O2.",
+    "",
+    "These reduce demand, not delivery.",
+    "Electrolytes do not directly set O2 delivery.",
+    "Bicarbonate is reserved for extreme acidosis."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 215,
+     "page": 193,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q25",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 71-year-old woman with an MI 3 days ago develops sudden pulmonary oedema and hypotension. A new pansystolic murmur is heard at the apex, spreading to the axilla. There is no oxygen step-up in the right heart.",
+   "leadIn": "What is the most likely cause?",
+   "options": [
+    "Ventricular septal rupture",
+    "Papillary-muscle rupture causing acute mitral regurgitation",
+    "Free-wall rupture",
+    "Dressler syndrome",
+    "Right ventricular infarction"
+   ],
+   "answer": 1,
+   "explanation": "A pansystolic murmur loudest at the **apex** and spreading to the axilla with pulmonary oedema, and **no shunt**, points to papillary-muscle infarction/rupture → acute MR.",
+   "whyNot": [
+    "VSD causes a left sternal edge murmur and an O2 step-up in the RV.",
+    "",
+    "Free-wall rupture causes tamponade with muffled sounds, not a murmur.",
+    "Dressler syndrome is a later pericarditis and does not cause shock with a new murmur.",
+    "RV infarction gives raised JVP with clear lungs."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 221,
+     "page": 199,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q26",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 66-year-old man is seen with suspected pneumonia. RR 24/min, BP 96/58 mmHg, GCS 15.",
+   "leadIn": "How should his qSOFA result be interpreted?",
+   "options": [
+    "qSOFA 2 — confirms sepsis",
+    "qSOFA 2 — flags high risk but is not diagnostic of sepsis",
+    "qSOFA 1 — sepsis excluded",
+    "qSOFA 3 — septic shock",
+    "qSOFA cannot be used outside ICU"
+   ],
+   "answer": 1,
+   "explanation": "He scores 2 (RR ≥ 22 and SBP ≤ 100). qSOFA **flags patients at high risk** of a poor outcome but is **not diagnostic** of sepsis; organ dysfunction (SOFA rise ≥ 2) defines sepsis.",
+   "whyNot": [
+    "qSOFA is a screening tool, not a diagnostic test.",
+    "",
+    "He scores 2, and a low score never excludes sepsis.",
+    "Septic shock needs vasopressors and lactate > 2 mmol/L after fluids.",
+    "qSOFA is a simple bedside screen that needs only RR, mental state and SBP."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 173,
+     "page": 154,
+     "chapter": "Sepsis and bacterial infection"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 187,
+     "page": 187,
+     "chapter": "Pulmonary and ICU"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 218,
+     "page": 196,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q27",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 19-year-old student has fever, a non-blanching rash and hypotension. She is oozing from cannula sites. Platelets are 40 ×10⁹/L, fibrinogen is low and D-dimer is very high.",
+   "leadIn": "Which complication is she showing?",
+   "options": [
+    "Immune thrombocytopenia",
+    "Disseminated intravascular coagulation",
+    "Heparin-induced thrombocytopenia",
+    "Vitamin K deficiency",
+    "Haemophilia A"
+   ],
+   "answer": 1,
+   "explanation": "Low platelets and fibrinogen, high D-dimer and bleeding from puncture sites in septic shock = **DIC**, classically with **meningococcal** sepsis, and a herald of multi-organ failure.",
+   "whyNot": [
+    "ITP does not consume fibrinogen or raise D-dimer.",
+    "",
+    "She has no heparin exposure, and HIT causes thrombosis, not oozing.",
+    "Vitamin K deficiency does not lower platelets.",
+    "Haemophilia is inherited and does not lower platelets or fibrinogen."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 237,
+     "page": 218,
+     "chapter": "Critical care medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 218,
+     "page": 196,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q28",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A 25-year-old man has lost about 15% of his blood volume from a leg laceration. He is anxious, pulse 108/min, BP 124/78 mmHg.",
+   "leadIn": "Why is his BP still normal?",
+   "options": [
+    "He has not lost any significant volume",
+    "Sympathetic compensation can maintain BP until roughly a quarter of circulating volume is lost",
+    "He has a concealed cardiogenic shock",
+    "His BP cuff is faulty",
+    "Haemorrhage never causes hypotension"
+   ],
+   "answer": 1,
+   "explanation": "In young fit patients, vasoconstriction and tachycardia can hold BP until about **20–25%** of blood volume has gone; **hypotension is a late sign**.",
+   "whyNot": [
+    "A 15% loss with tachycardia is significant.",
+    "",
+    "Nothing suggests a cardiac cause.",
+    "This is the expected physiology.",
+    "Hypotension does occur once compensation fails."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 237,
+     "page": 218,
+     "chapter": "Critical care medicine"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 157,
+     "page": 157,
+     "chapter": "Cardiovascular"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q29",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 52-year-old man is cold and clammy with BP 98/76 mmHg and pulse 124/min.",
+   "leadIn": "Which bedside finding most strongly suggests significant shock despite a systolic BP near 100?",
+   "options": [
+    "Shock index (HR/SBP) above 0.9",
+    "Warm peripheries",
+    "Pulse pressure above 50% of SBP",
+    "Capillary refill under 2 seconds",
+    "A visible JVP at 3 cm"
+   ],
+   "answer": 0,
+   "explanation": "His **shock index is ~1.3** and his pulse pressure is ~22% of SBP (< 25%) — both clues that perfusion is poor even though SBP looks acceptable.",
+   "whyNot": [
+    "",
+    "He is cold, and warmth suggests vasodilatation anyway.",
+    "A wide pulse pressure is not a sign of low-output shock; his is narrow.",
+    "A brisk refill argues against hypoperfusion.",
+    "A normal JVP does not show shock."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s5"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 188,
+     "page": 188,
+     "chapter": "Pulmonary and ICU"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q30",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 57-year-old man is hypotensive after cardiac surgery. CVP is 18 mmHg and the PA wedge pressure is 19 mmHg — both have risen together over two hours. Cardiac output is low.",
+   "leadIn": "Which diagnosis do these data suggest?",
+   "options": [
+    "Hypovolaemia",
+    "Cardiac tamponade",
+    "Septic shock",
+    "Massive pulmonary embolism",
+    "Anaphylaxis"
+   ],
+   "answer": 1,
+   "explanation": "A **parallel rise in CVP and PAOP** with low output is the tamponade pattern; bedside echo confirms the effusion.",
+   "whyNot": [
+    "Hypovolaemia lowers both pressures.",
+    "",
+    "Septic shock has high output and low pressures.",
+    "PE raises CVP but the wedge is low.",
+    "Anaphylaxis gives low pressures and high output."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 237,
+     "page": 218,
+     "chapter": "Critical care medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 228,
+     "page": 206,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q31",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 3,
+   "stem": "A 63-year-old woman with septic shock is on escalating doses of noradrenaline and vasopressin despite adequate fluids and source control.",
+   "leadIn": "Which statement about corticosteroids is most accurate?",
+   "options": [
+    "They are first-line before vasopressors",
+    "They raise BP and may shorten shock, but a mortality benefit is uncertain",
+    "They are contraindicated in sepsis",
+    "They should be given only if cortisol is undetectable",
+    "They replace the need for antibiotics"
+   ],
+   "answer": 1,
+   "explanation": "Low-dose steroids (e.g. hydrocortisone ± fludrocortisone) improve the vasopressor response and shorten shock. Kumar reports **no mortality benefit**; Pocket says they **may** reduce mortality — so they are reserved for **refractory** shock.",
+   "whyNot": [
+    "They are an add-on for refractory shock, not first line.",
+    "",
+    "They are used in refractory septic shock.",
+    "Relative adrenal insufficiency is the rationale; an undetectable cortisol is not required.",
+    "Antibiotics and source control remain essential."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 235,
+     "page": 216,
+     "chapter": "Critical care medicine"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 189,
+     "page": 189,
+     "chapter": "Pulmonary and ICU"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q32",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 65-year-old woman with cardiogenic shock has a cardiac index of 1.7 L/min/m², wedge pressure 26 mmHg and BP 96/64 mmHg on low-dose noradrenaline. She is in pulmonary oedema.",
+   "leadIn": "Which additional drug is most appropriate?",
+   "options": [
+    "A 1-litre crystalloid bolus",
+    "Dobutamine",
+    "Hydroxyethyl starch",
+    "Sodium bicarbonate",
+    "Propranolol"
+   ],
+   "answer": 1,
+   "explanation": "Low output with high filling pressures needs an **inotrope**. Dobutamine (β1) increases contractility and lowers SVR; with diuretics/nitrates it reduces filling pressures.",
+   "whyNot": [
+    "Fluid would worsen pulmonary oedema at a wedge of 26 mmHg.",
+    "",
+    "Starches are harmful and add volume.",
+    "Bicarbonate is only for extreme persistent acidosis.",
+    "β-blockade would further depress contractility."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 242,
+     "page": 223,
+     "chapter": "Critical care medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 228,
+     "page": 206,
+     "chapter": "Acute medicine and critical illness"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 156,
+     "page": 156,
+     "chapter": "Cardiovascular"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q33",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 74-year-old man has a large anterior MI. On examination he has bibasal crackles over the lower third of both lung fields and an S3, BP 118/70 mmHg, warm peripheries.",
+   "leadIn": "What is his Killip class?",
+   "options": [
+    "Class I",
+    "Class II",
+    "Class III",
+    "Class IV",
+    "Cannot be classified without an echocardiogram"
+   ],
+   "answer": 1,
+   "explanation": "**Killip II** = crackles in < 50% of lung fields or an S3. Class III needs crackles over > 50%; class IV is cardiogenic shock.",
+   "whyNot": [
+    "Class I has no crackles and no S3.",
+    "",
+    "His crackles cover less than half the lung fields.",
+    "He is not in shock (good BP, warm peripheries).",
+    "Killip class is a bedside clinical score."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1106,
+     "page": 1090,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q34",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 68-year-old man presents with sudden severe back pain radiating to the groin and collapse. BP 70/40 mmHg, pulse 130/min, cold and clammy. A pulsatile abdominal mass is felt.",
+   "leadIn": "What type of shock is this?",
+   "options": [
+    "Septic",
+    "Haemorrhagic hypovolaemic",
+    "Cardiogenic",
+    "Neurogenic",
+    "Anaphylactic"
+   ],
+   "answer": 1,
+   "explanation": "A ruptured **aortic aneurysm** is a haemorrhagic cause of hypovolaemic shock — cold, clammy, tachycardic and hypotensive.",
+   "whyNot": [
+    "No infection and cold peripheries.",
+    "",
+    "No cardiac signs; the mass explains the bleed.",
+    "Neurogenic shock follows cord or brain injury and gives bradycardia.",
+    "No allergen exposure."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s4"
+   },
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 611,
+     "page": 574,
+     "chapter": "Intensive care medicine"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 158,
+     "page": 158,
+     "chapter": "Cardiovascular"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q35",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 38-year-old woman in septic shock has received 40 mL/kg of fluid and noradrenaline. She remains hypotensive. She had a bleed at central line insertion two hours ago and her Hb has fallen from 112 to 84 g/L.",
+   "leadIn": "What should be done next?",
+   "options": [
+    "More crystalloid until the BP normalises",
+    "Re-evaluate for concealed haemorrhage or obstruction, including bedside echo",
+    "Add dopamine",
+    "Start hydrocortisone and wait",
+    "Stop antibiotics as sepsis is excluded"
+   ],
+   "answer": 1,
+   "explanation": "If shock persists after **30 mL/kg**, Davidson says reconsider the cause — especially **concealed haemorrhage** or an **obstructive** problem — and use bedside echo to check output and exclude tamponade.",
+   "whyNot": [
+    "Further fluid alone ignores a possible new cause and risks overload.",
+    "",
+    "Dopamine is inferior to noradrenaline and does not address the cause.",
+    "Steroids do not treat bleeding.",
+    "Sepsis is not excluded; antibiotics continue."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 228,
+     "page": 206,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q36",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 55-year-old man arrives in the emergency department with suspected urosepsis.",
+   "leadIn": "Which bundle should be completed within the first hour?",
+   "options": [
+    "Oxygen, blood cultures, IV antibiotics, lactate and FBC, IV fluids, urine-output monitoring",
+    "CT abdomen, MRI, urine culture, steroids, insulin, albumin",
+    "Blood cultures only, then antibiotics after results",
+    "Dopamine, dobutamine, vasopressin, hydrocortisone, albumin, bicarbonate",
+    "ECG, troponin, aspirin, nitrates, heparin, PCI"
+   ],
+   "answer": 0,
+   "explanation": "The **Sepsis Six**: high-flow O2, blood cultures, IV antibiotics, lactate + FBC, IV fluids and accurate urine output — all within 1 hour.",
+   "whyNot": [
+    "",
+    "Imaging for source control comes after stabilisation, and steroids are not routine.",
+    "Antibiotics must not wait for culture results.",
+    "Vasoactive drugs are not part of the bundle and dopamine is not first line.",
+    "This is an ACS pathway, not sepsis care."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 219,
+     "page": 197,
+     "chapter": "Acute medicine and critical illness"
+    }
+   ]
+  },
+  {
+   "id": "cardio-shock.q37",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 70-year-old woman in cardiogenic shock after MI has an intra-aortic balloon pump inserted via the femoral artery.",
+   "leadIn": "Which statement about the IABP is correct?",
+   "options": [
+    "It inflates in systole to push blood forward",
+    "It inflates in diastole, improving coronary perfusion, but does not improve survival",
+    "It reliably reduces mortality in cardiogenic shock",
+    "It is free of vascular complications",
+    "It provides more flow than VA-ECMO"
+   ],
+   "answer": 1,
+   "explanation": "The balloon **inflates in diastole** (raising coronary perfusion pressure) and deflates before systole (reducing afterload). It meets physiological goals but **does not improve survival**; risks include balloon thrombosis, mesenteric ischaemia and femoral pseudo-aneurysm.",
+   "whyNot": [
+    "Inflation in systole would increase afterload.",
+    "",
+    "Trials show no survival benefit.",
+    "Thrombosis, mesenteric ischaemia and pseudo-aneurysm occur.",
+    "IABP adds only ~0.5 L/min; VA-ECMO provides far more support."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-shock.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 229,
+     "page": 207,
+     "chapter": "Acute medicine and critical illness"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 157,
+     "page": 157,
+     "chapter": "Cardiovascular"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 56,
+     "page": 56,
+     "chapter": "Pulmonary and ICU"
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "cardio-shock.o1",
+   "sectionId": "cardio-shock.s2",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 222,
+    "page": 200,
+    "chapter": "Acute medicine and critical illness",
+    "figure": "Fig. 10.16"
+   },
+   "identify": "Six causes of cardiogenic shock drawn on a heart outline: LV infarct, RV infarct, tamponade, mitral endocarditis, pulmonary embolism, VT."
+  },
+  {
+   "id": "cardio-shock.o2",
+   "sectionId": "cardio-shock.s6",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 229,
+    "page": 207,
+    "chapter": "Acute medicine and critical illness",
+    "figure": "Fig. 10.20"
+   },
+   "identify": "Swan–Ganz catheter pressure trace: pressures change as the tip passes right atrium → right ventricle → pulmonary artery, then a low wedge trace (an estimate of left atrial pressure) once the balloon is inflated."
+  },
+  {
+   "id": "cardio-shock.o3",
+   "sectionId": "cardio-shock.s3",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 238,
+    "page": 219,
+    "chapter": "Critical care medicine",
+    "figure": "Fig. 10.23"
+   },
+   "identify": "Chest X-ray: bilateral consolidation from pneumococcal pneumonia — the commonest source of sepsis needing ICU."
+  },
+  {
+   "id": "cardio-shock.o4",
+   "sectionId": "cardio-shock.s6",
+   "cite": {
+    "book": "kcEssentials",
+    "pdfPage": 619,
+    "page": 582,
+    "chapter": "Intensive care medicine",
+    "figure": "Fig. 12.1"
+   },
+   "identify": "CVP response to a rapid fluid challenge: compare the three curves after ~2 mL/kg — hypovolaemic (small rise that falls back), normovolaemic, and hypervolaemic (large sustained rise)."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:29:07.809Z",
+  "contentHash": "3392c4c08fedf6a3bd81780970b3f6f14a53bbd68bc6540f2535ea3dcdb77d51"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:29:07.817Z",
+  "contentHash": "3392c4c08fedf6a3bd81780970b3f6f14a53bbd68bc6540f2535ea3dcdb77d51",
+  "checkerVersion": "source-check-v1"
+ }
+}

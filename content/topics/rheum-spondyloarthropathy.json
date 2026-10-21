@@ -1,0 +1,3374 @@
+{
+ "topicId": "rheum-spondyloarthropathy",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "rheum-spondyloarthropathy.s1",
+   "title": "The spondyloarthritis family and its causes",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The **spondyloarthropathies (SpA)** are a group of overlapping inflammatory diseases of the spine, peripheral joints and entheses that share a link with **HLA-B27**. Members: **axial SpA / ankylosing spondylitis (AS)**, **reactive arthritis (ReA)**, **psoriatic arthritis (PsA)** and **enteropathic (IBD-associated) arthritis**; when typical features occur without a recognised trigger the label is _undifferentiated SpA_. They are called **seronegative** because rheumatoid factor and ACPA are absent.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1049,
+       "page": 1027,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 637,
+       "page": 637,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 329,
+       "page": 292,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 641,
+       "page": 641,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1050,
+       "page": 1028,
+       "chapter": "Rheumatology and bone disease"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Features the whole family shares",
+     "items": [
+      "Asymmetrical oligoarthritis, mainly of the **lower limbs**",
+      "**Inflammatory back pain** and **sacroiliitis**",
+      "**Enthesitis** (inflammation where tendon or ligament attaches to bone) and **dactylitis** (a whole \"sausage\" digit)",
+      "Extra-articular: **anterior uveitis**, psoriasis, sterile urethritis/prostatitis, IBD, aortic root disease (aortic regurgitation, conduction block)",
+      "Family clustering and **HLA-B27** carriage; RF negative"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1050,
+       "page": 1028,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 637,
+       "page": 637,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "How the causes fit together",
+     "columns": [
+      "Factor",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "HLA-B27",
+       "Carried by >90% of people with AS versus about 8% of controls in Kumar (Davidson gives 9% of white Europeans). Only ~2% of carriers develop AS (about 20% if a first-degree relative is affected). Explains only ~30% of the genetic risk."
+      ],
+      [
+       "Twin data",
+       "Concordance up to 70% in identical twins versus 20–25% in non-identical twins: strong but not purely genetic."
+      ],
+      [
+       "Other genes",
+       "**ERAP-1** (processes peptides for HLA-B27), **IL-23 receptor**, **STAT3**. Misfolded HLA-B27 may trigger ER stress and cytokine release."
+      ],
+      [
+       "Gut microbiota",
+       "An abnormal immune response to gut bacteria in susceptible hosts; increased faecal _Klebsiella aerogenes_ reported in AS."
+      ],
+      [
+       "Cytokines",
+       "**IL-23 → IL-17** (Th17 cells) and **TNF-α** drive enthesitis and sacroiliitis; IL-22 promotes new bone formation. These are the drug targets."
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1050,
+       "page": 1028,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1051,
+       "page": 1029,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1052,
+       "page": 1030,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 472,
+       "page": 448,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 223,
+       "page": 223,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 529,
+       "page": 529,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Triggers and associated diseases",
+     "items": [
+      "Enteric infection (reactive arthritis): _Salmonella, Shigella, Yersinia, Campylobacter_",
+      "Sexually acquired infection (reactive arthritis): _Chlamydia trachomatis_, _Ureaplasma urealyticum_",
+      "Associated disease: psoriasis (psoriatic arthritis) and Crohn’s disease / ulcerative colitis (enteropathic arthritis)"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1053,
+       "page": 1031
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 474,
+       "page": 450
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1049,
+       "page": 1027
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1050,
+       "page": 1028
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 1051,
+      "page": 1029,
+      "chapter": "Rheumatology and bone disease",
+      "figure": "Fig. 24.38"
+     },
+     "note": "Look at: the pathway from gut flora to dendritic cells, then IL-23 to IL-17-producing cells to sacroiliitis/enthesitis, with TNF-α alongside and IL-22 driving new bone."
+    },
+    {
+     "type": "pearl",
+     "text": "**Enthesitis is the signature lesion** of SpA, whereas RA is centred on synovium. Typical sites: Achilles insertion, plantar fascia origin, patellar ligament, greater trochanter and humeral epicondyles. Widespread enthesal pain can be mislabelled as fibromyalgia.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1050,
+       "page": 1028,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1051,
+       "page": 1029,
+       "chapter": "Rheumatology and bone disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**HLA-B27 is neither necessary nor sufficient.** It is common in healthy people, so a positive test only supports a diagnosis that already looks likely clinically.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 473,
+       "page": 449,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 529,
+       "page": 529,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 531,
+       "page": 531,
+       "chapter": "Rheumatology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.s2",
+   "title": "Axial SpA and ankylosing spondylitis: clinical picture",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Axial SpA** (about 1% of people) affects the sacroiliac joints and spine; early inflammation is visible on **MRI**. Once sacroiliitis shows on **plain X-ray** the disease is called **ankylosing spondylitis** (radiographic axSpA). Not every case of axSpA progresses to AS. AS typically starts in the **late teens or twenties**, with **male:female about 3:1** and a prevalence below 0.5%.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 472,
+       "page": 448,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1052,
+       "page": 1030,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 223,
+       "page": 223,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1050,
+       "page": 1028,
+       "chapter": "Rheumatology and bone disease"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Inflammatory back pain (ASAS, Davidson)",
+     "items": [
+      "Back pain for **more than 3 months** with at least **4 of 5**: better with exercise; not eased by rest; insidious onset; pain at night; onset **before age 45**",
+      "Morning stiffness in the low back and buttocks, easing with activity",
+      "Supportive: good response to NSAIDs, family history of SpA, history of IBD"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1050,
+       "page": 1028,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 223,
+       "page": 223,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 530,
+       "page": 530,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Examination findings",
+     "items": [
+      "Early: the lumbar lordosis is **retained** (the low back fails to flatten) on forward flexion; lumbar movement is limited in both the sagittal and frontal planes",
+      "**Reduced chest expansion** (under ~2.5 cm at the 4th intercostal space) from costovertebral involvement",
+      "Late \"question-mark\" posture: flattened lumbar spine, exaggerated thoracic kyphosis, compensatory neck hyperextension, fixed flexion at hips and knees; paraspinal wasting",
+      "Up to 40% have asymmetrical large-joint arthritis or enthesitis (plantar fasciitis, Achilles)"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 472,
+       "page": 448,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 331,
+       "page": 294,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1050,
+       "page": 1028,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1052,
+       "page": 1030,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 330,
+       "page": 293,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kcEssentials",
+      "pdfPage": 330,
+      "page": 293,
+      "chapter": "Rheumatology",
+      "figure": "Fig. 7.4"
+     },
+     "note": "Look at: normal posture beside advanced AS posture: lost lordosis, thoracic kyphosis, neck hyperextension, flexed hips and knees."
+    },
+    {
+     "type": "table",
+     "title": "Extra-articular features and complications of AS",
+     "columns": [
+      "System",
+      "Feature"
+     ],
+     "rows": [
+      [
+       "Eye",
+       "**Acute anterior uveitis**: the commonest extra-articular feature (~25%); may come before the back pain"
+      ],
+      [
+       "Genitourinary",
+       "Prostatitis (~80% of men), sterile urethritis"
+      ],
+      [
+       "Gut",
+       "IBD lesions in up to 50%"
+      ],
+      [
+       "Heart",
+       "Aortitis / aortic valve disease with **aortic regurgitation**; **heart block** from fibrosis of the conducting system"
+      ],
+      [
+       "Lung",
+       "Restrictive defect from a rigid chest wall; rare **upper-lobe (apical) fibrosis**"
+      ],
+      [
+       "Bone",
+       "Osteoporosis; a fused brittle spine can **fracture after minor trauma** and injure the cord"
+      ],
+      [
+       "Nerve",
+       "Cauda equina syndrome"
+      ],
+      [
+       "Other",
+       "Fatigue, anaemia, amyloidosis (rare)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1052,
+       "page": 1030,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 223,
+       "page": 223,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 638,
+       "page": 638,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 640,
+       "page": 640,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 637,
+       "page": 637,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Painful red eye with photophobia and blurred vision** in a patient with SpA means acute anterior uveitis, which is an **emergency** needing same-day ophthalmology.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 472,
+       "page": 448,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1054,
+       "page": 1032,
+       "chapter": "Rheumatology and bone disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The books give different frequencies. **Davidson** gives uveitis 25% and aortic valve disease 20%. **Kumar** gives uveitis ~30%, aortic incompetence in up to 1% and conduction defects in ~5%. Use Davidson’s figures; the stable exam fact is that **uveitis is the commonest extra-articular feature**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1052,
+       "page": 1030,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 472,
+       "page": 448,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Mouth ulcers do **not** fit AS: think of SLE or Crohn’s disease (or reactive arthritis). Most AS patients keep working with a normal life expectancy, especially if the spine fuses in an upright posture.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 640,
+       "page": 640,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 636,
+       "page": 636,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1052,
+       "page": 1030,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1053,
+       "page": 1031,
+       "chapter": "Rheumatology and bone disease"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.s3",
+   "title": "Investigating suspected axial SpA",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "No single test makes the diagnosis. It rests on the **pattern of back pain + examination + imaging of the sacroiliac joints**, supported by **HLA-B27** and **CRP**. MRI finds sacroiliitis years before X-ray does.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1050,
+       "page": 1028,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1053,
+       "page": 1031,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 224,
+       "page": 224,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Classification criteria",
+     "columns": [
+      "Criteria set",
+      "Imaging arm",
+      "Clinical arm"
+     ],
+     "rows": [
+      [
+       "ASAS axial SpA",
+       "**Sacroiliitis on MRI** + at least 1 SpA feature",
+       "Or **HLA-B27 positive** + more than 1 other SpA feature, even with no sacroiliitis on imaging"
+      ],
+      [
+       "Modified New York (AS)",
+       "**Sacroiliitis on X-ray**: bilateral if mild, or unilateral if definite",
+       "Plus 1 clinical feature (inflammatory back pain, restricted lumbar movement, reduced chest expansion)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1050,
+       "page": 1028,
+       "chapter": "Rheumatology and bone disease"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tests and what they show",
+     "columns": [
+      "Test",
+      "Finding / role"
+     ],
+     "rows": [
+      [
+       "MRI sacroiliac joints/spine (STIR)",
+       "**Bone marrow oedema** around the SI joints: the earliest sign, before X-ray change"
+      ],
+      [
+       "Pelvic X-ray (SI joints)",
+       "Irregular, blurred margins with apparent widening, then sclerosis, narrowing and finally **fusion**"
+      ],
+      [
+       "Lateral spine X-ray",
+       "Vertebral **squaring** (\"shiny corners\"), fine symmetrical **marginal syndesmophytes**, ligament ossification and facet fusion giving the **bamboo spine**"
+      ],
+      [
+       "ESR / CRP",
+       "Raised in active disease (ESR up in up to ~75%) but **can be normal**"
+      ],
+      [
+       "HLA-B27",
+       "Positive in ~90% of AS but in 6–8% of the population; most useful when suspicion is high and imaging is normal"
+      ],
+      [
+       "RF, ACPA, ANA",
+       "**Negative** (seronegative)"
+      ],
+      [
+       "FBC",
+       "Anaemia of chronic inflammation"
+      ],
+      [
+       "Faecal calprotectin",
+       "Screens for associated IBD"
+      ],
+      [
+       "DXA",
+       "Osteoporosis and fragility-fracture risk"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1052,
+       "page": 1030,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1053,
+       "page": 1031,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 531,
+       "page": 531,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 532,
+       "page": 532,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 638,
+       "page": 638,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 224,
+       "page": 224
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Bedside measures and scores",
+     "items": [
+      "**Schober’s test**: mark 5 cm below and 10 cm above the lumbosacral junction (dimples of Venus, ~L5). If the 15 cm gap grows by **less than 5 cm** (to under 20 cm) on full flexion, lumbar movement is restricted",
+      "**Chest expansion** and **occiput-to-wall distance** (the latter also rises in osteoporotic kyphosis)",
+      "Schober and occiput-to-wall are better for **monitoring** than for diagnosis",
+      "Activity and function scores: **BASDAI**, **BASFI**, **ASDAS-CRP**; the ASAS Health Index for overall health"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 472,
+       "page": 448,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 223,
+       "page": 223,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 531,
+       "page": 531,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1051,
+       "page": 1029,
+       "chapter": "Rheumatology and bone disease"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 1051,
+      "page": 1029,
+      "chapter": "Rheumatology and bone disease",
+      "figure": "Fig. 24.39"
+     },
+     "note": "Look at: coronal STIR MRI with bright bone marrow oedema on both sides of each sacroiliac joint and erosive irregularity (early axSpA)."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 1052,
+      "page": 1030,
+      "chapter": "Rheumatology and bone disease",
+      "figure": "Fig. 24.40"
+     },
+     "note": "Compare: fine, symmetrical marginal syndesmophytes (AS) with coarse, asymmetrical non-marginal ones (psoriatic spondylitis)."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 1053,
+      "page": 1031,
+      "chapter": "Rheumatology and bone disease",
+      "figure": "Fig. 24.41"
+     },
+     "note": "Look at: bamboo spine with symmetrical marginal syndesmophytes, fused sacroiliac joints and generalised osteopenia."
+    },
+    {
+     "type": "pitfall",
+     "text": "A **normal pelvic X-ray does not exclude axial SpA**: request MRI. Step-Up treats bilateral sacroiliitis as essential, but that applies only to established AS; non-radiographic axSpA has MRI changes only.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1053,
+       "page": 1031,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 636,
+       "page": 636,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 472,
+       "page": 448,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Age cut-off for inflammatory back pain: Davidson’s ASAS list uses onset **before 45**, while the Pocket Medicine \"IPAIN\" mnemonic uses before 40. Follow Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1050,
+       "page": 1028,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 530,
+       "page": 530,
+       "chapter": "Rheumatology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.s4",
+   "title": "Managing axial SpA and ankylosing spondylitis",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Step-wise treatment",
+     "items": [
+      "**Everyone**: education, daily exercise and physiotherapy (posture and extension work), stopping smoking",
+      "**First-line drug: an NSAID**, ideally once daily or slow-release at bedtime to cover night pain and morning stiffness. If one fails after 2–4 weeks at full dose, try another",
+      "**NSAIDs fail or are not tolerated → biologic**: a **TNF inhibitor** (adalimumab, etanercept, golimumab, certolizumab, infliximab) or the **IL-17A inhibitor secukinumab** (ixekizumab is another)",
+      "**Sulfasalazine / methotrexate**: only for **peripheral** arthritis; they do nothing for spinal disease or its progression"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1052,
+       "page": 1030,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1053,
+       "page": 1031,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 224,
+       "page": 224,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 638,
+       "page": 638,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 332,
+       "page": 295,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 473,
+       "page": 449,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Specific problems",
+     "columns": [
+      "Problem",
+      "Approach"
+     ],
+     "rows": [
+      [
+       "Plantar fasciitis, enthesitis, a single peripheral joint",
+       "Local glucocorticoid injection"
+      ],
+      [
+       "Acute anterior uveitis",
+       "Glucocorticoids (topical/subconjunctival/systemic) with urgent ophthalmology"
+      ],
+      [
+       "Recurrent uveitis needing a biologic",
+       "Adalimumab or infliximab preferred"
+      ],
+      [
+       "Osteoporosis",
+       "Bisphosphonate"
+      ],
+      [
+       "Destroyed hip or knee",
+       "Joint replacement"
+      ],
+      [
+       "Severe fixed kyphosis",
+       "Spinal osteotomy"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1053,
+       "page": 1031,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 533,
+       "page": 533,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 224,
+       "page": 224,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1054,
+       "page": 1032,
+       "chapter": "Rheumatology and bone disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Oral glucocorticoids do not help spinal AS.** Davidson reserves them for acute uveitis; some quick sources suggest steroids for flares, but follow Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1053,
+       "page": 1031,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 224,
+       "page": 224,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "IL-12/23 (ustekinumab) and IL-23 blockers work in PsA but **not in axial SpA** (Pocket Medicine). Kumar lists ustekinumab among alternative options in SpA, but Davidson gives only anti-TNF or anti-IL-17A for axial disease, so follow Davidson: for the spine choose anti-TNF or anti-IL-17A.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 533,
+       "page": 533,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 474,
+       "page": 450
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1052,
+       "page": 1030
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Before anti-TNF**: chest X-ray for everyone, plus IGRA and specialist review in high-risk groups; treat active TB and give prophylaxis for latent TB first; assess hepatitis B and C; avoid in severe heart failure.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 471,
+       "page": 447,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Neck or back pain after **even minor trauma** in AS means a possible fracture through the fused spine: immobilise until CT (± MRI) excludes it, to protect the cord.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 639,
+       "page": 639,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "stepup6",
+      "pdfPage": 639,
+      "page": 639,
+      "chapter": "Rheumatology",
+      "figure": "FIGURE 6-8"
+     },
+     "note": "Look at: a fused AS lumbar spine with a cleft through the fusion mass at L5–S1 after a car crash (a new fracture)."
+    },
+    {
+     "type": "pearl",
+     "text": "Anti-TNF eases symptoms but has **not been shown to stop ankylosis**, and disease relapses when it is stopped. **Early diagnosis** lets daily exercise start before syndesmophytes form; poor control leaves a fixed kyphosis that limits forward vision.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 473,
+       "page": 449,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1052,
+       "page": 1030,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 474,
+       "page": 450,
+       "chapter": "Rheumatology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.s5",
+   "title": "Reactive arthritis",
+   "objectiveIdx": [
+    0,
+    1,
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Reactive arthritis** is a **sterile** synovitis that follows an infection elsewhere, usually within about **4 weeks**. It follows 1–2% of dysentery or sexually acquired non-specific urethritis episodes; **HLA-B27** raises the risk in men 30–50-fold. The sexually acquired form has a **male:female ratio of about 15:1**. Persisting bacterial antigen in the joint probably drives it.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 333,
+       "page": 296,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 474,
+       "page": 450,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1053,
+       "page": 1031,
+       "chapter": "Rheumatology and bone disease"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Triggers",
+     "columns": [
+      "Route",
+      "Organisms"
+     ],
+     "rows": [
+      [
+       "Enteric (dysentery)",
+       "_Salmonella, Shigella, Yersinia, Campylobacter_"
+      ],
+      [
+       "Sexually acquired",
+       "_Chlamydia trachomatis_ (commonest), _Ureaplasma urealyticum_"
+      ],
+      [
+       "Not HLA-B27 SpA (usually not chronic)",
+       "Post-viral, post-streptococcal (rheumatic fever), _Borrelia_, mycobacteria"
+      ],
+      [
+       "Gonorrhoea",
+       "Causes **septic** (gonococcal) arthritis rather than reactive arthritis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1053,
+       "page": 1031,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 474,
+       "page": 450,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 222,
+       "page": 222,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Clinical features",
+     "items": [
+      "Young man with **acute asymmetrical lower-limb oligoarthritis** (knees, ankles, feet), which may move from joint to joint",
+      "Enthesitis (Achilles, plantar fascia), dactylitis, fever and weight loss",
+      "Classic triad (old name Reiter’s): **urethritis + conjunctivitis + arthritis**, \"can’t see, can’t pee, can’t climb a tree\"",
+      "Skin and mucosa: **circinate balanitis**, **keratoderma blennorrhagica** (pustular plaques on soles/palms), nail dystrophy, mouth ulcers",
+      "Anterior uveitis is rare in the first attack but occurs in ~30% with recurrent or chronic disease"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1053,
+       "page": 1031,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 333,
+       "page": 296,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 222,
+       "page": 222,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 641,
+       "page": 641,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 475,
+       "page": 451
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 475,
+      "page": 451,
+      "chapter": "Rheumatology",
+      "figure": "Fig. 18.32"
+     },
+     "note": "Look at: the map of reactive arthritis features: conjunctivitis, mouth ulcers, urethritis, circinate balanitis, keratoderma on the sole, Achilles enthesitis, plantar fasciitis, sausage toe, knee effusion."
+    },
+    {
+     "type": "bullets",
+     "title": "Investigations (a clinical diagnosis)",
+     "items": [
+      "**Aspirate the joint**: fluid is sterile and neutrophil-rich; this excludes sepsis and crystals",
+      "ESR/CRP raised; RF, ACPA and ANA negative",
+      "Look for the trigger: first-void urine (mucoid threads on the \"two-glass\" test) and urine/genital NAAT for _Chlamydia_; stool culture (often negative by the time arthritis starts). Negative tests do not exclude ReA",
+      "Consider HIV testing",
+      "Chronic X-ray changes: periostitis, fluffy calcaneal spurs, enthesal erosions, **asymmetrical or unilateral sacroiliitis**, non-marginal syndesmophytes"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1054,
+       "page": 1032,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 333,
+       "page": 296,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 532,
+       "page": 532,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1053,
+       "page": 1031,
+       "chapter": "Rheumatology and bone disease"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Management",
+     "items": [
+      "Rest, **NSAIDs** and analgesia; **intra-articular** steroid for a severe single joint, **systemic** steroid for polyarticular disease",
+      "Antibiotics only for an **identified** infection: chlamydial urethritis gets a short course of **doxycycline** or a single dose of **azithromycin**; uncomplicated enteric infection usually needs none. Screen and treat sexual partners",
+      "**DMARDs** (sulfasalazine or methotrexate) for persistent or recurrent arthritis or severe keratoderma; **anti-TNF** if DMARDs fail",
+      "Anterior uveitis is an emergency: topical, subconjunctival or systemic glucocorticoids"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1054,
+       "page": 1032,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 533,
+       "page": 533,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 642,
+       "page": 642,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 475,
+       "page": 451
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Course: most first attacks settle within months (6 months in Zero to Finals, up to 12 in Pocket Medicine), but 15–20% develop sacroiliitis and about 10% still have active disease 20 years later.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1053,
+       "page": 1031,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 222,
+       "page": 222,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 529,
+       "page": 529
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A hot swollen joint is **septic arthritis until proven otherwise**: aspirate for Gram stain, culture and crystals before calling it reactive.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 222,
+       "page": 222,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1054,
+       "page": 1032,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1053,
+       "page": 1031,
+       "chapter": "Rheumatology and bone disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Antibiotics do **not** change established reactive arthritis. Davidson finds no convincing evidence for them unless a triggering infection is found.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1054,
+       "page": 1032,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 642,
+       "page": 642,
+       "chapter": "Rheumatology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.s6",
+   "title": "Psoriatic and enteropathic arthritis",
+   "objectiveIdx": [
+    0,
+    1,
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Psoriatic arthritis** affects up to 40% of people with psoriasis in Davidson (quick sources give 10–30%). Davidson puts the usual onset at 25–40 years (Pocket Medicine gives equal sex incidence and a peak at 45–54 years; follow Davidson). It is strongly tied to **nail disease** (nail changes in ~85% of PsA). Arthritis comes **before the skin disease** in 13–17%, does not follow skin activity, and is associated with HIV.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1054,
+       "page": 1032,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1055,
+       "page": 1033,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 529,
+       "page": 529,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 332,
+       "page": 295,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 642,
+       "page": 642
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Patterns of psoriatic arthritis",
+     "columns": [
+      "Pattern",
+      "Clue"
+     ],
+     "rows": [
+      [
+       "Asymmetrical mono/oligoarthritis",
+       "Often with **dactylitis**"
+      ],
+      [
+       "Symmetrical polyarthritis",
+       "RA-like but seronegative; ~25%, mainly women"
+      ],
+      [
+       "DIP joint arthritis",
+       "With **nail pitting, onycholysis**, subungual hyperkeratosis"
+      ],
+      [
+       "Psoriatic spondylitis",
+       "Asymmetrical sacroiliitis, coarse non-marginal syndesmophytes"
+      ],
+      [
+       "Arthritis mutilans",
+       "~5%; osteolysis gives shortened, **telescoping** digits"
+      ],
+      [
+       "Enthesitis-predominant",
+       "Achilles and plantar fascia pain"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1054,
+       "page": 1032,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1055,
+       "page": 1033,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 332,
+       "page": 295,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Diagnosing PsA",
+     "items": [
+      "**CASPAR**: inflammatory joint, spine or enthesis disease + **≥3 points** from: current psoriasis (2 points); psoriasis in a relative; psoriatic nail dystrophy; negative RF; current or past dactylitis; juxta-articular new bone on hand/foot X-ray",
+      "Bloods add little: ESR often normal; autoantibodies negative",
+      "X-ray: erosions with **new bone formation**, periostitis, **no periarticular osteoporosis**, **pencil-in-cup** deformity, ankylosis",
+      "Screen people with psoriasis using the **PEST** questionnaire"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1054,
+       "page": 1032,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1055,
+       "page": 1033,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 332,
+       "page": 295,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 220,
+       "page": 220,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 221,
+       "page": 221,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 1056,
+      "page": 1034,
+      "chapter": "Rheumatology and bone disease",
+      "figure": "Fig. 24.43"
+     },
+     "note": "Look at: (A) a sausage digit (dactylitis); (B) DIP joint swelling with nail pitting and onycholysis."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 474,
+      "page": 450,
+      "chapter": "Rheumatology",
+      "figure": "Fig. 18.31"
+     },
+     "note": "Look at: forefoot X-ray with metatarsal head osteolysis and cupped phalangeal bases (pencil-in-cup)."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 474,
+      "page": 450,
+      "chapter": "Rheumatology",
+      "figure": "Fig. 18.30"
+     },
+     "note": "Look at: arthritis mutilans hand with shortened, unstable (telescoping) fingers from osteolysis."
+    },
+    {
+     "type": "bullets",
+     "title": "Treating PsA",
+     "items": [
+      "Mild disease: NSAIDs/analgesia; **intra-articular steroid** for one inflamed joint; avoid splints and long rest",
+      "**Methotrexate is the first-choice DMARD** (also helps the skin); alternatives: sulfasalazine, leflunomide, ciclosporin; monitor LFTs",
+      "DMARD failure: **anti-TNF** (joints and skin), **secukinumab** (IL-17A), **ustekinumab** (IL-12/23 p40) or oral **apremilast** (PDE4 inhibitor; less effective; weight loss, low mood/suicidal ideation)",
+      "Manage jointly with dermatology"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1055,
+       "page": 1033,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1056,
+       "page": 1034,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 221,
+       "page": 221,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 332,
+       "page": 295,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "In PsA **avoid hydroxychloroquine** (can trigger severe psoriatic or exfoliative skin reactions) and **oral glucocorticoids** (can make the skin unstable when tapered). Single-joint steroid injections are fine.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 474,
+       "page": 450,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1056,
+       "page": 1034
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Enteropathic (IBD-associated) arthritis",
+     "columns": [
+      "Form",
+      "Link with bowel activity"
+     ],
+     "rows": [
+      [
+       "Peripheral: large lower-limb joints, about 20% of IBD in Davidson (10–15% in Kumar and kcEssentials); Crohn’s > UC",
+       "**Tracks bowel activity**; remits with UC remission or colectomy but may persist in well-controlled Crohn’s; can come before the bowel symptoms"
+      ],
+      [
+       "Axial: sacroiliitis/spondylitis (radiographic sacroiliitis in 20–25%), HLA-B27 linked",
+       "**Independent** of bowel activity"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1056,
+       "page": 1034,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 475,
+       "page": 451,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 530,
+       "page": 530,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 334,
+       "page": 297,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Treating enteropathic arthritis",
+     "items": [
+      "Treat the IBD; intra-articular steroid for a single joint",
+      "**Sulfasalazine** is preferred to mesalazine because it helps bowel and joints; glucocorticoids and methotrexate also used",
+      "Biologics that treat both: **infliximab, adalimumab, certolizumab, ustekinumab**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1056,
+       "page": 1034,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 475,
+       "page": 451,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "In IBD-associated arthritis, **avoid NSAIDs** (they can flare colitis) and **avoid etanercept** (it does not work for IBD). If symptoms worsen on anti-TNF, exclude bacterial overgrowth.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1056,
+       "page": 1034,
+       "chapter": "Rheumatology and bone disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 533,
+       "page": 533,
+       "chapter": "Rheumatology"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "rheum-spondyloarthropathy.c1",
+   "sectionId": "rheum-spondyloarthropathy.s1",
+   "front": "Signature lesion shared by all spondyloarthropathies?",
+   "back": "**Enthesitis**: inflammation where tendon or ligament inserts into bone (RA is centred on synovium instead).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1050,
+     "page": 1028,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.c2",
+   "sectionId": "rheum-spondyloarthropathy.s1",
+   "front": "Why are SpAs called \"seronegative\"?",
+   "back": "Rheumatoid factor and ACPA are **absent**.",
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 329,
+     "page": 292,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 637,
+     "page": 637,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.c3",
+   "sectionId": "rheum-spondyloarthropathy.s1",
+   "front": "HLA-B27 in AS vs the general population?",
+   "back": ">90% of AS patients vs about 8–9% of the population; only ~2% of carriers develop AS.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1052,
+     "page": 1030,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 223,
+     "page": 223,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 472,
+     "page": 448
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.c4",
+   "sectionId": "rheum-spondyloarthropathy.s1",
+   "front": "Cytokine axis targeted by SpA biologics?",
+   "back": "**IL-23 → IL-17** (Th17) together with **TNF-α**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1050,
+     "page": 1028,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1051,
+     "page": 1029,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.c5",
+   "sectionId": "rheum-spondyloarthropathy.s2",
+   "front": "Commonest extra-articular feature of AS?",
+   "back": "**Acute anterior uveitis** (~25%); it can come before the back pain and is an emergency.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1052,
+     "page": 1030,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 472,
+     "page": 448,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.c6",
+   "sectionId": "rheum-spondyloarthropathy.s2",
+   "front": "Cardiac lesions of AS?",
+   "back": "Aortitis with **aortic regurgitation** and **heart block** (conduction-system fibrosis).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1052,
+     "page": 1030,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 223,
+     "page": 223,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.c7",
+   "sectionId": "rheum-spondyloarthropathy.s3",
+   "front": "Earliest imaging sign of axial SpA?",
+   "back": "**Bone marrow oedema** around the SI joints on **STIR MRI**, before X-ray change.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1053,
+     "page": 1031,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 224,
+     "page": 224,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1051,
+     "page": 1029,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.c8",
+   "sectionId": "rheum-spondyloarthropathy.s3",
+   "front": "ASAS axSpA criteria in one line?",
+   "back": "MRI sacroiliitis + ≥1 SpA feature, **or** HLA-B27 + >1 SpA feature without sacroiliitis.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1050,
+     "page": 1028,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.c9",
+   "sectionId": "rheum-spondyloarthropathy.s3",
+   "front": "Abnormal Schober’s test?",
+   "back": "A 15 cm lumbar span (5 cm below to 10 cm above L5) grows by **<5 cm** on full flexion.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 472,
+     "page": 448,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 223,
+     "page": 223,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.c10",
+   "sectionId": "rheum-spondyloarthropathy.s4",
+   "front": "First-line drug for axial SpA?",
+   "back": "An **NSAID** (long-acting at night), plus exercise and physiotherapy.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1052,
+     "page": 1030,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1053,
+     "page": 1031,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.c11",
+   "sectionId": "rheum-spondyloarthropathy.s4",
+   "front": "Next step when NSAIDs fail in AS?",
+   "back": "**TNF inhibitor** or **IL-17A inhibitor (secukinumab)**; sulfasalazine/methotrexate help only peripheral joints.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1052,
+     "page": 1030,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.c12",
+   "sectionId": "rheum-spondyloarthropathy.s5",
+   "front": "Enteric triggers of reactive arthritis?",
+   "back": "_Salmonella, Shigella, Yersinia, Campylobacter_.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1053,
+     "page": 1031,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.c13",
+   "sectionId": "rheum-spondyloarthropathy.s5",
+   "front": "Antibiotic for chlamydial urethritis in reactive arthritis?",
+   "back": "Short course of **doxycycline** or a single dose of **azithromycin**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1054,
+     "page": 1032,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.c14",
+   "sectionId": "rheum-spondyloarthropathy.s6",
+   "front": "First-choice DMARD in psoriatic arthritis?",
+   "back": "**Methotrexate** (helps skin as well as joints).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1055,
+     "page": 1033,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1056,
+     "page": 1034,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.c15",
+   "sectionId": "rheum-spondyloarthropathy.s6",
+   "front": "Classic X-ray sign of psoriatic arthritis?",
+   "back": "**Pencil-in-cup** deformity with new bone formation and no periarticular osteoporosis.",
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "pdfPage": 221,
+     "page": 221,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1055,
+     "page": 1033,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.c16",
+   "sectionId": "rheum-spondyloarthropathy.s6",
+   "front": "Which anti-TNF must be avoided in IBD-associated arthritis?",
+   "back": "**Etanercept**: it does not work for IBD.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1056,
+     "page": 1034,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "rheum-spondyloarthropathy.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 24-year-old man has had 6 months of low back pain and bilateral Achilles heel pain. A rheumatology registrar explains that his condition, unlike rheumatoid arthritis, mainly affects the sites where tendons and ligaments attach to bone.",
+   "leadIn": "Which lesion is the hallmark of his disease group?",
+   "options": [
+    "Enthesitis",
+    "Synovial pannus",
+    "Tophaceous deposits",
+    "Subchondral cysts with osteophytes",
+    "Vasculitic nodules"
+   ],
+   "answer": 0,
+   "explanation": "Spondyloarthropathies are defined by **enthesitis**, inflammation at tendon/ligament insertions (Achilles, plantar fascia). RA is a synovitis.",
+   "whyNot": [
+    "",
+    "Pannus is the inflamed synovium of RA.",
+    "Tophi are urate deposits in gout.",
+    "Cysts and osteophytes describe osteoarthritis.",
+    "Nodules with vasculitis suggest RA or a primary vasculitis, not SpA."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-spondyloarthropathy.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1050,
+     "page": 1028,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 19-year-old student asks for an HLA-B27 test because his father has ankylosing spondylitis. He has no symptoms. The test is positive.",
+   "leadIn": "Which statement about his result is most accurate?",
+   "options": [
+    "Most HLA-B27 carriers never develop AS, though his affected father raises his risk",
+    "He will develop AS within 10 years",
+    "The result confirms he has non-radiographic axial SpA",
+    "HLA-B27 accounts for nearly all of the inherited risk of AS",
+    "A negative result would have excluded AS in future"
+   ],
+   "answer": 0,
+   "explanation": "Only ~2% of HLA-B27 carriers develop AS; with an affected first-degree relative the figure rises to ~20%. HLA-B27 explains only ~30% of the genetic risk and is neither necessary nor sufficient.",
+   "whyNot": [
+    "",
+    "Most carriers never develop AS.",
+    "A gene test cannot diagnose a disease in someone without symptoms or imaging findings.",
+    "HLA-B27 explains only about 30% of the genetic risk.",
+    "Some patients with AS are HLA-B27 negative."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-spondyloarthropathy.s1"
+   },
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "pdfPage": 223,
+     "page": 223,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 529,
+     "page": 529,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q3",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Extra-articular features and complications of ankylosing spondylitis",
+   "leadIn": "Match each patient with ankylosing spondylitis with the most likely feature or complication from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Acute anterior uveitis",
+    "Aortic regurgitation",
+    "Complete heart block",
+    "Upper-lobe pulmonary fibrosis",
+    "Restrictive chest wall defect",
+    "Fracture through a fused spine",
+    "Cauda equina syndrome",
+    "Amyloidosis",
+    "Inflammatory bowel disease",
+    "Osteoporosis",
+    "Plantar fasciitis (enthesitis)",
+    "Anaemia of chronic disease"
+   ],
+   "items": [
+    {
+     "stem": "A 28-year-old man with long-standing AS develops a painful red left eye, dislike of bright light and blurred vision over 1 day.",
+     "answer": 0,
+     "explanation": "Painful red eye with photophobia is **acute anterior uveitis**, the commonest extra-articular feature of AS and an emergency.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s2"
+     }
+    },
+    {
+     "stem": "A 52-year-old man with fused-spine AS slips on a wet floor and lands on his back. He now has severe mid-back pain, although the fall seemed trivial.",
+     "answer": 5,
+     "explanation": "A rigid, osteoporotic fused spine breaks with minor trauma: **fracture through a fused spine**; immobilise and image with CT.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s2"
+     }
+    },
+    {
+     "stem": "A 47-year-old man with AS has a collapsing pulse and a soft decrescendo murmur in early diastole, loudest along the left sternal border.",
+     "answer": 1,
+     "explanation": "Aortitis in AS can lead to **aortic regurgitation** (early diastolic murmur, wide pulse pressure).",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1052,
+     "page": 1030,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 472,
+     "page": 448,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 638,
+     "page": 638,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 639,
+     "page": 639,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 637,
+     "page": 637,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 26-year-old woman has 8 months of inflammatory-type low back pain with buttock stiffness. CRP is mildly raised and HLA-B27 is positive. Pelvic X-ray is normal.",
+   "leadIn": "What is the best next investigation?",
+   "options": [
+    "MRI of the sacroiliac joints with STIR sequences",
+    "CT of the lumbar spine",
+    "Repeat pelvic X-ray in 5 years",
+    "Isotope bone scan",
+    "Rheumatoid factor and anti-CCP antibodies"
+   ],
+   "answer": 0,
+   "explanation": "X-rays lag years behind. **STIR MRI** shows bone marrow oedema of early sacroiliitis and can confirm axial SpA when the X-ray is normal.",
+   "whyNot": [
+    "",
+    "CT shows bony change but misses early inflammation.",
+    "Waiting delays diagnosis while MRI could show disease now.",
+    "A bone scan is non-specific and not the standard test.",
+    "These antibodies are negative in SpA and do not help."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-spondyloarthropathy.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1053,
+     "page": 1031,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 224,
+     "page": 224,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 532,
+     "page": 532,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 30-year-old man has suspected AS. The examiner marks a point at the lumbosacral junction and another 10 cm above it, plus a third 5 cm below. On full forward flexion the marks 15 cm apart move to 17 cm apart.",
+   "leadIn": "How should this result be interpreted?",
+   "options": [
+    "Restricted lumbar flexion supporting axial SpA",
+    "Normal lumbar flexion",
+    "Reduced chest expansion",
+    "Increased occiput-to-wall distance",
+    "Hypermobility"
+   ],
+   "answer": 0,
+   "explanation": "In the Schober test an increase of **less than 5 cm** (here 2 cm) shows restricted lumbar flexion.",
+   "whyNot": [
+    "",
+    "A normal spine opens by at least 5 cm.",
+    "Chest expansion is measured with a tape round the chest.",
+    "Occiput-to-wall is measured standing against a wall.",
+    "Hypermobility would give a large increase, not a small one."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-spondyloarthropathy.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 472,
+     "page": 448,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 223,
+     "page": 223,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q6",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Treatment choices in axial spondyloarthritis",
+   "leadIn": "For each patient below choose the most appropriate next treatment from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Long-acting NSAID at night with daily exercise programme",
+    "TNF inhibitor such as adalimumab",
+    "Secukinumab (IL-17A inhibitor)",
+    "Ustekinumab (IL-12/23 inhibitor)",
+    "Apremilast (PDE4 inhibitor)",
+    "Methotrexate",
+    "Sulfasalazine",
+    "Hydroxychloroquine",
+    "Oral prednisolone course",
+    "Local glucocorticoid injection (joint or enthesis)",
+    "Topical glucocorticoid with urgent ophthalmology review",
+    "Doxycycline course",
+    "Etanercept",
+    "Bisphosphonate"
+   ],
+   "items": [
+    {
+     "stem": "A 23-year-old man has just been diagnosed with axial SpA. He has night pain and 2 hours of morning stiffness. He has never had any treatment.",
+     "answer": 0,
+     "explanation": "First line is an **NSAID**, ideally long-acting at bedtime, plus exercise and physiotherapy.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s4"
+     }
+    },
+    {
+     "stem": "A 31-year-old man with AS still has high BASDAI scores after two different NSAIDs, each taken at full dose for 4 weeks. He has had two attacks of acute anterior uveitis this year. Screening for TB and hepatitis is negative.",
+     "answer": 1,
+     "explanation": "NSAID failure in axial disease → biologic. Anti-TNF and anti-IL-17A both treat the spine, but with **recurrent uveitis** a monoclonal **TNF inhibitor (adalimumab or infliximab)** is preferred. Conventional DMARDs do not help the spine.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s4"
+     }
+    },
+    {
+     "stem": "A 35-year-old woman with AS is well controlled on an NSAID but has persistent plantar heel pain at the fascia origin.",
+     "answer": 9,
+     "explanation": "Localised enthesitis such as plantar fasciitis responds to a **local glucocorticoid injection**.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1052,
+     "page": 1030,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1053,
+     "page": 1031,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 224,
+     "page": 224,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 533,
+     "page": 533
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 25-year-old man develops a painful swollen right knee and left ankle 3 weeks after a bout of bloody diarrhoea on holiday. He also has sore red eyes. Knee aspirate is turbid with many neutrophils; Gram stain and culture are negative and no crystals are seen.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Reactive arthritis",
+    "Septic arthritis",
+    "Gout",
+    "Rheumatoid arthritis",
+    "Enteropathic arthritis"
+   ],
+   "answer": 0,
+   "explanation": "Asymmetric lower-limb arthritis and conjunctivitis within weeks of dysentery, with **sterile** neutrophil-rich fluid, is **reactive arthritis**.",
+   "whyNot": [
+    "",
+    "Culture and Gram stain are negative and two joints are involved.",
+    "No crystals were seen.",
+    "RA is a symmetrical small-joint polyarthritis without a preceding infection.",
+    "There is no known IBD; a single dysenteric illness points to a reactive trigger."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-spondyloarthropathy.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1053,
+     "page": 1031,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1054,
+     "page": 1032,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 333,
+     "page": 296,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 22-year-old man has acute knee arthritis, dysuria and a painless rash on the glans penis. First-void urine NAAT is positive for _Chlamydia trachomatis_.",
+   "leadIn": "Which treatment should be added to an NSAID?",
+   "options": [
+    "A short course of doxycycline (or single-dose azithromycin)",
+    "Long-term methotrexate",
+    "Ceftriaxone for gonococcal infection",
+    "Immediate anti-TNF therapy",
+    "No antimicrobial at all because the joint is sterile"
+   ],
+   "answer": 0,
+   "explanation": "Antibiotics do not change the arthritis, but an **identified** chlamydial urethritis must be treated (doxycycline or azithromycin) and partners screened.",
+   "whyNot": [
+    "",
+    "DMARDs are for persistent or recurrent disease, not a first attack.",
+    "The NAAT shows Chlamydia, not gonorrhoea.",
+    "Anti-TNF is kept for DMARD-resistant disease.",
+    "The infection itself still needs treating even though the joint is sterile."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-spondyloarthropathy.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1054,
+     "page": 1032,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 533,
+     "page": 533,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q9",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Psoriatic and enteropathic arthritis",
+   "leadIn": "For each patient below, pick the most likely diagnosis from the options above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Ankylosing spondylitis",
+    "Non-radiographic axial spondyloarthritis",
+    "Reactive arthritis",
+    "Psoriatic arthritis",
+    "Enteropathic (IBD-associated) arthritis",
+    "Rheumatoid arthritis",
+    "Septic arthritis",
+    "Gonococcal arthritis",
+    "Gout",
+    "Fibromyalgia",
+    "Osteoporotic vertebral fracture",
+    "Mechanical low back pain"
+   ],
+   "items": [
+    {
+     "stem": "A 48-year-old woman with scalp psoriasis has swollen DIP joints of several fingers, with pitting and lifting of the nails. RF is negative.",
+     "answer": 3,
+     "explanation": "DIP arthritis with nail pitting and onycholysis is the classic **psoriatic arthritis** pattern.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s6"
+     }
+    },
+    {
+     "stem": "A 33-year-old man with Crohn’s disease has a swollen right knee and ankle during a bout of diarrhoea and abdominal pain; joint aspirate is sterile.",
+     "answer": 4,
+     "explanation": "Large-joint lower-limb arthritis that **flares with bowel activity** is peripheral **enteropathic arthritis**.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s6"
+     }
+    },
+    {
+     "stem": "A 41-year-old man has a swollen, painful whole second toe and Achilles pain. He has no rash, but his mother has psoriasis and his nails show pitting.",
+     "answer": 3,
+     "explanation": "Two-step: dactylitis + nail dystrophy + family history score on CASPAR, so this is **PsA** even without skin disease (arthritis can precede psoriasis).",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1054,
+     "page": 1032,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1055,
+     "page": 1033,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1056,
+     "page": 1034,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q10",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Causes of inflammatory joint and back pain in young adults",
+   "leadIn": "For each patient below, pick the most likely diagnosis from the options above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Ankylosing spondylitis",
+    "Non-radiographic axial spondyloarthritis",
+    "Reactive arthritis",
+    "Psoriatic arthritis",
+    "Enteropathic (IBD-associated) arthritis",
+    "Rheumatoid arthritis",
+    "Septic arthritis",
+    "Gonococcal arthritis",
+    "Gout",
+    "Fibromyalgia",
+    "Osteoporotic vertebral fracture",
+    "Mechanical low back pain"
+   ],
+   "items": [
+    {
+     "stem": "A 22-year-old man has 9 months of low back and buttock pain that wakes him at night and improves after a hot shower and exercise. Pelvic X-ray shows bilateral sacroiliac erosions and sclerosis.",
+     "answer": 0,
+     "explanation": "Inflammatory back pain + **radiographic** sacroiliitis = **ankylosing spondylitis**.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s2"
+     }
+    },
+    {
+     "stem": "A 27-year-old woman has 7 months of inflammatory back pain and good NSAID response. Pelvic X-ray is normal but MRI shows sacroiliac bone marrow oedema.",
+     "answer": 1,
+     "explanation": "MRI sacroiliitis with a normal X-ray = **non-radiographic axial SpA**.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s3"
+     }
+    },
+    {
+     "stem": "A 24-year-old man has a painful swollen knee, red eyes, dysuria and scaly pustular plaques on his soles, 2 weeks after unprotected sex.",
+     "answer": 2,
+     "explanation": "Arthritis + conjunctivitis + urethritis + keratoderma blennorrhagica after sex = **reactive arthritis**.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s5"
+     }
+    },
+    {
+     "stem": "A 46-year-old man with psoriasis for 20 years has progressively shortened, unstable fingers whose skin folds concertina when the digits are pushed in.",
+     "answer": 3,
+     "explanation": "Telescoping digits from osteolysis = **arthritis mutilans**, the destructive pattern of **psoriatic arthritis** (~5%).",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1050,
+     "page": 1028,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 472,
+     "page": 448,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1053,
+     "page": 1031,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1055,
+     "page": 1033,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A researcher studying ankylosing spondylitis looks for the cytokine pathway activated by gut-derived signals in dendritic cells that drives enthesitis and new bone formation.",
+   "leadIn": "Which cytokine pathway is central?",
+   "options": [
+    "IL-23 / IL-17",
+    "IL-4 / IL-13",
+    "IL-5 / eosinophil",
+    "Interferon-alpha",
+    "IL-1 / inflammasome only"
+   ],
+   "answer": 0,
+   "explanation": "Gut flora signals trigger IL-23 from dendritic cells, which drives **IL-17** from T cells and other cells; TNF-α also contributes and IL-22 drives new bone. This is why anti-IL-17 and anti-TNF drugs work.",
+   "whyNot": [
+    "",
+    "IL-4/IL-13 are Th2 (allergy) cytokines.",
+    "IL-5 drives eosinophils in asthma and allergy.",
+    "Interferon-alpha is linked with SLE.",
+    "IL-1 is central to autoinflammatory diseases and gout, not SpA."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-spondyloarthropathy.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1050,
+     "page": 1028,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1051,
+     "page": 1029,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 45-year-old man with psoriatic arthritis has active arthritis in several joints despite NSAIDs. His GP suggests a DMARD.",
+   "leadIn": "Which DMARD should be avoided?",
+   "options": [
+    "Hydroxychloroquine",
+    "Methotrexate",
+    "Sulfasalazine",
+    "Leflunomide",
+    "Ciclosporin"
+   ],
+   "answer": 0,
+   "explanation": "**Hydroxychloroquine** can trigger severe or exfoliative psoriatic skin reactions. Methotrexate is first choice.",
+   "whyNot": [
+    "",
+    "Methotrexate is the first-choice DMARD and helps the skin too.",
+    "Sulfasalazine is an accepted alternative.",
+    "Leflunomide is an accepted alternative.",
+    "Ciclosporin is an accepted alternative and helps psoriasis."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-spondyloarthropathy.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 474,
+     "page": 450,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1055,
+     "page": 1033,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1056,
+     "page": 1034,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q13",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Investigations in spondyloarthritis",
+   "leadIn": "For each patient below choose the single most useful next investigation from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "MRI of the sacroiliac joints (STIR sequence)",
+    "Anteroposterior pelvic X-ray",
+    "HLA-B27 typing",
+    "Joint aspiration for Gram stain, culture and crystals",
+    "First-void urine nucleic acid test for Chlamydia",
+    "Stool culture",
+    "Faecal calprotectin",
+    "DXA scan",
+    "CT of the cervical spine",
+    "Rheumatoid factor and anti-CCP antibodies",
+    "Chest X-ray and interferon-gamma release assay",
+    "Slit-lamp examination",
+    "Echocardiography",
+    "Plain X-ray of the hands and feet"
+   ],
+   "items": [
+    {
+     "stem": "A 30-year-old man has an acutely hot, swollen knee and a temperature of 38.4°C a week after diarrhoea. He is otherwise well.",
+     "answer": 3,
+     "explanation": "A hot joint is septic until proven otherwise: **aspirate** for Gram stain, culture and crystals before diagnosing reactive arthritis.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s5"
+     }
+    },
+    {
+     "stem": "A 34-year-old man with AS is about to start adalimumab. He was born in a country with a high TB rate.",
+     "answer": 10,
+     "explanation": "Before anti-TNF: **chest X-ray and IGRA**, with treatment of latent TB first.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s4"
+     }
+    },
+    {
+     "stem": "A 29-year-old man with axial SpA has new loose stools, weight loss and abdominal pain; stool cultures are negative.",
+     "answer": 6,
+     "explanation": "**Faecal calprotectin** screens for IBD, which is common in axial SpA.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1054,
+     "page": 1032,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 471,
+     "page": 447,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1052,
+     "page": 1030,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 222,
+     "page": 222
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1053,
+     "page": 1031,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q14",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 27-year-old man has had low back pain for 1 year. It is worst at 4 am and on waking, when he is stiff for 90 minutes, and it improves when he goes to the gym. He had a painful red eye last year. Chest expansion is 2 cm.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Ankylosing spondylitis / axial spondyloarthritis",
+    "Mechanical low back pain",
+    "Lumbar disc prolapse",
+    "Fibromyalgia",
+    "Osteoporotic vertebral fracture"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: the pain is **inflammatory** (over 3 months, night pain, morning stiffness, better with exercise, onset before 45). Step 2: past **anterior uveitis** is the commonest extra-articular feature of SpA. Step 3: **reduced chest expansion** shows costovertebral involvement. Together: axial SpA/AS; confirm with SI imaging.",
+   "whyNot": [
+    "",
+    "Mechanical pain gets worse with activity and better with rest.",
+    "Disc prolapse is acute, with radicular leg pain, not long morning stiffness.",
+    "Fibromyalgia does not cause uveitis or reduced chest expansion.",
+    "A fracture would be unusual at 27 without trauma or risk factors."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-spondyloarthropathy.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1050,
+     "page": 1028,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1052,
+     "page": 1030,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 331,
+     "page": 294,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q15",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 38-year-old woman with ulcerative colitis has a painful, swollen left knee whenever her colitis flares. She also has 2 years of inflammatory back pain and MRI sacroiliitis. She has needed steroids three times this year for colitis.",
+   "leadIn": "Which biologic would best treat both her bowel and joint disease?",
+   "options": [
+    "Adalimumab",
+    "Etanercept",
+    "Apremilast",
+    "Hydroxychloroquine",
+    "Ustekinumab"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: knee arthritis that flares with colitis = peripheral enteropathic arthritis; the back pain and sacroiliitis = axial disease. Step 2: she needs a drug that treats IBD **and** axial SpA. Step 3: monoclonal anti-TNF (**infliximab, adalimumab, certolizumab**) does both; **etanercept** does not work for IBD.",
+   "whyNot": [
+    "",
+    "Etanercept has no efficacy in IBD.",
+    "Apremilast is an oral PDE4 inhibitor used in psoriatic arthritis; it is not a treatment for IBD.",
+    "Hydroxychloroquine is not a treatment for IBD or SpA.",
+    "Ustekinumab treats IBD but IL-12/23 blockade does not work for axial SpA."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-spondyloarthropathy.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1056,
+     "page": 1034,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 475,
+     "page": 451,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 533,
+     "page": 533,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q16",
+   "kind": "emq",
+   "pool": "worked",
+   "difficulty": 2,
+   "theme": "X-ray and MRI appearances in spondyloarthritis",
+   "leadIn": "Match each patient with the imaging finding you would most expect, from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Fine symmetrical marginal syndesmophytes",
+    "Coarse asymmetrical non-marginal syndesmophytes",
+    "Bamboo spine with fused sacroiliac joints",
+    "Bone marrow oedema around the sacroiliac joints on STIR MRI",
+    "Pencil-in-cup deformity",
+    "Telescoping digits from osteolysis",
+    "Periarticular osteoporosis with marginal erosions",
+    "Fluffy calcaneal spurs with periostitis",
+    "Unilateral sacroiliitis",
+    "Normal plain films",
+    "Vertebral squaring with shiny corners",
+    "Juxta-articular new bone formation"
+   ],
+   "items": [
+    {
+     "stem": "A 58-year-old man has had AS for 30 years and now has a rigid spine with no movement in any plane. His sacroiliac joints are no longer visible.",
+     "answer": 2,
+     "explanation": "Long-standing AS: syndesmophytes at every level, ossified ligaments, fused facets and SI joints, giving the **bamboo spine**.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s3"
+     }
+    },
+    {
+     "stem": "A 50-year-old woman with psoriasis and nail pitting has deformed toes; the metatarsal heads look whittled away and the phalangeal bases are cupped.",
+     "answer": 4,
+     "explanation": "Osteolysis of a whittled head sitting in a cupped base = **pencil-in-cup** deformity of PsA.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s6"
+     }
+    },
+    {
+     "stem": "A 22-year-old man has 6 months of inflammatory back pain. Plain films are normal; another scan shows bright signal in the bone next to both SI joints.",
+     "answer": 3,
+     "explanation": "Step 1: normal plain films do not exclude axSpA. Step 2: STIR MRI shows **bone marrow oedema**, the earliest sign.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1051,
+     "page": 1029,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1053,
+     "page": 1031,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 473,
+     "page": 449,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 474,
+     "page": 450,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q17",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Treating the spondyloarthropathies",
+   "leadIn": "For each patient below choose the most appropriate next treatment from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Long-acting NSAID at night with daily exercise programme",
+    "TNF inhibitor such as adalimumab",
+    "Secukinumab (IL-17A inhibitor)",
+    "Ustekinumab (IL-12/23 inhibitor)",
+    "Apremilast (PDE4 inhibitor)",
+    "Methotrexate",
+    "Sulfasalazine",
+    "Hydroxychloroquine",
+    "Oral prednisolone course",
+    "Local glucocorticoid injection (joint or enthesis)",
+    "Topical glucocorticoid with urgent ophthalmology review",
+    "Doxycycline course",
+    "Etanercept",
+    "Bisphosphonate"
+   ],
+   "items": [
+    {
+     "stem": "A 44-year-old man with plaque psoriasis has swollen MCP and DIP joints in both hands despite 3 months of NSAIDs. Liver function is normal and he drinks little alcohol.",
+     "answer": 5,
+     "explanation": "First-choice DMARD in PsA is **methotrexate**, which also helps the skin.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s6"
+     }
+    },
+    {
+     "stem": "A 47-year-old man with long-standing AS, whose spinal symptoms are now controlled on adalimumab, has a DXA T-score of −2.9 and an old vertebral wedge fracture on his spine X-ray.",
+     "answer": 13,
+     "explanation": "AS causes secondary **osteoporosis** with vertebral fractures; it is treated with a **bisphosphonate** alongside the usual AS care.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s4"
+     }
+    },
+    {
+     "stem": "A 30-year-old woman with AS wakes with a painful red right eye, photophobia and blurred vision.",
+     "answer": 10,
+     "explanation": "Acute anterior uveitis: **steroid eye drops** with same-day ophthalmology.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s2"
+     }
+    },
+    {
+     "stem": "A 55-year-old man with PsA has failed methotrexate and an anti-TNF. He has no history of depression and wants an oral drug.",
+     "answer": 4,
+     "explanation": "Oral PDE4 inhibitor **apremilast** is an option after DMARD failure (less effective; watch weight loss and mood).",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1055,
+     "page": 1033,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1056,
+     "page": 1034,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1054,
+     "page": 1032,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1053,
+     "page": 1031,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 224,
+     "page": 224
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q18",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Imaging features that separate the spondyloarthropathies",
+   "leadIn": "Match each patient with the radiological finding most typical of their condition, from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Fine symmetrical marginal syndesmophytes",
+    "Coarse asymmetrical non-marginal syndesmophytes",
+    "Bamboo spine with fused sacroiliac joints",
+    "Bone marrow oedema around the sacroiliac joints on STIR MRI",
+    "Pencil-in-cup deformity",
+    "Telescoping digits from osteolysis",
+    "Periarticular osteoporosis with marginal erosions",
+    "Fluffy calcaneal spurs with periostitis",
+    "Unilateral sacroiliitis",
+    "Normal plain films",
+    "Vertebral squaring with shiny corners",
+    "Juxta-articular new bone formation"
+   ],
+   "items": [
+    {
+     "stem": "A 35-year-old man has AS confirmed by HLA-B27 and X-ray sacroiliitis. A lateral lumbar film shows thin vertical bony bridges joining the corners of adjacent vertebrae symmetrically.",
+     "answer": 0,
+     "explanation": "AS produces **fine, symmetrical, marginal syndesmophytes**.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s3"
+     }
+    },
+    {
+     "stem": "A 49-year-old woman with psoriasis has back pain. Lateral spine X-ray shows bulky bony bridges on one side, arising away from the vertebral margins.",
+     "answer": 1,
+     "explanation": "Psoriatic spondylitis gives **coarse, asymmetrical, non-marginal** syndesmophytes.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s6"
+     }
+    },
+    {
+     "stem": "A 32-year-old man has had recurrent reactive arthritis for 5 years with heel pain. A lateral foot X-ray shows ill-defined new bone at the plantar fascia insertion.",
+     "answer": 7,
+     "explanation": "Chronic ReA: **fluffy calcaneal spurs** and periostitis at entheses.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s5"
+     }
+    },
+    {
+     "stem": "A 30-year-old man with chronic reactive arthritis has buttock pain. A pelvic X-ray shows erosions and sclerosis of only the left sacroiliac joint.",
+     "answer": 8,
+     "explanation": "Unlike AS, sacroiliitis in ReA (and PsA) is often **asymmetrical or unilateral**.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1052,
+     "page": 1030,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1054,
+     "page": 1032,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1055,
+     "page": 1033,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q19",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 29-year-old man with AS has well-controlled back pain on an NSAID but develops a swollen right knee and left ankle (peripheral arthritis).",
+   "leadIn": "Which statement about sulfasalazine is correct?",
+   "options": [
+    "It may help his peripheral arthritis but not his spinal disease",
+    "It slows spinal fusion",
+    "It is the drug of choice for axial symptoms",
+    "It is contraindicated in all spondyloarthritis",
+    "It works by blocking IL-17A"
+   ],
+   "answer": 0,
+   "explanation": "Conventional DMARDs (sulfasalazine, methotrexate) help **peripheral** arthritis in SpA but have no effect on spinal symptoms or progression.",
+   "whyNot": [
+    "",
+    "No conventional DMARD has been shown to slow ankylosis.",
+    "Axial symptoms need NSAIDs, then anti-TNF or anti-IL-17.",
+    "It is used, especially in ReA and enteropathic arthritis.",
+    "Secukinumab blocks IL-17A; sulfasalazine does not."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-spondyloarthropathy.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1052,
+     "page": 1030,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 332,
+     "page": 295,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 473,
+     "page": 449
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q20",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 61-year-old man who has had AS for decades has slowly increasing breathlessness. Chest X-ray shows fibrotic changes in both upper zones.",
+   "leadIn": "What is the most likely cause of the X-ray change?",
+   "options": [
+    "Apical pulmonary fibrosis associated with AS",
+    "Idiopathic pulmonary fibrosis",
+    "Basal fibrosis from methotrexate",
+    "Left ventricular failure",
+    "Asbestosis"
+   ],
+   "answer": 0,
+   "explanation": "AS is associated with rare **upper-lobe (apical) fibrosis**, as well as restriction from the rigid chest wall.",
+   "whyNot": [
+    "",
+    "IPF is mainly basal and peripheral.",
+    "Methotrexate pneumonitis is diffuse, and methotrexate does not treat axial AS anyway.",
+    "LVF gives oedema and effusions, not fibrosis.",
+    "Asbestosis affects the lower zones and needs exposure."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-spondyloarthropathy.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1052,
+     "page": 1030,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 223,
+     "page": 223,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q21",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 38-year-old woman has a symmetrical polyarthritis of her hands. She has psoriatic nail dystrophy, her sister has psoriasis, and RF is negative. She has no rash now.",
+   "leadIn": "How many CASPAR points does she score, and does she meet the criteria?",
+   "options": [
+    "3 points: meets CASPAR",
+    "2 points: does not meet CASPAR",
+    "4 points: meets CASPAR",
+    "1 point: does not meet CASPAR",
+    "5 points: meets CASPAR"
+   ],
+   "answer": 0,
+   "explanation": "Inflammatory arthritis is the entry criterion. Points: family history of psoriasis (1) + nail dystrophy (1) + negative RF (1) = **3**, which meets CASPAR. Current psoriasis would have scored 2.",
+   "whyNot": [
+    "",
+    "She has three 1-point features, not two.",
+    "There is no dactylitis, X-ray new bone or current psoriasis to add a fourth point.",
+    "She has more than one feature.",
+    "She has no further features (current psoriasis, dactylitis or juxta-articular new bone) to raise the score to 5."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-spondyloarthropathy.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1054,
+     "page": 1032,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q22",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Diagnosing seronegative arthritis",
+   "leadIn": "For each patient below, pick the most likely diagnosis from the options above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Ankylosing spondylitis",
+    "Non-radiographic axial spondyloarthritis",
+    "Reactive arthritis",
+    "Psoriatic arthritis",
+    "Enteropathic (IBD-associated) arthritis",
+    "Rheumatoid arthritis",
+    "Septic arthritis",
+    "Gonococcal arthritis",
+    "Gout",
+    "Fibromyalgia",
+    "Osteoporotic vertebral fracture",
+    "Mechanical low back pain"
+   ],
+   "items": [
+    {
+     "stem": "A 36-year-old man who has ulcerative colitis develops a swollen left knee during a colitis flare. Earlier episodes settled each time the colitis went into remission.",
+     "answer": 4,
+     "explanation": "Peripheral arthritis that tracks colitis activity = **enteropathic arthritis**.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s6"
+     }
+    },
+    {
+     "stem": "A 47-year-old woman has symmetrical small-joint hand arthritis, morning stiffness, positive anti-CCP and periarticular osteopenia with marginal erosions on X-ray.",
+     "answer": 5,
+     "explanation": "Positive anti-CCP and periarticular osteopenia point to **rheumatoid arthritis**; SpA is seronegative.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s1"
+     }
+    },
+    {
+     "stem": "A 40-year-old woman has widespread tender points at tendon insertions, poor sleep and fatigue. CRP is raised and she has had anterior uveitis. Pelvic X-ray is normal but MRI shows sacroiliitis.",
+     "answer": 1,
+     "explanation": "Two-step: widespread enthesal pain is easily mislabelled as fibromyalgia, but raised CRP, uveitis and MRI sacroiliitis mean **axial SpA**; with a normal pelvic X-ray it is **non-radiographic** axial SpA.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1056,
+     "page": 1034,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1055,
+     "page": 1033,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1051,
+     "page": 1029,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1050,
+     "page": 1028,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q23",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 3,
+   "stem": "A 33-year-old man with AS has persistent axial disease despite two NSAIDs. He also has active plaque psoriasis. Latent TB screening is negative.",
+   "leadIn": "Which biologic is LEAST appropriate for his spinal disease?",
+   "options": [
+    "Ustekinumab",
+    "Secukinumab",
+    "Adalimumab",
+    "Certolizumab",
+    "Golimumab"
+   ],
+   "answer": 0,
+   "explanation": "Davidson’s biologic options for axial disease are **anti-TNF** or **anti-IL-17A**, and both also treat the skin. IL-12/23 blockade (**ustekinumab**) helps psoriasis and PsA, but Pocket Medicine notes it **does not work in axial SpA** (Kumar lists it only as an alternative option), so it is the least appropriate choice for his spine.",
+   "whyNot": [
+    "",
+    "Secukinumab (IL-17A) works for AS and psoriasis.",
+    "Adalimumab works for the spine and the skin.",
+    "Certolizumab is a TNF inhibitor proven in AS.",
+    "Golimumab is a TNF inhibitor proven in AS."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-spondyloarthropathy.s4"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 533,
+     "page": 533,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 474,
+     "page": 450,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1052,
+     "page": 1030,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 473,
+     "page": 449,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q24",
+   "kind": "emq",
+   "pool": "mock",
+   "difficulty": 2,
+   "theme": "Complications of ankylosing spondylitis",
+   "leadIn": "Match each patient with ankylosing spondylitis with the most likely complication from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Acute anterior uveitis",
+    "Aortic regurgitation",
+    "Complete heart block",
+    "Upper-lobe pulmonary fibrosis",
+    "Restrictive chest wall defect",
+    "Fracture through a fused spine",
+    "Cauda equina syndrome",
+    "Amyloidosis",
+    "Inflammatory bowel disease",
+    "Osteoporosis",
+    "Plantar fasciitis (enthesitis)",
+    "Anaemia of chronic disease"
+   ],
+   "items": [
+    {
+     "stem": "A 57-year-old man with long-standing AS develops urinary retention, saddle numbness and bilateral leg weakness over several months.",
+     "answer": 6,
+     "explanation": "Slowly progressive sphincter and sacral nerve-root loss in AS = **cauda equina syndrome**.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s2"
+     }
+    },
+    {
+     "stem": "A 50-year-old man with AS has a slow pulse of 38/min and dizziness. ECG shows P waves unrelated to QRS complexes.",
+     "answer": 2,
+     "explanation": "Fibrosis of the conducting system in AS can cause **complete heart block**.",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s2"
+     }
+    },
+    {
+     "stem": "A 49-year-old man with AS has had a low-trauma wrist fracture. DXA shows a low T-score.",
+     "answer": 9,
+     "explanation": "AS is associated with **osteoporosis** (treat with a bisphosphonate).",
+     "studyRef": {
+      "sectionId": "rheum-spondyloarthropathy.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 638,
+     "page": 638,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 223,
+     "page": 223,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1052,
+     "page": 1030,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-spondyloarthropathy.q25",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 28-year-old man develops arthritis of his right knee 2 weeks after Salmonella gastroenteritis. The arthritis started after the diarrhoea had settled. Stool culture has now cleared.",
+   "leadIn": "Which statement about his management is correct?",
+   "options": [
+    "NSAIDs are first line; antibiotics will not change the course of the arthritis",
+    "A 6-week course of ciprofloxacin will cure the arthritis",
+    "Methotrexate should be started at once",
+    "Oral steroids are contraindicated",
+    "Anti-TNF is first-line treatment"
+   ],
+   "answer": 0,
+   "explanation": "Acute ReA is treated with rest, **NSAIDs** and joint injection if needed. There is no convincing evidence for antibiotics once the arthritis has developed, unless an infection is still present.",
+   "whyNot": [
+    "",
+    "Antibiotics do not alter established reactive arthritis.",
+    "DMARDs are kept for persistent or recurrent disease.",
+    "Systemic steroids are used for severe polyarticular ReA.",
+    "Anti-TNF is kept for DMARD-resistant disease."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-spondyloarthropathy.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1054,
+     "page": 1032,
+     "chapter": "Rheumatology and bone disease"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 642,
+     "page": 642,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 533,
+     "page": 533
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "rheum-spondyloarthropathy.o1",
+   "sectionId": "rheum-spondyloarthropathy.s3",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 1051,
+    "page": 1029,
+    "chapter": "Rheumatology and bone disease",
+    "figure": "Fig. 24.39"
+   },
+   "identify": "Coronal STIR MRI: high signal (bone marrow oedema) on both sides of the sacroiliac joints → **active sacroiliitis** of early axial SpA, before X-ray change."
+  },
+  {
+   "id": "rheum-spondyloarthropathy.o2",
+   "sectionId": "rheum-spondyloarthropathy.s3",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 1053,
+    "page": 1031,
+    "chapter": "Rheumatology and bone disease",
+    "figure": "Fig. 24.41"
+   },
+   "identify": "**Bamboo spine** of advanced AS: symmetrical marginal syndesmophytes at every level, fused SI joints, osteopenia."
+  },
+  {
+   "id": "rheum-spondyloarthropathy.o3",
+   "sectionId": "rheum-spondyloarthropathy.s3",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 1052,
+    "page": 1030,
+    "chapter": "Rheumatology and bone disease",
+    "figure": "Fig. 24.40"
+   },
+   "identify": "Syndesmophyte type: **fine, symmetrical, marginal → AS**; **coarse, asymmetrical, non-marginal → psoriatic (or reactive) spondylitis**."
+  },
+  {
+   "id": "rheum-spondyloarthropathy.o4",
+   "sectionId": "rheum-spondyloarthropathy.s6",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 1056,
+    "page": 1034,
+    "chapter": "Rheumatology and bone disease",
+    "figure": "Fig. 24.43"
+   },
+   "identify": "**Dactylitis** (sausage digit) and **DIP arthritis with nail pitting/onycholysis** → psoriatic arthritis."
+  },
+  {
+   "id": "rheum-spondyloarthropathy.o5",
+   "sectionId": "rheum-spondyloarthropathy.s6",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 474,
+    "page": 450,
+    "chapter": "Rheumatology",
+    "figure": "Fig. 18.31"
+   },
+   "identify": "Forefoot X-ray: metatarsal head osteolysis and cupped phalangeal bases → **pencil-in-cup** deformity of psoriatic arthritis."
+  },
+  {
+   "id": "rheum-spondyloarthropathy.o6",
+   "sectionId": "rheum-spondyloarthropathy.s6",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 474,
+    "page": 450,
+    "chapter": "Rheumatology",
+    "figure": "Fig. 18.30"
+   },
+   "identify": "Shortened, telescoping fingers from bone resorption → **arthritis mutilans** (psoriatic arthritis, ~5%)."
+  },
+  {
+   "id": "rheum-spondyloarthropathy.o7",
+   "sectionId": "rheum-spondyloarthropathy.s5",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 475,
+    "page": 451,
+    "chapter": "Rheumatology",
+    "figure": "Fig. 18.32"
+   },
+   "identify": "Features of **reactive arthritis**: conjunctivitis, urethritis, circinate balanitis, keratoderma blennorrhagica, enthesitis and sausage toe."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:45:04.577Z",
+  "contentHash": "b391075470c1d459ef64ac75b3dbd469678db43276d151268544580b8814771a"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:45:04.583Z",
+  "contentHash": "b391075470c1d459ef64ac75b3dbd469678db43276d151268544580b8814771a",
+  "checkerVersion": "source-check-v1"
+ }
+}

@@ -1,0 +1,3701 @@
+{
+ "topicId": "cardio-valvular",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "cardio-valvular.s1",
+   "title": "Aetiology of valve disease and the age clue",
+   "objectiveIdx": [
+    0,
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "A diseased valve either **narrows** (stenosis, blocking forward flow) or **leaks** (regurgitation/incompetence, letting blood flow back); both can coexist on one valve. In practice the lesions you meet most are **acquired and left-sided**: aortic stenosis, mitral stenosis, mitral regurgitation and aortic regurgitation.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 497,
+       "page": 460
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 537,
+       "page": 515
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Main causes by lesion",
+     "columns": [
+      "Lesion",
+      "Causes",
+      "Exam angle"
+     ],
+     "rows": [
+      [
+       "Mitral stenosis",
+       "Rheumatic in almost every case; heavy mitral annular calcification (elderly, end-stage renal disease); rare congenital form; Lutembacher syndrome (acquired MS + ASD); carcinoid",
+       "Commoner in women; the patient often cannot recall rheumatic fever"
+      ],
+      [
+       "Mitral regurgitation",
+       "Mitral valve prolapse (myxomatous); LV and annular dilatation (ischaemic heart disease, cardiomyopathy = \"functional\" MR); cusp/chordal damage (rheumatic, endocarditis); papillary muscle ischaemia or rupture after MI; rarely SLE, Marfan, Ehlers–Danlos, drugs (fenfluramine, cabergoline)",
+       "Rheumatic MR dominates only where rheumatic fever is still common"
+      ],
+      [
+       "Aortic stenosis",
+       "Calcific degeneration of a trileaflet valve; calcified congenitally bicuspid valve; rheumatic (usually with mitral disease); congenital valvular, subvalvular or supravalvular obstruction",
+       "Calcific AS shares risk factors with atheroma: age, male sex, high Lp(a) and LDL, hypertension, diabetes, smoking"
+      ],
+      [
+       "Aortic regurgitation",
+       "Cusp disease: bicuspid valve, rheumatic, endocarditis, trauma. Root dilatation: Marfan, aneurysm, dissection, syphilis, ankylosing spondylitis",
+       "If the cusps look normal, think of root dilatation"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 539,
+       "page": 517
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1108,
+       "page": 1092
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 541,
+       "page": 519
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1111,
+       "page": 1095
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1113,
+       "page": 1097
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 546,
+       "page": 524
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Acute valve failure: the short list",
+     "items": [
+      "**Acute AR:** aortic dissection; endocarditis (cusp perforation).",
+      "**Acute MR:** papillary muscle rupture after acute MI; endocarditis (often _S. aureus_); chordal rupture in a myxomatous valve.",
+      "**Prosthetic failure:** mechanical (strut fracture, jamming, thrombosis, dehiscence) or biological (degeneration with cusp tear)."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 537,
+       "page": 515
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 113,
+       "page": 113
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 77,
+       "page": 77
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Age distribution: the age often points to the cause",
+     "columns": [
+      "Age / group",
+      "Typical valve problem"
+     ],
+     "rows": [
+      [
+       "5–15 years",
+       "Acute rheumatic fever (rare in the West, ~0.5/100 000; endemic in South Asia, Africa, South America)"
+      ],
+      [
+       "10–20 years, low/middle-income countries",
+       "Severe rheumatic mitral stenosis can already be present"
+      ],
+      [
+       "30s (or decades after rheumatic fever in Europe)",
+       "Symptoms of rheumatic MS usually begin"
+      ],
+      [
+       "Young women",
+       "Mitral valve prolapse (often asymptomatic, atypical chest pain)"
+      ],
+      [
+       "Infancy / childhood",
+       "Congenital aortic stenosis"
+      ],
+      [
+       "30–60 years",
+       "Haemodynamically significant rheumatic AS"
+      ],
+      [
+       "50–60 years",
+       "AS on a calcified bicuspid valve (~half of AS under 70)"
+      ],
+      [
+       "70–90 years",
+       "Calcific AS of a structurally normal trileaflet valve"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 537,
+       "page": 515
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1108,
+       "page": 1092
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 83,
+       "page": 83
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 501,
+       "page": 464
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 543,
+       "page": 521
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 73,
+       "page": 73
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Bicuspid aortic valve** is the commonest congenital heart abnormality (1–2% of live births, ~9% familial). Look for **coarctation** and **aortic root dilatation/dissection** – these patients need regular echo follow-up.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1113,
+       "page": 1097
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In the **very old**, AS is the commonest valve lesion – but stiff arteries can hide the classic slow-rising pulse and narrow pulse pressure.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 546,
+       "page": 524
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Do not assume MR is rheumatic in a UK-style vignette: in high-income settings **prolapse and functional (ischaemic/cardiomyopathy) MR** are the leading causes; rheumatic MR leads only where rheumatic fever is common.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 541,
+       "page": 519
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.s2",
+   "title": "Rheumatic fever and chronic rheumatic heart disease",
+   "objectiveIdx": [
+    1,
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Acute rheumatic fever (ARF) follows **group A streptococcal pharyngitis** by **2–3 weeks** (under 1% of throat infections; first attack usually at **5–15 years**). It is not a cardiac infection: antibodies to streptococcal antigens (M protein) **cross-react with cardiac myosin and sarcolemmal proteins** (molecular mimicry), inflaming heart, joints and skin. **Aschoff nodules** – giant cells ringed by macrophages and T cells – are pathognomonic and occur only in the heart.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 537,
+       "page": 515
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 566,
+       "page": 544
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 496,
+       "page": 459
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Revised Jones criteria",
+     "columns": [
+      "Category",
+      "Features"
+     ],
+     "rows": [
+      [
+       "Major",
+       "Carditis; migratory polyarthritis; Sydenham chorea; erythema marginatum; subcutaneous nodules"
+      ],
+      [
+       "Minor",
+       "Fever; arthralgia; raised ESR or CRP; leucocytosis; previous rheumatic fever; first-degree AV block (long PR)"
+      ],
+      [
+       "Plus (required)",
+       "Evidence of recent streptococcal infection: scarlet fever, raised/rising ASO or other antibody, positive throat culture"
+      ],
+      [
+       "Rule",
+       "**≥ 2 major**, or **1 major + ≥ 2 minor**, plus streptococcal evidence. Isolated chorea or pancarditis allows a presumptive diagnosis without it"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 538,
+       "page": 516
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 537,
+       "page": 515
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 118,
+       "page": 118
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Major manifestations – details examiners like",
+     "items": [
+      "**Carditis** = pancarditis (endo-, myo-, pericardium). Commoner the younger the child (~90% at 3 years, ~30% in adolescence). Soft MR murmur is common; a soft **Carey Coombs** mid-diastolic murmur reflects mitral valvulitis; AR in about half; rub, heart failure, AV block.",
+      "**Arthritis** – the commonest major feature (~75%): asymmetric, **migratory** large-joint arthritis (knees, ankles, elbows, wrists), each joint inflamed for a day up to 4 weeks.",
+      "**Erythema marginatum** (<5%): red rings with clearing centres on trunk and proximal limbs, sparing the face.",
+      "**Subcutaneous nodules** (5–7%): small, firm, painless, over extensor surfaces and tendons.",
+      "**Sydenham chorea** (St Vitus dance): at least 3 months after the attack, in up to a third, mostly girls; emotional lability first, then purposeless jerky movements; about a quarter later develop chronic valve disease."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 537,
+       "page": 515
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 538,
+       "page": 516
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Investigations",
+     "items": [
+      "ESR/CRP and white cell count – raised, and used to monitor activity.",
+      "Throat swab – positive in only 10–25% (infection often gone by presentation).",
+      "ASO titre – rising, or > 200 U in adults / > 300 U in children.",
+      "ECG – first-degree (rarely second-degree) AV block, pericarditis changes, T inversion.",
+      "Echo – typically MR with annular dilatation and anterior leaflet prolapse; may show AR or pericardial effusion."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 539,
+       "page": 517
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 538,
+       "page": 516
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Management of ARF (Davidson)",
+     "columns": [
+      "Measure",
+      "Detail"
+     ],
+     "rows": [
+      [
+       "Bed rest",
+       "Until symptoms, temperature, WCC and ESR settle; no strenuous exercise after carditis"
+      ],
+      [
+       "Eradicate streptococci",
+       "Benzathine benzylpenicillin 1.2 million U IM once, or phenoxymethylpenicillin 250 mg four times daily for 10 days (erythromycin/cephalosporin if allergic)"
+      ],
+      [
+       "Aspirin",
+       "60 mg/kg/day in six doses (adults up to 100 mg/kg/day, max 8 g); quick joint response within 24 h supports the diagnosis"
+      ],
+      [
+       "Prednisolone",
+       "1–2 mg/kg/day for carditis or severe arthritis, until ESR normal, then taper"
+      ],
+      [
+       "Secondary prophylaxis",
+       "Phenoxymethylpenicillin 250 mg twice daily or benzathine benzylpenicillin 1.2 million U IM monthly. Usually stop at 21; with **residual heart disease continue to 10 years after the last episode or age 40, whichever is later**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 539,
+       "page": 517
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 538,
+       "page": 516
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Chronic rheumatic heart disease** develops in at least half of those who had carditis, usually 10–20 years later; two-thirds are women. Progressive fibrosis fuses commissures and shortens chordae. The **mitral valve is involved in > 90%**, then aortic, tricuspid, pulmonary. Isolated MS ≈ 25%; mixed MS/MR a further ≈ 40%.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 539,
+       "page": 517
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 497,
+       "page": 460
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 538,
+      "page": 516,
+      "figure": "Fig. 16.80"
+     },
+     "note": "Look at: the body map of rheumatic fever – Jones major features (chorea, carditis, flitting polyarthritis, nodules, erythema marginatum) shown in bold."
+    },
+    {
+     "type": "pitfall",
+     "text": "Subcutaneous nodules appear > 3 weeks after other features – they **confirm** rather than make the diagnosis. ASO is normal in a fifth of adults and in most chorea. Penicillin prophylaxis prevents RF recurrence but **does not protect against endocarditis**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 538,
+       "page": 516
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 539,
+       "page": 517
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Books disagree: Kumar & Clark and Step-Up use **NSAIDs** and call steroids unproven (some give prednisolone only for severe carditis), and Kumar stops prophylaxis at **20 or 10 years after the last attack**. For the exam follow **Davidson**: aspirin, prednisolone for carditis/severe arthritis, prophylaxis to 40/10 years with residual heart disease.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 539,
+       "page": 517
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 567,
+       "page": 545
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 119,
+       "page": 119
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.s3",
+   "title": "Mitral stenosis",
+   "objectiveIdx": [
+    3,
+    5,
+    6,
+    7
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The normal mitral orifice is about **5 cm²** in diastole; symptoms usually start below **2 cm²** and stenosis is severe below **1 cm²**. The LA must generate a higher pressure to fill the LV → LA dilatation → pulmonary venous congestion → reactive **pulmonary hypertension** → RV hypertrophy, tricuspid regurgitation, right heart failure. **Tachycardia shortens diastole** and raises LA pressure, so exercise, pregnancy and new AF are poorly tolerated.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 539,
+       "page": 517
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1108,
+       "page": 1092
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 107,
+       "page": 107
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 498,
+       "page": 461
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Symptoms and signs",
+     "columns": [
+      "Finding",
+      "Why"
+     ],
+     "rows": [
+      [
+       "Exertional breathlessness (dominant), fatigue",
+       "Pulmonary congestion; low cardiac output"
+      ],
+      [
+       "Haemoptysis, cough",
+       "Pulmonary congestion or hypertension"
+      ],
+      [
+       "Palpitations; small-volume, later irregularly irregular pulse",
+       "AF from LA dilatation"
+      ],
+      [
+       "Malar (mitral) facies",
+       "Dusky pink/cyanotic flush of upper cheeks in severe MS with pulmonary hypertension"
+      ],
+      [
+       "Tapping apex beat",
+       "Palpable loud S1"
+      ],
+      [
+       "Loud S1, opening snap, low-pitched rumbling mid-diastolic murmur at apex with presystolic accentuation (if in sinus rhythm)",
+       "Best heard with the **bell**, patient rolled to the **left**, in expiration"
+      ],
+      [
+       "RV heave, loud P2, TR with giant v waves, Graham Steell murmur",
+       "Pulmonary hypertension"
+      ],
+      [
+       "Hoarse voice (Ortner syndrome)",
+       "Huge LA compresses the recurrent laryngeal nerve"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 540,
+       "page": 518
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 541,
+       "page": 519
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1108,
+       "page": 1092
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 84,
+       "page": 84
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Severity in MS is judged by **timing, not loudness**: the **S2–opening snap interval shortens** and the **murmur lengthens** as LA pressure rises.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 540,
+       "page": 518
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 107,
+       "page": 107
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 84,
+       "page": 84
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A heavily **calcified, rigid** mitral valve loses the loud S1 and opening snap – their absence does not exclude severe MS.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 540,
+       "page": 518
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1108,
+       "page": 1092
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Investigations in MS",
+     "columns": [
+      "Test",
+      "Findings"
+     ],
+     "rows": [
+      [
+       "ECG",
+       "Bifid P wave (P mitrale) in sinus rhythm, or AF; later RV hypertrophy (right axis deviation, tall R in V1–V3)"
+      ],
+      [
+       "CXR",
+       "Enlarged LA and appendage: straight left heart border, \"double shadow\", splayed carina; pulmonary venous congestion; calcified valve on lateral view"
+      ],
+      [
+       "Doppler echo – investigation of choice",
+       "Thick, immobile cusps with narrow \"fish-mouth\" orifice; valve area, mean gradient, pressure half-time, PA pressure"
+      ],
+      [
+       "TOE",
+       "Excludes LA (appendage) thrombus; Wilkins score judges suitability for balloon valvuloplasty"
+      ],
+      [
+       "Cardiac catheter",
+       "Screens for coronary disease before intervention"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 541,
+       "page": 519
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1108,
+       "page": 1092
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1109,
+       "page": 1093
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1110,
+       "page": 1094
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 107,
+       "page": 107
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 473,
+       "page": 451,
+       "figure": "Fig. 16.9"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Echo grading of MS (British Society of Echocardiography)",
+     "columns": [
+      "Measure",
+      "Mild",
+      "Moderate",
+      "Severe"
+     ],
+     "rows": [
+      [
+       "Valve area (cm²)",
+       "1.5–2.0",
+       "1.0–1.5",
+       "< 1.0"
+      ],
+      [
+       "Mean gradient (mmHg)",
+       "< 5",
+       "5–10",
+       "> 10"
+      ],
+      [
+       "Pressure half-time (ms)",
+       "71–139",
+       "140–219",
+       "> 219"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1110,
+       "page": 1094
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Complications of MS",
+     "items": [
+      "**Atrial fibrillation** – often the trigger for acute pulmonary oedema (fast rate + loss of atrial kick).",
+      "**Systemic thromboembolism** from LA stasis, often cerebral; before anticoagulation emboli caused a quarter of MS deaths.",
+      "**Pulmonary hypertension** → RV failure, functional TR (giant v waves).",
+      "Pulmonary oedema and haemoptysis, especially in pregnancy."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 539,
+       "page": 517
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 540,
+       "page": 518
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 500,
+       "page": 463
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1108,
+       "page": 1092
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 540,
+      "page": 518,
+      "figure": "Fig. 16.81"
+     },
+     "note": "Look at: the phonocardiogram (loud S1, opening snap, mid-diastolic murmur with presystolic accentuation) and the LA–LV diastolic pressure gradient."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1109,
+      "page": 1093,
+      "figure": "Fig. 30.76"
+     },
+     "note": "Look at: 12-lead ECG of severe MS – right axis deviation, left atrial abnormality and RV hypertrophy."
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.s4",
+   "title": "Mitral regurgitation, mitral valve prolapse and right-sided lesions",
+   "objectiveIdx": [
+    3,
+    5,
+    6,
+    7
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Chronic MR**: the LA slowly dilates and stays compliant, so its pressure rises little and symptoms come late, while the LV dilates from volume overload. **Acute MR** (papillary muscle rupture, endocarditis, chordal rupture) dumps blood into a small, normally compliant LA – pressure shoots up, causing **sudden pulmonary oedema**, falling output, hypotension and shock.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 541,
+       "page": 519
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 113,
+       "page": 113
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Signs of chronic MR",
+     "items": [
+      "Apex **displaced** laterally, active/thrusting (volume overload).",
+      "**Soft S1** merging into a **pansystolic murmur at the apex that spreads to the axilla** (± thrill).",
+      "**S3** (± short mid-diastolic flow murmur) from increased forward flow into a dilated LV.",
+      "Carotid upstroke brisk (contrast the delayed upstroke of AS); murmur louder with handgrip, softer with Valsalva."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 542,
+       "page": 520
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 543,
+       "page": 521
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 500,
+       "page": 463
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 80,
+       "page": 80
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Mitral valve prolapse** (\"floppy\" valve; developmental or myxomatous) is a common cause of mild MR, mainly in **young women**. A competent prolapsing valve gives a **mid-systolic click**; once it leaks, a **late systolic murmur** follows the click. Chordal elongation worsens MR, and chordal rupture makes it suddenly severe. Associations: Marfan syndrome, benign arrhythmias, atypical chest pain; overall prognosis is good.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 542,
+       "page": 520
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 501,
+       "page": 464
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Investigations in MR",
+     "columns": [
+      "Test",
+      "Findings"
+     ],
+     "rows": [
+      [
+       "ECG",
+       "LA enlargement, AF"
+      ],
+      [
+       "CXR",
+       "Enlarged LA and LV; pulmonary oedema if acute (both CXR and ECG are insensitive early)"
+      ],
+      [
+       "Echo + colour Doppler (pivotal)",
+       "Grades regurgitation; shows prolapse, papillary muscle function, LV size and EF – an **EF < 60%** with severe MR already means LV dysfunction"
+      ],
+      [
+       "Cardiac catheter",
+       "Large v waves on LA / wedge trace; coronary disease before surgery"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 543,
+       "page": 521
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 500,
+       "page": 463
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 501,
+       "page": 464
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Right-sided lesions in brief",
+     "items": [
+      "**Tricuspid regurgitation**: usually functional (RV dilatation from pulmonary hypertension or heart failure); primary causes include rheumatic disease and endocarditis in IV drug users. Signs: **giant v waves**, pansystolic murmur at the lower left sternal edge, pulsatile liver, oedema, ascites.",
+      "**Tricuspid stenosis**: rare, rheumatic, almost always with mitral/aortic disease; prominent a wave, slow y descent, murmur increased by inspiration.",
+      "**Pulmonary regurgitation** from pulmonary hypertension in MS gives the **Graham Steell** early diastolic murmur."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 548,
+       "page": 526
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 505,
+       "page": 468
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 504,
+       "page": 467
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 547,
+       "page": 525
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 542,
+      "page": 520,
+      "figure": "Fig. 16.83"
+     },
+     "note": "Look at: TOE of a prolapsing mitral leaflet bulging into the LA, and the colour Doppler regurgitant jet."
+    },
+    {
+     "type": "pearl",
+     "text": "Compared with MS, MR causes **fewer emboli** but **much more infective endocarditis**, and the onset of AF changes symptoms far less.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1111,
+       "page": 1095
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 500,
+       "page": 463
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Acute MR after MI presents with **pulmonary oedema and shock but a normal-sized heart** – no time for LA/LV dilatation, so the murmur may be short and cardiomegaly absent.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 541,
+       "page": 519
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 113,
+       "page": 113
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.s5",
+   "title": "Aortic stenosis",
+   "objectiveIdx": [
+    4,
+    2,
+    5,
+    6,
+    7
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "A narrowed aortic valve imposes **pressure overload**: the LV hypertrophies concentrically and keeps output up at the cost of a rising gradient. The thick LV needs more oxygen, so **angina** occurs even with normal coronaries (coexisting CAD in > 50%). Output cannot rise on exercise, so BP falls → **exertional syncope**. Eventually the LV fails → **breathlessness/pulmonary oedema**. Systolic function is usually preserved until late, unlike AR.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 544,
+       "page": 522
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 502,
+       "page": 465
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1114,
+       "page": 1098
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Clinical features",
+     "items": [
+      "Often found incidentally; symptoms appear once the orifice is about a third of normal.",
+      "Triad: **angina, exertional breathlessness, exertional syncope**; risk of sudden death.",
+      "**Slow-rising, small-volume** carotid pulse (pulsus parvus et tardus); **narrow pulse pressure**.",
+      "Apex **sustained and heaving but not displaced** (hypertrophy, not dilatation); a double impulse from a palpable S4.",
+      "**Harsh ejection systolic (crescendo–decrescendo) murmur** at the right upper sternal edge radiating to the **carotids**; soft A2; ejection click only if the (bicuspid) valve is still mobile."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 544,
+       "page": 522
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1114,
+       "page": 1098
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 502,
+       "page": 465
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Signs of **severe** AS: late-peaking, longer murmur; soft or absent A2; **reversed (paradoxical) splitting of S2**; slow-rising pulse; LV heave; S4. The murmur gets louder with passive leg raise and quieter on standing/Valsalva – the opposite of HCM.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 74,
+       "page": 74
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1114,
+       "page": 1098
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Murmur loudness does not track severity**: as output falls the murmur softens and may vanish in end-stage AS. In the elderly, stiff arteries can mask the slow-rising pulse.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1114,
+       "page": 1098
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 544,
+       "page": 522
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Investigations in AS",
+     "columns": [
+      "Test",
+      "Findings"
+     ],
+     "rows": [
+      [
+       "ECG",
+       "LVH with lateral \"strain\" (ST depression, T inversion in I, aVL, V5–V6); LBBB – but can be normal despite severe AS"
+      ],
+      [
+       "CXR",
+       "Often normal heart size; post-stenotic dilatation of the ascending aorta; calcified valve on lateral view"
+      ],
+      [
+       "Echo + Doppler (pivotal)",
+       "Calcified, poorly opening valve, LVH; Doppler velocity gives the gradient and severity"
+      ],
+      [
+       "Exercise test",
+       "Only in **asymptomatic** severe AS, to unmask symptoms – never in symptomatic patients"
+      ],
+      [
+       "Cardiac catheter",
+       "Mainly coronary angiography before valve surgery"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 545,
+       "page": 523
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 502,
+       "page": 465
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 110,
+       "page": 110
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 544,
+       "page": 522
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 546,
+       "page": 524
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Echo grading of AS (British Society of Echocardiography)",
+     "columns": [
+      "Measure",
+      "Mild",
+      "Moderate",
+      "Severe"
+     ],
+     "rows": [
+      [
+       "Peak velocity (m/s)",
+       "1.7–2.9",
+       "3.0–4.0",
+       "> 4.0"
+      ],
+      [
+       "Peak gradient (mmHg)",
+       "< 36",
+       "36–64",
+       "> 64"
+      ],
+      [
+       "Mean gradient (mmHg)",
+       "< 25",
+       "25–40",
+       "> 40"
+      ],
+      [
+       "Valve area (cm²)",
+       "1.5–2.0",
+       "1.0–1.4",
+       "< 1.0"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1115,
+       "page": 1099
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Low-flow AS**: a weak LV produces low velocities, so Doppler **underestimates** severity; conversely coexisting AR or a high-output state **overestimates** it.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 545,
+       "page": 523
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Complications and prognosis",
+     "items": [
+      "Asymptomatic AS has a good short-term outlook; once symptoms start, untreated patients usually die within **3–5 years** (Davidson).",
+      "Other books quote shorter figures – Kumar 2–3 years; Step-Up by symptom: angina ~3 y, syncope ~2 y, heart failure ~1.5 y. Use Davidson unless asked otherwise.",
+      "Sudden death; LV failure and pulmonary oedema; AF.",
+      "Severe AS can cause **acquired von Willebrand disease** (~20%) with bleeding from GI angiodysplasia."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 544,
+       "page": 522
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1114,
+       "page": 1098
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 109,
+       "page": 109
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 74,
+       "page": 74
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 544,
+      "page": 522,
+      "figure": "Fig. 16.84"
+     },
+     "note": "Look at: the diamond-shaped ejection systolic murmur, ejection click, S4, LV–aortic systolic gradient and post-stenotic dilatation."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 545,
+      "page": 523,
+      "figure": "Fig. 16.85"
+     },
+     "note": "Look at: thick calcified aortic leaflets that barely open in systole compared with a normal valve."
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.s6",
+   "title": "Aortic regurgitation",
+   "objectiveIdx": [
+    4,
+    5,
+    6
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Blood leaking back in diastole **volume-loads** the LV, which dilates and hypertrophies; stroke volume may double, so the big arteries pulse visibly and pulse pressure widens (low diastolic BP also cuts coronary perfusion). Eventually LV failure follows. In **acute AR** these adaptations have no time to develop: LV diastolic pressure jumps, stroke volume is low and pulmonary oedema dominates.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 546,
+       "page": 524
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 503,
+       "page": 466
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1115,
+       "page": 1099
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Symptoms",
+     "items": [
+      "Mild–moderate: often none, or awareness of a forceful heartbeat (especially lying on the left).",
+      "Severe: breathlessness – paroxysmal nocturnal dyspnoea may be first – and angina."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 546,
+       "page": 524
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Signs of chronic AR",
+     "columns": [
+      "Sign",
+      "What you find"
+     ],
+     "rows": [
+      [
+       "Collapsing (Corrigan / water-hammer) pulse",
+       "Large volume, rapid fall; wide pulse pressure, low diastolic BP"
+      ],
+      [
+       "Quincke's sign",
+       "Capillary pulsation in the nail beds"
+      ],
+      [
+       "de Musset's sign",
+       "Head nodding with each beat"
+      ],
+      [
+       "Femoral signs (Duroziez, Traube, pistol shot)",
+       "Duroziez: to-and-fro femoral murmur when the artery is compressed (distally); Traube: double sound over the compressed femoral; pistol-shot sound over the femorals. Davidson files the pistol-shot bruit under Duroziez"
+      ],
+      [
+       "Müller's and Hill's signs",
+       "Uvular pulsation; popliteal systolic BP exceeding brachial by > 60 mmHg"
+      ],
+      [
+       "Apex",
+       "Displaced, heaving (volume overload)"
+      ],
+      [
+       "Early diastolic murmur",
+       "Blowing, at the left sternal edge; best with patient **sitting forward in held expiration**"
+      ],
+      [
+       "Other murmurs",
+       "Systolic flow murmur (big stroke volume – not necessarily AS); **Austin Flint** soft mid-diastolic murmur at apex"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 546,
+       "page": 524
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 78,
+       "page": 78
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 504,
+       "page": 467
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1116,
+       "page": 1100
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Austin Flint murmur**: the regurgitant jet pushes on the anterior mitral leaflet, creating a functional mitral stenosis and a soft **mid-diastolic** apical rumble – it does not mean rheumatic MS.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 546,
+       "page": 524
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 504,
+       "page": 467
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Acute severe AR** (e.g. endocarditic cusp perforation, dissection) may show tachycardia, a **near-normal pulse pressure** and a short or absent diastolic murmur – heart failure is the presentation, not the textbook peripheral signs.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 546,
+       "page": 524
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 547,
+       "page": 525
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Investigations in AR",
+     "columns": [
+      "Test",
+      "Findings"
+     ],
+     "rows": [
+      [
+       "ECG",
+       "Normal early; later LVH with T inversion"
+      ],
+      [
+       "CXR",
+       "Large LV; dilated ascending aorta; features of LV failure"
+      ],
+      [
+       "Doppler echo (first choice)",
+       "Dilated, hyperdynamic LV; regurgitant jet; fluttering anterior mitral leaflet; premature mitral closure in acute severe AR"
+      ],
+      [
+       "Severe AR on echo",
+       "Jet width ≥ 65% of LVOT, regurgitant fraction ≥ 50%, effective orifice ≥ 0.3 cm², holodiastolic flow reversal in the descending aorta"
+      ],
+      [
+       "MRI / catheter",
+       "Size of the aortic root; coronary disease before surgery"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 547,
+       "page": 525
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 79,
+       "page": 79
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 547,
+      "page": 525,
+      "figure": "Fig. 16.87"
+     },
+     "note": "Look at: the early diastolic murmur with a \"to-and-fro\" systolic component, dilated aorta and LV, and the colour Doppler regurgitant jet."
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.s7",
+   "title": "Medical management of valve disease",
+   "objectiveIdx": [
+    8,
+    7
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Medical therapy: mitral lesions",
+     "columns": [
+      "Lesion",
+      "Medical measures",
+      "Key point"
+     ],
+     "rows": [
+      [
+       "Mitral stenosis",
+       "Diuretics for congestion; AF rate control (beta-blocker, digoxin or rate-limiting CCB); anticoagulation with **warfarin (not a DOAC)** if AF, previous embolism or LA thrombus",
+       "Beta-blockers lengthen diastole; drugs relieve symptoms but only bridge to intervention"
+      ],
+      [
+       "Mitral regurgitation",
+       "Diuretics; vasodilators (ACE inhibitor/ARB) if hypertensive, because high afterload increases the leak; digoxin and anticoagulation if AF; regular clinical and echo review",
+       "Vasodilators in asymptomatic MR may hide progression"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 541,
+       "page": 519
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 85,
+       "page": 85
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 108,
+       "page": 108
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 543,
+       "page": 521
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 114,
+       "page": 114
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Medical therapy: aortic lesions",
+     "columns": [
+      "Lesion",
+      "Medical measures",
+      "Key point"
+     ],
+     "rows": [
+      [
+       "Aortic stenosis",
+       "Drugs only temporise (e.g. while awaiting or unfit for valve replacement). Asymptomatic: Doppler echo every 1–2 years if moderate/severe (3–6-monthly if elderly with heavily calcified valve). Cautious diuresis, BP control; anticoagulate only for AF or a mechanical valve",
+       "Avoid venodilators (nitrates) and negative inotropes; avoid vigorous exertion"
+      ],
+      [
+       "Aortic regurgitation",
+       "Treat the cause (endocarditis, syphilis); vasodilators for hypertension; ACE inhibitor/ARB for LV dysfunction; beta-blockers may slow root dilatation in Marfan; yearly echo if asymptomatic",
+       "Surgery is the definitive treatment"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 546,
+       "page": 524
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 76,
+       "page": 76
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 547,
+       "page": 525
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1116,
+       "page": 1100
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 112,
+       "page": 112
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 113,
+       "page": 113
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Acute severe MR or AR",
+     "items": [
+      "IV afterload reduction (nitroprusside), diuretics and inotropic support while arranging **urgent surgery**.",
+      "An intra-aortic balloon pump can bridge **acute MR** to surgery but is **contraindicated in AR**, as are pure vasoconstrictors."
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 79,
+       "page": 79
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 82,
+       "page": 82
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Target INR with prosthetic valves (Davidson)",
+     "columns": [
+      "Valve",
+      "Target INR"
+     ],
+     "rows": [
+      [
+       "Ball-and-cage (Starr–Edwards) or tilting disc (Björk–Shiley)",
+       "3.0–4.0"
+      ],
+      [
+       "Bileaflet mechanical (St Jude)",
+       "2.5–3.0"
+      ],
+      [
+       "Biological valve with AF",
+       "2.0–3.0"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 549,
+       "page": 527
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Severe AS is **preload-dependent** with a fixed outflow: nitrates or over-diuresis can drop BP precipitously.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 76,
+       "page": 76
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Zero to Finals quotes a single INR range of 2.5–3.5 for all mechanical valves; Davidson grades the target by valve type (above) – use Davidson. Routine antibiotic prophylaxis against endocarditis is no longer recommended in MS.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 27,
+       "page": 27
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 549,
+       "page": 527
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 541,
+       "page": 519
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.s8",
+   "title": "Surgical and interventional management; prosthetic valves",
+   "objectiveIdx": [
+    9,
+    7,
+    8
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "When and how to intervene",
+     "columns": [
+      "Lesion",
+      "Indication",
+      "Procedure"
+     ],
+     "rows": [
+      [
+       "MS",
+       "Symptoms despite medical therapy, or pulmonary hypertension (asymptomatic severe MS with PA systolic > 50 mmHg is reasonable)",
+       "**Balloon valvuloplasty** if criteria met; surgical closed or open valvotomy is an alternative; **valve replacement** if significant MR or a rigid, calcified valve"
+      ],
+      [
+       "MR",
+       "Severe MR – **repair is the treatment of choice even if asymptomatic** (prevents irreversible LV damage); worsening symptoms, growing heart or falling LV function",
+       "Mitral repair (preferred) or replacement"
+      ],
+      [
+       "AS",
+       "**All symptomatic severe AS** – prompt replacement (old age is no bar); consider in asymptomatic critical AS (area ≤ 0.6 cm² or gradient > 50 mmHg) or EF < 50%",
+       "Surgical AVR or **TAVI**; balloon valvuloplasty helps congenital AS but little in calcific AS"
+      ],
+      [
+       "AR",
+       "Symptoms; or asymptomatic with enlarging LV or end-systolic dimension **≥ 55 mm**",
+       "AVR; add **aortic root replacement** when root dilatation (e.g. Marfan) is the cause"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 541,
+       "page": 519
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 85,
+       "page": 85
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 543,
+       "page": 521
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 546,
+       "page": 524
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 503,
+       "page": 466
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 547,
+       "page": 525
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Criteria for mitral balloon valvuloplasty",
+     "items": [
+      "Significant symptoms and isolated MS.",
+      "No or only trivial MR (moderate–severe MR is a contraindication).",
+      "Mobile, non-calcified valve and subvalvular apparatus on echo (favourable Wilkins score, < 8).",
+      "**LA free of thrombus on TOE.**",
+      "Route: femoral vein → RA → trans-septal puncture → balloon across the mitral valve; follow up every 1–2 years for restenosis.",
+      "If LA thrombus **persists despite anticoagulation**, valvuloplasty is not possible and **mitral valve replacement** is needed."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 541,
+       "page": 519
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 85,
+       "page": 85
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1110,
+       "page": 1094
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 499,
+       "page": 462
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1111,
+       "page": 1095
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "TAVI",
+     "items": [
+      "A stent-mounted bioprosthesis is delivered via the femoral artery and expanded inside the native valve – no sternotomy, quick recovery; ideal for elderly or high-risk patients.",
+      "Complications: **stroke (~2%)** and **heart block needing a pacemaker (5–15%)**.",
+      "Trials show it is non-inferior to surgical AVR for death or disabling stroke across high, intermediate and low surgical risk."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 549,
+       "page": 527
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 546,
+       "page": 524
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 77,
+       "page": 77
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Mechanical vs biological valves",
+     "columns": [
+      "Feature",
+      "Mechanical",
+      "Biological"
+     ],
+     "rows": [
+      [
+       "Examples",
+       "Ball-and-cage, tilting disc, bileaflet",
+       "Porcine or allograft valve on a stent; TAVI valves"
+      ],
+      [
+       "Durability",
+       "> 20 years",
+       "May degenerate from ~7 years (regurgitant murmur from 8–10 years), faster in mitral position"
+      ],
+      [
+       "Anticoagulation",
+       "Lifelong warfarin",
+       "Not needed unless AF"
+      ],
+      [
+       "Heart sounds",
+       "Metallic click replacing S1 (mitral) or S2 (aortic)",
+       "Normal sounds; any aortic prosthesis gives a systolic flow murmur"
+      ],
+      [
+       "Usually chosen for",
+       "Younger patients (< 50)",
+       "Over 65 (especially aortic), or anticoagulation not possible; individualise at 50–65"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 548,
+       "page": 526
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 549,
+       "page": 527
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 27,
+       "page": 27
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 76,
+       "page": 76
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Prosthetic valve complications",
+     "items": [
+      "Unexplained heart failure in a valve patient = **urgent assessment** for dysfunction; muffled prosthetic clicks suggest malfunction.",
+      "Mechanical: thrombosis/obstruction and embolism (worse with poor anticoagulation), strut fracture with catastrophic regurgitation; Starr–Edwards has the highest and St Jude the lowest thrombosis risk.",
+      "Prosthetic endocarditis; haemolytic anaemia.",
+      "Biological: degeneration with a new regurgitant murmur."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 548,
+       "page": 526
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 549,
+       "page": 527
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 27,
+       "page": 27
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Thresholds differ between books: Pocket Medicine (US guidelines) operates on asymptomatic AR at **EF ≤ 55% or LVESD > 50 mm** and on asymptomatic primary MR at **EF ≤ 60% or LVESD ≥ 40 mm**; Davidson uses **LVESD ≥ 55 mm** for AR and favours early MR repair. Bioprosthesis lifespan: Davidson 7+ years vs ~10 years in Kumar. Follow Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 547,
+       "page": 525
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 543,
+       "page": 521
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 79,
+       "page": 79
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 82,
+       "page": 82
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1118,
+       "page": 1102
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 549,
+       "page": 527
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 541,
+      "page": 519,
+      "figure": "Fig. 16.82"
+     },
+     "note": "Look at: the trans-septal route of mitral balloon valvuloplasty – femoral vein, RA, septal puncture, balloon across the valve."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "cardio-valvular.c1",
+   "sectionId": "cardio-valvular.s1",
+   "front": "Commonest cause of aortic stenosis at 70–90 years vs 50–60 years?",
+   "back": "70–90: calcific degeneration of a trileaflet valve. 50–60: calcified **bicuspid** valve.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 543,
+     "page": 521
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.c2",
+   "sectionId": "cardio-valvular.s1",
+   "front": "Bicuspid aortic valve – frequency and associations?",
+   "back": "1–2% of live births (~9% familial); associated with **coarctation**, aortic root dilatation and dissection.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1113,
+     "page": 1097
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.c3",
+   "sectionId": "cardio-valvular.s2",
+   "front": "Jones criteria – rule for diagnosis of rheumatic fever?",
+   "back": "≥ 2 major, or 1 major + ≥ 2 minor, **plus** evidence of recent group A streptococcal infection.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 537,
+     "page": 515
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 538,
+     "page": 516
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.c4",
+   "sectionId": "cardio-valvular.s2",
+   "front": "Pathognomonic lesion of rheumatic carditis?",
+   "back": "**Aschoff nodule** – multinucleated giant cells surrounded by macrophages and T cells; found only in the heart.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 537,
+     "page": 515
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.c5",
+   "sectionId": "cardio-valvular.s2",
+   "front": "Secondary penicillin prophylaxis after RF with residual heart disease – how long?",
+   "back": "Until **10 years after the last episode or age 40**, whichever is later (Davidson).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 539,
+     "page": 517
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.c6",
+   "sectionId": "cardio-valvular.s2",
+   "front": "Carey Coombs murmur?",
+   "back": "Soft mid-diastolic murmur of **mitral valvulitis** in acute rheumatic carditis.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 538,
+     "page": 516
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.c7",
+   "sectionId": "cardio-valvular.s3",
+   "front": "Best auscultatory marker of MS severity?",
+   "back": "A **shorter S2–opening snap interval** and a longer murmur (not loudness).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 540,
+     "page": 518
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 107,
+     "page": 107
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.c8",
+   "sectionId": "cardio-valvular.s3",
+   "front": "Echo criteria for severe MS?",
+   "back": "Valve area **< 1.0 cm²**, mean gradient > 10 mmHg, pressure half-time > 219 ms.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1110,
+     "page": 1094
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.c9",
+   "sectionId": "cardio-valvular.s4",
+   "front": "Why does acute MR after MI cause sudden pulmonary oedema?",
+   "back": "Papillary muscle rupture fills a small, normally compliant LA, so LA pressure rises abruptly.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 541,
+     "page": 519
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.c10",
+   "sectionId": "cardio-valvular.s4",
+   "front": "Auscultation in mitral valve prolapse?",
+   "back": "**Mid-systolic click**, followed by a late systolic murmur once the valve leaks.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 542,
+     "page": 520
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.c11",
+   "sectionId": "cardio-valvular.s5",
+   "front": "Three cardinal symptoms of aortic stenosis?",
+   "back": "Angina, exertional breathlessness, exertional syncope.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 544,
+     "page": 522
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.c12",
+   "sectionId": "cardio-valvular.s5",
+   "front": "Doppler criteria for severe AS?",
+   "back": "Peak velocity **> 4.0 m/s**, mean gradient > 40 mmHg, peak gradient > 64 mmHg, area < 1.0 cm².",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1115,
+     "page": 1099
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.c13",
+   "sectionId": "cardio-valvular.s6",
+   "front": "Austin Flint murmur?",
+   "back": "Soft **mid-diastolic** apical murmur in AR: the jet pushes the anterior mitral leaflet, causing functional MS.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 546,
+     "page": 524
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.c14",
+   "sectionId": "cardio-valvular.s6",
+   "front": "Quincke's, de Musset's and Duroziez's signs?",
+   "back": "Nail-bed capillary pulsation; head nodding with each beat; to-and-fro femoral murmur – all signs of AR.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 546,
+     "page": 524
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 78,
+     "page": 78
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.c15",
+   "sectionId": "cardio-valvular.s7",
+   "front": "Target INR: bileaflet (St Jude) vs ball-and-cage/tilting disc mechanical valve?",
+   "back": "Bileaflet **2.5–3.0**; ball-and-cage or tilting disc **3.0–4.0**; bioprosthesis with AF 2.0–3.0.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 549,
+     "page": 527
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.c16",
+   "sectionId": "cardio-valvular.s7",
+   "front": "Which drugs are dangerous in severe AS?",
+   "back": "Venodilators such as **nitrates** (and negative inotropes) – preload-dependent, fixed-output state.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 76,
+     "page": 76
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.c17",
+   "sectionId": "cardio-valvular.s8",
+   "front": "Criteria for mitral balloon valvuloplasty?",
+   "back": "Symptomatic isolated MS, no/trivial MR, mobile non-calcified valve, **no LA thrombus** on TOE.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 541,
+     "page": 519
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.c18",
+   "sectionId": "cardio-valvular.s8",
+   "front": "Main complications of TAVI?",
+   "back": "Stroke (~2%) and heart block needing a pacemaker (5–15%).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 549,
+     "page": 527
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "cardio-valvular.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 79-year-old man has had two faints while walking uphill. He has a harsh ejection systolic murmur at the right upper sternal edge. He had no childhood illnesses and no murmur was heard at an insurance medical aged 50.",
+   "leadIn": "What is the most likely cause of his valve lesion?",
+   "options": [
+    "Calcific degeneration of a trileaflet aortic valve",
+    "Calcified congenitally bicuspid aortic valve",
+    "Rheumatic aortic valve disease",
+    "Congenital subvalvular membrane",
+    "Infective endocarditis"
+   ],
+   "answer": 0,
+   "explanation": "Age is the main clue. Significant AS at **70–90 years** in a previously normal valve is typically calcific degeneration of a trileaflet valve; bicuspid valves usually become critical at 50–60 and rheumatic AS at 30–60.",
+   "whyNot": [
+    "",
+    "Bicuspid valves usually become significantly stenotic at 50–60 years, and a murmur would likely have been heard earlier.",
+    "Rheumatic AS presents at 30–60 years and usually comes with mitral disease.",
+    "Congenital subvalvular obstruction presents in childhood.",
+    "Endocarditis causes regurgitation rather than stenosis, and there is no fever or embolic feature."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 543,
+     "page": 521
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 32-year-old tall man with long fingers and previous lens dislocation is found to have aortic regurgitation. Echo shows normal cusps but a markedly widened aortic root.",
+   "leadIn": "What is the most likely cause of his regurgitation?",
+   "options": [
+    "Bicuspid aortic valve",
+    "Rheumatic heart disease",
+    "Infective endocarditis",
+    "Marfan syndrome",
+    "Blunt chest trauma"
+   ],
+   "answer": 3,
+   "explanation": "Marfan syndrome causes AR by **dilating the aortic root**, so the cusps cannot meet even though they are structurally normal. The skeletal habitus and lens dislocation give it away.",
+   "whyNot": [
+    "A bicuspid valve is a cusp abnormality, which echo would show.",
+    "Rheumatic disease scars and retracts the cusps and usually involves the mitral valve.",
+    "Endocarditis damages cusps (vegetations, perforation) and causes fever.",
+    "",
+    "Trauma injures the cusps acutely, and there is no history of it."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 546,
+     "page": 524
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 77,
+     "page": 77
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 530,
+     "page": 508
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 547,
+     "page": 525
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 9-year-old girl has fever of 38.8 °C three weeks after a sore throat. Her right knee was hot and swollen for 3 days, then her left ankle. ESR is 90 mm/h, ASO titre is 450 U and the PR interval is prolonged.",
+   "leadIn": "Which of her findings counts as a major Jones criterion?",
+   "options": [
+    "Fever",
+    "Prolonged PR interval",
+    "Raised ESR",
+    "Migratory large-joint arthritis",
+    "Raised ASO titre"
+   ],
+   "answer": 3,
+   "explanation": "Migratory polyarthritis of large joints is a **major** criterion (the commonest one). Fever, raised ESR and first-degree AV block are minor criteria, and the ASO titre is the required evidence of preceding streptococcal infection.",
+   "whyNot": [
+    "Fever is a minor criterion.",
+    "First-degree AV block is a minor criterion, not carditis.",
+    "A raised ESR or CRP is a minor criterion.",
+    "",
+    "The ASO titre is the supporting evidence of streptococcal infection, not a major or minor criterion."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 538,
+     "page": 516
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 13-year-old boy recovers from acute rheumatic fever with carditis. Echo 6 months later still shows moderate mitral regurgitation.",
+   "leadIn": "According to Davidson, for how long should he take penicillin prophylaxis?",
+   "options": [
+    "Until the age of 21",
+    "Until 10 years after the last episode or age 40, whichever is later",
+    "For 10 days only",
+    "Until his ESR has returned to normal",
+    "Until 5 years after the last episode"
+   ],
+   "answer": 1,
+   "explanation": "With **residual heart disease**, prophylaxis continues until 10 years after the last attack or age 40, whichever is later. Stopping at 21 applies to patients without residual heart disease.",
+   "whyNot": [
+    "Stopping at 21 is for patients without residual valve damage.",
+    "",
+    "Ten days of penicillin eradicates the current infection; it is not secondary prophylaxis.",
+    "ESR guides anti-inflammatory therapy and bed rest, not prophylaxis.",
+    "Five years is too short; a recent attack is a reason to extend prophylaxis, not to stop it."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 539,
+     "page": 517
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 31-year-old woman, 28 weeks pregnant, has increasing breathlessness. She has a loud first heart sound, an opening snap and a low-pitched apical diastolic rumble.",
+   "leadIn": "Which auscultatory change would best indicate that her stenosis is becoming more severe?",
+   "options": [
+    "A louder diastolic murmur",
+    "A shorter interval between S2 and the opening snap",
+    "A louder first heart sound",
+    "A new third heart sound",
+    "Radiation of the murmur to the axilla"
+   ],
+   "answer": 1,
+   "explanation": "As LA pressure rises the mitral valve opens earlier, so the **S2–OS interval shortens**, and the murmur lasts longer. Loudness does not indicate severity.",
+   "whyNot": [
+    "Murmur intensity does not reflect MS severity; its duration does.",
+    "",
+    "A loud S1 shows the valve is still mobile; it may even disappear once the valve calcifies.",
+    "An S3 is a feature of MR (rapid LV filling), and tight MS prevents rapid filling.",
+    "Radiation to the axilla is typical of a pansystolic MR murmur."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 540,
+     "page": 518
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 107,
+     "page": 107
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 84,
+     "page": 84
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 40-year-old woman with known rheumatic mitral stenosis develops palpitations and severe breathlessness over a few hours. Pulse is irregularly irregular at 140/min, there are bilateral basal crackles, and she has no chest pain or fever.",
+   "leadIn": "What is the most likely precipitant of her deterioration?",
+   "options": [
+    "Atrial fibrillation with a fast ventricular rate",
+    "Acute chordal rupture",
+    "Acute myocardial infarction",
+    "Infective endocarditis",
+    "Aortic dissection"
+   ],
+   "answer": 0,
+   "explanation": "In MS, onset of **AF** causes sudden decompensation: the fast rate shortens diastolic filling time and loss of atrial contraction raises LA pressure sharply → pulmonary oedema.",
+   "whyNot": [
+    "",
+    "Chordal rupture causes acute MR, typically in myxomatous valves, and would not explain the irregular rhythm.",
+    "There is no chest pain, and the irregular pulse in a dilated LA points to AF.",
+    "There is no fever or embolic feature to suggest endocarditis.",
+    "Dissection causes tearing chest pain and acute AR, not an irregular tachycardia."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 539,
+     "page": 517
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 498,
+     "page": 461
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 64-year-old man is 5 days after an inferior myocardial infarction. He suddenly becomes very breathless and hypotensive. There is a new apical pansystolic murmur. Chest X-ray shows pulmonary oedema with a normal heart size.",
+   "leadIn": "What is the most likely cause?",
+   "options": [
+    "Papillary muscle rupture with acute mitral regurgitation",
+    "Acute aortic regurgitation from dissection",
+    "Rheumatic mitral stenosis",
+    "Calcific aortic stenosis",
+    "Mitral valve prolapse"
+   ],
+   "answer": 0,
+   "explanation": "Papillary muscle rupture after MI produces **acute MR**. The normal-sized LA cannot absorb the regurgitant volume, so pulmonary oedema and shock appear without cardiomegaly.",
+   "whyNot": [
+    "",
+    "AR gives a diastolic murmur, and dissection presents with tearing pain, not a pansystolic murmur after MI.",
+    "MS gives a mid-diastolic rumble and develops over years.",
+    "AS gives an ejection systolic murmur at the base and is chronic.",
+    "MVP gives a click and late systolic murmur and rarely causes sudden shock after MI."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 541,
+     "page": 519
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 537,
+     "page": 515
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 24-year-old woman has episodes of sharp, non-exertional chest pain. On auscultation there is a mid-systolic click followed by a short late systolic murmur at the apex. ECG is normal.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Mitral valve prolapse",
+    "Bicuspid aortic stenosis",
+    "Rheumatic mitral stenosis",
+    "Aortic regurgitation",
+    "Tricuspid regurgitation"
+   ],
+   "answer": 0,
+   "explanation": "A **mid-systolic click with a late systolic murmur** in a young woman with atypical chest pain is classic mitral valve prolapse with mild regurgitation.",
+   "whyNot": [
+    "",
+    "A bicuspid valve gives an ejection click at the start of systole and an ejection systolic murmur at the base.",
+    "MS gives a diastolic murmur with an opening snap.",
+    "AR gives an early diastolic murmur, heard best along the left sternal border.",
+    "TR gives a pansystolic murmur at the lower left sternal edge with giant v waves."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 542,
+     "page": 520
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 501,
+     "page": 464
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 76-year-old woman has exertional chest tightness. She has a slow-rising pulse and an ejection systolic murmur radiating to both carotids.",
+   "leadIn": "Which additional finding most strongly suggests severe stenosis?",
+   "options": [
+    "A loud grade 4/6 murmur",
+    "A soft or absent aortic second sound",
+    "An ejection click",
+    "Radiation of the murmur to the carotids",
+    "A wide pulse pressure"
+   ],
+   "answer": 1,
+   "explanation": "A **soft or absent A2** (immobile valve) indicates severe AS, as do a late-peaking murmur, reversed S2 splitting and an S4. Loudness is unreliable.",
+   "whyNot": [
+    "Murmur loudness falls as output falls, so it does not track severity.",
+    "",
+    "An ejection click means the valve is still mobile, which is more typical of a younger, less calcified bicuspid valve.",
+    "Carotid radiation occurs at any severity.",
+    "A wide pulse pressure suggests AR; severe AS narrows the pulse pressure."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1114,
+     "page": 1098
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 74,
+     "page": 74
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 544,
+     "page": 522
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "Doppler echocardiography in a 70-year-old man shows a peak aortic velocity of 4.6 m/s, a mean gradient of 48 mmHg and a valve area of 0.8 cm².",
+   "leadIn": "How should this aortic stenosis be graded?",
+   "options": [
+    "Normal valve",
+    "Mild",
+    "Moderate",
+    "Severe",
+    "Aortic sclerosis without stenosis"
+   ],
+   "answer": 3,
+   "explanation": "All three measures exceed the severe thresholds: velocity > 4.0 m/s, mean gradient > 40 mmHg and area < 1.0 cm².",
+   "whyNot": [
+    "A normal valve has a velocity below 1.7 m/s.",
+    "Mild AS has velocity 1.7–2.9 m/s and area 1.5–2.0 cm².",
+    "Moderate AS has velocity 3.0–4.0 m/s and a mean gradient of 25–40 mmHg.",
+    "",
+    "Sclerosis means thickening without obstruction, so velocities would be near normal."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1115,
+     "page": 1099
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 52-year-old man with ankylosing spondylitis has a collapsing pulse and a wide pulse pressure. You suspect a soft early diastolic murmur.",
+   "leadIn": "Which manoeuvre makes this murmur easiest to hear?",
+   "options": [
+    "Sitting forward with the breath held in expiration",
+    "Rolling onto the left side and listening at the apex with the bell",
+    "Passive leg raising",
+    "Standing up from a lying position",
+    "Lying flat during deep inspiration"
+   ],
+   "answer": 0,
+   "explanation": "The AR murmur is best heard at the **left sternal edge with the patient sitting forward in held expiration**.",
+   "whyNot": [
+    "",
+    "The left lateral position with the bell brings out the mitral stenosis rumble.",
+    "Passive leg raising is used to accentuate the AS murmur.",
+    "Standing reduces venous return and softens most murmurs, including AS.",
+    "Inspiration accentuates right-sided murmurs such as tricuspid stenosis."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 546,
+     "page": 524
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 547,
+     "page": 525
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 24,
+     "page": 24
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 3,
+   "stem": "A 38-year-old man with staphylococcal aortic valve endocarditis suddenly becomes very breathless. HR 125/min, BP 105/65 mmHg. There is only a short, soft diastolic murmur, no collapsing pulse, and pulmonary oedema on X-ray.",
+   "leadIn": "What best explains why the classic signs of aortic regurgitation are missing?",
+   "options": [
+    "The LV has had no time to dilate, so its diastolic pressure rises abruptly",
+    "Coexisting mitral stenosis is masking the murmur",
+    "Low-flow aortic stenosis has developed",
+    "A pericardial effusion is muffling the heart sounds",
+    "Right ventricular failure has reduced LV filling"
+   ],
+   "answer": 0,
+   "explanation": "In **acute severe AR** (here cusp perforation) there is no compensatory LV dilatation. LV diastolic pressure rises fast, equalising with aortic pressure, so the murmur is short, pulse pressure stays near normal and heart failure dominates.",
+   "whyNot": [
+    "",
+    "Nothing suggests MS (no opening snap or rumble), and MS would not abolish a collapsing pulse.",
+    "Low-flow AS is a Doppler pitfall in chronic AS with a weak LV, not a cause of acute decompensation.",
+    "An effusion would not explain the near-normal pulse pressure with an abrupt rise in LV diastolic pressure.",
+    "There are no features of RV failure, and the problem is left-sided."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 546,
+     "page": 524
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 547,
+     "page": 525
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 503,
+     "page": 466
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 45-year-old woman with moderate rheumatic mitral stenosis is found to be in atrial fibrillation. Her rate is controlled with a beta-blocker.",
+   "leadIn": "Which agent is recommended to prevent thromboembolism?",
+   "options": [
+    "Warfarin",
+    "Apixaban",
+    "Aspirin",
+    "Clopidogrel",
+    "No antithrombotic therapy"
+   ],
+   "answer": 0,
+   "explanation": "In MS with AF (or previous embolism or LA thrombus), anticoagulate with **warfarin**. DOACs are not recommended for rheumatic MS.",
+   "whyNot": [
+    "",
+    "DOACs such as apixaban are not recommended in rheumatic mitral stenosis.",
+    "Aspirin is an antiplatelet and does not prevent LA thrombus adequately.",
+    "Clopidogrel is an antiplatelet, not an anticoagulant.",
+    "MS with AF carries a high embolic risk, so anticoagulation is needed."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s7"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 85,
+     "page": 85
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 541,
+     "page": 519
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "An 81-year-old man with severe aortic stenosis is awaiting valve replacement. He has occasional exertional chest tightness and BP 118/70 mmHg.",
+   "leadIn": "Which drug class should be avoided?",
+   "options": [
+    "Venodilators such as nitrates",
+    "Cautious low-dose loop diuretic",
+    "Statins",
+    "Warfarin for coexisting AF",
+    "Paracetamol for pain"
+   ],
+   "answer": 0,
+   "explanation": "Severe AS is preload-dependent with fixed outflow, so **venodilators (nitrates)** and negative inotropes can cause sudden hypotension and syncope.",
+   "whyNot": [
+    "",
+    "Careful diuresis is acceptable for congestion in AS.",
+    "Statins do not affect haemodynamics.",
+    "Anticoagulation is indicated in AS when AF is present.",
+    "Simple analgesia has no haemodynamic effect."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s7"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 76,
+     "page": 76
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 546,
+     "page": 524
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 3,
+   "stem": "A 36-year-old woman has symptomatic severe rheumatic mitral stenosis (valve area 0.9 cm²). Echo shows a pliable, non-calcified valve and trivial MR. TOE shows a thrombus in the left atrial appendage.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Proceed to balloon valvuloplasty now",
+    "Anticoagulate and repeat TOE, with valve replacement if thrombus persists",
+    "Closed surgical valvotomy now",
+    "Transcatheter valve implantation",
+    "Mitral valve repair with an annuloplasty ring"
+   ],
+   "answer": 1,
+   "explanation": "LA thrombus is a **contraindication to balloon valvuloplasty** (the catheter could dislodge it). Anticoagulate and reimage; if thrombus persists despite anticoagulation, mitral valve replacement is needed.",
+   "whyNot": [
+    "Valvuloplasty with LA thrombus risks systemic embolism; the LA must be free of thrombus.",
+    "",
+    "Closed valvotomy also manipulates the LA and should not be done with thrombus present.",
+    "TAVI is a treatment for aortic, not rheumatic mitral, stenosis.",
+    "Annuloplasty treats annular dilatation causing MR, not stenosis."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 541,
+     "page": 519
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1110,
+     "page": 1094
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 499,
+     "page": 462
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 85,
+     "page": 85
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "An 86-year-old woman with COPD and frailty has syncope and breathlessness from severe calcific aortic stenosis. The surgical team rates her operative risk as very high.",
+   "leadIn": "What is the most appropriate treatment?",
+   "options": [
+    "Transcatheter aortic valve implantation",
+    "Balloon aortic valvuloplasty as definitive therapy",
+    "Long-acting nitrate therapy",
+    "Surgical replacement with a mechanical valve",
+    "Annual echo surveillance"
+   ],
+   "answer": 0,
+   "explanation": "Symptomatic severe AS needs valve replacement; old age is not a contraindication. **TAVI** avoids sternotomy and suits elderly, high-risk patients.",
+   "whyNot": [
+    "",
+    "Balloon valvuloplasty has limited, short-lived value in calcific AS in adults.",
+    "Nitrates are dangerous in severe AS and do not change the outcome.",
+    "High surgical risk argues against open surgery, and a bioprosthesis would be preferred in the elderly to avoid anticoagulation.",
+    "Symptomatic severe AS has a poor prognosis; surveillance is only for asymptomatic patients."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 546,
+     "page": 524
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 549,
+     "page": 527
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q17",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 10-year-old boy from rural Pakistan has fever and aching knees and wrists without swelling. CRP is raised. A new soft apical pansystolic murmur is heard. ASO titre is 520 U.",
+   "leadIn": "Which conclusion about the Jones criteria is correct?",
+   "options": [
+    "Criteria are met: one major plus two minor features with streptococcal evidence",
+    "Criteria are not met: two major features are always required",
+    "Criteria are met: the raised ASO titre alone is diagnostic",
+    "Criteria are not met: arthralgia counts only when joints are swollen",
+    "Criteria are not met: a throat culture must be positive"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1 – find the major features:** a new MR murmur means **carditis** (major). Painful joints without swelling are **arthralgia**, a minor feature, not arthritis. **Step 2 – count minors:** fever, arthralgia and raised CRP = 3 minor. **Step 3 – check the prerequisite:** ASO 520 U (> 300 U in a child) is evidence of recent streptococcal infection. One major + ≥ 2 minor + streptococcal evidence = **ARF**.",
+   "whyNot": [
+    "",
+    "One major plus two or more minor features is an accepted alternative.",
+    "The ASO titre is only the prerequisite evidence of infection; it is not a criterion.",
+    "Arthralgia (pain without swelling) is itself a minor criterion; swelling would make it arthritis, a major one.",
+    "Throat cultures are positive in only 10–25%; a raised ASO is acceptable evidence."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 537,
+     "page": 515
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 538,
+     "page": 516
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 539,
+     "page": 517
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q18",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 60-year-old man has a collapsing pulse, pulse pressure of 95 mmHg, a displaced heaving apex and an early diastolic murmur heard along the left sternal border. There is also a soft mid-diastolic rumble at the apex, with no opening snap and a normal S1.",
+   "leadIn": "What best explains the apical diastolic murmur?",
+   "options": [
+    "Austin Flint murmur",
+    "Coexisting rheumatic mitral stenosis",
+    "Carey Coombs murmur",
+    "Graham Steell murmur",
+    "Tricuspid stenosis"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1:** the collapsing pulse, wide pulse pressure and EDM establish chronic severe **AR**. **Step 2:** an apical mid-diastolic murmur in AR is most often the **Austin Flint** murmur – the regurgitant jet hits the anterior mitral leaflet and creates functional MS. **Step 3:** the absence of an opening snap and loud S1 argues against true rheumatic MS.",
+   "whyNot": [
+    "",
+    "Organic MS usually gives a loud S1 and an opening snap, both absent here.",
+    "Carey Coombs is a mitral valvulitis murmur of acute rheumatic fever, typically in children.",
+    "Graham Steell is an early diastolic pulmonary regurgitation murmur from pulmonary hypertension.",
+    "TS gives a murmur at the lower sternal edge that increases on inspiration, with a large a wave."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 546,
+     "page": 524
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 538,
+     "page": 516
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 548,
+     "page": 526
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q19",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 72-year-old active man is found to have an ejection systolic murmur at a routine check. He denies any symptoms. Echo shows severe calcific AS (peak velocity 4.3 m/s, area 0.9 cm²) with normal LV function.",
+   "leadIn": "What is the most appropriate management (Davidson)?",
+   "options": [
+    "Regular clinical and Doppler echo review, advising him to report symptoms promptly",
+    "Urgent surgical aortic valve replacement",
+    "Balloon aortic valvuloplasty",
+    "Start a long-acting nitrate",
+    "Discharge from follow-up"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1:** check for symptoms – none. **Step 2:** asymptomatic AS, whatever its severity, has a good short-term prognosis, so manage **conservatively** with Doppler echo every 1–2 years, more often (3–6-monthly) in older people with heavily calcified valves. **Step 3:** angina, syncope or breathlessness triggers **prompt AVR**. An exercise test can unmask symptoms in someone who seems asymptomatic.",
+   "whyNot": [
+    "",
+    "Prompt AVR is for symptomatic severe AS; he is asymptomatic with normal LV function and is not critical (area > 0.6 cm²).",
+    "Balloon valvuloplasty is of limited value in calcific AS.",
+    "Nitrates may cause hypotension in severe AS.",
+    "Severe AS needs close review because deterioration after symptom onset is rapid."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 546,
+     "page": 524
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 544,
+     "page": 522
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 503,
+     "page": 466
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q20",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Murmurs and added sounds in valve disease",
+   "leadIn": "Match each patient below with the most likely option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Ejection systolic murmur radiating to the carotids",
+    "Pansystolic apical murmur spreading to the axilla",
+    "Early diastolic murmur, left sternal border",
+    "Opening snap and low-pitched mid-diastolic apical rumble",
+    "Mid-systolic click followed by a late systolic murmur",
+    "Austin Flint murmur",
+    "Carey Coombs murmur",
+    "Graham Steell murmur",
+    "Pansystolic murmur at the lower left sternal edge",
+    "Metallic click replacing the second heart sound"
+   ],
+   "items": [
+    {
+     "stem": "A 30-year-old woman from Sudan has a dusky flush over her cheeks, an irregularly irregular pulse and a tapping apex beat.",
+     "answer": 3,
+     "explanation": "Malar flush, AF and a tapping apex (palpable S1) point to rheumatic **mitral stenosis** → opening snap and mid-diastolic rumble.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s3"
+     }
+    },
+    {
+     "stem": "An 11-year-old boy has a fever and flitting joint pains three weeks after tonsillitis. A new soft mid-diastolic murmur is heard at the apex.",
+     "answer": 6,
+     "explanation": "A soft apical mid-diastolic murmur during **acute rheumatic carditis** is the Carey Coombs murmur of mitral valvulitis.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s2"
+     }
+    },
+    {
+     "stem": "A 50-year-old woman with long-standing severe mitral stenosis has a loud P2 and a right ventricular heave. A new decrescendo early diastolic murmur appears at the left sternal edge; her pulse pressure is normal.",
+     "answer": 7,
+     "explanation": "Two steps: MS → **pulmonary hypertension** (loud P2, RV heave) → pulmonary regurgitation. Normal pulse pressure argues against AR, so this is the **Graham Steell** murmur.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s3"
+     }
+    },
+    {
+     "stem": "A 58-year-old man had aortic valve replacement for a bicuspid valve aged 45 and has taken warfarin ever since, aiming for an INR of 2.5–3.0.",
+     "answer": 9,
+     "explanation": "Lifelong warfarin implies a **mechanical** (bileaflet) prosthesis; an aortic mechanical valve gives a metallic click in place of S2.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s8"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 540,
+     "page": 518
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 538,
+     "page": 516
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 548,
+     "page": 526
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 549,
+     "page": 527
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 27,
+     "page": 27
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q21",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Causes of valve lesions",
+   "leadIn": "Match each patient below with the most likely option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Rheumatic heart disease",
+    "Calcific degeneration of a trileaflet aortic valve",
+    "Bicuspid aortic valve",
+    "Myxomatous mitral valve prolapse",
+    "Papillary muscle rupture after myocardial infarction",
+    "Infective endocarditis",
+    "Aortic dissection",
+    "Marfan syndrome",
+    "Syphilitic aortitis",
+    "Dilated cardiomyopathy",
+    "Mitral annular calcification",
+    "Carcinoid syndrome"
+   ],
+   "items": [
+    {
+     "stem": "A 47-year-old man has moderate aortic stenosis with an ejection click. He had a coarctation repaired as a child, and his brother has the same valve abnormality.",
+     "answer": 2,
+     "explanation": "Coarctation, an ejection click and a familial pattern point to a **bicuspid aortic valve**, which calcifies to cause AS in middle age.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s1"
+     }
+    },
+    {
+     "stem": "A 74-year-old woman on haemodialysis for end-stage kidney disease has mild mitral stenosis. She never had rheumatic fever, and echo shows thin leaflets with a heavily calcified ring.",
+     "answer": 10,
+     "explanation": "Elderly + end-stage renal disease + calcified ring with thin leaflets = **mitral annular calcification**, a non-rheumatic cause of MS.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s1"
+     }
+    },
+    {
+     "stem": "A 61-year-old man has heart failure with an ejection fraction of 25%. Echo shows a globally dilated LV and structurally normal mitral leaflets that fail to meet, with moderate regurgitation.",
+     "answer": 9,
+     "explanation": "Normal leaflets that cannot meet because the **LV and annulus are dilated** = functional MR from dilated cardiomyopathy.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s4"
+     }
+    },
+    {
+     "stem": "A 55-year-old man has tearing chest pain radiating to the back, unequal arm pulses and a new early diastolic murmur.",
+     "answer": 6,
+     "explanation": "Acute AR with tearing pain and pulse deficit is due to **aortic dissection** involving the root.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 543,
+     "page": 521
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1113,
+     "page": 1097
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1108,
+     "page": 1092
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 542,
+     "page": 520
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 529,
+     "page": 507
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 546,
+     "page": 524
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q22",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Investigation findings in valve disease",
+   "leadIn": "Match each patient below with the most likely option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Bifid P wave (P mitrale)",
+    "LV hypertrophy with lateral ST depression and T-wave inversion",
+    "Dilated, hyperdynamic LV with fluttering anterior mitral leaflet",
+    "Doppler peak aortic velocity above 4 m/s",
+    "Thrombus in the left atrial appendage on TOE",
+    "Large v waves on the pulmonary wedge pressure trace",
+    "Double right heart border with splayed carina on chest X-ray",
+    "Small heart with dilated ascending aorta on chest X-ray",
+    "Mitral leaflet bulging into the LA in systole",
+    "ASO titre above 300 U"
+   ],
+   "items": [
+    {
+     "stem": "A 29-year-old woman with mild rheumatic mitral stenosis is in sinus rhythm. What is the most likely ECG finding?",
+     "answer": 0,
+     "explanation": "LA hypertrophy in MS with sinus rhythm gives a **bifid P wave (P mitrale)**.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s3"
+     }
+    },
+    {
+     "stem": "A 68-year-old man has exertional angina, a slow-rising pulse and a sustained, non-displaced apex. What is the most likely ECG finding?",
+     "answer": 1,
+     "explanation": "Pressure overload from AS causes **LVH with a lateral strain pattern**.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s5"
+     }
+    },
+    {
+     "stem": "A 47-year-old man has a collapsing pulse, wide pulse pressure and an early diastolic murmur. What is the most likely transthoracic echo finding?",
+     "answer": 2,
+     "explanation": "Chronic AR: the volume-loaded LV is **dilated and hyperdynamic**, and the jet makes the anterior mitral leaflet flutter.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s6"
+     }
+    },
+    {
+     "stem": "A 33-year-old woman with severe MS is listed for balloon valvuloplasty. Two weeks ago she developed palpitations, and an irregularly irregular rhythm was recorded but not treated. Her procedure is cancelled after a pre-procedure test. What did the test most likely show?",
+     "answer": 4,
+     "explanation": "Two steps: untreated new **AF** in MS → LA stasis → **appendage thrombus on TOE**, which contraindicates valvuloplasty.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 541,
+     "page": 519
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1109,
+     "page": 1093
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 545,
+     "page": 523
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 547,
+     "page": 525
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 85,
+     "page": 85
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q23",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Interventions for valve disease",
+   "leadIn": "Match each patient below with the most likely option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Percutaneous mitral balloon valvuloplasty",
+    "Mitral valve replacement",
+    "Mitral valve repair",
+    "Surgical aortic valve replacement",
+    "Transcatheter aortic valve implantation",
+    "Aortic valve and aortic root replacement",
+    "Balloon aortic valvuloplasty",
+    "Rate control and warfarin only",
+    "Clinical and echo surveillance",
+    "IV nitroprusside and urgent surgery",
+    "Intra-aortic balloon pump",
+    "Monthly benzathine penicillin"
+   ],
+   "items": [
+    {
+     "stem": "A 35-year-old woman has breathlessness on mild exertion from severe rheumatic MS. Echo shows a mobile, non-calcified valve with trivial MR, and TOE shows no LA thrombus.",
+     "answer": 0,
+     "explanation": "All valvuloplasty criteria are met (symptoms, isolated MS, no/trivial MR, pliable valve, no thrombus), so **balloon valvuloplasty** is first choice.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s8"
+     }
+    },
+    {
+     "stem": "A 52-year-old asymptomatic man has severe degenerative MR from a flail posterior leaflet. LV function is normal and the valve looks repairable.",
+     "answer": 2,
+     "explanation": "Davidson: **repair** is the treatment of choice for severe MR even in asymptomatic patients, to prevent irreversible LV damage.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s8"
+     }
+    },
+    {
+     "stem": "A 7-year-old boy has a high gradient across a congenitally stenotic, non-calcified aortic valve.",
+     "answer": 6,
+     "explanation": "**Balloon valvuloplasty** is useful in congenital AS (pliable valve), unlike calcific AS in adults.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s8"
+     }
+    },
+    {
+     "stem": "A 29-year-old man with Marfan syndrome has worsening breathlessness from AR. Imaging shows a markedly dilated aortic root.",
+     "answer": 5,
+     "explanation": "When AR is due to **root dilatation** (Marfan), the root must be replaced with the valve.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s8"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 541,
+     "page": 519
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 543,
+     "page": 521
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 546,
+     "page": 524
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 547,
+     "page": 525
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q24",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Physical signs in valve disease",
+   "leadIn": "Match each patient below with the most likely option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Collapsing pulse",
+    "Slow-rising, small-volume pulse",
+    "Irregularly irregular pulse",
+    "Quincke's sign",
+    "de Musset's sign",
+    "Duroziez's sign",
+    "Malar flush",
+    "Tapping apex beat",
+    "Displaced, thrusting apex with a soft first heart sound",
+    "Giant v waves in the jugular venous pulse",
+    "Sustained, non-displaced heaving apex",
+    "Hill's sign"
+   ],
+   "items": [
+    {
+     "stem": "A 23-year-old woman has rheumatic MS with a mobile valve and is in sinus rhythm. Which finding do you expect on palpation of the praecordium?",
+     "answer": 7,
+     "explanation": "A mobile stenotic mitral valve snaps shut under high LA pressure, so S1 is palpable as a **tapping apex**.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s3"
+     }
+    },
+    {
+     "stem": "A 74-year-old woman has exertional syncope and a harsh basal ejection systolic murmur. Which apex finding is expected?",
+     "answer": 10,
+     "explanation": "AS causes **concentric hypertrophy**, so the apex is sustained and heaving but not displaced.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s5"
+     }
+    },
+    {
+     "stem": "A 45-year-old man has severe MS with pulmonary hypertension, ankle oedema, a pulsatile liver and a pansystolic murmur at the lower left sternal edge. Which neck finding is expected?",
+     "answer": 9,
+     "explanation": "Two steps: MS → pulmonary hypertension → RV dilatation → **functional TR**, seen as giant v waves in the JVP.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s4"
+     }
+    },
+    {
+     "stem": "A 60-year-old man has chronic severe MR due to mitral valve prolapse. Which praecordial finding is expected?",
+     "answer": 8,
+     "explanation": "Volume overload dilates the LV (**displaced, thrusting apex**), and the incompetent valve closes poorly (**soft S1**).",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 540,
+     "page": 518
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1108,
+     "page": 1092
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1114,
+     "page": 1098
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 548,
+     "page": 526
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 543,
+     "page": 521
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 500,
+     "page": 463
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q25",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 10-year-old girl has acute rheumatic fever with carditis and early heart failure. She has received benzathine penicillin.",
+   "leadIn": "According to Davidson, which additional anti-inflammatory therapy is indicated?",
+   "options": [
+    "Prednisolone 1–2 mg/kg/day",
+    "Aspirin 75 mg once daily",
+    "Colchicine",
+    "Methotrexate",
+    "No anti-inflammatory treatment"
+   ],
+   "answer": 0,
+   "explanation": "Davidson recommends glucocorticoids (**prednisolone 1–2 mg/kg/day**, tapered once ESR normalises) for carditis or severe arthritis. They act faster than aspirin.",
+   "whyNot": [
+    "",
+    "An antiplatelet dose of aspirin is far too low; the anti-inflammatory dose is about 60 mg/kg/day.",
+    "Colchicine is not part of ARF treatment in the sources.",
+    "Methotrexate has no role in ARF.",
+    "Carditis with heart failure needs anti-inflammatory treatment as well as antibiotics."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 539,
+     "page": 517
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q26",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A 45-year-old man has a bileaflet (St Jude) mechanical aortic valve and is in sinus rhythm.",
+   "leadIn": "What target INR does Davidson give?",
+   "options": [
+    "2.0–3.0",
+    "2.5–3.0",
+    "3.0–4.0",
+    "1.5–2.0",
+    "4.0–5.0"
+   ],
+   "answer": 1,
+   "explanation": "Davidson sets the target by valve type: **bileaflet 2.5–3.0**; ball-and-cage/tilting disc 3.0–4.0; biological valve with AF 2.0–3.0.",
+   "whyNot": [
+    "2.0–3.0 is the target for a biological valve with AF.",
+    "",
+    "3.0–4.0 is for older ball-and-cage or tilting disc valves.",
+    "1.5–2.0 is below any mechanical valve target.",
+    "4.0–5.0 exceeds every listed target and greatly increases bleeding risk."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 549,
+     "page": 527
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q27",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 3,
+   "theme": "Complications of valve disease and prostheses",
+   "leadIn": "Match each patient below with the most likely option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Atrial fibrillation",
+    "Systemic embolism",
+    "Infective endocarditis",
+    "Sudden cardiac death",
+    "Acquired von Willebrand syndrome",
+    "Haemolytic anaemia",
+    "Bioprosthetic valve degeneration",
+    "Mechanical valve thrombosis",
+    "Complete heart block",
+    "Right heart failure"
+   ],
+   "items": [
+    {
+     "stem": "A 79-year-old man with severe aortic stenosis has recurrent melaena. Colonoscopy shows angiodysplasia, and his von Willebrand factor activity is low.",
+     "answer": 4,
+     "explanation": "Severe AS shears vWF multimers → **acquired von Willebrand syndrome** with GI angiodysplasia bleeding.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s5"
+     }
+    },
+    {
+     "stem": "A 66-year-old woman had a porcine mitral valve fitted 9 years ago and takes no anticoagulant. She now has increasing breathlessness and a new pansystolic murmur.",
+     "answer": 6,
+     "explanation": "Biological valves degenerate from about 7–10 years (faster in the mitral position), producing a **new regurgitant murmur**.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s8"
+     }
+    },
+    {
+     "stem": "An 82-year-old man is dizzy 2 days after transfemoral aortic valve implantation. Pulse is 36/min with broad QRS complexes and dissociated P waves.",
+     "answer": 8,
+     "explanation": "TAVI often damages the conduction system: **complete heart block** needing a pacemaker occurs in 5–15%.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s8"
+     }
+    },
+    {
+     "stem": "A 54-year-old man with a mechanical mitral valve stopped warfarin two weeks before a dental extraction. He presents with acute breathlessness and his prosthetic clicks are no longer audible.",
+     "answer": 7,
+     "explanation": "Two steps: interrupted anticoagulation + loss of the prosthetic click = an obstructed valve from **mechanical valve thrombosis**.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s8"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 74,
+     "page": 74
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 549,
+     "page": 527
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 548,
+     "page": 526
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q28",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 58-year-old woman has chronic severe mitral regurgitation and a 58-year-old man has chronic rheumatic mitral stenosis.",
+   "leadIn": "Which complication is notably more frequent in the patient with mitral regurgitation?",
+   "options": [
+    "Infective endocarditis",
+    "Systemic embolism",
+    "Haemoptysis",
+    "Sudden pulmonary oedema at the onset of AF",
+    "Hoarseness from recurrent laryngeal nerve compression"
+   ],
+   "answer": 0,
+   "explanation": "MR causes **much more infective endocarditis** than MS (a high-velocity jet damages the endocardium), while thromboembolism is less frequent.",
+   "whyNot": [
+    "",
+    "Embolism is more typical of MS (atrial stasis).",
+    "Haemoptysis is a feature of MS with pulmonary congestion or hypertension.",
+    "AF onset causes more dramatic deterioration in MS than in MR.",
+    "Ortner syndrome is described with the huge LA of MS."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1111,
+     "page": 1095
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 500,
+     "page": 463
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 84,
+     "page": 84
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q29",
+   "kind": "emq",
+   "pool": "mock",
+   "difficulty": 2,
+   "theme": "Valve lesions in clinical vignettes",
+   "leadIn": "Match each patient below with the most likely option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Aortic valve stenosis",
+    "Aortic valve regurgitation",
+    "Mitral valve stenosis",
+    "Mitral valve regurgitation",
+    "Mitral valve prolapse",
+    "Tricuspid valve regurgitation",
+    "Tricuspid valve stenosis",
+    "Pulmonary valve stenosis",
+    "Pulmonary valve regurgitation"
+   ],
+   "items": [
+    {
+     "stem": "A 27-year-old woman who grew up in Ethiopia is 30 weeks pregnant. She has worsening breathlessness, blood-streaked sputum and a low-pitched rumble at the apex heard best with her lying on her left side.",
+     "answer": 2,
+     "explanation": "Pregnancy raises output and heart rate, unmasking rheumatic **mitral stenosis** (haemoptysis, apical rumble).",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s3"
+     }
+    },
+    {
+     "stem": "A 70-year-old man with positive treponemal serology has a head that nods with each heartbeat and a pulse pressure of 100 mmHg.",
+     "answer": 1,
+     "explanation": "Syphilitic aortitis dilates the root → **aortic regurgitation**; head nodding is de Musset's sign.",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s6"
+     }
+    },
+    {
+     "stem": "A 30-year-old man who injects drugs has fever, a raised JVP with large systolic waves, a pulsatile liver and a pansystolic murmur at the lower left sternal edge.",
+     "answer": 5,
+     "explanation": "Right-sided endocarditis in injecting drug users damages the tricuspid valve → **TR** (giant v waves, pulsatile liver).",
+     "studyRef": {
+      "sectionId": "cardio-valvular.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 540,
+     "page": 518
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 546,
+     "page": 524
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 548,
+     "page": 526
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 549,
+     "page": 527
+    }
+   ]
+  },
+  {
+   "id": "cardio-valvular.q30",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 48-year-old man with chronic severe aortic regurgitation has no symptoms. He is followed up with yearly echo.",
+   "leadIn": "According to Davidson, which finding is an indication for aortic valve replacement?",
+   "options": [
+    "LV end-systolic dimension of 56 mm",
+    "Pulse pressure of 80 mmHg",
+    "An Austin Flint murmur",
+    "Diastolic blood pressure of 50 mmHg",
+    "A systolic flow murmur"
+   ],
+   "answer": 0,
+   "explanation": "In asymptomatic AR, Davidson advises AVR when the **LV enlarges progressively or the end-systolic dimension reaches 55 mm or more**. Symptoms are also an indication.",
+   "whyNot": [
+    "",
+    "A wide pulse pressure is expected in AR and is not by itself a surgical threshold.",
+    "The Austin Flint murmur is a sign of significant AR, not a surgical trigger.",
+    "A low diastolic pressure reflects the runoff of AR and is not an operative criterion.",
+    "A systolic flow murmur reflects increased stroke volume and is common in AR."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-valvular.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 547,
+     "page": 525
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 546,
+     "page": 524
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "cardio-valvular.o1",
+   "sectionId": "cardio-valvular.s3",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 540,
+    "page": 518,
+    "figure": "Fig. 16.81"
+   },
+   "identify": "Mitral stenosis: loud S1, opening snap and a mid-diastolic murmur with presystolic accentuation; echo shows restricted mitral opening with turbulent colour Doppler flow."
+  },
+  {
+   "id": "cardio-valvular.o2",
+   "sectionId": "cardio-valvular.s3",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 1109,
+    "page": 1093,
+    "figure": "Fig. 30.75"
+   },
+   "identify": "Bifid \"M-shaped\" P wave (P mitrale) = left atrial enlargement, as in mitral stenosis."
+  },
+  {
+   "id": "cardio-valvular.o3",
+   "sectionId": "cardio-valvular.s3",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 473,
+    "page": 451,
+    "figure": "Fig. 16.9"
+   },
+   "identify": "CXR in mitral valve disease: large LA with a \"double shadow\", splayed carina, distended pulmonary veins and prominent pulmonary trunk."
+  },
+  {
+   "id": "cardio-valvular.o4",
+   "sectionId": "cardio-valvular.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 542,
+    "page": 520,
+    "figure": "Fig. 16.83"
+   },
+   "identify": "TOE: a mitral leaflet prolapsing into the LA (MVP) with a regurgitant colour Doppler jet."
+  },
+  {
+   "id": "cardio-valvular.o5",
+   "sectionId": "cardio-valvular.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 545,
+    "page": 523,
+    "figure": "Fig. 16.86"
+   },
+   "identify": "LVH by voltage (very tall R in V6, deep S in V2) with ST depression and T inversion in the inferior and lateral leads (\"strain\" pattern) – pressure overload as in severe AS."
+  },
+  {
+   "id": "cardio-valvular.o6",
+   "sectionId": "cardio-valvular.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 473,
+    "page": 451,
+    "figure": "Fig. 16.11"
+   },
+   "identify": "Continuous-wave Doppler through the aortic valve: peak velocity ~4.5 m/s (gradient ~81 mmHg) = severe AS."
+  },
+  {
+   "id": "cardio-valvular.o7",
+   "sectionId": "cardio-valvular.s6",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 473,
+    "page": 451,
+    "figure": "Fig. 16.10"
+   },
+   "identify": "CXR in aortic regurgitation: enlarged LV with a dilated ascending aorta."
+  },
+  {
+   "id": "cardio-valvular.o8",
+   "sectionId": "cardio-valvular.s2",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 538,
+    "page": 516,
+    "figure": "Fig. 16.80"
+   },
+   "identify": "Rheumatic fever: Jones major features – carditis, flitting polyarthritis, chorea, subcutaneous nodules and erythema marginatum (red rings with pale centres)."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:44:04.019Z",
+  "contentHash": "49f8f3b0fbe52625f98945a75af91a14a2e1d23c75774fe51cccbfa503993edd"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:44:04.026Z",
+  "contentHash": "49f8f3b0fbe52625f98945a75af91a14a2e1d23c75774fe51cccbfa503993edd",
+  "checkerVersion": "source-check-v1"
+ }
+}

@@ -1,0 +1,3355 @@
+{
+ "topicId": "endo-hypothyroidism",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "endo-hypothyroidism.s1",
+   "title": "Definition, epidemiology & pathophysiology",
+   "objectiveIdx": [
+    0,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Hypothyroidism** means the body is short of thyroid hormone because the thyroid is not producing enough. In about **95%** of cases the fault lies in the gland itself (**primary**). **Secondary** (pituitary TSH deficiency) and **tertiary** (hypothalamic TRH deficiency) disease together make up **under 1%**.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 51,
+       "page": 51
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 458,
+       "page": 458
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 657,
+       "page": 620
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Who gets it",
+     "items": [
+      "Women are affected about **6 times** more often than men.",
+      "UK prevalence of primary hypothyroidism is over 2% in women and under 0.1% in men. Lifetime risk in women may reach about 9%.",
+      "Incidence rises with age, and the mean age at diagnosis is about 60 years."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 661,
+       "page": 639
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 633,
+       "page": 611
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 657,
+       "page": 620
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "The gland releases mostly **T4**, which acts as a **prohormone** (half-life about 1 week). About **85% of circulating T3** is made from T4 in peripheral tissues by monodeiodinase enzymes, which contain **selenium**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 656,
+       "page": 634
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Feedback logic.** In _primary_ failure, falling T4/T3 removes negative feedback, so the pituitary pushes **TSH up**. TSH and free T4 have an **inverse log-linear** relationship, so a small drop in T4 produces a large rise in TSH. In _secondary_ disease the pituitary cannot make enough TSH, so **TSH is low or inappropriately \"normal\"** while T4 is low.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 656,
+       "page": 634
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 657,
+       "page": 635,
+       "figure": "Fig. 18.4"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 51,
+       "page": 51
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Autoimmune destruction (the usual mechanism)",
+     "items": [
+      "Thyroid tissue is destroyed by both **cell-mediated** and **antibody-mediated** immunity.",
+      "Antibodies to **thyroid peroxidase (TPO)**, **thyroglobulin**, and **TSH receptor-blocking antibodies** are usually present.",
+      "In **Hashimoto’s thyroiditis**, lymphoid infiltration destroys follicles and ends in variable fibrosis with a goitre.",
+      "TSH receptor antibodies can stimulate the receptor (Graves’) or block it. **Blocking antibodies** cause hypothyroidism and may matter more than anti-TPO in the goitre-free atrophic form."
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 658,
+       "page": 621
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 659,
+       "page": 637
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 668,
+       "page": 646
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Why \"myxoedema\"?** In long-standing disease, **mucopolysaccharides** (glycosaminoglycans such as hyaluronic acid and chondroitin sulphate) build up in tissues. In the dermis this causes **non-pitting oedema**. In the larynx, tongue and carpal tunnel it gives a deep voice, slurred speech and median nerve compression. Infiltration also contributes to deafness.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 662,
+       "page": 640
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 459,
+       "page": 459
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 658,
+       "page": 621
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other mechanisms worth knowing",
+     "items": [
+      "**Hyponatraemia**: excess ADH plus impaired free-water excretion.",
+      "**Lithium** inhibits hormone production in the gland, so it can cause goitre and hypothyroidism.",
+      "**Amiodarone** looks structurally like T4 and is iodine-rich (75 mg iodine per 200 mg tablet). It is also toxic to follicular cells and slows T4→T3 conversion.",
+      "**Chronic iodine excess** causes hypothyroidism when an already damaged gland fails to escape the **Wolff–Chaikoff** effect."
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 658,
+       "page": 621
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 51,
+       "page": 51
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 669,
+       "page": 647
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 657,
+      "page": 635,
+      "figure": "Fig. 18.4"
+     },
+     "note": "Look at the inverse log-linear curve of TSH against free T4. It shows why TSH is the most sensitive single test for primary thyroid failure."
+    },
+    {
+     "type": "pearl",
+     "text": "Outside pituitary/hypothalamic disease, **TSH is the best single marker** of thyroid status, because it amplifies small changes in free T4.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 656,
+       "page": 634
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "In **secondary hypothyroidism** the TSH can look \"normal\" or even slightly raised (immunoreactive TSH can still be measured), so reading TSH alone misses central disease. Always pair it with free T4 if pituitary disease is possible.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 656,
+       "page": 634
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 662,
+       "page": 640,
+       "figure": "Fig. 18.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.s2",
+   "title": "Causes of hypothyroidism",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Where iodine intake is adequate, **autoimmune thyroiditis** plus **thyroid failure after radioiodine (131I) or surgery for thyrotoxicosis** cause **over 90%** of cases. **Worldwide**, the commonest cause is still **iodine deficiency**. Iatrogenic disease is the second commonest cause of primary hypothyroidism.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 661,
+       "page": 639
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 458,
+       "page": 458
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 51,
+       "page": 51
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Causes (grouped)",
+     "columns": [
+      "Group",
+      "Examples",
+      "Clues"
+     ],
+     "rows": [
+      [
+       "Autoimmune",
+       "Hashimoto’s thyroiditis; spontaneous atrophic hypothyroidism; Graves’ with TSH receptor-blocking antibodies",
+       "Anti-TPO high titre in Hashimoto’s; goitre in Hashimoto’s, none in atrophic"
+      ],
+      [
+       "Iatrogenic",
+       "131I ablation; thyroidectomy; external neck irradiation",
+       "Previous Graves’/goitre treatment or head-and-neck radiotherapy"
+      ],
+      [
+       "Drugs",
+       "Carbimazole/PTU; amiodarone; lithium; interferon; checkpoint inhibitors; tyrosine kinase inhibitors",
+       "Drug history; lithium may give a goitre"
+      ],
+      [
+       "Transient thyroiditis",
+       "Subacute (de Quervain’s); post-partum; painless",
+       "Thyrotoxic phase first, then hypothyroid, then recovery"
+      ],
+      [
+       "Iodine",
+       "Deficiency (mountain regions: Alps, Himalayas, South America); chronic excess in a damaged gland",
+       "Endemic goitre, sometimes very large"
+      ],
+      [
+       "Congenital",
+       "Thyroid aplasia/dysplasia; dyshormonogenesis (Pendred’s syndrome)",
+       "Goitre with dyshormonogenesis; deafness in Pendred’s"
+      ],
+      [
+       "Infiltrative",
+       "Amyloidosis, Riedel’s thyroiditis, sarcoidosis",
+       "Goitre characteristic"
+      ],
+      [
+       "Central",
+       "TSH deficiency: pituitary tumour, infection, Sheehan’s syndrome, radiation",
+       "Low/normal TSH; other pituitary hormones (e.g. ACTH) often lacking"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 661,
+       "page": 639
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 658,
+       "page": 621
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 458,
+       "page": 458
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 51,
+       "page": 51
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 662,
+       "page": 640
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 668,
+       "page": 646
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Hashimoto’s vs spontaneous atrophic hypothyroidism",
+     "columns": [
+      "Feature",
+      "Hashimoto’s thyroiditis",
+      "Atrophic hypothyroidism"
+     ],
+     "rows": [
+      [
+       "Gland",
+       "Small–moderate diffuse goitre, **firm/rubbery**",
+       "No goitre (atrophy and fibrosis)"
+      ],
+      [
+       "Key antibody",
+       "Anti-TPO in > 90%",
+       "TSH receptor-blocking antibodies may matter more"
+      ],
+      [
+       "Thyroid state at diagnosis",
+       "About 25% hypothyroid; the rest euthyroid but at risk",
+       "Hypothyroid"
+      ],
+      [
+       "Incidence (Hashimoto’s)",
+       "Yearly: roughly 3.5/1000 in women vs 0.8/1000 in men",
+       "—"
+      ],
+      [
+       "Extras",
+       "Can start with a thyrotoxic phase (\"Hashitoxicosis\"); levothyroxine can shrink the goitre; very small lymphoma risk",
+       "Linked with pernicious anaemia, vitiligo and other endocrine failure"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 668,
+       "page": 646
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 634,
+       "page": 612
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 661,
+       "page": 639
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Drugs and iodine",
+     "items": [
+      "**Amiodarone**: up to 20% develop hypo- _or_ hyperthyroidism, so monitor TSH. If hypothyroid, give levothyroxine for as long as the amiodarone is needed (it can be continued).",
+      "**Lithium**: inhibits hormone production and may cause a goitre.",
+      "**Iodine excess**: causes hypothyroidism mainly in people with pre-existing thyroid disease.",
+      "**Iodine deficiency**: most people with endemic goitre stay euthyroid, but severe deficiency causes hypothyroidism. In pregnancy it impairs fetal brain development (cretinism)."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 669,
+       "page": 647
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 662,
+       "page": 640,
+       "figure": "Fig. 18.6"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 51,
+       "page": 51
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 658,
+       "page": 621
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Transient causes (no lifelong T4 needed)",
+     "items": [
+      "**Subacute (de Quervain’s) thyroiditis** follows a viral illness. T4/T3 are raised for 4–6 weeks, then a hypothyroid phase follows, with recovery by 4–6 months.",
+      "**Post-partum thyroiditis**: transient TFT changes in 5–10% of women in the 6 months after delivery. It can be hyper-, hypo- or both in sequence. Anti-TPO-positive women may progress to **permanent** hypothyroidism, and it tends to recur after later pregnancies.",
+      "**The first 6 months after 131I or thyroidectomy** for Graves’ can bring transient hypothyroidism."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 668,
+       "page": 646
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 669,
+       "page": 647
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 662,
+       "page": 640
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 658,
+       "page": 621
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Autoimmune hypothyroidism travels with other autoimmune disease, especially **pernicious anaemia**, **Addison’s disease** and **vitiligo** (SLE is also listed in Step-Up).",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 658,
+       "page": 621
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 634,
+       "page": 612
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 458,
+       "page": 458
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Books differ on \"the commonest cause\". **Kumar** names atrophic autoimmune hypothyroidism, while **Step-Up/Zero to Finals** name Hashimoto’s. **Davidson** (preferred) treats Hashimoto’s and atrophic hypothyroidism as **variants of one autoimmune process**. In an exam, answer \"autoimmune (Hashimoto’s) thyroiditis\" for iodine-replete countries and \"iodine deficiency\" worldwide.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 668,
+       "page": 646
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 634,
+       "page": 612
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 458,
+       "page": 458
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 51,
+       "page": 51
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.s3",
+   "title": "Clinical features",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Symptoms and signs by frequency",
+     "columns": [
+      "Frequency",
+      "Symptoms",
+      "Signs"
+     ],
+     "rows": [
+      [
+       "Common",
+       "Weight gain, cold intolerance, fatigue/somnolence, dry skin and hair, menorrhagia",
+       "Weight gain"
+      ],
+      [
+       "Less common",
+       "Constipation, hoarseness, carpal tunnel symptoms, alopecia, aches and muscle stiffness, deafness, depression, infertility",
+       "**Delayed relaxation of reflexes**; bradycardia and hypertension; periorbital oedema, malar flush, purplish lips, outer eyebrow loss; hoarse voice; carotenaemia, erythema ab igne, anaemia; dermal myxoedema"
+      ],
+      [
+       "Rare",
+       "Psychosis (\"myxoedema madness\"), galactorrhoea, impotence",
+       "Pleural/pericardial effusions, ascites, ileus; myotonia; cerebellar ataxia"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 659,
+       "page": 637
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "The hypothyroid face",
+     "items": [
+      "**Periorbital puffiness**, often striking.",
+      "**Pallor** (vasoconstriction plus anaemia) or a **lemon-yellow tint** from carotenaemia.",
+      "**Purplish lips** and a **malar flush**; \"peaches and cream\" complexion.",
+      "Dry, thin hair and loss of the outer eyebrows."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 662,
+       "page": 640
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 659,
+       "page": 622
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "By system",
+     "items": [
+      "**Cardiovascular**: bradycardia, hypertension, cold peripheries, heart failure, pericardial effusion.",
+      "**Neuromuscular**: slow-relaxing reflexes, carpal tunnel syndrome, proximal myopathy, myotonia, ataxia, deafness.",
+      "**GI**: constipation; rarely ileus and ascites.",
+      "**Reproductive**: menorrhagia, oligo/amenorrhoea, infertility, hyperprolactinaemia.",
+      "**Mental**: slowed thinking, poor memory, depression; rarely dementia or psychosis.",
+      "**Fluid**: non-pitting oedema, pleural effusions, ascites."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 659,
+       "page": 637
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 659,
+       "page": 622
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 459,
+       "page": 459
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 51,
+       "page": 51
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 658,
+       "page": 621
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Presentations that hide the diagnosis",
+     "items": [
+      "**Children**: slow growth, poor school performance, delayed puberty.",
+      "**Young women**: only menstrual disturbance, infertility or hyperprolactinaemia. Check thyroid function in all of these.",
+      "**Elderly**: features look like normal ageing. Exclude hypothyroidism in anyone with cognitive impairment.",
+      "Many cases are found on **routine biochemical screening**."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 635,
+       "page": 613
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 658,
+       "page": 621
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kcEssentials",
+      "pdfPage": 659,
+      "page": 622,
+      "figure": "Fig. 14.6"
+     },
+     "note": "Look at the diagram of symptoms and signs. The features printed in bold are the ones of greatest discriminant value, so learn those first."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 634,
+      "page": 612,
+      "figure": "Fig. 21.22"
+     },
+     "note": "Look at the symptom/sign map with the most discriminating features in bold italics; use it to rehearse an OSCE thyroid-status examination."
+    },
+    {
+     "type": "pearl",
+     "text": "Most hypothyroidism is **not clinically obvious**. Test TSH in anyone with tiredness, weight gain, depression or carpal tunnel syndrome.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 662,
+       "page": 640
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Weight gain is usually **modest**. Hypothyroid patients are typically not obese, so don’t blame marked obesity on the thyroid.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 459,
+       "page": 459
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Myxoedema madness** (frank dementia or psychosis with delusions in severely hypothyroid elderly people) can appear **shortly after starting** thyroxine.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 660,
+       "page": 623
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 635,
+       "page": 613
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.s4",
+   "title": "Investigations & diagnosis",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Serum TSH** is the first-line and most sensitive test. A **high TSH with low free T4** confirms **primary** hypothyroidism. Davidson expects TSH to be **> 20 mIU/L** in overt primary disease, unless T4 is only marginally low. **Free T4** is essential when TSH is normal or low but the picture suggests pituitary disease. **T3 is not useful**: it does not reliably separate hypo- from euthyroidism.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 662,
+       "page": 640
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 662,
+       "page": 640,
+       "figure": "Fig. 18.6"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 658,
+       "page": 621
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 459,
+       "page": 459
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 635,
+       "page": 613
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "TFT patterns",
+     "columns": [
+      "Situation",
+      "TSH",
+      "Free T4",
+      "Note"
+     ],
+     "rows": [
+      [
+       "Overt primary hypothyroidism",
+       "High (usually > 20 mIU/L)",
+       "Low",
+       "The common pattern"
+      ],
+      [
+       "Subclinical hypothyroidism",
+       "Raised",
+       "Normal (lower end)",
+       "Can persist for years"
+      ],
+      [
+       "Secondary (central)",
+       "Low, \"normal\" or slightly raised",
+       "Low",
+       "Look for other pituitary deficits"
+      ],
+      [
+       "Non-thyroidal illness",
+       "Usually low; may rise in recovery",
+       "Variable",
+       "Avoid testing when acutely ill"
+      ],
+      [
+       "Treated patient who takes tablets only before clinic",
+       "High",
+       "High",
+       "Recent \"loading\" of levothyroxine"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 662,
+       "page": 640
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 664,
+       "page": 642
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 657,
+       "page": 620
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 658,
+       "page": 636
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Reference ranges (Kumar & Clark)",
+     "items": [
+      "Free T4: 10–25 pmol/L. TSH: 0.3–3.5 mU/L. Free T3: 3.5–7.5 pmol/L.",
+      "Primary hypothyroidism: TSH > 10 mU/L with low or low-normal free T4.",
+      "Borderline (subclinical): TSH about 5–10 mU/L with normal T4/T3."
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 657,
+       "page": 620
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 633,
+       "page": 611
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Thyroid antibodies (% positive)",
+     "columns": [
+      "Antibody",
+      "Autoimmune hypothyroidism",
+      "Normal population"
+     ],
+     "rows": [
+      [
+       "Anti-TPO",
+       "90–100",
+       "8–27"
+      ],
+      [
+       "Anti-thyroglobulin",
+       "80–90",
+       "5–20"
+      ],
+      [
+       "TSH receptor (blocking)",
+       "10–20",
+       "0"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 659,
+       "page": 637
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Supporting (non-specific) findings",
+     "items": [
+      "**Raised CK** (with myopathy) and raised AST.",
+      "**Lipids**: hypercholesterolaemia (raised LDL, lower HDL), sometimes raised triglycerides.",
+      "**Hyponatraemia** (excess ADH, impaired free-water clearance).",
+      "**Anaemia**: usually a mild normocytic, hypoproliferative anaemia. It is macrocytic if pernicious anaemia coexists, and microcytic with menorrhagia or coeliac disease.",
+      "**ECG** in severe, long-standing disease: sinus bradycardia, low-voltage complexes, ST/T-wave changes."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 635,
+       "page": 613
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 658,
+       "page": 621
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 459,
+       "page": 459
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 460,
+       "page": 460
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 662,
+       "page": 640
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 400\" role=\"img\" aria-label=\"Approach to raised TSH with low T4\"><defs><marker id=\"ah\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#444444\"/></marker></defs><rect x=\"0\" y=\"0\" width=\"560\" height=\"400\" fill=\"#ffffff\"/><rect x=\"20\" y=\"10\" width=\"260\" height=\"36\" rx=\"6\" fill=\"#e8f0fe\" stroke=\"#3b5b92\"/><text x=\"150\" y=\"32\" font-size=\"11.5\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">Raised TSH + low free T4</text><line x1=\"150\" y1=\"46\" x2=\"150\" y2=\"70\" stroke=\"#444444\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><rect x=\"20\" y=\"70\" width=\"260\" height=\"44\" rx=\"6\" fill=\"#fff7e0\" stroke=\"#3b5b92\"/><text x=\"150\" y=\"96\" font-size=\"11.5\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">Acutely unwell?</text><line x1=\"280\" y1=\"92\" x2=\"318\" y2=\"92\" stroke=\"#444444\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><text x=\"286\" y=\"86\" font-size=\"10.5\" font-family=\"sans-serif\" fill=\"#444444\">Yes</text><rect x=\"320\" y=\"70\" width=\"225\" height=\"44\" rx=\"6\" fill=\"#eaf6ea\" stroke=\"#3b5b92\"/><text x=\"432.5\" y=\"89\" font-size=\"11.5\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">Possible non-thyroidal illness:</text><text x=\"432.5\" y=\"103\" font-size=\"11.5\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">repeat TFTs after recovery</text><line x1=\"150\" y1=\"116\" x2=\"150\" y2=\"140\" stroke=\"#444444\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><text x=\"156\" y=\"132\" font-size=\"10.5\" font-family=\"sans-serif\" fill=\"#444444\">No</text><rect x=\"20\" y=\"140\" width=\"260\" height=\"44\" rx=\"6\" fill=\"#fff7e0\" stroke=\"#3b5b92\"/><text x=\"150\" y=\"166\" font-size=\"11.5\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">Amiodarone or lithium?</text><line x1=\"280\" y1=\"162\" x2=\"318\" y2=\"162\" stroke=\"#444444\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><text x=\"286\" y=\"156\" font-size=\"10.5\" font-family=\"sans-serif\" fill=\"#444444\">Yes</text><rect x=\"320\" y=\"140\" width=\"225\" height=\"44\" rx=\"6\" fill=\"#eaf6ea\" stroke=\"#3b5b92\"/><text x=\"432.5\" y=\"159\" font-size=\"11.5\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">Give T4 for as long as</text><text x=\"432.5\" y=\"173\" font-size=\"11.5\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">the drug is needed</text><line x1=\"150\" y1=\"186\" x2=\"150\" y2=\"210\" stroke=\"#444444\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><text x=\"156\" y=\"202\" font-size=\"10.5\" font-family=\"sans-serif\" fill=\"#444444\">No</text><rect x=\"20\" y=\"210\" width=\"260\" height=\"44\" rx=\"6\" fill=\"#fff7e0\" stroke=\"#3b5b92\"/><text x=\"150\" y=\"229\" font-size=\"11.5\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">Neck pain, < 12 months post-partum,</text><text x=\"150\" y=\"243\" font-size=\"11.5\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">recent thyrotoxicosis, < 6 mo post-ablation?</text><line x1=\"280\" y1=\"232\" x2=\"318\" y2=\"232\" stroke=\"#444444\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><text x=\"286\" y=\"226\" font-size=\"10.5\" font-family=\"sans-serif\" fill=\"#444444\">Yes</text><rect x=\"320\" y=\"210\" width=\"225\" height=\"44\" rx=\"6\" fill=\"#eaf6ea\" stroke=\"#3b5b92\"/><text x=\"432.5\" y=\"229\" font-size=\"11.5\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">Probable transient thyroiditis:</text><text x=\"432.5\" y=\"243\" font-size=\"11.5\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">temporary T4, then trial off</text><line x1=\"150\" y1=\"256\" x2=\"150\" y2=\"280\" stroke=\"#444444\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><text x=\"156\" y=\"272\" font-size=\"10.5\" font-family=\"sans-serif\" fill=\"#444444\">No</text><rect x=\"20\" y=\"280\" width=\"260\" height=\"44\" rx=\"6\" fill=\"#fff7e0\" stroke=\"#3b5b92\"/><text x=\"150\" y=\"299\" font-size=\"11.5\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">TSH < 20 mU/L or pituitary</text><text x=\"150\" y=\"313\" font-size=\"11.5\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">features (headache, field defect)?</text><line x1=\"280\" y1=\"302\" x2=\"318\" y2=\"302\" stroke=\"#444444\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><text x=\"286\" y=\"296\" font-size=\"10.5\" font-family=\"sans-serif\" fill=\"#444444\">Yes</text><rect x=\"320\" y=\"280\" width=\"225\" height=\"44\" rx=\"6\" fill=\"#eaf6ea\" stroke=\"#3b5b92\"/><text x=\"432.5\" y=\"299\" font-size=\"11.5\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">Think secondary or rare cause:</text><text x=\"432.5\" y=\"313\" font-size=\"11.5\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">specialist referral</text><line x1=\"150\" y1=\"324\" x2=\"150\" y2=\"350\" stroke=\"#444444\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><text x=\"156\" y=\"342\" font-size=\"10.5\" font-family=\"sans-serif\" fill=\"#444444\">No</text><rect x=\"20\" y=\"350\" width=\"260\" height=\"44\" rx=\"6\" fill=\"#e8f0fe\" stroke=\"#3b5b92\"/><text x=\"150\" y=\"369\" font-size=\"11.5\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">Permanent primary hypothyroidism:</text><text x=\"150\" y=\"383\" font-size=\"11.5\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">lifelong T4</text><line x1=\"280\" y1=\"372\" x2=\"318\" y2=\"372\" stroke=\"#444444\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><rect x=\"320\" y=\"350\" width=\"225\" height=\"44\" rx=\"6\" fill=\"#f3e8fd\" stroke=\"#3b5b92\"/><text x=\"432.5\" y=\"369\" font-size=\"11.5\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">TPO Ab + goitre: Hashimoto’s;</text><text x=\"432.5\" y=\"383\" font-size=\"11.5\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111111\">no goitre: atrophic</text></svg>",
+     "alt": "Algorithm for raised TSH with low T4: exclude acute illness, amiodarone/lithium, transient thyroiditis and secondary or rare causes before diagnosing permanent primary hypothyroidism.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 662,
+       "page": 640,
+       "figure": "Fig. 18.6"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 662,
+      "page": 640,
+      "figure": "Fig. 18.6"
+     },
+     "note": "Look at the decision path for raised TSH with low T4. It screens out illness, drugs and transient thyroiditis, then uses anti-TPO and goitre to split Hashimoto’s from atrophic disease."
+    },
+    {
+     "type": "bullets",
+     "title": "Congenital hypothyroidism",
+     "items": [
+      "Affects about **1 in 3500** births.",
+      "Newborn blood-spot screening (Guthrie/heel-prick) detects a raised TSH.",
+      "Starting T4 early prevents **cretinism** (permanent neurological and intellectual damage)."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 636,
+       "page": 614
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Anti-TPO antibodies are **sensitive but not specific**. They are present in almost all autoimmune hypothyroidism, but also in up to about a quarter of healthy people. Anti-thyroglobulin testing adds little.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 659,
+       "page": 637
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 48,
+       "page": 48
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A **high T4 with a high TSH** in someone on levothyroxine usually means **poor adherence**, with tablets taken diligently for a few days before clinic. Rarer causes are TSH-secreting tumours and thyroid hormone resistance.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 658,
+       "page": 636
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Diagnostic TSH cut-off differs**: Davidson uses > 20 mIU/L for overt primary disease, while Kumar & Clark’s table lists > 10 mU/L. Follow Davidson, and remember that a modest rise with low T4 can be **pituitary failure**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 662,
+       "page": 640,
+       "figure": "Fig. 18.6"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 657,
+       "page": 620
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.s5",
+   "title": "Differential diagnosis & look-alikes",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "What else could it be?",
+     "columns": [
+      "Condition",
+      "Why it confuses",
+      "Discriminator"
+     ],
+     "rows": [
+      [
+       "Non-thyroidal illness (\"sick euthyroid\")",
+       "Abnormal TFTs in systemic illness (e.g. pneumonia); TSH may rise into the hypothyroid range during convalescence",
+       "No clinical thyroid disease; re-test after recovery (most are euthyroid)"
+      ],
+      [
+       "Central (secondary) hypothyroidism",
+       "Low T4 but TSH not raised",
+       "Other pituitary deficits, headache, visual field defect"
+      ],
+      [
+       "Transient thyroiditis (subacute, post-partum, painless)",
+       "Hypothyroid phase after a thyrotoxic phase",
+       "Neck pain or < 12 months post-partum; recovery by 4–6 months"
+      ],
+      [
+       "Early after 131I/thyroidectomy",
+       "Raised TSH within 6 months of ablation",
+       "May recover; lifelong T4 not automatic"
+      ],
+      [
+       "Other endocrine causes of lethargy/weight gain",
+       "Cushing’s syndrome, diabetes, hyperparathyroidism, hypogonadism, adrenal insufficiency",
+       "Normal TSH (outside pituitary disease)"
+      ],
+      [
+       "Acromegaly",
+       "Coarsening of facial features",
+       "Normal thyroid function; other pituitary features"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 664,
+       "page": 642
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 657,
+       "page": 620
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 662,
+       "page": 640,
+       "figure": "Fig. 18.6"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 668,
+       "page": 646
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 656,
+       "page": 634
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Goitre feel helps at the bedside. In **Hashimoto’s** it is rubbery, non-tender and sometimes nodular. In **subacute (de Quervain’s) thyroiditis** it is **very tender**, not always symmetrical, and follows a viral upper respiratory illness with fever. Pain may radiate to the jaw and ears and is worse on swallowing.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 459,
+       "page": 459
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 668,
+       "page": 646
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 50,
+       "page": 50
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 668,
+      "page": 646,
+      "figure": "Fig. 18.9"
+     },
+     "note": "Look at the TFT time-course in transient thyroiditis: high T4/T3 with suppressed TSH for about 4–6 weeks, then a hypothyroid dip, then return to normal by about 4–6 months."
+    },
+    {
+     "type": "pearl",
+     "text": "A **normal TSH excludes primary hypothyroidism**. Reverse T3, 24-hour urine T3, basal body temperature and similar \"alternative\" thyroid tests are of dubious scientific validity.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Avoid TFTs during **acute illness** unless thyroid disease is strongly suspected. Abnormal results there should be treated only with specialist advice and re-checked after recovery.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 664,
+       "page": 642
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 657,
+       "page": 620
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Kumar says post-partum thyroiditis can be mistaken for **postnatal depression**, but Davidson (preferred) finds **no association** between postnatal depression and abnormal TFTs. Symptoms of post-partum thyroid dysfunction are actually rare.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 669,
+       "page": 647
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 634,
+       "page": 612
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.s6",
+   "title": "Complications: myxoedema coma and others",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Myxoedema coma** is a very rare emergency. A usually **elderly**, obviously myxoedematous patient presents with **depressed consciousness**. Temperature can fall to **25°C**, seizures are not unusual, and CSF pressure and protein are raised. Mortality is about **50%** (Davidson), or 30–50% even with treatment (Step-Up).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 458,
+       "page": 458
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Typical findings",
+     "items": [
+      "Hypothermia, bradycardia, hypotension.",
+      "Hypoventilation and respiratory failure.",
+      "Severe cardiac failure, pericardial effusion.",
+      "Hypoglycaemia and (dilutional) hyponatraemia."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 635,
+       "page": 613
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 660,
+       "page": 623
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2686,
+       "page": 2686
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Precipitants",
+     "items": [
+      "Infection (e.g. pneumonia), trauma, cold exposure.",
+      "Sedative medication and opioids.",
+      "Usually on a background of years of severe, untreated hypothyroidism."
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 458,
+       "page": 458
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Initial work-up",
+     "items": [
+      "**Treat on clinical suspicion**, without waiting for results. Clues are previous thyroid disease or relatives describing earlier hypothyroid symptoms.",
+      "Before giving hormone, take blood for **TSH, T4 and cortisol**, plus FBC, U&E, glucose and blood cultures.",
+      "ECG monitoring for arrhythmias."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 660,
+       "page": 623
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Treatment: how the sources differ",
+     "columns": [
+      "Element",
+      "Davidson (preferred)",
+      "Kumar & Clark / Essentials",
+      "Washington Manual"
+     ],
+     "rows": [
+      [
+       "Thyroid hormone",
+       "IV liothyronine (T3) 20 μg, then 20 μg three times daily until sustained improvement; oral levothyroxine 50 μg daily after 48–72 h",
+       "T3 2.5–5 μg orally or IV every 8 h; avoid large IV doses",
+       "IV thyroxine (T4) 50–100 μg every 6–8 h for 24 h, then 75–100 μg IV daily"
+      ],
+      [
+       "Steroid",
+       "Hydrocortisone 100 mg IM three times daily until cortisol known",
+       "Hydrocortisone 100 mg IV 8-hourly",
+       "Hydrocortisone 50 mg IV every 8 h"
+      ],
+      [
+       "Supportive",
+       "Slow rewarming, cautious IV fluids, broad-spectrum antibiotics, high-flow oxygen",
+       "Oxygen/ventilation, gradual rewarming, glucose infusion",
+       "Intensive support of breathing and BP; cardiac monitoring"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 660,
+       "page": 623
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 635,
+       "page": 613
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2686,
+       "page": 2686
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2687,
+       "page": 2687
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Doses for myxoedema coma **disagree between books** because there are no trials. Use Davidson’s regimen (IV liothyronine 20 μg three times daily plus hydrocortisone 100 mg IM three times daily). The **principles** are shared: treat before results, give steroid cover, and warm **slowly**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 660,
+       "page": 623
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2687,
+       "page": 2687
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Why hydrocortisone?** The hypothyroidism may be **secondary** (hypopituitarism with ACTH deficiency). Replacing thyroid hormone without steroid cover can precipitate an **adrenal crisis**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2687,
+       "page": 2687
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 660,
+       "page": 623
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other complications",
+     "items": [
+      "**Myxoedema madness**: dementia or psychosis in severe disease in the elderly.",
+      "**Effusions**: pericardial and pleural effusions, ascites.",
+      "**Ischaemic heart disease**: levothyroxine itself can worsen angina or cause MI or sudden death.",
+      "**Pregnancy**: inadequately treated maternal hypothyroidism is linked to impaired fetal brain development.",
+      "**Hashimoto’s**: very small increased risk of thyroid lymphoma."
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 660,
+       "page": 623
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 659,
+       "page": 637
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1301,
+       "page": 1279
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 668,
+       "page": 646
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In survivors, body temperature usually **rises within 24 hours** of starting T3.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.s7",
+   "title": "Management",
+   "objectiveIdx": [
+    7
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Treatment is **lifelong oral levothyroxine** (synthetic T4, converted to T3 in tissues). Full replacement is about **1.6 μg/kg/day**, i.e. **100–150 μg** for an average adult. The aim is a **TSH within the reference range**. To achieve that, free T4 often sits in the upper part of its range, because all T3 must now come from tissue conversion.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 662,
+       "page": 640
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 658,
+       "page": 621
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2685,
+       "page": 2685
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 52,
+       "page": 52
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Starting doses",
+     "columns": [
+      "Patient",
+      "Davidson (preferred)",
+      "Other sources"
+     ],
+     "rows": [
+      [
+       "Standard adult",
+       "50 μg/day for 3 weeks → 100 μg/day for 3 weeks → maintenance 100–150 μg/day",
+       "Washington: 1.6 μg/kg/day from the start"
+      ],
+      [
+       "Young and fit",
+       "Can start at 100 μg/day",
+       "Kumar: 100 μg daily"
+      ],
+      [
+       "Elderly/frail",
+       "Customary low start (50 μg/day)",
+       "Kumar: 50 μg; Washington (healthy elderly): 50 μg; K&C Essentials (> 60 y): 25 μg"
+      ],
+      [
+       "Ischaemic heart disease",
+       "Low dose, very slow increase, specialist supervision",
+       "25 μg/day; increase every 3–4 weeks (Kumar, with serial ECGs) or 3–6 weeks (Essentials)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 662,
+       "page": 640
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 635,
+       "page": 613
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 659,
+       "page": 622
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2685,
+       "page": 2685
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Monitoring and titration",
+     "items": [
+      "Half-life about **7 days**: give **once daily** and wait **at least 6 weeks** before re-checking TFTs (TSH lags behind T4).",
+      "If TSH stays high, increase the dose in steps (25–50 μg in Kumar; 12–25 μg in Washington) every 6–8 weeks.",
+      "Rule of thumb: **high TSH → dose too low; low TSH → dose too high**.",
+      "Once stable, check TFTs every **1–2 years** (Davidson). Kumar and Washington suggest yearly.",
+      "Take on an empty stomach, about 30 minutes before food, apart from other medicines."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 662,
+       "page": 640
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 635,
+       "page": 613
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2685,
+       "page": 2685
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 52,
+       "page": 52
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Response to treatment",
+     "items": [
+      "Patients feel better within **2–3 weeks**.",
+      "Weight and periorbital puffiness improve quickly.",
+      "Skin and hair texture and effusions take **3–6 months**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 662,
+       "page": 640
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 460,
+       "page": 460
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "When the dose needs changing",
+     "columns": [
+      "Direction",
+      "Situation",
+      "Examples / reason"
+     ],
+     "rows": [
+      [
+       "Increase",
+       "Drugs increasing T4 clearance",
+       "Phenobarbital, phenytoin, carbamazepine, rifampicin"
+      ],
+      [
+       "Increase",
+       "Drugs reducing absorption",
+       "Colestyramine, sucralfate, aluminium hydroxide, ferrous sulphate, calcium carbonate, fibre supplements (Kumar adds PPIs)"
+      ],
+      [
+       "Increase",
+       "Pregnancy or oestrogen therapy",
+       "Raised thyroxine-binding globulin"
+      ],
+      [
+       "Increase",
+       "After surgical/131I ablation of Graves’",
+       "Residual gland output falls with time"
+      ],
+      [
+       "Increase",
+       "Malabsorption",
+       "e.g. coeliac disease"
+      ],
+      [
+       "Decrease",
+       "Ageing",
+       "Lower T4 clearance"
+      ],
+      [
+       "Decrease",
+       "Graves’ developing in long-standing hypothyroidism",
+       "Switch from blocking to stimulating TSH receptor antibodies"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 635,
+       "page": 613
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2686,
+       "page": 2686
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Special situations",
+     "items": [
+      "**Pregnancy**: most women need about **25–50 μg/day more**. Washington: requirement rises about 40–50% in the first half; check TSH as soon as pregnancy is confirmed and keep it < 2.5.",
+      "**Subclinical hypothyroidism** (Davidson): treat early if **anti-TPO positive** or **TSH > 10 mIU/L**, and consider a trial if symptoms are non-specific. Other triggers in other books: goitre, dyslipidaemia, planned pregnancy. Untreated patients need a yearly TSH; 2–4% per year progress to overt disease.",
+      "**Secondary hypothyroidism**: TSH is useless for monitoring, so titrate to keep **free T4 in the upper half** of the range.",
+      "**Transient hypothyroidism**: once TSH has been normal for 4 months, drop to 50 μg/day; check TSH 6 weeks later. If still normal, stop T4 and check again after another 6 weeks."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1301,
+       "page": 1279
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2686,
+       "page": 2686
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 664,
+       "page": 642
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 660,
+       "page": 623
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2685,
+       "page": 2685
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 662,
+       "page": 640,
+       "figure": "Fig. 18.6"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Ischaemic heart disease**: levothyroxine can worsen myocardial ischaemia and cause infarction or sudden death, even at **25 μg/day**. Start very low and increase slowly; coronary intervention may be needed if angina worsens on levothyroxine.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 635,
+       "page": 613
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A **persistently raised TSH** on an apparently adequate dose is most often **poor adherence**. Then think of interfering drugs (iron, calcium, PPIs) and **undiagnosed coeliac disease**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 635,
+       "page": 613
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2686,
+       "page": 2686
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Avoid **over-replacement**: a suppressed TSH raises the risk of **atrial fibrillation** and **osteoporosis**. Sources also disagree on the target. Davidson aims for TSH anywhere in the reference range, Kumar ideally the lower third.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 635,
+       "page": 613
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2685,
+       "page": 2685
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Combined T4 + T3 or animal thyroid extract is **controversial and not evidence-based**. Once on treatment, stay alert for other autoimmune disease, especially **Addison’s** and **pernicious anaemia**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 663,
+       "page": 641
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 635,
+       "page": 613
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "endo-hypothyroidism.c1",
+   "sectionId": "endo-hypothyroidism.s1",
+   "front": "What share of hypothyroidism is primary?",
+   "back": "About 95%; secondary + tertiary (TSH/TRH deficiency) together < 1%.",
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 458,
+     "page": 458
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.c2",
+   "sectionId": "endo-hypothyroidism.s1",
+   "front": "Why does TSH rise so steeply in early thyroid failure?",
+   "back": "TSH has an inverse log-linear relation to free T4, so small T4 falls give large TSH rises.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 656,
+     "page": 634
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.c3",
+   "sectionId": "endo-hypothyroidism.s1",
+   "front": "Mechanism of non-pitting oedema in hypothyroidism?",
+   "back": "Deposition of mucopolysaccharides (glycosaminoglycans, e.g. hyaluronic acid) in the dermis.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 662,
+     "page": 640
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 459,
+     "page": 459
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.c4",
+   "sectionId": "endo-hypothyroidism.s2",
+   "front": "Two causes accounting for > 90% of hypothyroidism in iodine-replete areas?",
+   "back": "Autoimmune (Hashimoto’s/atrophic) thyroiditis and thyroid failure after 131I or surgery for thyrotoxicosis.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 661,
+     "page": 639
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.c5",
+   "sectionId": "endo-hypothyroidism.s2",
+   "front": "Pendred’s syndrome?",
+   "back": "Dyshormonogenesis (pendrin defect): hypothyroidism with goitre plus sensorineural deafness.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 634,
+     "page": 612
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 662,
+     "page": 640,
+     "figure": "Fig. 18.6"
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.c6",
+   "sectionId": "endo-hypothyroidism.s2",
+   "front": "Amiodarone-induced hypothyroidism: stop the amiodarone?",
+   "back": "Not necessarily: give levothyroxine for as long as amiodarone is needed. Up to 20% of users develop thyroid dysfunction.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 669,
+     "page": 647
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 662,
+     "page": 640,
+     "figure": "Fig. 18.6"
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.c7",
+   "sectionId": "endo-hypothyroidism.s3",
+   "front": "Most discriminating reflex sign of hypothyroidism?",
+   "back": "Delayed (slow) relaxation of the tendon reflexes.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 659,
+     "page": 637
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 659,
+     "page": 622
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.c8",
+   "sectionId": "endo-hypothyroidism.s3",
+   "front": "Myxoedema madness?",
+   "back": "Dementia or psychosis with delusions in severely hypothyroid elderly patients, sometimes just after starting T4.",
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 660,
+     "page": 623
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.c9",
+   "sectionId": "endo-hypothyroidism.s4",
+   "front": "Overt primary hypothyroidism TFTs (Davidson)?",
+   "back": "Low T4 with TSH raised, usually > 20 mIU/L. Do not request T3.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 662,
+     "page": 640
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.c10",
+   "sectionId": "endo-hypothyroidism.s4",
+   "front": "High T4 and high TSH in a patient on levothyroxine?",
+   "back": "Usually poor adherence with tablets \"loaded\" just before clinic.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 663,
+     "page": 641
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.c11",
+   "sectionId": "endo-hypothyroidism.s5",
+   "front": "Sick euthyroidism: usual TSH pattern?",
+   "back": "Usually low TSH in systemic illness; TSH may rise transiently in convalescence. Re-test after recovery.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 664,
+     "page": 642
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.c12",
+   "sectionId": "endo-hypothyroidism.s6",
+   "front": "Myxoedema coma: thyroid hormone (Davidson)?",
+   "back": "IV liothyronine 20 μg, then 20 μg three times daily; oral levothyroxine 50 μg daily after 48–72 h.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 663,
+     "page": 641
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.c13",
+   "sectionId": "endo-hypothyroidism.s6",
+   "front": "Myxoedema coma: steroid and why?",
+   "back": "Hydrocortisone 100 mg IM three times daily until cortisol is known; possible secondary hypothyroidism/adrenal failure.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 663,
+     "page": 641
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.c14",
+   "sectionId": "endo-hypothyroidism.s7",
+   "front": "Earliest time to re-check TFTs after a levothyroxine dose change?",
+   "back": "At least 6 weeks (half-life 7 days; TSH takes weeks to reach steady state).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 662,
+     "page": 640
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.c15",
+   "sectionId": "endo-hypothyroidism.s7",
+   "front": "Levothyroxine dose change in pregnancy?",
+   "back": "Most need about 25–50 μg/day more; poorly treated maternal hypothyroidism impairs fetal brain development.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1301,
+     "page": 1279
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.c16",
+   "sectionId": "endo-hypothyroidism.s7",
+   "front": "Subclinical hypothyroidism: when to treat (Davidson)?",
+   "back": "Anti-TPO positive or TSH > 10 mIU/L; a trial if non-specific symptoms.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 664,
+     "page": 642
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "endo-hypothyroidism.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 38-year-old woman has yearly blood tests. Over two years her free T4 drifts from 18 to 12 pmol/L, staying inside the reference range, while her TSH climbs from 1.4 to 8 mU/L. She is well and on no medication.",
+   "leadIn": "Which statement best explains why TSH changed so much more than free T4?",
+   "options": [
+    "Peripheral conversion of T4 to T3 has stopped",
+    "A TSH-secreting pituitary adenoma has developed",
+    "TSH varies inversely and log-linearly with free T4",
+    "The pituitary has become resistant to thyroid hormone",
+    "Anti-TPO antibodies are interfering with the TSH assay"
+   ],
+   "answer": 2,
+   "explanation": "The pituitary is very sensitive to small shifts in free T4. Because the TSH–T4 relationship is inverse and log-linear, a modest fall in T4 within the normal range produces a large TSH rise. That is why TSH is the most sensitive early marker of primary thyroid failure.",
+   "whyNot": [
+    "Most T3 does come from peripheral T4 conversion, but stopping conversion would not explain a rising TSH with falling T4 in a well person.",
+    "A TSH-secreting tumour would raise T4 as well as TSH, not lower it.",
+    "",
+    "Hormone resistance gives a raised T4 with a non-suppressed TSH, not a falling T4.",
+    "Antibody interference is not the described mechanism; anti-TPO is simply a marker of autoimmune thyroid disease."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hypothyroidism.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 656,
+     "page": 634
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 657,
+     "page": 635,
+     "figure": "Fig. 18.4"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 658,
+     "page": 636
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 58-year-old man with years of untreated hypothyroidism has a low, husky voice, a large tongue, night-time tingling in his thumb and index finger, and firm swelling of the eyelids and shins that does not pit on pressure.",
+   "leadIn": "What is the shared mechanism behind these features?",
+   "options": [
+    "Amyloid deposition in soft tissues",
+    "Raised venous pressure from heart failure",
+    "Hypoalbuminaemia from protein loss",
+    "Lymphatic obstruction by a large goitre",
+    "Glycosaminoglycan deposition in tissues"
+   ],
+   "answer": 4,
+   "explanation": "Long-standing hypothyroidism leads to infiltration of tissues by mucopolysaccharides (hyaluronic acid, chondroitin sulphate). This thickens the vocal cords and tongue, compresses the median nerve in the carpal tunnel, and causes non-pitting dermal oedema (myxoedema).",
+   "whyNot": [
+    "Amyloid is a rare infiltrative cause of hypothyroidism, but the classic myxoedema features come from glycosaminoglycans.",
+    "Cardiac oedema pits and does not explain voice change or tongue enlargement.",
+    "Low albumin causes pitting oedema, and is not a feature of hypothyroidism here.",
+    "A goitre does not cause eyelid, shin and median nerve changes.",
+    ""
+   ],
+   "studyRef": {
+    "sectionId": "endo-hypothyroidism.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 662,
+     "page": 640
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 459,
+     "page": 459
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q3",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Causes of hypothyroidism",
+   "leadIn": "Pick the single best match from the list for each patient. An option may fit more than one patient, or none at all.",
+   "options": [
+    "Hashimoto’s thyroiditis",
+    "Spontaneous atrophic hypothyroidism",
+    "Hypothyroidism after radioiodine",
+    "Subacute (de Quervain’s) thyroiditis",
+    "Post-partum thyroiditis",
+    "Amiodarone-induced hypothyroidism",
+    "Lithium-induced hypothyroidism",
+    "Iodine deficiency",
+    "Dyshormonogenesis",
+    "Secondary (pituitary) hypothyroidism"
+   ],
+   "items": [
+    {
+     "stem": "A 42-year-old woman has felt tired and cold for two years. She has a firm, rubbery, non-tender diffuse goitre. TSH is 34 mU/L, free T4 is low and anti-TPO antibodies are present at very high titre.",
+     "answer": 0,
+     "explanation": "Diffuse firm/rubbery goitre plus strongly positive anti-TPO and primary hypothyroidism is Hashimoto’s thyroiditis.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s2"
+     }
+    },
+    {
+     "stem": "A 67-year-old man has been on an antiarrhythmic for 18 months for recurrent ventricular tachycardia after a myocardial infarction. Routine TSH is 28 mU/L with low free T4. His cardiologist wants the drug continued.",
+     "answer": 5,
+     "explanation": "The long-term antiarrhythmic for VT is amiodarone, an iodine-rich drug that causes hypothyroidism in a significant minority. Give levothyroxine and continue the amiodarone.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s2"
+     }
+    },
+    {
+     "stem": "A 31-year-old woman is tired and gaining weight 4 months after delivery. At 6 weeks post-partum her GP had found a suppressed TSH when she had palpitations. Now TSH is 14 mU/L and free T4 is low; the gland is small and painless and anti-TPO antibodies are positive.",
+     "answer": 4,
+     "explanation": "Two steps: a thyrotoxic phase then a hypothyroid phase within months of delivery, with a painless gland, means post-partum thyroiditis. Positive anti-TPO raises the chance of permanent hypothyroidism later.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 661,
+     "page": 639
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 668,
+     "page": 646
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 669,
+     "page": 647
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 658,
+     "page": 621
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 72-year-old woman is brought by her daughter, who says she has \"slowed down\" over a year. She is more forgetful, constipated and always cold. Examination is otherwise unremarkable apart from one finding.",
+   "leadIn": "Which examination finding most supports hypothyroidism?",
+   "options": [
+    "Pitting oedema to the mid-shin",
+    "Slow relaxation phase of the ankle jerks",
+    "Brisk reflexes with ill-sustained clonus",
+    "Palmar erythema",
+    "Lid lag on downward gaze"
+   ],
+   "answer": 1,
+   "explanation": "Delayed relaxation of the tendon reflexes is one of the most discriminating signs of hypothyroidism. In elderly people the disease mimics ageing, so test TSH in anyone with cognitive decline.",
+   "whyNot": [
+    "Myxoedema causes non-pitting swelling; pitting oedema points to cardiac, renal or venous causes.",
+    "",
+    "Hyper-reflexia and ill-sustained clonus are features of thyrotoxicosis.",
+    "Palmar erythema is listed among signs of thyrotoxicosis.",
+    "Lid lag is a thyrotoxic sign."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hypothyroidism.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 659,
+     "page": 637
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 659,
+     "page": 622
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 635,
+     "page": 613
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 26-year-old woman has had heavy periods for 8 months and has not conceived after a year of trying. She feels well apart from mild tiredness. Serum prolactin is mildly raised.",
+   "leadIn": "What is the most appropriate first investigation?",
+   "options": [
+    "Serum cortisol",
+    "MRI of the pituitary",
+    "Pelvic ultrasound",
+    "Serum TSH and free T4",
+    "Mid-luteal progesterone"
+   ],
+   "answer": 3,
+   "explanation": "In young women hypothyroidism may show itself only as menstrual disturbance, infertility or hyperprolactinaemia. Thyroid function should be excluded in all such patients before more complex tests.",
+   "whyNot": [
+    "Cortisol does not explain menorrhagia with raised prolactin.",
+    "Imaging the pituitary comes after excluding hypothyroidism as a cause of a mildly raised prolactin.",
+    "Ultrasound may be useful later but does not address the commonest endocrine cause here.",
+    "",
+    "Ovulation testing is part of infertility work-up but would not identify the likely unifying diagnosis."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hypothyroidism.s3"
+   },
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 658,
+     "page": 621
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 635,
+     "page": 613
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q6",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Thyroid function test patterns",
+   "leadIn": "Pick the single best match from the list for each patient. An option may fit more than one patient, or none at all.",
+   "options": [
+    "Overt primary hypothyroidism",
+    "Subclinical hypothyroidism",
+    "Secondary (central) hypothyroidism",
+    "Non-thyroidal illness (sick euthyroidism)",
+    "Levothyroxine taken only in the days before clinic",
+    "Over-replacement with levothyroxine",
+    "Normal thyroid function",
+    "Thyrotoxic phase of transient thyroiditis",
+    "Thyroid hormone resistance"
+   ],
+   "items": [
+    {
+     "stem": "A 50-year-old woman has fatigue and dry skin. TSH is 46 mU/L (0.3–3.5) and free T4 is 6 pmol/L (10–25).",
+     "answer": 0,
+     "explanation": "Markedly raised TSH with low free T4 is overt primary hypothyroidism.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s4"
+     }
+    },
+    {
+     "stem": "A 61-year-old man is lethargic 3 months after surgery for a large non-functioning pituitary tumour. TSH is 1.2 mU/L and free T4 is 7 pmol/L.",
+     "answer": 2,
+     "explanation": "Two steps: low free T4 with a TSH that is \"normal\" (inappropriately so) points to the pituitary, fitting his surgery. TSH alone would have missed it.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s4"
+     }
+    },
+    {
+     "stem": "A 34-year-old woman has taken levothyroxine 125 μg for 5 years. At clinic free T4 is 28 pmol/L and TSH is 18 mU/L. She admits she often forgets her tablets.",
+     "answer": 4,
+     "explanation": "High T4 with high TSH in a treated patient is the classic pattern of erratic adherence with \"loading\" just before the blood test.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s4"
+     }
+    },
+    {
+     "stem": "A 70-year-old man on day 5 of ICU care for severe pneumonia has TFTs sent. He has no known thyroid disease. TSH is 0.1 mU/L, free T4 is low-normal and T3 is low.",
+     "answer": 3,
+     "explanation": "Abnormal TFTs (usually a low TSH) in serious systemic illness without clinical thyroid disease are sick euthyroidism; repeat after recovery.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 662,
+     "page": 640
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 663,
+     "page": 641
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 664,
+     "page": 642
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 656,
+     "page": 634
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 657,
+     "page": 620
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q7",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Look-alikes of hypothyroidism",
+   "leadIn": "Pick the single best match from the list for each patient. An option may fit more than one patient, or none at all.",
+   "options": [
+    "Non-thyroidal illness",
+    "Subacute (de Quervain’s) thyroiditis",
+    "Post-partum thyroiditis",
+    "Transient hypothyroidism after radioiodine",
+    "Cushing’s syndrome",
+    "Acromegaly",
+    "Secondary hypothyroidism from a pituitary tumour",
+    "Adrenal insufficiency",
+    "Hashimoto’s thyroiditis",
+    "Hypogonadism"
+   ],
+   "items": [
+    {
+     "stem": "A 29-year-old woman had a flu-like illness 10 weeks ago, then a painful, tender neck radiating to her ears with palpitations. Her neck is now only mildly sore. TSH is 12 mU/L, free T4 is low and ESR was raised at the start.",
+     "answer": 1,
+     "explanation": "Two steps: painful tender thyroid after a viral illness with an early thyrotoxic phase is subacute thyroiditis; she is now in the hypothyroid phase, which usually recovers within 4–6 months.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s5"
+     }
+    },
+    {
+     "stem": "A 52-year-old man was given 131I for Graves’ disease 3 months ago. He is a little tired; TSH is 15 mU/L and free T4 is low.",
+     "answer": 3,
+     "explanation": "Hypothyroidism in the first 6 months after 131I may be transient, so lifelong levothyroxine is not automatic.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s5"
+     }
+    },
+    {
+     "stem": "A 45-year-old man has gained weight and feels lethargic and low. He has central obesity, purple abdominal striae, bruising and hypertension. TSH and free T4 are normal.",
+     "answer": 4,
+     "explanation": "Weight gain and lethargy overlap with hypothyroidism, but normal TFTs plus classic signs of glucocorticoid excess point to Cushing’s syndrome.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 668,
+     "page": 646
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 662,
+     "page": 640
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 656,
+     "page": 634
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 79-year-old woman is found drowsy at home in winter. GCS is 9, temperature 31°C, pulse 44/min, sodium 121 mmol/L, glucose 3.1 mmol/L. Her face is puffy and pale, and her daughter says she has been \"slowing down\" for a year. No previous thyroid tests are available.",
+   "leadIn": "Alongside supportive care, what is the most appropriate immediate step?",
+   "options": [
+    "IV liothyronine and hydrocortisone now",
+    "Await TSH and free T4 before any hormone",
+    "Oral levothyroxine 100 μg daily",
+    "Rapid active rewarming to 37°C within an hour",
+    "Hypertonic saline to normalise sodium quickly"
+   ],
+   "answer": 0,
+   "explanation": "This is suspected myxoedema coma. Treatment must start before biochemical confirmation: IV liothyronine 20 μg then 20 μg three times daily, with hydrocortisone (possible secondary disease) after taking blood for TSH, T4 and cortisol. Rewarming should be slow.",
+   "whyNot": [
+    "",
+    "Waiting for results delays treatment of a condition with about 50% mortality.",
+    "Oral levothyroxine is too slow and unreliable in a comatose patient; it is used after 48–72 h.",
+    "Rewarming should be gradual, not rapid.",
+    "Hyponatraemia here is dilutional and is not the first priority; rapid correction is not part of the regimen."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hypothyroidism.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 663,
+     "page": 641
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 660,
+     "page": 623
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 66-year-old man with suspected myxoedema coma is to be given thyroid hormone. The registrar insists on giving hydrocortisone first, before cortisol results are available.",
+   "leadIn": "What is the main reason for giving hydrocortisone?",
+   "options": [
+    "To reduce cerebral oedema",
+    "To correct hypoglycaemia",
+    "Possible coexisting adrenal failure",
+    "To block conversion of T4 to T3",
+    "To suppress autoimmune thyroiditis"
+   ],
+   "answer": 2,
+   "explanation": "The hypothyroidism may be secondary to pituitary disease with ACTH deficiency. Giving thyroid hormone to someone with adrenal failure can precipitate an adrenal crisis, so steroid cover is given until cortisol is known.",
+   "whyNot": [
+    "Cerebral oedema is not the stated reason for steroid cover.",
+    "Hypoglycaemia is treated with glucose infusion.",
+    "",
+    "Blocking T4→T3 conversion would be counter-productive in hypothyroidism.",
+    "Immunosuppression has no role in the emergency."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hypothyroidism.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 663,
+     "page": 641
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2687,
+     "page": 2687
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 660,
+     "page": 623
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q10",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Levothyroxine decisions",
+   "leadIn": "Pick the single best match from the list for each patient. An option may fit more than one patient, or none at all.",
+   "options": [
+    "Start levothyroxine 100 μg daily",
+    "Start 50 μg daily and step up every 3 weeks",
+    "Start 25 μg daily and increase slowly with ECG monitoring",
+    "Increase the dose by 25–50 μg daily",
+    "Reduce the dose",
+    "Keep the same dose and re-check TFTs at 6 weeks",
+    "Separate levothyroxine from iron and calcium tablets",
+    "Increase the dose as soon as pregnancy is confirmed",
+    "Stop levothyroxine and re-check TSH in 6 weeks",
+    "Add liothyronine to levothyroxine"
+   ],
+   "items": [
+    {
+     "stem": "A 30-year-old fit woman has newly diagnosed autoimmune hypothyroidism (TSH 38 mU/L, low free T4).",
+     "answer": 0,
+     "explanation": "Young, fit patients can safely start at a full dose of about 100 μg daily.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s7"
+     }
+    },
+    {
+     "stem": "A 74-year-old man with stable angina has TSH 40 mU/L and low free T4.",
+     "answer": 2,
+     "explanation": "In ischaemic heart disease replacement can provoke ischaemia, MI or sudden death, so start at 25 μg and titrate slowly.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s7"
+     }
+    },
+    {
+     "stem": "A 33-year-old woman stable on levothyroxine 100 μg has a positive pregnancy test at 6 weeks.",
+     "answer": 7,
+     "explanation": "Requirements rise in pregnancy (by about 25–50 μg/day); undertreatment is linked to impaired fetal brain development.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s7"
+     }
+    },
+    {
+     "stem": "A 55-year-old woman started levothyroxine 100 μg 2 weeks ago. A repeat TSH is still 22 mU/L and she asks for a higher dose.",
+     "answer": 5,
+     "explanation": "Two steps: levothyroxine has a 7-day half-life and TSH takes weeks to reach steady state, so testing at 2 weeks is too early. Keep the dose and re-check after at least 6 weeks.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 662,
+     "page": 640
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 663,
+     "page": 641
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1301,
+     "page": 1279
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 635,
+     "page": 613
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q11",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Explaining abnormal results in hypothyroid patients",
+   "leadIn": "Pick the single best match from the list for each patient. An option may fit more than one patient, or none at all.",
+   "options": [
+    "Excess ADH with impaired free-water clearance",
+    "Coexisting pernicious anaemia",
+    "Iron loss from menorrhagia",
+    "Hypothyroid myopathy",
+    "Hypothyroid dyslipidaemia",
+    "Pericardial effusion",
+    "Non-thyroidal illness",
+    "Erratic adherence with pre-clinic loading",
+    "Coeliac disease",
+    "Amiodarone effect"
+   ],
+   "items": [
+    {
+     "stem": "A 64-year-old woman with newly diagnosed hypothyroidism is clinically euvolaemic and takes no diuretics. Serum sodium is 126 mmol/L.",
+     "answer": 0,
+     "explanation": "Hyponatraemia in hypothyroidism comes from excess ADH plus impaired free-water excretion.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s4"
+     }
+    },
+    {
+     "stem": "A 51-year-old woman with autoimmune hypothyroidism and patches of vitiligo has Hb 98 g/L and MCV 112 fL.",
+     "answer": 1,
+     "explanation": "Two steps: macrocytic anaemia in someone with autoimmune thyroid disease and vitiligo suggests associated autoimmune pernicious anaemia.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s4"
+     }
+    },
+    {
+     "stem": "A 47-year-old man with untreated hypothyroidism has proximal weakness and aching. CK is 900 U/L and AST is mildly raised. He takes no statin.",
+     "answer": 3,
+     "explanation": "Raised CK (with AST) and proximal weakness reflect hypothyroid myopathy.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s4"
+     }
+    },
+    {
+     "stem": "A 39-year-old woman on 175 μg levothyroxine has a persistently raised TSH although pill counts confirm good adherence. She has bloating, loose stools and microcytic anaemia.",
+     "answer": 8,
+     "explanation": "When adherence is confirmed, persistent high TSH plus diarrhoea and iron-deficiency picture suggests coeliac disease causing malabsorption.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 658,
+     "page": 621
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 635,
+     "page": 613
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 663,
+     "page": 641
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 659,
+     "page": 622
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 46-year-old woman has a TSH of 12 mU/L on two tests 3 months apart. Free T4 is normal and anti-TPO antibodies are positive. She has no symptoms and is not planning pregnancy.",
+   "leadIn": "Following Davidson, what is the best management?",
+   "options": [
+    "Reassure and discharge",
+    "Repeat TSH in one year only",
+    "Measure serum T3",
+    "Arrange a radioisotope scan",
+    "Start levothyroxine"
+   ],
+   "answer": 4,
+   "explanation": "This is subclinical hypothyroidism with two markers of high progression risk (positive anti-TPO and TSH > 10 mIU/L). Davidson advises treating early rather than risking loss to follow-up and later profound hypothyroidism.",
+   "whyNot": [
+    "Discharge risks missed progression to overt disease.",
+    "Yearly monitoring suits low-risk subclinical cases, not one with positive antibodies and TSH > 10.",
+    "T3 does not reliably distinguish hypo- from euthyroidism.",
+    "Isotope scanning is used for thyrotoxicosis, not for subclinical hypothyroidism.",
+    ""
+   ],
+   "studyRef": {
+    "sectionId": "endo-hypothyroidism.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 664,
+     "page": 642
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 660,
+     "page": 623
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 68-year-old man has severe hypothyroidism that has gone untreated for many years. An ECG is recorded.",
+   "leadIn": "Which ECG pattern is most typical?",
+   "options": [
+    "Atrial fibrillation with a fast ventricular rate",
+    "Sinus bradycardia with low-voltage complexes",
+    "Sinus tachycardia with ST depression",
+    "Short PR interval with delta waves",
+    "Tall peaked T waves"
+   ],
+   "answer": 1,
+   "explanation": "Severe, prolonged hypothyroidism classically gives sinus bradycardia, low-voltage QRS complexes and ST-segment/T-wave abnormalities.",
+   "whyNot": [
+    "AF is a feature of thyrotoxicosis, especially in the elderly.",
+    "",
+    "Sinus tachycardia fits thyrotoxicosis.",
+    "Delta waves indicate pre-excitation, unrelated to thyroid status.",
+    "Peaked T waves suggest hyperkalaemia."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hypothyroidism.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 662,
+     "page": 640
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A medical student is asked about the causes of hypothyroidism in the UK, an iodine-sufficient country.",
+   "leadIn": "Which pair of causes accounts for more than 90% of cases?",
+   "options": [
+    "Pituitary tumours and Sheehan’s syndrome",
+    "Iodine deficiency and dyshormonogenesis",
+    "Amiodarone and lithium",
+    "Autoimmune thyroiditis and post-ablative thyroid failure",
+    "Subacute and post-partum thyroiditis"
+   ],
+   "answer": 3,
+   "explanation": "Outside iodine-deficient areas, autoimmune (Hashimoto’s) thyroiditis and thyroid failure after 131I or surgery for thyrotoxicosis cause over 90% of hypothyroidism.",
+   "whyNot": [
+    "Central causes make up under 1%.",
+    "Iodine deficiency is the worldwide leader but not in iodine-replete countries; dyshormonogenesis is rare.",
+    "Drug causes are real but a minority.",
+    "",
+    "Transient thyroiditis usually recovers and is a minority cause."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hypothyroidism.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 661,
+     "page": 639
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 458,
+     "page": 458
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 64-year-old man takes amiodarone for recurrent ventricular tachycardia; his cardiologist says there is no alternative. He is tired and his TSH is 25 mU/L with low free T4.",
+   "leadIn": "What is the most appropriate management?",
+   "options": [
+    "Start levothyroxine and continue amiodarone",
+    "Stop amiodarone and repeat TFTs in 3 months",
+    "Start carbimazole",
+    "Give radioiodine",
+    "Give prednisolone"
+   ],
+   "answer": 0,
+   "explanation": "Amiodarone-induced hypothyroidism is treated with levothyroxine for as long as the drug is needed; the amiodarone can continue.",
+   "whyNot": [
+    "",
+    "Stopping a needed antiarrhythmic is unnecessary; hypothyroidism is easily replaced.",
+    "Carbimazole treats thyrotoxicosis and would worsen hypothyroidism.",
+    "Radioiodine ablates the gland and is a treatment for hyperthyroidism.",
+    "Steroids do not treat hypothyroidism; the deficiency is simply replaced with levothyroxine."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hypothyroidism.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 669,
+     "page": 647
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 662,
+     "page": 640,
+     "figure": "Fig. 18.6"
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q16",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 64-year-old woman has 6 months of headaches and lethargy. Confrontation testing shows a bitemporal visual field loss. TSH is 2.1 mU/L (0.3–3.5) and free T4 is 7 pmol/L (10–25).",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Subclinical hypothyroidism",
+    "Overt primary hypothyroidism",
+    "Secondary hypothyroidism from pituitary disease",
+    "Non-thyroidal illness",
+    "Normal thyroid function"
+   ],
+   "answer": 2,
+   "explanation": "**Step 1:** free T4 is clearly low, so she is hypothyroid. **Step 2:** in primary failure the TSH should be high (usually > 20 mIU/L); here it is within range, which is _inappropriately_ normal. **Step 3:** headache plus bitemporal field loss point to a pituitary macroadenoma compressing the chiasm. So this is secondary hypothyroidism. TSH alone would have looked reassuring; this is why free T4 is essential when pituitary disease is possible. Remember to check cortisol before replacing thyroxine.",
+   "whyNot": [
+    "Subclinical hypothyroidism has a raised TSH with normal T4, the opposite of this pattern.",
+    "Primary disease would raise TSH well above the reference range.",
+    "",
+    "She is not acutely ill, and the field defect points elsewhere.",
+    "A free T4 of 7 pmol/L is clearly below range."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hypothyroidism.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 656,
+     "page": 634
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 662,
+     "page": 640
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 657,
+     "page": 620
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 663,
+     "page": 641
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q17",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 48-year-old woman has needed escalating levothyroxine doses (now 175 μg) and her TSH is still 11 mU/L. Pharmacy records and pill counts confirm she takes it every morning, together with her ferrous sulphate and calcium carbonate tablets at breakfast. Coeliac serology is negative.",
+   "leadIn": "What is the most likely reason for her raised TSH?",
+   "options": [
+    "Lower T4 clearance with ageing",
+    "New Graves’ disease",
+    "A TSH-secreting pituitary adenoma",
+    "Thyroid hormone resistance",
+    "Reduced absorption from co-administered iron and calcium"
+   ],
+   "answer": 4,
+   "explanation": "**Step 1:** persistently high TSH on a seemingly adequate dose is most often poor adherence, but that has been excluded here. **Step 2:** the next things to check are interfering drugs and malabsorption; coeliac disease is negative. **Step 3:** ferrous sulphate and calcium carbonate both interfere with intestinal absorption of levothyroxine. Advise taking it on an empty stomach about 30 minutes before food and apart from other medicines, then re-check TSH after 6–8 weeks.",
+   "whyNot": [
+    "Ageing reduces clearance, which lowers the requirement.",
+    "Graves’ developing in a hypothyroid patient lowers the dose needed, not raises it.",
+    "A TSH-oma would raise T4 too, and is rare; the drug history explains things.",
+    "Hormone resistance is rare and gives raised T4 with unsuppressed TSH.",
+    ""
+   ],
+   "studyRef": {
+    "sectionId": "endo-hypothyroidism.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 663,
+     "page": 641
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2685,
+     "page": 2685
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2686,
+     "page": 2686
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 635,
+     "page": 613
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 658,
+     "page": 636
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q18",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 30-year-old woman became hypothyroid 5 months after delivery, following a brief thyrotoxic phase. She was started on levothyroxine 75 μg. For the last 4 months her TSH has been normal on this dose.",
+   "leadIn": "What is the best next step?",
+   "options": [
+    "Continue 75 μg for life",
+    "Lower the dose to 50 μg daily and re-test TSH after 6 weeks",
+    "Stop levothyroxine and never re-test",
+    "Increase to 100 μg daily",
+    "Add liothyronine"
+   ],
+   "answer": 1,
+   "explanation": "**Step 1:** the course (thyrotoxic then hypothyroid within a year of delivery) is post-partum thyroiditis, a transient thyroiditis. **Step 2:** such patients may not need lifelong replacement. **Step 3:** Davidson’s algorithm: once TSH has stayed normal for 4 months, cut the dose to 50 μg/day and check TSH after 6 weeks; if it is still normal, stop T4 and check again 6 weeks later. Keep following her, because antibody-positive women may progress to permanent hypothyroidism, and it can recur after later pregnancies.",
+   "whyNot": [
+    "Lifelong treatment is not automatic in transient thyroiditis.",
+    "",
+    "Abrupt stopping without follow-up misses persistent or recurrent hypothyroidism.",
+    "Her TSH is normal, so a higher dose would over-replace.",
+    "Combination T3/T4 is controversial and has no role here."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hypothyroidism.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 662,
+     "page": 640,
+     "figure": "Fig. 18.6"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 669,
+     "page": 647
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 658,
+     "page": 621
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q19",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Diagnosis in a patient with thyroid underactivity",
+   "leadIn": "Pick the single best match from the list for each patient. An option may fit more than one patient, or none at all.",
+   "options": [
+    "Hashimoto’s thyroiditis",
+    "Spontaneous atrophic hypothyroidism",
+    "Myxoedema coma",
+    "Congenital hypothyroidism",
+    "Pendred’s syndrome",
+    "Endemic iodine-deficiency goitre",
+    "Lithium-induced hypothyroidism",
+    "Riedel’s thyroiditis",
+    "Secondary hypothyroidism",
+    "Subclinical hypothyroidism",
+    "Non-thyroidal illness"
+   ],
+   "items": [
+    {
+     "stem": "A newborn’s routine heel-prick blood spot shows a high TSH. Clinically the baby looks well.",
+     "answer": 3,
+     "explanation": "Neonatal blood-spot screening detects congenital hypothyroidism (about 1 in 3500 births); early T4 prevents cretinism.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s4"
+     }
+    },
+    {
+     "stem": "A 9-year-old girl has had a goitre since early childhood and bilateral sensorineural hearing loss. TSH is raised and free T4 is low.",
+     "answer": 4,
+     "explanation": "Goitrous hypothyroidism with sensorineural deafness is Pendred’s syndrome, a form of dyshormonogenesis.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s2"
+     }
+    },
+    {
+     "stem": "A 38-year-old man has had bipolar disorder for 15 years on the same mood stabiliser. He now has a small diffuse goitre, TSH 18 mU/L and low free T4. Anti-TPO is negative.",
+     "answer": 6,
+     "explanation": "Two steps: long-term bipolar treatment means lithium, which inhibits thyroid hormone production and can cause goitre and hypothyroidism.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s2"
+     }
+    },
+    {
+     "stem": "A 66-year-old woman has TSH 26 mU/L and low free T4. There is no goitre, no relevant drugs and no previous thyroid treatment. Anti-TPO is negative.",
+     "answer": 1,
+     "explanation": "Permanent primary hypothyroidism without goitre is spontaneous atrophic hypothyroidism; blocking TSH receptor antibodies may be more relevant than anti-TPO.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 636,
+     "page": 614
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 634,
+     "page": 612
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 51,
+     "page": 51
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 661,
+     "page": 639
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 668,
+     "page": 646
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q20",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Treating thyroid underactivity in special situations",
+   "leadIn": "Pick the single best match from the list for each patient. An option may fit more than one patient, or none at all.",
+   "options": [
+    "IV liothyronine plus hydrocortisone",
+    "Oral levothyroxine 25 μg daily with slow titration",
+    "Oral levothyroxine 100 μg daily",
+    "Increase levothyroxine by 25–50 μg daily",
+    "Titrate levothyroxine to free T4 rather than TSH",
+    "No thyroid treatment; repeat TFTs after recovery",
+    "Temporary levothyroxine, then trial off",
+    "Start levothyroxine for subclinical disease",
+    "No treatment; yearly TSH"
+   ],
+   "items": [
+    {
+     "stem": "A 58-year-old man takes hydrocortisone and levothyroxine for hypopituitarism after pituitary surgery. His TSH is undetectable but free T4 is in the lower third of the range and he feels sluggish.",
+     "answer": 4,
+     "explanation": "Two steps: in secondary hypothyroidism TSH cannot guide dosing, so the undetectable TSH is meaningless. Titrate to keep free T4 in the upper half of the range.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s7"
+     }
+    },
+    {
+     "stem": "An 82-year-old woman is found drowsy and hypothermic with bradycardia, a puffy pale face and hyponatraemia.",
+     "answer": 0,
+     "explanation": "Suspected myxoedema coma: IV liothyronine plus hydrocortisone, started before results return.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s6"
+     }
+    },
+    {
+     "stem": "A 40-year-old woman has TSH 7 mU/L with normal free T4 on two occasions. She is asymptomatic, anti-TPO negative, has normal lipids and is not planning pregnancy.",
+     "answer": 8,
+     "explanation": "Low-risk subclinical hypothyroidism (TSH < 10, antibody negative, no symptoms) can be monitored with a yearly TSH.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 663,
+     "page": 641
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2685,
+     "page": 2685
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 660,
+     "page": 623
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 664,
+     "page": 642
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q21",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "An 80-year-old man with long-standing untreated hypothyroidism is admitted confused after a chest infection.",
+   "leadIn": "Which finding most supports myxoedema coma?",
+   "options": [
+    "Blood glucose 18 mmol/L",
+    "Temperature 39.5°C",
+    "Serum sodium 150 mmol/L",
+    "Core temperature 30°C",
+    "Pulse 130/min"
+   ],
+   "answer": 3,
+   "explanation": "Hypothermia (sometimes as low as 25°C) is typical of myxoedema coma, with bradycardia, hypoventilation, hypoglycaemia and hyponatraemia.",
+   "whyNot": [
+    "Hypoglycaemia, not hyperglycaemia, is expected.",
+    "Fever is a feature of thyroid storm rather than myxoedema coma.",
+    "Hyponatraemia, not hypernatraemia, is expected.",
+    "",
+    "Bradycardia is expected; tachycardia suggests thyrotoxicosis or another process."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hypothyroidism.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 663,
+     "page": 641
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 660,
+     "page": 623
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 661,
+     "page": 639
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q22",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 30-year-old woman has a screening blood panel at a private clinic. TSH and free T4 are normal, but anti-TPO antibodies are positive. She is well and has no goitre.",
+   "leadIn": "Which statement is most accurate?",
+   "options": [
+    "Anti-TPO is found in a notable minority of healthy people",
+    "She has Hashimoto’s thyroiditis and needs levothyroxine",
+    "She has subclinical hypothyroidism",
+    "She needs a thyroid ultrasound to exclude lymphoma",
+    "She should start low-dose liothyronine"
+   ],
+   "answer": 0,
+   "explanation": "Anti-TPO antibodies are found in 8–27% of the normal population: highly sensitive for autoimmune thyroid disease but not specific. With normal TFTs she needs no treatment, although antibodies mark a higher future risk.",
+   "whyNot": [
+    "",
+    "Normal TFTs do not justify levothyroxine.",
+    "Subclinical hypothyroidism needs a raised TSH.",
+    "The lymphoma risk in Hashimoto’s is exceedingly small and antibodies alone do not warrant imaging.",
+    "T3 therapy has no role in a euthyroid person."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hypothyroidism.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 659,
+     "page": 637
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 662,
+     "page": 640,
+     "figure": "Fig. 18.6"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 668,
+     "page": 646
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 29-year-old woman on levothyroxine 100 μg finds she is 7 weeks pregnant.",
+   "leadIn": "Why does her levothyroxine requirement usually increase?",
+   "options": [
+    "Morning sickness stops absorption completely",
+    "Progesterone induces hepatic T4 clearance",
+    "Oestrogen raises thyroxine-binding globulin",
+    "The fetal thyroid suppresses the maternal gland",
+    "The placenta secretes TSH-blocking antibodies"
+   ],
+   "answer": 2,
+   "explanation": "Pregnancy (like oestrogen therapy) increases thyroxine-binding globulin, raising the dose needed by about 25–50 μg/day. Inadequate treatment is linked to impaired fetal brain development.",
+   "whyNot": [
+    "Nausea may affect intake but is not the main reason.",
+    "This is not the mechanism given; enzyme-inducing drugs, not progesterone, are the clearance example.",
+    "",
+    "The fetal gland does not suppress the mother’s thyroid.",
+    "This is not a recognised mechanism of increased need."
+   ],
+   "studyRef": {
+    "sectionId": "endo-hypothyroidism.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 663,
+     "page": 641
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1301,
+     "page": 1279
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q24",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Mechanisms behind hypothyroid signs",
+   "leadIn": "Pick the single best match from the list for each patient. An option may fit more than one patient, or none at all.",
+   "options": [
+    "Carotenaemia",
+    "Jaundice from liver dysfunction",
+    "Median nerve compression by tissue infiltration",
+    "Vitamin B12 neuropathy",
+    "Pericardial effusion",
+    "Congestive cardiac failure",
+    "Hyponatraemia from impaired water excretion",
+    "Hypothyroid myopathy",
+    "Vasoconstriction and anaemia",
+    "Dermal myxoedema"
+   ],
+   "items": [
+    {
+     "stem": "A 61-year-old woman with untreated hypothyroidism has a lemon-yellow tint to her skin. Her sclerae are white and bilirubin is normal.",
+     "answer": 0,
+     "explanation": "Yellow skin with white sclerae and normal bilirubin in hypothyroidism is carotenaemia.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s3"
+     }
+    },
+    {
+     "stem": "A 45-year-old woman with hypothyroidism wakes at night with tingling in her thumb, index and middle fingers; Tinel’s sign is positive at the wrist.",
+     "answer": 2,
+     "explanation": "Carpal tunnel syndrome results from mucopolysaccharide infiltration compressing the median nerve.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s3"
+     }
+    },
+    {
+     "stem": "A 70-year-old man with long-untreated hypothyroidism is breathless. CXR shows a large globular cardiac silhouette with clear lung fields, and the ECG shows low-voltage complexes.",
+     "answer": 4,
+     "explanation": "Two steps: globular heart with clear lungs and low voltage means fluid around the heart rather than failure. Pericardial effusion is a recognised rare feature.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 662,
+     "page": 640
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 659,
+     "page": 637
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q25",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 63-year-old woman has had Hashimoto’s thyroiditis for 20 years. She asks which thyroid malignancy her condition predisposes to.",
+   "leadIn": "Which malignancy is linked with Hashimoto’s thyroiditis?",
+   "options": [
+    "Follicular adenoma",
+    "Medullary carcinoma",
+    "Anaplastic carcinoma",
+    "Parathyroid carcinoma",
+    "Thyroid lymphoma"
+   ],
+   "answer": 4,
+   "explanation": "Hashimoto’s thyroiditis carries an increased (though exceedingly rare) risk of thyroid lymphoma.",
+   "whyNot": [
+    "Follicular adenoma is a benign nodule, not the recognised association.",
+    "Medullary carcinoma is not linked with autoimmune thyroiditis.",
+    "Anaplastic carcinoma is not the association given.",
+    "Parathyroid carcinoma is unrelated to autoimmune thyroiditis.",
+    ""
+   ],
+   "studyRef": {
+    "sectionId": "endo-hypothyroidism.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 668,
+     "page": 646
+    }
+   ]
+  },
+  {
+   "id": "endo-hypothyroidism.q26",
+   "kind": "emq",
+   "pool": "mock",
+   "difficulty": 2,
+   "theme": "Causes of a raised TSH",
+   "leadIn": "Pick the single best match from the list for each patient. An option may fit more than one patient, or none at all.",
+   "options": [
+    "Primary autoimmune hypothyroidism",
+    "Recovery phase of non-thyroidal illness",
+    "Poor adherence to levothyroxine",
+    "Enzyme-inducing drug increasing T4 clearance",
+    "Amiodarone",
+    "Lithium",
+    "Transient hypothyroidism after radioiodine",
+    "Increased requirement in pregnancy",
+    "TSH-secreting pituitary adenoma",
+    "Graves’ disease"
+   ],
+   "items": [
+    {
+     "stem": "A 63-year-old man is on the ward recovering from septic shock, 2 weeks after leaving ICU. He has no thyroid symptoms. TSH is 9 mU/L and free T4 is normal.",
+     "answer": 1,
+     "explanation": "TSH can rise to hypothyroid levels during convalescence from systemic illness; re-evaluate after recovery rather than treating.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s5"
+     }
+    },
+    {
+     "stem": "A 36-year-old woman stable on levothyroxine 100 μg has a TSH of 8 mU/L at 10 weeks of gestation.",
+     "answer": 7,
+     "explanation": "Pregnancy increases levothyroxine requirement (raised TBG), so the dose should be increased.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s7"
+     }
+    },
+    {
+     "stem": "A 44-year-old man stable on levothyroxine 100 μg for years developed epilepsy and started carbamazepine 3 months ago. His TSH is now 11 mU/L and he says he never misses a dose.",
+     "answer": 3,
+     "explanation": "Two steps: carbamazepine is an enzyme inducer that increases T4 clearance, raising the levothyroxine requirement.",
+     "studyRef": {
+      "sectionId": "endo-hypothyroidism.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 664,
+     "page": 642
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 663,
+     "page": 641
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1301,
+     "page": 1279
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "endo-hypothyroidism.o1",
+   "sectionId": "endo-hypothyroidism.s3",
+   "cite": {
+    "book": "kcEssentials",
+    "pdfPage": 659,
+    "page": 622,
+    "figure": "Fig. 14.6"
+   },
+   "identify": "Hypothyroid symptoms and signs: puffy face with periorbital oedema, loss of the outer eyebrows, dry thin hair, \"peaches and cream\" complexion, slow-relaxing reflexes, bradycardia, goitre."
+  },
+  {
+   "id": "endo-hypothyroidism.o2",
+   "sectionId": "endo-hypothyroidism.s3",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 634,
+    "page": 612,
+    "figure": "Fig. 21.22"
+   },
+   "identify": "Map of hypothyroid symptoms and signs (e.g. slow-relaxing reflexes, bradycardia, periorbital oedema, cold peripheries). Features in bold italics have the greatest discriminant value, so name those first in an OSCE."
+  },
+  {
+   "id": "endo-hypothyroidism.o3",
+   "sectionId": "endo-hypothyroidism.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 662,
+    "page": 640,
+    "figure": "Fig. 18.6"
+   },
+   "identify": "Approach to raised TSH with low T4: exclude non-thyroidal illness, amiodarone/lithium and transient thyroiditis; TSH > 20 mIU/L confirms primary disease; anti-TPO and goitre separate Hashimoto’s from atrophic hypothyroidism."
+  },
+  {
+   "id": "endo-hypothyroidism.o4",
+   "sectionId": "endo-hypothyroidism.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 668,
+    "page": 646,
+    "figure": "Fig. 18.9"
+   },
+   "identify": "Transient thyroiditis TFT chart: thyrotoxic phase (high T4/T3, suppressed TSH) for 4–6 weeks, then hypothyroid phase (high TSH), then recovery by 4–6 months."
+  },
+  {
+   "id": "endo-hypothyroidism.o5",
+   "sectionId": "endo-hypothyroidism.s1",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 657,
+    "page": 635,
+    "figure": "Fig. 18.4"
+   },
+   "identify": "Inverse log-linear TSH–free T4 curve: small falls in T4 give large rises in TSH, which makes TSH the most sensitive test of primary thyroid failure."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:45:15.941Z",
+  "contentHash": "5c3e8bceb6c91894047a048678c401a5128d5934604dfdc839249564e4f56126"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:45:15.950Z",
+  "contentHash": "5c3e8bceb6c91894047a048678c401a5128d5934604dfdc839249564e4f56126",
+  "checkerVersion": "source-check-v1"
+ }
+}

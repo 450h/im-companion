@@ -1,0 +1,3281 @@
+{
+ "topicId": "endo-cushing",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "endo-cushing.s1",
+   "title": "Definition, causes and pseudo-Cushing's states",
+   "objectiveIdx": [
+    0,
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Cushing's syndrome** is the clinical state produced by **prolonged, inappropriately high glucocorticoid (cortisol) activity**, whatever the source. By far the **commonest cause overall is iatrogenic** — long-term synthetic steroids such as prednisolone. **Endogenous (spontaneous) Cushing's is rare**, with fewer than 5 new cases per million people per year.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 688,
+       "page": 666,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 689,
+       "page": 667,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 622,
+       "page": 600,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 679,
+       "page": 642,
+       "chapter": "Endocrine disease"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Syndrome vs disease:** _Cushing's syndrome_ is the clinical picture from any cause. _Cushing's disease_ is one specific cause — an **ACTH-secreting pituitary adenoma**. Every patient with Cushing's disease has the syndrome, but not the other way round.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 43,
+       "page": 43,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 689,
+       "page": 667,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Classification of endogenous Cushing's syndrome (Davidson)",
+     "columns": [
+      "Group",
+      "Cause",
+      "Approx. share",
+      "Notes"
+     ],
+     "rows": [
+      [
+       "ACTH-dependent (~80%)",
+       "Pituitary corticotroph adenoma (Cushing's disease)",
+       "~70%",
+       "Commonest endogenous cause; women 4 : 1"
+      ],
+      [
+       "ACTH-dependent",
+       "Ectopic ACTH syndrome",
+       "~10%",
+       "Small-cell lung cancer, bronchial carcinoid, other neuroendocrine tumours; commoner in men"
+      ],
+      [
+       "ACTH-independent (~20%)",
+       "Adrenal adenoma",
+       "~15%",
+       "Also 4 times commoner in women"
+      ],
+      [
+       "ACTH-independent",
+       "Adrenocortical carcinoma",
+       "~5%",
+       "Usually large (> 5 cm) with other features of malignancy"
+      ],
+      [
+       "ACTH-independent (rare)",
+       "AIMAH, PPNAD, McCune–Albright syndrome",
+       "< 1% together",
+       "Also aberrant adrenal receptors (e.g. GIP, catecholamines) and germline protein kinase A changes"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 689,
+       "page": 667,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 622,
+       "page": 600,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 680,
+       "page": 643,
+       "chapter": "Endocrine disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 691,
+       "page": 669,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Sources of ectopic ACTH",
+     "items": [
+      "**Small-cell lung carcinoma** — the commonest paraneoplastic cause",
+      "**Bronchial carcinoid** and other neuroendocrine tumours (e.g. of pancreas or thymus)",
+      "Occult tumours such as **medullary thyroid carcinoma**",
+      "The tumour lies outside the pituitary, so its ACTH output **escapes cortisol negative feedback**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 689,
+       "page": 667,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 490,
+       "page": 490,
+       "chapter": "Diseases of the adrenal glands"
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 229,
+       "page": 229,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 44,
+       "page": 44,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Pseudo-Cushing's states (cortisol excess without a tumour)",
+     "items": [
+      "**Alcohol excess** — can mimic Cushing’s both clinically and biochemically; everything settles once drinking stops",
+      "**Major depressive illness** — biochemical abnormalities only, with some clinical overlap",
+      "**Primary obesity** — mild biochemical changes, some clinical overlap"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 689,
+       "page": 667,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 680,
+       "page": 643,
+       "chapter": "Endocrine disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 622,
+       "page": 600,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Always take a full drug history first.** Even **inhaled or topical** steroids can cause Cushing's in susceptible people. An inhaled steroid combined with a strong **CYP3A4 inhibitor such as ritonavir** can produce severe iatrogenic Cushing's.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 689,
+       "page": 667,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 692,
+       "page": 670,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**The percentages differ between books.** Davidson's text says pituitary disease is ~80% of endogenous cases, while its classification box gives 80% for _all_ ACTH-dependent causes (pituitary ~70%, ectopic ~10%). KC Essentials says about two-thirds are pituitary; Step-Up quotes ectopic ACTH at 10–15% and adrenal tumours at ~20%. For the exam: **pituitary is the commonest endogenous cause, adrenal ~20%, ectopic ~10%.**",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 689,
+       "page": 667,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 679,
+       "page": 642,
+       "chapter": "Endocrine disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 490,
+       "page": 490,
+       "chapter": "Diseases of the adrenal glands"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.s2",
+   "title": "Cushing's disease",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Cushing's disease** means cortisol excess driven by **inappropriate ACTH secretion from the pituitary** — usually a corticotroph **adenoma**, less often corticotroph hyperplasia. The constant ACTH drive causes **bilateral adrenal hyperplasia**, and adrenal androgen excess is common. It is the **second commonest cause of Cushing's syndrome** after steroid therapy, and the **commonest endogenous cause**. It is about **four times more frequent in women**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 689,
+       "page": 667,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 680,
+       "page": 643,
+       "chapter": "Endocrine disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 490,
+       "page": 490,
+       "chapter": "Diseases of the adrenal glands"
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 228,
+       "page": 228,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Key features of the tumour",
+     "items": [
+      "Usually a **microadenoma (< 10 mm)**, so **mass effects are rare** — hypopituitarism, visual field loss and stalk-disconnection hyperprolactinaemia are unusual",
+      "On classical staining it is a **basophil** adenoma (prolactin/GH tumours are acidophil; chromophobe tumours are usually non-functioning)",
+      "Pituitary MRI finds only **about 60%** of ACTH-secreting microadenomas",
+      "The tumour keeps **partial sensitivity to cortisol negative feedback**, so **high-dose dexamethasone suppresses** ACTH and cortisol and **CRH stimulates** ACTH — unlike ectopic tumours"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 689,
+       "page": 667,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 691,
+       "page": 669,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 702,
+       "page": 680,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 44,
+       "page": 44,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A **random cortisol is of no diagnostic value** when Cushing's is suspected — cortisol varies through the day (highest on waking, lowest at night) and rises with any stress. Diagnosis rests on **dynamic tests**, mainly dexamethasone suppression.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 702,
+       "page": 680,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 623,
+       "page": 601,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 687,
+       "page": 665,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Because pituitary tumours keep partial feedback, ACTH and cortisol in Cushing's disease are usually **lower than in ectopic ACTH syndrome**, which is why classic slow-onset Cushingoid features (rather than cachexia) are typical.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 689,
+       "page": 667,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "fa2ck11",
+      "pdfPage": 229,
+      "page": 229,
+      "chapter": "Endocrinology",
+      "figure": "FIGURE 2.3-21"
+     },
+     "note": "Look at: the hypothalamic CRH → pituitary ACTH (and MSH) → adrenal cortisol axis that a corticotroph adenoma over-drives."
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.s3",
+   "title": "Pathophysiology",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Normally **over 95% of circulating cortisol is protein-bound**, mainly to corticosteroid-binding globulin (**CBG**, which oestrogens increase); only the **free fraction is active**. Cortisol can bind the **mineralocorticoid receptor**, but in MR-containing cells such as the kidney it is normally inactivated to cortisone by **11β-hydroxysteroid dehydrogenase type 2 (11β-HSD2)**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 687,
+       "page": 665,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "From excess cortisol (or ACTH) to clinical feature",
+     "columns": [
+      "Mechanism",
+      "Clinical result"
+     ],
+     "rows": [
+      [
+       "Protein catabolism, impaired collagen synthesis",
+       "Thin skin, easy bruising, purple striae, proximal myopathy, osteoporosis"
+      ],
+      [
+       "Insulin antagonism",
+       "Glucose intolerance or diabetes"
+      ],
+      [
+       "Enhanced catecholamine action; mineralocorticoid effect",
+       "Hypertension"
+      ],
+      [
+       "Very high cortisol saturates renal 11β-HSD2 → cortisol activates the MR",
+       "Hypokalaemic alkalosis, which worsens myopathy and hyperglycaemia (less insulin secretion)"
+      ],
+      [
+       "Suppressed neutrophil and T-cell function",
+       "Infections, poor wound healing"
+      ],
+      [
+       "High ACTH acting on melanocortin 1 receptors in skin",
+       "Pigmentation (ACTH-dependent causes only)"
+      ],
+      [
+       "ACTH drives adrenal androgens",
+       "Hirsutism, acne; androgen excess mainly in ACTH-dependent forms. Severe hirsutism or virilisation also suggests an adrenal tumour (Kumar)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 689,
+       "page": 667,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 490,
+       "page": 490,
+       "chapter": "Diseases of the adrenal glands"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 491,
+       "page": 491,
+       "chapter": "Diseases of the adrenal glands"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 680,
+       "page": 643,
+       "chapter": "Endocrine disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 623,
+       "page": 601,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Feedback and ACTH by cause",
+     "columns": [
+      "Cause",
+      "Plasma ACTH",
+      "Feedback to cortisol",
+      "Consequence"
+     ],
+     "rows": [
+      [
+       "Pituitary adenoma (Cushing's disease)",
+       "High or inappropriately normal",
+       "Partly retained",
+       "Suppresses on high-dose dexamethasone"
+      ],
+      [
+       "Ectopic ACTH tumour",
+       "High, often very high",
+       "Lost",
+       "Highest cortisol; pigmentation, hypokalaemia"
+      ],
+      [
+       "Adrenal adenoma or carcinoma",
+       "Suppressed",
+       "Normal pituitary is switched off",
+       "No pigmentation; the opposite adrenal is suppressed (may stay so for a year or more after surgery)"
+      ],
+      [
+       "Exogenous glucocorticoid",
+       "Suppressed",
+       "Normal axis switched off",
+       "Low endogenous cortisol and adrenal androgens"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 689,
+       "page": 667,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 692,
+       "page": 670,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 490,
+       "page": 490,
+       "chapter": "Diseases of the adrenal glands"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 622,
+       "page": 600,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 624,
+       "page": 602,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Pigmentation reflects ACTH, not cortisol.** It appears only in ACTH-dependent disease, most strikingly in ectopic ACTH syndrome — never with an adrenal tumour or steroid therapy.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 622,
+       "page": 600,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 495,
+       "page": 495,
+       "chapter": "Diseases of the adrenal glands"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 689,
+       "page": 667,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In **iatrogenic Cushing's there is no androgen excess**: the exogenous steroid suppresses ACTH, so adrenal androgen production falls. Virilisation in a woman points to an ACTH-dependent cause or, per Kumar, an adrenal tumour.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 490,
+       "page": 490,
+       "chapter": "Diseases of the adrenal glands"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 491,
+       "page": 491,
+       "chapter": "Diseases of the adrenal glands"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 623,
+       "page": 601,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Why is potassium low?** Davidson explains hypokalaemia by very high cortisol **overwhelming renal 11β-HSD2** (typical of ectopic ACTH). Zero to Finals mentions an adrenal adenoma that also secretes aldosterone — possible, but not the main mechanism. Follow Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 689,
+       "page": 667,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 45,
+       "page": 45,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "stepup6",
+      "pdfPage": 493,
+      "page": 493,
+      "chapter": "Diseases of the adrenal glands",
+      "figure": "FIGURE 4-9"
+     },
+     "note": "Look at: masculinisation from androgen excess in a 46,XX patient — seen only in ACTH-dependent Cushing syndrome."
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.s4",
+   "title": "Clinical features",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Features of glucocorticoid excess",
+     "columns": [
+      "System",
+      "Features"
+     ],
+     "rows": [
+      [
+       "Habitus",
+       "Central (truncal) obesity, buffalo hump, round plethoric moon face, thin limbs from muscle wasting"
+      ],
+      [
+       "Skin",
+       "Thin skin, easy bruising, wide purple striae (abdomen, breasts, thighs), acne, hirsutism, poor wound healing"
+      ],
+      [
+       "Musculoskeletal",
+       "Proximal (thigh) myopathy; osteoporosis with vertebral and rib fractures, loss of height, back pain; avascular necrosis of the femoral head (especially exogenous steroids)"
+      ],
+      [
+       "Cardiometabolic",
+       "Hypertension, hyperglycaemia or diabetes, hypokalaemia"
+      ],
+      [
+       "Reproductive",
+       "Oligo- or amenorrhoea, low libido, infertility"
+      ],
+      [
+       "Neuropsychiatric",
+       "Depression, insomnia, mania, psychosis"
+      ],
+      [
+       "Other",
+       "Cataracts, peptic ulcer, infections with little inflammatory response; growth arrest in children"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 690,
+       "page": 668,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 680,
+       "page": 643,
+       "chapter": "Endocrine disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 681,
+       "page": 644,
+       "chapter": "Endocrine disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 491,
+       "page": 491,
+       "chapter": "Diseases of the adrenal glands"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Obesity, hypertension, diabetes and osteoporosis are **non-specific**. In an obese patient the features that best favour true Cushing's are **easy bruising, proximal myopathy and thin skin** (plus typical purple striae). Any one feature alone has a low positive predictive value.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 689,
+       "page": 667,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 491,
+       "page": 491,
+       "chapter": "Diseases of the adrenal glands"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Clinical clues to the cause",
+     "columns": [
+      "Clue",
+      "Points to"
+     ],
+     "rows": [
+      [
+       "Short history, weight loss/cachexia, pigmentation, marked hypokalaemia, diabetes, very high ACTH; commoner in men",
+       "Malignant ectopic ACTH (e.g. small-cell lung cancer)"
+      ],
+      [
+       "Classic, slowly developing Cushingoid features in ectopic ACTH syndrome (benign ectopic tumours can mimic pituitary disease clinically and biochemically)",
+       "Less aggressive ectopic source, e.g. bronchial carcinoid"
+      ],
+      [
+       "Severe hirsutism or virilisation",
+       "Adrenal tumour"
+      ],
+      [
+       "Slow onset of typical features in a woman (4 : 1 female predominance)",
+       "Cushing's disease"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 689,
+       "page": 667,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 623,
+       "page": 601,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 680,
+       "page": 643,
+       "chapter": "Endocrine disease"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Mnemonic **CUSHINGOID**: Cataracts, Ulcers, Skin changes (striae, bruising, thinning), Hypertension/Hirsutism, Infections, Necrosis of the femoral head, Glycosuria, Osteoporosis/Obesity, Immunosuppression, Diabetes. Old photographs help date the onset.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 230,
+       "page": 230,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 681,
+       "page": 644,
+       "chapter": "Endocrine disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Glucocorticoid therapy itself **raises the white count (mainly neutrophils)** — do not mistake it for infection. Steroid-treated patients also **fracture at a higher bone density** than people with postmenopausal osteoporosis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 692,
+       "page": 670,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 690,
+      "page": 668,
+      "chapter": "Endocrinology",
+      "figure": "Fig. 18.20"
+     },
+     "note": "Look at: the summary of Cushing's features, and the same patient before and 1 year after trans-sphenoidal removal of a microadenoma."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 623,
+      "page": 601,
+      "chapter": "Endocrinology",
+      "figure": "Fig. 21.15"
+     },
+     "note": "Look at: the full list of symptoms and signs; the bold italic ones are those that best separate Cushing's from simple obesity and hirsutism."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kcEssentials",
+      "pdfPage": 681,
+      "page": 644,
+      "chapter": "Endocrine disease",
+      "figure": "Fig. 14.9"
+     },
+     "note": "Look at: the signs printed in bold — the most useful ones for telling Cushing's from simple obesity."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "fa2ck11",
+      "pdfPage": 230,
+      "page": 230,
+      "chapter": "Endocrinology",
+      "figure": "FIGURE 2.3-22"
+     },
+     "note": "Look at: the physical findings of Cushing syndrome on one figure — useful for spotters."
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.s5",
+   "title": "Investigations and diagnosis",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Diagnosis is **two-step**: first **prove cortisol excess** (Cushing's syndrome), then **find the cause**. Exclude exogenous steroids first, and **avoid testing during acute illness or stress**, which activates the HPA axis and gives false results. No single test is perfect, so tests are combined.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 690,
+       "page": 668,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 691,
+       "page": 669,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 680,
+       "page": 643,
+       "chapter": "Endocrine disease"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Step 1 — confirming Cushing's syndrome (need two concordant abnormal tests)",
+     "columns": [
+      "Test",
+      "Protocol",
+      "Normal result",
+      "Comment"
+     ],
+     "rows": [
+      [
+       "Overnight dexamethasone suppression (ONDST)",
+       "1 mg dexamethasone at 23:00; serum cortisol at 09:00",
+       "Cortisol < 50 nmol/L (1.8 µg/dL)",
+       "Simple screening test; more false positives"
+      ],
+      [
+       "48-h low-dose dexamethasone suppression (LDDST)",
+       "0.5 mg 6-hourly (4 times daily) for 48 h",
+       "Cortisol < 50 nmol/L",
+       "Very sensitive (> 97%); KC calls it the most reliable screen"
+      ],
+      [
+       "Late-night salivary (or serum) cortisol",
+       "Late evening sample; repeat it",
+       "Normal midnight fall in cortisol",
+       "Loss of circadian rhythm in Cushing's"
+      ],
+      [
+       "24-h urinary free cortisol",
+       "At least two collections",
+       "Within assay range",
+       "About 10% of patients are normal on some collections"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 690,
+       "page": 668,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 691,
+       "page": 669,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 623,
+       "page": 601,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 680,
+       "page": 643,
+       "chapter": "Endocrine disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 681,
+       "page": 644,
+       "chapter": "Endocrine disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 492,
+       "page": 492,
+       "chapter": "Diseases of the adrenal glands"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Rules that catch people out",
+     "items": [
+      "**Stop oestrogens (e.g. the pill) for 6 weeks** before testing: they raise CBG, and total-cortisol assays then give false positives",
+      "**Dexamethasone** is used because it does **not cross-react** in cortisol immunoassays; prednisolone may",
+      "A **09:00 cortisol < 100 nmol/L in a Cushingoid patient** suggests **exogenous synthetic steroid** (common) or cyclical endogenous Cushing’s (uncommon)",
+      "Cyclical secretion, obesity, depression and alcohol can all confuse the dynamic tests",
+      "Baseline tests in every case: **electrolytes, glucose, HbA1c and bone density**; FBC may show a raised white count"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 689,
+       "page": 667,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 690,
+       "page": 668,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 623,
+       "page": 601,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 45,
+       "page": 45,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Step 2 — finding the cause",
+     "columns": [
+      "Test",
+      "Result",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "09:00 plasma ACTH",
+       "< 1.1 pmol/L (5 ng/L)",
+       "ACTH-independent (adrenal) → adrenal CT"
+      ],
+      [
+       "09:00 plasma ACTH",
+       "> 3.3 pmol/L (15 ng/L)",
+       "ACTH-dependent (pituitary or ectopic); values in between are a grey area"
+      ],
+      [
+       "High-dose dexamethasone test (48 h of 2 mg every 6 h)",
+       "> 50% fall in cortisol from baseline",
+       "Favours Cushing's disease (about 90% of pituitary cases suppress)"
+      ],
+      [
+       "CRH test (IV human CRH)",
+       "> 20% rise in cortisol or > 50% rise in ACTH",
+       "Favours Cushing's disease; ectopic tumours rarely respond"
+      ],
+      [
+       "Bilateral inferior petrosal sinus sampling",
+       "Central : peripheral ACTH > 2 : 1 at baseline or > 3 : 1 after CRH",
+       "Best confirmation of Cushing's disease; may be skipped if MRI shows an adenoma > 6 mm"
+      ],
+      [
+       "Pituitary MRI",
+       "Adenoma",
+       "Sees only ~60% of microadenomas"
+      ],
+      [
+       "CXR, CT thorax and abdomen ± somatostatin (octreotide) scintigraphy",
+       "Primary tumour",
+       "Search for an ectopic source; carcinoids can be tiny"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 690,
+       "page": 668,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 691,
+       "page": 669,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 692,
+       "page": 670,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 622,
+       "page": 600,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 624,
+       "page": 602,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 682,
+       "page": 645,
+       "chapter": "Endocrine disease"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Result patterns (exam favourite)",
+     "columns": [
+      "Cause",
+      "Cortisol",
+      "ACTH",
+      "High-dose dexamethasone",
+      "CRH response"
+     ],
+     "rows": [
+      [
+       "Cushing's disease",
+       "High",
+       "High / inappropriately normal",
+       "Cortisol and ACTH suppress",
+       "Exaggerated rise"
+      ],
+      [
+       "Ectopic ACTH",
+       "High",
+       "High (often very high)",
+       "No suppression",
+       "None"
+      ],
+      [
+       "Adrenal tumour",
+       "High",
+       "Low / undetectable",
+       "No suppression",
+       "None"
+      ],
+      [
+       "Exogenous steroid",
+       "Low (unless the drug cross-reacts)",
+       "Low",
+       "Not needed",
+       "—"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 494,
+       "page": 494,
+       "chapter": "Diseases of the adrenal glands"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 45,
+       "page": 45,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 690,
+       "page": 668,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 681,
+       "page": 644,
+       "chapter": "Endocrine disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 692,
+       "page": 670,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 660 400\" role=\"img\" aria-label=\"Algorithm for finding the cause of confirmed Cushing's syndrome\"><defs><marker id=\"ah\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#4a5d7e\"/></marker></defs><rect x=\"0\" y=\"0\" width=\"660\" height=\"400\" fill=\"#ffffff\"/><rect x=\"180\" y=\"10\" width=\"300\" height=\"46\" rx=\"8\" fill=\"#fdf1dc\" stroke=\"#4a5d7e\" stroke-width=\"1.5\"/><text font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\" fill=\"#1d2633\"><tspan x=\"330\" y=\"29.5\">Cushing’s syndrome confirmed</tspan><tspan x=\"330\" y=\"44.5\">(two concordant abnormal screening tests)</tspan></text><line x1=\"330\" y1=\"56\" x2=\"330\" y2=\"82\" stroke=\"#4a5d7e\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><rect x=\"220\" y=\"84\" width=\"220\" height=\"46\" rx=\"8\" fill=\"#eef3fb\" stroke=\"#4a5d7e\" stroke-width=\"1.5\"/><text font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\" fill=\"#1d2633\"><tspan x=\"330\" y=\"103.5\">Morning (09:00) plasma ACTH</tspan><tspan x=\"330\" y=\"118.5\">1.1–3.3 pmol/L = grey area: specialist</tspan></text><line x1=\"260\" y1=\"130\" x2=\"130\" y2=\"168\" stroke=\"#4a5d7e\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><line x1=\"400\" y1=\"130\" x2=\"500\" y2=\"168\" stroke=\"#4a5d7e\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><rect x=\"20\" y=\"170\" width=\"220\" height=\"46\" rx=\"8\" fill=\"#eef3fb\" stroke=\"#4a5d7e\" stroke-width=\"1.5\"/><text font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\" fill=\"#1d2633\"><tspan x=\"130\" y=\"189.5\">ACTH &lt; 1.1 pmol/L (suppressed)</tspan><tspan x=\"130\" y=\"204.5\">ACTH-independent</tspan></text><rect x=\"390\" y=\"170\" width=\"250\" height=\"46\" rx=\"8\" fill=\"#eef3fb\" stroke=\"#4a5d7e\" stroke-width=\"1.5\"/><text font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\" fill=\"#1d2633\"><tspan x=\"515\" y=\"189.5\">ACTH &gt; 3.3 pmol/L</tspan><tspan x=\"515\" y=\"204.5\">ACTH-dependent</tspan></text><line x1=\"130\" y1=\"216\" x2=\"130\" y2=\"246\" stroke=\"#4a5d7e\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><rect x=\"10\" y=\"248\" width=\"240\" height=\"92\" rx=\"8\" fill=\"#eef3fb\" stroke=\"#4a5d7e\" stroke-width=\"1.5\"/><text font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\" fill=\"#1d2633\"><tspan x=\"130\" y=\"268\">Adrenal CT</tspan><tspan x=\"130\" y=\"283\">Lesion: adenoma, carcinoma (often &gt; 5 cm),</tspan><tspan x=\"130\" y=\"298\">AIMAH or PPNAD</tspan><tspan x=\"130\" y=\"313\">No lesion: think exogenous</tspan><tspan x=\"130\" y=\"328\">glucocorticoid</tspan></text><line x1=\"470\" y1=\"216\" x2=\"380\" y2=\"246\" stroke=\"#4a5d7e\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><line x1=\"560\" y1=\"216\" x2=\"580\" y2=\"246\" stroke=\"#4a5d7e\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><rect x=\"262\" y=\"248\" width=\"200\" height=\"92\" rx=\"8\" fill=\"#eef3fb\" stroke=\"#4a5d7e\" stroke-width=\"1.5\"/><text font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\" fill=\"#1d2633\"><tspan x=\"362\" y=\"268\">Pituitary pattern:</tspan><tspan x=\"362\" y=\"283\">HDDST &gt; 50% suppression</tspan><tspan x=\"362\" y=\"298\">CRH: cortisol/ACTH rise</tspan><tspan x=\"362\" y=\"313\">MRI adenoma &gt; 6 mm or</tspan><tspan x=\"362\" y=\"328\">BIPSS gradient</tspan></text><rect x=\"474\" y=\"248\" width=\"176\" height=\"92\" rx=\"8\" fill=\"#eef3fb\" stroke=\"#4a5d7e\" stroke-width=\"1.5\"/><text font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\" fill=\"#1d2633\"><tspan x=\"562\" y=\"268\">No suppression,</tspan><tspan x=\"562\" y=\"283\">no CRH response:</tspan><tspan x=\"562\" y=\"298\">CT thorax + abdomen</tspan><tspan x=\"562\" y=\"313\">± somatostatin</tspan><tspan x=\"562\" y=\"328\">receptor scintigraphy</tspan></text><line x1=\"362\" y1=\"340\" x2=\"362\" y2=\"356\" stroke=\"#4a5d7e\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><line x1=\"562\" y1=\"340\" x2=\"562\" y2=\"356\" stroke=\"#4a5d7e\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><rect x=\"272\" y=\"358\" width=\"180\" height=\"34\" rx=\"8\" fill=\"#e3f4e6\" stroke=\"#4a5d7e\" stroke-width=\"1.5\"/><text font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\" fill=\"#1d2633\"><tspan x=\"362\" y=\"379\">Cushing’s disease</tspan></text><rect x=\"484\" y=\"358\" width=\"156\" height=\"34\" rx=\"8\" fill=\"#fbe4e4\" stroke=\"#4a5d7e\" stroke-width=\"1.5\"/><text font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\" fill=\"#1d2633\"><tspan x=\"562\" y=\"379\">Ectopic ACTH syndrome</tspan></text></svg>",
+     "alt": "Algorithm: confirmed Cushing's syndrome → 09:00 ACTH. Suppressed ACTH → adrenal CT. High ACTH → pituitary pattern (HDDST suppression, CRH response, MRI adenoma, BIPSS gradient) means Cushing's disease; no suppression or CRH response → CT thorax/abdomen ± somatostatin scintigraphy for ectopic ACTH.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 692,
+       "page": 670,
+       "chapter": "Endocrinology",
+       "figure": "Fig. 18.22"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 690,
+       "page": 668,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 691,
+       "page": 669,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Dexamethasone protocols differ between books.** Davidson screens with an overnight 1 mg test or a 48-h low-dose test (0.5 mg 6-hourly), and its high-dose test is **2 mg 6-hourly for 48 h**. Step-Up and Zero to Finals give single overnight doses: **1 mg** (low) and **8 mg** (high). The cut-offs agree: < 50 nmol/L (1.8 µg/dL) or < 2 µg/dL means normal suppression, and **> 50% suppression** on high dose favours pituitary disease. Use Davidson's protocol in written answers.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 690,
+       "page": 668,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 691,
+       "page": 669,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 491,
+       "page": 491
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 492,
+       "page": 492
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 494,
+       "page": 494
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 44,
+       "page": 44
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Image only after the biochemistry has localised the problem.** Small incidental pituitary and adrenal lesions are common, and pituitary MRI misses about 40% of corticotroph microadenomas.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 494,
+       "page": 494,
+       "chapter": "Diseases of the adrenal glands"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 691,
+       "page": 669,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 702,
+       "page": 680,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 682,
+       "page": 645,
+       "chapter": "Endocrine disease"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 691,
+      "page": 669,
+      "chapter": "Endocrinology",
+      "figure": "Fig. 18.21"
+     },
+     "note": "Look at: the sequence for confirming suspected Cushing’s — exclude steroids, then UFC, late-night salivary cortisol and ONDST/LDDST, needing two concordant abnormal results."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 692,
+      "page": 670,
+      "chapter": "Endocrinology",
+      "figure": "Fig. 18.22"
+     },
+     "note": "Look at: the branches from plasma ACTH to adrenal CT, pituitary tests (MRI, CRH, HDDST, BIPSS) or a search for an ectopic source."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "fa2ck11",
+      "pdfPage": 231,
+      "page": 231,
+      "chapter": "Endocrinology",
+      "figure": "FIGURE 2.3-23"
+     },
+     "note": "Look at: the stepwise US-style diagnostic algorithm (overnight tests) to compare with Davidson’s."
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.s6",
+   "title": "Management",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Untreated severe Cushing's syndrome carries about a **50% 5-year mortality**, from venous thromboembolism, hypertension, myocardial infarction, infection and heart failure. **Control the cortisol excess medically before surgery or radiotherapy** in severe cases, titrating the drug against serum cortisol or 24-h urine free cortisol.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 691,
+       "page": 669,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 624,
+       "page": 602,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Treatment by cause",
+     "columns": [
+      "Cause",
+      "First-line",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "Cushing's disease",
+       "Trans-sphenoidal selective adenomectomy",
+       "~70% immediate remission (Davidson; Kumar 75–80%); ~20% relapse, often years later → life-long follow-up"
+      ],
+      [
+       "Cushing's disease after failed surgery",
+       "Pituitary radiotherapy, medical therapy, or bilateral adrenalectomy",
+       "Radiotherapy is slow and works in 50–60% of adults (80% of children)"
+      ],
+      [
+       "Adrenal adenoma",
+       "Laparoscopic adrenalectomy",
+       "Opposite adrenal may stay suppressed for a year or more → steroid cover"
+      ],
+      [
+       "Adrenocortical carcinoma",
+       "Surgery (only chance of cure)",
+       "Poor prognosis; tumour-bed radiotherapy cuts local recurrence; mitotane plus chemotherapy, often with poor responses"
+      ],
+      [
+       "Ectopic ACTH",
+       "Resect a localised tumour (e.g. bronchial carcinoid)",
+       "Incurable cancer: medical cortisol control or bilateral adrenalectomy"
+      ],
+      [
+       "Iatrogenic",
+       "Reduce the steroid dose gradually where possible",
+       "Steroid-sparing agents (e.g. azathioprine); never stop long-term steroids abruptly"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 691,
+       "page": 669,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 692,
+       "page": 670,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 624,
+       "page": 602,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 682,
+       "page": 645,
+       "chapter": "Endocrine disease"
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 232,
+       "page": 232,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Drugs used in Cushing’s",
+     "columns": [
+      "Drug",
+      "Action",
+      "Notes"
+     ],
+     "rows": [
+      [
+       "Metyrapone",
+       "Blocks 11β-hydroxylase (cortisol synthesis)",
+       "Usual first choice; 750 mg–4 g daily in 3–4 doses"
+      ],
+      [
+       "Ketoconazole",
+       "Inhibits steroidogenesis",
+       "200 mg three times daily; synergistic with metyrapone"
+      ],
+      [
+       "Etomidate",
+       "Inhibits steroidogenesis",
+       "IV infusion for severe cases"
+      ],
+      [
+       "Pasireotide",
+       "Somatostatin analogue; suppresses tumour ACTH",
+       "Cushing's disease when surgery is unsuitable; twice-daily SC; hyperglycaemia common; cortisol rebounds when stopped"
+      ],
+      [
+       "Mitotane",
+       "Adrenolytic",
+       "Adrenocortical carcinoma"
+      ],
+      [
+       "Temozolomide",
+       "Chemotherapy",
+       "Aggressive corticotroph adenomas"
+      ],
+      [
+       "Dopamine agonists, cyproheptadine",
+       "Reduce ACTH",
+       "Rarely effective"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 691,
+       "page": 669,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 692,
+       "page": 670,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 624,
+       "page": 602,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 682,
+       "page": 645,
+       "chapter": "Endocrine disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Nelson's syndrome:** bilateral adrenalectomy cures ACTH-dependent Cushing's, but in pituitary disease the loss of cortisol feedback lets the corticotroph tumour grow — an **invasive macroadenoma** with **very high ACTH and marked pigmentation**. It follows about **20%** of adrenalectomies for Cushing's disease. Early pituitary radiotherapy may reduce the risk; treat with pituitary surgery and/or radiotherapy.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 691,
+       "page": 669,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 624,
+       "page": 602,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "After successful selective adenomectomy the patient is almost always **ACTH-deficient** in the first days — a **good prognostic sign** that needs glucocorticoid cover. After bilateral adrenalectomy, steroid replacement is **life-long**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 624,
+       "page": 602,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 45,
+       "page": 45,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 232,
+       "page": 232,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Remission figures differ:** Davidson gives ~70% immediate remission after trans-sphenoidal surgery (with ~20% later relapse); Kumar gives 75–80% overall. Quote Davidson's figure.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 691,
+       "page": 669,
+       "chapter": "Endocrinology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 624,
+       "page": 602,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Glucocorticoid therapy — equivalent doses and bone protection",
+     "items": [
+      "**Prednisolone 5 mg** ≈ hydrocortisone 20 mg ≈ **dexamethasone 0.5 mg** (and ≈ cortisone acetate 25 mg)",
+      "Consider **bone protection** if systemic steroids are expected for **more than 3 months**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 692,
+       "page": 670,
+       "chapter": "Endocrinology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "An **adrenal incidentaloma** (found on ~4% of scans) needs a **dexamethasone suppression test** to exclude subclinical Cushing’s. Remove large (> 4–5 cm) or functioning tumours; observe small non-functioning ones.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 682,
+       "page": 645,
+       "chapter": "Endocrine disease"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "endo-cushing.c1",
+   "sectionId": "endo-cushing.s1",
+   "front": "Commonest cause of Cushing's syndrome overall?",
+   "back": "Iatrogenic — long-term synthetic glucocorticoids such as prednisolone.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 688,
+     "page": 666,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 679,
+     "page": 642,
+     "chapter": "Endocrine disease"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.c2",
+   "sectionId": "endo-cushing.s1",
+   "front": "Commonest endogenous cause of Cushing's syndrome?",
+   "back": "Cushing's disease (ACTH-secreting pituitary adenoma) — about 70% of endogenous cases.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 228,
+     "page": 228,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.c3",
+   "sectionId": "endo-cushing.s1",
+   "front": "Share of ACTH-independent endogenous Cushing’s, and its causes?",
+   "back": "About 20%: adrenal adenoma ~15%, adrenal carcinoma ~5%, rare nodular hyperplasias < 1%.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.c4",
+   "sectionId": "endo-cushing.s1",
+   "front": "Three pseudo-Cushing's states?",
+   "back": "Alcohol excess (clinical + biochemical), major depression (biochemical), primary obesity (mild biochemical).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.c5",
+   "sectionId": "endo-cushing.s2",
+   "front": "Typical size of the tumour in Cushing's disease?",
+   "back": "Microadenoma < 10 mm — so mass effects are rare and MRI finds only ~60%.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 691,
+     "page": 669,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.c6",
+   "sectionId": "endo-cushing.s3",
+   "front": "Mechanism of hypokalaemic alkalosis in severe Cushing's?",
+   "back": "Very high cortisol saturates renal 11β-HSD2, so cortisol activates the mineralocorticoid receptor.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.c7",
+   "sectionId": "endo-cushing.s3",
+   "front": "Why are some Cushing's patients pigmented?",
+   "back": "High ACTH stimulates melanocortin 1 receptors on melanocytes — so pigmentation occurs only in ACTH-dependent causes.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 622,
+     "page": 600,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.c8",
+   "sectionId": "endo-cushing.s4",
+   "front": "Signs that best favour Cushing’s over simple obesity?",
+   "back": "Easy bruising, proximal myopathy and thin skin (with purple striae).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 491,
+     "page": 491,
+     "chapter": "Diseases of the adrenal glands"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.c9",
+   "sectionId": "endo-cushing.s4",
+   "front": "Clinical clues to malignant ectopic ACTH?",
+   "back": "Short history, weight loss/cachexia, pigmentation, hypokalaemia, diabetes, very high ACTH.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 623,
+     "page": 601,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.c10",
+   "sectionId": "endo-cushing.s5",
+   "front": "How is Cushing's syndrome confirmed?",
+   "back": "Two concordant abnormal tests of: low-dose dexamethasone suppression, late-night cortisol, 24-h urine free cortisol.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 690,
+     "page": 668,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 691,
+     "page": 669,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.c11",
+   "sectionId": "endo-cushing.s5",
+   "front": "Overnight dexamethasone suppression test: protocol and normal result?",
+   "back": "1 mg dexamethasone at 23:00, cortisol at 09:00; normal < 50 nmol/L (1.8 µg/dL).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 690,
+     "page": 668,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.c12",
+   "sectionId": "endo-cushing.s5",
+   "front": "Plasma ACTH cut-offs once Cushing's is confirmed?",
+   "back": "< 1.1 pmol/L → adrenal cause; > 3.3 pmol/L → pituitary or ectopic; in between = grey area.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 690,
+     "page": 668,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.c13",
+   "sectionId": "endo-cushing.s5",
+   "front": "High-dose dexamethasone result that favours Cushing's disease?",
+   "back": "> 50% fall in cortisol from baseline (ectopic ACTH and adrenal tumours do not suppress).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 692,
+     "page": 670,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 622,
+     "page": 600,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 624,
+     "page": 602,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.c14",
+   "sectionId": "endo-cushing.s5",
+   "front": "Why stop the combined pill before cortisol testing?",
+   "back": "Oestrogen raises CBG, so total cortisol is falsely high — stop it for 6 weeks.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 690,
+     "page": 668,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.c15",
+   "sectionId": "endo-cushing.s6",
+   "front": "Treatment of choice for Cushing's disease?",
+   "back": "Trans-sphenoidal selective adenomectomy — ~70% immediate remission, ~20% relapse, life-long follow-up.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 691,
+     "page": 669,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.c16",
+   "sectionId": "endo-cushing.s6",
+   "front": "What is Nelson's syndrome?",
+   "back": "Growth of a corticotroph tumour into an invasive macroadenoma with very high ACTH and pigmentation after bilateral adrenalectomy (~20%).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 691,
+     "page": 669,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 624,
+     "page": 602,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.c17",
+   "sectionId": "endo-cushing.s6",
+   "front": "Mechanism of metyrapone?",
+   "back": "Blocks 11β-hydroxylase, reducing cortisol synthesis; used pre-operatively or when surgery fails.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 624,
+     "page": 602,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 691,
+     "page": 669,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 682,
+     "page": 645,
+     "chapter": "Endocrine disease"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.c18",
+   "sectionId": "endo-cushing.s6",
+   "front": "Prednisolone 5 mg is equivalent to how much hydrocortisone and dexamethasone?",
+   "back": "Hydrocortisone 20 mg; dexamethasone 0.5 mg.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 692,
+     "page": 670,
+     "chapter": "Endocrinology"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "endo-cushing.q1",
+   "kind": "emq",
+   "leadIn": "Using the options, pair every patient with the cause that fits best. One option may suit several patients, or none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Causes of cortisol excess",
+   "options": [
+    "Pituitary corticotroph adenoma (Cushing's disease)",
+    "Ectopic ACTH from small-cell lung carcinoma",
+    "Ectopic ACTH from bronchial carcinoid",
+    "Cortisol-secreting adrenal adenoma",
+    "Adrenocortical carcinoma",
+    "Exogenous glucocorticoid therapy",
+    "Alcohol-induced pseudo-Cushing's state",
+    "Major depressive illness",
+    "Primary (simple) obesity",
+    "Primary pigmented nodular adrenal disease"
+   ],
+   "items": [
+    {
+     "stem": "A 34-year-old woman with HIV takes a ritonavir-boosted antiretroviral regimen and uses an inhaled corticosteroid for asthma. Over 3 months she develops a round red face, purple abdominal striae and easy bruising. Her 09:00 serum cortisol is 40 nmol/L.",
+     "answer": 5,
+     "explanation": "Two steps: a Cushingoid patient with a **low morning cortisol** is taking an exogenous steroid, and **ritonavir (a strong CYP3A4 inhibitor)** stops the inhaled steroid being cleared, so enough reaches the circulation to cause severe iatrogenic Cushing’s.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s1"
+     }
+    },
+    {
+     "stem": "A 52-year-old man who drinks about 80 units of alcohol a week has a plethoric face and central obesity. His 24-hour urine free cortisol is raised and cortisol fails to suppress overnight with dexamethasone. After a month of supervised abstinence, his appearance improves and all tests become normal.",
+     "answer": 6,
+     "explanation": "Alcohol excess can mimic Cushing’s **clinically and biochemically**; the clue is that everything **resolves on stopping alcohol**.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s1"
+     }
+    },
+    {
+     "stem": "A 63-year-old man who has smoked for 45 years has had 6 weeks of weight loss, weakness and darkening skin. Blood pressure is 172/98 mmHg and potassium 2.6 mmol/L. Plasma ACTH is markedly raised.",
+     "answer": 1,
+     "explanation": "Rapid onset, weight loss, **pigmentation and hypokalaemia with very high ACTH** in an older male smoker is malignant ectopic ACTH — most often small-cell lung cancer. A carcinoid usually gives a slower, classic Cushingoid picture.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 692,
+     "page": 670,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 680,
+     "page": 643,
+     "chapter": "Endocrine disease"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 44,
+     "page": 44,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 30-year-old woman has just been diagnosed with Cushing's disease.",
+   "leadIn": "Which statement about her pituitary tumour is most likely to be true?",
+   "options": [
+    "It is usually a macroadenoma causing bitemporal hemianopia",
+    "It is usually a microadenoma less than 10 mm across",
+    "It has completely lost feedback sensitivity to glucocorticoids",
+    "It usually causes hyperprolactinaemia by stalk compression",
+    "It can almost always be seen on pituitary MRI"
+   ],
+   "answer": 1,
+   "explanation": "Corticotroph tumours in Cushing's disease are **usually microadenomas (< 10 mm)**, so mass effects such as field loss, hypopituitarism and disconnection hyperprolactinaemia are rare.",
+   "whyNot": [
+    "Macroadenomas with field defects are rare in Cushing’s disease; the tumour is usually tiny.",
+    "",
+    "Pituitary tumours keep **partial** feedback — the basis of high-dose dexamethasone suppression. Complete loss is typical of ectopic tumours.",
+    "Disconnection hyperprolactinaemia needs a large tumour; it is rare here.",
+    "MRI detects only about 60% of ACTH-secreting microadenomas."
+   ],
+   "studyRef": {
+    "sectionId": "endo-cushing.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 691,
+     "page": 669,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A GP suspects Cushing's disease in a 36-year-old woman with central weight gain, bruising and proximal weakness. A random afternoon serum cortisol is within the reference range.",
+   "leadIn": "What is the most appropriate interpretation?",
+   "options": [
+    "Cushing's syndrome is excluded",
+    "The result is uninformative; arrange dexamethasone suppression testing",
+    "Proceed straight to pituitary MRI",
+    "The normal result confirms a pseudo-Cushing’s state",
+    "Start metyrapone and recheck in a month"
+   ],
+   "answer": 1,
+   "explanation": "Cortisol varies through the day (highest on waking, lowest at night) and rises with stress, so a **random cortisol is of no value** in suspected Cushing's. Diagnosis rests on **dynamic tests** such as dexamethasone suppression.",
+   "whyNot": [
+    "A random level can be normal in true Cushing’s; it excludes nothing.",
+    "",
+    "Imaging comes only after biochemical confirmation and localisation.",
+    "Pseudo-Cushing’s also needs dynamic testing and a context (alcohol, depression); a random level shows nothing.",
+    "Treatment without a confirmed diagnosis is inappropriate."
+   ],
+   "studyRef": {
+    "sectionId": "endo-cushing.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 702,
+     "page": 680,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 623,
+     "page": 601,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 687,
+     "page": 665,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 61-year-old man with ectopic ACTH syndrome has a potassium of 2.4 mmol/L and a bicarbonate of 34 mmol/L. His plasma renin and aldosterone are both low.",
+   "leadIn": "What is the main mechanism of his hypokalaemia?",
+   "options": [
+    "Cortisol overwhelming renal 11β-hydroxysteroid dehydrogenase type 2",
+    "An aldosterone-producing adrenal adenoma",
+    "Gastrointestinal potassium loss from tumour-related diarrhoea",
+    "Insulin-driven shift of potassium into cells",
+    "Poor dietary potassium intake from cachexia"
+   ],
+   "answer": 0,
+   "explanation": "Very high cortisol levels **saturate renal 11β-HSD2**, so cortisol is no longer inactivated to cortisone and **acts on the mineralocorticoid receptor** — causing hypokalaemic alkalosis (and suppressed renin and aldosterone).",
+   "whyNot": [
+    "",
+    "Aldosterone is low, so this is not primary aldosteronism.",
+    "Diarrhoea would tend to cause acidosis, not alkalosis, and is not the described mechanism.",
+    "Cortisol excess reduces insulin secretion; an insulin shift is not the cause.",
+    "Low intake alone rarely causes such severe hypokalaemia with alkalosis."
+   ],
+   "studyRef": {
+    "sectionId": "endo-cushing.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 687,
+     "page": 665,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "Five patients have Cushing's syndrome from different causes.",
+   "leadIn": "Which patient is most likely to have skin hyperpigmentation?",
+   "options": [
+    "A woman with a 3 cm cortisol-secreting adrenal adenoma",
+    "A man taking prednisolone 30 mg daily for a year",
+    "A man with ectopic ACTH from small-cell lung cancer",
+    "A woman with an adrenocortical carcinoma",
+    "A teenager with primary pigmented nodular adrenal disease"
+   ],
+   "answer": 2,
+   "explanation": "Pigmentation is caused by **high ACTH acting on melanocortin 1 receptors**, so it occurs only in ACTH-dependent disease — most markedly **ectopic ACTH**, where ACTH levels are highest.",
+   "whyNot": [
+    "Adrenal adenomas suppress ACTH, so there is no pigmentation.",
+    "Exogenous steroid suppresses ACTH.",
+    "",
+    "Adrenal carcinoma is ACTH-independent; ACTH is suppressed.",
+    "Despite the name, the pigment is in the adrenal nodules; ACTH is suppressed and the skin is not pigmented."
+   ],
+   "studyRef": {
+    "sectionId": "endo-cushing.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 622,
+     "page": 600,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 495,
+     "page": 495,
+     "chapter": "Diseases of the adrenal glands"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q6",
+   "kind": "emq",
+   "leadIn": "Using the options, pair every patient with the cause that fits best. One option may suit several patients, or none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Clinical clues to the cause of Cushing’s syndrome",
+   "options": [
+    "Cushing's disease",
+    "Ectopic ACTH from small-cell lung carcinoma",
+    "Ectopic ACTH from bronchial carcinoid",
+    "Cortisol-secreting adrenal adenoma",
+    "Adrenocortical carcinoma",
+    "Iatrogenic Cushing's syndrome",
+    "Simple obesity",
+    "Pseudo-Cushing's state from depression",
+    "McCune–Albright syndrome"
+   ],
+   "items": [
+    {
+     "stem": "A 36-year-old woman has developed Cushingoid features over 6 months, along with severe hirsutism, a deepening voice and clitoral enlargement. Plasma ACTH is undetectable, and CT shows a 10 cm irregular right adrenal mass.",
+     "answer": 4,
+     "explanation": "Two steps: undetectable ACTH means an **adrenal** cause, and severe hirsutism or virilisation also points to an adrenal tumour. The **large (> 5 cm), irregular mass** and rapid course mark it as **adrenocortical carcinoma** rather than an adenoma.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s4"
+     }
+    },
+    {
+     "stem": "A 44-year-old man has a 3-year history of slowly worsening central obesity, purple striae, bruising and mild pigmentation. ACTH is high, cortisol does not suppress on high-dose dexamethasone, and there is no response to CRH. Pituitary MRI is normal.",
+     "answer": 2,
+     "explanation": "Two steps: high ACTH with **no suppression and no CRH response** means ectopic ACTH; the **slow, classic Cushingoid picture** suggests a less aggressive tumour such as a **bronchial carcinoid** rather than small-cell cancer.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s4"
+     }
+    },
+    {
+     "stem": "A 39-year-old woman with a BMI of 41 kg/m² has hypertension and type 2 diabetes. Her skin is not thin, she has no bruising, proximal power is normal, and an overnight dexamethasone test and 24-hour urine free cortisol are both normal.",
+     "answer": 6,
+     "explanation": "Obesity, hypertension and diabetes are non-specific. Without the discriminating signs (bruising, thin skin, myopathy) and with **normal screening tests**, this is simple obesity.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 623,
+     "page": 601,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 690,
+     "page": 668,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 691,
+     "page": 669,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 624,
+     "page": 602,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q7",
+   "kind": "emq",
+   "leadIn": "Using the options, choose the most useful next test in every scenario. One option may suit several scenarios, or none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Choosing the next test in suspected Cushing’s syndrome",
+   "options": [
+    "Overnight 1 mg dexamethasone suppression test",
+    "48-hour low-dose dexamethasone suppression test",
+    "Late-night salivary cortisol",
+    "24-hour urinary free cortisol",
+    "09:00 plasma ACTH",
+    "High-dose dexamethasone suppression test",
+    "CRH stimulation test",
+    "Bilateral inferior petrosal sinus sampling",
+    "Pituitary MRI",
+    "CT of the adrenal glands",
+    "CT of thorax and abdomen",
+    "Random afternoon serum cortisol"
+   ],
+   "items": [
+    {
+     "stem": "A 41-year-old woman's 24-hour urine free cortisol is raised on two collections and her cortisol fails to suppress on a low-dose dexamethasone test. She takes no steroids.",
+     "answer": 4,
+     "explanation": "Two concordant abnormal tests **confirm Cushing’s syndrome**. The key next step is **plasma ACTH**, which splits ACTH-dependent from ACTH-independent causes.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s5"
+     }
+    },
+    {
+     "stem": "A 47-year-old man has confirmed Cushing's syndrome. His morning plasma ACTH is below 1.1 pmol/L on two occasions.",
+     "answer": 9,
+     "explanation": "Undetectable ACTH means **ACTH-independent (adrenal)** disease, so image the **adrenals with CT**.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s5"
+     }
+    },
+    {
+     "stem": "A 33-year-old woman has ACTH-dependent Cushing's syndrome. Pituitary MRI is normal and the high-dose dexamethasone and CRH tests give equivocal results.",
+     "answer": 7,
+     "explanation": "MRI misses many microadenomas. **BIPSS** (central-to-peripheral ACTH gradient) is the best way to confirm a pituitary source when the other tests are inconclusive.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 690,
+     "page": 668,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 691,
+     "page": 669,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 692,
+     "page": 670,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 42-year-old woman had a bilateral adrenalectomy for Cushing's disease 4 years ago and takes hydrocortisone and fludrocortisone. She now has progressive darkening of the skin, headaches and loss of the outer halves of both visual fields.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Nelson's syndrome",
+    "Under-replacement with hydrocortisone",
+    "Recurrent Cushing’s disease from adrenal rest tissue",
+    "Ectopic ACTH-secreting tumour",
+    "Non-functioning pituitary macroadenoma"
+   ],
+   "answer": 0,
+   "explanation": "After bilateral adrenalectomy for pituitary disease, **loss of cortisol feedback** lets the corticotroph tumour enlarge into an **invasive macroadenoma** with **very high ACTH (pigmentation)** and mass effects — **Nelson's syndrome** (~20% of cases).",
+   "whyNot": [
+    "",
+    "Under-replacement can raise ACTH and pigmentation, but would not cause an expanding pituitary mass with field loss.",
+    "Recurrent cortisol excess would give Cushingoid features, not just pigmentation with a pituitary mass.",
+    "An ectopic tumour would not explain the pituitary mass effects after treatment of a known pituitary adenoma.",
+    "A non-functioning adenoma would not cause marked pigmentation."
+   ],
+   "studyRef": {
+    "sectionId": "endo-cushing.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 691,
+     "page": 669,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 624,
+     "page": 602,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 50-year-old man with severe Cushing's disease is awaiting trans-sphenoidal surgery. His potassium is 2.8 mmol/L and glucose 16 mmol/L. The team want to lower his cortisol for a few weeks before the operation.",
+   "leadIn": "Which drug, an 11β-hydroxylase inhibitor, is most often used?",
+   "options": [
+    "Metyrapone",
+    "Mitotane",
+    "Cabergoline",
+    "Spironolactone",
+    "Dexamethasone"
+   ],
+   "answer": 0,
+   "explanation": "**Metyrapone blocks 11β-hydroxylase** and is the usual drug to control cortisol before surgery, titrated against serum or urine cortisol.",
+   "whyNot": [
+    "",
+    "Mitotane is an adrenolytic used for adrenocortical carcinoma.",
+    "Dopamine agonists rarely control Cushing’s disease.",
+    "Spironolactone may help potassium but does not reduce cortisol.",
+    "Dexamethasone is a glucocorticoid and would add to the excess."
+   ],
+   "studyRef": {
+    "sectionId": "endo-cushing.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 624,
+     "page": 602,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 691,
+     "page": 669,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q10",
+   "kind": "emq",
+   "leadIn": "Using the options, pair every set of results with its best explanation. One option may suit several cases, or none.",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "theme": "Interpreting cortisol and ACTH test patterns",
+   "options": [
+    "Cushing's disease",
+    "Ectopic ACTH syndrome",
+    "Cortisol-secreting adrenal adenoma",
+    "Exogenous glucocorticoid use",
+    "Normal hypothalamic–pituitary–adrenal axis",
+    "Alcohol-induced pseudo-Cushing's",
+    "Oestrogen-related rise in binding globulin",
+    "Cyclical Cushing’s syndrome",
+    "Primary adrenal insufficiency"
+   ],
+   "items": [
+    {
+     "stem": "Cortisol fails to suppress on a 48-hour low-dose dexamethasone test. Morning ACTH is 12 pmol/L. On the high-dose test cortisol falls by 75% from baseline, and IV CRH produces a 40% rise in cortisol.",
+     "answer": 0,
+     "explanation": "ACTH-dependent (ACTH > 3.3 pmol/L), with **> 50% high-dose suppression** and a **CRH response**: the tumour keeps partial feedback, so it is pituitary.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s5"
+     }
+    },
+    {
+     "stem": "Cortisol suppresses neither on low-dose nor on high-dose dexamethasone. Morning ACTH is 0.6 pmol/L on two occasions.",
+     "answer": 2,
+     "explanation": "Undetectable ACTH = **ACTH-independent** autonomous adrenal cortisol, which no dose of dexamethasone can suppress.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s5"
+     }
+    },
+    {
+     "stem": "A 23-year-old woman taking the combined pill has no Cushingoid features. Her overnight dexamethasone test cortisol is 85 nmol/L. Six weeks after stopping the pill the repeat value is 30 nmol/L.",
+     "answer": 6,
+     "explanation": "Oestrogen raises **CBG**, and assays measure total cortisol, giving a false-positive. After **6 weeks off oestrogen** the test is normal.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s5"
+     }
+    },
+    {
+     "stem": "A 58-year-old man with a Cushingoid appearance has a 09:00 cortisol of 45 nmol/L and an undetectable ACTH. He applies a potent steroid cream to widespread psoriasis every day.",
+     "answer": 3,
+     "explanation": "A **low morning cortisol in a Cushingoid patient** suggests an exogenous synthetic steroid; topical steroids can be absorbed enough to suppress ACTH and cortisol.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 690,
+     "page": 668,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 692,
+     "page": 670,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 45-year-old woman with a BMI of 38 kg/m² is referred with possible Cushing’s syndrome.",
+   "leadIn": "Which clinical finding would most strongly favour true Cushing’s syndrome over simple obesity?",
+   "options": [
+    "Central weight gain",
+    "Hypertension",
+    "Proximal muscle weakness",
+    "Impaired glucose tolerance",
+    "Mild hirsutism"
+   ],
+   "answer": 2,
+   "explanation": "In an obese patient, **proximal myopathy, easy bruising and thin skin** are the features that best favour Cushing's. The others are common in simple obesity.",
+   "whyNot": [
+    "Central obesity is common in simple obesity.",
+    "Hypertension is non-specific.",
+    "",
+    "Glucose intolerance is common with obesity alone.",
+    "Hirsutism is common in obese women without Cushing’s."
+   ],
+   "studyRef": {
+    "sectionId": "endo-cushing.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 491,
+     "page": 491,
+     "chapter": "Diseases of the adrenal glands"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 29-year-old woman taking the combined oral contraceptive pill is to be tested for suspected Cushing's syndrome.",
+   "leadIn": "What is the most appropriate step before dexamethasone suppression testing?",
+   "options": [
+    "Proceed now, as the pill does not affect cortisol assays",
+    "Stop the pill for 6 weeks before testing",
+    "Measure a random afternoon cortisol instead",
+    "Double the dexamethasone dose to overcome the oestrogen",
+    "Use prednisolone instead of dexamethasone for the test"
+   ],
+   "answer": 1,
+   "explanation": "Oestrogens raise **CBG**, and most assays measure total cortisol, so the test may be falsely positive. Stop oestrogens **for 6 weeks** first.",
+   "whyNot": [
+    "Oestrogen does affect total cortisol through CBG.",
+    "",
+    "Random cortisol is of no value in Cushing’s.",
+    "Increasing the dose does not correct the CBG effect and changes the test.",
+    "Prednisolone can cross-react in cortisol immunoassays; dexamethasone is used because it does not."
+   ],
+   "studyRef": {
+    "sectionId": "endo-cushing.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 690,
+     "page": 668,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 34-year-old woman has confirmed Cushing's disease with a 7 mm adenoma on pituitary MRI.",
+   "leadIn": "What is the treatment of choice?",
+   "options": [
+    "Trans-sphenoidal selective adenomectomy",
+    "Laparoscopic bilateral adrenalectomy",
+    "External pituitary radiotherapy",
+    "Long-term metyrapone",
+    "Cabergoline"
+   ],
+   "answer": 0,
+   "explanation": "**Trans-sphenoidal selective removal of the adenoma** by an experienced surgeon is the treatment of choice — about 70% go into immediate remission.",
+   "whyNot": [
+    "",
+    "Bilateral adrenalectomy is a last resort and risks Nelson’s syndrome.",
+    "Radiotherapy is slow, effective in only 50–60%, and mainly used after failed surgery.",
+    "Metyrapone controls cortisol but does not treat the tumour; used before surgery or if surgery fails.",
+    "Dopamine agonists are rarely effective."
+   ],
+   "studyRef": {
+    "sectionId": "endo-cushing.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 691,
+     "page": 669,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 624,
+     "page": 602,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A patient taking prednisolone 5 mg daily needs to be switched to hydrocortisone at an equivalent glucocorticoid dose.",
+   "leadIn": "What daily dose of hydrocortisone is approximately equivalent?",
+   "options": [
+    "5 mg",
+    "10 mg",
+    "20 mg",
+    "40 mg",
+    "80 mg"
+   ],
+   "answer": 2,
+   "explanation": "Approximate equivalents: **hydrocortisone 20 mg ≈ prednisolone 5 mg ≈ dexamethasone 0.5 mg** (cortisone acetate 25 mg).",
+   "whyNot": [
+    "Hydrocortisone is about four times less potent than prednisolone.",
+    "Too low — this is half the equivalent dose.",
+    "",
+    "This would be about twice the equivalent dose.",
+    "This would be about four times the equivalent dose."
+   ],
+   "studyRef": {
+    "sectionId": "endo-cushing.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 692,
+     "page": 670,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q15",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 55-year-old heavy smoker (30 per day) has had 2 months of weakness, 6 kg weight loss and darkening skin. BP is 170/100 mmHg. Potassium is 2.5 mmol/L, bicarbonate 35 mmol/L and glucose 15 mmol/L. Cortisol is very high and fails to suppress on high-dose dexamethasone; plasma ACTH is 60 pmol/L.",
+   "leadIn": "What is the most likely cause?",
+   "options": [
+    "Cushing's disease",
+    "Ectopic ACTH from small-cell lung carcinoma",
+    "Adrenocortical carcinoma",
+    "Primary hyperaldosteronism",
+    "Ectopic ACTH from a bronchial carcinoid"
+   ],
+   "answer": 1,
+   "explanation": "**Step 1 — ACTH-dependent?** ACTH 60 pmol/L is far above 3.3 pmol/L, so yes; adrenal causes are out. **Step 2 — pituitary or ectopic?** No high-dose suppression means feedback is lost → ectopic. Very high ACTH explains the **pigmentation** and, with very high cortisol saturating 11β-HSD2, the **hypokalaemic alkalosis**. **Step 3 — which ectopic source?** The **short history and weight loss** in a heavy smoker point to a malignant tumour, small-cell lung cancer; carcinoids usually give a slower, classic Cushingoid picture.",
+   "whyNot": [
+    "Pituitary tumours usually suppress on high-dose dexamethasone and rarely produce such high ACTH and rapid wasting.",
+    "",
+    "Adrenal carcinoma suppresses ACTH, so it could not cause a high ACTH or pigmentation.",
+    "Primary hyperaldosteronism causes hypokalaemic hypertension but not high cortisol, high ACTH or pigmentation.",
+    "Carcinoid-related ectopic ACTH is less aggressive and usually presents with slower, classic Cushingoid features."
+   ],
+   "studyRef": {
+    "sectionId": "endo-cushing.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 690,
+     "page": 668,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 623,
+     "page": 601,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 44,
+     "page": 44,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q16",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 47-year-old woman has a moon face, purple striae and thin, bruised skin. Her 09:00 serum cortisol (normal sleep pattern) is 60 nmol/L.",
+   "leadIn": "What is the most likely explanation?",
+   "options": [
+    "Exogenous synthetic glucocorticoid use",
+    "Cortisol-secreting adrenal adenoma",
+    "Cushing's disease",
+    "Primary adrenal insufficiency",
+    "Raised corticosteroid-binding globulin from oestrogen"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1:** she looks Cushingoid, so something is activating glucocorticoid receptors. **Step 2:** yet her own morning cortisol is **low (< 100 nmol/L)**, so the excess glucocorticoid is not cortisol. **Step 3:** this pattern means an **exogenous synthetic steroid** (common) — or, uncommonly, cyclical endogenous Cushing’s caught in a quiet phase. **Next:** take a careful drug history including inhaled, topical and injected steroids.",
+   "whyNot": [
+    "",
+    "An adrenal adenoma produces cortisol, so morning cortisol would be high.",
+    "Cushing’s disease produces high cortisol.",
+    "Adrenal insufficiency gives a low cortisol but not a Cushingoid appearance.",
+    "Raised CBG would increase total cortisol, not lower it."
+   ],
+   "studyRef": {
+    "sectionId": "endo-cushing.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 690,
+     "page": 668,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q17",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 41-year-old woman with bruising, proximal weakness and new hypertension takes no medication. Her overnight dexamethasone suppression test cortisol is 140 nmol/L, and her 24-hour urine free cortisol is above the reference range on two collections.",
+   "leadIn": "What is the most appropriate next investigation?",
+   "options": [
+    "09:00 plasma ACTH",
+    "Pituitary MRI",
+    "Adrenal CT",
+    "Repeat the overnight test in 6 months",
+    "Random serum cortisol"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1 — is it Cushing’s syndrome?** Two concordant abnormal tests (failure to suppress to < 50 nmol/L and raised urine free cortisol) confirm it. **Step 2 — what next?** The diagnosis is two-step: now find the cause, starting with **morning plasma ACTH**. Suppressed ACTH leads to adrenal imaging; high ACTH leads to pituitary versus ectopic tests. **Imaging comes only after** this biochemical localisation.",
+   "whyNot": [
+    "",
+    "Imaging the pituitary before showing ACTH dependence risks being misled by an incidental lesion.",
+    "Adrenal CT is used only once ACTH is shown to be suppressed.",
+    "The diagnosis is already confirmed; delay is not justified.",
+    "Random cortisol adds nothing."
+   ],
+   "studyRef": {
+    "sectionId": "endo-cushing.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 690,
+     "page": 668,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 691,
+     "page": 669,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 494,
+     "page": 494,
+     "chapter": "Diseases of the adrenal glands"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 702,
+     "page": 680,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q18",
+   "kind": "emq",
+   "leadIn": "Using the options, choose the best management for every patient. One option may suit several patients, or none.",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Management of Cushing’s syndrome",
+   "options": [
+    "Trans-sphenoidal selective adenomectomy",
+    "Laparoscopic unilateral adrenalectomy",
+    "Adrenalectomy followed by mitotane",
+    "Laparoscopic bilateral adrenalectomy",
+    "Resection of the ACTH-secreting lung tumour",
+    "Metyrapone",
+    "Pasireotide",
+    "Gradual steroid reduction with a steroid-sparing agent",
+    "External pituitary radiotherapy",
+    "Temozolomide",
+    "Abrupt cessation of glucocorticoids",
+    "Cabergoline"
+   ],
+   "items": [
+    {
+     "stem": "A 33-year-old woman has ACTH-independent Cushing's syndrome. CT shows a 3 cm smooth, homogeneous left adrenal mass and a normal right adrenal.",
+     "answer": 1,
+     "explanation": "A benign-looking unilateral adrenal adenoma: **laparoscopic adrenalectomy** is the treatment of choice (with steroid cover, as the other adrenal is suppressed).",
+     "studyRef": {
+      "sectionId": "endo-cushing.s6"
+     }
+    },
+    {
+     "stem": "A 64-year-old man has ectopic ACTH syndrome from metastatic small-cell lung cancer. His potassium is 2.3 mmol/L and he is profoundly weak. Chemotherapy is planned and he needs his cortisol controlled now.",
+     "answer": 5,
+     "explanation": "The tumour is incurable, so the aim is to **control cortisol medically** — metyrapone blocks 11β-hydroxylase. Pasireotide is licensed for pituitary-dependent (Cushing's) disease.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s6"
+     }
+    },
+    {
+     "stem": "A 38-year-old woman has persistent Cushing's disease despite trans-sphenoidal surgery, later pituitary radiotherapy and a trial of steroidogenesis inhibitors that she could not tolerate. She wants definitive control of her cortisol excess.",
+     "answer": 3,
+     "explanation": "When pituitary surgery, radiotherapy and medical therapy have failed, **bilateral adrenalectomy** is the effective last resort — with life-long replacement and surveillance for Nelson’s syndrome (her previous radiotherapy may lower that risk).",
+     "studyRef": {
+      "sectionId": "endo-cushing.s6"
+     }
+    },
+    {
+     "stem": "A 26-year-old man has needed prednisolone 30 mg daily for 9 months to control severe Crohn’s disease and is now Cushingoid with striae and early osteopenia.",
+     "answer": 7,
+     "explanation": "Iatrogenic Cushing’s: **reduce the steroid gradually** where possible and use a **steroid-sparing immunosuppressant** (e.g. azathioprine). Never stop long-term steroids abruptly — the suppressed axis cannot respond.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 691,
+     "page": 669,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 692,
+     "page": 670,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 624,
+     "page": 602,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 682,
+     "page": 645,
+     "chapter": "Endocrine disease"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q19",
+   "kind": "emq",
+   "leadIn": "Using the options, choose the most useful investigation in every scenario. One option may suit several scenarios, or none.",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Imaging and localisation in Cushing’s syndrome",
+   "options": [
+    "Pituitary MRI",
+    "Bilateral inferior petrosal sinus sampling",
+    "Adrenal CT",
+    "CT of thorax and abdomen",
+    "Somatostatin receptor (octreotide) scintigraphy",
+    "Bone mineral density scan",
+    "Formal visual field testing",
+    "Thyroid ultrasound",
+    "Echocardiogram"
+   ],
+   "items": [
+    {
+     "stem": "A 29-year-old woman has ACTH-dependent Cushing's syndrome. Cortisol falls by 70% on high-dose dexamethasone and rises after CRH.",
+     "answer": 0,
+     "explanation": "The biochemistry points to the **pituitary**, so image it with **MRI**; an adenoma > 6 mm may make BIPSS unnecessary.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s5"
+     }
+    },
+    {
+     "stem": "A 52-year-old man has ACTH-dependent Cushing’s that does not suppress on high-dose dexamethasone and does not respond to CRH. CT of the chest and abdomen is normal.",
+     "answer": 4,
+     "explanation": "Two steps: the tests point to an **ectopic source**; when CT cannot find it, **somatostatin receptor scintigraphy** can show a small neuroendocrine tumour such as a carcinoid.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s5"
+     }
+    },
+    {
+     "stem": "A 46-year-old woman has just been diagnosed with Cushing's syndrome. Electrolytes, glucose and HbA1c have been checked. Which further baseline test assesses an important complication?",
+     "answer": 5,
+     "explanation": "Every patient needs **bone density measurement** at baseline, because cortisol excess causes osteoporosis and fractures.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 690,
+     "page": 668,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 691,
+     "page": 669,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 692,
+     "page": 670,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 624,
+     "page": 602,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q20",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 25-year-old woman develops Cushingoid features after a year of high-dose prednisolone for lupus. Unlike her friend with Cushing’s disease, she has no acne or excess hair growth.",
+   "leadIn": "What best explains the absence of androgen excess?",
+   "options": [
+    "Exogenous steroid suppresses ACTH, so adrenal androgen output falls",
+    "Prednisolone blocks androgen receptors in the skin",
+    "Prednisolone is converted to oestrogen in fat",
+    "Lupus causes primary adrenal failure",
+    "Androgen excess appears only after 5 years of steroid use"
+   ],
+   "answer": 0,
+   "explanation": "Adrenal androgens are driven by ACTH. **Exogenous steroids suppress ACTH**, so androgen production falls; androgen excess and virilisation are features of **ACTH-dependent** causes.",
+   "whyNot": [
+    "",
+    "Prednisolone is not an androgen-receptor antagonist.",
+    "There is no such conversion of prednisolone.",
+    "Lupus does not explain it, and adrenal failure would not give a Cushingoid picture.",
+    "Duration is not the explanation; the mechanism is ACTH suppression."
+   ],
+   "studyRef": {
+    "sectionId": "endo-cushing.s3"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 490,
+     "page": 490,
+     "chapter": "Diseases of the adrenal glands"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 491,
+     "page": 491,
+     "chapter": "Diseases of the adrenal glands"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q21",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "Three days after trans-sphenoidal removal of an ACTH-secreting microadenoma, a 37-year-old woman's 09:00 serum cortisol is undetectable. She feels tired and nauseated.",
+   "leadIn": "What is the best interpretation?",
+   "options": [
+    "Likely surgical cure; give glucocorticoid replacement",
+    "Surgery has failed; arrange bilateral adrenalectomy",
+    "Early Nelson's syndrome",
+    "Laboratory error; repeat in 3 months",
+    "Evidence of an additional ectopic ACTH source"
+   ],
+   "answer": 0,
+   "explanation": "After successful selective adenomectomy the remaining normal corticotrophs are suppressed, so patients are almost always **ACTH-deficient** at first — a **good prognostic sign**. They need glucocorticoid cover until the axis recovers.",
+   "whyNot": [
+    "",
+    "Undetectable cortisol shows the tumour has been removed, not that surgery failed.",
+    "Nelson’s follows bilateral adrenalectomy, not pituitary surgery, and causes very high ACTH.",
+    "This is the expected finding; ignoring it risks adrenal crisis.",
+    "An ectopic source would keep cortisol high."
+   ],
+   "studyRef": {
+    "sectionId": "endo-cushing.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 624,
+     "page": 602,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q22",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A patient with ACTH-dependent Cushing's syndrome has a CRH stimulation test.",
+   "leadIn": "Which result most strongly favours Cushing's disease over ectopic ACTH?",
+   "options": [
+    "Cortisol rises by more than 20% from baseline",
+    "No change in ACTH or cortisol",
+    "Cortisol falls by more than 50%",
+    "ACTH falls below 1.1 pmol/L",
+    "Cortisol rises only after dexamethasone"
+   ],
+   "answer": 0,
+   "explanation": "Pituitary corticotroph tumours still respond to CRH: a **> 20% rise in cortisol or > 50% rise in ACTH** favours Cushing’s disease. Ectopic tumours rarely respond.",
+   "whyNot": [
+    "",
+    "No response is the typical ectopic pattern.",
+    "A > 50% fall is the high-dose dexamethasone criterion, not a CRH response.",
+    "ACTH below 1.1 pmol/L indicates an adrenal cause, not a CRH response.",
+    "This is not how the CRH test is read."
+   ],
+   "studyRef": {
+    "sectionId": "endo-cushing.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 692,
+     "page": 670,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 681,
+     "page": 644,
+     "chapter": "Endocrine disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 624,
+     "page": 602,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A student asks why severe Cushing's syndrome should be treated promptly.",
+   "leadIn": "What is the approximate 5-year mortality of untreated severe Cushing’s syndrome?",
+   "options": [
+    "5%",
+    "10%",
+    "25%",
+    "50%",
+    "90%"
+   ],
+   "answer": 3,
+   "explanation": "Untreated severe Cushing’s has about a **50% 5-year mortality**, mainly from thromboembolism, hypertension, MI, infection and heart failure.",
+   "whyNot": [
+    "Far too low.",
+    "Too low.",
+    "Too low.",
+    "",
+    "Too high."
+   ],
+   "studyRef": {
+    "sectionId": "endo-cushing.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 691,
+     "page": 669,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 624,
+     "page": 602,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q24",
+   "kind": "emq",
+   "leadIn": "Using the options, pair every patient with the complication that fits best. One option may suit several patients, or none.",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Complications of glucocorticoid excess",
+   "options": [
+    "Osteoporotic vertebral fracture",
+    "Avascular necrosis of the femoral head",
+    "Steroid-induced psychosis",
+    "Cataract",
+    "Hypokalaemic alkalosis",
+    "Glucocorticoid-induced neutrophilia",
+    "Proximal myopathy",
+    "Infection with little inflammatory response",
+    "Hyperglycaemia",
+    "Peptic ulceration"
+   ],
+   "items": [
+    {
+     "stem": "A 72-year-old woman has taken prednisolone for polymyalgia rheumatica for 2 years without bone protection. She has sudden severe mid-back pain after lifting a shopping bag and has lost 3 cm in height.",
+     "answer": 0,
+     "explanation": "Long-term steroids cause **osteoporosis**, and steroid-treated patients fracture at higher bone density; sudden back pain with height loss is a vertebral collapse. Bone protection should be considered beyond 3 months.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s4"
+     }
+    },
+    {
+     "stem": "A 45-year-old man admitted with an asthma attack has had high-dose prednisolone for 3 days. He is afebrile and improving, with no focus of infection, but his white count is 15 × 10⁹/L, mainly neutrophils.",
+     "answer": 5,
+     "explanation": "Glucocorticoids **raise the neutrophil count**; in a well, afebrile patient without a focus, this is a drug effect rather than infection.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s4"
+     }
+    },
+    {
+     "stem": "A 31-year-old woman on long-term high-dose steroids for lupus has had 2 months of deep groin pain on walking.",
+     "answer": 1,
+     "explanation": "Groin pain on walking in a patient on long-term **exogenous steroids** suggests **avascular necrosis of the femoral head**, a complication seen especially with exogenous steroid use.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 692,
+     "page": 670,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 491,
+     "page": 491,
+     "chapter": "Diseases of the adrenal glands"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 690,
+     "page": 668,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q25",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 48-year-old man with Cushing's disease who is unsuitable for surgery starts twice-daily subcutaneous pasireotide.",
+   "leadIn": "Which adverse effect is most commonly associated with this drug?",
+   "options": [
+    "Hyperglycaemia",
+    "Hyperprolactinaemia",
+    "Hyperkalaemia",
+    "Hypercalcaemia",
+    "Hyponatraemia"
+   ],
+   "answer": 0,
+   "explanation": "Pasireotide, a **somatostatin analogue** that suppresses tumour ACTH, commonly causes **hyperglycaemia**. Cortisol tends to rebound when it is stopped.",
+   "whyNot": [
+    "",
+    "Not a recognised common effect of pasireotide.",
+    "Potassium is more likely to be low in Cushing’s; pasireotide is not linked to hyperkalaemia.",
+    "Not a recognised effect.",
+    "Not a recognised common effect."
+   ],
+   "studyRef": {
+    "sectionId": "endo-cushing.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 624,
+     "page": 602,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 691,
+     "page": 669,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q26",
+   "kind": "emq",
+   "leadIn": "Using the options, pair every patient with the diagnosis that fits best. One option may suit several patients, or none.",
+   "pool": "mock",
+   "difficulty": 3,
+   "theme": "Diagnosis of cortisol excess",
+   "options": [
+    "Cushing's disease",
+    "Ectopic ACTH syndrome",
+    "Adrenal adenoma",
+    "Adrenocortical carcinoma",
+    "Iatrogenic Cushing's syndrome",
+    "Nelson's syndrome",
+    "Alcohol-induced pseudo-Cushing's",
+    "ACTH-independent macronodular adrenal hyperplasia",
+    "Simple obesity",
+    "Primary adrenal insufficiency"
+   ],
+   "items": [
+    {
+     "stem": "A 24-year-old woman has 2 years of gradual weight gain, purple striae and irregular periods. Two screening tests are abnormal, morning ACTH is 8 pmol/L, cortisol falls by 65% on high-dose dexamethasone, and MRI shows an 8 mm pituitary lesion.",
+     "answer": 0,
+     "explanation": "ACTH-dependent, suppresses on high-dose dexamethasone, with a pituitary lesion > 6 mm: **Cushing’s disease**.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s5"
+     }
+    },
+    {
+     "stem": "A 66-year-old man has rapidly progressive Cushing's syndrome with undetectable ACTH. CT shows a 9 cm irregular left adrenal mass with features of malignancy.",
+     "answer": 3,
+     "explanation": "Two steps: suppressed ACTH means an adrenal cause, and a **large (> 5 cm) mass with malignant features** means **adrenocortical carcinoma** rather than an adenoma.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s5"
+     }
+    },
+    {
+     "stem": "A 49-year-old woman has ACTH-independent Cushing's syndrome. CT shows both adrenal glands to be markedly enlarged and replaced by multiple large nodules.",
+     "answer": 7,
+     "explanation": "Suppressed ACTH with **bilateral large nodular adrenals** fits ACTH-independent macronodular adrenal hyperplasia (AIMAH) — a rare cause.",
+     "studyRef": {
+      "sectionId": "endo-cushing.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 691,
+     "page": 669,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 692,
+     "page": 670,
+     "chapter": "Endocrinology"
+    }
+   ]
+  },
+  {
+   "id": "endo-cushing.q27",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 3,
+   "stem": "A 35-year-old woman has ACTH-dependent Cushing's syndrome with a normal pituitary MRI. She undergoes bilateral inferior petrosal sinus sampling.",
+   "leadIn": "Which result best confirms a pituitary source?",
+   "options": [
+    "Central-to-peripheral ACTH ratio greater than 2 : 1 at baseline",
+    "Central-to-peripheral ACTH ratio of 1 : 1 at baseline",
+    "Peripheral ACTH higher than central ACTH",
+    "Central-to-peripheral ratio below 1.5 : 1 after CRH",
+    "Equal central and peripheral ACTH after CRH"
+   ],
+   "answer": 0,
+   "explanation": "A **central-to-peripheral ACTH gradient > 2 : 1 at baseline (or > 3 : 1 after CRH)** shows the pituitary is the source. BIPSS is the best confirmation of Cushing’s disease when MRI is unhelpful.",
+   "whyNot": [
+    "",
+    "No gradient suggests an ectopic source.",
+    "A higher peripheral level points away from the pituitary.",
+    "Below the > 3 : 1 post-CRH threshold — no pituitary gradient.",
+    "No gradient after CRH suggests ectopic ACTH."
+   ],
+   "studyRef": {
+    "sectionId": "endo-cushing.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 691,
+     "page": 669,
+     "chapter": "Endocrinology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 692,
+     "page": 670,
+     "chapter": "Endocrinology"
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "endo-cushing.o1",
+   "sectionId": "endo-cushing.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 690,
+    "page": 668,
+    "chapter": "Endocrinology",
+    "figure": "Fig. 18.20"
+   },
+   "identify": "Cushingoid habitus: moon face, plethora, central obesity, striae and thin limbs — and resolution 1 year after trans-sphenoidal removal of a microadenoma (Cushing's disease)."
+  },
+  {
+   "id": "endo-cushing.o2",
+   "sectionId": "endo-cushing.s4",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 623,
+    "page": 601,
+    "chapter": "Endocrinology",
+    "figure": "Fig. 21.15"
+   },
+   "identify": "Symptoms and signs of Cushing's syndrome (proximal myopathy, thin skin, bruising, purple striae, moon face, buffalo hump, central obesity) — know which best separate it from simple obesity."
+  },
+  {
+   "id": "endo-cushing.o3",
+   "sectionId": "endo-cushing.s4",
+   "cite": {
+    "book": "fa2ck11",
+    "pdfPage": 230,
+    "page": 230,
+    "chapter": "Endocrinology",
+    "figure": "FIGURE 2.3-22"
+   },
+   "identify": "Physical findings of Cushing syndrome shown on one figure — be ready to name each Cushingoid sign on a spotter."
+  },
+  {
+   "id": "endo-cushing.o4",
+   "sectionId": "endo-cushing.s3",
+   "cite": {
+    "book": "stepup6",
+    "pdfPage": 493,
+    "page": 493,
+    "chapter": "Diseases of the adrenal glands",
+    "figure": "FIGURE 4-9"
+   },
+   "identify": "Virilisation (masculinisation) of a 46,XX patient from adrenal androgen excess — Step-Up ties this to ACTH-dependent Cushing’s; it is not seen in iatrogenic Cushing’s, where ACTH is suppressed."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:32:33.444Z",
+  "contentHash": "80b87904dbe2faa10db165cc34bee03115444dc624800851139144cb05738785"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:32:33.454Z",
+  "contentHash": "80b87904dbe2faa10db165cc34bee03115444dc624800851139144cb05738785",
+  "checkerVersion": "source-check-v1"
+ }
+}

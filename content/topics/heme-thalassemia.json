@@ -1,0 +1,3074 @@
+{
+ "topicId": "heme-thalassemia",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "heme-thalassemia.s1",
+   "title": "Definition, haemoglobin types and inheritance",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Thalassaemia** is an inherited disorder of haemoglobin _quantity_. One kind of globin chain (alpha or beta) is made in reduced amounts or not at all. Compare the **qualitative** haemoglobinopathies such as HbS, where the chain is made but its structure is abnormal.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 973,
+       "page": 951
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Normal haemoglobin has two alpha and two non-alpha chains, made in a balanced 1:1 ratio. Thalassaemia breaks that balance, and **the bigger the imbalance, the more severe the disease**.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 249,
+       "page": 212
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 365,
+       "page": 341
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Haemoglobins you must know",
+     "columns": [
+      "Hb",
+      "Chains",
+      "Normal role",
+      "Thalassaemia link"
+     ],
+     "rows": [
+      [
+       "HbA",
+       "α2β2",
+       "About 97% of adult Hb",
+       "Absent or greatly reduced in beta-thal major"
+      ],
+      [
+       "HbA2",
+       "α2δ2",
+       "About 2% of adult Hb",
+       "**Raised in beta-thal**, the carrier screening marker"
+      ],
+      [
+       "HbF",
+       "α2γ2",
+       "Main fetal Hb",
+       "Raised in beta-thal"
+      ],
+      [
+       "HbH",
+       "β4",
+       "Not normally present",
+       "Alpha-thal (3 genes lost), functionally useless"
+      ],
+      [
+       "Hb Barts",
+       "γ4",
+       "Not normally present",
+       "Alpha-thal (4 genes lost), cannot deliver oxygen"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 365,
+       "page": 341
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 250,
+       "page": 213
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Genetics at a glance",
+     "items": [
+      "Alpha-globin genes: **two per chromosome 16**, so four in total.",
+      "Beta-globin gene: on **chromosome 11**.",
+      "Both alpha- and beta-thalassaemia are **autosomal recessive**.",
+      "Alpha-thal is usually from **gene deletions**. Beta-thal is usually from **point mutations** that give no (β0) or reduced (β+) beta chain."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 187,
+       "page": 187
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 188,
+       "page": 188
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Who is affected",
+     "items": [
+      "Beta-thal is the **commonest** type. It is most frequent around the Mediterranean (especially Greek and Italian ancestry), and also seen in African and Asian groups.",
+      "Alpha-thal is common in **South-east Asia**, and also occurs in Mediterranean, African and Middle Eastern populations."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 323,
+       "page": 323
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 973,
+      "page": 951,
+      "figure": "Fig. 23.21"
+     },
+     "note": "World map of haemoglobinopathies: see the thalassaemia belt across the Mediterranean, Middle East and Asia."
+    },
+    {
+     "type": "pearl",
+     "text": "Alpha chains are needed **from fetal life**, so severe alpha defects can kill in utero. Beta-chain disorders stay silent until **about 6 months**, when HbF (no beta chains) gives way to HbA.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 973,
+       "page": 951
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.s2",
+   "title": "Classification of the thalassaemias",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Classify thalassaemia in **two ways**: by the **chain and genotype** (alpha vs beta, β0 vs β+, number of alpha genes lost), and **clinically by transfusion need**. The current clinical labels are **thalassaemia trait** (symptom-free carrier), **NTDT** (non-transfusion-dependent, formerly _intermedia_) and **TDT** (transfusion-dependent, formerly _major_). A patient can move between NTDT and TDT as circumstances change.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 366,
+       "page": 342
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 975,
+       "page": 953
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Beta-thalassaemia",
+     "columns": [
+      "Genotype",
+      "Older name",
+      "Current label",
+      "Clinical picture"
+     ],
+     "rows": [
+      [
+       "One abnormal beta allele (heterozygote)",
+       "Minor / trait",
+       "Thalassaemia trait (carrier)",
+       "Symptom-free, mild or no microcytic anaemia, no transfusions"
+      ],
+      [
+       "Two abnormal alleles, milder net defect or protective modifiers",
+       "Intermedia",
+       "NTDT",
+       "Moderate anaemia, transfusion only occasionally"
+      ],
+      [
+       "Homozygous or compound heterozygous, severe (e.g. β0/β0)",
+       "Major (Cooley anaemia)",
+       "TDT",
+       "Transfusion-dependent anaemia from infancy"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 366,
+       "page": 342
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 323,
+       "page": 323
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Alpha-thalassaemia: count the genes lost (normal αα/αα)",
+     "columns": [
+      "Genes lost",
+      "Genotype",
+      "Haemoglobin",
+      "Picture"
+     ],
+     "rows": [
+      [
+       "1",
+       "αα/−α",
+       "HbA",
+       "Silent carrier: no clinical effect, blood count normal or slightly microcytic"
+      ],
+      [
+       "2",
+       "−α/−α (trans) or −−/αα (cis)",
+       "HbA",
+       "Alpha-thal trait: microcytosis with or without mild anaemia"
+      ],
+      [
+       "3",
+       "−−/−α",
+       "HbH (β4)",
+       "HbH disease: moderate anaemia and splenomegaly, usually NTDT"
+      ],
+      [
+       "4",
+       "−−/−−",
+       "Hb Barts (γ4)",
+       "Hydrops fetalis: stillbirth or death soon after birth"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 368,
+       "page": 344
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 323,
+       "page": 323
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Combined disorders and modifiers",
+     "items": [
+      "**Sickle cell β-thalassaemia** (sickle trait plus beta-thal trait) behaves clinically like HbSS.",
+      "**HbE/β-thalassaemia** gives anaemia of variable severity, which can be as severe as TDT.",
+      "Co-inheriting **alpha-thal** or **hereditary persistence of HbF** makes beta-thal milder. **Extra (triplicated) alpha genes** make it worse."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 372,
+       "page": 348
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 366,
+       "page": 342
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 367,
+       "page": 343
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 366,
+      "page": 342,
+      "figure": "Fig. 16.19"
+     },
+     "note": "How genotype and modifiers map onto carrier, NTDT and TDT."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 369,
+      "page": 345,
+      "figure": "Fig. 16.21"
+     },
+     "note": "Unequal crossover creates alpha-gene deletions and triplications. Two α0 carriers have a 1-in-4 risk of hydrops."
+    },
+    {
+     "type": "pearl",
+     "text": "Both alpha and beta trait are easily **mistaken for iron deficiency**. Beta trait is more common than alpha trait.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 809,
+       "page": 809
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 975,
+       "page": 953
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Terminology trap:** Step-Up equates \"non-transfusion-dependent\" with the heterozygous carrier. In Kumar & Clark, **NTDT means the former intermedia** (including HbH disease), and the carrier is still called **trait**. Davidson keeps major/minor/intermediate. In the exam, trait is not NTDT.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 366,
+       "page": 342
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 807,
+       "page": 807
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 975,
+       "page": 953
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Deletion vs point mutation:** alpha-thal is mainly from gene **deletions**. Beta-thal is mainly from **point mutations** affecting transcription, RNA splicing or translation (frameshift or nonsense). Some quick-review notes describe beta-thal major as a deletion, but Davidson stresses point mutations.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 366,
+       "page": 342
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 413,
+       "page": 413
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 188,
+       "page": 188
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.s3",
+   "title": "Pathogenesis: globin chain imbalance",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The core problem is **unbalanced chain synthesis**. The chain that is in excess cannot pair, so it **precipitates**. In marrow precursors this kills erythroblasts before they mature (**ineffective erythropoiesis**). In circulating red cells it damages the membrane, shortens survival and causes **haemolysis**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 365,
+       "page": 341
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 973,
+       "page": 951
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 249,
+       "page": 212
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Beta vs alpha: what the surplus chain does",
+     "columns": [
+      "Feature",
+      "Beta-thalassaemia",
+      "Alpha-thalassaemia"
+     ],
+     "rows": [
+      [
+       "Chain in excess",
+       "Alpha",
+       "Beta (gamma in the fetus)"
+      ],
+      [
+       "Fate of surplus",
+       "Insoluble alpha chains precipitate and damage the membrane. Some are mopped up by δ chains (more HbA2) and γ chains (more HbF).",
+       "Surplus chains form tetramers: HbH (β4) and Hb Barts (γ4), which are useless for oxygen delivery"
+      ],
+      [
+       "Electrophoresis clue",
+       "Raised HbA2, often raised HbF",
+       "HbA2 normal or low, HbH inclusions on supravital stain"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 973,
+       "page": 951
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 365,
+       "page": 341
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 250,
+       "page": 213
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 368,
+       "page": 344
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 806,
+       "page": 806
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Why the cells are small:** a missing haemoglobin component (globin) slows haemoglobinisation. Precursors go through **extra divisions** before release, so the cells come out microcytic and hypochromic.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 962,
+       "page": 940
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "From marrow to bedside",
+     "items": [
+      "Chronic anaemia drives **marrow expansion**, causing frontal bossing, prominent cheekbones and maxilla, and fragile bones prone to fracture.",
+      "**Extramedullary haemopoiesis** in the liver and spleen causes hepatosplenomegaly.",
+      "Fragile red cells are trapped and destroyed in the **spleen**, which enlarges.",
+      "**Chronic haemolysis** leads to jaundice and pigment gallstones."
+     ],
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 187,
+       "page": 187
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 367,
+       "page": 343
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 250,
+       "page": 213
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Iron loading without transfusion:** ineffective erythropoiesis makes erythroblasts release **erythroferrone (Erfe)**. This suppresses **hepcidin**, ferroportin is upregulated, and the gut absorbs too much iron. Transfusions then add a further iron load.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 354,
+       "page": 330
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 367,
+       "page": 343
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 187,
+       "page": 187
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Modifiers act through the imbalance. **Fewer alpha chains** (co-inherited alpha-thal) or **more gamma chains** (HPFH) to bind surplus alpha give a milder disease. **Extra alpha genes** give a more severe one.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 366,
+       "page": 342
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 367,
+       "page": 343
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Students often reverse this: **HbH is made of beta chains** and occurs in **alpha**-thalassaemia, because the unpaired beta chains group together. In beta-thal the surplus chain is alpha.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 973,
+       "page": 951
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.s4",
+   "title": "Trait and non-transfusion-dependent thalassaemia (NTDT)",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Beta-thalassaemia trait** is a symptom-free heterozygous state, usually found on a routine blood count or antenatal screen. Anaemia is mild or absent, and the MCV and MCH are low. **Iron stores and ferritin are normal.**",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 366,
+       "page": 342
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 250,
+       "page": 213
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Thalassaemia trait vs iron deficiency (and other microcytic anaemias)",
+     "columns": [
+      "Test",
+      "Thal trait",
+      "Iron deficiency",
+      "Anaemia of chronic disease"
+     ],
+     "rows": [
+      [
+       "MCV",
+       "Very low for the degree of anaemia",
+       "Reduced",
+       "Low-normal or normal"
+      ],
+      [
+       "Serum iron / TIBC",
+       "Normal / normal",
+       "Low / high",
+       "Low / low"
+      ],
+      [
+       "Serum ferritin",
+       "Normal",
+       "Low",
+       "Normal or raised"
+      ],
+      [
+       "Marrow iron",
+       "Present",
+       "Absent",
+       "Present"
+      ],
+      [
+       "Iron in erythroblasts",
+       "Present",
+       "Absent",
+       "Absent or reduced"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 355,
+       "page": 331
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 943,
+       "page": 921
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Confirming the trait",
+     "items": [
+      "**Beta trait:** HPLC/electrophoresis shows **raised HbA2**, and often slightly raised HbF. RDW is usually normal.",
+      "**Mentzer index** (MCV ÷ RBC count) **< 13 favours thalassaemia** (about 60% sensitive, 98% specific). An MCV below 70 with normal iron also points to it.",
+      "**Alpha trait (2 genes lost):** electrophoresis is **normal** (HbA2 not raised). HbH inclusions may be seen with **brilliant cresyl blue** (supravital) stain. Confirm with **DNA analysis** or globin chain synthesis studies.",
+      "**Silent carrier (1 gene lost):** symptom-free with normal Hb. It needs no treatment."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 366,
+       "page": 342
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 324,
+       "page": 324
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 368,
+       "page": 344
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 809,
+       "page": 809
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 360\" role=\"img\" aria-label=\"Low MCV work-up\">\n<defs><marker id=\"ar\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#555\"/></marker></defs>\n<rect x=\"170\" y=\"10\" width=\"180\" height=\"30\" rx=\"6\" fill=\"#eef3fb\" stroke=\"#4a6fa5\"/>\n<text x=\"260\" y=\"28\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">Low MCV / low MCH</text>\n<line x1=\"260\" y1=\"40\" x2=\"260\" y2=\"62\" stroke=\"#555\" marker-end=\"url(#ar)\"/>\n<rect x=\"150\" y=\"64\" width=\"220\" height=\"30\" rx=\"6\" fill=\"#eef3fb\" stroke=\"#4a6fa5\"/>\n<text x=\"260\" y=\"82\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">Blood film + reticulocyte count</text>\n<line x1=\"210\" y1=\"94\" x2=\"120\" y2=\"124\" stroke=\"#555\" marker-end=\"url(#ar)\"/>\n<line x1=\"310\" y1=\"94\" x2=\"390\" y2=\"124\" stroke=\"#555\" marker-end=\"url(#ar)\"/>\n<rect x=\"20\" y=\"126\" width=\"200\" height=\"40\" rx=\"6\" fill=\"#eef3fb\" stroke=\"#4a6fa5\"/>\n<text x=\"120\" y=\"144\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">Hypochromia only:</text>\n<text x=\"120\" y=\"159\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">check serum ferritin</text>\n<rect x=\"290\" y=\"126\" width=\"215\" height=\"40\" rx=\"6\" fill=\"#eef3fb\" stroke=\"#4a6fa5\"/>\n<text x=\"397\" y=\"144\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">Target cells, basophilic stippling:</text>\n<text x=\"397\" y=\"159\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">Hb HPLC / electrophoresis</text>\n<line x1=\"120\" y1=\"166\" x2=\"120\" y2=\"196\" stroke=\"#555\" marker-end=\"url(#ar)\"/>\n<rect x=\"20\" y=\"198\" width=\"200\" height=\"30\" rx=\"6\" fill=\"#fdf0e6\" stroke=\"#b5651d\"/>\n<text x=\"120\" y=\"216\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">Low ferritin = iron deficiency</text>\n<line x1=\"350\" y1=\"166\" x2=\"320\" y2=\"226\" stroke=\"#555\" marker-end=\"url(#ar)\"/>\n<line x1=\"450\" y1=\"166\" x2=\"450\" y2=\"226\" stroke=\"#555\" marker-end=\"url(#ar)\"/>\n<rect x=\"250\" y=\"228\" width=\"140\" height=\"40\" rx=\"6\" fill=\"#e9f6ec\" stroke=\"#2e7d32\"/>\n<text x=\"320\" y=\"246\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">Raised HbA2</text>\n<text x=\"320\" y=\"261\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">= beta-thal trait</text>\n<rect x=\"395\" y=\"228\" width=\"120\" height=\"70\" rx=\"6\" fill=\"#e9f6ec\" stroke=\"#2e7d32\"/>\n<text x=\"455\" y=\"246\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">Normal HbA2</text>\n<text x=\"455\" y=\"261\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">(normal ferritin)</text>\n<text x=\"455\" y=\"276\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">= ? alpha trait:</text>\n<text x=\"455\" y=\"291\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">DNA, family</text>\n</svg>",
+     "alt": "Algorithm: low MCV, then film and reticulocytes. Hypochromia alone: check ferritin (low = iron deficiency). Target cells or stippling: Hb electrophoresis. Raised HbA2 = beta-thal trait; normal HbA2 with normal ferritin suggests alpha-thal trait (DNA, family).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 946,
+       "page": 924,
+       "figure": "Fig. 23.10"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 324,
+       "page": 324
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "NTDT (formerly thalassaemia intermedia)",
+     "items": [
+      "Symptomatic **moderate anaemia** (about Hb 70–100 g/L) that **does not need regular transfusion**. Occasional transfusion may be needed during infection or pregnancy.",
+      "**Splenomegaly** and bone deformity.",
+      "Recurrent **leg ulcers**, **gallstones** and infections.",
+      "**Iron overload can occur without regular transfusion**, because of increased gut absorption.",
+      "Many patients are not transfusion-dependent in childhood but become so in adulthood."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 366,
+       "page": 342
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 367,
+       "page": 343
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 250,
+       "page": 213
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 808,
+       "page": 808
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "HbH disease (3 alpha genes lost)",
+     "items": [
+      "Common in parts of **Asia**. Gives moderate anaemia and splenomegaly, and usually behaves as **NTDT**.",
+      "HbH is seen on electrophoresis, and HbA2 is normal or reduced. HbH precipitates in erythroblasts and red cells.",
+      "Haemolytic episodes, for example with infection, may need transfusion."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 368,
+       "page": 344
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 809,
+       "page": 809
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 943,
+      "page": 921,
+      "figure": "Fig. 23.8"
+     },
+     "note": "Panels A (microcytosis) and C (target cells) both list thalassaemia among their causes. Panel I shows basophilic stippling, which this legend links to dyshaematopoiesis and lead poisoning."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 355,
+      "page": 331,
+      "figure": "Fig. 16.9"
+     },
+     "note": "Iron-deficiency film (hypochromic microcytes, anisopoikilocytosis), for comparison with a thalassaemia film."
+    },
+    {
+     "type": "pitfall",
+     "text": "Classic trap: a **mild microcytic anaemia that does not respond to iron** may be thalassaemia trait, so request **Hb electrophoresis**. Do not give iron to carriers unless iron deficiency is proven.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 809,
+       "page": 809
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 366,
+       "page": 342
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.s5",
+   "title": "Transfusion-dependent thalassaemia (TDT) and hydrops fetalis",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Beta-thalassaemia major / TDT** occurs in homozygous or compound heterozygous patients who make little or no HbA. The baby is protected at birth by HbF. As the γ-to-β switch happens, a **profound hypochromic anaemia appears after the first 4–6 months**, and most children present **within the first year**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 367,
+       "page": 343
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 250,
+       "page": 213
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Presentation in infancy",
+     "items": [
+      "**Failure to thrive**, growth delay and **recurrent bacterial infections**.",
+      "Severe pallor, jaundice and dark urine.",
+      "**Massive hepatosplenomegaly** from extramedullary haemopoiesis."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 367,
+       "page": 343
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 250,
+       "page": 213
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 807,
+       "page": 807
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Marrow expansion: bone signs",
+     "items": [
+      "**Thalassaemic (chipmunk) facies:** enlarged maxilla and prominent frontal and parietal bones.",
+      "Skull X-ray shows a **\"hair-on-end\" (crew-cut)** pattern as marrow invades cortical bone.",
+      "Hand X-ray shows a widened marrow space with a **thin cortex**. Pathological fractures can occur.",
+      "Gross deformity is now seen mainly where **transfusion support is poor**."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 367,
+       "page": 343
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 250,
+       "page": 213
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 807,
+       "page": 807
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 324,
+       "page": 324
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Diagnostic findings in beta-thal major",
+     "columns": [
+      "Test",
+      "Finding"
+     ],
+     "rows": [
+      [
+       "FBC",
+       "Profound hypochromic microcytic anaemia, raised reticulocytes"
+      ],
+      [
+       "Blood film",
+       "Severe red cell dysplasia, target cells, circulating nucleated red cells (erythroblastosis)"
+      ],
+      [
+       "HPLC / electrophoresis",
+       "HbA absent or greatly reduced. **HbF very high** (about 95–98% in β0 homozygotes). HbA2 variable"
+      ],
+      [
+       "Family",
+       "Both parents have beta-thal trait (raised HbA2, mild microcytic picture)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 366,
+       "page": 342
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 250,
+       "page": 213
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 807,
+       "page": 807
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Hb Barts hydrops fetalis** happens when all four alpha genes are deleted. With no alpha chains, the fetus makes only γ4 (Hb Barts), which cannot deliver oxygen. The infant is stillborn or dies soon after birth: **pale, oedematous, with a huge liver and spleen**. Intrauterine transfusion can let the fetus survive, but the child then has TDT.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 368,
+       "page": 344
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 251,
+       "page": 214
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 323,
+       "page": 323
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 367,
+      "page": 343,
+      "figure": "Fig. 16.20"
+     },
+     "note": "Thalassaemic facies, hair-on-end skull and expanded hand marrow with thin cortex."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 371,
+      "page": 347,
+      "figure": "Fig. 16.23"
+     },
+     "note": "Electrophoresis lanes: normal, beta-thal trait, sickle trait, sickle cell anaemia and beta-thal major. Note the HbA, HbA2, HbF and HbS bands."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "stepup6",
+      "pdfPage": 808,
+      "page": 808,
+      "figure": "Figure 9-3"
+     },
+     "note": "Thalassaemia film: target cells and a circulating nucleated red cell."
+    },
+    {
+     "type": "pearl",
+     "text": "In TDT the HPLC is dominated by **HbF**. In trait the Hb is only mildly reduced and **HbA2 is raised**. Raised HbF with absent HbA in an infant points to beta-thal major.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 366,
+       "page": 342
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.s6",
+   "title": "Complications",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Complications of thalassaemia",
+     "columns": [
+      "Complication",
+      "Cause and features"
+     ],
+     "rows": [
+      [
+       "Iron overload (secondary haemochromatosis)",
+       "Repeated transfusion plus increased gut absorption. Monitored by serum ferritin"
+      ],
+      [
+       "Heart",
+       "**Cardiomyopathy and tachyarrhythmias**, the leading causes of morbidity and death"
+      ],
+      [
+       "Endocrine and pancreas",
+       "Diabetes, infertility/impotence, poor growth. Endocrine damage can start by adolescence"
+      ],
+      [
+       "Liver",
+       "Iron deposition, leading to cirrhosis"
+      ],
+      [
+       "Bone",
+       "Deformity (chipmunk facies), pathological fractures, osteoporosis, arthritis and joint pain"
+      ],
+      [
+       "Chronic haemolysis",
+       "Jaundice, **pigment (bilirubin) gallstones**"
+      ],
+      [
+       "Extramedullary haemopoiesis",
+       "Hepatosplenomegaly"
+      ],
+      [
+       "Anaemia itself",
+       "High-output heart failure"
+      ],
+      [
+       "NTDT extras",
+       "Recurrent leg ulcers, infections"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 917,
+       "page": 895
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 367,
+       "page": 343
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 187,
+       "page": 187
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 324,
+       "page": 324
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 251,
+       "page": 214
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Complications of treatment",
+     "items": [
+      "**Desferrioxamine excess:** cataracts, retinal damage and **sensorineural deafness**.",
+      "Iron-loaded patients on desferrioxamine are prone to **Yersinia enterocolitica** infection.",
+      "Desferrioxamine therapy is a recognised predisposing factor for **mucormycosis**.",
+      "**Splenectomy:** lifelong risk of overwhelming infection, and it is linked to later **pulmonary hypertension**.",
+      "**Alloimmunisation** from long-term transfusion. Molecular blood group typing before the first transfusion reduces it."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 368,
+       "page": 344
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 325,
+       "page": 303
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 367,
+       "page": 343
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 970,
+       "page": 948
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 371,
+       "page": 347
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Two causes of death to remember: **untreated** TDT kills in early childhood through progressive (anaemic) heart failure. Transfused but **unchelated** TDT kills in the second decade through iron cardiomyopathy.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 807,
+       "page": 807
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 251,
+       "page": 214
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Do not assume that a patient who is never transfused is free of iron overload. **NTDT patients absorb excess iron** through the Erfe–hepcidin pathway and still need ferritin monitoring.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 367,
+       "page": 343
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 354,
+       "page": 330
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.s7",
+   "title": "Management and prevention",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Beta-thalassaemia major / TDT (Davidson Box 23.41 plus Kumar & Clark)",
+     "columns": [
+      "Problem",
+      "Management"
+     ],
+     "rows": [
+      [
+       "Anaemia and ineffective erythropoiesis",
+       "Regular transfusion every few weeks to keep **Hb > 100 g/L**. This suppresses the marrow drive, prevents bone deformity and allows normal growth"
+      ],
+      [
+       "Folate demand",
+       "**Folic acid 5 mg daily**, long term"
+      ],
+      [
+       "Iron overload",
+       "**Never give iron.** Start iron chelation"
+      ],
+      [
+       "Cure",
+       "**Allogeneic HSCT from an HLA-matched sibling.** Best in well children without iron overload or liver damage. Only about 25% have a matched sibling"
+      ],
+      [
+       "Mechanical splenomegaly or excessive transfusion needs",
+       "Splenectomy, now used rarely and delayed into later childhood, with full post-splenectomy care"
+      ],
+      [
+       "High transfusion burden",
+       "**Luspatercept** (subcutaneous, improves red cell maturation). Gene therapy is in development"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 367,
+       "page": 343
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 368,
+       "page": 344
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 324,
+       "page": 324
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 807,
+       "page": 807
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Iron chelators",
+     "columns": [
+      "Drug",
+      "Route",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "Deferasirox",
+       "Oral, once daily",
+       "Now standard where it is available and affordable"
+      ],
+      [
+       "Desferrioxamine",
+       "Parenteral: overnight subcutaneous infusion on most nights (IV in some texts)",
+       "Add **ascorbic acid 200 mg daily** to increase urinary iron excretion. Toxicity: eyes, ears, Yersinia, mucormycosis"
+      ],
+      [
+       "Deferiprone",
+       "Oral",
+       "Used mainly for **cardiac iron** or in combination"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 367,
+       "page": 343
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 368,
+       "page": 344
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 251,
+       "page": 214
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 324,
+       "page": 324
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Monitoring",
+     "items": [
+      "**Serum ferritin**, checked periodically.",
+      "**MRI (myocardial T2*)** for heart iron, and MRI for liver iron."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 367,
+       "page": 343
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 368,
+       "page": 344
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Post-splenectomy care (Davidson Box 23.37)",
+     "items": [
+      "Pneumococcal, Hib, meningococcal C and influenza vaccines **at least 2–3 weeks before** elective splenectomy.",
+      "Pneumococcal re-immunisation at least every 5 years, and influenza vaccine yearly.",
+      "**Lifelong penicillin V 500 mg twice daily**, or a macrolide if allergic.",
+      "Patient education and an **alert card or bracelet**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 970,
+       "page": 948
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Milder forms",
+     "items": [
+      "**Trait and silent carriers:** no treatment needed. Avoid inappropriate iron and offer genetic counselling.",
+      "**NTDT:** monitor and give folate. Transfuse when needed, for example in infection or pregnancy. Chelate if the transfusion load or iron stores rise.",
+      "**HbH disease:** manage like intermediate beta-thal: folic acid, transfusion if required, **avoid iron**."
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 808,
+       "page": 808
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 188,
+       "page": 188
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 366,
+       "page": 342
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 367,
+       "page": 343
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Prevention",
+     "items": [
+      "Screen at **antenatal booking**. Diagnosis uses FBC (microcytosis), Hb electrophoresis and DNA testing. If the mother is a carrier, **test the partner**.",
+      "Two beta-thal carriers have a **25% (1 in 4) risk of TDT** in every pregnancy.",
+      "Two α0 carriers (−−/αα) have a **25% risk of hydrops fetalis** in every pregnancy.",
+      "**Chorionic villus sampling** with fetal DNA analysis gives a first-trimester diagnosis. It is appropriate only when both parents are known carriers and would accept termination."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 372,
+       "page": 348
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 369,
+       "page": 345
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 187,
+       "page": 187
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Iron is contraindicated** in beta-thal major: these patients are already iron-loaded. Microcytosis here is not a sign of iron lack.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Splenectomy is no longer routine. It is linked to **pulmonary hypertension** and sepsis, so it is reserved for mechanical splenomegaly or a sharply rising transfusion requirement. One quick source suggests a rise of 50% or more.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 367,
+       "page": 343
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 324,
+       "page": 324
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "heme-thalassemia.c1",
+   "sectionId": "heme-thalassemia.s1",
+   "front": "Define thalassaemia.",
+   "back": "An inherited disorder in which one globin chain (alpha or beta) is made in reduced amounts or not at all. It is a **quantitative** haemoglobinopathy.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 975,
+     "page": 953
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 973,
+     "page": 951
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.c2",
+   "sectionId": "heme-thalassemia.s1",
+   "front": "Chains in HbA2, and when is it raised?",
+   "back": "α2δ2 (about 2% of adult Hb). It is **raised in beta-thalassaemia**, including carriers.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 365,
+     "page": 341
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.c3",
+   "sectionId": "heme-thalassemia.s1",
+   "front": "Chromosomes of the alpha- and beta-globin genes?",
+   "back": "Alpha: **chromosome 16** (2 genes per chromosome, 4 in total). Beta: **chromosome 11**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 976,
+     "page": 954
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 188,
+     "page": 188
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.c4",
+   "sectionId": "heme-thalassemia.s2",
+   "front": "Alpha-thal with 3 genes deleted (−−/−α)?",
+   "back": "**HbH disease** (β4): moderate anaemia and splenomegaly, usually NTDT.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 976,
+     "page": 954
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 368,
+     "page": 344
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.c5",
+   "sectionId": "heme-thalassemia.s2",
+   "front": "Alpha-thal with all 4 genes deleted?",
+   "back": "**Hb Barts (γ4) hydrops fetalis**: stillbirth or death soon after birth.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 976,
+     "page": 954
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 368,
+     "page": 344
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.c6",
+   "sectionId": "heme-thalassemia.s2",
+   "front": "Current names for thalassaemia major and intermedia?",
+   "back": "Major = **TDT** (transfusion-dependent). Intermedia = **NTDT** (non-transfusion-dependent). Carriers are still called \"trait\".",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 366,
+     "page": 342
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.c7",
+   "sectionId": "heme-thalassemia.s3",
+   "front": "Two mechanisms of anaemia in thalassaemia?",
+   "back": "Excess chains precipitate, causing **ineffective erythropoiesis** (precursors die in the marrow) and **haemolysis** of circulating red cells.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 365,
+     "page": 341
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 973,
+     "page": 951
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.c8",
+   "sectionId": "heme-thalassemia.s3",
+   "front": "Why are NTDT patients iron-overloaded without regular transfusion?",
+   "back": "Erythroblasts secrete **erythroferrone**, which suppresses hepcidin, so the gut absorbs too much iron.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 367,
+     "page": 343
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 354,
+     "page": 330
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.c9",
+   "sectionId": "heme-thalassemia.s4",
+   "front": "Key labs separating beta-thal trait from iron deficiency?",
+   "back": "Trait: **normal ferritin and iron**, MCV very low for the degree of anaemia, **raised HbA2**.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 366,
+     "page": 342
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 355,
+     "page": 331
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 976,
+     "page": 954
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.c10",
+   "sectionId": "heme-thalassemia.s4",
+   "front": "How is alpha-thal trait confirmed?",
+   "back": "HbA2 is **not** raised (electrophoresis normal). Confirm by **DNA analysis** or globin chain synthesis studies. HbH bodies may be seen on brilliant cresyl blue.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 368,
+     "page": 344
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 324,
+     "page": 324
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.c11",
+   "sectionId": "heme-thalassemia.s4",
+   "front": "Mentzer index cut-off?",
+   "back": "MCV ÷ RBC count **< 13 favours thalassaemia** (about 60% sensitive, 98% specific).",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 324,
+     "page": 324
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.c12",
+   "sectionId": "heme-thalassemia.s5",
+   "front": "Skull X-ray sign of TDT?",
+   "back": "**\"Hair-on-end\" (crew-cut)** skull, from marrow expansion into cortical bone.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 367,
+     "page": 343
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 807,
+     "page": 807
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.c13",
+   "sectionId": "heme-thalassemia.s5",
+   "front": "When does beta-thal major present, and why then?",
+   "back": "After the first **4–6 months** of life, when the γ-to-β switch replaces HbF with HbA, which the child cannot make.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 975,
+     "page": 953
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 367,
+     "page": 343
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.c14",
+   "sectionId": "heme-thalassemia.s6",
+   "front": "Leading cause of death in transfused TDT?",
+   "back": "Iron-induced **cardiomyopathy and tachyarrhythmias**.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 367,
+     "page": 343
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 251,
+     "page": 214
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.c15",
+   "sectionId": "heme-thalassemia.s6",
+   "front": "Infections linked with desferrioxamine?",
+   "back": "**Yersinia enterocolitica** (in iron-loaded patients) and **mucormycosis**.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 368,
+     "page": 344
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 325,
+     "page": 303
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.c16",
+   "sectionId": "heme-thalassemia.s7",
+   "front": "Davidson: transfusion target and folate dose in beta-thal major?",
+   "back": "Keep **Hb > 100 g/L**. Give **folic acid 5 mg daily**. Never give iron.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 976,
+     "page": 954
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.c17",
+   "sectionId": "heme-thalassemia.s7",
+   "front": "Which treatment can cure beta-thal major?",
+   "back": "**Allogeneic HSCT** from an HLA-compatible sibling.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 976,
+     "page": 954
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 368,
+     "page": 344
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.c18",
+   "sectionId": "heme-thalassemia.s7",
+   "front": "Antibiotic prophylaxis after splenectomy?",
+   "back": "Lifelong **penicillin V 500 mg twice daily**, or a macrolide if allergic.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.c19",
+   "sectionId": "heme-thalassemia.s7",
+   "front": "Risk to each pregnancy when both parents have beta-thal trait?",
+   "back": "**25%** chance of TDT (beta-thal major).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 372,
+     "page": 348
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "heme-thalassemia.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 24-year-old Cypriot woman has haemoglobin HPLC at her antenatal booking visit. The report flags one minor adult haemoglobin fraction as raised, and the haematologist explains this is the usual marker of a beta-thalassaemia carrier.",
+   "leadIn": "Which globin chain composition does this raised fraction have?",
+   "options": [
+    "α2β2",
+    "α2δ2",
+    "α2γ2",
+    "β4",
+    "γ4"
+   ],
+   "answer": 1,
+   "explanation": "The carrier marker is **HbA2 (α2δ2)**. In beta-thal, surplus alpha chains pair with delta chains, so HbA2 rises above its normal ~2%.",
+   "whyNot": [
+    "α2β2 is HbA, the main adult haemoglobin. It is reduced, not raised, in beta-thal.",
+    "",
+    "α2γ2 is HbF. It may be raised too, but it is not the standard carrier marker.",
+    "β4 is HbH, found in alpha-thalassaemia.",
+    "γ4 is Hb Barts, found in severe alpha-thalassaemia."
+   ],
+   "studyRef": {
+    "sectionId": "heme-thalassemia.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 365,
+     "page": 341
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 250,
+     "page": 213
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "Parents bring their 7-month-old son, newly diagnosed with homozygous beta-thalassaemia. He was pink and feeding well at birth, and became pale and irritable only over the last month. They ask why the disease did not show at birth.",
+   "leadIn": "Which explanation best accounts for the delayed onset?",
+   "options": [
+    "Maternal HbA crosses the placenta and lasts for months",
+    "Fetal haemoglobin uses gamma chains instead of beta chains",
+    "Beta chains are made only once the spleen matures",
+    "Cord blood transfusion at delivery masks the anaemia",
+    "Alpha-chain production does not start until after birth"
+   ],
+   "answer": 1,
+   "explanation": "Before birth and in early infancy most haemoglobin is **HbF (α2γ2)**, which needs no beta chains. Symptoms appear after about **4–6 months**, when the γ-to-β switch should make HbA.",
+   "whyNot": [
+    "Maternal red cells and haemoglobin do not cross the placenta to sustain the fetus.",
+    "",
+    "Beta-chain production depends on the globin switch, not on the spleen.",
+    "Cord blood is not transfused routinely, and this would not explain the timing.",
+    "Alpha chains are made from fetal life onward, which is why severe alpha defects can kill in utero."
+   ],
+   "studyRef": {
+    "sectionId": "heme-thalassemia.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 973,
+     "page": 951
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 975,
+     "page": 953
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 367,
+     "page": 343
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 30-year-old Thai woman has had moderate anaemia since childhood and a spleen palpable 5 cm below the costal margin. She needed transfusion once, during pneumonia. DNA studies show deletion of three of her four alpha-globin genes.",
+   "leadIn": "Which abnormal haemoglobin is characteristic of her condition?",
+   "options": [
+    "Hb Barts (γ4)",
+    "HbH (β4)",
+    "HbS",
+    "HbE",
+    "HbC"
+   ],
+   "answer": 1,
+   "explanation": "Losing three alpha genes (−−/−α) causes **HbH disease**. Surplus beta chains form **β4 tetramers (HbH)**, which carry no useful oxygen. It usually behaves as NTDT.",
+   "whyNot": [
+    "Hb Barts dominates when all four alpha genes are lost (hydrops fetalis). Only small amounts occur in HbH disease.",
+    "",
+    "HbS is a structural beta-chain variant (sickle cell), not a deletion disorder.",
+    "HbE is a structural beta variant common in South-east Asia, not due to alpha-gene deletion.",
+    "HbC is a beta-chain variant causing target cells, unrelated to alpha-gene loss."
+   ],
+   "studyRef": {
+    "sectionId": "heme-thalassemia.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 976,
+     "page": 954
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 368,
+     "page": 344
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 372,
+     "page": 348
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 975,
+     "page": 953
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 19-year-old Cypriot man has two abnormal beta-globin alleles. His haemoglobin runs around 85 g/L, he has splenomegaly, and he has been transfused only during two severe infections. He is growing and working normally.",
+   "leadIn": "Using current clinical terminology, how is his thalassaemia best classified?",
+   "options": [
+    "Thalassaemia trait",
+    "Non-transfusion-dependent thalassaemia (NTDT)",
+    "Transfusion-dependent thalassaemia (TDT)",
+    "Silent carrier state",
+    "HbH disease"
+   ],
+   "answer": 1,
+   "explanation": "Symptomatic **moderate anaemia without regular transfusion** is **NTDT**, the condition formerly called thalassaemia intermedia. Occasional transfusion during infection fits.",
+   "whyNot": [
+    "Trait is the symptom-free heterozygous carrier with mild or no anaemia, but he has two abnormal alleles and splenomegaly.",
+    "",
+    "TDT means regular transfusion is needed to live and grow, which is not his case.",
+    "A silent carrier is a single alpha-gene deletion with a normal blood count.",
+    "HbH disease is a three-gene alpha deletion, but his defect is in the beta genes."
+   ],
+   "studyRef": {
+    "sectionId": "heme-thalassemia.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 366,
+     "page": 342
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 367,
+     "page": 343
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A haematology registrar teaches students about a 4-year-old with transfusion-dependent beta-thalassaemia whose marrow is packed with erythroblasts, yet the reticulocyte output is inadequate.",
+   "leadIn": "What is the main mechanism of the anaemia?",
+   "options": [
+    "Autoantibodies against the red cell membrane",
+    "Precipitation of surplus alpha chains in erythroblasts and red cells",
+    "Defective haem synthesis in erythroblast mitochondria",
+    "Dietary folate deficiency halting DNA synthesis",
+    "Formation of beta-chain tetramers that cannot carry oxygen"
+   ],
+   "answer": 1,
+   "explanation": "Without enough beta chains, **free alpha chains precipitate**. This kills precursors in the marrow (**ineffective erythropoiesis**) and damages circulating cells (**haemolysis**).",
+   "whyNot": [
+    "Autoimmune haemolysis is antibody-mediated. Thalassaemia is a globin synthesis defect.",
+    "",
+    "Faulty haem synthesis describes sideroblastic anaemia.",
+    "Folate is used up faster in thalassaemia, but deficiency is not the primary mechanism.",
+    "Beta tetramers (HbH) occur in alpha-thal, not beta-thal, where beta chains are lacking."
+   ],
+   "studyRef": {
+    "sectionId": "heme-thalassemia.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 365,
+     "page": 341
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 973,
+     "page": 951
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 3,
+   "stem": "A 28-year-old man with NTDT has never had regular transfusions, and has had only two units in his life. Routine review shows a serum ferritin far above the reference range. He drinks no alcohol, takes no supplements and has no inflammatory illness.",
+   "leadIn": "Which mechanism best explains his iron overload?",
+   "options": [
+    "Erythroferrone from erythroblasts suppressing hepcidin",
+    "High hepcidin trapping iron in macrophages",
+    "Homozygous HFE gene mutation",
+    "Excessive dietary haem iron intake",
+    "Reduced urinary iron loss from tubular damage"
+   ],
+   "answer": 0,
+   "explanation": "Ineffective erythropoiesis makes erythroblasts release **erythroferrone**. This **suppresses hepcidin** and upregulates ferroportin, so the gut absorbs iron inappropriately even without transfusion.",
+   "whyNot": [
+    "",
+    "High hepcidin blocks absorption and causes the iron-restricted state of chronic inflammation, the opposite of what happens here.",
+    "HFE haemochromatosis is a separate primary disorder, and nothing suggests it here.",
+    "Diet alone does not overload iron while hepcidin regulation works. The problem is the suppressed hepcidin.",
+    "The kidney is not a significant route of iron loss, and this is not the described mechanism."
+   ],
+   "studyRef": {
+    "sectionId": "heme-thalassemia.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 367,
+     "page": 343
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 354,
+     "page": 330
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 26-year-old Greek woman was found to have Hb 112 g/L and MCV 63 fL. Her GP gave 3 months of oral ferrous sulphate with good adherence, but her indices are unchanged. Her serum ferritin is now in the middle of the normal range. She is well, with no bleeding.",
+   "leadIn": "What is the most appropriate next investigation?",
+   "options": [
+    "Haemoglobin HPLC / electrophoresis",
+    "Bone marrow aspirate",
+    "Upper gastrointestinal endoscopy",
+    "Trial of intravenous iron",
+    "Direct antiglobulin test"
+   ],
+   "answer": 0,
+   "explanation": "A mild microcytic anaemia that **fails to respond to iron**, with **normal ferritin**, in a woman of Mediterranean origin suggests **beta-thalassaemia trait**. Hb electrophoresis looks for a raised HbA2.",
+   "whyNot": [
+    "",
+    "Marrow sampling is invasive and unnecessary when a simple electrophoresis can make the diagnosis.",
+    "Endoscopy looks for GI blood loss in iron deficiency, but her ferritin is normal.",
+    "More iron is wrong: she is not iron-deficient, and carriers should not receive iron.",
+    "The DAT tests for immune haemolysis, which does not cause a stable microcytic picture like this."
+   ],
+   "studyRef": {
+    "sectionId": "heme-thalassemia.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 975,
+     "page": 953
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 809,
+     "page": 809
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 946,
+     "page": 924
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 33-year-old Vietnamese man has Hb 128 g/L, MCV 66 fL and normal serum ferritin. Haemoglobin HPLC is reported as normal, with no increase in HbA2 and no variant band.",
+   "leadIn": "Which test is most likely to confirm the diagnosis?",
+   "options": [
+    "DNA analysis for alpha-globin gene deletions",
+    "Repeat HbA2 quantitation in 3 months",
+    "Bone marrow iron stain",
+    "Serum soluble transferrin receptor",
+    "Erythrocyte sedimentation rate"
+   ],
+   "answer": 0,
+   "explanation": "Microcytosis with normal iron and a **normal HbA2** points to **alpha-thal trait**, which electrophoresis cannot show. It is confirmed by **DNA analysis** (or globin chain synthesis studies).",
+   "whyNot": [
+    "",
+    "HbA2 is not raised in alpha-thal trait, so repeating it adds nothing.",
+    "Marrow iron would simply be present. It cannot identify alpha-gene deletions.",
+    "Soluble transferrin receptor helps separate iron deficiency from chronic disease, not alpha trait.",
+    "ESR is a non-specific inflammatory marker."
+   ],
+   "studyRef": {
+    "sectionId": "heme-thalassemia.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 368,
+     "page": 344
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 324,
+     "page": 324
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 946,
+     "page": 924
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 9-month-old boy of Italian parents has failure to thrive, marked pallor and a liver and spleen both palpable well below the costal margin. His Hb is 58 g/L with a hypochromic microcytic film and nucleated red cells. HPLC shows HbF 96% and no detectable HbA. Both parents have microcytosis with a raised HbA2.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Transfusion-dependent beta-thalassaemia",
+    "Beta-thalassaemia trait",
+    "HbH disease",
+    "Sickle cell anaemia",
+    "Iron deficiency anaemia"
+   ],
+   "answer": 0,
+   "explanation": "Severe anaemia in the first year, hepatosplenomegaly, **absent HbA with HbF ~95–98%**, and **two carrier parents** add up to homozygous beta-thal: **TDT** (beta-thal major).",
+   "whyNot": [
+    "",
+    "Trait gives a mild or no anaemia with raised HbA2 and normal HbA, unlike this.",
+    "HbH disease is an alpha-gene deletion with HbH on electrophoresis and a normal or low HbA2. The parents’ raised HbA2 points to beta.",
+    "Sickle cell anaemia shows predominant HbS, not HbF with absent HbA and no variant.",
+    "Iron deficiency does not abolish HbA or raise HbF to this degree."
+   ],
+   "studyRef": {
+    "sectionId": "heme-thalassemia.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 366,
+     "page": 342
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 367,
+     "page": 343
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 976,
+     "page": 954
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 10-year-old girl from a rural region with little access to blood has untreated beta-thalassaemia major. A skull radiograph shows thin vertical striations radiating from the vault, giving a brush-like appearance.",
+   "leadIn": "What is the underlying cause of this radiological sign?",
+   "options": [
+    "Expansion of haemopoietic marrow into cortical bone",
+    "Salmonella osteomyelitis of the skull",
+    "Iron deposition within bone matrix",
+    "Vitamin D deficiency rickets",
+    "Lytic deposits of plasma cells"
+   ],
+   "answer": 0,
+   "explanation": "The **\"hair-on-end\"** skull reflects **marrow hyperplasia**, which expands into and thins the cortical bone. It is the same process that produces the thalassaemic facies.",
+   "whyNot": [
+    "",
+    "Osteomyelitis gives focal destruction, not diffuse radiating striations.",
+    "Iron overload damages heart, liver and glands. It does not produce this trabecular pattern.",
+    "Rickets affects growth plates and causes bowing and metaphyseal changes.",
+    "Myeloma gives punched-out lytic lesions in older adults."
+   ],
+   "studyRef": {
+    "sectionId": "heme-thalassemia.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 367,
+     "page": 343
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 807,
+     "page": 807
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 17-year-old with transfusion-dependent beta-thalassaemia has struggled to take his chelation since moving to adult services. He reports palpitations and breathlessness on stairs. His ferritin is very high.",
+   "leadIn": "Which complication is the leading cause of death in his condition?",
+   "options": [
+    "Iron-induced cardiomyopathy and arrhythmia",
+    "Hepatocellular carcinoma",
+    "Post-splenectomy sepsis",
+    "Gallstone pancreatitis",
+    "Diabetic ketoacidosis"
+   ],
+   "answer": 0,
+   "explanation": "**Myocardial iron** causes cardiomyopathy and tachyarrhythmias, the main causes of illness and death in transfused thalassaemia. Without chelation, death classically comes in the second decade.",
+   "whyNot": [
+    "",
+    "Liver iron can lead to cirrhosis, but cardiac disease is the leading cause of death.",
+    "Post-splenectomy sepsis is a real risk, but he is not described as splenectomised, and it is not the leading cause.",
+    "Pigment gallstones are common, but pancreatitis is not a principal cause of death.",
+    "Diabetes from pancreatic iron occurs, but DKA is not the leading killer."
+   ],
+   "studyRef": {
+    "sectionId": "heme-thalassemia.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 367,
+     "page": 343
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 251,
+     "page": 214
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 12-year-old girl with beta-thalassaemia major on nightly subcutaneous desferrioxamine has fever, right iliac fossa pain and diarrhoea for 3 days. Her ferritin remains high.",
+   "leadIn": "Which organism is particularly associated with this setting?",
+   "options": [
+    "Yersinia enterocolitica",
+    "Salmonella Typhi",
+    "Clostridioides difficile",
+    "Campylobacter jejuni",
+    "Giardia lamblia"
+   ],
+   "answer": 0,
+   "explanation": "**Yersinia enterocolitica** infection is a recognised hazard in **iron-loaded patients treated with desferrioxamine**, so a febrile diarrhoeal illness in this setting should raise it first.",
+   "whyNot": [
+    "",
+    "Typhoid is not specifically linked to iron chelation.",
+    "C. difficile follows antibiotic exposure, not chelation.",
+    "Campylobacter is a common enteric pathogen without a particular link to desferrioxamine.",
+    "Giardia causes chronic malabsorptive diarrhoea without fever, and has no chelation link."
+   ],
+   "studyRef": {
+    "sectionId": "heme-thalassemia.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 368,
+     "page": 344
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 6-year-old boy with beta-thalassaemia major receives transfusions every 3–4 weeks. A locum doctor reviewing his chart notices microcytic red cells and considers new prescriptions.",
+   "leadIn": "Which of these is contraindicated?",
+   "options": [
+    "Oral ferrous sulphate",
+    "Folic acid 5 mg daily",
+    "Oral deferasirox",
+    "Pneumococcal vaccination",
+    "Influenza vaccination"
+   ],
+   "answer": 0,
+   "explanation": "In beta-thal major, **iron therapy is contraindicated**: patients are iron-loaded from transfusion and increased absorption. The microcytosis comes from globin lack, not iron lack.",
+   "whyNot": [
+    "",
+    "Folic acid 5 mg daily is part of standard care.",
+    "Chelation with deferasirox is standard to treat transfusional iron.",
+    "Vaccination is appropriate, and essential if splenectomy is planned.",
+    "Influenza vaccination is appropriate, especially around splenectomy."
+   ],
+   "studyRef": {
+    "sectionId": "heme-thalassemia.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 976,
+     "page": 954
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 27-year-old woman is 9 weeks pregnant. Booking bloods show beta-thalassaemia trait, and her husband’s tests also show beta-thal trait. After counselling about the risk to the baby, they say they would consider termination if the fetus were severely affected.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Offer chorionic villus sampling for fetal DNA analysis",
+    "Reassure them that their children can only be carriers",
+    "Start oral iron for the rest of the pregnancy",
+    "Arrange a third-trimester growth scan only",
+    "Plan cord blood HPLC at delivery"
+   ],
+   "answer": 0,
+   "explanation": "Two carriers have a **25% risk of TDT** in each pregnancy. **First-trimester CVS** with DNA analysis is appropriate because both are known carriers and would accept termination. It avoids a second-trimester termination.",
+   "whyNot": [
+    "",
+    "Wrong: each child has a 1-in-4 chance of being homozygous.",
+    "Iron is not indicated for trait without proven iron deficiency.",
+    "Ultrasound cannot diagnose beta-thal major and would come too late.",
+    "Testing only at delivery removes the option they asked for."
+   ],
+   "studyRef": {
+    "sectionId": "heme-thalassemia.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 372,
+     "page": 348
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 976,
+     "page": 954
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q15",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 30-year-old Pakistani woman is found to have Hb 118 g/L, MCV 62 fL and red cell count 5.9 × 10^12/L. Serum ferritin, serum iron and TIBC are normal. The film shows target cells and basophilic stippling. HPLC shows a raised HbA2.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Iron deficiency anaemia",
+    "Beta-thalassaemia trait",
+    "Anaemia of chronic disease",
+    "Sideroblastic anaemia",
+    "Alpha-thalassaemia trait"
+   ],
+   "answer": 1,
+   "explanation": "**Step 1:** the MCV is very low for a near-normal Hb, with a high red cell count. The Mentzer index is 62 ÷ 5.9 ≈ 10.5, below 13, which favours thalassaemia. **Step 2:** normal ferritin, iron and TIBC exclude iron deficiency. **Step 3:** target cells and stippling fit thalassaemia. **Step 4:** a **raised HbA2** separates **beta** trait from alpha trait, where HbA2 is normal.",
+   "whyNot": [
+    "Iron deficiency gives a low ferritin and high TIBC. Hers are normal.",
+    "",
+    "Chronic disease gives a low TIBC and usually a low-normal or normal MCV, and there is no inflammatory illness here.",
+    "Sideroblastic anaemia raises serum iron and ferritin and shows ring sideroblasts.",
+    "Alpha trait has a normal HbA2. The raised HbA2 points to beta."
+   ],
+   "studyRef": {
+    "sectionId": "heme-thalassemia.s4"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 324,
+     "page": 324
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 355,
+     "page": 331
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 976,
+     "page": 954
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 946,
+     "page": 924
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q16",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the single best option from the list above. Any option can be the answer for several patients, or for none.",
+   "pool": "worked",
+   "difficulty": 2,
+   "theme": "Mechanisms in thalassaemia",
+   "options": [
+    "Excess alpha chains precipitating in red cell precursors",
+    "Excess beta chains forming β4 tetramers",
+    "Gamma-chain tetramers unable to deliver oxygen",
+    "Surplus alpha chains pairing with delta chains",
+    "Persistent gamma-chain production binding surplus alpha chains",
+    "Erythroferrone-driven suppression of hepcidin",
+    "Extramedullary haemopoiesis in liver and spleen",
+    "Extra cell divisions from slow haemoglobinisation",
+    "Chronic haemolysis with excess bilirubin",
+    "Transfusional iron deposition in the myocardium"
+   ],
+   "items": [
+    {
+     "stem": "A healthy 22-year-old Maltese carrier of a single β0 mutation has a raised HbA2 on HPLC. Which mechanism explains the raised HbA2?",
+     "answer": 3,
+     "explanation": "**Step 1:** a beta carrier makes fewer beta chains, so alpha chains are in surplus. **Step 2:** some of that surplus binds the small supply of **delta chains**, so more **HbA2 (α2δ2)** forms. That is why HbA2 is the carrier marker.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s3"
+     }
+    },
+    {
+     "stem": "Two brothers share the same pair of severe beta-globin mutations. The younger is far milder and has never needed regular transfusion. His HPLC shows a substantial HbF fraction, much higher than his brother’s. Which mechanism explains his milder disease?",
+     "answer": 4,
+     "explanation": "**Step 1:** severity follows the size of the alpha surplus. **Step 2:** co-inherited **hereditary persistence of HbF** keeps gamma chains coming, and they **mop up surplus alpha chains**. Less precipitation means less ineffective erythropoiesis and haemolysis, so the disease is milder.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s3"
+     }
+    },
+    {
+     "stem": "A Laotian couple, both with microcytosis and a normal HbA2, lose a pregnancy at 30 weeks. The fetus is pale, grossly oedematous and has a very large liver. Which mechanism caused the fetal death?",
+     "answer": 2,
+     "explanation": "**Step 1:** both parents are likely α0 carriers (−−/αα), so the fetus can inherit −−/−−. **Step 2:** with no alpha chains, gamma chains form **Hb Barts (γ4)**, which cannot deliver oxygen to tissues, leading to **hydrops fetalis**.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 365,
+     "page": 341
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 367,
+     "page": 343
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 368,
+     "page": 344
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 976,
+     "page": 954
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q17",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the single best option from the list above. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Thalassaemia syndromes and other microcytic disorders",
+   "options": [
+    "Silent alpha-thalassaemia carrier",
+    "Alpha-thalassaemia trait",
+    "HbH disease",
+    "Hb Barts hydrops fetalis",
+    "Beta-thalassaemia trait",
+    "Non-transfusion-dependent beta-thalassaemia",
+    "Transfusion-dependent beta-thalassaemia",
+    "Sickle cell beta-thalassaemia",
+    "HbE/beta-thalassaemia",
+    "Iron deficiency anaemia",
+    "Anaemia of chronic disease",
+    "Sideroblastic anaemia"
+   ],
+   "items": [
+    {
+     "stem": "A 34-year-old Malaysian woman has had moderate anaemia since childhood and her spleen tip is palpable. A supravital-stained film shows many red cell inclusions. HbA2 is low, and she was transfused once during a chest infection.",
+     "answer": 2,
+     "explanation": "Moderate lifelong anaemia, splenomegaly, inclusions on supravital stain and a **low HbA2** in an Asian patient suggest **HbH disease** (three alpha genes lost), which usually behaves as NTDT.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s4"
+     }
+    },
+    {
+     "stem": "A 22-year-old Ghanaian man has recurrent painful vaso-occlusive crises. His mother has sickle cell trait. His father has microcytosis with a raised HbA2 but is otherwise well.",
+     "answer": 7,
+     "explanation": "Two-step: the father’s raised HbA2 and microcytosis make him a **beta-thal carrier**, and the mother passes on **HbS**. Their son has inherited both, giving **sickle cell beta-thalassaemia**, which behaves like HbSS.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s2"
+     }
+    },
+    {
+     "stem": "A 45-year-old woman with heavy periods for 2 years has Hb 92 g/L, MCV 68 fL, a very low ferritin and a raised TIBC.",
+     "answer": 9,
+     "explanation": "**Low ferritin with high TIBC** marks true iron lack. Menorrhagia is the source, so this is **iron deficiency anaemia**, not a thalassaemia.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s4"
+     }
+    },
+    {
+     "stem": "A 28-year-old Filipino man has a normal Hb, MCV 72 fL and normal ferritin. HPLC is normal. Family studies with DNA analysis show one alpha gene deleted on each chromosome 16.",
+     "answer": 1,
+     "explanation": "Loss of **two** alpha genes (−α/−α, trans) is **alpha-thal trait**: microcytosis with mild or no anaemia, and a normal HbA2. One gene lost would be a silent carrier.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 368,
+     "page": 344
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 372,
+     "page": 348
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 355,
+     "page": 331
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 323,
+     "page": 323
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q18",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the single best option from the list above. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Investigations in thalassaemia",
+   "options": [
+    "Serum ferritin",
+    "Haemoglobin HPLC / electrophoresis",
+    "Alpha-globin gene DNA analysis",
+    "Brilliant cresyl blue supravital stain",
+    "Cardiac MRI T2*",
+    "Skull X-ray",
+    "Bone marrow aspirate with iron stain",
+    "Chorionic villus sampling for fetal DNA",
+    "Testing of the partner’s red cell indices and HbA2",
+    "Serum soluble transferrin receptor",
+    "Molecular red cell (blood group) genotyping",
+    "Reticulocyte count"
+   ],
+   "items": [
+    {
+     "stem": "A 15-year-old with TDT has a very high ferritin and new breathlessness on exertion. The team wants to measure how much iron is loaded in his heart muscle.",
+     "answer": 4,
+     "explanation": "**Cardiac MRI T2*** quantifies myocardial iron, and the liver can be assessed at the same time. Ferritin alone does not show where the iron is.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s7"
+     }
+    },
+    {
+     "stem": "A 25-year-old woman at antenatal booking is found to have beta-thalassaemia trait. She is 8 weeks pregnant with her first child.",
+     "answer": 8,
+     "explanation": "Once a pregnant woman is shown to carry a haemoglobin defect, **test her partner**. Prenatal diagnosis is offered only if both are carriers.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s7"
+     }
+    },
+    {
+     "stem": "A 4-year-old has just been diagnosed with TDT and is about to start a lifelong transfusion programme.",
+     "answer": 10,
+     "explanation": "Patients facing long-term transfusion should ideally have **molecular blood group typing** before the first transfusion, to reduce alloimmunisation.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s7"
+     }
+    },
+    {
+     "stem": "A 20-year-old Greek student has Hb 110 g/L and MCV 64 fL. Her film shows target cells and basophilic stippling, and her serum ferritin is normal.",
+     "answer": 1,
+     "explanation": "In Davidson’s low-MCV algorithm, a film with **target cells or basophilic stippling** leads to **Hb electrophoresis**. A raised HbA2 would confirm beta-thal trait, and a normal HbA2 would suggest alpha trait.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 367,
+     "page": 343
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 372,
+     "page": 348
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 371,
+     "page": 347
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 946,
+     "page": 924,
+     "figure": "Fig. 23.10"
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q19",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the single best option from the list above. Any option can be the answer for several patients, or for none.",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Complications of thalassaemia and its treatment",
+   "options": [
+    "Iron-induced cardiomyopathy",
+    "Diabetes from pancreatic iron",
+    "Hypogonadism",
+    "Yersinia enterocolitica infection",
+    "Rhinocerebral mucormycosis",
+    "Sensorineural hearing loss",
+    "Overwhelming post-splenectomy infection",
+    "Pulmonary hypertension",
+    "Pigment gallstones",
+    "Chronic leg ulcer",
+    "Pathological fracture",
+    "Red cell alloimmunisation"
+   ],
+   "items": [
+    {
+     "stem": "A 25-year-old man with NTDT, never regularly transfused, has had a non-healing painful ulcer above the medial malleolus for 4 months. Arterial pulses are normal.",
+     "answer": 9,
+     "explanation": "Recurrent **leg ulcers** are a classic feature of NTDT, alongside splenomegaly, gallstones and bone deformity.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s4"
+     }
+    },
+    {
+     "stem": "A 30-year-old woman with TDT has been on high-dose desferrioxamine for years. She now struggles to follow conversations, and audiometry shows bilateral high-frequency loss.",
+     "answer": 5,
+     "explanation": "Excessive **desferrioxamine** can cause **sensorineural deafness**, as well as cataracts and retinal damage.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s6"
+     }
+    },
+    {
+     "stem": "A 19-year-old with TDT had his spleen removed at age 10 and stopped his daily tablets last year. He now has a 6-hour history of fever, rigors, hypotension and a spreading purpuric rash.",
+     "answer": 6,
+     "explanation": "Two-step: he is **asplenic** and has stopped **penicillin V** prophylaxis, and he now has fulminant sepsis. This is **overwhelming post-splenectomy infection**, so give IV antibiotics covering pneumococcus, Haemophilus and meningococcus.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s6"
+     }
+    },
+    {
+     "stem": "A 16-year-old with TDT on desferrioxamine develops facial swelling, nasal discharge and a black necrotic patch on the palate. She is not diabetic or neutropenic.",
+     "answer": 4,
+     "explanation": "A **black necrotic eschar** with sinus and facial involvement is **rhinocerebral mucormycosis**. Desferrioxamine chelation is a recognised predisposing factor.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 367,
+     "page": 343
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 368,
+     "page": 344
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 325,
+     "page": 303
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q20",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the single best option from the list above. Any option can be the answer for several patients, or for none.",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Treatment options in thalassaemia",
+   "options": [
+    "No treatment: explanation and genetic counselling",
+    "Oral iron supplementation",
+    "Folic acid, with transfusion only when needed",
+    "Regular transfusion keeping Hb above 100 g/L",
+    "Oral deferasirox",
+    "Subcutaneous desferrioxamine with ascorbic acid",
+    "Oral deferiprone",
+    "Allogeneic HSCT from an HLA-matched sibling",
+    "Splenectomy with vaccination and lifelong penicillin V",
+    "Luspatercept",
+    "Intrauterine transfusion",
+    "Chorionic villus sampling"
+   ],
+   "items": [
+    {
+     "stem": "A 26-year-old man with beta-thalassaemia trait has Hb 128 g/L and a normal ferritin. He asks what treatment he needs.",
+     "answer": 0,
+     "explanation": "Trait needs **no treatment**. Explain the diagnosis, avoid unnecessary iron, and offer **genetic counselling** for future partners.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s7"
+     }
+    },
+    {
+     "stem": "A well 4-year-old with TDT has a normal liver and modest iron load. Tissue typing shows that his older sister is a full HLA match.",
+     "answer": 7,
+     "explanation": "**HSCT from an HLA-matched sibling** can cure beta-thal major. Results are best in well children before significant iron overload or liver damage.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s7"
+     }
+    },
+    {
+     "stem": "A 40-year-old woman of Chinese origin with HbH disease has stable moderate anaemia and a mildly enlarged spleen. She has not needed transfusion for several years.",
+     "answer": 2,
+     "explanation": "HbH disease is managed like intermediate beta-thal: **folic acid**, **transfusion only if required**, and no iron.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s7"
+     }
+    },
+    {
+     "stem": "A 20-year-old with TDT takes oral deferasirox, but a cardiac T2* scan shows heavy myocardial iron. The haematologist adds a second oral chelator chosen for its cardiac effect.",
+     "answer": 6,
+     "explanation": "Two-step: oral, but not the drug he already takes, and chosen for heart iron. **Deferiprone** is used mainly for **cardiac iron** or in combination with another chelator.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 976,
+     "page": 954
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 368,
+     "page": 344
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 808,
+     "page": 808
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 188,
+     "page": 188
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q21",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the single best option from the list above. Any option can be the answer for several patients, or for none.",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Globin genotypes",
+   "options": [
+    "αα/αα",
+    "αα/−α",
+    "−α/−α",
+    "−−/αα",
+    "−−/−α",
+    "−−/−−",
+    "Heterozygous β0 (β0/β)",
+    "Homozygous β0 (β0/β0)",
+    "Compound heterozygous βS/β0",
+    "Compound heterozygous βE/β0"
+   ],
+   "items": [
+    {
+     "stem": "A 3-year-old Cambodian girl has moderate anaemia and splenomegaly. Brilliant cresyl blue staining shows many inclusion bodies, and HPLC shows an HbH band with a low HbA2.",
+     "answer": 4,
+     "explanation": "Moderate anaemia, splenomegaly and HbH inclusions mean **HbH disease**: three alpha genes lost (**−−/−α**).",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s2"
+     }
+    },
+    {
+     "stem": "A couple both have microcytosis with a normal HbA2 and normal ferritin. Their previous pregnancy ended in a hydropic stillbirth. Which genotype do both parents most likely carry?",
+     "answer": 3,
+     "explanation": "Two-step: hydrops means the fetus had **−−/−−**, so each parent must carry a chromosome with **both** alpha genes missing (α0). With mild microcytosis and normal HbA2, each parent is **−−/αα** (cis trait). Each pregnancy carries a 25% risk.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s7"
+     }
+    },
+    {
+     "stem": "A healthy 30-year-old man has a normal Hb and MCV. He is identified as a silent alpha carrier during family screening.",
+     "answer": 1,
+     "explanation": "A **silent carrier** has lost one alpha gene (**αα/−α**). The blood count is normal or only slightly microcytic.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s2"
+     }
+    },
+    {
+     "stem": "An 8-month-old Bangladeshi boy has severe anaemia. HPLC shows HbE and HbF with no HbA. His father is an HbE carrier with microcytosis and a normal Hb. His mother has microcytosis with a raised HbA2.",
+     "answer": 9,
+     "explanation": "Two-step: the father passes on **βE** and the mother, a beta-thal carrier, passes on **β0** (no HbA at all). **HbE/beta-thal** can be as severe as TDT.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 368,
+     "page": 344
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 369,
+     "page": 345
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 372,
+     "page": 348
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 323,
+     "page": 323
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q22",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the single best option from the list above. Any option can be the answer for several patients, or for none.",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Diagnosis from laboratory findings in anaemia",
+   "options": [
+    "Iron deficiency anaemia",
+    "Anaemia of chronic disease",
+    "Sideroblastic anaemia",
+    "Beta-thalassaemia trait",
+    "Alpha-thalassaemia trait",
+    "HbH disease",
+    "Transfusion-dependent beta-thalassaemia",
+    "Non-transfusion-dependent beta-thalassaemia",
+    "HbE trait",
+    "Hb Barts hydrops fetalis"
+   ],
+   "items": [
+    {
+     "stem": "A 60-year-old man has a microcytic anaemia with raised serum iron and ferritin, a normal TIBC, and ring forms of iron around erythroblast nuclei on marrow staining.",
+     "answer": 2,
+     "explanation": "**Ring sideroblasts** with high iron and ferritin define **sideroblastic anaemia**. In thalassaemia trait, iron studies are normal and there are no ring forms.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s4"
+     }
+    },
+    {
+     "stem": "A 58-year-old woman with active rheumatoid arthritis has Hb 104 g/L, MCV at the lower limit of normal, low serum iron, low TIBC and a raised ferritin.",
+     "answer": 1,
+     "explanation": "Low iron **with a low TIBC** and a normal or raised ferritin in a chronic inflammatory illness is **anaemia of chronic disease**.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s4"
+     }
+    },
+    {
+     "stem": "A 12-year-old Lebanese boy has Hb about 85 g/L, frontal bossing and splenomegaly, but has never needed regular transfusion. He has two beta-thal mutations, and DNA studies also show an alpha-gene deletion.",
+     "answer": 7,
+     "explanation": "Two-step: two beta mutations would usually mean severe disease, but a **co-inherited alpha deletion** shrinks the alpha surplus. The result is moderate anaemia without regular transfusion: **NTDT**.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s4"
+     }
+    },
+    {
+     "stem": "A 31-year-old Indian woman, 12 weeks pregnant, has Hb 105 g/L, MCV 64 fL, normal ferritin and a raised HbA2.",
+     "answer": 3,
+     "explanation": "Microcytosis out of proportion to the anaemia, normal iron stores and **raised HbA2** make this **beta-thal trait**. Her partner should now be tested.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 355,
+     "page": 331
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 366,
+     "page": 342
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 367,
+     "page": 343
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 976,
+     "page": 954
+    }
+   ]
+  },
+  {
+   "id": "heme-thalassemia.q23",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the single best option from the list above. Any option can be the answer for several patients, or for none.",
+   "pool": "mock",
+   "difficulty": 2,
+   "theme": "Haemoglobin types",
+   "options": [
+    "HbA",
+    "HbA2",
+    "HbF",
+    "HbH",
+    "Hb Barts",
+    "HbS",
+    "HbC",
+    "HbE",
+    "HbSC"
+   ],
+   "items": [
+    {
+     "stem": "At diagnosis, a 1-year-old with homozygous β0 thalassaemia who has not yet been transfused has HPLC. Which haemoglobin forms almost all of the total?",
+     "answer": 2,
+     "explanation": "With no beta chains at all, the child relies on **HbF (α2γ2)**, which is about 95–98% at diagnosis in β0 homozygotes.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s5"
+     }
+    },
+    {
+     "stem": "A stillborn, grossly oedematous fetus has no alpha-globin genes. Which haemoglobin is the only one present?",
+     "answer": 4,
+     "explanation": "With no alpha chains, gamma chains form **Hb Barts (γ4)**, which cannot carry oxygen to the tissues.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s5"
+     }
+    },
+    {
+     "stem": "This is the commonest haemoglobin variant in South-east Asia. Heterozygotes are well with microcytosis, but co-inheritance with beta-thalassaemia can cause anaemia as severe as TDT.",
+     "answer": 7,
+     "explanation": "**HbE** is the most common variant in South-east Asia. HbE/beta-thal ranges from mild to transfusion-dependent.",
+     "studyRef": {
+      "sectionId": "heme-thalassemia.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 365,
+     "page": 341
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 366,
+     "page": 342
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 368,
+     "page": 344
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 372,
+     "page": 348
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 975,
+     "page": 953
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "heme-thalassemia.o1",
+   "sectionId": "heme-thalassemia.s5",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 367,
+    "page": 343,
+    "figure": "Fig. 16.20"
+   },
+   "identify": "Thalassaemic facies (frontal bossing, maxillary overgrowth), **hair-on-end skull** and a hand X-ray with expanded marrow and thin cortex. These are signs of marrow expansion in poorly transfused TDT."
+  },
+  {
+   "id": "heme-thalassemia.o2",
+   "sectionId": "heme-thalassemia.s5",
+   "cite": {
+    "book": "stepup6",
+    "pdfPage": 808,
+    "page": 808,
+    "figure": "Figure 9-3"
+   },
+   "identify": "Thalassaemia blood film: **target cells** and a **circulating nucleated red cell**."
+  },
+  {
+   "id": "heme-thalassemia.o3",
+   "sectionId": "heme-thalassemia.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 943,
+    "page": 921,
+    "figure": "Fig. 23.8"
+   },
+   "identify": "Red cell morphology panels: **microcytosis** (A) and **target cells** (C), both of which list thalassaemia among their causes. Basophilic stippling (I) is listed under dyshaematopoiesis and lead poisoning."
+  },
+  {
+   "id": "heme-thalassemia.o4",
+   "sectionId": "heme-thalassemia.s4",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 355,
+    "page": 331,
+    "figure": "Fig. 16.9"
+   },
+   "identify": "Hypochromic microcytes with aniso- and poikilocytosis: the iron-deficiency film. Separate it from thalassaemia trait by ferritin and HbA2."
+  },
+  {
+   "id": "heme-thalassemia.o5",
+   "sectionId": "heme-thalassemia.s5",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 371,
+    "page": 347,
+    "figure": "Fig. 16.23"
+   },
+   "identify": "Hb electrophoresis patterns: beta-thal trait shows HbA with a **raised HbA2** band. Beta-thal major shows **HbF dominant with little or no HbA**."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:33:13.164Z",
+  "contentHash": "ba4a668129435aa21cc5a512d61fbced526d54f93c3901c5f17356e9eba68f30"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:33:13.172Z",
+  "contentHash": "ba4a668129435aa21cc5a512d61fbced526d54f93c3901c5f17356e9eba68f30",
+  "checkerVersion": "source-check-v1"
+ }
+}

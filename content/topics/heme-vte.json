@@ -1,0 +1,4825 @@
+{
+ "topicId": "heme-vte",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "heme-vte.s1",
+   "title": "Definitions, pathogenesis and epidemiology",
+   "objectiveIdx": [
+    0,
+    1,
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Venous thromboembolism (VTE)** is the single disease that covers **deep vein thrombosis (DVT)** and **pulmonary embolism (PE)**. A PE is usually a leg DVT that has broken off, passed through the right heart and lodged in the pulmonary arteries. Less common sites (upper limb, jugular vein, cerebral venous sinuses, intra-abdominal veins such as the hepatic veins in Budd–Chiari) are managed on the same principles.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 997,
+       "page": 975
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 208,
+       "page": 208
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 131,
+       "page": 131
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Distal versus proximal DVT",
+     "columns": [
+      "Type",
+      "Veins involved",
+      "Embolic risk"
+     ],
+     "rows": [
+      [
+       "Distal (calf) DVT",
+       "Calf veins below the knee",
+       "Lower risk of PE and death; calf thrombi rarely embolise, but about one-third extend upwards"
+      ],
+      [
+       "Proximal DVT",
+       "Popliteal vein or higher: femoral (the \"superficial\" femoral is a deep vein) and iliac veins",
+       "Larger clots, much more likely to embolise; the source of most PEs (iliofemoral and pelvic veins)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1019,
+       "page": 1002
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 163,
+       "page": 163
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Pulmonary",
+       "pdfPage": 256,
+       "page": 256
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Pathogenesis: Virchow's triad",
+     "items": [
+      "Three ingredients: **altered flow** (stasis or turbulence), **vessel wall dysfunction** and **hypercoagulable blood**",
+      "In veins, **stasis and hypercoagulability** dominate; in arteries, turbulence and atheromatous wall damage matter most",
+      "Venous thrombi probably begin in a **valve pocket** of a deep leg vein, where eddying flow and local hypoxia injure the endothelium",
+      "Venous clots are **\"red\"** (fibrin and trapped red cells); arterial clots are **\"white\"** (platelet-rich)",
+      "Stasis examples: bed rest, heart failure, recent stroke, long flights. Wall injury: trauma, surgery, prior DVT, central lines. Hypercoagulability: thrombophilia, oestrogens, cancer"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1018,
+       "page": 1001
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1019,
+       "page": 1002
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 277,
+       "page": 240
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 163,
+       "page": 163
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "What an embolus does to the lung and heart",
+     "columns": [
+      "Size",
+      "Pathophysiology"
+     ],
+     "rows": [
+      [
+       "Acute massive PE",
+       "Obstructs the RV outflow, pulmonary vascular resistance jumps, **acute right heart failure** and a fall in cardiac output (acute cor pulmonale)"
+      ],
+      [
+       "Acute small/medium PE",
+       "Blocks a segmental artery, causing **pulmonary infarction** ± effusion; ventilated but unperfused lung adds dead space"
+      ],
+      [
+       "Chronic/recurrent PE",
+       "Progressive occlusion of the microvasculature, causing **pulmonary hypertension** and later right heart failure"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 641,
+       "page": 619
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Cardiovascular disease",
+       "pdfPage": 510,
+       "page": 473
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Pulmonary",
+       "pdfPage": 256,
+       "page": 256
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Pulmonary",
+       "pdfPage": 257,
+       "page": 257
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Emboli that are not leg thrombus",
+     "items": [
+      "Septic emboli: right-sided (tricuspid or pulmonary valve) endocarditis",
+      "Tumour emboli: classically choriocarcinoma",
+      "Fat: after fracture of a long bone such as the femur",
+      "Air, and amniotic fluid around delivery",
+      "Paradoxical embolism: with an atrial septal defect, a venous clot can reach the systemic circulation and cause a large stroke"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 641,
+       "page": 619
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 208,
+       "page": 208
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Epidemiology in numbers",
+     "columns": [
+      "Measure",
+      "Figure"
+     ],
+     "rows": [
+      [
+       "Annual incidence",
+       "About 1 per 1000 people per year; rises steeply with age (about 1/10 000 in young adults, 1/1000 in middle age, nearly 1/100 in the elderly)"
+      ],
+      [
+       "DVT : PE",
+       "About 2 : 1 (Davidson); about 60% present as DVT and 40% as PE (Kumar)"
+      ],
+      [
+       "Lifetime risk",
+       "More than 5% of people"
+      ],
+      [
+       "30-day mortality",
+       "About 10% after DVT and 15% after PE"
+      ],
+      [
+       "Ethnicity",
+       "Commonest in people of African descent, least common in Asians"
+      ],
+      [
+       "No cause found",
+       "Up to half of all VTE episodes"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 997,
+       "page": 975
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1018,
+       "page": 1001
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1019,
+       "page": 1002
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "PE is the **third commonest cardiovascular killer** after MI and stroke, the **commonest preventable cause of death in hospital inpatients**, and the **leading direct cause of maternal death** in the UK. About 25 000 UK deaths a year come from preventable hospital-acquired VTE.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1018,
+       "page": 1001
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 642,
+       "page": 620
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 278,
+       "page": 241
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Untreated or missed PE has a mortality approaching **30%**, and up to half of cases go undiagnosed; with anticoagulation it falls to about **2–8%**. Most deaths are from a recurrent embolus in the first hours, so a low threshold for suspecting PE saves lives.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Pulmonary",
+       "pdfPage": 257,
+       "page": 257
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.s2",
+   "title": "Risk factors, hospital risk assessment and prevention",
+   "objectiveIdx": [
+    3,
+    4,
+    12
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Factors predisposing to VTE (Davidson)",
+     "columns": [
+      "Group",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Patient",
+       "Increasing age, obesity, varicose veins, previous DVT, family history (especially young unprovoked VTE)"
+      ],
+      [
+       "Transient",
+       "Pregnancy and puerperium; oestrogen pill or HRT; travel > 4 h; femoral-vein drug injection"
+      ],
+      [
+       "Surgical",
+       "Major surgery (especially > 30 min); abdominal/pelvic surgery for cancer; hip/knee replacement and hip fracture surgery"
+      ],
+      [
+       "Medical",
+       "MI/heart failure, IBD, cancer (worse with chemotherapy), nephrotic syndrome, COPD, pneumonia, stroke/paraplegia/Guillain–Barré, any high-dependency admission"
+      ],
+      [
+       "Haematological",
+       "Polycythaemia vera, essential thrombocythaemia, myelofibrosis, PNH, antithrombin/protein C/protein S deficiency, factor V Leiden, prothrombin G20210A, antiphospholipid syndrome"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 997,
+       "page": 975
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "How strong is the risk factor? (Kumar)",
+     "columns": [
+      "Strength",
+      "Fold increase",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Strong",
+       "10–50×",
+       "Major surgery, major trauma, absolute bed rest"
+      ],
+      [
+       "Moderate",
+       "3–10×",
+       "Pregnancy, oestrogen therapy, minor surgery under general anaesthetic, most heritable thrombophilias"
+      ],
+      [
+       "Weak",
+       "Up to 3×",
+       "Obesity, long-haul travel"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1019,
+       "page": 1002
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Transient (provoking) versus persistent factors",
+     "items": [
+      "**Transient:** surgery, trauma, acute medical admission, immobility, plaster cast, pregnancy, oestrogens, long-haul travel, central venous catheter, heparin-induced thrombocytopenia, superficial vein thrombosis",
+      "**Persistent:** age, obesity, ethnicity, prior VTE, IBD/SLE/Behçet's, nephrotic syndrome, limb paresis, heritable thrombophilia, antiphospholipid syndrome, myeloproliferative neoplasms",
+      "Kumar lists active cancer among the transient factors, but the recurrence risk stays very high for as long as the cancer remains active"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1019,
+       "page": 1002
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1027,
+       "page": 1010
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "A recognised risk factor is present in **80–90% of PEs**. A **personal history of VTE** predicts recurrence more strongly than a genetic thrombophilia does, and about 12% of \"idiopathic\" VTE turns out to be linked to cancer.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 641,
+       "page": 619
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 164,
+       "page": 164
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Every adult admitted to hospital** needs a formal assessment of **both VTE risk and bleeding risk** (the UK Department of Health tool). At-risk patients without a bleeding risk get pharmacological prophylaxis, with or without mechanical measures; those with a bleeding risk get mechanical measures alone.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1030,
+       "page": 1013
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 998,
+       "page": 976
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 131,
+       "page": 131
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Who needs specific prophylaxis (Davidson)",
+     "columns": [
+      "Risk tier",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Moderate risk of DVT",
+       "Major surgery when the patient is over 40 or has a further VTE risk factor; major medical illness (heart failure, complicated MI, sepsis, IBD and other inflammatory disease, active cancer, nephrotic syndrome, stroke or leg paralysis)"
+      ],
+      [
+       "High risk of DVT",
+       "Major abdominal/pelvic surgery for cancer (or with prior DVT or thrombophilia); major hip or knee surgery; neurosurgery"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 999,
+       "page": 977
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Bleeding risks that argue against drug prophylaxis",
+     "items": [
+      "Active bleeding or an acquired bleeding disorder (e.g. acute liver failure)",
+      "Acute stroke; thrombocytopenia; uncontrolled systolic hypertension",
+      "Untreated inherited bleeding disorders (haemophilia, von Willebrand disease)",
+      "Already on an anticoagulant (e.g. warfarin or a DOAC)",
+      "Neurosurgery, spinal or eye surgery; lumbar puncture or epidural/spinal anaesthesia around the time of dosing"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1030,
+       "page": 1013
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 131,
+       "page": 131
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Methods of prophylaxis",
+     "columns": [
+      "Type",
+      "Options",
+      "Notes"
+     ],
+     "rows": [
+      [
+       "General",
+       "Early mobilisation, leg elevation",
+       "For everyone"
+      ],
+      [
+       "Mechanical",
+       "Graduated (anti-embolic) stockings, intermittent pneumatic compression, foot pumps",
+       "Stockings are avoided in **peripheral arterial disease**, stroke or fragile skin"
+      ],
+      [
+       "Drugs",
+       "LMWH (usual first choice), unfractionated heparin, fondaparinux, DOACs, warfarin",
+       "UFH if renal failure; fondaparinux if HIT; low-dose DOAC for 2–5 weeks after hip/knee replacement"
+      ],
+      [
+       "Extended",
+       "About 30 days of prophylaxis",
+       "After major lower-limb orthopaedic surgery or abdominal/pelvic cancer surgery"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 999,
+       "page": 977
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1030,
+       "page": 1013
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 164,
+       "page": 164
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 131,
+       "page": 131
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Examinable prophylaxis doses",
+     "items": [
+      "Enoxaparin 40 mg SC once daily (30 mg twice daily for the very highest risk)",
+      "Unfractionated heparin 5000 units SC two or three times daily",
+      "Orthopaedic surgery: continue drug prophylaxis up to 35 days after hip and 10–14 days after knee surgery (Pocket Medicine)"
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 164,
+       "page": 164
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Between **one-third and one-half of VTE** is provoked by surgery or a hospital stay, and most of it presents in the **3 months after discharge**. Aspirin also lowers VTE risk after joint replacement.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1030,
+       "page": 1013
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The commonest exam trap: **anti-embolic stockings are contraindicated in significant peripheral arterial disease** (and are avoided after stroke). Give these patients drug prophylaxis or intermittent pneumatic compression instead.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 131,
+       "page": 131
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1030,
+       "page": 1013
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.s3",
+   "title": "Clinical features and differential diagnosis",
+   "objectiveIdx": [
+    5,
+    9
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "DVT: what you find",
+     "items": [
+      "Pain and swelling of **one** leg that builds over hours to days; it usually starts in the distal veins",
+      "Warmth, redness or colour change, pitting oedema, dilated superficial veins, tenderness along the deep veins",
+      "Measure both calves **10 cm below the tibial tuberosity**: a difference of **more than 3 cm** is significant",
+      "Signs are often minimal, and many DVTs are silent"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Acute medicine",
+       "pdfPage": 208,
+       "page": 186
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 208,
+       "page": 208
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 209,
+       "page": 209
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1019,
+       "page": 1002
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1020,
+       "page": 1003
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Homans' sign** (calf pain on dorsiflexion) is present in fewer than 5% of DVTs, so never rely on it. **Bilateral** leg swelling points away from DVT, towards heart failure, hypoalbuminaemia or venous insufficiency.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 164,
+       "page": 164
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 208,
+       "page": 208
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1020,
+       "page": 1003
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "PE: three clinical pictures",
+     "columns": [
+      "Feature",
+      "Acute massive",
+      "Acute small/medium",
+      "Chronic/recurrent"
+     ],
+     "rows": [
+      [
+       "Symptoms",
+       "Collapse or syncope, crushing central chest pain, severe breathlessness, apprehension",
+       "Pleuritic pain, restricted breathing, haemoptysis",
+       "Exertional breathlessness, later right heart failure"
+      ],
+      [
+       "Signs",
+       "Tachycardia, hypotension/shock, raised JVP, RV heave and gallop, loud P2, cyanosis, low urine output",
+       "Tachycardia, pleural rub, crackles, effusion (often blood-stained), low-grade fever",
+       "Few early; later RV heave and loud P2"
+      ],
+      [
+       "Extras",
+       "Cardiac arrest is typically **PEA**; right-sided S3; Graham Steell (pulmonary regurgitation) murmur",
+       "Raised hemidiaphragm",
+       "Develops over weeks to months"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 641,
+       "page": 619
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1020,
+       "page": 1003
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Cardiovascular disease",
+       "pdfPage": 510,
+       "page": 473
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 166,
+       "page": 166
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "PE symptom and sign frequencies (PIOPED)",
+     "items": [
+      "Breathlessness 73%, pleuritic pain 66%, cough 37%, haemoptysis 13%",
+      "Tachypnoea 54%, loud P2 23%, tachycardia 24%",
+      "Only about one-third have signs of DVT; **syncope suggests a massive PE**"
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Pulmonary",
+       "pdfPage": 258,
+       "page": 258
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "DVT and PE travel together: at least **one-third of DVT patients have silent PE** (Pocket Medicine says 50%), and about **70% of symptomatic PEs have a DVT**, which causes leg symptoms in only about a quarter of them.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1020,
+       "page": 1003
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 164,
+       "page": 164
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Davidson's three questions for suspected PE: Is the presentation consistent with PE? Are risk factors present? Is there a better alternative diagnosis?",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 641,
+       "page": 619
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Differential diagnosis of a painful swollen leg",
+     "columns": [
+      "Condition",
+      "Discriminating clue"
+     ],
+     "rows": [
+      [
+       "Ruptured Baker's cyst / gastrocnemius tear",
+       "**Sudden** pain at the back of the calf (DVT builds gradually); both are seen on ultrasound"
+      ],
+      [
+       "Cellulitis",
+       "Well-demarcated erythema and warmth, an entry point (ulcer, bite), fever and systemic upset"
+      ],
+      [
+       "Superficial thrombophlebitis",
+       "Tender, hard, red cord along a palpable superficial vein; treated with NSAIDs"
+      ],
+      [
+       "Compartment syndrome",
+       "After crush or prolonged immobility: tense, exquisitely painful limb, worse on passive stretch; pulses are lost only late"
+      ],
+      [
+       "Lymphoedema",
+       "Chronic: firm, non-pitting, thickened \"cobblestone\" skin"
+      ],
+      [
+       "Chronic venous insufficiency / post-thrombotic syndrome",
+       "Long-standing; haemosiderin staining, varicose eczema, ulcers"
+      ],
+      [
+       "Others",
+       "Muscle haematoma, fracture, osteomyelitis, acute arterial occlusion; heart failure and hypoalbuminaemia are usually bilateral"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Acute medicine",
+       "pdfPage": 208,
+       "page": 186
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Acute medicine",
+       "pdfPage": 209,
+       "page": 187
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1020,
+       "page": 1003
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Cardiovascular disease",
+       "pdfPage": 525,
+       "page": 488
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Differential diagnosis of PE",
+     "columns": [
+      "Presentation",
+      "Main alternatives"
+     ],
+     "rows": [
+      [
+       "Massive PE (shock)",
+       "Myocardial infarction, pericardial tamponade, aortic dissection"
+      ],
+      [
+       "Small/medium PE (pleuritic pain)",
+       "Pneumonia, pneumothorax, musculoskeletal chest pain, rib fracture"
+      ],
+      [
+       "Chronic PE",
+       "Other causes of pulmonary hypertension"
+      ],
+      [
+       "Also consider",
+       "Acute coronary syndrome, COPD or asthma exacerbation, heart failure, lung cancer, anxiety/hyperventilation"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 641,
+       "page": 619
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1020,
+       "page": 1003
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A **raised troponin** does not mean ACS: right ventricular ischaemia in PE releases troponin too, and it predicts a worse outcome. Likewise, a known asthmatic who is breathless **without wheeze** and has VTE risk factors should be investigated for PE.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Cardiovascular disease",
+       "pdfPage": 510,
+       "page": 473
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Pulmonary",
+       "pdfPage": 265,
+       "page": 265
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Fat embolism** (breathlessness, confusion, petechial rash) appears within days of a long-bone fracture; a thrombotic PE after a fracture typically comes later, once immobility has allowed a DVT to form.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Pulmonary",
+       "pdfPage": 256,
+       "page": 256
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Pulmonary",
+       "pdfPage": 265,
+       "page": 265
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1019,
+       "page": 1002
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.s4",
+   "title": "Clinical probability scores and diagnostic pathways",
+   "objectiveIdx": [
+    7,
+    8
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Wells score for DVT (1 point each)",
+     "columns": [
+      "Item",
+      "Points"
+     ],
+     "rows": [
+      [
+       "Active cancer (treatment within 6 months or palliative)",
+       "1"
+      ],
+      [
+       "Paralysis, paresis or recent plaster cast of the leg",
+       "1"
+      ],
+      [
+       "Bedridden ≥ 3 days, or major surgery within 4 weeks",
+       "1"
+      ],
+      [
+       "Tenderness along the deep veins",
+       "1"
+      ],
+      [
+       "Whole leg swollen",
+       "1"
+      ],
+      [
+       "Calf ≥ 3 cm bigger than the other side (10 cm below tibial tuberosity)",
+       "1"
+      ],
+      [
+       "Pitting oedema in the symptomatic leg only",
+       "1"
+      ],
+      [
+       "Collateral (non-varicose) superficial veins",
+       "1"
+      ],
+      [
+       "Prior DVT (documented)",
+       "1"
+      ],
+      [
+       "Another diagnosis is as likely as, or more likely than, DVT",
+       "−2"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Acute medicine",
+       "pdfPage": 209,
+       "page": 187
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1021,
+       "page": 1004
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Cardiovascular disease",
+       "pdfPage": 526,
+       "page": 489
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Reading the DVT score",
+     "columns": [
+      "Version",
+      "Bands"
+     ],
+     "rows": [
+      [
+       "Three-level (Davidson)",
+       "< 1 low; 1–2 moderate; > 2 high probability"
+      ],
+      [
+       "Two-level (NICE, Kumar)",
+       "≥ 2 DVT likely; ≤ 1 DVT unlikely"
+      ],
+      [
+       "Approximate DVT prevalence",
+       "Low about 3–5%, moderate about 17%, high about 53–75% (sources differ)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Acute medicine",
+       "pdfPage": 209,
+       "page": 187
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1021,
+       "page": 1004
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Cardiovascular disease",
+       "pdfPage": 526,
+       "page": 489
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 165,
+       "page": 165
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Versions differ. Davidson's three-level score counts major surgery **within 4 weeks**; the two-level NICE version in Kumar uses **12 weeks**. Learn Davidson's bands (< 1, 1–2, > 2) and know that NICE simply splits at 2 (\"likely\" ≥ 2).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Acute medicine",
+       "pdfPage": 209,
+       "page": 187
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1021,
+       "page": 1004
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 165,
+       "page": 165
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Two-level Wells score for PE",
+     "columns": [
+      "Item",
+      "Points"
+     ],
+     "rows": [
+      [
+       "Clinical signs of DVT (leg swelling and deep vein tenderness)",
+       "3"
+      ],
+      [
+       "PE more likely than any alternative",
+       "3"
+      ],
+      [
+       "Heart rate > 100/min",
+       "1.5"
+      ],
+      [
+       "Immobilisation > 3 days or surgery in the last 4 weeks",
+       "1.5"
+      ],
+      [
+       "Previous DVT or PE",
+       "1.5"
+      ],
+      [
+       "Haemoptysis",
+       "1"
+      ],
+      [
+       "Malignancy (current, last 6 months or palliative)",
+       "1"
+      ],
+      [
+       "**Interpretation**",
+       "> 4 PE likely; ≤ 4 PE unlikely"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1021,
+       "page": 1004
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Pulmonary",
+       "pdfPage": 264,
+       "page": 264
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 166,
+       "page": 166
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Other tools",
+     "columns": [
+      "Tool",
+      "What it does"
+     ],
+     "rows": [
+      [
+       "Revised Geneva score",
+       "Pre-test PE probability from age > 65, previous VTE, recent surgery/fracture, cancer, unilateral leg pain, haemoptysis, heart rate (75–94 or ≥ 95) and leg signs; low 0–3, intermediate 4–10, high ≥ 11"
+      ],
+      [
+       "PERC rule",
+       "Identifies patients whose pre-test probability of PE is low"
+      ],
+      [
+       "Simplified PESI (sPESI)",
+       "Severity of confirmed PE: 1 point each for age > 80, cancer, chronic heart or lung disease, pulse ≥ 110, systolic BP < 100, SaO2 < 90%. Score 0 = 1.0% 30-day mortality (outpatient candidate); ≥ 1 = 10.9%"
+      ],
+      [
+       "DASH score, Vienna model",
+       "Predict recurrence after unprovoked VTE (male sex and a positive D-dimer 1 month off treatment are the strongest predictors)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Cardiovascular disease",
+       "pdfPage": 511,
+       "page": 474
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Pulmonary",
+       "pdfPage": 263,
+       "page": 263
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1025,
+       "page": 1008
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 167,
+       "page": 167
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 998,
+       "page": 976
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1024,
+       "page": 1007
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "PE risk classes (ESC, Pocket Medicine)",
+     "columns": [
+      "Class",
+      "Definition"
+     ],
+     "rows": [
+      [
+       "High risk (\"massive\")",
+       "Haemodynamically unstable: cardiac arrest, obstructive shock or persistent hypotension"
+      ],
+      [
+       "Intermediate risk (\"submassive\")",
+       "sPESI ≥ 1; called intermediate-high if there is both RV dysfunction (echo, or RV/LV ratio > 0.9 on CT) and a raised troponin"
+      ],
+      [
+       "Low risk",
+       "Stable, sPESI 0, normal RV and troponin"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 167,
+       "page": 167
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 168,
+       "page": 168
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**D-dimer is a rule-out test.** In a patient with a **low** pre-test probability, a normal D-dimer has a negative predictive value **above 99%**, so no imaging is needed. In a **high**-probability patient the NPV falls to about 97–98%, which is too many missed clots, so they go straight to imaging. D-dimer is sensitive (about 95%) but not specific: it rises with age, infection, inflammation, surgery, cancer, pregnancy, MI, pneumonia and sepsis. Pocket Medicine uses an **age-adjusted cut-off** of 10 × age from 50 years.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Acute medicine",
+       "pdfPage": 209,
+       "page": 187
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 642,
+       "page": 620
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1021,
+       "page": 1004
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 209,
+       "page": 209
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 166,
+       "page": 166
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 330\" role=\"img\" aria-label=\"Suspected DVT pathway\">\n<rect x=\"160\" y=\"10\" width=\"200\" height=\"36\" rx=\"6\" fill=\"#e8eef7\" stroke=\"#34507a\"/>\n<text x=\"260\" y=\"33\" font-size=\"13\" text-anchor=\"middle\" font-family=\"sans-serif\">Suspected DVT: Wells score</text>\n<line x1=\"210\" y1=\"46\" x2=\"110\" y2=\"80\" stroke=\"#34507a\" stroke-width=\"1.5\"/>\n<line x1=\"310\" y1=\"46\" x2=\"410\" y2=\"80\" stroke=\"#34507a\" stroke-width=\"1.5\"/>\n<rect x=\"20\" y=\"80\" width=\"180\" height=\"36\" rx=\"6\" fill=\"#eef7ec\" stroke=\"#3b7a34\"/>\n<text x=\"110\" y=\"103\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">Low / unlikely: D-dimer</text>\n<rect x=\"320\" y=\"80\" width=\"180\" height=\"36\" rx=\"6\" fill=\"#fbefe6\" stroke=\"#9a5a22\"/>\n<text x=\"410\" y=\"103\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">Moderate-high / likely</text>\n<line x1=\"80\" y1=\"116\" x2=\"60\" y2=\"150\" stroke=\"#3b7a34\" stroke-width=\"1.5\"/>\n<line x1=\"140\" y1=\"116\" x2=\"300\" y2=\"166\" stroke=\"#3b7a34\" stroke-width=\"1.5\"/>\n<line x1=\"410\" y1=\"116\" x2=\"360\" y2=\"150\" stroke=\"#9a5a22\" stroke-width=\"1.5\"/>\n<rect x=\"10\" y=\"150\" width=\"110\" height=\"40\" rx=\"6\" fill=\"#ffffff\" stroke=\"#3b7a34\"/>\n<text x=\"65\" y=\"166\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">Normal:</text>\n<text x=\"65\" y=\"181\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">DVT excluded</text>\n<rect x=\"250\" y=\"150\" width=\"200\" height=\"40\" rx=\"6\" fill=\"#ffffff\" stroke=\"#34507a\"/>\n<text x=\"350\" y=\"166\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">Raised D-dimer or likely:</text>\n<text x=\"350\" y=\"181\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">compression ultrasound</text>\n<line x1=\"300\" y1=\"190\" x2=\"230\" y2=\"230\" stroke=\"#34507a\" stroke-width=\"1.5\"/>\n<line x1=\"400\" y1=\"190\" x2=\"440\" y2=\"230\" stroke=\"#34507a\" stroke-width=\"1.5\"/>\n<rect x=\"380\" y=\"230\" width=\"120\" height=\"36\" rx=\"6\" fill=\"#fde8e8\" stroke=\"#9a2222\"/>\n<text x=\"440\" y=\"253\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">Positive: treat</text>\n<rect x=\"110\" y=\"230\" width=\"240\" height=\"40\" rx=\"6\" fill=\"#ffffff\" stroke=\"#34507a\"/>\n<text x=\"230\" y=\"246\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">Negative but probability high (or</text>\n<text x=\"230\" y=\"261\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">moderate with raised D-dimer)</text>\n<line x1=\"230\" y1=\"270\" x2=\"230\" y2=\"290\" stroke=\"#34507a\" stroke-width=\"1.5\"/>\n<rect x=\"120\" y=\"290\" width=\"220\" height=\"32\" rx=\"6\" fill=\"#e8eef7\" stroke=\"#34507a\"/>\n<text x=\"230\" y=\"311\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">Repeat ultrasound at ~7 days</text>\n</svg>",
+     "alt": "Suspected DVT pathway: Wells score; low probability goes to D-dimer (normal excludes DVT); raised D-dimer or likely DVT goes to compression ultrasound; positive is treated; negative with high probability (or moderate with raised D-dimer) is rescanned at about 7 days.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Acute medicine",
+       "pdfPage": 209,
+       "page": 187
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1022,
+       "page": 1005
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Suspected PE pathway (stable patient)",
+     "items": [
+      "**PE unlikely** (Wells ≤ 4): D-dimer. Normal: PE excluded, look for another cause. Raised: CTPA",
+      "**PE likely** (Wells > 4): go straight to CTPA (do not send a D-dimer)",
+      "If CTPA is negative but suspicion stays high, consider leg ultrasound or a V/Q scan",
+      "**Shocked patient:** immediate CTPA if available; if not, or the patient is too unstable, bedside echo showing RV dysfunction justifies PE-specific treatment (thrombolysis)"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1023,
+       "page": 1006
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1024,
+       "page": 1007
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 132,
+       "page": 132
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Cardiovascular disease",
+       "pdfPage": 513,
+       "page": 476
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 642,
+       "page": 620
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Timing rules",
+     "items": [
+      "Complete diagnostic testing within **24 hours**",
+      "Give a first treatment dose of anticoagulant if imaging will take more than **1 hour for suspected PE** or **4 hours for suspected DVT**",
+      "Inpatients and pregnant women count as high-risk: image them rather than relying on D-dimer"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1022,
+       "page": 1005
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 132,
+       "page": 132
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Repeat-scan timing varies by book: Davidson rescans at **7 days**, Kumar at 5–7 days, the NICE summary in Zero to Finals at 6–8 days, and Kumar & Clark Essentials at 1 week. Follow Davidson (about a week) in the exam.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Acute medicine",
+       "pdfPage": 209,
+       "page": 187
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1022,
+       "page": 1005
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 209,
+       "page": 209
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Cardiovascular disease",
+       "pdfPage": 525,
+       "page": 488
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Acute medicine",
+      "pdfPage": 209,
+      "page": 187,
+      "figure": "Fig. 10.6"
+     },
+     "note": "Algorithm: Wells pre-test probability, D-dimer, compression ultrasound and a repeat scan at 7 days"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Respiratory medicine",
+      "pdfPage": 642,
+      "page": 620,
+      "figure": "Fig. 17.67"
+     },
+     "note": "Algorithm for suspected PE: clinical risk plus D-dimer, then ultrasound, CTPA or V/Q"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Venous thromboembolic disease",
+      "pdfPage": 1024,
+      "page": 1007,
+      "figure": "Fig. 29.4"
+     },
+     "note": "Suspected high-risk PE with shock: CTPA if available, otherwise bedside echo for RV dysfunction"
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.s5",
+   "title": "Investigations: bedside tests and imaging",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Tests in suspected PE",
+     "columns": [
+      "Test",
+      "Typical finding",
+      "Main value"
+     ],
+     "rows": [
+      [
+       "ECG",
+       "Often normal or **sinus tachycardia** (commonest); anterior/right precordial T inversion; new AF. Large PE: S1Q3T3, RBBB, right axis deviation, P pulmonale",
+       "Excludes MI and pericarditis; all PE signs have poor sensitivity"
+      ],
+      [
+       "Chest X-ray",
+       "Often normal; atelectasis, raised hemidiaphragm, effusion, wedge opacity, oligaemia",
+       "Excludes pneumonia and pneumothorax"
+      ],
+      [
+       "Arterial gas",
+       "Low PaO2, normal or low PaCO2, raised A–a gradient, respiratory alkalosis; metabolic acidosis in massive PE",
+       "Supports, but may be normal"
+      ],
+      [
+       "Troponin / BNP",
+       "May rise from right ventricular strain",
+       "Prognosis, risk class"
+      ],
+      [
+       "CTPA",
+       "Filling defect in the pulmonary arteries",
+       "**First-line** diagnostic test; shows alternatives"
+      ],
+      [
+       "V/Q scan",
+       "Perfusion defect with normal ventilation (mismatch)",
+       "If contrast allergy or renal impairment"
+      ],
+      [
+       "Leg compression ultrasound",
+       "Non-compressible proximal vein",
+       "Confirms VTE when legs are symptomatic"
+      ],
+      [
+       "Bedside echo",
+       "Acute RV dilatation, thrombus in transit",
+       "Unstable patient; excludes tamponade, dissection, LV failure"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 642,
+       "page": 620
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 641,
+       "page": 619
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 166,
+       "page": 166
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1020,
+       "page": 1003
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 167,
+       "page": 167
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Chest X-ray signs worth naming",
+     "items": [
+      "**Hampton hump:** a pleural-based, wedge-shaped opacity from infarction",
+      "**Westermark sign:** oligaemia (loss of vessel markings) beyond the clot",
+      "Raised hemidiaphragm, horizontal linear opacities (atelectasis), blood-stained effusion, enlarged pulmonary artery",
+      "A **normal film** in an acutely breathless, hypoxaemic patient should make you think of PE, as should bilateral changes with one-sided pleuritic pain"
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 166,
+       "page": 166
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 641,
+       "page": 619
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 642,
+       "page": 620
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "PE and hyperventilation syndrome both give a **respiratory alkalosis**, but PE has a **low PaO2** while hyperventilation has a **high PaO2**.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 132,
+       "page": 132
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "CTPA versus V/Q",
+     "items": [
+      "**CTPA:** first-line; widely available; sensitivity about 90% and specificity about 95%; shows consolidation, pneumothorax or dissection instead. Avoid with iodinated contrast allergy and use caution in renal impairment (contrast is nephrotoxic)",
+      "**V/Q scan** (or V/Q SPECT): lower radiation dose; a **normal scan excludes PE**; a mismatched defect suggests PE. Often non-diagnostic when existing lung disease causes matched defects, so it works best with a clear chest X-ray",
+      "V/Q sensitivity is about 98% but specificity only about 10%, rising to 97% for a \"high-probability\" scan"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 642,
+       "page": 620
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1022,
+       "page": 1005
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 132,
+       "page": 132
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 166,
+       "page": 166
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Pulmonary",
+       "pdfPage": 262,
+       "page": 262
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Imaging for DVT",
+     "items": [
+      "**Compression ultrasound** of the femoral and popliteal veins (a vein that will not compress holds thrombus), plus Doppler flow, has replaced venography",
+      "Over 95% sensitive for proximal DVT but less sensitive for calf DVT, hence the repeat scan",
+      "Whole-leg ultrasound avoids a repeat scan but takes longer and needs more skill"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1021,
+       "page": 1004
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Cardiovascular disease",
+       "pdfPage": 525,
+       "page": 488
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A normal leg ultrasound does **not** exclude PE: it is negative in about half of proven PEs. Echo helps risk-stratify a stable patient but is not a diagnostic test for PE (sensitivity < 50%); its diagnostic role is in the **shocked** patient.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Pulmonary",
+       "pdfPage": 262,
+       "page": 262
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 166,
+       "page": 166
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Cardiovascular disease",
+       "pdfPage": 513,
+       "page": 476
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "PE in pregnancy: choosing the scan",
+     "columns": [
+      "Test",
+      "Fetal dose",
+      "Maternal breast dose"
+     ],
+     "rows": [
+      [
+       "CTPA",
+       "Lower (0.01–0.06 mGy)",
+       "Higher, which matters if there is a family history of breast cancer"
+      ],
+      [
+       "V/Q scan",
+       "Higher (0.11–0.22 mGy)",
+       "Much lower"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 642,
+       "page": 620
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Venous thromboembolic disease",
+      "pdfPage": 1020,
+      "page": 1003,
+      "figure": "Fig. 29.1"
+     },
+     "note": "ECG in acute PE: S1Q3T3, sinus tachycardia at 160/min and incomplete RBBB"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Respiratory medicine",
+      "pdfPage": 641,
+      "page": 619,
+      "figure": "Fig. 17.66"
+     },
+     "note": "CXR features of PE/infarction: wedge opacity, raised hemidiaphragm, linear opacities, effusion, oligaemia, big pulmonary artery"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Respiratory medicine",
+      "pdfPage": 642,
+      "page": 620,
+      "figure": "Fig. 17.68"
+     },
+     "note": "CTPA: saddle embolus at the bifurcation of the pulmonary artery (arrow)"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Venous thromboembolic disease",
+      "pdfPage": 1026,
+      "page": 1009,
+      "figure": "Fig. 29.6"
+     },
+     "note": "V/Q scan: right upper lobe perfusion absent while ventilation is preserved (mismatch)"
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.s6",
+   "title": "Thrombophilia and the unprovoked VTE work-up",
+   "objectiveIdx": [
+    7
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Unprovoked VTE: look for cancer sensibly",
+     "items": [
+      "History and examination, FBC, renal and liver tests with **calcium**, clotting screen, **chest X-ray** and **urinalysis**",
+      "Over 40 years: NICE suggests considering **CT abdomen and pelvis**, plus a **mammogram** in women (survival benefit unproven)",
+      "Up to 5% of \"unprovoked\" VTE patients are diagnosed with cancer within 12 months (Trousseau's syndrome)",
+      "Also check antiphospholipid antibodies"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1028,
+       "page": 1011
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1027,
+       "page": 1010
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 210,
+       "page": 210
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "When to consider thrombophilia testing (Davidson)",
+     "columns": [
+      "Indication",
+      "Example"
+     ],
+     "rows": [
+      [
+       "Young VTE",
+       "Venous thrombosis before 45 years"
+      ],
+      [
+       "Recurrence",
+       "Recurrent venous thrombosis"
+      ],
+      [
+       "Family",
+       "Family history of unprovoked or recurrent thrombosis"
+      ],
+      [
+       "Mixed",
+       "Combined arterial and venous thrombosis"
+      ],
+      [
+       "Unusual site",
+       "Cerebral venous sinus, hepatic vein (Budd–Chiari), portal or mesenteric vein"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 945,
+       "page": 923
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "The thrombophilia panel",
+     "columns": [
+      "Category",
+      "Tests"
+     ],
+     "rows": [
+      [
+       "Blood count",
+       "FBC (polycythaemia, thrombocythaemia)"
+      ],
+      [
+       "Plasma levels",
+       "Antithrombin, protein C, free protein S; lupus anticoagulant, anticardiolipin and anti-β2GP1 antibodies; thrombin/reptilase time (dysfibrinogenaemia)"
+      ],
+      [
+       "Genetic",
+       "Factor V Leiden, prothrombin G20210A, JAK2 V617F and CALR (myeloproliferative)"
+      ],
+      [
+       "Flow cytometry",
+       "Loss of GPI-anchored CD14, 16, 55, 59 in PNH"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 945,
+       "page": 923
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Inherited thrombophilias",
+     "columns": [
+      "Defect",
+      "Mechanism",
+      "Key numbers and clues"
+     ],
+     "rows": [
+      [
+       "Factor V Leiden",
+       "Gain of function: factor Va resists inactivation by **activated protein C** (APC resistance)",
+       "About 5% of Northern Europeans; RR about 5 (heterozygote), ≥ 50 (homozygote); worse with the pill or pregnancy; the commonest inherited thrombophilia, found in about 20% of VTE"
+      ],
+      [
+       "Prothrombin G20210A",
+       "Gain of function: high prothrombin level",
+       "About 2% of Northern Europeans; 2–3-fold risk"
+      ],
+      [
+       "Antithrombin deficiency",
+       "Loss of the serpin that heparin works through",
+       "Autosomal dominant; most severe: RR 10–20, about 70% have VTE before 60; may be **heparin-resistant**"
+      ],
+      [
+       "Protein C or S deficiency",
+       "Loss of the vitamin K-dependent brakes on Va and VIIIa",
+       "About 5-fold risk; protein C deficiency predisposes to **warfarin skin necrosis**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 999,
+       "page": 977
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1028,
+       "page": 1011
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hematology",
+       "pdfPage": 346,
+       "page": 346
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 210,
+       "page": 210
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "What inherited thrombophilias have in common",
+     "items": [
+      "None is strongly linked to **arterial** thrombosis",
+      "Most carriers never have a VTE (except antithrombin deficiency and homozygous factor V Leiden), and when they do there is usually an extra trigger",
+      "Finding one rarely changes acute management and predicts recurrence poorly; it does not by itself call for anticoagulation",
+      "Testing may still guide family screening, pregnancy planning or treatment length"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 999,
+       "page": 977
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 944,
+       "page": 922
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1029,
+       "page": 1012
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Antiphospholipid syndrome (APS)",
+     "items": [
+      "Think of it with VTE under 50, unusual-site or recurrent thrombosis, unexplained arterial thrombosis under 50, recurrent pregnancy loss, or an incidental prolonged APTT",
+      "Diagnosis: at least 1 clinical criterion (thrombosis or pregnancy morbidity) plus at least 1 lab criterion (lupus anticoagulant, anticardiolipin or anti-β2GP1) on 2 occasions **≥ 12 weeks apart**",
+      "Treat with **warfarin**: DOACs may protect less well in APS (KC lists a target INR of 3.5)"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1029,
+       "page": 1012
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hematology",
+       "pdfPage": 347,
+       "page": 347
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 170,
+       "page": 170
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 279,
+       "page": 242
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Test **off anticoagulants**. Warfarin lowers protein C and S and disturbs lupus anticoagulant assays; heparin interferes with antithrombin and lupus anticoagulant; the acute clot itself also consumes these proteins. Pocket Medicine advises waiting at least 2 weeks after the course ends.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 944,
+       "page": 922
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 945,
+       "page": 923
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1029,
+       "page": 1012
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Hematology",
+       "pdfPage": 347,
+       "page": 347
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "NICE (Zero to Finals): test for hereditary thrombophilia only after an **unprovoked VTE with a family history**. Factor V Leiden is the commonest; APS is the one examiners love.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 210,
+       "page": 210
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 208,
+       "page": 208
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.s7",
+   "title": "Management",
+   "objectiveIdx": [
+    11
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Anticoagulation is the mainstay** for every form of VTE. It stops the clot extending and prevents recurrence, but it does not dissolve thrombus; only thrombolysis does that. Start treatment-dose anticoagulation as soon as VTE is suspected if imaging is delayed.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 997,
+       "page": 975
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1025,
+       "page": 1008
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 132,
+       "page": 132
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Starting anticoagulation",
+     "columns": [
+      "Regimen",
+      "How it is given"
+     ],
+     "rows": [
+      [
+       "LMWH + warfarin",
+       "LMWH for **at least 5 days**, with warfarin from day 1; target INR **2.5 (range 2–3)**; stop LMWH once the INR is above 2"
+      ],
+      [
+       "Apixaban",
+       "Alone from diagnosis; higher loading dose for 7 days (10 mg bd, then 5 mg bd)"
+      ],
+      [
+       "Rivaroxaban",
+       "Alone from diagnosis; higher loading dose for 21 days (15 mg bd, then 20 mg daily)"
+      ],
+      [
+       "Dabigatran or edoxaban",
+       "Need at least 5 days of LMWH first, then a straight switch on day 6 with no overlap"
+      ],
+      [
+       "LMWH doses",
+       "Enoxaparin 1 mg/kg SC bd or dalteparin 200 IU/kg daily"
+      ],
+      [
+       "IV unfractionated heparin",
+       "Renal failure (CrCl < 25), haemodynamic instability, or when thrombolysis may be needed"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 997,
+       "page": 975
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1024,
+       "page": 1007
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 168,
+       "page": 168
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 169,
+       "page": 169
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1026,
+       "page": 1009
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "When to stop the LMWH bridge: Davidson says once the INR is **above 2** (after at least 5 days); Kumar says INR ≥ 2.0 on **2 consecutive days**; Zero to Finals says INR 2–3 for 24 hours. All agree on at least 5 days of overlap.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 997,
+       "page": 975
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1023,
+       "page": 1006
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 209,
+       "page": 209
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Choosing the agent in special situations",
+     "columns": [
+      "Situation",
+      "Choice and reason"
+     ],
+     "rows": [
+      [
+       "Most patients",
+       "A DOAC: as effective as warfarin with less bleeding"
+      ],
+      [
+       "Pregnancy",
+       "**LMWH**: warfarin and DOACs cross the placenta; warfarin embryopathy in weeks 6–12 (nasal hypoplasia, stippled epiphyses)"
+      ],
+      [
+       "Breastfeeding",
+       "Warfarin or LMWH are safe; avoid DOACs"
+      ],
+      [
+       "Active cancer",
+       "LMWH (fewer recurrences than warfarin) or a DOAC (more bleeding risk)"
+      ],
+      [
+       "Antiphospholipid syndrome or severe renal impairment",
+       "Warfarin"
+      ],
+      [
+       "Heparin-induced thrombocytopenia",
+       "A non-heparin agent: argatroban or fondaparinux"
+      ],
+      [
+       "Platelet count",
+       "Usually safe above 50 × 10⁹/L; contraindicated below 20 × 10⁹/L"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 169,
+       "page": 169
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 170,
+       "page": 170
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1024,
+       "page": 1007
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1025,
+       "page": 1008
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 642,
+       "page": 620
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 168,
+       "page": 168
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "General measures in PE",
+     "items": [
+      "Oxygen to keep saturation **above 90%**",
+      "Treat shock with **IV fluids**; inotropes add little because the hypoxic RV is already maximally driven",
+      "**Avoid diuretics and vasodilators**: they cut cardiac output further",
+      "Opiates for pain and distress, used with caution",
+      "Low-risk PE (sPESI 0) and most DVT can be treated as outpatients or discharged after 24–48 h"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 642,
+       "page": 620
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1024,
+       "page": 1007
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 132,
+       "page": 132
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Thrombolysis and embolectomy",
+     "items": [
+      "**Indication:** massive PE with shock or hypotension (systolic ≤ 90 mmHg); here it roughly halves death and recurrence",
+      "Without shock it **may be considered** for RV dilatation/hypokinesis or severe hypoxaemia; its use in intermediate-risk PE is debated",
+      "Typical regimen: alteplase 100 mg over 2 hours; risk of intracranial haemorrhage about 2% (up to 5%)",
+      "**Surgical embolectomy** if lysis is contraindicated or fails",
+      "Catheter-directed lysis is occasionally used for limb-threatening iliofemoral DVT"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 643,
+       "page": 621
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1025,
+       "page": 1008
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 169,
+       "page": 169
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Cardiovascular disease",
+       "pdfPage": 513,
+       "page": 476
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 998,
+       "page": 976
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "IVC filter",
+     "items": [
+      "Only when anticoagulation is **contraindicated**, after **major bleeding** on it, or with **recurrent PE despite** adequate anticoagulation",
+      "Prefer **retrievable** filters and remove them once anticoagulation is safe",
+      "Adding a filter to anticoagulation gives no extra benefit; complications include migration, DVT and IVC obstruction"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 643,
+       "page": 621
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 997,
+       "page": 975
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1025,
+       "page": 1008
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 170,
+       "page": 170
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "How long to anticoagulate",
+     "columns": [
+      "Situation",
+      "Duration"
+     ],
+     "rows": [
+      [
+       "Proximal DVT or PE (all)",
+       "At least **3 months**, then review"
+      ],
+      [
+       "Provoked, trigger removed",
+       "About **3 months** and stop; more than 6 months does not reduce recurrence after stopping"
+      ],
+      [
+       "Unprovoked",
+       "Consider **long-term** treatment (NICE offers it after unprovoked PE and considers it after unprovoked proximal DVT), balancing bleeding risk"
+      ],
+      [
+       "Active cancer",
+       "Continue while the cancer is active (at least 6 months)"
+      ],
+      [
+       "Second VTE",
+       "Indefinite"
+      ],
+      [
+       "Distal (calf) DVT",
+       "Usually 3 months; 6 weeks if low recurrence risk. Mild cases may instead have serial scans over 2 weeks"
+      ],
+      [
+       "Line-related upper-limb DVT",
+       "At least 3 months, and for as long as the line stays in"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 997,
+       "page": 975
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 998,
+       "page": 976
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1025,
+       "page": 1008
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1027,
+       "page": 1010
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 168,
+       "page": 168
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 170,
+       "page": 170
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Kumar & Clark Essentials (older text) says 6 weeks after a first provoked thrombosis. Davidson's current figure for provoked VTE is **about 3 months**, with an overall initial range of 6 weeks to 6 months.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 279,
+       "page": 242
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 997,
+       "page": 975
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 998,
+       "page": 976
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Warfarin target INR is **2.5** for DVT/PE. It rises to **3.5** for VTE recurring on warfarin and (per KC) for antiphospholipid syndrome. For a DVT, also elevate the leg and give analgesia.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 279,
+       "page": 242
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 998,
+       "page": 976
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Venous thromboembolic disease",
+      "pdfPage": 1026,
+      "page": 1009,
+      "figure": "Fig. 29.7"
+     },
+     "note": "Timelines of the LMWH–warfarin, LMWH-then-dabigatran/edoxaban and apixaban/rivaroxaban-alone regimens"
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.s8",
+   "title": "Complications and prognosis",
+   "objectiveIdx": [
+    10
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Complications of VTE",
+     "columns": [
+      "Complication",
+      "Key facts"
+     ],
+     "rows": [
+      [
+       "Post-thrombotic syndrome",
+       "Valve damage after proximal DVT: persistent swelling, heaviness, pain, venous claudication, itching, discoloration, lipodermatosclerosis and at worst **ulceration near the medial malleolus**"
+      ],
+      [
+       "Recurrent VTE",
+       "Commonest in the first 6–12 months; about one-third have another event by 10 years"
+      ],
+      [
+       "CTEPH",
+       "Chronic thromboembolic pulmonary hypertension: emboli fail to resolve; persistent breathlessness, residual defects on perfusion scan or CTPA, pulmonary hypertension on echo; some are cured by **pulmonary endarterectomy**"
+      ],
+      [
+       "Bleeding on treatment",
+       "Fatal intracerebral haemorrhage is the commonest haemorrhagic death on warfarin; heparin bleeding is a particular problem in renal failure"
+      ],
+      [
+       "Death",
+       "From the embolus itself, or from the underlying disease (especially cancer)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 998,
+       "page": 976
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1027,
+       "page": 1010
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 643,
+       "page": 621
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Cardiovascular disease",
+       "pdfPage": 526,
+       "page": 489
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Recurrence after stopping anticoagulation",
+     "columns": [
+      "Group",
+      "Risk"
+     ],
+     "rows": [
+      [
+       "Provoked (temporary factor)",
+       "About 2–3% per year"
+      ],
+      [
+       "Unprovoked",
+       "About 7–10% per year, levelling off at 30–40% by 5 years (Kumar: about 10% at 1 year, 30% at 5 years)"
+      ],
+      [
+       "Higher-risk features",
+       "Male sex, positive D-dimer 1 month after stopping, second event, PE or proximal DVT rather than distal DVT"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 998,
+       "page": 976
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1027,
+       "page": 1010
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Mortality",
+     "items": [
+      "30-day mortality about 10% after DVT and 15% after PE (Davidson)",
+      "After PE, about 5% die by 1 month (at least half from coexisting disease); across all VTE, 10–20% die within a year, with **cancer** the leading cause",
+      "Immediate risk is highest with RV dysfunction on echo or cardiogenic shock, and falls quickly once anticoagulation starts"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 997,
+       "page": 975
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1027,
+       "page": 1010
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 643,
+       "page": 621
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Post-thrombotic syndrome rates differ: **about 30%** after proximal DVT (Davidson), 40% (Kumar), 23–60% (Pocket Medicine). Use Davidson's 30%. Davidson also notes that compression stockings after DVT **do not appear to prevent** it, although they may ease symptoms once it develops.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 998,
+       "page": 976
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1027,
+       "page": 1010
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 171,
+       "page": 171
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Cardiovascular disease",
+       "pdfPage": 526,
+       "page": 489
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "CTEPH frequency also varies: up to 5% (Kumar, Step-Up) versus about 2–3% (Pocket Medicine). Suspect it in anyone still breathless months after a PE.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Venous thromboembolic disease",
+       "pdfPage": 1027,
+       "page": 1010
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Pulmonary",
+       "pdfPage": 257,
+       "page": 257
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 171,
+       "page": 171
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Venous thromboembolic disease",
+      "pdfPage": 1028,
+      "page": 1011,
+      "figure": "Fig. 29.8"
+     },
+     "note": "Venous ulcer at the ankle with venous-type skin staining: severe post-thrombotic syndrome"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Haematology",
+      "pdfPage": 998,
+      "page": 976,
+      "figure": "Fig. 23.33"
+     },
+     "note": "Causes and consequences of VTE: leg vein anatomy, iliac thrombosis, IVC filter, massive PE, post-thrombotic ulcer, bleeding on treatment"
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "heme-vte.c1",
+   "sectionId": "heme-vte.s1",
+   "front": "Where does a DVT become \"proximal\"?",
+   "back": "When it reaches the **popliteal vein** or above (femoral, iliac). Proximal clots are larger and more likely to embolise.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1019,
+     "page": 1002
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 163,
+     "page": 163
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c2",
+   "sectionId": "heme-vte.s1",
+   "front": "Which two elements of Virchow's triad matter most for venous thrombosis?",
+   "back": "**Stasis** and **hypercoagulability** (turbulence and atheroma matter more in arteries).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1019,
+     "page": 1002
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c3",
+   "sectionId": "heme-vte.s1",
+   "front": "Annual VTE incidence and DVT : PE ratio (Davidson)?",
+   "back": "About **1 in 1000** per year; DVT : PE about **2 : 1**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 997,
+     "page": 975
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c4",
+   "sectionId": "heme-vte.s1",
+   "front": "Non-thrombotic causes of pulmonary embolism?",
+   "back": "Septic (right-sided endocarditis), tumour (choriocarcinoma), fat (long-bone fracture), air, amniotic fluid.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 641,
+     "page": 619
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c5",
+   "sectionId": "heme-vte.s2",
+   "front": "Three \"strong\" (10–50-fold) VTE risk factors?",
+   "back": "Major surgery, major trauma, absolute bed rest.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1019,
+     "page": 1002
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c6",
+   "sectionId": "heme-vte.s2",
+   "front": "Main contraindication to anti-embolic stockings?",
+   "back": "Significant **peripheral arterial disease** (also avoided after stroke and with fragile skin).",
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "chapter": "Respiratory",
+     "pdfPage": 131,
+     "page": 131
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1030,
+     "page": 1013
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c7",
+   "sectionId": "heme-vte.s2",
+   "front": "Which patients get about 30 days of extended prophylaxis?",
+   "back": "After major lower-limb orthopaedic surgery and after abdominal/pelvic **cancer** surgery.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 999,
+     "page": 977
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c8",
+   "sectionId": "heme-vte.s3",
+   "front": "Where and what is the calf-circumference criterion?",
+   "back": "Measure 10 cm below the tibial tuberosity; a difference of **more than 3 cm** is significant.",
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "chapter": "Haematology",
+     "pdfPage": 209,
+     "page": 209
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Acute medicine",
+     "pdfPage": 209,
+     "page": 187
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c9",
+   "sectionId": "heme-vte.s3",
+   "front": "Usual rhythm at cardiac arrest from massive PE?",
+   "back": "**Pulseless electrical activity (PEA).**",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1020,
+     "page": 1003
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 166,
+     "page": 166
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c10",
+   "sectionId": "heme-vte.s3",
+   "front": "Sudden posterior calf pain with swelling: two main alternatives to DVT?",
+   "back": "Ruptured **Baker's cyst** and **gastrocnemius tear** (DVT builds up gradually).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Acute medicine",
+     "pdfPage": 208,
+     "page": 186
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c11",
+   "sectionId": "heme-vte.s4",
+   "front": "Two-level Wells PE score: cut-off for \"PE likely\"?",
+   "back": "A score **above 4** (≤ 4 = unlikely).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1021,
+     "page": 1004
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Pulmonary",
+     "pdfPage": 264,
+     "page": 264
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c12",
+   "sectionId": "heme-vte.s4",
+   "front": "Davidson three-level Wells DVT bands?",
+   "back": "< 1 low, 1–2 moderate, > 2 high probability.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Acute medicine",
+     "pdfPage": 209,
+     "page": 187
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c13",
+   "sectionId": "heme-vte.s4",
+   "front": "Anticoagulate before imaging when the wait exceeds…?",
+   "back": "**1 hour** for suspected PE, **4 hours** for suspected DVT.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1022,
+     "page": 1005
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c14",
+   "sectionId": "heme-vte.s4",
+   "front": "sPESI items?",
+   "back": "Age > 80, cancer, chronic heart or lung disease, pulse ≥ 110, systolic BP < 100, SaO2 < 90%. Score 0 = low risk.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1025,
+     "page": 1008
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 167,
+     "page": 167
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c15",
+   "sectionId": "heme-vte.s5",
+   "front": "Commonest ECG finding in PE?",
+   "back": "**Sinus tachycardia** (S1Q3T3 is classic but uncommon).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 642,
+     "page": 620
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1020,
+     "page": 1003
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c16",
+   "sectionId": "heme-vte.s5",
+   "front": "First-line imaging for PE, and the alternative with renal impairment or contrast allergy?",
+   "back": "**CTPA**; otherwise a **V/Q scan** (or V/Q SPECT).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 642,
+     "page": 620
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c17",
+   "sectionId": "heme-vte.s5",
+   "front": "Hampton hump and Westermark sign?",
+   "back": "Hampton hump: pleural-based wedge opacity (infarct). Westermark: oligaemia beyond the clot.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 166,
+     "page": 166
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c18",
+   "sectionId": "heme-vte.s6",
+   "front": "Mechanism of factor V Leiden?",
+   "back": "Factor Va resists cleavage by **activated protein C** (APC resistance); heterozygote RR about 5.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 999,
+     "page": 977
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1028,
+     "page": 1011
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c19",
+   "sectionId": "heme-vte.s6",
+   "front": "Which inherited thrombophilia can cause heparin resistance?",
+   "back": "**Antithrombin deficiency** (heparin acts through antithrombin).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1028,
+     "page": 1011
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Hematology",
+     "pdfPage": 346,
+     "page": 346
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c20",
+   "sectionId": "heme-vte.s6",
+   "front": "Why test thrombophilia off anticoagulants?",
+   "back": "Warfarin lowers protein C/S and disturbs lupus anticoagulant; heparin interferes with antithrombin and lupus anticoagulant.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 944,
+     "page": 922
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 945,
+     "page": 923
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c21",
+   "sectionId": "heme-vte.s7",
+   "front": "Which DOACs can be started alone, and which need 5 days of LMWH first?",
+   "back": "Alone: **apixaban** (7-day load) and **rivaroxaban** (21-day load). LMWH first: **dabigatran** and **edoxaban**.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1024,
+     "page": 1007
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 997,
+     "page": 975
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c22",
+   "sectionId": "heme-vte.s7",
+   "front": "Definite indication for thrombolysis in PE?",
+   "back": "**Massive PE with shock/hypotension** (systolic ≤ 90 mmHg).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 643,
+     "page": 621
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1025,
+     "page": 1008
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Cardiovascular disease",
+     "pdfPage": 513,
+     "page": 476
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c23",
+   "sectionId": "heme-vte.s7",
+   "front": "Anticoagulant of choice in pregnancy?",
+   "back": "**LMWH**: warfarin and DOACs cross the placenta.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1024,
+     "page": 1007
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 642,
+     "page": 620
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c24",
+   "sectionId": "heme-vte.s8",
+   "front": "Post-thrombotic syndrome: frequency after proximal DVT and worst complication?",
+   "back": "About **30%** (Davidson); ulceration around the **medial malleolus**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 998,
+     "page": 976
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.c25",
+   "sectionId": "heme-vte.s8",
+   "front": "Strongest predictors of recurrence after unprovoked VTE?",
+   "back": "**Male sex** and a **positive D-dimer 1 month** after stopping anticoagulation.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 998,
+     "page": 976
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "heme-vte.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 1,
+   "stem": "A 54-year-old man has a 3-day history of left calf pain after a long coach trip. Compression ultrasound shows thrombus in the posterior tibial and peroneal veins; the popliteal and femoral veins compress normally.",
+   "leadIn": "How is this thrombosis best classified?",
+   "options": [
+    "Proximal deep vein thrombosis",
+    "Distal (calf) deep vein thrombosis",
+    "Superficial thrombophlebitis",
+    "Iliofemoral deep vein thrombosis",
+    "Post-thrombotic syndrome"
+   ],
+   "answer": 1,
+   "explanation": "Thrombus confined to the calf veins, below the popliteal vein, is a **distal (calf) DVT**. It carries a lower embolic risk than proximal DVT, but about a third extend upwards, so it still matters.",
+   "whyNot": [
+    "Proximal DVT means the popliteal vein or above is involved; here the popliteal vein compresses normally.",
+    "",
+    "The posterior tibial and peroneal veins are deep veins, not superficial ones.",
+    "Iliofemoral thrombus would be well above the knee; the femoral vein is clear.",
+    "Post-thrombotic syndrome is a late consequence of DVT, not an acute ultrasound finding."
+   ],
+   "studyRef": {
+    "sectionId": "heme-vte.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1019,
+     "page": 1002
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 163,
+     "page": 163
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Pulmonary",
+     "pdfPage": 256,
+     "page": 256
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "heme-vte.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 2,
+   "stem": "A 23-year-old man is admitted after a closed fracture of the femoral shaft in a motorbike crash. On day 2, before surgery, he becomes acutely breathless and confused, and a petechial rash appears over his chest and axillae. SpO2 is 86% on air.",
+   "leadIn": "What is the most likely type of embolism?",
+   "options": [
+    "Thrombotic embolism from a leg DVT",
+    "Fat embolism",
+    "Air embolism",
+    "Septic embolism",
+    "Tumour embolism"
+   ],
+   "answer": 1,
+   "explanation": "Breathlessness, **confusion and a petechial rash** within days of a **long-bone fracture** is fat embolism, one of the non-thrombotic causes of PE.",
+   "whyNot": [
+    "Thrombotic PE after a fracture usually comes later, once immobility has produced a DVT, and does not give petechiae or confusion as a triad.",
+    "",
+    "Air embolism needs air entry, e.g. via a central line; there is none here.",
+    "Septic emboli come from right-sided (tricuspid or pulmonary valve) endocarditis; nothing here suggests infection.",
+    "Tumour emboli (e.g. choriocarcinoma) need a known malignancy."
+   ],
+   "studyRef": {
+    "sectionId": "heme-vte.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 641,
+     "page": 619
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Pulmonary",
+     "pdfPage": 256,
+     "page": 256
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Pulmonary",
+     "pdfPage": 265,
+     "page": 265
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "heme-vte.q3",
+   "kind": "emq",
+   "pool": "quiz",
+   "difficulty": 2,
+   "theme": "Choosing VTE prophylaxis in hospital",
+   "leadIn": "Pick the best match from the list above for each patient. An option can fit several patients, or none.",
+   "options": [
+    "Early mobilisation alone",
+    "Prophylactic-dose LMWH",
+    "Subcutaneous unfractionated heparin",
+    "Fondaparinux",
+    "Intermittent pneumatic compression alone",
+    "Graduated compression stockings plus LMWH",
+    "Extended LMWH for about 30 days after discharge",
+    "Low-dose DOAC for 2–5 weeks",
+    "Therapeutic-dose warfarin",
+    "No extra prophylaxis: already fully anticoagulated"
+   ],
+   "items": [
+    {
+     "stem": "A 74-year-old man is admitted with a left hemiplegia; CT shows an acute intracerebral haemorrhage. He is bed-bound. His foot pulses are easily felt.",
+     "answer": 4,
+     "explanation": "Two steps: an **acute stroke/haemorrhage is a bleeding risk**, so drug prophylaxis is out; **stockings are avoided after stroke**, so use intermittent pneumatic compression.",
+     "studyRef": {
+      "sectionId": "heme-vte.s2"
+     }
+    },
+    {
+     "stem": "A 66-year-old woman with CKD (creatinine clearance 18 mL/min) is admitted with pneumonia and will be largely bed-bound for several days. She has no bleeding risk.",
+     "answer": 2,
+     "explanation": "Severe renal impairment makes **unfractionated heparin** the preferred prophylactic heparin; LMWH accumulates.",
+     "studyRef": {
+      "sectionId": "heme-vte.s2"
+     }
+    },
+    {
+     "stem": "A 59-year-old woman is ready for discharge on day 6 after a laparotomy and debulking for ovarian cancer.",
+     "answer": 6,
+     "explanation": "Abdominal/pelvic **cancer surgery** is high risk, and prophylaxis is continued for **about 30 days** after the operation.",
+     "studyRef": {
+      "sectionId": "heme-vte.s2"
+     }
+    },
+    {
+     "stem": "A 50-year-old man needing medical admission for cellulitis is immobile. Two years ago he developed heparin-induced thrombocytopenia on a cardiac ward.",
+     "answer": 3,
+     "explanation": "With previous **HIT**, avoid heparins; **fondaparinux** is the prophylactic alternative.",
+     "studyRef": {
+      "sectionId": "heme-vte.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1030,
+     "page": 1013
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 999,
+     "page": 977
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 164,
+     "page": 164
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Respiratory",
+     "pdfPage": 131,
+     "page": 131
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "heme-vte.q4",
+   "kind": "emq",
+   "pool": "quiz",
+   "difficulty": 2,
+   "theme": "The painful swollen leg",
+   "leadIn": "Pick the best match from the list above for each patient. An option can fit several patients, or none.",
+   "options": [
+    "Deep vein thrombosis",
+    "Ruptured Baker's cyst",
+    "Gastrocnemius muscle tear",
+    "Cellulitis",
+    "Superficial thrombophlebitis",
+    "Compartment syndrome",
+    "Chronic lymphoedema",
+    "Chronic venous insufficiency",
+    "Post-thrombotic syndrome",
+    "Acute arterial occlusion",
+    "Congestive heart failure"
+   ],
+   "items": [
+    {
+     "stem": "A 67-year-old woman with long-standing knee osteoarthritis has had a soft swelling behind the right knee for months. While gardening she felt something \"give\" and sudden pain spread down the back of her calf, which is now swollen. The swelling behind the knee has gone.",
+     "answer": 1,
+     "explanation": "A popliteal swelling that vanishes as **sudden** posterior calf pain appears is a **ruptured Baker's cyst**; DVT builds up gradually. Ultrasound will show it.",
+     "studyRef": {
+      "sectionId": "heme-vte.s3"
+     }
+    },
+    {
+     "stem": "A 41-year-old man is found on the floor after lying for many hours following a heroin overdose. His right calf is tense and exquisitely painful, and the pain is much worse when his toes are passively extended. Foot pulses are present.",
+     "answer": 5,
+     "explanation": "Prolonged compression plus a tense leg with pain on **passive stretch** is **compartment syndrome**. Two-step clue: palpable pulses do **not** exclude it, as pulses are lost only late.",
+     "studyRef": {
+      "sectionId": "heme-vte.s3"
+     }
+    },
+    {
+     "stem": "A 58-year-old man with diabetes has a fissure between his toes. He has a fever of 38.6 °C and a hot, red, sharply edged area over his shin.",
+     "answer": 3,
+     "explanation": "**Well-demarcated** erythema, an **entry site** and fever point to cellulitis.",
+     "studyRef": {
+      "sectionId": "heme-vte.s3"
+     }
+    },
+    {
+     "stem": "A 70-year-old woman 12 days after a hip replacement has had 2 days of increasing swelling of her whole left leg, with pitting oedema, a calf 4 cm bigger than the right and dilated superficial veins.",
+     "answer": 0,
+     "explanation": "Gradual **whole-leg swelling** after major orthopaedic surgery, with several Wells items, is a **DVT** until proven otherwise.",
+     "studyRef": {
+      "sectionId": "heme-vte.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Acute medicine",
+     "pdfPage": 208,
+     "page": 186
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Acute medicine",
+     "pdfPage": 209,
+     "page": 187
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1020,
+     "page": 1003
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Cardiovascular disease",
+     "pdfPage": 525,
+     "page": 488
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "heme-vte.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 2,
+   "stem": "A 61-year-old man receiving chemotherapy for colon cancer has a 3-day history of a swollen right leg. The whole leg is swollen, with pitting oedema confined to that leg, and the calf is 4 cm larger than the left. No other diagnosis seems as likely.",
+   "leadIn": "What is the most appropriate next investigation?",
+   "options": [
+    "D-dimer, with discharge if normal",
+    "Compression ultrasound of the leg veins",
+    "CT pulmonary angiogram",
+    "Contrast venography",
+    "Clinical review again in 1 week"
+   ],
+   "answer": 1,
+   "explanation": "Wells DVT score: cancer 1 + whole leg 1 + pitting oedema 1 + calf > 3 cm 1 = **4, high probability**. High-probability patients go straight to **compression ultrasound**; D-dimer cannot rule out DVT here (and cancer raises it anyway).",
+   "whyNot": [
+    "A negative D-dimer has an NPV of only about 97–98% in high-probability patients, which is unsafe; and cancer raises D-dimer.",
+    "",
+    "CTPA looks for PE; he has no chest symptoms and the question is the leg.",
+    "Venography has been replaced by ultrasound.",
+    "Waiting a week without testing or treatment risks PE."
+   ],
+   "studyRef": {
+    "sectionId": "heme-vte.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Acute medicine",
+     "pdfPage": 209,
+     "page": 187
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1021,
+     "page": 1004
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Cardiovascular disease",
+     "pdfPage": 526,
+     "page": 489
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "heme-vte.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 1,
+   "stem": "A 34-year-old woman has had left-sided pleuritic chest pain for 2 days after a cold. Pulse 92/min, SpO2 98%. No leg signs, no recent surgery or travel, no previous VTE. You judge an alternative diagnosis more likely than PE. Her D-dimer is normal.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "CT pulmonary angiogram",
+    "V/Q scan",
+    "No further testing for PE; look for another cause",
+    "Start treatment-dose LMWH and book a CTPA",
+    "Bilateral leg ultrasound"
+   ],
+   "answer": 2,
+   "explanation": "Her two-level Wells PE score is 0 (**PE unlikely**). In that group a **normal D-dimer excludes PE** with an NPV above 99%, so no imaging is needed.",
+   "whyNot": [
+    "Imaging is for \"PE likely\" patients or those with a raised D-dimer.",
+    "V/Q is an alternative to CTPA, not a step after a negative D-dimer in a low-risk patient.",
+    "",
+    "Anticoagulation is not needed once PE has been excluded.",
+    "Leg ultrasound is used when legs are symptomatic or CTPA is unavailable; neither applies."
+   ],
+   "studyRef": {
+    "sectionId": "heme-vte.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1023,
+     "page": 1006
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Respiratory",
+     "pdfPage": 132,
+     "page": 132
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 642,
+     "page": 620
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 166,
+     "page": 166
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "heme-vte.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 2,
+   "stem": "A 38-year-old woman develops sudden right pleuritic pain and breathlessness 10 days after a caesarean section. Arterial blood gas on air: pH 7.49, PaCO2 3.9 kPa, PaO2 8.0 kPa.",
+   "leadIn": "Which diagnosis best explains this blood gas?",
+   "options": [
+    "Pulmonary embolism",
+    "Hyperventilation (panic) syndrome",
+    "Opiate-induced respiratory depression",
+    "COPD with type 2 respiratory failure",
+    "Diabetic ketoacidosis"
+   ],
+   "answer": 0,
+   "explanation": "A **respiratory alkalosis with a low PaO2** fits PE: hypoxaemia drives hyperventilation. Hyperventilation syndrome also lowers PaCO2 but leaves PaO2 **high**. The postpartum state adds risk.",
+   "whyNot": [
+    "",
+    "Hyperventilation syndrome gives a respiratory alkalosis with a high, not low, PaO2.",
+    "Opiates cause hypoventilation: high PaCO2 and respiratory acidosis.",
+    "Type 2 failure means a raised PaCO2.",
+    "DKA causes a metabolic acidosis with a low pH."
+   ],
+   "studyRef": {
+    "sectionId": "heme-vte.s5"
+   },
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "chapter": "Respiratory",
+     "pdfPage": 132,
+     "page": 132
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 642,
+     "page": 620
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 166,
+     "page": 166
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "heme-vte.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 2,
+   "stem": "A 68-year-old man with suspected PE (Wells 6) has an eGFR of 22 mL/min/1.73 m² and documented anaphylaxis to iodinated contrast. His chest X-ray is clear and he has no chronic lung disease.",
+   "leadIn": "What is the most appropriate diagnostic imaging?",
+   "options": [
+    "CT pulmonary angiogram",
+    "Ventilation–perfusion (V/Q) scan",
+    "Catheter pulmonary angiography",
+    "Transthoracic echocardiography",
+    "Repeat chest X-ray in 24 hours"
+   ],
+   "answer": 1,
+   "explanation": "CTPA is first-line, but **contrast allergy and renal impairment** rule it out here. A **V/Q scan** avoids iodinated contrast and is most reliable when the chest X-ray is clear and there is no underlying lung disease.",
+   "whyNot": [
+    "CTPA needs iodinated contrast, which is contraindicated by anaphylaxis and risky with this eGFR.",
+    "",
+    "Catheter angiography also uses contrast and is invasive; it is kept for selected cases.",
+    "Echo is not a diagnostic test for PE in a stable patient (sensitivity < 50%).",
+    "A chest film cannot confirm or exclude PE."
+   ],
+   "studyRef": {
+    "sectionId": "heme-vte.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 642,
+     "page": 620
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1022,
+     "page": 1005
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Respiratory",
+     "pdfPage": 132,
+     "page": 132
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 166,
+     "page": 166
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Pulmonary",
+     "pdfPage": 262,
+     "page": 262
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "heme-vte.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 2,
+   "stem": "A 29-year-old man has an unprovoked proximal DVT. His father had a PE at 40. He has been on warfarin for 2 weeks, and the team wants to check protein C and protein S levels today.",
+   "leadIn": "What is the best advice?",
+   "options": [
+    "Send them now; warfarin does not affect these assays",
+    "Defer the protein C and S assays until he is off anticoagulation",
+    "Switch to heparin and measure them tomorrow",
+    "Send them only if the INR goes above 4",
+    "They should have been measured during the acute clot to choose the first drug"
+   ],
+   "answer": 1,
+   "explanation": "Warfarin **lowers protein C and S** (vitamin K-dependent), so levels measured now would be falsely low. Thrombophilia assays should be done **off anticoagulants**, and results rarely change acute treatment anyway.",
+   "whyNot": [
+    "Warfarin directly lowers protein C and S, so results would be misleading.",
+    "",
+    "Heparin interferes with antithrombin and lupus anticoagulant assays, so this does not solve the problem.",
+    "The INR level does not make the assays reliable.",
+    "The acute clot itself consumes these proteins, and results do not alter initial treatment."
+   ],
+   "studyRef": {
+    "sectionId": "heme-vte.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 944,
+     "page": 922
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 945,
+     "page": 923
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1029,
+     "page": 1012
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Hematology",
+     "pdfPage": 347,
+     "page": 347
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "heme-vte.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 2,
+   "stem": "A 24-year-old woman develops a DVT 3 months after starting the combined pill. Her mother had a DVT in pregnancy. Coagulation testing shows that her plasma resists the anticoagulant effect of activated protein C.",
+   "leadIn": "Which inherited defect is most likely?",
+   "options": [
+    "Factor V Leiden",
+    "Prothrombin G20210A mutation",
+    "Antithrombin deficiency",
+    "Protein S deficiency",
+    "JAK2 V617F mutation"
+   ],
+   "answer": 0,
+   "explanation": "**APC resistance** is the hallmark of **factor V Leiden**: activated factor V cannot be cleaved by activated protein C. It is the commonest inherited thrombophilia and interacts strongly with the pill and pregnancy.",
+   "whyNot": [
+    "",
+    "Prothrombin G20210A raises prothrombin levels; it does not cause APC resistance.",
+    "Antithrombin deficiency causes heparin resistance, not APC resistance.",
+    "Protein S is a cofactor, and its deficiency gives low protein S levels rather than resistance to added APC.",
+    "JAK2 V617F is an acquired mutation in myeloproliferative neoplasms."
+   ],
+   "studyRef": {
+    "sectionId": "heme-vte.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 999,
+     "page": 977
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1028,
+     "page": 1011
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Hematology",
+     "pdfPage": 346,
+     "page": 346
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "heme-vte.q11",
+   "kind": "emq",
+   "pool": "quiz",
+   "difficulty": 2,
+   "theme": "Treatment choices in confirmed VTE",
+   "leadIn": "Pick the best match from the list above for each patient. An option can fit several patients, or none.",
+   "options": [
+    "LMWH for the rest of pregnancy",
+    "Warfarin (INR-guided)",
+    "Apixaban alone with a 7-day loading phase",
+    "LMWH for 5 days then dabigatran",
+    "Systemic thrombolysis with alteplase",
+    "Retrievable IVC filter",
+    "Surgical pulmonary embolectomy",
+    "IV unfractionated heparin alone",
+    "Compression stockings alone",
+    "Serial ultrasound without anticoagulation"
+   ],
+   "items": [
+    {
+     "stem": "A 31-year-old woman at 20 weeks of pregnancy has a confirmed left femoral DVT.",
+     "answer": 0,
+     "explanation": "Warfarin and DOACs cross the placenta; **LMWH** is the treatment of choice in pregnancy.",
+     "studyRef": {
+      "sectionId": "heme-vte.s7"
+     }
+    },
+    {
+     "stem": "A 58-year-old man collapses with a confirmed PE. BP is 78/50 mmHg and bedside echo shows a dilated, poorly moving right ventricle. He has no bleeding risk factors.",
+     "answer": 4,
+     "explanation": "Massive PE with **shock** is the clear indication for **systemic thrombolysis**.",
+     "studyRef": {
+      "sectionId": "heme-vte.s7"
+     }
+    },
+    {
+     "stem": "A 72-year-old man develops a proximal DVT 3 days after evacuation of a subdural haematoma. The neurosurgeons say no anticoagulant can be given for at least 2 weeks.",
+     "answer": 5,
+     "explanation": "Anticoagulation is **contraindicated**, so a **retrievable IVC filter** protects against PE, to be removed once anticoagulation is safe.",
+     "studyRef": {
+      "sectionId": "heme-vte.s7"
+     }
+    },
+    {
+     "stem": "A 44-year-old woman with antiphospholipid syndrome (persistently positive lupus anticoagulant and anti-β2GP1) has an unprovoked DVT.",
+     "answer": 1,
+     "explanation": "In APS, **warfarin** is preferred: DOACs may protect less well against recurrence.",
+     "studyRef": {
+      "sectionId": "heme-vte.s7"
+     }
+    },
+    {
+     "stem": "A 63-year-old woman has a massive PE with BP 72/40 mmHg. She had a haemorrhagic stroke 2 months ago.",
+     "answer": 6,
+     "explanation": "Two steps: shock needs clot removal, but a recent **haemorrhagic stroke contraindicates thrombolysis**, so the answer is **surgical embolectomy**.",
+     "studyRef": {
+      "sectionId": "heme-vte.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1024,
+     "page": 1007
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1025,
+     "page": 1008
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1029,
+     "page": 1012
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 643,
+     "page": 621
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 170,
+     "page": 170
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "heme-vte.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 1,
+   "stem": "A 55-year-old man had an iliofemoral DVT 2 years ago. His left leg now aches and feels heavy by the end of each day, the skin above the ankle is brown and itchy, and there is a shallow ulcer just above the medial malleolus.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Post-thrombotic syndrome",
+    "Recurrent acute DVT",
+    "Cellulitis",
+    "Primary lymphoedema",
+    "Arterial (ischaemic) ulcer"
+   ],
+   "answer": 0,
+   "explanation": "Chronic heaviness, swelling, discoloration and a **medial malleolar ulcer** after a **proximal DVT** is **post-thrombotic syndrome**, from venous valve damage. It follows about 30% of proximal DVTs.",
+   "whyNot": [
+    "",
+    "An acute DVT gives new swelling over hours to days, not a 2-year course with skin changes.",
+    "Cellulitis is acute, hot and red with fever.",
+    "Lymphoedema is firm and non-pitting without venous pigmentation, and it is not linked to his DVT.",
+    "Arterial ulcers are painful, punched-out and distal (toes, pressure points), with poor pulses."
+   ],
+   "studyRef": {
+    "sectionId": "heme-vte.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 998,
+     "page": 976
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1027,
+     "page": 1010
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1028,
+     "page": 1011
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "heme-vte.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 2,
+   "stem": "A 50-year-old woman completed 6 months of anticoagulation for a large PE. Eight months after the event she is increasingly breathless on exertion. Echo shows a raised pulmonary artery pressure, and a perfusion scan shows persisting mismatched defects.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Chronic thromboembolic pulmonary hypertension",
+    "Primary (idiopathic) pulmonary arterial hypertension",
+    "Recurrent acute massive PE",
+    "Heart failure with reduced ejection fraction",
+    "Interstitial lung disease"
+   ],
+   "answer": 0,
+   "explanation": "Persistent breathlessness after PE with **residual perfusion defects** and **pulmonary hypertension** is **CTEPH** (up to 5% of PE survivors). Some are cured by pulmonary endarterectomy.",
+   "whyNot": [
+    "",
+    "Idiopathic PAH has no preceding PE and no mismatched perfusion defects.",
+    "Massive PE presents acutely with collapse, not gradual breathlessness over months.",
+    "LV failure would show on echo and does not cause mismatched perfusion defects.",
+    "Interstitial lung disease causes matched defects and crackles, with a restrictive pattern."
+   ],
+   "studyRef": {
+    "sectionId": "heme-vte.s8"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1027,
+     "page": 1010
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 641,
+     "page": 619
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 171,
+     "page": 171
+    }
+   ],
+   "quizScope": "section"
+  },
+  {
+   "id": "heme-vte.q14",
+   "kind": "emq",
+   "pool": "quiz",
+   "difficulty": 2,
+   "theme": "Acute chest pain and breathlessness",
+   "leadIn": "Pick the best match from the list above for each patient. An option can fit several patients, or none.",
+   "options": [
+    "Massive pulmonary embolism",
+    "Small/medium PE with pulmonary infarction",
+    "Chronic thromboembolic pulmonary hypertension",
+    "Spontaneous pneumothorax",
+    "Community-acquired pneumonia",
+    "Acute myocardial infarction",
+    "Pericardial tamponade",
+    "Aortic dissection",
+    "Fat embolism syndrome",
+    "Hyperventilation (panic) syndrome",
+    "Acute asthma",
+    "Musculoskeletal chest pain"
+   ],
+   "items": [
+    {
+     "stem": "A 33-year-old woman 2 weeks after delivery has sharp right chest pain on breathing in, a little blood-streaked sputum and a temperature of 37.7 °C. A pleural rub is heard; the chest film shows a small effusion and a raised right hemidiaphragm.",
+     "answer": 1,
+     "explanation": "Pleuritic pain, **haemoptysis**, low-grade fever, rub and a small effusion after delivery describe a **small/medium PE with infarction**. The puerperium is a classic risk factor; there is no productive cough or consolidation to suggest pneumonia.",
+     "studyRef": {
+      "sectionId": "heme-vte.s3"
+     }
+    },
+    {
+     "stem": "A 69-year-old man collapses 5 days after a knee replacement. BP 76/40 mmHg, JVP raised, he is cyanosed, the chest X-ray is clear, and the ECG shows sinus tachycardia with S1Q3T3.",
+     "answer": 0,
+     "explanation": "Shock, a **raised JVP**, cyanosis and a **clear chest film** after orthopaedic surgery: **massive PE** with acute right heart failure.",
+     "studyRef": {
+      "sectionId": "heme-vte.s3"
+     }
+    },
+    {
+     "stem": "A 21-year-old student before exams complains of breathlessness and tingling around her mouth and fingers. Gas on air: pH 7.51, PaCO2 3.5 kPa, PaO2 14.1 kPa.",
+     "answer": 9,
+     "explanation": "Two steps: respiratory alkalosis fits both PE and hyperventilation, but the **high PaO2** points to **hyperventilation syndrome**.",
+     "studyRef": {
+      "sectionId": "heme-vte.s3"
+     }
+    },
+    {
+     "stem": "A 72-year-old man with poorly controlled hypertension has sudden tearing chest pain going through to his back. His arm blood pressures differ by 30 mmHg and he is hypotensive.",
+     "answer": 7,
+     "explanation": "Tearing pain to the back with **unequal arm pressures** is **aortic dissection**, a key differential of massive PE that a CTPA or bedside echo may reveal.",
+     "studyRef": {
+      "sectionId": "heme-vte.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 641,
+     "page": 619
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1020,
+     "page": 1003
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Respiratory",
+     "pdfPage": 132,
+     "page": 132
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Pulmonary",
+     "pdfPage": 258,
+     "page": 258
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Cardiovascular disease",
+     "pdfPage": 524,
+     "page": 487
+    }
+   ],
+   "quizScope": "topic"
+  },
+  {
+   "id": "heme-vte.q15",
+   "kind": "emq",
+   "pool": "quiz",
+   "difficulty": 3,
+   "theme": "How long to anticoagulate",
+   "leadIn": "Pick the best match from the list above for each patient. An option can fit several patients, or none.",
+   "options": [
+    "2 weeks",
+    "6 weeks",
+    "3 months then stop",
+    "6 months then stop",
+    "Long-term (indefinite), reviewed periodically",
+    "Continue while the cancer remains active (at least 6 months)",
+    "At least 3 months and for as long as the central line stays in",
+    "No anticoagulation; serial ultrasound only"
+   ],
+   "items": [
+    {
+     "stem": "A 40-year-old man has a proximal DVT 2 weeks after a knee operation. He is now fully mobile and has no other risk factors.",
+     "answer": 2,
+     "explanation": "A **provoked** proximal DVT whose trigger has resolved needs about **3 months**; longer treatment does not lower recurrence after stopping.",
+     "studyRef": {
+      "sectionId": "heme-vte.s7"
+     }
+    },
+    {
+     "stem": "A 64-year-old man has his second unprovoked PE in 4 years.",
+     "answer": 4,
+     "explanation": "A **second VTE** (especially unprovoked PE) needs **indefinite** anticoagulation if bleeding risk allows.",
+     "studyRef": {
+      "sectionId": "heme-vte.s7"
+     }
+    },
+    {
+     "stem": "A 57-year-old woman with metastatic pancreatic cancer on chemotherapy has a PE.",
+     "answer": 5,
+     "explanation": "Recurrence risk stays very high while **cancer is active**, so treatment continues as long as it is (at least 6 months), with LMWH or a DOAC.",
+     "studyRef": {
+      "sectionId": "heme-vte.s7"
+     }
+    },
+    {
+     "stem": "A 35-year-old woman receiving parenteral nutrition has an arm DVT around her PICC line, which must stay in for months.",
+     "answer": 6,
+     "explanation": "Line-related upper-limb DVT is treated for **at least 3 months and as long as the line remains**.",
+     "studyRef": {
+      "sectionId": "heme-vte.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 998,
+     "page": 976
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1027,
+     "page": 1010
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 170,
+     "page": 170
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Haematology",
+     "pdfPage": 209,
+     "page": 209
+    }
+   ],
+   "quizScope": "topic"
+  },
+  {
+   "id": "heme-vte.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "difficulty": 2,
+   "stem": "A 48-year-old man with a confirmed PE has been on therapeutic LMWH for 4 days and is stable. He has no bleeding problems but asks for an IVC filter \"for extra protection\".",
+   "leadIn": "What is the best response?",
+   "options": [
+    "Insert a permanent IVC filter alongside anticoagulation",
+    "Insert a retrievable filter alongside anticoagulation",
+    "No filter: adding one to anticoagulation brings no benefit",
+    "Stop anticoagulation and insert a filter instead",
+    "Switch to thrombolysis"
+   ],
+   "answer": 2,
+   "explanation": "IVC filters are only for patients who **cannot be anticoagulated**, who bleed on it, or who have **recurrent PE despite it**. Added to anticoagulation they do not reduce recurrent PE and they bring complications (migration, DVT, IVC obstruction).",
+   "whyNot": [
+    "A permanent filter adds risk without benefit for an anticoagulated patient.",
+    "A retrievable filter is used only when there is an indication; here there is none.",
+    "",
+    "Anticoagulation is the mainstay; a filter is not a substitute when it can be given safely.",
+    "Thrombolysis is for massive PE with shock; he is stable."
+   ],
+   "studyRef": {
+    "sectionId": "heme-vte.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 643,
+     "page": 621
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1025,
+     "page": 1008
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 170,
+     "page": 170
+    }
+   ],
+   "quizScope": "topic"
+  },
+  {
+   "id": "heme-vte.q17",
+   "kind": "emq",
+   "pool": "worked",
+   "difficulty": 2,
+   "theme": "Next step in the VTE diagnostic pathway",
+   "leadIn": "Pick the best match from the list above for each patient. An option can fit several patients, or none.",
+   "options": [
+    "No further VTE testing",
+    "D-dimer",
+    "Proximal leg compression ultrasound",
+    "Repeat proximal ultrasound in about 1 week",
+    "CT pulmonary angiogram",
+    "V/Q scan",
+    "Bedside transthoracic echocardiogram",
+    "Treatment-dose LMWH now while awaiting imaging",
+    "Contrast venography",
+    "Immediate thrombolysis without imaging"
+   ],
+   "items": [
+    {
+     "stem": "A 47-year-old man has a two-level Wells DVT score of 3. His D-dimer is raised and a proximal leg ultrasound today is normal.",
+     "answer": 3,
+     "explanation": "Step 1: Wells 3 means DVT **likely**. Step 2: a proximal scan misses calf clots that may extend upwards. Step 3: with a raised D-dimer, the guideline answer is to **repeat the proximal ultrasound after about a week** (Davidson 7 days; Kumar 5–7 days).",
+     "studyRef": {
+      "sectionId": "heme-vte.s4"
+     }
+    },
+    {
+     "stem": "A 59-year-old woman has a Wells PE score of 6. The first CTPA slot is in 3 hours and she has no bleeding risk.",
+     "answer": 7,
+     "explanation": "Step 1: Wells > 4 means PE **likely**, so she needs CTPA. Step 2: imaging will take **more than 1 hour**. Step 3: give a **treatment dose of anticoagulant now** rather than leave a possible PE untreated.",
+     "studyRef": {
+      "sectionId": "heme-vte.s4"
+     }
+    },
+    {
+     "stem": "A 76-year-old man collapses on the ward with suspected PE: BP 74/40 mmHg, SpO2 84%. He is too unstable to go to the CT scanner.",
+     "answer": 6,
+     "explanation": "Step 1: shock means **high-risk PE**. Step 2: CTPA is not possible. Step 3: **bedside echo** showing an acutely dilated, failing RV (or clot in transit) is enough to justify PE-specific treatment, and it also checks for tamponade or dissection.",
+     "studyRef": {
+      "sectionId": "heme-vte.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Acute medicine",
+     "pdfPage": 209,
+     "page": 187
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1022,
+     "page": 1005
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1024,
+     "page": 1007
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Cardiovascular disease",
+     "pdfPage": 513,
+     "page": 476
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.q18",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 62-year-old man has sudden breathlessness 2 weeks after a laparotomy. Pulse 112/min, BP 128/80 mmHg. His right calf is swollen and tender along the deep veins, and you think PE is more likely than anything else. He has never had VTE and has no haemoptysis or cancer.",
+   "leadIn": "What is the most appropriate next investigation?",
+   "options": [
+    "D-dimer",
+    "CT pulmonary angiogram",
+    "V/Q scan before any other test",
+    "Chest X-ray only, then discharge if normal",
+    "Bedside echocardiogram"
+   ],
+   "answer": 1,
+   "explanation": "Work through the two-level Wells PE score: DVT signs **3** + PE most likely **3** + HR > 100 **1.5** + surgery within 4 weeks **1.5** = **9**, well above 4, so **PE likely**. Likely patients go **straight to CTPA**; a D-dimer would be pointless (high risk, and post-operative patients have raised D-dimers anyway). He is not shocked, so echo is not the diagnostic route.",
+   "whyNot": [
+    "D-dimer is only for \"PE unlikely\" patients and is raised after surgery anyway.",
+    "",
+    "V/Q is the alternative when CTPA is contraindicated (renal impairment, contrast allergy); neither applies.",
+    "A chest X-ray is often normal in PE and cannot exclude it.",
+    "Echo is the diagnostic route only in a shocked patient who cannot get CTPA."
+   ],
+   "studyRef": {
+    "sectionId": "heme-vte.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1021,
+     "page": 1004
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1023,
+     "page": 1006
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Pulmonary",
+     "pdfPage": 264,
+     "page": 264
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 642,
+     "page": 620
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.q19",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Prothrombotic states",
+   "leadIn": "Pick the best match from the list above for each patient. An option can fit several patients, or none.",
+   "options": [
+    "Factor V Leiden",
+    "Prothrombin G20210A",
+    "Antithrombin deficiency",
+    "Protein C deficiency",
+    "Protein S deficiency",
+    "Antiphospholipid syndrome",
+    "Paroxysmal nocturnal haemoglobinuria",
+    "Polycythaemia vera",
+    "Essential thrombocythaemia",
+    "Nephrotic syndrome",
+    "Heparin-induced thrombocytopenia",
+    "Occult malignancy"
+   ],
+   "items": [
+    {
+     "stem": "A 26-year-old man with a femoral DVT is started on IV unfractionated heparin, but his APTT barely changes despite repeated dose increases. His mother and uncle both had VTE before 35.",
+     "answer": 2,
+     "explanation": "Heparin works through antithrombin, so an inherited **antithrombin deficiency** (autosomal dominant, the most severe thrombophilia) causes **heparin resistance**.",
+     "studyRef": {
+      "sectionId": "heme-vte.s6"
+     }
+    },
+    {
+     "stem": "A 33-year-old woman with three miscarriages before 10 weeks now has a DVT. A clotting screen done before an earlier procedure showed an unexplained prolonged APTT.",
+     "answer": 5,
+     "explanation": "Recurrent early pregnancy loss plus thrombosis plus a **prolonged APTT** (lupus anticoagulant) suggests **antiphospholipid syndrome**: a thrombotic, not bleeding, tendency.",
+     "studyRef": {
+      "sectionId": "heme-vte.s6"
+     }
+    },
+    {
+     "stem": "A 40-year-old man has hepatic vein thrombosis (Budd–Chiari syndrome). He has noticed dark urine in the mornings and has a pancytopenia. Flow cytometry shows loss of CD55 and CD59 from his red cells.",
+     "answer": 6,
+     "explanation": "Unusual-site (splanchnic) thrombosis with haemolysis and loss of **GPI-anchored CD55/CD59** is **PNH**.",
+     "studyRef": {
+      "sectionId": "heme-vte.s6"
+     }
+    },
+    {
+     "stem": "A 62-year-old man with an unprovoked PE has a haemoglobin of 198 g/L, a high haematocrit, itching after hot baths and a JAK2 V617F mutation.",
+     "answer": 7,
+     "explanation": "JAK2 V617F occurs in several myeloproliferative neoplasms; the **raised haemoglobin/haematocrit** and aquagenic itch point to **polycythaemia vera** rather than essential thrombocythaemia.",
+     "studyRef": {
+      "sectionId": "heme-vte.s6"
+     }
+    },
+    {
+     "stem": "A 30-year-old woman is started on warfarin for a DVT without heparin cover. Three days later painful purple patches appear on her thighs and become necrotic. A thrombophilia screen sent before any anticoagulant shows a low protein C activity, with normal protein S and antithrombin.",
+     "answer": 3,
+     "explanation": "**Warfarin skin necrosis** occurs soon after starting warfarin in people with a deficiency of the vitamin K-dependent anticoagulant **protein C** (KC also lists protein S). The pre-treatment screen pins it on protein C.",
+     "studyRef": {
+      "sectionId": "heme-vte.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 999,
+     "page": 977
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1029,
+     "page": 1012
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Hematology",
+     "pdfPage": 346,
+     "page": 346
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Haematological disease",
+     "pdfPage": 257,
+     "page": 220
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 947,
+     "page": 925
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Therapeutics",
+     "pdfPage": 286,
+     "page": 249
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.q20",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Clinical scores and prediction tools in VTE",
+   "leadIn": "Pick the best match from the list above for each patient. An option can fit several patients, or none.",
+   "options": [
+    "Wells score for DVT",
+    "Two-level Wells score for PE",
+    "Revised Geneva score",
+    "PERC rule",
+    "Simplified PESI (sPESI)",
+    "DASH score",
+    "UK Department of Health VTE risk assessment tool",
+    "CURB-65 score"
+   ],
+   "items": [
+    {
+     "stem": "A 66-year-old woman with a confirmed PE is stable. You want to decide whether she can be treated as an outpatient, using age > 80, cancer, chronic cardiopulmonary disease, pulse ≥ 110, systolic BP < 100 and SaO2 < 90%.",
+     "answer": 4,
+     "explanation": "These six items are the **simplified PESI**; a score of 0 (1% 30-day mortality) identifies outpatient candidates.",
+     "studyRef": {
+      "sectionId": "heme-vte.s4"
+     }
+    },
+    {
+     "stem": "A clinician estimating pre-test probability of PE scores age > 65, unilateral leg pain, haemoptysis, recent surgery or fracture, and two different heart-rate bands (75–94 and ≥ 95/min).",
+     "answer": 2,
+     "explanation": "Heart-rate bands, age > 65 and unilateral leg pain are features of the **revised Geneva score**.",
+     "studyRef": {
+      "sectionId": "heme-vte.s4"
+     }
+    },
+    {
+     "stem": "On admission, every adult is checked for reduced mobility, hip fracture, active cancer and critical care admission, and for active bleeding, thrombocytopenia and planned lumbar puncture.",
+     "answer": 6,
+     "explanation": "Assessing **both VTE and bleeding risk** in every admitted adult is the purpose of the **Department of Health tool**.",
+     "studyRef": {
+      "sectionId": "heme-vte.s2"
+     }
+    },
+    {
+     "stem": "After 6 months of treatment for an unprovoked DVT, a 49-year-old man's recurrence risk is estimated using his sex and a D-dimer measured a month after stopping anticoagulation.",
+     "answer": 5,
+     "explanation": "Male sex and a positive D-dimer after stopping are the strongest recurrence predictors and form part of the **DASH score**.",
+     "studyRef": {
+      "sectionId": "heme-vte.s8"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1025,
+     "page": 1008
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Cardiovascular disease",
+     "pdfPage": 511,
+     "page": 474
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1030,
+     "page": 1013
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 998,
+     "page": 976
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 167,
+     "page": 167
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1024,
+     "page": 1007
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.q21",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 28-year-old woman has been taking rivaroxaban for 2 months for a DVT. A pregnancy test is now positive; she is about 5 weeks pregnant.",
+   "leadIn": "What is the most appropriate anticoagulation?",
+   "options": [
+    "Continue rivaroxaban",
+    "Switch to warfarin",
+    "Switch to treatment-dose LMWH",
+    "Stop anticoagulation for the pregnancy",
+    "Switch to apixaban"
+   ],
+   "answer": 2,
+   "explanation": "DOACs and warfarin **cross the placenta**; **LMWH** does not and is the treatment of choice in pregnancy. Warfarin embryopathy occurs between weeks 6 and 12, so switching early matters.",
+   "whyNot": [
+    "Rivaroxaban crosses the placenta and its fetal effects are uncertain.",
+    "Warfarin is teratogenic (nasal hypoplasia, stippled epiphyses) from week 6.",
+    "",
+    "Pregnancy raises VTE risk; she still needs treatment for a recent DVT.",
+    "Apixaban is also a DOAC and is avoided in pregnancy."
+   ],
+   "studyRef": {
+    "sectionId": "heme-vte.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1024,
+     "page": 1007
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1025,
+     "page": 1008
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 642,
+     "page": 620
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.q22",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A 45-year-old woman with a CTPA-confirmed PE had an ECG on arrival. She is haemodynamically stable.",
+   "leadIn": "Which ECG finding is most often seen in PE?",
+   "options": [
+    "Sinus tachycardia",
+    "S1Q3T3 pattern",
+    "Complete right bundle branch block",
+    "Right axis deviation",
+    "P pulmonale"
+   ],
+   "answer": 0,
+   "explanation": "**Sinus tachycardia** is the commonest ECG finding in PE. S1Q3T3, RBBB, right axis deviation and P pulmonale are signs of **right heart strain**, seen mainly with large emboli.",
+   "whyNot": [
+    "",
+    "S1Q3T3 is the classic textbook pattern but occurs in only a minority.",
+    "RBBB reflects right heart strain with larger emboli.",
+    "Right axis deviation is a strain sign, not the commonest finding.",
+    "P pulmonale is a less common strain sign."
+   ],
+   "studyRef": {
+    "sectionId": "heme-vte.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 642,
+     "page": 620
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1020,
+     "page": 1003
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 166,
+     "page": 166
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 66-year-old man with a confirmed DVT is to start oral anticoagulation. His team chooses a drug whose licence requires at least 5 days of parenteral anticoagulation before the first oral dose, followed by a direct switch.",
+   "leadIn": "Which drug have they chosen?",
+   "options": [
+    "Apixaban",
+    "Rivaroxaban",
+    "Dabigatran",
+    "Warfarin",
+    "Fondaparinux"
+   ],
+   "answer": 2,
+   "explanation": "**Dabigatran** (like edoxaban) is given after at least 5 days of LMWH, with a straight switch on day 6 and no overlap. Apixaban and rivaroxaban are started alone at a higher loading dose.",
+   "whyNot": [
+    "Apixaban is started alone, with a 7-day loading phase.",
+    "Rivaroxaban is started alone, with a 21-day loading phase.",
+    "",
+    "Warfarin overlaps with LMWH (it does not follow it) until the INR is therapeutic.",
+    "Fondaparinux is itself a parenteral anticoagulant, not an oral drug."
+   ],
+   "studyRef": {
+    "sectionId": "heme-vte.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1024,
+     "page": 1007
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 997,
+     "page": 975
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 169,
+     "page": 169
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.q24",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 71-year-old woman has a massive PE. BP is 82/48 mmHg, the JVP is raised and she is being prepared for thrombolysis. A junior doctor suggests several treatments while waiting.",
+   "leadIn": "Which of these should be avoided?",
+   "options": [
+    "Oxygen to keep saturation above 90%",
+    "A cautious IV fluid bolus",
+    "IV furosemide for the raised JVP",
+    "Small, careful doses of IV opiate",
+    "IV unfractionated heparin"
+   ],
+   "answer": 2,
+   "explanation": "In massive PE the raised JVP reflects RV failure behind an obstructed pulmonary circulation. **Diuretics and vasodilators lower cardiac output** further and should be avoided.",
+   "whyNot": [
+    "Oxygen to keep saturation above 90% is recommended.",
+    "IV fluids are the right way to support blood pressure in PE shock.",
+    "",
+    "Opiates are allowed for pain and distress, used with caution.",
+    "UFH is the preferred heparin when thrombolysis is planned."
+   ],
+   "studyRef": {
+    "sectionId": "heme-vte.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 642,
+     "page": 620
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 168,
+     "page": 168
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.q25",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 3,
+   "theme": "Findings on investigations in suspected PE",
+   "leadIn": "Pick the finding from the list above that best fits each scenario. An option can fit several scenarios, or none.",
+   "options": [
+    "S1Q3T3 pattern",
+    "Sinus tachycardia alone",
+    "Westermark sign",
+    "Hampton hump",
+    "Matched ventilation and perfusion defects",
+    "Perfusion defect with normal ventilation",
+    "Non-compressible popliteal vein",
+    "Saddle embolus at the pulmonary artery bifurcation",
+    "Acute RV dilatation with clot in transit",
+    "Raised A–a gradient with respiratory alkalosis"
+   ],
+   "items": [
+    {
+     "stem": "A 52-year-old man has a radionuclide lung scan for suspected PE. His chest X-ray is clear and he has no lung disease. Which scan pattern confirms PE?",
+     "answer": 5,
+     "explanation": "PE blocks blood flow while air entry stays normal: a **mismatched perfusion defect**. Matched defects suggest lung disease, which is why V/Q is often non-diagnostic in COPD.",
+     "studyRef": {
+      "sectionId": "heme-vte.s5"
+     }
+    },
+    {
+     "stem": "A woman whose pleuritic chest pain began 3 days ago has a chest film showing a peripheral triangular opacity whose base rests on the pleura.",
+     "answer": 3,
+     "explanation": "A pleural-based wedge-shaped opacity from infarction is the **Hampton hump**.",
+     "studyRef": {
+      "sectionId": "heme-vte.s5"
+     }
+    },
+    {
+     "stem": "A post-operative patient collapses with BP 70/40 mmHg. A bedside scan is done because she is too unstable to move. What finding supports giving thrombolysis?",
+     "answer": 8,
+     "explanation": "In massive PE, bedside echo shows **acute RV dilatation** and sometimes **thrombus in transit**, and it can exclude tamponade and dissection.",
+     "studyRef": {
+      "sectionId": "heme-vte.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1022,
+     "page": 1005
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 166,
+     "page": 166
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 642,
+     "page": 620
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Cardiovascular disease",
+     "pdfPage": 513,
+     "page": 476
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.q26",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 55-year-old woman has an unprovoked PE. History, examination, FBC, calcium, liver tests, chest X-ray and urinalysis are all normal.",
+   "leadIn": "According to NICE (as summarised in the textbooks), which further test should be considered to look for an occult cancer?",
+   "options": [
+    "CT abdomen and pelvis plus a mammogram",
+    "Whole-body PET-CT",
+    "Colonoscopy",
+    "Panel of tumour markers (CEA, CA-125, CA19-9)",
+    "Bone marrow biopsy"
+   ],
+   "answer": 0,
+   "explanation": "For unprovoked VTE in people **over 40**, NICE suggests considering a **CT of the abdomen and pelvis**, plus a **mammogram in women**. Up to 5% of these patients are diagnosed with cancer within a year, although screening has not been shown to improve survival.",
+   "whyNot": [
+    "",
+    "PET-CT is not part of the recommended screen.",
+    "Colonoscopy is driven by GI symptoms, not by VTE alone.",
+    "A tumour marker panel is not recommended for this purpose.",
+    "Marrow biopsy is not indicated with a normal blood count."
+   ],
+   "studyRef": {
+    "sectionId": "heme-vte.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1028,
+     "page": 1011
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Haematology",
+     "pdfPage": 210,
+     "page": 210
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1027,
+     "page": 1010
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.q27",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 63-year-old man with a proximal DVT started enoxaparin and warfarin together. On day 4 his INR is 2.3.",
+   "leadIn": "When should the enoxaparin be stopped?",
+   "options": [
+    "Now, because the INR is above 2",
+    "After at least 5 days of LMWH, once the INR is above 2",
+    "After 10 days, whatever the INR",
+    "Only when the INR exceeds 3",
+    "Not until 3 months of treatment are complete"
+   ],
+   "answer": 1,
+   "explanation": "LMWH is given for **at least 5 days** and continued until the INR is **above 2** (Davidson; Kumar asks for ≥ 2.0 on 2 consecutive days). Warfarin needs at least 5 days to anticoagulate fully, so an early INR rise is not enough on its own.",
+   "whyNot": [
+    "Day 4 is too early: at least 5 days of LMWH are required.",
+    "",
+    "There is no fixed 10-day rule; the INR and 5-day minimum decide.",
+    "The target range is 2–3 (target 2.5); waiting for an INR above 3 is unnecessary.",
+    "LMWH is a bridge, not a 3-month co-treatment with warfarin (except in pregnancy/cancer regimens where LMWH is used alone)."
+   ],
+   "studyRef": {
+    "sectionId": "heme-vte.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 997,
+     "page": 975
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1023,
+     "page": 1006
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Haematology",
+     "pdfPage": 209,
+     "page": 209
+    }
+   ]
+  },
+  {
+   "id": "heme-vte.q28",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 1,
+   "stem": "You are counselling patients on how strongly different factors raise the risk of venous thromboembolism.",
+   "leadIn": "Which of these is a \"strong\" risk factor, increasing risk 10–50-fold?",
+   "options": [
+    "Major surgery",
+    "Combined oral contraceptive pill",
+    "Pregnancy",
+    "Long-haul air travel",
+    "Obesity"
+   ],
+   "answer": 0,
+   "explanation": "**Major surgery**, major trauma and absolute bed rest raise VTE risk **10–50-fold**. Pregnancy and oestrogens are moderate (3–10-fold); obesity and long-haul travel are weak (up to 3-fold).",
+   "whyNot": [
+    "",
+    "Oestrogens are a moderate (3–10-fold) risk factor.",
+    "Pregnancy is a moderate (3–10-fold) risk factor.",
+    "Long-haul travel is a weak (up to 3-fold) risk factor.",
+    "Obesity is a weak (up to 3-fold) risk factor."
+   ],
+   "studyRef": {
+    "sectionId": "heme-vte.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Venous thromboembolic disease",
+     "pdfPage": 1019,
+     "page": 1002
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "heme-vte.o1",
+   "sectionId": "heme-vte.s5",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Venous thromboembolic disease",
+    "pdfPage": 1020,
+    "page": 1003,
+    "figure": "Fig. 29.1"
+   },
+   "identify": "ECG in acute PE: **S1Q3T3** (deep S in lead I, Q wave and inverted T in lead III), sinus tachycardia and incomplete RBBB, indicating right heart strain"
+  },
+  {
+   "id": "heme-vte.o2",
+   "sectionId": "heme-vte.s5",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Respiratory medicine",
+    "pdfPage": 642,
+    "page": 620,
+    "figure": "Fig. 17.68"
+   },
+   "identify": "CT pulmonary angiogram: a **saddle embolus** straddling the bifurcation of the main pulmonary artery"
+  },
+  {
+   "id": "heme-vte.o3",
+   "sectionId": "heme-vte.s5",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Venous thromboembolic disease",
+    "pdfPage": 1026,
+    "page": 1009,
+    "figure": "Fig. 29.5"
+   },
+   "identify": "CTPA at the level of the main pulmonary arteries: a large **filling defect (thrombus) in the left pulmonary artery**"
+  },
+  {
+   "id": "heme-vte.o4",
+   "sectionId": "heme-vte.s5",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Venous thromboembolic disease",
+    "pdfPage": 1026,
+    "page": 1009,
+    "figure": "Fig. 29.6"
+   },
+   "identify": "V/Q scan: **absent perfusion with preserved ventilation** in the right upper lobe (mismatch), i.e. probable PE"
+  },
+  {
+   "id": "heme-vte.o5",
+   "sectionId": "heme-vte.s5",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Respiratory medicine",
+    "pdfPage": 641,
+    "page": 619,
+    "figure": "Fig. 17.66"
+   },
+   "identify": "CXR features of PE/infarction: **wedge-shaped pleural-based opacity**, raised hemidiaphragm, linear atelectasis, effusion, oligaemia, enlarged pulmonary artery"
+  },
+  {
+   "id": "heme-vte.o6",
+   "sectionId": "heme-vte.s8",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Venous thromboembolic disease",
+    "pdfPage": 1028,
+    "page": 1011,
+    "figure": "Fig. 29.8"
+   },
+   "identify": "Venous ulcer near the ankle with venous-type staining: severe **post-thrombotic syndrome**"
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:35:19.652Z",
+  "contentHash": "f832a0960a25aac2568a692f6e620886f765338e9f3e3d1871fe8f229538cc01"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:35:19.665Z",
+  "contentHash": "f832a0960a25aac2568a692f6e620886f765338e9f3e3d1871fe8f229538cc01",
+  "checkerVersion": "source-check-v1"
+ }
+}

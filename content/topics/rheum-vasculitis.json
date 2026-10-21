@@ -1,0 +1,3791 @@
+{
+ "topicId": "rheum-vasculitis",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "rheum-vasculitis.s1",
+   "title": "Overview: what vasculitis is and how it is classified",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Vasculitis means **inflammation (often with necrosis) of the blood-vessel wall**. Symptoms come from two things at once: **ischaemia** of the tissue supplied by the narrowed vessel, and the **systemic effects of inflammation** (fever, weight loss, fatigue). Severity ranges from a self-limiting skin rash to fulminant multi-organ failure. It may be **primary** or **secondary** to infection, drugs, connective tissue disease or malignancy.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1062,
+       "page": 1040
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 554,
+       "page": 554
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 488,
+       "page": 464,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Classification of primary systemic vasculitis by vessel size",
+     "columns": [
+      "Vessel size",
+      "Conditions",
+      "Discriminating clue"
+     ],
+     "rows": [
+      [
+       "Large (aorta and its main branches)",
+       "Giant cell arteritis (with PMR); Takayasu arteritis",
+       "GCA: older adult (>50, usually ~70). Takayasu: young woman (<50), absent pulses"
+      ],
+      [
+       "Medium (main visceral arteries, e.g. renal, mesenteric, coronary)",
+       "Polyarteritis nodosa (PAN); Kawasaki disease",
+       "PAN: hepatitis B, aneurysms, no GN. Kawasaki: child <5, coronary aneurysms"
+      ],
+      [
+       "Small, ANCA-associated",
+       "Microscopic polyangiitis (MPA); granulomatosis with polyangiitis (GPA); eosinophilic GPA (EGPA)",
+       "Necrotising GN, lung disease, ANCA positive"
+      ],
+      [
+       "Small, immune-complex (ANCA-negative)",
+       "IgA vasculitis (Henoch–Schönlein); cryoglobulinaemic vasculitis; cutaneous leucocytoclastic vasculitis",
+       "Palpable purpura; IgA deposits, HCV or a drug trigger"
+      ],
+      [
+       "Variable vessel",
+       "Behçet's disease",
+       "Oral and genital ulcers, uveitis, thrombosis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Rheumatology",
+       "pdfPage": 488,
+       "page": 464
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Rheumatology",
+       "pdfPage": 347,
+       "page": 310,
+       "table": "Table 7.11"
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Rheumatology",
+       "pdfPage": 645,
+       "page": 645
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1062,
+       "page": 1040
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 490,
+       "page": 466,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1066,
+       "page": 1044,
+       "chapter": "Rheumatology and bone disease"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Clinical clues that suggest systemic vasculitis",
+     "items": [
+      "**Constitutional:** malaise, fever, night sweats, weight loss, arthralgia/myalgia",
+      "**Skin:** non-blanching palpable purpura, pulp infarcts, ulcers, livedo reticularis",
+      "**ENT:** epistaxis, recurrent sinusitis, deafness",
+      "**Lungs:** haemoptysis, cough, asthma that is hard to control",
+      "**Gut:** abdominal pain from mucosal inflammation or bowel ischaemia, GI bleeding",
+      "**Nerves:** sensory or motor neuropathy, mononeuritis multiplex",
+      "**Kidney/eye:** abnormal urinalysis, hypertension, renal impairment; scleritis or uveitis"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1063,
+       "page": 1041
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Rheumatology",
+       "pdfPage": 239,
+       "page": 239
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Causes of secondary vasculitis",
+     "items": [
+      "Infection, e.g. subacute infective endocarditis, hepatitis B or C",
+      "Connective tissue disease: RA, SLE, systemic sclerosis, polymyositis/dermatomyositis",
+      "Drugs, serum sickness",
+      "Behçet's, Goodpasture's disease, inflammatory bowel disease",
+      "Malignancy (paraneoplastic vasculitis)"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Rheumatology",
+       "pdfPage": 488,
+       "page": 464
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 554,
+       "page": 554
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 490,
+       "page": 466,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Think of vasculitis whenever **fever, weight loss and fatigue** come with **multisystem involvement**, a rash, high inflammatory markers and an **active urine sediment**, or with unexplained ischaemia in one or more organs.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1062,
+       "page": 1040
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Rheumatology",
+       "pdfPage": 645,
+       "page": 645
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Vessel-size groups overlap. EGPA, for example, can affect medium as well as small vessels. Use the classification as a framework and let the **organ pattern, age, ANCA and biopsy** decide the diagnosis.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 554,
+       "page": 554
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Rheumatology",
+       "pdfPage": 239,
+       "page": 239
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Rheumatology and bone disease",
+      "pdfPage": 1062,
+      "page": 1040,
+      "figure": "Fig. 24.51"
+     },
+     "note": "Map of the main vasculitides placed by target vessel, from the aorta (GCA, Takayasu) down to capillaries and venules (MPA, GPA, EGPA, HSP, cryoglobulinaemia)."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Rheumatology",
+      "pdfPage": 489,
+      "page": 465,
+      "figure": "Fig. 18.39"
+     },
+     "note": "Organ-by-organ features of each vasculitis (e.g. jaw claudication in GCA, a weak arm pulse in Takayasu, late-onset asthma in EGPA)."
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.s2",
+   "title": "Large-vessel vasculitis: GCA, PMR and Takayasu arteritis",
+   "objectiveIdx": [
+    0,
+    1,
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Giant cell arteritis (GCA)** is a **granulomatous arteritis** of large and medium arteries, including the aorta, with a predilection for the extracranial branches of the carotid (the temporal artery). It is closely linked with **polymyalgia rheumatica (PMR)**, and the two are often seen as one disease spectrum. Both are rare before 60, the **average onset is about 70**, and women are affected about **3 times** as often as men.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1064,
+       "page": 1042
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 556,
+       "page": 556
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "GCA: clinical features",
+     "items": [
+      "New **temporal or occipital headache** with **scalp tenderness** (combing hair hurts)",
+      "**Jaw claudication**: pain on chewing or talking",
+      "Visual symptoms (amaurosis), and **sudden monocular blindness** from **posterior ciliary artery** occlusion. The disc may look normal for the first 24–36 h",
+      "Rarely TIA, brainstem stroke or hemiparesis; constitutional upset is common",
+      "Long term: higher risk of **aortic aneurysm and dissection**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1064,
+       "page": 1042
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Rheumatology",
+       "pdfPage": 348,
+       "page": 311
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 643,
+       "page": 643,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 556,
+       "page": 556,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**PMR** affects people **over 50**. It causes an abrupt onset of **symmetrical pain and stiffness of the neck, shoulder and hip girdles**, worst in the morning. Active shoulder movement is painfully restricted, but there is **no true weakness, wasting or muscle tenderness**. Up to a quarter have some peripheral synovitis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1064,
+       "page": 1042
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Rheumatology",
+       "pdfPage": 488,
+       "page": 464
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Rheumatology",
+       "pdfPage": 347,
+       "page": 310
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Proximal muscle symptoms: telling them apart",
+     "columns": [
+      "Condition",
+      "Pain/stiffness",
+      "Weakness"
+     ],
+     "rows": [
+      [
+       "Polymyalgia rheumatica",
+       "Morning stiffness and pain of the girdles",
+       "No"
+      ],
+      [
+       "Polymyositis",
+       "Proximal aching",
+       "Yes, proximal"
+      ],
+      [
+       "Myopathy (e.g. endocrine, drug)",
+       "Usually no pain or stiffness",
+       "Yes"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Rheumatology",
+       "pdfPage": 489,
+       "page": 465
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "PMR mimics to exclude",
+     "items": [
+      "Myeloma",
+      "Hyper- or hypothyroidism",
+      "Calcium pyrophosphate disease, spondyloarthritis",
+      "Inflammatory myopathy, Lambert–Eaton syndrome",
+      "Systemic vasculitis; cervical/shoulder degenerative disease"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1064,
+       "page": 1042
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Takayasu arteritis** (\"pulseless disease\") is a granulomatous arteritis of the **aorta and its major branches** (the subclavian and innominate arteries are almost always involved), occasionally the pulmonary arteries. Typical onset is **25–30 years**, with a **female:male ratio of 8:1**, and it is commonest in **Asia**. It causes **limb claudication**, fever, weight loss, **absent pulses, unequal arm blood pressures, bruits**, renovascular hypertension and aortic regurgitation.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1063,
+       "page": 1041
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 555,
+       "page": 555
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Rheumatology",
+       "pdfPage": 646,
+       "page": 646
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Age sorts the classic vasculitides: **GCA over 50**, **Takayasu under 50** (usually a young woman) and **Kawasaki under 5**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Rheumatology",
+       "pdfPage": 489,
+       "page": 465
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Rheumatology",
+       "pdfPage": 646,
+       "page": 646
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Davidson says GCA and PMR are **rare under 60** (mean onset 70), while quick sources and classification criteria use **age over 50** as the cut-off. Both agree that GCA under 50 is exceptional. If a young adult has a large-vessel vasculitis, think of Takayasu instead.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1064,
+       "page": 1042
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 556,
+       "page": 556
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Rheumatology",
+       "pdfPage": 489,
+       "page": 465
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.s3",
+   "title": "Medium-vessel vasculitis: polyarteritis nodosa and Kawasaki disease",
+   "objectiveIdx": [
+    0,
+    1,
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Polyarteritis nodosa (PAN)** is a **necrotising, non-granulomatous** arteritis of medium (and small) muscular arteries. It peaks at **40–50 years** with a **male:female ratio of 2:1**. **Hepatitis B** is the key risk factor. Classical PAN is **not ANCA-associated**, and it **spares capillaries and glomeruli**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1064,
+       "page": 1042
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 557,
+       "page": 557
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "PAN: clinical features",
+     "items": [
+      "Fever, myalgia, arthralgia, weight loss",
+      "**Neuropathy** in ~70% (arteritis of the vasa nervorum), often **mononeuritis multiplex**",
+      "**Abdominal pain** from visceral infarcts (can mimic cholecystitis or pancreatitis), GI bleeding",
+      "**Hypertension and renal impairment** from renal infarcts and aneurysms",
+      "Coronary arteritis causing MI or heart failure",
+      "Skin: **livedo reticularis**, palpable purpura, ulcers, infarcts"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1064,
+       "page": 1042
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Rheumatology",
+       "pdfPage": 490,
+       "page": 466
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Rheumatology",
+       "pdfPage": 348,
+       "page": 311
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**PAN does not cause glomerulonephritis** and does **not involve the lungs**. Haemoptysis or red-cell casts point instead to an ANCA-associated small-vessel vasculitis (GPA/MPA).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology and urology",
+       "pdfPage": 432,
+       "page": 410
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1064,
+       "page": 1042
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Rheumatology",
+       "pdfPage": 647,
+       "page": 647
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Kawasaki disease** is a medium-vessel vasculitis of **children under 5**, commonest in **Japan** and East Asia. It looks like a viral exanthem: persistent **fever**, bilateral **conjunctival injection**, red cracked lips and **strawberry tongue**, cervical lymphadenopathy, a generalised rash with **red, then peeling, palms and soles**. The main danger is **coronary arteritis with aneurysms**, leading to MI. Myocarditis, pericarditis and peripheral gangrene can also occur.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1063,
+       "page": 1041
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1064,
+       "page": 1042
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Rheumatology",
+       "pdfPage": 490,
+       "page": 466
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Rheumatology",
+       "pdfPage": 241,
+       "page": 241
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The books give different Kawasaki regimens. **Davidson (preferred):** aspirin 5 mg/kg daily for 14 days plus IVIg 400 mg/kg daily for 4 days. **Kumar:** a single IVIg dose of 2 g/kg, then aspirin after the acute phase. Both agree that the key point is **IVIg plus aspirin to prevent coronary disease**. Kumar adds that steroids have not been shown to help.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1064,
+       "page": 1042
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Rheumatology",
+       "pdfPage": 490,
+       "page": 466
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.s4",
+   "title": "ANCA-associated vasculitis: GPA, MPA and EGPA",
+   "objectiveIdx": [
+    0,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "ANCA-associated vasculitis (AAV) is a life-threatening **small-vessel vasculitis** with **fibrinoid necrosis** and circulating **antineutrophil cytoplasmic antibodies**. Renal lesions are **pauci-immune** (few immune deposits). The combined incidence is about 10–15 per million.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1063,
+       "page": 1041
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 559,
+       "page": 559
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "The three ANCA-associated vasculitides",
+     "columns": [
+      "Feature",
+      "GPA (formerly Wegener’s)",
+      "MPA",
+      "EGPA (Churg–Strauss)"
+     ],
+     "rows": [
+      [
+       "Histology",
+       "Necrotising **granulomas**",
+       "Necrotising vasculitis **without granulomas**",
+       "Eosinophil-rich infiltrate, granulomas"
+      ],
+      [
+       "Hallmark organs",
+       "Upper airway (epistaxis, crusting, sinusitis, saddle nose, deafness), lungs (nodules ± cavities), kidney",
+       "Kidney (rapidly progressive GN) ± alveolar haemorrhage; **no ENT disease**",
+       "Late-onset asthma, rhinitis/polyps, eosinophilia, mononeuritis multiplex, skin, heart"
+      ],
+      [
+       "Usual ANCA",
+       "**PR3 (c-ANCA)**",
+       "**MPO (p-ANCA)**",
+       "Positive in only up to ~60% (MPO more often than PR3)"
+      ],
+      [
+       "Kidney",
+       "GN common, but few present with it",
+       "GN in most (80–100%)",
+       "Uncommon"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1063,
+       "page": 1041
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1065,
+       "page": 1043
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 559,
+       "page": 559
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 560,
+       "page": 560
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 561,
+       "page": 561
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Rheumatology",
+       "pdfPage": 349,
+       "page": 312
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "GPA: features worth remembering",
+     "items": [
+      "Commonest presentation: **epistaxis, nasal crusting and sinusitis**. Untreated, it destroys nasal bone and cartilage (**saddle-nose**)",
+      "Inner-ear involvement causes deafness; subglottic stenosis can occur",
+      "Retro-orbital inflammation causes **proptosis**, diplopia (muscle entrapment) or visual loss (optic nerve compression)",
+      "Lung nodules or infiltrates in about half. Haemoptysis may be mistaken for pneumonia"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1063,
+       "page": 1041
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 559,
+       "page": 559
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Rheumatology",
+       "pdfPage": 240,
+       "page": 240
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 241,
+       "page": 241,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In GPA with orbital disease, **loss of colour vision** is an early warning of optic nerve compression.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1063,
+       "page": 1041
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**EGPA** often has a long prodrome of **allergic rhinitis, nasal polyps and adult-onset asthma** that is hard to control. The acute phase brings the triad of **skin lesions (purpura/nodules), asymmetric mononeuritis multiplex and eosinophilia**. Pulmonary infiltrates, serositis and mesenteric vasculitis (up to half) also occur. Cardiac involvement (myocarditis, coronary arteritis) is commoner than in GPA.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1065,
+       "page": 1043
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 561,
+       "page": 561
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Drug-induced ANCA vasculitis",
+     "items": [
+      "Triggers: **propylthiouracil, hydralazine**, minocycline, penicillamine, and levamisole-contaminated cocaine",
+      "Usually **very high-titre MPO-ANCA**",
+      "Causes constitutional symptoms, arthralgia and skin vasculitis, sometimes crescentic GN or lung haemorrhage"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1377,
+       "page": 1364
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 558,
+       "page": 558
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Rheumatology and bone disease",
+      "pdfPage": 1063,
+      "page": 1041,
+      "figure": "Fig. 24.52"
+     },
+     "note": "Eye involvement in AAV: proptosis from retro-orbital granulomatous inflammation."
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.s5",
+   "title": "Immune-complex and variable-vessel vasculitis: IgA vasculitis, cryoglobulinaemia, cutaneous vasculitis, Behçet's",
+   "objectiveIdx": [
+    0,
+    1,
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**IgA vasculitis (Henoch–Schönlein purpura)** is an immune-complex small-vessel vasculitis that usually follows an infection (often an upper respiratory infection). It mostly affects **children and young adults**. It causes **palpable purpura over the buttocks and extensor lower legs**, colicky **abdominal pain** (GI bleeding, intussusception), and non-deforming arthralgia of the large leg joints. **Nephritis** may appear **up to 4 weeks later**. Biopsy shows **IgA deposits** in vessel walls. It is usually self-limiting.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1065,
+       "page": 1043
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 562,
+       "page": 562
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Rheumatology",
+       "pdfPage": 240,
+       "page": 240
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Cryoglobulin types",
+     "columns": [
+      "Type",
+      "Composition",
+      "Associations"
+     ],
+     "rows": [
+      [
+       "I",
+       "Monoclonal immunoglobulin",
+       "Plasma-cell dyscrasias; hyperviscosity and thrombosis rather than vasculitis"
+      ],
+      [
+       "II (mixed)",
+       "Monoclonal IgM with rheumatoid-factor activity plus polyclonal IgG",
+       "Vasculitis; **hepatitis C** most often"
+      ],
+      [
+       "III (mixed)",
+       "Polyclonal IgG and IgM",
+       "Vasculitis; infection, autoimmune disease"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 562,
+       "page": 562
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1065,
+       "page": 1043
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 563,
+       "page": 563,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Cryoglobulinaemic vasculitis** (types II and III) causes a lower-limb purpuric rash, arthralgia, **Raynaud’s**, peripheral neuropathy and renal disease, with **low complement (especially C4)** and a positive RF. Chronic **hepatitis C** is the commonest cause. Lung and CNS involvement are rare.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1065,
+       "page": 1043
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Rheumatology",
+       "pdfPage": 650,
+       "page": 650
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 563,
+       "page": 563
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 564,
+       "page": 564,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Cutaneous leucocytoclastic vasculitis** is the commonest vasculitis. It is confined to the skin, with abrupt palpable purpura from inflammation of dermal post-capillary venules, sometimes with transient arthralgia. Triggers include **drugs (penicillins, sulphonamides, thiazides)**, infection (often hepatitis C) and malignancy. Biopsy shows leucocytoclastic vasculitis **without IgA deposits**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Rheumatology",
+       "pdfPage": 490,
+       "page": 466
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 564,
+       "page": 564
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Behçet's disease** is a variable-vessel vasculitis of small arteries and venules, commonest along the **Silk Route** (Turkey, Iran, the Mediterranean) and in Japan, and linked with **HLA-B51**. **Oral ulcers are universal**: deep, multiple and lasting 10–30 days. Genital ulcers occur in 60–80%. Other features are erythema nodosum and acneiform/papulopustular lesions, **anterior or posterior uveitis and retinal vasculitis**, brainstem involvement (~5%) and **recurrent venous thromboses**. Renal disease is very rare.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1065,
+       "page": 1043
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1066,
+       "page": 1044
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Rheumatology",
+       "pdfPage": 241,
+       "page": 241
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Rheumatology",
+       "pdfPage": 490,
+       "page": 466
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Diagnostic criteria for Behçet's disease",
+     "columns": [
+      "Required",
+      "Plus any two of"
+     ],
+     "rows": [
+      [
+       "Recurrent oral ulceration at least 3 times in 12 months",
+       "Recurrent genital ulcers"
+      ],
+      [
+       "",
+       "Eye lesions: uveitis, vitreous cells, retinal vasculitis"
+      ],
+      [
+       "",
+       "Skin lesions: erythema nodosum, pseudofolliculitis, papulopustular lesions"
+      ],
+      [
+       "",
+       "Positive pathergy test (pustule within 48 h of a needle prick)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1066,
+       "page": 1044
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Rheumatology",
+       "pdfPage": 349,
+       "page": 312
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Most Behçet's features settle on their own, but eye attacks do not: **repeated uveitis can cause blindness**. A Behçet's patient with a **painful red eye or blurred vision needs urgent ophthalmology review**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Rheumatology",
+       "pdfPage": 491,
+       "page": 467
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Rheumatology and bone disease",
+      "pdfPage": 1064,
+      "page": 1042,
+      "figure": "Fig. 24.53"
+     },
+     "note": "Palpable purpura: the typical rash of small-vessel vasculitis."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Rheumatology and bone disease",
+      "pdfPage": 1065,
+      "page": 1043,
+      "figure": "Fig. 24.54"
+     },
+     "note": "Oral ulceration in Behçet's disease: deep, multiple ulcers."
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.s6",
+   "title": "Investigations: ANCA, imaging and biopsy",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Baseline work-up of suspected vasculitis",
+     "items": [
+      "**FBC:** normocytic normochromic anaemia, leucocytosis, eosinophilia (EGPA), platelets",
+      "**ESR and CRP:** raised in almost all active systemic vasculitis",
+      "**Renal function and urinalysis:** blood, protein, red-cell casts (GN)",
+      "LFTs, complement (C3/C4), RF, ANA, **ANCA** (the key test for small-vessel disease)",
+      "**Hepatitis B and C serology** (PAN, cryoglobulinaemia), cryoglobulins",
+      "Then imaging and **tissue biopsy** to confirm wherever possible"
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Rheumatology",
+       "pdfPage": 347,
+       "page": 310
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1063,
+       "page": 1041
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1065,
+       "page": 1043
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "ANCA patterns on immunofluorescence",
+     "columns": [
+      "Pattern",
+      "Target antigen",
+      "Typical associations"
+     ],
+     "rows": [
+      [
+       "c-ANCA (cytoplasmic)",
+       "Proteinase-3 (PR3)",
+       "GPA (>90% in active disease); less often EGPA, MPA"
+      ],
+      [
+       "p-ANCA (perinuclear)",
+       "Myeloperoxidase (MPO); also lactoferrin, elastase",
+       "MPA, renal-limited vasculitis, EGPA, drug-induced vasculitis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1014,
+       "page": 992
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1377,
+       "page": 1364
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 558,
+       "page": 558
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 559,
+       "page": 559
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Remember the pairing as **c-ANCA = PR3** and **p-ANCA = MPO**. One quick-revision source reverses it, so check against Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1014,
+       "page": 992
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1377,
+       "page": 1364
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A positive ANCA **does not prove vasculitis**. It also occurs in **inflammatory bowel disease**, autoimmune liver disease, infection (bacterial, endocarditis, HIV), malignancy, RA, SLE and pulmonary fibrosis. Confirm with **biopsy** where possible. A rising titre without a clinical flare should not change treatment.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1014,
+       "page": 992
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 558,
+       "page": 558
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 560,
+       "page": 560
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Confirming the diagnosis: large- and medium-vessel disease",
+     "columns": [
+      "Condition",
+      "Key test",
+      "Typical finding"
+     ],
+     "rows": [
+      [
+       "GCA",
+       "Temporal artery biopsy; temporal artery ultrasound; FDG-PET",
+       "Granulomatous arteritis with **fragmented internal elastic lamina**; **halo sign** on ultrasound"
+      ],
+      [
+       "Takayasu",
+       "CT/MR angiography (biopsy not needed)",
+       "Stenosis, occlusion, coarctation, aneurysms"
+      ],
+      [
+       "PAN",
+       "Mesenteric/renal/hepatic angiography, or sural nerve/muscle biopsy",
+       "**Multiple microaneurysms** and smooth narrowing; fibrinoid necrosis without granulomas"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1064,
+       "page": 1042
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1063,
+       "page": 1041
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 555,
+       "page": 555
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 558,
+       "page": 558
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Confirming the diagnosis: small- and variable-vessel disease",
+     "columns": [
+      "Condition",
+      "Key test",
+      "Typical finding"
+     ],
+     "rows": [
+      [
+       "GPA/MPA",
+       "Renal (or upper-airway) biopsy; chest CT",
+       "Focal necrotising, often **crescentic pauci-immune GN**; nodules ± cavities, alveolar haemorrhage"
+      ],
+      [
+       "EGPA",
+       "FBC, biopsy",
+       "Eosinophilia; vasculitis with eosinophils in the vessel wall"
+      ],
+      [
+       "IgA vasculitis",
+       "Skin biopsy with immunofluorescence",
+       "Leucocytoclastic vasculitis with **IgA and C3** in vessel walls"
+      ],
+      [
+       "Cryoglobulinaemia",
+       "Cryoglobulins, complement, RF, HCV/HBV/HIV",
+       "Low C4, positive RF in mixed disease"
+      ],
+      [
+       "Behçet's",
+       "Clinical criteria, pathergy test",
+       "Raised ESR/CRP but **no autoantibodies**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1063,
+       "page": 1041
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 559,
+       "page": 559
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1065,
+       "page": 1043
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 562,
+       "page": 562
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 564,
+       "page": 564,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 491,
+       "page": 467,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "GCA lesions are patchy (**skip lesions**), so a **negative temporal artery biopsy does not exclude GCA**. Take a long segment (>1 cm) from the affected side, ideally before or within about a week of starting steroids (Kumar). Pocket Medicine allows up to about 2 weeks. **Never delay steroids to get a biopsy.**",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1064,
+       "page": 1042
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Rheumatology",
+       "pdfPage": 488,
+       "page": 464
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 556,
+       "page": 556
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "PMR almost always has a **raised ESR and/or CRP**. If both are normal, question the diagnosis and repeat the tests a few weeks later before starting steroids.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Rheumatology",
+       "pdfPage": 488,
+       "page": 464
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1064,
+       "page": 1042
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Cryoglobulins precipitate in the cold. **Keep the blood sample at 37°C** on its way to the laboratory, or the test may be falsely negative.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 563,
+       "page": 563
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Kidney and urinary tract disease",
+      "pdfPage": 1377,
+      "page": 1364,
+      "figure": "Fig. 36.22"
+     },
+     "note": "Immunofluorescence on neutrophils: diffuse cytoplasmic staining (c-ANCA) compared with perinuclear staining (p-ANCA)."
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.s7",
+   "title": "Management",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Suspected GCA is an emergency (Davidson)",
+     "items": [
+      "Take bloods (ESR, CRP, FBC, renal/liver/bone profile and screens for mimics)",
+      "Start **prednisolone 40–60 mg daily** at once, with a **weekly oral bisphosphonate plus calcium and vitamin D**",
+      "**Urgent ophthalmology review and temporal artery biopsy** if there are visual symptoms. Consider temporal artery ultrasound or FDG-PET",
+      "Review within 1 week and adjust the dose",
+      "IV steroids if vision is threatened. Adding **tocilizumab** (anti-IL-6) to steroids raises sustained remission rates"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1065,
+       "page": 1043
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 556,
+       "page": 556
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Rheumatology",
+       "pdfPage": 645,
+       "page": 645
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 489,
+       "page": 465,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Glucocorticoids in GCA and PMR (Davidson)",
+     "columns": [
+      "Aspect",
+      "GCA",
+      "PMR"
+     ],
+     "rows": [
+      [
+       "Usual starting prednisolone",
+       "60–80 mg (40–60 mg in the emergency box)",
+       "15–20 mg"
+      ],
+      [
+       "Response",
+       "Symptoms resolve within 48–72 h in virtually all",
+       "Same: a dramatic response"
+      ],
+      [
+       "Taper",
+       "Guided by symptoms and ESR to 10–15 mg by ~8 weeks, then **1 mg per month**",
+       "Same"
+      ],
+      [
+       "Duration",
+       "Average 12–24 months",
+       "Average 12–24 months"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1065,
+       "page": 1043
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The doses differ between books. Kumar starts GCA at 60–100 mg and PMR at 15 mg, and stops after 12–18 months. kcEssentials uses 60 mg and 10–15 mg. Follow **Davidson**. The exam point is that **GCA needs a much higher dose than PMR**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1065,
+       "page": 1043
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Rheumatology",
+       "pdfPage": 489,
+       "page": 465
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Rheumatology",
+       "pdfPage": 348,
+       "page": 311
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "If PMR does not respond dramatically within a few days of an adequate steroid dose, **rethink the diagnosis** (RA, another vasculitis, infection, malignancy). NSAIDs are not an adequate treatment for PMR.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Rheumatology",
+       "pdfPage": 489,
+       "page": 465
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1065,
+       "page": 1043
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "ANCA-associated vasculitis (GPA/MPA)",
+     "columns": [
+      "Phase",
+      "Approach"
+     ],
+     "rows": [
+      [
+       "Induction: organ-threatening disease (RPGN, lung haemorrhage)",
+       "IV methylprednisolone 0.5–1 g daily for 3 days, then prednisolone 0.5 mg/kg, **plus IV cyclophosphamide** (0.5–1 g every 2 weeks for 3 months) **or rituximab** (equally effective)"
+      ],
+      [
+       "Induction: limited disease (indolent sinus, lung, skin)",
+       "Glucocorticoids plus **methotrexate**"
+      ],
+      [
+       "Maintenance",
+       "Lower-dose glucocorticoid plus **azathioprine**, methotrexate or MMF. Regular **rituximab** maintains remission better than azathioprine"
+      ],
+      [
+       "Adjuncts",
+       "Consider plasma exchange for fulminant lung disease. **Avacopan** (C5a-receptor blocker) spares steroids. **Co-trimoxazole** reduces relapses linked to nasal _Staph. aureus_ carriage"
+      ],
+      [
+       "Follow-up (relapse is common)",
+       "Urinalysis, creatinine, ESR/CRP, lung function, PR3/MPO titres"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1063,
+       "page": 1041
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1377,
+       "page": 1364
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 559,
+       "page": 559
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 560,
+       "page": 560
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Davidson suggests **plasma exchange** for fulminant lung disease. Kumar cites the **PEXIVAS** trial (severe ANCA renal vasculitis), where adding plasma exchange **did not reduce death or end-stage kidney disease**, and a **reduced-dose steroid** regimen cut serious infections without losing disease control.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1063,
+       "page": 1041
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Kidney and urinary tract disease",
+       "pdfPage": 1377,
+       "page": 1364
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Treatment of the other vasculitides: large and medium vessel",
+     "columns": [
+      "Condition",
+      "Treatment"
+     ],
+     "rows": [
+      [
+       "PAN",
+       "High-dose glucocorticoids plus an immunosuppressant (cyclophosphamide if severe). **Antivirals if HBV-related**"
+      ],
+      [
+       "Takayasu",
+       "High-dose glucocorticoids plus immunosuppressants; control BP; bypass or angioplasty, preferably in remission. 5-year survival ~83% with treatment"
+      ],
+      [
+       "Kawasaki",
+       "**IVIg plus aspirin**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1064,
+       "page": 1042
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Rheumatology",
+       "pdfPage": 558,
+       "page": 558
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1063,
+       "page": 1041
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 556,
+       "page": 556,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 647,
+       "page": 647,
+       "chapter": "Rheumatology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Treatment of the other vasculitides: small and variable vessel",
+     "columns": [
+      "Condition",
+      "Treatment"
+     ],
+     "rows": [
+      [
+       "EGPA",
+       "High-dose glucocorticoids plus cyclophosphamide if severe, then azathioprine/methotrexate/MMF. **Mepolizumab** (anti-IL-5) is an option"
+      ],
+      [
+       "IgA vasculitis",
+       "Supportive. Glucocorticoids/immunosuppression for severe disease, especially nephritis"
+      ],
+      [
+       "Cryoglobulinaemic vasculitis",
+       "**Treat HCV/HBV**. Steroids ± rituximab; plasmapheresis for severe disease"
+      ],
+      [
+       "Behçet's",
+       "Topical steroid for oral ulcers; **colchicine** for erythema nodosum/arthralgia; **thalidomide** for resistant ulcers (teratogenic, neurotoxic); steroids, immunosuppressants or anti-TNF for eye, neurological and GI disease"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1065,
+       "page": 1043
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 490,
+       "page": 466,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 561,
+       "page": 561,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 564,
+       "page": 564,
+       "chapter": "Rheumatology"
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Rheumatology and bone disease",
+       "pdfPage": 1066,
+       "page": 1044
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Rheumatology",
+       "pdfPage": 491,
+       "page": 467
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Untreated GPA used to kill about 90% of patients within 2 years. Now many deaths come from **complications of immunosuppression** (infection) as well as renal, pulmonary and cardiovascular disease.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Rheumatology",
+       "pdfPage": 649,
+       "page": 649
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "rheum-vasculitis.c1",
+   "sectionId": "rheum-vasculitis.s1",
+   "front": "Name the large-, medium- and small-vessel vasculitides.",
+   "back": "Large: GCA, Takayasu. Medium: PAN, Kawasaki. Small: ANCA-associated (MPA, GPA, EGPA) and immune-complex (IgA vasculitis, cryoglobulinaemic, cutaneous leucocytoclastic).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Rheumatology",
+     "pdfPage": 488,
+     "page": 464
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Rheumatology",
+     "pdfPage": 347,
+     "page": 310
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.c2",
+   "sectionId": "rheum-vasculitis.s1",
+   "front": "Typical skin sign of small-vessel vasculitis?",
+   "back": "**Palpable (non-blanching) purpura**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1063,
+     "page": 1041
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1064,
+     "page": 1042,
+     "figure": "Fig. 24.53"
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.c3",
+   "sectionId": "rheum-vasculitis.s2",
+   "front": "Cause of sudden monocular blindness in GCA?",
+   "back": "Occlusion of the **posterior ciliary artery**. The fundus may look normal for the first 24–36 h.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1064,
+     "page": 1042
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.c4",
+   "sectionId": "rheum-vasculitis.s2",
+   "front": "PMR compared with polymyositis?",
+   "back": "PMR: girdle pain and morning stiffness, **no weakness**. Polymyositis: proximal aching **with weakness**.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Rheumatology",
+     "pdfPage": 489,
+     "page": 465
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1064,
+     "page": 1042
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.c5",
+   "sectionId": "rheum-vasculitis.s2",
+   "front": "Typical Takayasu patient?",
+   "back": "Woman aged 25–30 (F:M 8:1), often Asian, with absent pulses, unequal arm BP and bruits.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1063,
+     "page": 1041
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Rheumatology",
+     "pdfPage": 646,
+     "page": 646
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 555,
+     "page": 555,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.c6",
+   "sectionId": "rheum-vasculitis.s3",
+   "front": "Four exam clues to polyarteritis nodosa?",
+   "back": "**Hepatitis B**, mononeuritis multiplex, **renal microaneurysms/infarcts without GN**, lungs spared.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1064,
+     "page": 1042
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Rheumatology",
+     "pdfPage": 647,
+     "page": 647
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 490,
+     "page": 466,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.c7",
+   "sectionId": "rheum-vasculitis.s3",
+   "front": "Main complication of Kawasaki disease and its treatment?",
+   "back": "**Coronary artery aneurysm**. Treat with **IVIg plus aspirin**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1064,
+     "page": 1042
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Rheumatology",
+     "pdfPage": 490,
+     "page": 466
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.c8",
+   "sectionId": "rheum-vasculitis.s4",
+   "front": "GPA compared with MPA?",
+   "back": "GPA: granulomas, ENT and lung disease, **PR3/c-ANCA**. MPA: no granulomas, no ENT disease, **MPO/p-ANCA**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1063,
+     "page": 1041
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 560,
+     "page": 560
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.c9",
+   "sectionId": "rheum-vasculitis.s4",
+   "front": "Acute triad of EGPA?",
+   "back": "Skin lesions (purpura/nodules), **asymmetric mononeuritis multiplex**, **eosinophilia**, usually after late-onset asthma.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1065,
+     "page": 1043
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.c10",
+   "sectionId": "rheum-vasculitis.s4",
+   "front": "Early sign of optic nerve compression in orbital GPA?",
+   "back": "Loss of **colour vision**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1063,
+     "page": 1041
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.c11",
+   "sectionId": "rheum-vasculitis.s5",
+   "front": "Behçet's diagnostic criteria?",
+   "back": "Recurrent oral ulcers (≥3 in 12 months) **plus two of**: genital ulcers, eye lesions, skin lesions, positive pathergy test.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1066,
+     "page": 1044
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.c12",
+   "sectionId": "rheum-vasculitis.s5",
+   "front": "IgA vasculitis: biopsy finding and renal timing?",
+   "back": "**IgA deposits** in vessel walls. Nephritis can appear up to **4 weeks** after the other features.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1065,
+     "page": 1043
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.c13",
+   "sectionId": "rheum-vasculitis.s5",
+   "front": "Commonest cause of cryoglobulinaemic vasculitis?",
+   "back": "Chronic **hepatitis C** (mixed type II/III cryoglobulins; low C4, positive RF).",
+   "cites": [
+    {
+     "book": "stepup6",
+     "chapter": "Rheumatology",
+     "pdfPage": 650,
+     "page": 650
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 562,
+     "page": 562
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 564,
+     "page": 564,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.c14",
+   "sectionId": "rheum-vasculitis.s6",
+   "front": "c-ANCA and p-ANCA target antigens?",
+   "back": "c-ANCA = **PR3** (GPA). p-ANCA = **MPO** (MPA, EGPA, drug-induced).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1014,
+     "page": 992
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1377,
+     "page": 1364,
+     "chapter": "Kidney and urinary tract disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 558,
+     "page": 558,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.c15",
+   "sectionId": "rheum-vasculitis.s6",
+   "front": "Does a negative temporal artery biopsy exclude GCA?",
+   "back": "**No.** Skip lesions; yield rises with longer or multiple samples.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1064,
+     "page": 1042
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Rheumatology",
+     "pdfPage": 488,
+     "page": 464
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.c16",
+   "sectionId": "rheum-vasculitis.s7",
+   "front": "Immediate management of suspected GCA (Davidson)?",
+   "back": "Prednisolone 40–60 mg now, plus a weekly bisphosphonate with calcium/vitamin D. Urgent eye review and biopsy if there are visual symptoms. Do not wait for the biopsy.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1065,
+     "page": 1043
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 556,
+     "page": 556,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.c17",
+   "sectionId": "rheum-vasculitis.s7",
+   "front": "Induction for organ-threatening AAV?",
+   "back": "Pulsed IV methylprednisolone, then oral prednisolone, **plus cyclophosphamide or rituximab**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1063,
+     "page": 1041
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.c18",
+   "sectionId": "rheum-vasculitis.s7",
+   "front": "Behçet's: drug for resistant mouth/genital ulcers and its main hazard?",
+   "back": "**Thalidomide**: teratogenic and neurotoxic.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1066,
+     "page": 1044
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "rheum-vasculitis.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A student is sorting the primary systemic vasculitides into groups by the size of the vessel mainly affected.",
+   "leadIn": "Which condition belongs in the medium-vessel group?",
+   "options": [
+    "Takayasu arteritis",
+    "Polyarteritis nodosa",
+    "Microscopic polyangiitis",
+    "IgA vasculitis (Henoch–Schönlein purpura)",
+    "Giant cell arteritis"
+   ],
+   "answer": 1,
+   "explanation": "**PAN** (with Kawasaki disease) is the classic **medium-vessel** vasculitis. It affects the main visceral arteries (renal, mesenteric, coronary) and spares capillaries, which is why it does not cause GN.",
+   "whyNot": [
+    "Takayasu affects the aorta and its main branches: a large-vessel vasculitis.",
+    "",
+    "MPA is an ANCA-associated small-vessel vasculitis.",
+    "IgA vasculitis is an immune-complex small-vessel vasculitis.",
+    "GCA is a large-vessel vasculitis of the aorta and its branches."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Rheumatology",
+     "pdfPage": 488,
+     "page": 464
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Rheumatology",
+     "pdfPage": 347,
+     "page": 310
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1062,
+     "page": 1040
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 58-year-old man has had fevers, sweats and 5 kg weight loss for 6 weeks, starting soon after a dental extraction. He has a new pansystolic murmur, splinter haemorrhages and a crop of palpable purpura on both shins. Urinalysis shows blood 2+. ANCA is negative.",
+   "leadIn": "What is the most likely underlying cause of his vasculitic rash?",
+   "options": [
+    "Subacute infective endocarditis",
+    "Microscopic polyangiitis",
+    "Polyarteritis nodosa",
+    "IgA vasculitis",
+    "Cryoglobulinaemic vasculitis"
+   ],
+   "answer": 0,
+   "explanation": "Vasculitis may be **secondary**. The timeline after dental work, a **new murmur** and splinter haemorrhages point to **subacute infective endocarditis**, a classic infective cause of secondary vasculitis. Treating it as a primary vasculitis with immunosuppression would be dangerous.",
+   "whyNot": [
+    "",
+    "MPA does not explain a new murmur after dental work, and ANCA is negative.",
+    "PAN does not cause a new regurgitant murmur or splinter haemorrhages after dental work.",
+    "IgA vasculitis mainly affects children after a respiratory infection, without a murmur.",
+    "Cryoglobulinaemia is linked to hepatitis C and causes Raynaud’s and neuropathy, not a new murmur."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Rheumatology",
+     "pdfPage": 488,
+     "page": 464
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1062,
+     "page": 1040
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1065,
+     "page": 1043,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 74-year-old woman has had a new right temporal headache for 3 weeks, pain in her jaw when chewing and a tender scalp. This morning the vision in her right eye blurred for a few minutes. ESR is 96 mm/h.",
+   "leadIn": "What is the most appropriate immediate step?",
+   "options": [
+    "Start high-dose prednisolone today",
+    "Arrange temporal artery biopsy and start steroids once it is positive",
+    "Start an NSAID and review in a week",
+    "Start prednisolone 15 mg daily",
+    "Request a CT head and treat according to the result"
+   ],
+   "answer": 0,
+   "explanation": "This is **GCA with visual symptoms**, an emergency. Davidson advises starting **prednisolone 40–60 mg at once** with bone protection, plus urgent ophthalmology review and biopsy. Treatment must **not wait for the biopsy**, because sight loss can be permanent.",
+   "whyNot": [
+    "",
+    "Waiting for the biopsy risks permanent blindness. The biopsy stays useful for some days after steroids start.",
+    "NSAIDs do not prevent ischaemic complications of GCA.",
+    "15 mg is a PMR dose, too low for GCA.",
+    "CT does not diagnose GCA and delays treatment."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1065,
+     "page": 1043
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Rheumatology",
+     "pdfPage": 489,
+     "page": 465
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Rheumatology",
+     "pdfPage": 645,
+     "page": 645
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 488,
+     "page": 464,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 68-year-old woman has had 6 weeks of aching across both shoulders and hips. She is stiff for 2 hours each morning and struggles to get out of bed. On examination, shoulder movement is painful but power is normal and the muscles are not tender. CK is normal and ESR is 62 mm/h.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Polymyalgia rheumatica",
+    "Polymyositis",
+    "Fibromyalgia",
+    "Hypothyroid myopathy",
+    "Inclusion body myositis"
+   ],
+   "answer": 0,
+   "explanation": "Girdle pain with **prolonged morning stiffness**, age over 50, a high ESR and **normal power and CK** is **PMR**. Pain and stiffness without weakness is the key distinction from myositis.",
+   "whyNot": [
+    "",
+    "Polymyositis causes true proximal weakness and a raised CK.",
+    "Fibromyalgia does not raise the ESR and is not mainly morning girdle stiffness.",
+    "Myopathy causes weakness, usually without pain or stiffness, and the ESR is not high.",
+    "Inclusion body myositis causes progressive weakness (e.g. quadriceps, finger flexors) rather than stiffness."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1064,
+     "page": 1042
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Rheumatology",
+     "pdfPage": 489,
+     "page": 465
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 557,
+     "page": 557
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 46-year-old man with chronic hepatitis B has lost 8 kg. Over 2 months he has developed a left foot drop, then numbness along the right little finger, and abdominal pain after meals. BP is 182/104 mmHg and he has a lacy mottled rash on his thighs. Chest X-ray is clear, urinalysis shows no red-cell casts and ANCA is negative.",
+   "leadIn": "Which investigation is most likely to confirm the diagnosis?",
+   "options": [
+    "Mesenteric and renal angiography",
+    "Renal biopsy",
+    "Temporal artery biopsy",
+    "Serum cryoglobulins",
+    "Pathergy test"
+   ],
+   "answer": 0,
+   "explanation": "Hepatitis B, **mononeuritis multiplex**, post-prandial (mesenteric) pain, hypertension, **livedo reticularis**, clear lungs, no GN and negative ANCA all point to **PAN**. Angiography showing **multiple microaneurysms** and smooth narrowing confirms it (or sural nerve/muscle biopsy).",
+   "whyNot": [
+    "",
+    "PAN does not cause GN, so a renal biopsy is low-yield and risky with aneurysms present.",
+    "Temporal artery biopsy is for GCA in patients over 50 with headache.",
+    "Cryoglobulinaemia is mainly a hepatitis C disease with purpura and low C4. It does not cause visceral microaneurysms, and the picture fits PAN.",
+    "The pathergy test supports Behçet's disease."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1064,
+     "page": 1042
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 558,
+     "page": 558
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Rheumatology",
+     "pdfPage": 490,
+     "page": 466
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 563,
+     "page": 563,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 3-year-old boy has had a fever for 6 days. He has red eyes without discharge, cracked red lips, a single enlarged neck node, a widespread rash and red, swollen palms and soles.",
+   "leadIn": "Which complication is the main reason for urgent treatment?",
+   "options": [
+    "Coronary artery aneurysm",
+    "Rapidly progressive glomerulonephritis",
+    "Intussusception",
+    "Optic nerve ischaemia",
+    "Pulmonary haemorrhage"
+   ],
+   "answer": 0,
+   "explanation": "This is **Kawasaki disease**, a medium-vessel vasculitis of young children. Its serious complication is **coronary arteritis with aneurysms**, which can cause MI. IVIg with aspirin is given to prevent it.",
+   "whyNot": [
+    "",
+    "GN is a feature of small-vessel vasculitis (ANCA or IgA), not Kawasaki.",
+    "Intussusception is a recognised complication of IgA vasculitis.",
+    "Ischaemic optic neuropathy is a feature of GCA in older adults.",
+    "Pulmonary haemorrhage occurs in ANCA-associated vasculitis."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Rheumatology",
+     "pdfPage": 490,
+     "page": 466
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1064,
+     "page": 1042
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Rheumatology",
+     "pdfPage": 241,
+     "page": 241
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 42-year-old man has had months of bloody nasal crusting, sinus pain and reduced hearing in his right ear. He now has haemoptysis. CT chest shows several cavitating nodules. Urine dipstick shows blood 3+ and protein 2+, and creatinine is rising.",
+   "leadIn": "Which antibody is most likely to be positive?",
+   "options": [
+    "Anti-proteinase-3 (c-ANCA)",
+    "Anti-myeloperoxidase (p-ANCA)",
+    "Anti-glomerular basement membrane",
+    "Anti-double-stranded DNA",
+    "Anti-citrullinated peptide"
+   ],
+   "answer": 0,
+   "explanation": "Upper-airway disease, deafness, **cavitating lung nodules** and GN are the pattern of **GPA**. GPA is usually **PR3-ANCA** positive, which gives the cytoplasmic (c-ANCA) pattern on immunofluorescence.",
+   "whyNot": [
+    "",
+    "MPO/p-ANCA is typical of MPA, which has no ENT disease or granulomatous lung nodules.",
+    "Anti-GBM disease causes lung haemorrhage and GN but not destructive sinus disease or deafness.",
+    "Anti-dsDNA points to SLE, which does not cause cavitating nodules or nasal crusting.",
+    "Anti-CCP is a marker of rheumatoid arthritis."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1063,
+     "page": 1041
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1014,
+     "page": 992
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 559,
+     "page": 559
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 39-year-old woman developed asthma at 35 that has been hard to control, and she has nasal polyps. Over 3 weeks she has developed purpura on her legs, a right foot drop and a left wrist drop. Eosinophil count is 4.2 × 10⁹/L and ESR is raised.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Eosinophilic granulomatosis with polyangiitis",
+    "Granulomatosis with polyangiitis",
+    "Microscopic polyangiitis",
+    "Polyarteritis nodosa",
+    "Cryoglobulinaemic vasculitis"
+   ],
+   "answer": 0,
+   "explanation": "A prodrome of **late-onset asthma and nasal polyps**, then the triad of **purpura, asymmetric mononeuritis multiplex and eosinophilia**, is classic **EGPA** (Churg–Strauss).",
+   "whyNot": [
+    "",
+    "GPA causes destructive ENT disease and lung nodules, without asthma or marked eosinophilia.",
+    "MPA mainly causes GN and lung haemorrhage, without asthma or eosinophilia.",
+    "PAN can cause mononeuritis but not asthma or eosinophilia.",
+    "Cryoglobulinaemia is linked with hepatitis C, Raynaud’s and low C4, not asthma."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1065,
+     "page": 1043
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 561,
+     "page": 561
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "An 8-year-old boy had a sore throat 10 days ago. He now has a raised purpuric rash over his buttocks and the backs of his legs, painful swollen ankles and colicky abdominal pain. His platelet count is normal.",
+   "leadIn": "What would a skin biopsy most likely show?",
+   "options": [
+    "Leucocytoclastic vasculitis with IgA deposits in vessel walls",
+    "Necrotising granulomatous vasculitis",
+    "Pauci-immune small-vessel vasculitis with no immune deposits",
+    "Granulomatous arteritis with fragmented internal elastic lamina",
+    "Eosinophil-rich vasculitis with microgranulomas"
+   ],
+   "answer": 0,
+   "explanation": "A child with purpura on the buttocks and legs, arthralgia and abdominal pain after an infection has **IgA vasculitis (HSP)**. Biopsy with immunofluorescence shows **IgA (and C3)** in small-vessel walls.",
+   "whyNot": [
+    "",
+    "Granulomas are a feature of GPA.",
+    "Pauci-immune vasculitis is typical of the ANCA-associated diseases.",
+    "This is the temporal artery picture in GCA.",
+    "This describes EGPA."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1065,
+     "page": 1043
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 562,
+     "page": 562
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 28-year-old man from Turkey has had painful, deep mouth ulcers five times in the last year, each lasting 2–3 weeks. He also has scrotal ulcers and a painful red left eye with blurred vision. A small pustule appeared at a venepuncture site 2 days after blood was taken.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Behçet's disease",
+    "Reactive arthritis",
+    "Herpes simplex infection",
+    "Crohn's disease",
+    "Systemic lupus erythematosus"
+   ],
+   "answer": 0,
+   "explanation": "Recurrent oral ulcers **plus** genital ulcers, eye inflammation and a **positive pathergy reaction**, in a patient from a Silk Route country, meets the criteria for **Behçet's disease**.",
+   "whyNot": [
+    "",
+    "Reactive arthritis gives painless mouth ulcers, conjunctivitis and arthritis after infection, without pathergy.",
+    "Herpes gives shallow vesicular ulcers and no pathergy or uveitis.",
+    "Crohn's can cause oral ulcers but not recurrent genital ulcers with pathergy.",
+    "SLE ulcers are usually painless, and the pathergy reaction is not a feature."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1065,
+     "page": 1043
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1066,
+     "page": 1044
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Rheumatology",
+     "pdfPage": 349,
+     "page": 312
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 34-year-old woman with long-standing ulcerative colitis has a p-ANCA reported positive on a routine screen. She feels well, urinalysis and creatinine are normal and she has no rash, ENT or chest symptoms.",
+   "leadIn": "What is the most appropriate interpretation of the result?",
+   "options": [
+    "ANCA can be positive in inflammatory bowel disease and does not by itself indicate vasculitis",
+    "It confirms microscopic polyangiitis",
+    "It confirms granulomatosis with polyangiitis",
+    "It indicates drug-induced ANCA vasculitis",
+    "It indicates that renal biopsy is required urgently"
+   ],
+   "answer": 0,
+   "explanation": "ANCA is **not specific**. It occurs in IBD, autoimmune liver disease, infection, malignancy, RA and SLE. With no clinical evidence of vasculitis, the result should not be treated as a diagnosis.",
+   "whyNot": [
+    "",
+    "A diagnosis of MPA needs clinical disease (e.g. GN) and ideally a biopsy.",
+    "GPA is usually PR3/c-ANCA and needs clinical features.",
+    "There is no causative drug and no vasculitic illness.",
+    "Normal urinalysis and creatinine give no indication for renal biopsy."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1014,
+     "page": 992
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 558,
+     "page": 558
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 72-year-old man with new headache, jaw claudication and ESR 88 mm/h was started on prednisolone. His symptoms settled within 2 days. A 1.5 cm left temporal artery biopsy taken on day 3 is reported as normal.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Continue treatment for GCA and consider temporal artery ultrasound or a further biopsy",
+    "Stop prednisolone because GCA has been excluded",
+    "Switch to an NSAID",
+    "Start IV cyclophosphamide",
+    "Reduce prednisolone to 5 mg and repeat the ESR in 6 months"
+   ],
+   "answer": 0,
+   "explanation": "GCA has **skip lesions**, so a **negative biopsy does not exclude it**. A typical history and a dramatic steroid response support the diagnosis. More evidence can come from **ultrasound (halo sign)**, FDG-PET or another biopsy.",
+   "whyNot": [
+    "",
+    "Stopping steroids risks blindness. A negative biopsy does not exclude GCA.",
+    "NSAIDs do not protect against the ischaemic complications.",
+    "Cyclophosphamide is not first-line for GCA.",
+    "An abrupt drop to 5 mg is unsafe. The taper is gradual and guided by symptoms and ESR."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1064,
+     "page": 1042
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Rheumatology",
+     "pdfPage": 488,
+     "page": 464
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 556,
+     "page": 556
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 61-year-old woman has a creatinine that has risen from 110 to 390 µmol/L over 2 weeks, with haematuria and mild haemoptysis. MPO-ANCA is strongly positive and renal biopsy shows a necrotising crescentic pauci-immune GN.",
+   "leadIn": "What is the most appropriate induction treatment?",
+   "options": [
+    "IV methylprednisolone pulses, then oral prednisolone, with cyclophosphamide or rituximab",
+    "Oral prednisolone alone",
+    "Methotrexate with low-dose prednisolone",
+    "Azathioprine alone",
+    "Hydroxychloroquine with an NSAID"
+   ],
+   "answer": 0,
+   "explanation": "This is **organ-threatening AAV** (RPGN with lung involvement). Induction is **pulsed IV methylprednisolone then oral prednisolone, plus IV cyclophosphamide or rituximab**, which are equally effective.",
+   "whyNot": [
+    "",
+    "Steroids alone are not enough for organ-threatening disease.",
+    "Methotrexate with steroids is for limited disease (sinus, lung, skin), not RPGN.",
+    "Azathioprine is a maintenance drug, used after remission.",
+    "Hydroxychloroquine has no role in AAV induction."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1063,
+     "page": 1041
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1377,
+     "page": 1364
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 559,
+     "page": 559
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 30-year-old woman with Behçet's disease still has recurrent oral and genital ulcers despite steroid mouthwashes and colchicine. Her rheumatologist suggests thalidomide.",
+   "leadIn": "Which counselling point is most important?",
+   "options": [
+    "It is teratogenic, so reliable contraception is essential",
+    "It commonly causes gingival hyperplasia",
+    "It needs yearly retinal screening",
+    "It must be stopped if the urine turns red",
+    "It frequently causes hyperkalaemia"
+   ],
+   "answer": 0,
+   "explanation": "Thalidomide works well for **resistant oral and genital ulcers** in Behçet’s, but it is **teratogenic** and **neurotoxic** (peripheral neuropathy). Pregnancy must be avoided.",
+   "whyNot": [
+    "",
+    "Gingival hyperplasia is linked with ciclosporin.",
+    "Retinal screening is for hydroxychloroquine.",
+    "Red-orange urine is caused by rifampicin.",
+    "Hyperkalaemia is linked with ciclosporin and ACE inhibitors, not thalidomide."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1066,
+     "page": 1044
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 26-year-old woman from China has had 3 months of fatigue and aching in her left arm when hanging washing. BP is 146/90 mmHg in the right arm and 102/64 mmHg in the left. The left radial pulse is weak and there is a bruit over the left subclavian artery. ESR is 58 mm/h.",
+   "leadIn": "Which investigation will best establish the diagnosis?",
+   "options": [
+    "CT or MR angiography of the aorta and its branches",
+    "Temporal artery biopsy",
+    "Renal biopsy",
+    "ANCA serology",
+    "Nerve conduction studies"
+   ],
+   "answer": 0,
+   "explanation": "A young Asian woman with **arm claudication, unequal arm BPs, a weak pulse and a subclavian bruit** has **Takayasu arteritis**. The diagnosis rests on **angiography** showing stenosis, occlusion or aneurysm. Biopsy is not needed.",
+   "whyNot": [
+    "",
+    "Temporal artery biopsy is for GCA, which almost never occurs under 50.",
+    "Takayasu affects large arteries. A renal biopsy would not show the lesion.",
+    "Takayasu is not ANCA-associated.",
+    "The symptoms are vascular claudication, not neuropathy."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1063,
+     "page": 1041
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 555,
+     "page": 555
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Rheumatology",
+     "pdfPage": 646,
+     "page": 646
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 66-year-old man has 3 weeks of malaise, haemoptysis and a creatinine rising day by day. He has no nasal, sinus or ear symptoms. MPO-ANCA is positive and renal biopsy shows a pauci-immune necrotising crescentic GN with no granulomas.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Microscopic polyangiitis",
+    "Granulomatosis with polyangiitis",
+    "Eosinophilic granulomatosis with polyangiitis",
+    "Polyarteritis nodosa",
+    "IgA vasculitis"
+   ],
+   "answer": 0,
+   "explanation": "RPGN with lung haemorrhage, **no upper-airway disease, no granulomas** and **MPO-ANCA** is **MPA**. On biopsy, the absence of granulomas separates MPA from GPA.",
+   "whyNot": [
+    "",
+    "GPA usually has ENT disease, granulomas and PR3-ANCA.",
+    "EGPA would have asthma and eosinophilia.",
+    "PAN does not cause GN or lung haemorrhage and is ANCA-negative.",
+    "IgA vasculitis shows mesangial IgA deposits, not pauci-immune GN."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1063,
+     "page": 1041
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 560,
+     "page": 560
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 561,
+     "page": 561
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Respiratory disease",
+     "pdfPage": 1009,
+     "page": 991
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 55-year-old woman who injected drugs in her twenties has a purpuric rash on both legs, joint pains, cold white fingers in winter and burning feet. Urinalysis shows blood and protein. C4 is low and rheumatoid factor is positive.",
+   "leadIn": "Which test is most likely to identify the underlying cause?",
+   "options": [
+    "Hepatitis C serology",
+    "ANCA",
+    "Anti-double-stranded DNA",
+    "Serum angiotensin-converting enzyme",
+    "HLA-B51 typing"
+   ],
+   "answer": 0,
+   "explanation": "Purpura, arthralgia, **Raynaud’s**, neuropathy and GN with **low C4 and positive RF** suggest **mixed cryoglobulinaemic vasculitis**. Past injecting drug use points to **hepatitis C**, the commonest cause. Screen for HCV and HBV and treat the infection.",
+   "whyNot": [
+    "",
+    "ANCA is the test for small-vessel AAV, which does not usually lower C4 or give a positive RF.",
+    "Anti-dsDNA tests for SLE, which would not explain the risk history or cryoglobulin picture.",
+    "ACE is a marker for sarcoidosis.",
+    "HLA-B51 is linked with Behçet's disease."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1065,
+     "page": 1043
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Rheumatology",
+     "pdfPage": 650,
+     "page": 650
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 563,
+     "page": 563
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 564,
+     "page": 564,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q18",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 70-year-old man has 4 weeks of shoulder and neck stiffness. Examination is unremarkable. ESR is 8 mm/h and CRP is under 5 mg/L.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Reconsider the diagnosis and repeat inflammatory markers in a few weeks before treating",
+    "Start prednisolone 15 mg daily",
+    "Start prednisolone 60 mg daily",
+    "Arrange temporal artery biopsy",
+    "Start long-term NSAID therapy"
+   ],
+   "answer": 0,
+   "explanation": "PMR almost always has a **raised ESR and/or CRP**. If both are normal, **question the diagnosis** (degenerative neck or shoulder disease, endocrine or other mimics) and recheck before committing to long-term steroids.",
+   "whyNot": [
+    "",
+    "Starting steroids without an acute-phase response risks treating the wrong condition.",
+    "60 mg is a GCA dose, and there are no GCA features.",
+    "There are no cranial features to justify a biopsy.",
+    "NSAIDs are not an adequate treatment for PMR and do not answer the diagnostic question."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Rheumatology",
+     "pdfPage": 488,
+     "page": 464
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1064,
+     "page": 1042
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q19",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 71-year-old woman with GCA has been on prednisolone for 8 weeks. Her headache and jaw pain have gone and her ESR is normal on 15 mg daily.",
+   "leadIn": "How should her steroid dose now be managed?",
+   "options": [
+    "Reduce slowly, by about 1 mg per month, guided by symptoms and ESR",
+    "Stop prednisolone now",
+    "Reduce by 10 mg each week",
+    "Continue 15 mg indefinitely",
+    "Switch to 60 mg on alternate days"
+   ],
+   "answer": 0,
+   "explanation": "Davidson aims for 10–15 mg by about 8 weeks, then a **slow taper of 1 mg per month**, raising the dose again if symptoms recur. Most patients need steroids for **12–24 months**.",
+   "whyNot": [
+    "",
+    "Stopping abruptly risks relapse and adrenal crisis.",
+    "This is far too fast at this stage of treatment.",
+    "The aim is to withdraw over 1–2 years and limit steroid toxicity.",
+    "Alternate-day high doses are not the standard approach."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1065,
+     "page": 1043
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q20",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 48-year-old man with weight loss and mononeuritis multiplex has severe hypertension and a rising creatinine. Urine microscopy shows no red-cell casts and ANCA is negative.",
+   "leadIn": "What is the most likely mechanism of his renal involvement?",
+   "options": [
+    "Renal artery aneurysms and infarcts",
+    "Focal necrotising crescentic glomerulonephritis",
+    "Mesangial IgA deposition",
+    "Membranous nephropathy",
+    "Interstitial nephritis from NSAIDs"
+   ],
+   "answer": 0,
+   "explanation": "The picture is **PAN**, a medium-vessel vasculitis. It harms the kidney through **renal artery aneurysms, infarction and hypertension**, not through GN. This explains the bland sediment.",
+   "whyNot": [
+    "",
+    "Crescentic GN is the lesion of small-vessel (ANCA) vasculitis, which would give red-cell casts.",
+    "Mesangial IgA is seen in IgA vasculitis or IgA nephropathy.",
+    "Membranous nephropathy causes nephrotic syndrome and is not a feature of PAN.",
+    "Nothing in the history suggests drug-induced interstitial nephritis."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 432,
+     "page": 410
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1064,
+     "page": 1042
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q21",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 4-year-old girl is diagnosed with Kawasaki disease after 6 days of fever, conjunctival injection, red lips and peeling fingertips.",
+   "leadIn": "Which treatment most reduces her risk of coronary artery complications?",
+   "options": [
+    "Intravenous immunoglobulin with aspirin",
+    "High-dose oral prednisolone alone",
+    "Intravenous cyclophosphamide",
+    "Oral methotrexate",
+    "Intravenous antibiotics"
+   ],
+   "answer": 0,
+   "explanation": "Kawasaki disease is treated with **IVIg plus aspirin**, which prevents coronary aneurysms. Doses differ between books, but both Davidson and Kumar use this combination.",
+   "whyNot": [
+    "",
+    "Kumar notes no evidence that steroids improve the outcome.",
+    "Cyclophosphamide is used for severe AAV, not Kawasaki.",
+    "Methotrexate is not a treatment for Kawasaki disease.",
+    "Kawasaki disease is not treated as an infection."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1064,
+     "page": 1042
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Rheumatology",
+     "pdfPage": 490,
+     "page": 466
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Rheumatology",
+     "pdfPage": 241,
+     "page": 241
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q22",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 72-year-old woman has 2 months of shoulder and hip-girdle aching and stiffness. She also has low back pain, a haemoglobin of 92 g/L, ESR 118 mm/h, corrected calcium 2.85 mmol/L and a raised total protein.",
+   "leadIn": "Which condition must be excluded before treating this as PMR?",
+   "options": [
+    "Multiple myeloma",
+    "Fibromyalgia",
+    "Rotator cuff tear",
+    "Osteoarthritis of the shoulders",
+    "Statin-induced myopathy"
+   ],
+   "answer": 0,
+   "explanation": "**Myeloma** is a key PMR mimic. Bone pain, anaemia, **hypercalcaemia**, very high ESR and a raised total protein (paraprotein) need a myeloma screen before steroids are started.",
+   "whyNot": [
+    "",
+    "Fibromyalgia does not cause anaemia, hypercalcaemia or a high ESR.",
+    "A cuff tear is local and does not explain the systemic abnormalities.",
+    "OA does not raise the ESR or calcium.",
+    "Statin myopathy causes muscle pain and weakness with a raised CK, not hypercalcaemia."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1064,
+     "page": 1042
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q23",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 36-year-old man has a 2-week history of fever and joint pains. On examination he has palpable purpura on both legs and absent sensation over the dorsum of the right foot. Urinalysis shows protein and red-cell casts.",
+   "leadIn": "Which group of disorders best explains the combination of active urinary sediment and palpable purpura?",
+   "options": [
+    "Small-vessel vasculitis",
+    "Large-vessel vasculitis",
+    "Medium-vessel vasculitis such as classical PAN",
+    "Isolated peripheral neuropathy",
+    "Thrombocytopenic purpura"
+   ],
+   "answer": 0,
+   "explanation": "Palpable purpura comes from **small dermal vessels**, and red-cell casts mean **glomerulonephritis**, which needs capillary involvement. Both point to a **small-vessel vasculitis** (ANCA-associated or immune-complex).",
+   "whyNot": [
+    "",
+    "Large-vessel vasculitis causes limb claudication and absent pulses, not GN or purpura.",
+    "PAN spares glomeruli, so red-cell casts argue against it.",
+    "Neuropathy alone does not explain purpura or GN.",
+    "Thrombocytopenic purpura is flat, not palpable, and does not cause red-cell casts."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1063,
+     "page": 1041
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 432,
+     "page": 410
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 557,
+     "page": 557
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q24",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 45-year-old woman with known GPA has developed a bulging left eye and double vision over a month. Today she says colours in her left eye look washed out, although her acuity is still 6/9.",
+   "leadIn": "What does the change in colour vision most likely indicate?",
+   "options": [
+    "Early compression of the optic nerve",
+    "Entrapment of the extra-ocular muscles",
+    "Anterior uveitis",
+    "Steroid-induced cataract",
+    "Central retinal vein occlusion"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: GPA can cause **retro-orbital granulomatous inflammation**, which produces **proptosis**. Step 2: The mass can trap the extra-ocular muscles (giving diplopia) or press on the optic nerve. Step 3: **Loss of colour vision is an early sign of optic nerve compression**, often before acuity falls. Step 4: This threatens sight and needs urgent escalation of treatment and specialist eye review.",
+   "whyNot": [
+    "",
+    "Muscle entrapment explains her diplopia but not the loss of colour vision.",
+    "Uveitis gives a painful red eye and photophobia, not selective colour loss with proptosis.",
+    "Cataract causes gradual blurring and glare, not early colour loss with proptosis.",
+    "Vein occlusion causes sudden painless visual loss with retinal haemorrhages, not this picture."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1063,
+     "page": 1041
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q25",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 76-year-old man has had headaches and pain on chewing for 2 weeks. This morning he lost the vision in his right eye suddenly and painlessly. Fundoscopy 6 hours later appears normal.",
+   "leadIn": "What is the most likely mechanism of his visual loss?",
+   "options": [
+    "Occlusion of the posterior ciliary artery due to GCA",
+    "Central retinal vein occlusion",
+    "Retinal detachment",
+    "Vitreous haemorrhage",
+    "Migraine with visual aura"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: Age over 50, a new headache and **jaw claudication** suggest **GCA**. Step 2: The feared complication is sudden monocular blindness from **posterior ciliary artery occlusion** (ischaemic optic neuropathy). Step 3: The disc may look **normal for the first 24–36 h**, so a normal fundus does not reassure. Step 4: Give high-dose steroids immediately and arrange urgent ophthalmology review to protect the other eye.",
+   "whyNot": [
+    "",
+    "Vein occlusion shows widespread retinal haemorrhages straight away.",
+    "Detachment causes floaters, flashes and a curtain-like field loss, and is visible on fundoscopy.",
+    "Vitreous haemorrhage obscures the fundal view.",
+    "Migraine aura is transient and does not cause sustained blindness with jaw claudication."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1064,
+     "page": 1042
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Rheumatology",
+     "pdfPage": 348,
+     "page": 311
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q26",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 52-year-old man has 6 weeks of fever, weight loss, recurrent sinusitis and palpable purpura. Urine shows blood 3+ with red-cell casts and creatinine has risen to 260 µmol/L. PR3-ANCA is positive.",
+   "leadIn": "Which investigation best confirms the diagnosis?",
+   "options": [
+    "Renal biopsy",
+    "Repeat ANCA titre",
+    "CRP",
+    "Chest X-ray",
+    "Urine culture"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: Sinus disease, purpura, an active sediment and **PR3-ANCA** suggest **GPA with renal involvement**. Step 2: ANCA supports the diagnosis but **is not specific**. Step 3: Davidson advises confirming by **biopsy of the kidney** (or upper-airway lesions). Step 4: The kidney typically shows a **focal necrotising, often crescentic, pauci-immune GN**, which also guides how urgent treatment is.",
+   "whyNot": [
+    "",
+    "Repeating the ANCA adds nothing. ANCA can be positive in other diseases.",
+    "CRP shows inflammation but is not diagnostic.",
+    "Chest imaging helps stage the disease but does not give a tissue diagnosis.",
+    "Culture would look for infection, but red-cell casts mean GN, not UTI."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1063,
+     "page": 1041
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology and urology",
+     "pdfPage": 432,
+     "page": 410
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 559,
+     "page": 559
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q27",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Diagnosis of systemic vasculitis",
+   "leadIn": "Match each patient with the vasculitis that best explains the presentation. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Giant cell arteritis",
+    "Takayasu arteritis",
+    "Polyarteritis nodosa",
+    "Kawasaki disease",
+    "Granulomatosis with polyangiitis",
+    "Microscopic polyangiitis",
+    "Eosinophilic granulomatosis with polyangiitis",
+    "IgA vasculitis (Henoch–Schönlein purpura)",
+    "Cryoglobulinaemic vasculitis",
+    "Behçet's disease",
+    "Cutaneous leucocytoclastic vasculitis"
+   ],
+   "items": [
+    {
+     "stem": "A 24-year-old woman from India has fatigue and aching in her left arm when she uses it. BP differs by 35 mmHg between her arms and there is a carotid bruit.",
+     "answer": 1,
+     "explanation": "A **young woman** with arm claudication, unequal BPs and bruits has **Takayasu arteritis**, the large-vessel vasculitis of people under 50.",
+     "studyRef": {
+      "sectionId": "rheum-vasculitis.s2"
+     }
+    },
+    {
+     "stem": "A 52-year-old man develops a crop of palpable purpura on his shins and mild joint aches 6 days after starting co-trimoxazole for a urinary infection. Urinalysis and creatinine are normal and ANCA is negative.",
+     "answer": 10,
+     "explanation": "Skin-only purpura soon after a **sulphonamide**, with normal kidneys and negative ANCA, fits **cutaneous leucocytoclastic vasculitis**. Stopping the drug is often enough.",
+     "studyRef": {
+      "sectionId": "rheum-vasculitis.s5"
+     }
+    },
+    {
+     "stem": "A 64-year-old woman has haemoptysis and a creatinine that has doubled in a week. She has no nasal or ear symptoms. ANCA by ELISA is directed against myeloperoxidase.",
+     "answer": 5,
+     "explanation": "Two steps: lung haemorrhage with RPGN means a small-vessel AAV. Then **no ENT disease and MPO-ANCA** point to **MPA** rather than GPA.",
+     "studyRef": {
+      "sectionId": "rheum-vasculitis.s4"
+     }
+    },
+    {
+     "stem": "A 44-year-old man with chronic hepatitis B has weight loss, a left foot drop, abdominal pain after eating and new hypertension. Chest X-ray is clear and urine shows no casts.",
+     "answer": 2,
+     "explanation": "Hepatitis B, mononeuritis, mesenteric ischaemia and hypertension, with **clear lungs and no GN**, is **PAN**.",
+     "studyRef": {
+      "sectionId": "rheum-vasculitis.s3"
+     }
+    },
+    {
+     "stem": "A 33-year-old man from Iran had a deep vein thrombosis last year. He now has recurrent painful mouth ulcers, a painful red eye with blurred vision and tender red nodules on his shins.",
+     "answer": 9,
+     "explanation": "Recurrent oral ulcers with **uveitis, erythema nodosum** and **venous thrombosis**, in a Silk Route patient, points to **Behçet's disease**.",
+     "studyRef": {
+      "sectionId": "rheum-vasculitis.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1063,
+     "page": 1041
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1064,
+     "page": 1042
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1065,
+     "page": 1043
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 564,
+     "page": 564
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1066,
+     "page": 1044
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Rheumatology",
+     "pdfPage": 490,
+     "page": 466
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q28",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 58-year-old man with GPA reached remission after 3 months of glucocorticoids and IV cyclophosphamide. His creatinine is stable and urinalysis is now bland.",
+   "leadIn": "What is the most appropriate next step in treatment?",
+   "options": [
+    "Switch to maintenance with low-dose glucocorticoid plus azathioprine (or rituximab)",
+    "Continue IV cyclophosphamide indefinitely",
+    "Stop all immunosuppression",
+    "Change to hydroxychloroquine",
+    "Treat with NSAIDs only"
+   ],
+   "answer": 0,
+   "explanation": "After induction, cyclophosphamide is replaced by **maintenance therapy**: low-dose glucocorticoid with **azathioprine**, methotrexate or MMF. Regular **rituximab** maintains remission better than azathioprine. AAV relapses often, so follow-up continues long term.",
+   "whyNot": [
+    "",
+    "Long-term cyclophosphamide adds toxicity (infection, bladder, malignancy, infertility). It is used only for induction.",
+    "Stopping treatment carries a high relapse risk.",
+    "Hydroxychloroquine has no role in AAV maintenance.",
+    "NSAIDs do not control vasculitis and may harm the kidneys."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1063,
+     "page": 1041
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1377,
+     "page": 1364
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q29",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 3,
+   "stem": "A trainee asks what the PEXIVAS trial showed about patients with severe ANCA-associated vasculitis and renal involvement.",
+   "leadIn": "Which finding is correct?",
+   "options": [
+    "Adding plasma exchange did not reduce death or end-stage kidney disease",
+    "Plasma exchange halved mortality",
+    "Higher-dose glucocorticoids reduced serious infections",
+    "Rituximab was inferior to azathioprine for maintenance",
+    "Co-trimoxazole increased relapse rates"
+   ],
+   "answer": 0,
+   "explanation": "In PEXIVAS (>700 patients), **plasma exchange gave no benefit** for death or ESKD, and a **reduced-dose glucocorticoid regimen** cut serious infections without worse disease control. Davidson still mentions plasmapheresis as an option for fulminant lung disease.",
+   "whyNot": [
+    "",
+    "There was no mortality benefit.",
+    "It was the lower-dose regimen that reduced infections.",
+    "Rituximab maintenance is superior to azathioprine.",
+    "Co-trimoxazole reduces relapses linked to Staph. aureus carriage."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1377,
+     "page": 1364
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1063,
+     "page": 1041
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q30",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A cryoglobulin test is requested for a patient with hepatitis C, purpura and low C4. The sample is sent in the routine afternoon transport bag and reaches the laboratory 3 hours later. The result is negative.",
+   "leadIn": "What is the most likely reason for a false-negative result?",
+   "options": [
+    "The sample cooled before it reached the laboratory",
+    "The sample was taken in the afternoon",
+    "The patient was not fasting",
+    "The sample was taken from the non-dominant arm",
+    "The patient was taking antiviral therapy"
+   ],
+   "answer": 0,
+   "explanation": "Cryoglobulins **precipitate in the cold**. If the sample cools in transit, the protein drops out before testing. The blood must be **kept at 37°C** on its way to the laboratory.",
+   "whyNot": [
+    "",
+    "Time of day does not affect cryoglobulin detection.",
+    "Fasting is not the cause of the false negative here.",
+    "Which arm is used does not matter.",
+    "Treatment may lower levels over time, but the handling error is the obvious cause."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s6"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 563,
+     "page": 563
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q31",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 7-year-old girl has IgA vasculitis with purpura on her legs, ankle pain and mild abdominal pain. Her BP and creatinine are normal and urinalysis shows only a trace of blood.",
+   "leadIn": "What is the most appropriate management?",
+   "options": [
+    "Supportive care with repeated urinalysis and blood pressure checks over the following weeks",
+    "High-dose oral prednisolone",
+    "IV cyclophosphamide",
+    "Plasmapheresis",
+    "Intravenous immunoglobulin"
+   ],
+   "answer": 0,
+   "explanation": "IgA vasculitis is usually **self-limiting**, so management is **supportive**. Nephritis can appear **up to 4 weeks** after the rash, so urine and BP are monitored. Steroids and immunosuppression are kept for severe disease, especially significant nephritis.",
+   "whyNot": [
+    "",
+    "Steroids are not needed in mild disease, and their benefit is unclear.",
+    "Cyclophosphamide is for severe organ-threatening disease.",
+    "Plasmapheresis is not used in mild IgA vasculitis.",
+    "IVIg is used for Kawasaki disease, not IgA vasculitis."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1065,
+     "page": 1043
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Rheumatology",
+     "pdfPage": 240,
+     "page": 240
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q32",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 40-year-old woman has taken propylthiouracil for Graves' disease for 2 years. She now has arthralgia, purpura on her legs and haematuria. MPO-ANCA is positive at a very high titre.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Drug-induced ANCA-associated vasculitis",
+    "Granulomatosis with polyangiitis",
+    "IgA vasculitis",
+    "Systemic lupus erythematosus",
+    "Infective endocarditis"
+   ],
+   "answer": 0,
+   "explanation": "**Propylthiouracil** (also hydralazine, minocycline, penicillamine) can induce an ANCA vasculitis. It typically has a **very high MPO-ANCA titre**, with arthralgia, skin vasculitis and sometimes GN or lung haemorrhage.",
+   "whyNot": [
+    "",
+    "GPA is usually PR3-ANCA, with ENT and lung disease.",
+    "IgA vasculitis is ANCA-negative and usually affects children.",
+    "SLE would be suggested by ANA/dsDNA rather than high-titre MPO-ANCA.",
+    "Nothing suggests endocarditis, such as a murmur or fever with bacteraemia."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Kidney and urinary tract disease",
+     "pdfPage": 1377,
+     "page": 1364
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 558,
+     "page": 558
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q33",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 70-year-old woman has been treated for giant cell arteritis for a year and is now on low-dose prednisolone.",
+   "leadIn": "Which large-vessel complication of her disease should remain on the clinician’s radar long term?",
+   "options": [
+    "Thoracic aortic aneurysm or dissection",
+    "Coronary artery aneurysm",
+    "Renal artery microaneurysms",
+    "Retinal vasculitis",
+    "Subglottic stenosis"
+   ],
+   "answer": 0,
+   "explanation": "GCA can involve the **aorta**, and it raises the risk of **aortic aneurysm and dissection**. This is a late complication to keep in mind.",
+   "whyNot": [
+    "",
+    "Coronary aneurysms are the hallmark of Kawasaki disease.",
+    "Renal microaneurysms are typical of PAN.",
+    "Retinal vasculitis is an eye feature of Behçet's disease, not a large-vessel complication of GCA.",
+    "Subglottic stenosis is a feature of GPA."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1064,
+     "page": 1042
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 643,
+     "page": 643,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 556,
+     "page": 556,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1065,
+     "page": 1043,
+     "chapter": "Rheumatology and bone disease"
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q34",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 1,
+   "stem": "A 69-year-old woman with suspected GCA is starting prednisolone 60 mg daily. She has no previous fractures.",
+   "leadIn": "What should be co-prescribed from the start, according to Davidson?",
+   "options": [
+    "A weekly oral bisphosphonate with calcium and vitamin D",
+    "Allopurinol",
+    "Folic acid",
+    "Warfarin",
+    "Spironolactone"
+   ],
+   "answer": 0,
+   "explanation": "High-dose, long-term glucocorticoids cause **osteoporosis**. Davidson’s GCA emergency box starts a **weekly oral bisphosphonate with calcium and vitamin D** at the same time as prednisolone.",
+   "whyNot": [
+    "",
+    "Allopurinol is for gout prophylaxis.",
+    "Folic acid accompanies methotrexate, not steroids.",
+    "Anticoagulation is not routine in GCA. Pocket Medicine mentions aspirin only for critical cerebral narrowing.",
+    "Spironolactone has no role here."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1065,
+     "page": 1043
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 556,
+     "page": 556,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q35",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 3,
+   "stem": "A 47-year-old man has late-onset asthma, blood eosinophils of 3.5 × 10⁹/L, purpura and a mononeuritis multiplex. Skin biopsy shows small-vessel vasculitis with eosinophils in the vessel wall. ANCA is negative.",
+   "leadIn": "How should the negative ANCA result be interpreted?",
+   "options": [
+    "It does not exclude EGPA, since ANCA is found in only a proportion of cases",
+    "It excludes EGPA",
+    "It makes GPA the more likely diagnosis",
+    "It points to cryoglobulinaemic vasculitis",
+    "It means glucocorticoids are not needed"
+   ],
+   "answer": 0,
+   "explanation": "ANCA (MPO or PR3) is detected in only **up to about 60%** of EGPA (Davidson). Other sources quote 30–50%. The clinical triad and the eosinophilic vasculitis on biopsy make the diagnosis.",
+   "whyNot": [
+    "",
+    "Many patients with EGPA are ANCA-negative.",
+    "GPA is usually PR3-positive and lacks asthma and eosinophilia.",
+    "Nothing here suggests cryoglobulins (no HCV, Raynaud’s or low C4).",
+    "Active EGPA needs high-dose glucocorticoids."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1065,
+     "page": 1043
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Rheumatology",
+     "pdfPage": 488,
+     "page": 464
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 561,
+     "page": 561,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q36",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 1,
+   "stem": "A 50-year-old man has mononeuritis multiplex, abdominal pain after meals and new hypertension. Angiography shows multiple microaneurysms in the renal and mesenteric arteries.",
+   "leadIn": "Which infection is most strongly associated with his condition?",
+   "options": [
+    "Hepatitis B",
+    "Hepatitis C",
+    "HIV",
+    "Group A streptococcus",
+    "Parvovirus B19"
+   ],
+   "answer": 0,
+   "explanation": "Microaneurysms with mononeuritis and mesenteric ischaemia mean **PAN**. **Hepatitis B** is its key risk factor, so antiviral therapy is part of treatment in HBV-related cases.",
+   "whyNot": [
+    "",
+    "Hepatitis C is an occasional PAN association, but it is linked mainly with cryoglobulinaemic vasculitis.",
+    "HIV is an occasional association, but hepatitis B is the classic, strongest risk factor for PAN.",
+    "Streptococcal infection is linked with post-infectious GN and IgA vasculitis triggers.",
+    "Parvovirus causes arthropathy and aplastic crises, not PAN."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1064,
+     "page": 1042
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Rheumatology",
+     "pdfPage": 557,
+     "page": 557
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 241,
+     "page": 241,
+     "chapter": "Rheumatology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 647,
+     "page": 647,
+     "chapter": "Rheumatology"
+    }
+   ]
+  },
+  {
+   "id": "rheum-vasculitis.q37",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 32-year-old woman with Behçet's disease is reviewed in clinic. She lists several current problems.",
+   "leadIn": "Which problem needs the most urgent specialist referral?",
+   "options": [
+    "A painful red eye with blurred vision",
+    "Recurrent oral ulcers",
+    "Tender red nodules on the shins",
+    "Acneiform lesions on the back",
+    "Knee arthralgia"
+   ],
+   "answer": 0,
+   "explanation": "Eye involvement in Behçet's (**uveitis, retinal vasculitis**) can **threaten sight** and needs **urgent ophthalmology review**, with immunosuppression (e.g. ciclosporin or anti-TNF).",
+   "whyNot": [
+    "",
+    "Oral ulcers are universal and treated with topical steroids.",
+    "Erythema nodosum responds to colchicine and does not threaten an organ.",
+    "Skin lesions are not urgent.",
+    "Arthralgia responds to colchicine and is not sight- or life-threatening."
+   ],
+   "studyRef": {
+    "sectionId": "rheum-vasculitis.s5"
+   },
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "chapter": "Rheumatology",
+     "pdfPage": 349,
+     "page": 312
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Rheumatology and bone disease",
+     "pdfPage": 1066,
+     "page": 1044
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Rheumatology",
+     "pdfPage": 491,
+     "page": 467
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "rheum-vasculitis.o1",
+   "sectionId": "rheum-vasculitis.s5",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Rheumatology and bone disease",
+    "pdfPage": 1064,
+    "page": 1042,
+    "figure": "Fig. 24.53"
+   },
+   "identify": "Raised, non-blanching **palpable purpura**: the cutaneous sign of small-vessel vasculitis (e.g. IgA vasculitis, AAV, cryoglobulinaemia)."
+  },
+  {
+   "id": "rheum-vasculitis.o2",
+   "sectionId": "rheum-vasculitis.s4",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Rheumatology and bone disease",
+    "pdfPage": 1063,
+    "page": 1041,
+    "figure": "Fig. 24.52"
+   },
+   "identify": "**Proptosis** from retro-orbital inflammation in ANCA-associated vasculitis (GPA). Ask about diplopia and colour vision (optic nerve compression)."
+  },
+  {
+   "id": "rheum-vasculitis.o3",
+   "sectionId": "rheum-vasculitis.s5",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Rheumatology and bone disease",
+    "pdfPage": 1065,
+    "page": 1043,
+    "figure": "Fig. 24.54"
+   },
+   "identify": "Deep, multiple **oral ulcers** of Behçet's disease. Look for genital ulcers, uveitis and a positive pathergy test."
+  },
+  {
+   "id": "rheum-vasculitis.o4",
+   "sectionId": "rheum-vasculitis.s6",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Kidney and urinary tract disease",
+    "pdfPage": 1377,
+    "page": 1364,
+    "figure": "Fig. 36.22"
+   },
+   "identify": "ANCA immunofluorescence: diffuse granular **cytoplasmic** staining = c-ANCA (PR3, GPA). **Perinuclear** staining = p-ANCA (MPO, MPA)."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:29:42.465Z",
+  "contentHash": "5eea0ba40c9b9570dc0725e316aadebe4dfc70169c7d130abd88edf3824305c6"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:29:42.498Z",
+  "contentHash": "5eea0ba40c9b9570dc0725e316aadebe4dfc70169c7d130abd88edf3824305c6",
+  "checkerVersion": "source-check-v1"
+ }
+}

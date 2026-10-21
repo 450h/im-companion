@@ -1,0 +1,3031 @@
+{
+ "topicId": "id-covid19",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "id-covid19.s1",
+   "title": "The causative agent: SARS-CoV-2",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "COVID-19 (**coronavirus disease 2019**) is caused by **SARS-CoV-2**, a **novel coronavirus** first recognised in **December 2019** during an outbreak of severe respiratory illness in **Wuhan, China**. It spread around the world within months to become a **pandemic**, and new **variants of concern** keep appearing.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 543,
+       "page": 521
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 899,
+       "page": 899
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 919,
+       "page": 919
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Virology in brief",
+     "items": [
+      "Coronaviruses are **enveloped RNA viruses** with **helical** symmetry, roughly **80–220 nm** across.",
+      "They infect **animals as well as humans**; SARS-CoV and MERS-CoV are zoonoses, and Kumar & Clark also lists COVID-19 in its zoonosis table (source uncertain).",
+      "Human members: the seasonal **229E, OC43, NL63 and HKU1**, plus **SARS-CoV, MERS-CoV and SARS-CoV-2**.",
+      "SARS-CoV-2 is grouped with the viral causes of **atypical community-acquired pneumonia**, alongside influenza A/B, adenovirus, parainfluenza and RSV."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 536,
+       "page": 514
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 899,
+       "page": 899
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 901,
+       "page": 901
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 541,
+       "page": 519
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 526,
+       "page": 504,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 542,
+       "page": 520,
+       "chapter": "Infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Human coronaviruses compared",
+     "columns": [
+      "Virus",
+      "When it appeared",
+      "Typical illness",
+      "Animal link"
+     ],
+     "rows": [
+      [
+       "229E, OC43, NL63, HKU1 (seasonal)",
+       "229E/OC43 isolated in the 1960s; NL63/HKU1 described 2004–2005",
+       "Common cold (short, mild upper respiratory infection)",
+       "Not a feature"
+      ],
+      [
+       "SARS-CoV",
+       "2002–2003 outbreak, controlled by mid-2003",
+       "Severe lower respiratory infection with bronchopneumonia; about 8000 cases, ~10% died",
+       "Probably bats"
+      ],
+      [
+       "MERS-CoV",
+       "2012, Saudi Arabia",
+       "Severe pneumonia, ARDS, renal failure; mortality about 35%",
+       "Bats → dromedary camels → humans"
+      ],
+      [
+       "SARS-CoV-2",
+       "December 2019, Wuhan",
+       "COVID-19: asymptomatic to ARDS and multi-organ failure; early mortality estimate 1–5%",
+       "Uncertain"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 542,
+       "page": 520
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 543,
+       "page": 521
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 271,
+       "page": 249
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 526,
+       "page": 504
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 318,
+       "page": 293,
+       "chapter": "Public health"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 422,
+       "page": 422,
+       "chapter": "Infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "SARS-CoV-2 is a textbook **emerging infectious disease**, like MERS-CoV, Zika and Ebola. Many emerging pathogens are **zoonoses**, helped along by population movement, global travel and trade, ecological and climate change, and changes in farming.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Public health",
+       "pdfPage": 318,
+       "page": 293
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "\"Coronavirus\" does not always mean severe disease. The **seasonal coronaviruses** behave like rhinovirus and cause brief, mild colds; only **SARS-CoV, MERS-CoV and SARS-CoV-2** cause life-threatening lower respiratory infection.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 421,
+       "page": 421
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 542,
+       "page": 520
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The **animal reservoir of SARS-CoV-2 is unproven**. Kumar & Clark’s zoonosis table tentatively suggests snakes or pangolins, but marks it as uncertain, so do not state it as fact. By contrast, SARS most likely came from **bats** and MERS from **camels**. The Davidson’s text used here has no COVID-19 section.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 526,
+       "page": 504
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 271,
+       "page": 249
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.s2",
+   "title": "Modes of transmission and incubation",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "How SARS-CoV-2 spreads",
+     "items": [
+      "Mainly **person to person** through **respiratory droplets and particles**, especially at **close range**.",
+      "Kumar & Clark lists COVID-19 as a **zoonosis** whose onward spread between people is by **droplets**.",
+      "People who are **asymptomatic or pre-symptomatic** can pass the virus on.",
+      "It is far **more transmissible than the original SARS-CoV**, though less lethal, which explains its explosive worldwide spread.",
+      "General routes for respiratory pathogens: **inhalation**, **direct contact**, and **fomites** (door handles, taps, ultrasound probes), which matter most in health care–associated infection.",
+      "For coronaviruses as a cause of colds, infectivity peaks **early in the illness**, via droplets or nasal secretions carried on the hands."
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 919,
+       "page": 919
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 422,
+       "page": 422
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 526,
+       "page": 504
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 543,
+       "page": 521
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Principles of infectious disease",
+       "pdfPage": 133,
+       "page": 111
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 963,
+       "page": 945
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Incubation periods to keep apart",
+     "columns": [
+      "Virus",
+      "Incubation",
+      "Source"
+     ],
+     "rows": [
+      [
+       "SARS-CoV-2 (COVID-19)",
+       "2–14 days; average about 5 days (median 4–5 days)",
+       "First Aid; Pocket Medicine"
+      ],
+      [
+       "SARS-CoV (2003 SARS)",
+       "2–7 days, occasionally longer",
+       "Davidson"
+      ],
+      [
+       "MERS-CoV (person to person)",
+       "2–14 days, average 5 days",
+       "Davidson"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 899,
+       "page": 899
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 422,
+       "page": 422
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Principles of infectious disease",
+       "pdfPage": 133,
+       "page": 111
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 271,
+       "page": 249
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Because **pre-symptomatic and asymptomatic** people shed the virus, isolating only those with symptoms will miss cases. This is why distancing, masks and hand hygiene are applied to everyone during spread.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 422,
+       "page": 422
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 900,
+       "page": 900
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Do not quote the **2–7 day** figure for COVID-19; that is the incubation of the **2003 SARS coronavirus**. For SARS-CoV-2 remember **up to 14 days, typically around 5**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Principles of infectious disease",
+       "pdfPage": 133,
+       "page": 111
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 899,
+       "page": 899
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 422,
+       "page": 422
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.s3",
+   "title": "Clinical manifestations and diagnosis",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Infection ranges from **completely asymptomatic** to life-threatening. Among symptomatic patients about **81% have mild-to-moderate**, **14% severe** (hypoxic) and **5% critical** disease (ARDS, shock, multi-organ failure). Severe disease reflects an **exaggerated host inflammatory response** (cytokine storm syndrome) causing fever, multi-organ dysfunction, cardiac and renal injury, and ARDS.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 422,
+       "page": 422
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 919,
+       "page": 919
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 899,
+       "page": 899
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Symptoms",
+     "items": [
+      "**Fever** and chills",
+      "Upper respiratory symptoms: **cough**, **sore throat**, nasal congestion",
+      "**Breathlessness** in more serious disease",
+      "**Myalgia** and **headache**",
+      "**Loss of smell (anosmia)** and **loss of taste (ageusia)**, which are common and characteristic",
+      "Gastrointestinal: **nausea, vomiting, diarrhoea**"
+     ],
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 899,
+       "page": 899
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 422,
+       "page": 422
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 919,
+       "page": 919
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Risk factors for severe illness",
+     "items": [
+      "**Age ≥ 65** (advanced age)",
+      "Cardiovascular disease and previous **stroke**",
+      "**Diabetes mellitus**",
+      "Chronic **lung disease** and **chronic kidney disease**",
+      "**Obesity** and **cancer**",
+      "Low socioeconomic status"
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 422,
+       "page": 422
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 919,
+       "page": 919
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Investigations",
+     "columns": [
+      "Test",
+      "What to know"
+     ],
+     "rows": [
+      [
+       "RT-PCR (NAAT)",
+       "**Most sensitive** test; **nasopharyngeal swab** is the most reliable specimen (lower respiratory or anterior nasal samples can also be used)"
+      ],
+      [
+       "Rapid antigen test",
+       "Anterior nasal swab; **less sensitive than PCR** but gives a point-of-care result so the patient can isolate sooner"
+      ],
+      [
+       "Full blood count",
+       "**Lymphopenia** (the most common lab abnormality) and thrombocytopenia"
+      ],
+      [
+       "Other bloods",
+       "Raised **D-dimer**, **CRP**/ESR, **LDH**, ALT/AST and creatinine, mostly in hospitalised patients"
+      ],
+      [
+       "Chest X-ray",
+       "**Bilateral**, mainly **peripheral** opacities; can be **normal early**"
+      ],
+      [
+       "CT chest",
+       "Multifocal bilateral **peripheral ground-glass opacities**, often in the **posterior lower lobes**, with consolidation and air bronchograms"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 899,
+       "page": 899
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 900,
+       "page": 900
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 422,
+       "page": 422
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 920,
+       "page": 920
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "fa2ck11",
+      "chapter": "Pulmonary",
+      "pdfPage": 900,
+      "page": 900,
+      "figure": "Figure 2.14-11"
+     },
+     "note": "Look at: CT of COVID-19 pneumonia with dense opacities in both lower lobes and air bronchograms."
+    },
+    {
+     "type": "pearl",
+     "text": "**Lymphopenia, thrombocytopenia and a raised LDH** appear among the lab changes of hospitalised COVID-19, and Davidson lists exactly this trio for MERS, so the pattern is worth recognising across the severe coronaviruses.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 900,
+       "page": 900
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 920,
+       "page": 920
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 271,
+       "page": 249
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A **negative rapid antigen test** or a **normal early chest X-ray** does not exclude COVID-19. Antigen tests are less sensitive than PCR, and the X-ray may lag behind the illness; CT helps when the diagnosis is uncertain.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 422,
+       "page": 422
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 899,
+       "page": 899
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.s4",
+   "title": "Complications and outcome",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Complications by system",
+     "columns": [
+      "System",
+      "Complication"
+     ],
+     "rows": [
+      [
+       "Respiratory",
+       "**Acute hypoxic respiratory failure**, sometimes **without breathlessness** (\"silent hypoxia\"); **ARDS**"
+      ],
+      [
+       "Circulation",
+       "**Shock** and multi-organ dysfunction syndrome; cardiac injury from the inflammatory response"
+      ],
+      [
+       "Blood / vascular",
+       "**Thromboembolism**, including **pulmonary embolism**"
+      ],
+      [
+       "Neurological",
+       "Higher risk of **stroke** and other neurological complications; COVID-19 is a recognised trigger of **Guillain–Barré syndrome**"
+      ],
+      [
+       "Renal",
+       "**AKI in about 17% of inpatients**, usually **ATN**, less often **collapsing FSGS** (high-risk APOL1 genotype); dialysis circuits clot more readily"
+      ],
+      [
+       "Liver",
+       "Acute mild-to-moderate **aminotransferase rise** (under 15 × the upper limit of normal)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 919,
+       "page": 919
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 899,
+       "page": 899
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Gastroenterology",
+       "pdfPage": 232,
+       "page": 232
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 302,
+       "page": 302
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Nephrology",
+       "pdfPage": 314,
+       "page": 314
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Neurology",
+       "pdfPage": 592,
+       "page": 592
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Severity of the three serious coronaviruses",
+     "columns": [
+      "Virus",
+      "Mortality",
+      "Scale"
+     ],
+     "rows": [
+      [
+       "SARS-CoV (2002–2003)",
+       "About 10%",
+       "About 8000 cases, ~800 deaths; no natural cases since 2003"
+      ],
+      [
+       "MERS-CoV (from 2012)",
+       "About 35% (30–40%)",
+       "Over 2200 cases, mostly in the Middle East; the largest outbreaks spread within health-care settings"
+      ],
+      [
+       "SARS-CoV-2 (from 2019)",
+       "Early estimate 1–5%",
+       "Nearly 5 million cases and 300,000 deaths by May 2020"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 271,
+       "page": 249
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 543,
+       "page": 521
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Public health",
+       "pdfPage": 318,
+       "page": 293
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Silent hypoxia**: a patient with COVID-19 can be markedly hypoxic yet not feel breathless, so asking about dyspnoea alone can miss respiratory failure.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 919,
+       "page": 919
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "SARS-CoV-2 is **less lethal per case** than SARS-CoV or MERS-CoV but caused far more deaths overall because it is **much more transmissible**. Kumar’s 1–5% mortality figure was an early-pandemic estimate, and Step-Up notes that later sequelae are still not fully characterised.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 543,
+       "page": 521
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 920,
+       "page": 920
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.s5",
+   "title": "Management",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Care is **largely supportive**, with **supplemental oxygen** at its centre. Drug treatment is matched to severity and to whether the patient needs oxygen. Corticosteroids, antivirals such as remdesivir and monoclonal antibodies are used in **selected** patients.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 920,
+       "page": 920
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 422,
+       "page": 422
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Treatment ladder by severity",
+     "columns": [
+      "Situation",
+      "Approach"
+     ],
+     "rows": [
+      [
+       "Mild disease, low risk",
+       "Manage **at home**: isolation, monitoring and symptom relief (antipyretics, analgesics, antitussives, fluids)"
+      ],
+      [
+       "Not hospitalised but at **high risk** of severe disease",
+       "**Neutralising monoclonal antibodies** or oral antivirals (**Paxlovid**, **molnupiravir**)"
+      ],
+      [
+       "Hospitalised and needing **supplemental oxygen**",
+       "**Dexamethasone**, with or without **remdesivir**"
+      ],
+      [
+       "Mechanical ventilation or ECMO (or oxygen needs rising fast before intubation)",
+       "Dexamethasone **plus** an **IL-6 blocker** (tocilizumab, sarilumab) **or** a **JAK inhibitor** (baricitinib, tofacitinib)"
+      ],
+      [
+       "All hospitalised patients",
+       "**Anticoagulation**: prophylactic or therapeutic dose chosen by severity and risk"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 900,
+       "page": 900
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 422,
+       "page": 422
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Key drug facts",
+     "items": [
+      "**Dexamethasone** lowers **28-day mortality** in patients receiving oxygen for COVID-19 pneumonia.",
+      "**Remdesivir** works by inhibiting the **viral RNA polymerase**.",
+      "IL-6 blockers and JAK inhibitors target the **inflammatory (cytokine storm)** phase, not the virus.",
+      "Severe cases need **inpatient care**; the older textbooks manage severe coronavirus pneumonia (MERS) supportively in an airborne infection isolation room."
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 185,
+       "page": 185
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 422,
+       "page": 422
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 899,
+       "page": 899
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 900,
+       "page": 900
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 271,
+       "page": 249
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "The step that triggers **dexamethasone** is **needing oxygen**. Steroid benefit was shown in patients on oxygen, and the treatment ladder reserves it for hospitalised patients on supplemental O2 or more.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Pulmonary",
+       "pdfPage": 185,
+       "page": 185
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 422,
+       "page": 422
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Davidson’s 24e and Kumar give **no COVID-specific drugs**; their only advice for severe coronavirus pneumonia is supportive care with isolation. The drug ladder above comes from US guideline-based quick sources and is **time-sensitive**, so follow your current course guidance for exact choices and doses.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 271,
+       "page": 249
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 422,
+       "page": 422
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 543,
+       "page": 521,
+       "chapter": "Infectious disease"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.s6",
+   "title": "Vaccination",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "COVID-19 vaccines",
+     "items": [
+      "**Vaccination is the key prevention strategy.** Several formulations exist, including **mRNA vaccines**.",
+      "The vaccines target the viral **spike protein** and are highly effective.",
+      "Their main effect is to **reduce severity**: breakthrough infection still happens but is much milder.",
+      "First Aid (US guidance at the time of writing) recommends vaccination for **everyone aged 6 months and older**; dose number, spacing and boosters differ by manufacturer (e.g. Pfizer-BioNTech, Moderna, Janssen/J&J).",
+      "Particularly important for the **elderly** and those with **significant comorbidities**; listed alongside **influenza and pneumococcal** vaccines for pneumonia prevention."
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 920,
+       "page": 920
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 423,
+       "page": 423
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 900,
+       "page": 900
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Epidemiology",
+       "pdfPage": 258,
+       "page": 258
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 900,
+       "page": 900
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "General immunisation principles (Davidson)",
+     "columns": [
+      "Type",
+      "How it works",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "Active immunisation",
+       "Vaccine of whole organisms (live attenuated or inactivated) or components (proteins, polysaccharides)",
+       "**Live vaccines** give T-cell and antibody responses and are more immunogenic than inactivated whole-cell vaccines, but are generally **avoided in the immunocompromised**"
+      ],
+      [
+       "Passive immunisation",
+       "Ready-made antibodies given to the patient",
+       "Protection is **immediate but short** (weeks to months); carries the **risks of blood products**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Principles of infectious disease",
+       "pdfPage": 136,
+       "page": 114
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Exam framing: COVID-19 vaccines **reduce severe disease** far more reliably than they prevent infection, so a vaccinated person with mild COVID-19 is a vaccine success, not a failure.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 900,
+       "page": 900
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 423,
+       "page": 423
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Vaccine products, age thresholds and booster schedules come from a fast-changing US schedule (First Aid gives them \"at the time of writing\", beside a 2021 CDC schedule). Learn the principles (spike-protein target, severity reduction, priority for older and comorbid patients) rather than brand-specific schedules.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "chapter": "Epidemiology",
+       "pdfPage": 258,
+       "page": 258
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 920,
+       "page": 920
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.s7",
+   "title": "Preventive and infection-control measures",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Personal and community prevention",
+     "items": [
+      "**Physical distancing** (about 6 feet) and avoiding crowds",
+      "**Mask** wearing",
+      "**Handwashing** or alcohol hand sanitiser, and less hand-to-face contact",
+      "Good indoor **ventilation**",
+      "Quarantine and isolation according to current public-health guidance"
+     ],
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 900,
+       "page": 900
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 423,
+       "page": 423
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Isolation precautions (Davidson Box 6.9)",
+     "columns": [
+      "Type",
+      "Main measures"
+     ],
+     "rows": [
+      [
+       "Droplet",
+       "Private room (or patients at least 1 m apart); **surgical mask** for staff in close contact"
+      ],
+      [
+       "Contact",
+       "Private room preferred; **gloves and gown** for contact with the patient or contaminated areas"
+      ],
+      [
+       "Airborne",
+       "**Negative-pressure room** with air exhausted outside or filtered; **N95 respirators** for staff; avoid non-immune staff"
+      ],
+      [
+       "Multiple (airborne + contact + droplet)",
+       "Used for **SARS**, viral haemorrhagic fever, smallpox and adenovirus pneumonia"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Principles of infectious disease",
+       "pdfPage": 135,
+       "page": 113
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "In the hospital",
+     "items": [
+      "Staff caring for COVID-19 patients wear **gown, gloves and eye protection**; an **N95 mask is mandatory for aerosol-generating procedures**.",
+      "Severe coronavirus pneumonia (MERS) is managed in an **airborne infection isolation room** with contact and airborne precautions and full PPE.",
+      "**Hand hygiene** is the single most important IPC measure: before and after every patient contact; alcohol rub is usually enough, but use **soap and water** if hands are visibly soiled. A full wash takes **40–60 seconds**.",
+      "Follow the WHO **\"Five Moments\"** for hand hygiene and communicate infection status when transferring patients.",
+      "The wider IPC bundle: staff education, PPE, **immunisation of health workers**, environmental cleaning, specialised ventilation, surveillance and isolation.",
+      "Early symptoms are non-specific, so staff must stay alert; scrupulous infection control limited spread in the 2003 SARS outbreak."
+     ],
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 900,
+       "page": 900
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 271,
+       "page": 249
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Principles of infectious disease",
+       "pdfPage": 134,
+       "page": 112
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Principles of infectious disease",
+       "pdfPage": 135,
+       "page": 113
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 529,
+       "page": 507
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Public health",
+     "items": [
+      "COVID-19 is a **reportable disease**: clinicians must notify public-health authorities.",
+      "Davidson lists **SARS and MERS-CoV** as notifiable because they are novel or growing threats to health.",
+      "A **pandemic** is an epidemic spread over several countries or continents that affects a large share of the population.",
+      "Strong **surveillance** picks up emerging pathogens early and guides outbreak control."
+     ],
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "chapter": "Ethics",
+       "pdfPage": 284,
+       "page": 284
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Principles of infectious disease",
+       "pdfPage": 136,
+       "page": 114
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Public health",
+       "pdfPage": 318,
+       "page": 293
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Principles of infectious disease",
+      "pdfPage": 135,
+      "page": 113,
+      "figure": "Fig. 6.13"
+     },
+     "note": "Look at: the WHO hand-washing steps, and the areas most often missed (fingertips, web spaces, palmar creases, backs of hands)."
+    },
+    {
+     "type": "pitfall",
+     "text": "A **surgical mask** is a droplet precaution. For **aerosol-generating procedures** (e.g. intubation) on a COVID-19 patient, staff need an **N95 respirator** plus gown, gloves and eye protection.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "chapter": "Pulmonary",
+       "pdfPage": 900,
+       "page": 900
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Principles of infectious disease",
+       "pdfPage": 135,
+       "page": 113
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "id-covid19.c1",
+   "sectionId": "id-covid19.s1",
+   "front": "Which virus causes COVID-19, and when and where was it first identified?",
+   "back": "**SARS-CoV-2**, a novel coronavirus, identified in **December 2019** in **Wuhan, China**.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 543,
+     "page": 521
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 899,
+     "page": 899
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.c2",
+   "sectionId": "id-covid19.s1",
+   "front": "Structure of coronaviruses?",
+   "back": "**Enveloped RNA viruses** with helical symmetry, about 80–220 nm.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 536,
+     "page": 514
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 899,
+     "page": 899
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.c3",
+   "sectionId": "id-covid19.s1",
+   "front": "Which three human coronaviruses cause life-threatening lower respiratory infection?",
+   "back": "**SARS-CoV** (2002–03), **MERS-CoV** (2012) and **SARS-CoV-2** (2019).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 542,
+     "page": 520
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 899,
+     "page": 899
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.c4",
+   "sectionId": "id-covid19.s2",
+   "front": "Main route of SARS-CoV-2 transmission?",
+   "back": "Person to person through **respiratory droplets/particles** at close range; asymptomatic and pre-symptomatic spread occurs.",
+   "cites": [
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 919,
+     "page": 919
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.c5",
+   "sectionId": "id-covid19.s2",
+   "front": "Incubation period of COVID-19?",
+   "back": "**2–14 days**, average about **5 days** (median 4–5).",
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 899,
+     "page": 899
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.c6",
+   "sectionId": "id-covid19.s3",
+   "front": "Which loss-of-sense symptoms are common in COVID-19?",
+   "back": "**Anosmia** (loss of smell) and **ageusia** (loss of taste).",
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 899,
+     "page": 899
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.c7",
+   "sectionId": "id-covid19.s3",
+   "front": "Most sensitive diagnostic test for COVID-19, and the best specimen?",
+   "back": "**RT-PCR (NAAT)** on a **nasopharyngeal swab**.",
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 899,
+     "page": 899
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 920,
+     "page": 920
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.c8",
+   "sectionId": "id-covid19.s3",
+   "front": "Most common laboratory abnormality in hospitalised COVID-19?",
+   "back": "**Lymphopenia** (also thrombocytopenia, raised D-dimer, CRP, LDH, transaminases).",
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 900,
+     "page": 900
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 920,
+     "page": 920
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.c9",
+   "sectionId": "id-covid19.s3",
+   "front": "Typical CT chest pattern in COVID-19 pneumonia?",
+   "back": "Bilateral, **peripheral ground-glass opacities**, often posterior lower lobes, with consolidation and air bronchograms.",
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 899,
+     "page": 899
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 900,
+     "page": 900
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.c10",
+   "sectionId": "id-covid19.s4",
+   "front": "What is \"silent hypoxia\" in COVID-19?",
+   "back": "Acute **hypoxic respiratory failure without breathlessness**.",
+   "cites": [
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 919,
+     "page": 919
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.c11",
+   "sectionId": "id-covid19.s4",
+   "front": "Kidney complications of COVID-19?",
+   "back": "**AKI in ~17% of inpatients**, mostly **ATN**; less often **collapsing FSGS** (APOL1 high-risk genotype).",
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Nephrology",
+     "pdfPage": 302,
+     "page": 302
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Nephrology",
+     "pdfPage": 314,
+     "page": 314
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.c12",
+   "sectionId": "id-covid19.s5",
+   "front": "Which hospitalised COVID-19 patients get dexamethasone, and why?",
+   "back": "Those needing **supplemental oxygen** (or more); it **reduces 28-day mortality**.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 185,
+     "page": 185
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.c13",
+   "sectionId": "id-covid19.s5",
+   "front": "Mechanism of remdesivir?",
+   "back": "Inhibits the **viral RNA polymerase**.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.c14",
+   "sectionId": "id-covid19.s6",
+   "front": "Target and main benefit of COVID-19 vaccines?",
+   "back": "Target the **spike protein**; mainly **reduce severity** (breakthrough infection is milder).",
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 423,
+     "page": 423
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 900,
+     "page": 900
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.c15",
+   "sectionId": "id-covid19.s7",
+   "front": "PPE for an aerosol-generating procedure on a COVID-19 patient?",
+   "back": "**N95 respirator** plus gown, gloves and eye protection.",
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 900,
+     "page": 900
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.c16",
+   "sectionId": "id-covid19.s7",
+   "front": "Single most important infection prevention and control measure?",
+   "back": "**Hand hygiene**, before and after every patient contact.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Principles of infectious disease",
+     "pdfPage": 134,
+     "page": 112
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Principles of infectious disease",
+     "pdfPage": 135,
+     "page": 113
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "id-covid19.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A medical student is revising the 2019 outbreak of severe respiratory illness that began in Wuhan, China, and spread worldwide within months.",
+   "leadIn": "What type of organism is the causative agent?",
+   "options": [
+    "Enveloped RNA virus",
+    "Non-enveloped DNA virus",
+    "Segmented negative-strand RNA virus of the orthomyxovirus family",
+    "Intracellular bacterium lacking a cell wall",
+    "Dimorphic fungus"
+   ],
+   "answer": 0,
+   "explanation": "The agent is **SARS-CoV-2**, a coronavirus. Coronaviruses are **enveloped RNA viruses** with helical symmetry.",
+   "whyNot": [
+    "",
+    "Adenoviruses are non-enveloped DNA viruses; coronaviruses carry RNA and have an envelope.",
+    "This describes influenza, not a coronavirus.",
+    "This describes Mycoplasma, a cause of atypical pneumonia but not of COVID-19.",
+    "Fungi did not cause the 2019 pandemic."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 536,
+     "page": 514
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 543,
+     "page": 521
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 30-year-old man has 3 days of sneezing, a blocked nose and a mild sore throat. A respiratory viral panel detects coronavirus OC43. He is worried because he has heard coronaviruses cause pandemics.",
+   "leadIn": "What is the best description of this infection?",
+   "options": [
+    "A short, mild upper respiratory infection like a rhinovirus cold",
+    "A notifiable infection needing airborne isolation",
+    "An early stage of severe acute respiratory syndrome",
+    "A zoonosis acquired from camels",
+    "An infection likely to progress to ARDS within a week"
+   ],
+   "answer": 0,
+   "explanation": "OC43 is a **seasonal coronavirus** that causes the **common cold**. Only SARS-CoV, MERS-CoV and SARS-CoV-2 cause life-threatening lower respiratory disease.",
+   "whyNot": [
+    "",
+    "Notification and enhanced isolation apply to the novel coronaviruses (SARS, MERS, COVID-19), not to seasonal OC43.",
+    "SARS is caused by SARS-CoV, a distinct virus that has not circulated naturally since 2003.",
+    "Camel contact is linked to MERS-CoV.",
+    "Seasonal coronaviruses cause self-limiting colds, not ARDS."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 542,
+     "page": 520
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 421,
+     "page": 421
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 541,
+     "page": 519
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A household contact of a woman with confirmed COVID-19 asks how the virus mainly spreads.",
+   "leadIn": "What is the main route of transmission?",
+   "options": [
+    "Respiratory droplets and particles during close contact",
+    "Faecal–oral spread from contaminated water",
+    "Bites from infected mosquitoes",
+    "Blood-borne spread through shared needles",
+    "Ingestion of undercooked meat"
+   ],
+   "answer": 0,
+   "explanation": "SARS-CoV-2 spreads mainly **person to person** via **respiratory droplets/particles**, especially at close range.",
+   "whyNot": [
+    "",
+    "Faecal–oral spread is the route of enteric infections such as typhoid or norovirus.",
+    "Mosquitoes transmit malaria, dengue and Zika.",
+    "Blood-borne spread applies to HIV and hepatitis B/C.",
+    "Ingestion of undercooked meat is not how COVID-19 spreads; camel products are a MERS concern."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s2"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 919,
+     "page": 919
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A nurse had close unprotected contact with a patient who was later confirmed to have COVID-19. She feels well 3 days after the exposure.",
+   "leadIn": "What is the typical incubation period of COVID-19?",
+   "options": [
+    "2–14 days, averaging about 5 days",
+    "12–24 hours",
+    "2–7 days, never longer",
+    "3–6 weeks",
+    "2–6 months"
+   ],
+   "answer": 0,
+   "explanation": "The incubation period is **2–14 days**, with an average of about **5 days** (median 4–5). Being well at day 3 does not exclude infection.",
+   "whyNot": [
+    "",
+    "Too short: this suits toxin-mediated food poisoning.",
+    "This is Davidson’s figure for the 2003 SARS coronavirus, not SARS-CoV-2.",
+    "Too long; this suits infections such as hepatitis A.",
+    "Far too long for any acute respiratory virus."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s2"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 899,
+     "page": 899
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Principles of infectious disease",
+     "pdfPage": 133,
+     "page": 111
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 34-year-old teacher has 2 days of fever, dry cough and muscle aches. She says food tastes of nothing and she cannot smell coffee.",
+   "leadIn": "Which infection is most likely?",
+   "options": [
+    "COVID-19",
+    "Streptococcal pharyngitis",
+    "Infectious mononucleosis",
+    "Legionella pneumonia",
+    "Pulmonary tuberculosis"
+   ],
+   "answer": 0,
+   "explanation": "**Anosmia and ageusia** with fever and cough are characteristic of **COVID-19**.",
+   "whyNot": [
+    "",
+    "Streptococcal pharyngitis causes a painful throat and exudate, not loss of smell and taste.",
+    "Glandular fever gives sore throat, lymphadenopathy and fatigue rather than anosmia.",
+    "Legionella causes severe pneumonia, often with confusion and GI upset, not anosmia.",
+    "TB has a subacute course with weight loss and night sweats."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s3"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 899,
+     "page": 899
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 70-year-old man is admitted with fever, cough and hypoxia. A rapid antigen test is negative. COVID-19 is still suspected.",
+   "leadIn": "Which test is most sensitive for confirming the diagnosis?",
+   "options": [
+    "RT-PCR on a nasopharyngeal swab",
+    "Repeat rapid antigen test on a throat swab",
+    "Serum D-dimer",
+    "Chest X-ray",
+    "Blood cultures"
+   ],
+   "answer": 0,
+   "explanation": "**NAAT (RT-PCR)** on a **nasopharyngeal** sample is the most sensitive test. Rapid antigen tests are quicker but less sensitive.",
+   "whyNot": [
+    "",
+    "Antigen testing is less sensitive than PCR whatever the site, so a negative result does not settle it.",
+    "D-dimer is often raised in COVID-19 but is non-specific and not diagnostic.",
+    "The X-ray may be normal early and its changes are not specific.",
+    "Blood cultures look for bacteraemia, not a respiratory virus."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s3"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 899,
+     "page": 899
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 920,
+     "page": 920
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 62-year-old woman with COVID-19 is chatting comfortably on the ward and denies breathlessness. Her oxygen saturation is 86% on room air.",
+   "leadIn": "Which complication does this illustrate?",
+   "options": [
+    "Hypoxic respiratory failure without dyspnoea",
+    "Pulmonary embolism",
+    "Anxiety-related hyperventilation",
+    "Guillain–Barré syndrome",
+    "Bacterial superinfection"
+   ],
+   "answer": 0,
+   "explanation": "COVID-19 can cause **acute hypoxic respiratory failure without breathlessness** (\"silent hypoxia\").",
+   "whyNot": [
+    "",
+    "PE is a recognised complication but typically presents with sudden breathlessness or pleuritic pain; nothing here points to it.",
+    "Hyperventilation does not cause a saturation of 86%.",
+    "GBS causes ascending weakness, not isolated hypoxia.",
+    "Nothing here suggests a new bacterial infection."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s4"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 919,
+     "page": 919
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 58-year-old man admitted with severe COVID-19 develops a rising creatinine and falling urine output on day 6.",
+   "leadIn": "What is the most common renal lesion in COVID-19-associated AKI?",
+   "options": [
+    "Acute tubular necrosis",
+    "Collapsing focal segmental glomerulosclerosis",
+    "Membranous nephropathy",
+    "Post-streptococcal glomerulonephritis",
+    "Renal artery stenosis"
+   ],
+   "answer": 0,
+   "explanation": "COVID-associated AKI affects about **17% of inpatients** and is usually **ATN**; collapsing FSGS is less common.",
+   "whyNot": [
+    "",
+    "Collapsing FSGS occurs, mainly with a high-risk APOL1 genotype, but is less common than ATN.",
+    "Membranous nephropathy is not a typical COVID lesion.",
+    "Post-streptococcal GN follows streptococcal infection.",
+    "Renal artery stenosis is a chronic vascular lesion, not an acute viral complication."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s4"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Nephrology",
+     "pdfPage": 302,
+     "page": 302
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Nephrology",
+     "pdfPage": 314,
+     "page": 314
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 66-year-old man is admitted with COVID-19 pneumonia. His saturation is 89% on air and he is started on supplemental oxygen. He is not ventilated.",
+   "leadIn": "Which drug has been shown to reduce 28-day mortality in this situation?",
+   "options": [
+    "Dexamethasone",
+    "Oseltamivir",
+    "Azithromycin",
+    "Tocilizumab alone without a steroid",
+    "Molnupiravir"
+   ],
+   "answer": 0,
+   "explanation": "In patients needing **oxygen** for COVID-19 pneumonia, **dexamethasone** lowers 28-day mortality and is the backbone of inpatient treatment.",
+   "whyNot": [
+    "",
+    "Oseltamivir is a neuraminidase inhibitor for influenza.",
+    "Antibiotics do not treat the virus; there is no sign of bacterial infection.",
+    "IL-6 blockers are added to dexamethasone in ventilated patients or those deteriorating fast, not given instead of it.",
+    "Molnupiravir is an oral antiviral for high-risk patients who are not in hospital."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s5"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 185,
+     "page": 185
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A pharmacology tutor asks how remdesivir acts against SARS-CoV-2.",
+   "leadIn": "What is its mechanism of action?",
+   "options": [
+    "Inhibition of the viral RNA polymerase",
+    "Blockade of the interleukin-6 receptor",
+    "Inhibition of Janus kinase signalling",
+    "Inhibition of viral neuraminidase",
+    "Neutralisation of the spike protein by antibody"
+   ],
+   "answer": 0,
+   "explanation": "**Remdesivir** inhibits the **viral RNA polymerase**, blocking viral replication.",
+   "whyNot": [
+    "",
+    "This is tocilizumab or sarilumab.",
+    "This is baricitinib or tofacitinib.",
+    "This is oseltamivir in influenza.",
+    "This describes neutralising monoclonal antibodies."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s5"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 72-year-old woman with diabetes asks what COVID-19 vaccination mainly achieves.",
+   "leadIn": "What is the main benefit of vaccination?",
+   "options": [
+    "It greatly reduces the severity of illness",
+    "It makes later infection impossible",
+    "It treats an established infection",
+    "It replaces the need for hand hygiene in hospitals",
+    "It works only if given within 48 hours of exposure"
+   ],
+   "answer": 0,
+   "explanation": "COVID-19 vaccines target the **spike protein**. They are highly effective, mainly by **reducing severe illness**; breakthrough infections still occur but are milder.",
+   "whyNot": [
+    "",
+    "Breakthrough infection still occurs.",
+    "Vaccines prevent disease; they are not a treatment.",
+    "Hand hygiene remains the key IPC measure.",
+    "The 48-hour window applies to influenza antivirals, not vaccination."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s6"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 423,
+     "page": 423
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 900,
+     "page": 900
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A patient is given ready-made antibodies against a pathogen after an exposure.",
+   "leadIn": "Which statement about this type of immunisation is correct?",
+   "options": [
+    "Protection is immediate but lasts only weeks to months",
+    "It produces lifelong memory T-cell immunity",
+    "It is a live attenuated vaccine",
+    "It must be avoided in all immunocompromised patients",
+    "It carries no risk because no blood products are involved"
+   ],
+   "answer": 0,
+   "explanation": "This is **passive immunisation**: protection starts at once but lasts only **weeks to months**, and because the antibodies come from blood it carries **blood-product risks**.",
+   "whyNot": [
+    "",
+    "Lasting memory responses come from active immunisation.",
+    "Live attenuated vaccines are a form of active immunisation.",
+    "It is live vaccines, not antibodies, that are generally avoided in the immunocompromised.",
+    "The antibodies are derived from blood, so blood-product risks apply."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Principles of infectious disease",
+     "pdfPage": 136,
+     "page": 114
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A junior doctor is about to intubate a patient with confirmed COVID-19.",
+   "leadIn": "Which respiratory protection is required?",
+   "options": [
+    "N95 respirator",
+    "Surgical mask",
+    "Cloth face covering",
+    "Face shield alone",
+    "No mask if gloves and gown are worn"
+   ],
+   "answer": 0,
+   "explanation": "Intubation is an **aerosol-generating procedure**, so an **N95** respirator is mandatory, with gown, gloves and eye protection.",
+   "whyNot": [
+    "",
+    "A surgical mask is a droplet precaution and does not protect against aerosols.",
+    "Cloth coverings are a community measure, not health-care PPE.",
+    "Eye protection is needed as well as, not instead of, a respirator.",
+    "Gloves and gown do not protect the airway."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s7"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 900,
+     "page": 900
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Principles of infectious disease",
+     "pdfPage": 135,
+     "page": 113
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "Hospital managers want to prioritise one measure to reduce health care–associated spread of respiratory viruses.",
+   "leadIn": "Which measure does Davidson rank most important?",
+   "options": [
+    "Hand hygiene",
+    "Routine antibiotic prophylaxis",
+    "Annual chest X-rays for staff",
+    "Closing the hospital to visitors permanently",
+    "Daily temperature checks for staff"
+   ],
+   "answer": 0,
+   "explanation": "Davidson names **good hand hygiene** as the most important IPC measure: before and after every patient contact, using alcohol rub, or soap and water if hands are visibly soiled.",
+   "whyNot": [
+    "",
+    "Antibiotics do nothing against viruses and promote resistance.",
+    "Chest X-ray screening is not an IPC measure for respiratory viruses.",
+    "This is not part of standard IPC measures.",
+    "Symptom checks miss pre-symptomatic spread and are not ranked first."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Principles of infectious disease",
+     "pdfPage": 134,
+     "page": 112
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Principles of infectious disease",
+     "pdfPage": 135,
+     "page": 113
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A healthy 25-year-old man had a mild cold-like illness and tested positive for SARS-CoV-2. He asks how his flatmate, who never had symptoms, could have infected him.",
+   "leadIn": "Which statement best explains this?",
+   "options": [
+    "Asymptomatic and pre-symptomatic people can transmit SARS-CoV-2",
+    "SARS-CoV-2 spreads only from symptomatic patients",
+    "He must have caught it from an animal reservoir",
+    "Infection can only be acquired in hospitals",
+    "Transmission requires blood contact"
+   ],
+   "answer": 0,
+   "explanation": "SARS-CoV-2 can spread from people who are **asymptomatic or not yet symptomatic**, which is why symptom-based isolation alone is not enough.",
+   "whyNot": [
+    "",
+    "This is the misconception the question targets.",
+    "Spread is overwhelmingly person to person; the animal source is uncertain.",
+    "Community spread is the norm.",
+    "It is a respiratory, not blood-borne, infection."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s2"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 919,
+     "page": 919
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 67-year-old man with COVID-19 is admitted. Which blood result is the single most common laboratory abnormality in such patients?",
+   "leadIn": "Choose the most likely finding.",
+   "options": [
+    "Lymphopenia",
+    "Neutrophilia",
+    "Eosinophilia",
+    "Polycythaemia",
+    "Hypercalcaemia"
+   ],
+   "answer": 0,
+   "explanation": "**Lymphopenia** is the commonest lab abnormality in hospitalised COVID-19, often with thrombocytopenia and raised D-dimer, CRP and LDH.",
+   "whyNot": [
+    "",
+    "Neutrophilia suggests bacterial infection and is not the classic COVID-19 finding.",
+    "Eosinophilia points to parasites or allergy.",
+    "COVID-19 does not raise the haemoglobin.",
+    "Hypercalcaemia is not a recognised COVID-19 laboratory feature."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s3"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 900,
+     "page": 900
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 920,
+     "page": 920
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 55-year-old woman with COVID-19 has a CT chest.",
+   "leadIn": "Which pattern is most typical?",
+   "options": [
+    "Bilateral peripheral ground-glass opacities in the lower lobes",
+    "A single upper-lobe cavity",
+    "Unilateral lobar consolidation with a large pleural effusion",
+    "Bilateral hilar lymphadenopathy only",
+    "Honeycombing at the bases"
+   ],
+   "answer": 0,
+   "explanation": "CT typically shows **multifocal, bilateral, peripheral ground-glass opacities**, often **posterior lower lobe**, with consolidation and air bronchograms.",
+   "whyNot": [
+    "",
+    "Upper-lobe cavitation suggests tuberculosis.",
+    "Unilateral lobar consolidation with effusion suggests bacterial pneumonia.",
+    "Isolated hilar nodes suggest sarcoidosis or lymphoma.",
+    "Honeycombing indicates established pulmonary fibrosis."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s3"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 899,
+     "page": 899
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 900,
+     "page": 900
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q18",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "A 60-year-old man with COVID-19 is on dexamethasone and oxygen. Over 12 hours his oxygen needs rise sharply and he is moved to ICU, where he is intubated.",
+   "leadIn": "Which drug class should be added to dexamethasone?",
+   "options": [
+    "An interleukin-6 receptor blocker such as tocilizumab",
+    "A neuraminidase inhibitor",
+    "A broad-spectrum antifungal",
+    "A second corticosteroid at high dose",
+    "An oral antiviral such as molnupiravir"
+   ],
+   "answer": 0,
+   "explanation": "In ventilated patients (or those whose oxygen needs rise rapidly), **dexamethasone plus an IL-6 blocker** (tocilizumab, sarilumab) or a **JAK inhibitor** (baricitinib, tofacitinib) targets the inflammatory phase.",
+   "whyNot": [
+    "",
+    "Neuraminidase inhibitors treat influenza.",
+    "There is no evidence of fungal infection.",
+    "A second steroid is not part of the ladder.",
+    "Molnupiravir is for high-risk patients who are not in hospital."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s5"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 899,
+     "page": 899
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q19",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 64-year-old man admitted with COVID-19 develops sudden pleuritic chest pain, tachycardia and a further fall in saturation on day 9.",
+   "leadIn": "Which complication is most likely?",
+   "options": [
+    "Pulmonary embolism",
+    "Spontaneous bacterial peritonitis",
+    "Aortic stenosis",
+    "Pneumococcal meningitis",
+    "Acute pancreatitis"
+   ],
+   "answer": 0,
+   "explanation": "COVID-19 carries a **high rate of thrombosis**, including **pulmonary embolism**, which is why inpatients are anticoagulated.",
+   "whyNot": [
+    "",
+    "SBP complicates ascites in cirrhosis.",
+    "Aortic stenosis is a chronic valve lesion.",
+    "Meningitis presents with headache, neck stiffness and fever.",
+    "Pancreatitis causes epigastric pain radiating to the back."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s4"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 899,
+     "page": 899
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q20",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A ward is caring for a patient with COVID-19 who is not undergoing any aerosol-generating procedures.",
+   "leadIn": "Which PPE set fits routine care?",
+   "options": [
+    "Gown, gloves and eye protection with a mask",
+    "Gloves only",
+    "No PPE once the patient is afebrile",
+    "Lead apron and gloves",
+    "Sterile surgical gown only"
+   ],
+   "answer": 0,
+   "explanation": "First Aid lists **gown, gloves and eye protection** for staff caring for COVID-19 patients; a mask covers droplet spread at close range (Davidson: surgical mask for close contact). An **N95** becomes mandatory only for aerosol-generating procedures.",
+   "whyNot": [
+    "",
+    "Gloves alone do not protect the face or airway.",
+    "Spread is not tied to fever, and pre-symptomatic shedding occurs.",
+    "Lead aprons are radiation protection.",
+    "A sterile gown is not the recommended PPE set."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s7"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 900,
+     "page": 900
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Principles of infectious disease",
+     "pdfPage": 135,
+     "page": 113
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q21",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A student compares the three severe human coronaviruses.",
+   "leadIn": "Which statement about SARS-CoV-2 is correct?",
+   "options": [
+    "It is more transmissible but less lethal per case than SARS-CoV",
+    "It has a higher case-fatality than MERS-CoV",
+    "It mainly spreads by the faecal–oral route",
+    "It is a DNA virus",
+    "Its animal reservoir is proven to be the dromedary camel"
+   ],
+   "answer": 0,
+   "explanation": "SARS-CoV-2 is **clearly more transmissible** than SARS-CoV but **less lethal** (early estimate 1–5%, versus ~10% for SARS and ~35% for MERS).",
+   "whyNot": [
+    "",
+    "MERS has the highest mortality, about 35%.",
+    "It spreads via respiratory droplets/particles.",
+    "Coronaviruses are RNA viruses.",
+    "Camels are the source of MERS-CoV; the SARS-CoV-2 reservoir is uncertain."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 543,
+     "page": 521
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 271,
+     "page": 249
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 526,
+     "page": 504
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q22",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A public-health lecture covers who should receive COVID-19 vaccination.",
+   "leadIn": "Which group does Step-Up highlight as particularly important to vaccinate?",
+   "options": [
+    "Older patients and those with significant comorbidities",
+    "Only healthcare workers",
+    "Only children under 5",
+    "Only people who have already had COVID-19",
+    "Only travellers to Asia"
+   ],
+   "answer": 0,
+   "explanation": "Vaccination is indicated for all patients, **especially the elderly and those with significant comorbidities**, and sits alongside influenza and pneumococcal vaccines for pneumonia prevention.",
+   "whyNot": [
+    "",
+    "Health workers are vaccinated, but the recommendation is far wider.",
+    "Recommendations cover all ages from 6 months, not just young children.",
+    "Previous infection is not the criterion.",
+    "Travel is not the basis of the recommendation."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s6"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 900,
+     "page": 900
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 920,
+     "page": 920
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Epidemiology",
+     "pdfPage": 258,
+     "page": 258
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q23",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 69-year-old man with type 2 diabetes and obesity has 5 days of fever, cough and loss of smell. Today he is breathless; saturation is 90% on air. Bloods: lymphocytes 0.6 × 10⁹/L, platelets 120 × 10⁹/L, raised D-dimer and LDH. Chest X-ray shows bilateral peripheral opacities.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "COVID-19 pneumonia",
+    "Pneumococcal lobar pneumonia",
+    "Pulmonary tuberculosis",
+    "Acute left ventricular failure",
+    "Pneumocystis pneumonia"
+   ],
+   "answer": 0,
+   "explanation": "Step 1, the history: fever and cough with **anosmia** point to COVID-19. Step 2, the risk profile: **age, diabetes and obesity** predict severe disease, and he is now hypoxic (the \"severe\" tier). Step 3, the labs: **lymphopenia** (the commonest abnormality), **thrombocytopenia**, raised **D-dimer** and **LDH** fit. Step 4, the imaging: **bilateral, peripheral** opacities are typical. Together these make **COVID-19 pneumonia** the answer; confirm with nasopharyngeal RT-PCR.",
+   "whyNot": [
+    "",
+    "Pneumococcal pneumonia gives lobar, usually unilateral consolidation and a neutrophilia, and no anosmia.",
+    "TB is subacute with weight loss and upper-lobe changes.",
+    "LVF causes bilateral changes but not fever, anosmia or lymphopenia.",
+    "PCP occurs in the immunocompromised (e.g. advanced HIV); nothing suggests that here."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s3"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 899,
+     "page": 899
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 900,
+     "page": 900
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 920,
+     "page": 920
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q24",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 74-year-old woman with COVID-19 is admitted with saturation of 88% on air and needs 2 L/min of nasal oxygen. She is not ventilated. Her eGFR is normal.",
+   "leadIn": "Which treatment plan fits best?",
+   "options": [
+    "Dexamethasone with or without remdesivir, plus anticoagulation",
+    "Home isolation with paracetamol only",
+    "Oral molnupiravir alone and discharge",
+    "Tocilizumab without a steroid",
+    "Antibiotics alone"
+   ],
+   "answer": 0,
+   "explanation": "Step 1, place her on the ladder: she is **hospitalised and needs supplemental oxygen**. Step 2, that tier means **dexamethasone ± remdesivir**; dexamethasone is the drug that lowers 28-day mortality in oxygen-requiring patients. Step 3, every admitted patient needs **anticoagulation** because of the high thrombosis rate, at a prophylactic or therapeutic dose depending on risk. Step 4, IL-6 or JAK blockade is kept for ventilated patients or rapidly rising oxygen needs.",
+   "whyNot": [
+    "",
+    "She is hypoxic and needs admission; home care is for mild disease.",
+    "Oral antivirals are for high-risk patients who are not in hospital.",
+    "IL-6 blockers are added to dexamethasone in ventilated or rapidly worsening patients, not used alone.",
+    "Antibiotics do not treat the virus."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s5"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Pulmonary",
+     "pdfPage": 185,
+     "page": 185
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 900,
+     "page": 900
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q25",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 52-year-old man arrives in the emergency department with fever, cough and hypoxia. COVID-19 is suspected while results are awaited, and he may need intubation.",
+   "leadIn": "Which infection-control approach is most appropriate?",
+   "options": [
+    "Isolate him and use gown, gloves, eye protection and an N95 respirator for aerosol-generating procedures, with strict hand hygiene",
+    "Nurse him in an open bay with standard precautions only",
+    "Wait for a positive PCR before any precautions",
+    "Use a surgical mask for intubation",
+    "Give the staff prophylactic antibiotics"
+   ],
+   "answer": 0,
+   "explanation": "Step 1, assume infectivity: early symptoms are non-specific and pre-symptomatic spread happens, so precautions start on suspicion, not on the result. Step 2, isolate the patient. Step 3, PPE: **gown, gloves and eye protection**, and an **N95** for **aerosol-generating procedures** such as intubation. Step 4, **hand hygiene** before and after every contact, the single most important IPC measure.",
+   "whyNot": [
+    "",
+    "Standard precautions in an open bay risk spread to other patients.",
+    "Waiting for the result exposes staff and patients during the delay.",
+    "A surgical mask does not protect against aerosols.",
+    "Antibiotics do not prevent viral infection."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s7"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 900,
+     "page": 900
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Principles of infectious disease",
+     "pdfPage": 134,
+     "page": 112
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Principles of infectious disease",
+     "pdfPage": 135,
+     "page": 113
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 529,
+     "page": 507
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q26",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Diagnosis and monitoring tests in suspected COVID-19",
+   "leadIn": "Match each patient below to the single best option in the list. Any option can be the answer to one item, to several items, or to none.",
+   "options": [
+    "Nasopharyngeal RT-PCR",
+    "Rapid antigen test of the anterior nares",
+    "Full blood count",
+    "Serum D-dimer",
+    "CT chest",
+    "Chest X-ray",
+    "Blood cultures",
+    "Sputum acid-fast bacilli smear",
+    "Serum procalcitonin",
+    "Urinary Legionella antigen"
+   ],
+   "items": [
+    {
+     "stem": "A 40-year-old woman with fever, cough and loss of taste needs the single most sensitive test to confirm SARS-CoV-2 infection.",
+     "answer": 0,
+     "explanation": "**RT-PCR (NAAT)** on a **nasopharyngeal** swab is the most sensitive and reliable test.",
+     "studyRef": {
+      "sectionId": "id-covid19.s3"
+     }
+    },
+    {
+     "stem": "A school wants a quick point-of-care test so a coughing pupil can be told to isolate the same day, accepting lower sensitivity.",
+     "answer": 1,
+     "explanation": "**Rapid antigen testing** gives an immediate result to allow early isolation, at the cost of sensitivity.",
+     "studyRef": {
+      "sectionId": "id-covid19.s3"
+     }
+    },
+    {
+     "stem": "A 63-year-old man with COVID-19 has an equivocal chest X-ray, and the team wants imaging that will show bilateral peripheral ground-glass change if present.",
+     "answer": 4,
+     "explanation": "**CT chest** shows the peripheral ground-glass opacities and is advised when the diagnosis is uncertain.",
+     "studyRef": {
+      "sectionId": "id-covid19.s3"
+     }
+    },
+    {
+     "stem": "A 70-year-old admitted with COVID-19: the team wants the blood test most likely to show the commonest lab abnormality of the disease.",
+     "answer": 2,
+     "explanation": "The **full blood count** shows **lymphopenia**, the commonest laboratory abnormality (often with thrombocytopenia).",
+     "studyRef": {
+      "sectionId": "id-covid19.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 899,
+     "page": 899
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 900,
+     "page": 900
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q27",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Treatment choices across the COVID-19 severity spectrum",
+   "leadIn": "Match each patient below to the single best option in the list. Any option can be the answer to one item, to several items, or to none.",
+   "options": [
+    "Home isolation and symptom relief only",
+    "Oral antiviral such as Paxlovid or molnupiravir",
+    "Dexamethasone with or without remdesivir",
+    "Dexamethasone plus tocilizumab",
+    "Prophylactic-dose anticoagulation",
+    "Oseltamivir",
+    "Broad-spectrum antibiotics",
+    "Hydroxychloroquine",
+    "Live attenuated vaccine",
+    "Passive immunisation with immunoglobulin"
+   ],
+   "items": [
+    {
+     "stem": "A fit 24-year-old with 2 days of sore throat, fever and positive PCR, saturation 98% on air.",
+     "answer": 0,
+     "explanation": "Mild disease in a low-risk patient is managed at **home** with isolation, monitoring and symptom relief.",
+     "studyRef": {
+      "sectionId": "id-covid19.s5"
+     }
+    },
+    {
+     "stem": "A 71-year-old with CKD and diabetes has mild COVID-19, saturation 96% on air, and is not admitted.",
+     "answer": 1,
+     "explanation": "Not hospitalised but **high risk** of severe disease: an oral antiviral (or neutralising antibody) is used.",
+     "studyRef": {
+      "sectionId": "id-covid19.s5"
+     }
+    },
+    {
+     "stem": "A 68-year-old admitted with COVID-19 pneumonia needs 3 L/min of oxygen.",
+     "answer": 2,
+     "explanation": "Hospitalised and needing **supplemental oxygen**: **dexamethasone ± remdesivir**.",
+     "studyRef": {
+      "sectionId": "id-covid19.s5"
+     }
+    },
+    {
+     "stem": "A 59-year-old already on dexamethasone for COVID-19 deteriorates and is intubated in ICU.",
+     "answer": 3,
+     "explanation": "Ventilated (or rapidly rising oxygen need): dexamethasone **plus an IL-6 blocker** such as tocilizumab (or a JAK inhibitor).",
+     "studyRef": {
+      "sectionId": "id-covid19.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 900,
+     "page": 900
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q28",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 45-year-old man recovering from COVID-19 develops tingling in his feet followed over 5 days by symmetrical leg weakness rising to his hips. Reflexes are absent.",
+   "leadIn": "Which complication is most likely?",
+   "options": [
+    "Guillain–Barré syndrome",
+    "Ischaemic stroke",
+    "Spinal cord compression from a metastasis",
+    "Myasthenia gravis",
+    "Hypokalaemic periodic paralysis"
+   ],
+   "answer": 0,
+   "explanation": "Ascending symmetrical weakness with **areflexia** after a viral illness is **Guillain–Barré syndrome**; COVID-19 is listed among its viral triggers.",
+   "whyNot": [
+    "",
+    "Stroke is a recognised COVID complication but gives sudden, usually one-sided deficits with brisk reflexes later.",
+    "Cord compression causes a sensory level and later upper motor neurone signs.",
+    "Myasthenia causes fatigable weakness with preserved reflexes.",
+    "Periodic paralysis is episodic and linked to potassium, not ascending sensory symptoms."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s4"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Neurology",
+     "pdfPage": 592,
+     "page": 592
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 919,
+     "page": 919
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q29",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "An infection-control nurse is explaining how respiratory viruses reach new patients on a ward. She points to a door handle and a shared ultrasound probe.",
+   "leadIn": "What is the term for these objects in transmission?",
+   "options": [
+    "Fomites",
+    "Vectors",
+    "Reservoirs",
+    "Carriers",
+    "Index cases"
+   ],
+   "answer": 0,
+   "explanation": "Inanimate objects such as door handles, taps and ultrasound probes that carry pathogens between patients are **fomites**, especially linked to health care–associated infection.",
+   "whyNot": [
+    "",
+    "Vectors are living, e.g. mosquitoes or fleas.",
+    "A reservoir is where the organism normally lives and multiplies.",
+    "A carrier is an infected person or animal, not an object.",
+    "An index case is the first identified patient in an outbreak."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Principles of infectious disease",
+     "pdfPage": 133,
+     "page": 111
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q30",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 68-year-old man who completed his COVID-19 vaccination course develops a mild cough and positive antigen test. He recovers at home within a week. He says the vaccine \"failed\".",
+   "leadIn": "Which statement best answers him?",
+   "options": [
+    "Breakthrough infection is expected; the vaccine mainly reduces severity",
+    "The vaccine was clearly given incorrectly",
+    "Vaccines protect only against bacterial pneumonia",
+    "He should be given a live attenuated vaccine instead",
+    "Infection after vaccination means he is immunodeficient"
+   ],
+   "answer": 0,
+   "explanation": "COVID-19 vaccines are highly effective but act mainly by **reducing severity**; **breakthrough infection** still occurs and is usually much milder, as here.",
+   "whyNot": [
+    "",
+    "Mild breakthrough infection does not imply a technique error.",
+    "COVID-19 vaccines target the viral spike protein.",
+    "There is no reason to switch; live vaccines also carry risks in the immunocompromised.",
+    "Breakthrough infection is common and does not by itself suggest immunodeficiency."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s6"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 423,
+     "page": 423
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 900,
+     "page": 900
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Principles of infectious disease",
+     "pdfPage": 136,
+     "page": 114
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q31",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 3,
+   "stem": "A 50-year-old man with COVID-19 on ICU has AKI. Renal biopsy shows a collapsing pattern of glomerular injury. Genetic testing shows a high-risk APOL1 genotype.",
+   "leadIn": "What is the diagnosis?",
+   "options": [
+    "Collapsing focal segmental glomerulosclerosis",
+    "Acute tubular necrosis",
+    "IgA nephropathy",
+    "Minimal change disease",
+    "Anti-GBM disease"
+   ],
+   "answer": 0,
+   "explanation": "COVID-19 is a recognised viral cause of **secondary FSGS**, typically the **collapsing** variant in people with a **high-risk APOL1 genotype**; ATN remains the more common AKI lesion overall.",
+   "whyNot": [
+    "",
+    "ATN is commoner but is a tubular, not glomerular collapsing, lesion.",
+    "IgA nephropathy shows mesangial IgA deposits.",
+    "Minimal change shows normal glomeruli on light microscopy.",
+    "Anti-GBM disease is a crescentic GN with linear IgG."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s4"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Nephrology",
+     "pdfPage": 302,
+     "page": 302
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Nephrology",
+     "pdfPage": 314,
+     "page": 314
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q32",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 36-year-old woman was exposed to a colleague with COVID-19 eleven days ago. She now has fever and cough.",
+   "leadIn": "How should the timing be interpreted?",
+   "options": [
+    "It is within the incubation period, so COVID-19 is possible",
+    "It is too long after exposure for COVID-19",
+    "It is too short for COVID-19, which takes at least 3 weeks",
+    "Only symptoms within 24 hours of exposure are relevant",
+    "Incubation is irrelevant because COVID-19 is always asymptomatic"
+   ],
+   "answer": 0,
+   "explanation": "The incubation of SARS-CoV-2 runs **up to 14 days** (average about 5), so symptoms on day 11 still fit.",
+   "whyNot": [
+    "",
+    "Day 11 is inside the 2–14 day window.",
+    "Incubation is usually around 5 days, not weeks.",
+    "Symptoms within 24 hours would be unusually early.",
+    "Many infections are symptomatic; illness ranges from none to critical."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s2"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pulmonary",
+     "pdfPage": 899,
+     "page": 899
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q33",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 65-year-old man returns from the Arabian Peninsula, where he visited a camel farm and drank raw camel milk. Ten days later he develops fever, cough, diarrhoea and rapidly worsening respiratory failure.",
+   "leadIn": "Which coronavirus is most likely?",
+   "options": [
+    "MERS-CoV",
+    "SARS-CoV-2",
+    "Coronavirus 229E",
+    "Coronavirus OC43",
+    "SARS-CoV (2003 strain)"
+   ],
+   "answer": 0,
+   "explanation": "Camel contact in the **Arabian Peninsula**, prominent diarrhoea and rapid respiratory failure in an older man point to **MERS-CoV**, a zoonosis passing from bats to camels to humans, with about 35% mortality.",
+   "whyNot": [
+    "",
+    "SARS-CoV-2 spreads person to person and has no established camel link.",
+    "229E causes the common cold.",
+    "OC43 causes the common cold.",
+    "SARS-CoV has not caused natural infection since 2003."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 271,
+     "page": 249
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Public health",
+     "pdfPage": 318,
+     "page": 293
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 543,
+     "page": 521
+    }
+   ]
+  },
+  {
+   "id": "id-covid19.q34",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A clinician diagnoses COVID-19 in a 48-year-old patient during a pandemic and asks about legal duties.",
+   "leadIn": "What is the correct action?",
+   "options": [
+    "Notify the public-health authorities, as COVID-19 is a reportable disease",
+    "Notify only if the patient dies",
+    "Notify only with the patient’s written consent",
+    "No notification is needed for viral infections",
+    "Report only to the patient’s employer"
+   ],
+   "answer": 0,
+   "explanation": "COVID-19 is a **reportable (notifiable) infectious disease**; clinicians have a duty to notify public-health officials.",
+   "whyNot": [
+    "",
+    "Notification applies to cases, not only deaths.",
+    "Statutory notification does not depend on consent.",
+    "Many viral diseases are notifiable, including SARS and MERS.",
+    "Employers are not the public-health authority."
+   ],
+   "studyRef": {
+    "sectionId": "id-covid19.s7"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Ethics",
+     "pdfPage": 284,
+     "page": 284
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Principles of infectious disease",
+     "pdfPage": 136,
+     "page": 114
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "id-covid19.o1",
+   "sectionId": "id-covid19.s3",
+   "cite": {
+    "book": "fa2ck11",
+    "chapter": "Pulmonary",
+    "pdfPage": 900,
+    "page": 900,
+    "figure": "Figure 2.14-11"
+   },
+   "identify": "CT chest in COVID-19 pneumonia: dense bilateral lower-lobe opacities with air bronchograms (typical pattern is bilateral, peripheral, posterior lower-lobe change)."
+  },
+  {
+   "id": "id-covid19.o2",
+   "sectionId": "id-covid19.s7",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Principles of infectious disease",
+    "pdfPage": 135,
+    "page": 113,
+    "figure": "Fig. 6.13"
+   },
+   "identify": "WHO hand-washing technique: name the steps and the commonly missed areas (fingertips, web spaces, palmar creases, backs of hands); a full wash takes 40–60 seconds."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:28:17.570Z",
+  "contentHash": "7a62c5076b348d44bc56140f602b15d100ddba253773cca8aa08b5f7f3ab45fb"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:28:17.581Z",
+  "contentHash": "7a62c5076b348d44bc56140f602b15d100ddba253773cca8aa08b5f7f3ab45fb",
+  "checkerVersion": "source-check-v1"
+ }
+}

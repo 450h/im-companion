@@ -10,7 +10,7 @@
 ![Code: MIT](https://img.shields.io/badge/code-MIT-blue)
 ![Content: CC BY-NC-SA 4.0](https://img.shields.io/badge/content-CC%20BY--NC--SA%204.0-lightgrey)
 
-**Status: in development.** The first release (v0.1.0) is planned for late October 2026.
+[**⬇ Download for Windows**](https://github.com/450h/im-companion/releases/latest) · all 90 blueprint topics · midterm & final plans
 
 </div>
 
@@ -33,8 +33,8 @@ This app **does not contain** any textbook, figure or question from the books it
 
 > ⚠️ **For exam study only. Not clinical guidance.** Every summary point cites its source, and each topic is checked against those pages before release. If something looks wrong, check the cited page and report it with the ⚑ button.
 
-## Install (from v0.1.0)
-1. Download `MED-222-IM-Companion-Setup-x.y.z.exe` from **Releases**.
+## Install
+1. Download `MED-222-IM-Companion-Setup-x.y.z.exe` from [**Releases**](https://github.com/450h/im-companion/releases/latest) (or the portable `.exe` if you can't install software).
 2. Windows may show *"Windows protected your PC"* because the app isn't code-signed. Click **More info → Run anyway**. You can verify the file against `SHA256SUMS.txt` first.
 3. When a new version with more content is out, the app shows a **"New version available · Download"** banner. Download the new installer and run it over the old one. Your progress is kept.
 

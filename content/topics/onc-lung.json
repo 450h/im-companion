@@ -1,0 +1,3606 @@
+{
+ "topicId": "onc-lung",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "onc-lung.s1",
+   "title": "Definition, classification and burden",
+   "objectiveIdx": [
+    0,
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Lung (bronchial) carcinoma is a **malignant epithelial tumour arising from the bronchial lining or the bronchial mucous glands**. Most tumours found in the lung are **primary** lung cancers, not deposits from elsewhere. Bronchial carcinoma makes up about **95% of primary lung tumours**. The rest are benign lesions and rarer cancers.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 621,
+       "page": 599
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 620,
+       "page": 598
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 591,
+       "page": 554
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "The two treatment groups",
+     "columns": [
+      "Group",
+      "Share",
+      "Cell of origin and behaviour",
+      "Why it matters"
+     ],
+     "rows": [
+      [
+       "Non-small-cell (NSCLC): adenocarcinoma, squamous, large-cell",
+       "~85%",
+       "Epithelial/glandular. More often found while still localised",
+       "Staged by TNM. Early disease can be resected. Subtype and driver mutations guide drug choice"
+      ],
+      [
+       "Small-cell (SCLC)",
+       "~15%",
+       "Neuroendocrine. Spreads widely early, even from a small primary",
+       "Rarely operable. Chemotherapy-sensitive. Staged as limited or extensive when inoperable"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 140,
+       "page": 119
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 195,
+       "page": 195
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 621,
+       "page": 599
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 141,
+       "page": 120
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Burden of disease (Davidson)",
+     "items": [
+      "**Commonest cause of cancer death worldwide**: about 1.59 million deaths and 1.8 million new cases each year",
+      "Commonest cancer in men",
+      "Rising in women. In the UK and USA more women now die of lung cancer than of breast cancer",
+      "Smoking and lung cancer are falling in some developed countries but rising in Eastern Europe and much of the developing world",
+      "**Over half have metastases at diagnosis**. Fewer than 30% are alive at 1 year and only **6–8% at 5 years**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 620,
+       "page": 598
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 621,
+       "page": 599
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Other sources frame the burden differently. In the US it is the **leading cause of cancer death in both sexes**. In the UK it is the **third most common cancer**, after breast and prostate. Male mortality has levelled off while female mortality still rises, and the male-to-female ratio is now about **1.2:1**.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 386,
+       "page": 386
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 108,
+       "page": 108
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 591,
+       "page": 554
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Keep two rankings apart: lung cancer is the **top cause of cancer death**, but in the UK it is only the **third most frequent cancer** by number of new cases.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 620,
+       "page": 598
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 108,
+       "page": 108
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Books quote different overall 5-year survival figures: Davidson **6–8%**, Kumar about 10%, Step-Up 14%. Davidson's 24e is the course authority, so use **6–8%** in the exam.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 620,
+       "page": 598
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 140,
+       "page": 119
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 199,
+       "page": 199
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.s2",
+   "title": "Aetiology, risk factors and pathogenesis",
+   "objectiveIdx": [
+    1,
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Cigarette smoking** is by far the biggest cause. Davidson attributes **at least 90%** of cases directly to it. Risk climbs with the **amount smoked and the tar content**, and heavy smokers have a lung cancer death rate **about 40 times** that of non-smokers. After quitting, risk falls only slowly and stays above never-smoker levels for many years. **Passive smoking** is thought to contribute to about 5% of lung cancer deaths.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 621,
+       "page": 599
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 386,
+       "page": 386
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Other risk factors",
+     "columns": [
+      "Group",
+      "Examples",
+      "Note"
+     ],
+     "rows": [
+      [
+       "Radiation",
+       "Natural **radon** (collects in basements), ionising radiation, previous radiotherapy for another cancer, beryllium and strontium mining",
+       "Radon is the classic risk for never-smokers at home"
+      ],
+      [
+       "Occupational chemicals",
+       "**Asbestos** (mining, construction, shipbuilding), polycyclic aromatic hydrocarbons, arsenic, chromium, nickel, petroleum products",
+       "Asbestos also causes mesothelioma"
+      ],
+      [
+       "Host factors",
+       "Pulmonary fibrosis, **HIV infection**, genetic susceptibility, **COPD**",
+       "COPD remains a risk factor even after allowing for smoking"
+      ],
+      [
+       "Place of residence",
+       "Urban more than rural",
+       "The excess persists after smoking is taken into account"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 621,
+       "page": 599
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 993,
+       "page": 975
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1342,
+       "page": 1320
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 386,
+       "page": 386
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 195,
+       "page": 195
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Asbestos + smoking** act **synergistically**: the combined risk is greater than the two risks added together. Asbestos-related cancers appear after a long latency of **20–40 years**.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 195,
+       "page": 195
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 386,
+       "page": 386
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 591,
+       "page": 554
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Squamous and small-cell** cancers occur almost only in smokers. **Adenocarcinoma** is the commonest type in **never-smokers**.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 386,
+       "page": 386
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 994,
+       "page": 976
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Growth and spread",
+     "items": [
+      "**Central** tumours in large bronchi cause symptoms early. **Peripheral** tumours can grow very large silently, which delays diagnosis",
+      "Peripheral squamous tumours may **necrose centrally and cavitate**, mimicking a lung abscess",
+      "Direct or lymphatic spread reaches the **pleura and chest wall**, including intercostal nerves and brachial plexus",
+      "Lymphatic spread to **mediastinal and supraclavicular nodes** often happens before diagnosis",
+      "Blood-borne metastases favour **liver, bone, brain, adrenals and skin**. Even a tiny small-cell primary can seed widely"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 621,
+       "page": 599
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Molecular and cellular basis",
+     "items": [
+      "SCLC arises from **neuroendocrine cells** whose neurosecretory granules can release hormones. This is why SCLC causes so many paraneoplastic syndromes",
+      "Virtually all SCLCs carry **RB and p53** mutations, and about 90% express neuroendocrine markers",
+      "**EGFR activating mutations** are commonest in **non-smokers, women and people of Asian origin**",
+      "**ALK fusion** is commoner in non-smokers or ex-smokers and in **younger** patients",
+      "Other targetable NSCLC drivers: ROS1, BRAF, MET, KRAS, RET and NTRK fusions",
+      "Many NSCLCs overexpress **PD-L1/PD-1**, which lets tumour cells evade immune attack. This is the basis of checkpoint-inhibitor therapy",
+      "Paraneoplastic neurology is **antibody-mediated**: antibodies raised against SCLC cells cross-react with presynaptic calcium channels (Lambert–Eaton) or neurons (anti-Hu)"
+     ],
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 108,
+       "page": 108
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 390,
+       "page": 390
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 993,
+       "page": 975
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 388,
+       "page": 388
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 141,
+       "page": 120
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 109,
+       "page": 109
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Smoking percentages vary even within Davidson. The respiratory chapter says **at least 90%** of cases. The oncology chapter says smoking accounts for **80% of cases in men and 50% in women** worldwide. Step-Up gives over 85%, and Zero to Finals says about 80% are preventable. If asked for one figure, quote Davidson's respiratory **≥90%**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 621,
+       "page": 599
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1338,
+       "page": 1316
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 194,
+       "page": 194
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 108,
+       "page": 108
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.s3",
+   "title": "Histological subtypes",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Main cell types (frequencies from Davidson)",
+     "columns": [
+      "Type",
+      "Share",
+      "Origin and usual site",
+      "Behaviour and associations"
+     ],
+     "rows": [
+      [
+       "**Adenocarcinoma**",
+       "35–40%",
+       "Mucus-secreting glandular cells. Usually **peripheral**",
+       "Commonest in never-smokers and weakest smoking link. Most linked to asbestos. EGFR/ALK drivers. Spreads to pleura, nodes, brain, bone, adrenals. Bronchoalveolar subtype: copious mucus, multifocal"
+      ],
+      [
+       "**Squamous cell**",
+       "25–30%",
+       "Bronchial epithelium, makes keratin. Usually **central**",
+       "Obstructs bronchi, causing post-obstructive infection. May **cavitate**. Local spread is common and distant spread late. PTHrP hypercalcaemia"
+      ],
+      [
+       "**Small-cell**",
+       "15%",
+       "Neuroendocrine (Kulchitsky/APUD) cells. Usually **central**",
+       "Spreads early and widely. Secretes peptide hormones (ADH, ACTH). Responds to chemotherapy but has a poor outlook"
+      ],
+      [
+       "**Large-cell**",
+       "10–15%",
+       "Poorly differentiated",
+       "Spreads relatively early"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 621,
+       "page": 599
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 994,
+       "page": 976
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 592,
+       "page": 555
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 195,
+       "page": 195
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 993,
+       "page": 975
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "The **first histological question** is always small-cell or non-small-cell, because the two are treated completely differently. Within NSCLC, the subtype and molecular testing now matter too, because some drugs work only in particular subtypes.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 195,
+       "page": 195
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 140,
+       "page": 119
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Site predicts symptoms. **Central** tumours (squamous, small-cell) give endobronchial symptoms: cough, haemoptysis, wheeze and post-obstructive pneumonia. **Peripheral** adenocarcinoma can grow silently and involve the pleura.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 387,
+       "page": 387
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 994,
+       "page": 976
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Less common lung tumours",
+     "columns": [
+      "Tumour",
+      "Nature",
+      "Typical presentation",
+      "Outlook"
+     ],
+     "rows": [
+      [
+       "Bronchial carcinoid",
+       "Low-grade malignant, neuroendocrine",
+       "Bronchial obstruction, cough",
+       "About 95% 5-year survival after resection"
+      ],
+      [
+       "Hamartoma",
+       "Benign: mesenchymal cells and cartilage",
+       "Peripheral lung nodule",
+       "Local resection is curative"
+      ],
+      [
+       "Bronchial gland adenoma",
+       "Benign, salivary-gland type",
+       "Tracheobronchial irritation or obstruction",
+       "Local resection is curative"
+      ],
+      [
+       "Bronchoalveolar carcinoma",
+       "Malignant; tumour cells line the alveoli",
+       "Alveolar shadowing, productive cough",
+       "Variable; worse if multifocal"
+      ],
+      [
+       "Adenosquamous carcinoma",
+       "Malignant, mixed differentiation",
+       "Central or peripheral mass",
+       "Depends on stage"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 625,
+       "page": 603
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Bronchial carcinoids derive from the **foregut**. They may secrete **ACTH**, but they usually lack the **5-HT** output of midgut and hindgut carcinoids. They are treated surgically and staged like NSCLC.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1000,
+       "page": 982
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Cell-type frequencies differ between books. Davidson ranks adenocarcinoma first (35–40%), then squamous (25–30%), with large-cell at 10–15% and small-cell at 15%. Kumar's oncology box: adeno 40%, squamous 35%. Kumar's UK table still puts squamous first in Europe (35%) with SCLC at 20%. Older Essentials figures rank squamous highest. Follow Davidson: **adenocarcinoma is now the commonest type**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 621,
+       "page": 599
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 140,
+       "page": 119
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 994,
+       "page": 976
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 592,
+       "page": 555
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 621,
+      "page": 599,
+      "figure": "Fig. 17.47"
+     },
+     "note": "Look at: a large thick-walled cavitating mass in the left lower lobe. This is a peripheral cancer with central necrosis, which can be confused with a lung abscess."
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.s4",
+   "title": "Clinical features: local, regional and metastatic",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Local (bronchial) effects",
+     "items": [
+      "**Cough** is the commonest early symptom. A **change in a smoker's usual cough** should raise suspicion",
+      "**Haemoptysis** in a smoker must always be investigated. A central tumour that erodes a large vessel can cause sudden fatal bleeding",
+      "**Breathlessness** comes from collapse, pneumonia, a large effusion or phrenic palsy",
+      "**Complete obstruction** collapses a lobe or lung: mediastinum pulled to that side, dull percussion, reduced breath sounds",
+      "**Partial obstruction** gives a **fixed monophonic unilateral wheeze** that coughing does not clear, plus distal pneumonia or abscess",
+      "**Stridor** means narrowing of the larynx, trachea or a main bronchus, by tumour or by subcarinal and paratracheal nodes"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 621,
+       "page": 599
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 622,
+       "page": 600
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "In a smoker, pneumonia that **recurs in the same place** or **clears slowly** is an obstructing lung cancer until proven otherwise.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 622,
+       "page": 600
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Intrathoracic spread: structure involved and what you find",
+     "columns": [
+      "Structure",
+      "Clinical result"
+     ],
+     "rows": [
+      [
+       "Pleura, ribs, intercostal nerves",
+       "Pleuritic pain, pain in a thoracic dermatome, rib destruction or fracture"
+      ],
+      [
+       "Lower brachial plexus (C8, T1): **Pancoast** apical tumour",
+       "Pain along the inner arm, wasting of the small hand muscles"
+      ],
+      [
+       "Sympathetic chain or stellate ganglion",
+       "Ipsilateral **Horner's**: partial ptosis, miosis, enophthalmos, reduced facial sweating"
+      ],
+      [
+       "**Left recurrent laryngeal nerve** (left hilar tumour or nodes)",
+       "Hoarseness and a **'bovine' cough** that has lost its explosive quality"
+      ],
+      [
+       "Phrenic nerve",
+       "Raised paralysed hemidiaphragm that moves paradoxically upward on sniffing; breathlessness"
+      ],
+      [
+       "Oesophagus",
+       "Dysphagia"
+      ],
+      [
+       "Pericardium",
+       "Pericardial effusion (enlarged cardiac shadow), arrhythmia"
+      ],
+      [
+       "Superior vena cava (usually via malignant nodes)",
+       "SVC obstruction (see below)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 622,
+       "page": 600
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 623,
+       "page": 601
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 994,
+       "page": 976
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 591,
+       "page": 554
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 387,
+       "page": 387
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Pancoast (superior sulcus) tumour** is an apical tumour, usually NSCLC. It invades the lower brachial plexus, giving shoulder and inner-arm pain and hand wasting, and may destroy ribs. **Horner's syndrome** accompanies it in about **60%**.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 196,
+       "page": 196
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 387,
+       "page": 387
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 622,
+       "page": 600
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Superior vena cava obstruction (SVCO)** is caused **most often by lung cancer**. Lymphoma, metastases, central catheters and thrombus are other causes. Expect swelling of the **face, neck and arms**, conjunctival oedema, **distended neck veins** and **dilated collateral veins** over the chest wall. Headache from cerebral oedema gets **worse on stooping, bending or lying flat**. Symptoms are worse when obstruction develops quickly, before collaterals form. **Pemberton's sign**: raising both arms above the head brings on facial congestion and cyanosis. Pocket Medicine frequencies: face or arm swelling >80%, vein distension ~60%, breathlessness or cough ~50%, headache ~10%.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 622,
+       "page": 600
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1348,
+       "page": 1326
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 109,
+       "page": 109
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 387,
+       "page": 387
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Metastatic spread",
+     "items": [
+      "**Nodes**: mediastinal, cervical, even axillary. A palpable **supraclavicular node** is often the first sign found, and needle aspiration of it is an easy route to diagnosis",
+      "**Liver**: anorexia, nausea, right upper quadrant capsular pain, jaundice",
+      "**Bone**: pain, pathological fracture, and **spinal cord compression** if the spine is involved",
+      "**Brain**: about 25% at diagnosis (Pocket Medicine). Seizures, focal deficits, personality change, raised intracranial pressure",
+      "**Adrenals**: common but usually silent, and rarely cause adrenal insufficiency",
+      "Skin nodules. **Lassitude, anorexia and weight loss** usually mean metastatic disease"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 622,
+       "page": 600
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 994,
+       "page": 976
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 387,
+       "page": 387
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 108,
+       "page": 108
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "UK campaigns flag a **cough lasting three weeks** as a reason for a chest X-ray. About 10% of patients have no symptoms and are found incidentally. Only about 16% have localised disease when they present.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 591,
+       "page": 554
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 387,
+       "page": 387
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Step-Up gives rough frequencies of local invasion: SVC syndrome 5% (more often SCLC), recurrent laryngeal palsy 3%, phrenic palsy 1%, malignant pleural effusion 10–15%. A **malignant effusion** carries a prognosis as poor as distant metastases and is staged as **M1a (stage IV)**.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 196,
+       "page": 196
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 624,
+       "page": 602
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 388,
+       "page": 388
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 622,
+      "page": 600,
+      "figure": "Fig. 17.48"
+     },
+     "note": "Look at: collapse of the whole right lung from right main bronchus obstruction. Trachea and mediastinum shift to the right, the right hemidiaphragm rises and the left lung over-expands."
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.s5",
+   "title": "Paraneoplastic (non-metastatic) syndromes",
+   "objectiveIdx": [
+    4,
+    3
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Syndromes and their usual cell type",
+     "columns": [
+      "Syndrome",
+      "Mechanism",
+      "Usual cell type",
+      "Clue"
+     ],
+     "rows": [
+      [
+       "**SIADH**",
+       "Ectopic vasopressin",
+       "**Small-cell** (about 10% of SCLC)",
+       "Hyponatraemia"
+      ],
+      [
+       "**Ectopic ACTH**",
+       "Tumour ACTH",
+       "**Small-cell** (also carcinoid)",
+       "Cushing's features"
+      ],
+      [
+       "**Hypercalcaemia**",
+       "**PTHrP** (or bone metastases)",
+       "**Squamous** NSCLC",
+       "Thirst, confusion, high calcium"
+      ],
+      [
+       "Gynaecomastia",
+       "Ectopic HCG",
+       "Any",
+       "Breast enlargement in a man"
+      ],
+      [
+       "**Lambert–Eaton**",
+       "Antibodies to presynaptic **P/Q voltage-gated Ca²⁺ channels**",
+       "**Small-cell**",
+       "Proximal weakness that **improves with exercise**"
+      ],
+      [
+       "Limbic encephalitis / encephalomyelitis",
+       "**Anti-Hu** antibodies",
+       "Small-cell (75% of encephalomyelitis)",
+       "Memory loss, confusion, hallucinations, seizures"
+      ],
+      [
+       "Cerebellar degeneration",
+       "Anti-Hu, anti-Yo, anti-Ri, anti-Tr",
+       "Small-cell mainly",
+       "Rapidly developing ataxia"
+      ],
+      [
+       "Clubbing and **HPOA**",
+       "Periostitis of distal long bones",
+       "NSCLC mainly",
+       "Painful wrists and ankles; new subperiosteal bone on X-ray"
+      ],
+      [
+       "Hypercoagulability",
+       "Thrombophlebitis migrans, NBTE, DIC",
+       "Adenocarcinoma",
+       "Recurrent venous thrombosis"
+      ],
+      [
+       "Skin",
+       "Dermatomyositis, acanthosis nigricans",
+       "Any",
+       "Rash, proximal myopathy"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 623,
+       "page": 601
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 387,
+       "page": 387
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 388,
+       "page": 388
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 197,
+       "page": 197
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 593,
+       "page": 556
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Kumar groups these by system. **Metabolic** effects (weight loss, lassitude, anorexia) are universal at some stage. **Endocrine** effects occur in about 10%, mostly small-cell. **Neurological** effects occur in 2–16%. **Vascular/haematological**, **skeletal** (clubbing, HPOA) and **cutaneous** effects make up the rest. Davidson's list adds **carcinoid syndrome, nephrotic syndrome, polymyositis and eosinophilia**. HPOA is a **painful periostitis of the distal tibia, fibula, radius and ulna**, most often seen with lung cancer.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 996,
+       "page": 978
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 623,
+       "page": 601
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 622,
+       "page": 600
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Classic pairings: **small-cell → SIADH, ectopic ACTH, Lambert–Eaton, anti-Hu**. **Squamous → PTHrP hypercalcaemia**. Neurological syndromes can occur with **any** cell type.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 623,
+       "page": 601
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Lambert–Eaton vs myasthenia gravis**: in LEMS, proximal strength **improves with repeated effort**, reflexes are reduced and onset is more insidious. EMG shows a small compound muscle action potential that **rises towards normal after exercise**. Zero to Finals says LEMS weakness worsens with prolonged use; follow Davidson. An older smoker with this picture needs a search for **small-cell cancer**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1348,
+       "page": 1326
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 197,
+       "page": 197
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 110,
+       "page": 110
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 109,
+       "page": 109
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1165,
+       "page": 1143
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A paraneoplastic syndrome can be the **first sign** of a lung cancer that is not yet visible. Also, hypercalcaemia in lung cancer is **not always PTHrP**: bone destruction by metastases can cause it too.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 109,
+       "page": 109
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 623,
+       "page": 601
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.s6",
+   "title": "Investigations, diagnosis and staging",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Investigation has three goals: **confirm the diagnosis**, establish the **cell type**, and define the **extent** of disease. Tissue confirmation is always required, whatever the imaging shows.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 623,
+       "page": 601
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 197,
+       "page": 197
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Imaging",
+     "items": [
+      "**Chest X-ray** is first-line. Davidson's eight patterns: unilateral hilar enlargement; peripheral opacity, often irregular and sometimes cavitated; lung, lobe or segment collapse; pleural effusion; paratracheal widening; enlarged cardiac shadow (pericardial effusion); raised hemidiaphragm (phrenic palsy); osteolytic rib destruction",
+      "A tumour mass typically has a fluffy or **spiculated** edge. **Lymphangitis carcinomatosa** gives streaky shadowing",
+      "**Contrast CT** of chest and upper abdomen (liver, adrenals) should be done **early**. It shows mediastinal or distant spread and plans the biopsy route",
+      "**PET-CT** shows occult but metabolically active spread, including nodal and pleural disease",
+      "Brain imaging: Davidson keeps head CT, bone scan, liver ultrasound and marrow biopsy for patients with clinical or lab evidence of spread there. US guidance (Pocket Medicine) advises brain MRI for everyone except stage IA"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 623,
+       "page": 601
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 108,
+       "page": 108
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 592,
+       "page": 555
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 624,
+       "page": 602
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 388,
+       "page": 388
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 593,
+       "page": 556
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A **normal chest X-ray does not exclude lung cancer**, because tumours confined to central airways or the mediastinum may not show. Smokers over 40 with haemoptysis still need further investigation. A lesion unchanged for 2 years is almost always benign.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 995,
+       "page": 977
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 197,
+       "page": 197
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Getting tissue: pick the route",
+     "columns": [
+      "Situation",
+      "Best route",
+      "Note"
+     ],
+     "rows": [
+      [
+       "Central tumour",
+       "**Flexible bronchoscopy**: biopsy and brushings",
+       "Over half of primaries are visible. Also judges operability from distance to the main carina"
+      ],
+      [
+       "Peripheral tumour",
+       "**CT- or ultrasound-guided percutaneous needle biopsy**",
+       "Pneumothorax risk, which may rule it out with extensive COPD. Blind bronchoscopic washings have a low yield"
+      ],
+      [
+       "Peripheral tumour + enlarged hilar/paratracheal nodes",
+       "**EBUS-guided node sampling (EBUS-TBNA)**",
+       "Diagnosis and staging in one procedure"
+      ],
+      [
+       "Pleural effusion",
+       "Pleural aspiration and biopsy",
+       "**Thoracoscopy** raises the yield with targeted biopsies"
+      ],
+      [
+       "Obvious metastases",
+       "Easiest accessible site: supraclavicular node, skin, liver, marrow",
+       "Supraclavicular nodes can be found by ultrasound and aspirated"
+      ],
+      [
+       "Unfit for any invasive test",
+       "**Sputum cytology**",
+       "Low, variable yield"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 623,
+       "page": 601
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 622,
+       "page": 600
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 198,
+       "page": 198
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Staging NSCLC",
+     "items": [
+      "**Upper mediastinal nodes**: EBUS bronchoscopy or mediastinoscopy. **Lower mediastinal nodes**: endoscopic ultrasound through the oesophageal wall",
+      "**PET-CT** is used to find occult metastases. Essentials calls PET the investigation of choice for confirming or excluding intrathoracic nodal spread",
+      "**Biopsy enlarged nodes** rather than trusting imaging: imaging specificity for nodal metastasis is only about 60%",
+      "Bronchoscopic signs of **inoperability**: tumour in the first 2 cm of a main bronchus, or **vocal cord paralysis** from recurrent laryngeal nerve involvement",
+      "Size, nodes and metastases are combined into stage groups that set treatment and prognosis"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 624,
+       "page": 602
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 593,
+       "page": 556
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 199,
+       "page": 199
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "TNM 8th edition (NSCLC), simplified",
+     "columns": [
+      "Category",
+      "Definition"
+     ],
+     "rows": [
+      [
+       "T1",
+       "≤3 cm, surrounded by lung or visceral pleura, not more proximal than a lobar bronchus (T1a ≤1, T1b >1–2, T1c >2–3 cm)"
+      ],
+      [
+       "T2",
+       ">3–5 cm, or involves main bronchus or visceral pleura, or atelectasis reaching the hilum (T2a >3–4, T2b >4–5 cm)"
+      ],
+      [
+       "T3",
+       ">5–7 cm, or invades chest wall (including superior sulcus), phrenic nerve or parietal pericardium, or separate nodule in the same lobe"
+      ],
+      [
+       "T4",
+       ">7 cm, or invades diaphragm, mediastinum, heart, great vessels, trachea, recurrent laryngeal nerve, oesophagus, vertebra or carina, or nodule in another ipsilateral lobe"
+      ],
+      [
+       "N1",
+       "Ipsilateral peribronchial or hilar nodes"
+      ],
+      [
+       "N2",
+       "Ipsilateral mediastinal or subcarinal nodes"
+      ],
+      [
+       "N3",
+       "Contralateral nodes, or scalene/supraclavicular nodes"
+      ],
+      [
+       "M1a",
+       "Contralateral lung nodule, or malignant pleural or pericardial effusion/nodules"
+      ],
+      [
+       "M1b",
+       "Single extrathoracic metastasis"
+      ],
+      [
+       "M1c",
+       "Multiple extrathoracic metastases"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 997,
+       "page": 979
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 624,
+       "page": 602
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 388,
+       "page": 388
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "5-year survival by NSCLC stage (Davidson)",
+     "columns": [
+      "Stage",
+      "5-year survival"
+     ],
+     "rows": [
+      [
+       "IA1 / IA2 / IA3",
+       "92% / 83% / 77%"
+      ],
+      [
+       "IB",
+       "68%"
+      ],
+      [
+       "IIA / IIB",
+       "60% / 53%"
+      ],
+      [
+       "IIIA / IIIB / IIIC",
+       "36% / 26% / 13%"
+      ],
+      [
+       "IVA / IVB",
+       "10% / 0%"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 624,
+       "page": 602,
+       "figure": "Fig. 17.51"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Baseline tests and fitness",
+     "items": [
+      "FBC (anaemia) and biochemistry: liver tests, **calcium** (hypercalcaemia), **sodium** (hyponatraemia)",
+      "Record **ECOG performance status** in everyone",
+      "Before radical treatment: full lung function with **transfer factor**, plus cardiopulmonary exercise testing if there is cardiovascular disease",
+      "Walking oximetry helps predict post-operative function. An active life after **pneumonectomy** is unlikely if **gas transfer is below 50%**",
+      "Pocket Medicine: predicted lung function after resection should be at least **30% of normal**"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 996,
+       "page": 978
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 140,
+       "page": 119
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 388,
+       "page": 388
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**SCLC staging**: SCLC can be TNM-staged, and rare stage I tumours may be resected. Inoperable SCLC is labelled **limited-stage** (confined to one anatomical area or radiation field, roughly the chest plus supraclavicular nodes; about 30% of patients) or **extensive-stage** (anything beyond that).",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 141,
+       "page": 120
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 195,
+       "page": 195
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 594,
+       "page": 557
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Screening and nodules.** A large US trial of **low-dose CT** in high-risk smokers and ex-smokers aged 55–74 cut lung cancer deaths by about **20%**. Current US criteria (Pocket Medicine) offer annual low-dose CT at **age 50–80 with ≥20 pack-years**, to people who still smoke or quit within the last 15 years. A **solitary pulmonary nodule** is a discrete lesion under 3 cm, and risk calculators such as the **Brock score** estimate how likely it is to be malignant.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 999,
+       "page": 981
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 387,
+       "page": 387
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Lymphangitis carcinomatosa from a **bronchial** primary is usually **unilateral** with marked breathlessness. **Bilateral** lymphangitis should prompt a search for a primary elsewhere, such as breast, stomach or colon.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 995,
+       "page": 977
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 623,
+      "page": 601,
+      "figure": "Fig. 17.49"
+     },
+     "note": "Look at: the eight common chest X-ray presentations of lung cancer, from hilar enlargement to rib destruction."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 575,
+      "page": 553,
+      "figure": "Fig. 17.6"
+     },
+     "note": "Look at: PET-CT showing FDG-avid pleural deposits that were barely visible on CT alone."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 999,
+      "page": 981,
+      "figure": "Fig. 28.34"
+     },
+     "note": "Look at: the mediastinal and hilar lymph node stations that are sampled during staging."
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.s7",
+   "title": "Management and prognosis",
+   "objectiveIdx": [
+    7
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "All decisions go through a **multidisciplinary team**. **Surgical resection offers the best chance of cure**, but in **over 75%** of patients cure is not possible or appropriate, because of spread or comorbidity. They receive palliative treatment and best supportive care. Before surgery a **definitive tissue diagnosis is mandatory**, and metastases outside the chest rule surgery out.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 624,
+       "page": 602
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 625,
+       "page": 603
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 199,
+       "page": 199
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 108,
+       "page": 108
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "NSCLC: treatment by stage",
+     "columns": [
+      "Situation",
+      "Main approach",
+      "Note"
+     ],
+     "rows": [
+      [
+       "Stage I–II and selected IIIA, fit",
+       "**Resection**: lobectomy first choice; segmentectomy, wedge or pneumonectomy as needed",
+       "5-year survival >75% in stage I and 55% in stage II (Davidson). **Adjuvant chemotherapy** if resected nodes are positive"
+      ],
+      [
+       "Early stage but unfit for surgery",
+       "**Radical radiotherapy**: high-dose or CHART, or **stereotactic (SABR)** in 3–5 fractions for small lesions",
+       "Less effective than surgery but can give long-term survival"
+      ],
+      [
+       "Stage III (nodal disease)",
+       "**Chemoradiotherapy**",
+       "Neoadjuvant chemotherapy may **downstage** limited nodal disease to make it resectable"
+      ],
+      [
+       "Advanced, with a driver mutation",
+       "**Matched tyrosine kinase inhibitor** first-line",
+       "See targeted therapy table"
+      ],
+      [
+       "Advanced, no driver mutation",
+       "**Immunotherapy ± platinum chemotherapy**",
+       "Platinum doublets give about a 30% response rate and a modest survival gain"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 624,
+       "page": 602
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 996,
+       "page": 978
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 109,
+       "page": 109
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 389,
+       "page": 389
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 625,
+       "page": 603
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 140,
+       "page": 119
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Targeted and immune therapy in advanced NSCLC",
+     "columns": [
+      "Target / setting",
+      "Drug(s)"
+     ],
+     "rows": [
+      [
+       "**EGFR** (exon 19 deletion, L858R)",
+       "**Osimertinib** first-line (Pocket). Older: erlotinib, afatinib. The **T790M** resistance mutation is overcome by osimertinib (Kumar)"
+      ],
+      [
+       "**ALK** fusion",
+       "**Alectinib**, preferred for its CNS activity"
+      ],
+      [
+       "ROS1",
+       "Crizotinib"
+      ],
+      [
+       "BRAF V600E",
+       "Dabrafenib + trametinib"
+      ],
+      [
+       "No driver, **PD-L1 ≥50%**",
+       "**Pembrolizumab** (anti-PD-1), alone or with chemotherapy"
+      ],
+      [
+       "No driver, conventional chemotherapy",
+       "Cisplatin/carboplatin + gemcitabine. Carboplatin + paclitaxel in older patients. **Docetaxel** second-line"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 140,
+       "page": 119
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 141,
+       "page": 120
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 389,
+       "page": 389
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 390,
+       "page": 390
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Do **not combine immunotherapy with targeted TKIs**: toxicity rises sharply (rash, diarrhoea, lung and liver injury, sometimes fatal). For most patients without a targetable mutation, first-line treatment is immunotherapy with or without chemotherapy.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 389,
+       "page": 389
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Small-cell lung cancer",
+     "columns": [
+      "Stage",
+      "Treatment",
+      "Outcome"
+     ],
+     "rows": [
+      [
+       "Limited",
+       "**Concurrent platinum + etoposide chemotherapy with thoracic radiotherapy**; **prophylactic cranial irradiation (PCI)** after a good response",
+       "5-year survival about 25% (vs 15% with radiotherapy alone, Kumar). PCI improves overall survival by about 5%"
+      ],
+      [
+       "Extensive",
+       "**Platinum + etoposide**, adding the anti-PD-L1 antibody **atezolizumab** improves survival",
+       "Median survival 9–13 months, 2-year survival about 20%"
+      ],
+      [
+       "Any",
+       "Surgery has little role, apart from rare stage I tumours",
+       "Untreated median survival is about 3 months; combination chemotherapy extends it to well over a year (Davidson)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 624,
+       "page": 602
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 141,
+       "page": 120
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 390,
+       "page": 390
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 594,
+       "page": 557
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 199,
+       "page": 199
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Books disagree on SCLC details. **PCI**: Davidson says cranial radiotherapy is very effective at preventing brain metastases after a **complete response**. Step-Up recommends it after response even in extensive disease, while Pocket Medicine calls it controversial and mainly for limited-stage complete remission. **Limited-stage 5-year survival**: 25% (Kumar, Essentials) vs 10–13% (Step-Up). For SBAs, use **PCI after complete response to chemotherapy**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 624,
+       "page": 602
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 199,
+       "page": 199
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 391,
+       "page": 391
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 141,
+       "page": 120
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 197,
+       "page": 197
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Radiotherapy",
+     "items": [
+      "**Radical**: for localised NSCLC when comorbidity rules out surgery. Combined with chemotherapy for nodal (stage III) disease",
+      "**Palliative**, where its greatest value lies: **SVC obstruction**, recurrent **haemoptysis**, pain from chest wall invasion or **bone metastases**, and temporary relief of tracheal or main-bronchus obstruction",
+      "**Radiation pneumonitis**: an acute infiltrate confined exactly to the treated field, appearing **within 3 months**",
+      "**Radiation fibrosis**: develops within about a year, **not** confined to the field, occurs to some degree in everyone and is usually silent"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 624,
+       "page": 602
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 996,
+       "page": 978
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 594,
+       "page": 557
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 140,
+       "page": 119
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Palliation and supportive care",
+     "items": [
+      "**Intraluminal tumour** in a major bronchus: bronchoscopic **laser** debulking re-aerates collapsed lung. Best results are in the main bronchi",
+      "**Extrinsic compression** by nodes: **endobronchial stent**",
+      "**Malignant pleural effusion**: drain with an intercostal tube, then **talc pleurodesis** if the lung fully re-expands. Essentials also lists tetracycline or bleomycin",
+      "**SVCO**: steroids, diuretics, radiotherapy ± chemotherapy, a stent if severe, anticoagulation if there is clot",
+      "Opioids with laxatives for pain; prednisolone may improve appetite; **5-HT3 antagonists** for chemotherapy nausea",
+      "**Early palliative care** improves survival in metastatic NSCLC. A **solitary brain metastasis** may be resected and irradiated"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 625,
+       "page": 603
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 594,
+       "page": 557
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 387,
+       "page": 387
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 389,
+       "page": 389
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Prognosis** is poor overall: about **70% die within a year** of diagnosis, and only **6–8% are alive at 5 years**. The best outlook belongs to a **well-differentiated, non-metastatic, resectable squamous** tumour. Recurrence can still follow complete resection.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 625,
+       "page": 603
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 199,
+       "page": 199
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "pocket8",
+      "pdfPage": 389,
+      "page": 389,
+      "figure": "Figure 5-7"
+     },
+     "note": "Look at: the treatment algorithm for localised NSCLC. Surgery where possible, otherwise SABR or chemoradiation."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "onc-lung.c1",
+   "sectionId": "onc-lung.s1",
+   "front": "Lung (bronchial) carcinoma arises from which tissues?",
+   "back": "Bronchial epithelium or bronchial mucous glands. Most lung tumours are primary, not metastatic.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 621,
+     "page": 599
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.c2",
+   "sectionId": "onc-lung.s1",
+   "front": "Approximate split of NSCLC vs SCLC?",
+   "back": "NSCLC ~85%, SCLC ~15%.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 140,
+     "page": 119
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.c3",
+   "sectionId": "onc-lung.s1",
+   "front": "Overall 5-year survival in lung cancer (Davidson)?",
+   "back": "**6–8%**. Fewer than 30% survive 1 year, and over half have metastases at diagnosis.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 620,
+     "page": 598
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.c4",
+   "sectionId": "onc-lung.s2",
+   "front": "Share of lung cancer directly caused by smoking (Davidson, respiratory chapter)?",
+   "back": "**At least 90%**. Heavy smokers have about 40× the death rate of non-smokers.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 621,
+     "page": 599
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.c5",
+   "sectionId": "onc-lung.s2",
+   "front": "How do asbestos and smoking interact on lung cancer risk?",
+   "back": "**Synergistically**: the combined risk is more than additive.",
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 195,
+     "page": 195
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.c6",
+   "sectionId": "onc-lung.s2",
+   "front": "Which patients most often have EGFR-mutant lung cancer?",
+   "back": "Non-smokers, women, and people of Asian origin (usually adenocarcinoma).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 993,
+     "page": 975
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 624,
+     "page": 602
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.c7",
+   "sectionId": "onc-lung.s3",
+   "front": "Commonest lung cancer cell type (Davidson) and its usual site?",
+   "back": "**Adenocarcinoma** (35–40%), usually peripheral. Commonest type in never-smokers.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 621,
+     "page": 599
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 994,
+     "page": 976
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.c8",
+   "sectionId": "onc-lung.s3",
+   "front": "Which lung cancer type classically cavitates and mimics a lung abscess?",
+   "back": "Peripheral **squamous cell carcinoma** with central necrosis.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 621,
+     "page": 599
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.c9",
+   "sectionId": "onc-lung.s4",
+   "front": "Pancoast tumour: which roots are destroyed and what results?",
+   "back": "**C8 and T1** (lower brachial plexus): inner-arm pain and small hand-muscle wasting, often with ipsilateral Horner's.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 622,
+     "page": 600
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 196,
+     "page": 196
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.c10",
+   "sectionId": "onc-lung.s4",
+   "front": "Hoarse voice + 'bovine' cough in lung cancer: which nerve?",
+   "back": "**Left recurrent laryngeal nerve**, involved by a left hilar tumour or nodes.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 622,
+     "page": 600
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.c11",
+   "sectionId": "onc-lung.s4",
+   "front": "Commonest cause of superior vena cava obstruction?",
+   "back": "**Lung cancer**. Lymphoma and metastatic tumours are the other common compressive causes.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 622,
+     "page": 600
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1348,
+     "page": 1326
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.c12",
+   "sectionId": "onc-lung.s5",
+   "front": "PTHrP hypercalcaemia vs SIADH/ectopic ACTH: which cell types?",
+   "back": "PTHrP → **squamous** NSCLC. SIADH and ectopic ACTH → **small-cell**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.c13",
+   "sectionId": "onc-lung.s5",
+   "front": "Lambert–Eaton syndrome: antibody target and hallmark?",
+   "back": "Presynaptic **voltage-gated calcium channels**. Proximal weakness that **improves with exercise**. Linked to SCLC.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1348,
+     "page": 1326
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 387,
+     "page": 387
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.c14",
+   "sectionId": "onc-lung.s6",
+   "front": "TNM: N2 vs N3 nodes?",
+   "back": "N2 = ipsilateral mediastinal or subcarinal. N3 = contralateral, or scalene/supraclavicular.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 624,
+     "page": 602
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 997,
+     "page": 979
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.c15",
+   "sectionId": "onc-lung.s6",
+   "front": "How is a malignant pleural effusion staged in NSCLC?",
+   "back": "**M1a** (stage IV), together with a contralateral lung nodule or malignant pericardial effusion.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 624,
+     "page": 602
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 997,
+     "page": 979
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.c16",
+   "sectionId": "onc-lung.s6",
+   "front": "Peripheral tumour + enlarged hilar/paratracheal nodes: one procedure for diagnosis and staging?",
+   "back": "**EBUS-guided node sampling** (EBUS-TBNA).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 623,
+     "page": 601
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.c17",
+   "sectionId": "onc-lung.s7",
+   "front": "First-line treatment of advanced EGFR-mutant NSCLC?",
+   "back": "An EGFR **tyrosine kinase inhibitor**: osimertinib (Pocket Medicine). Osimertinib also overcomes T790M resistance.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 389,
+     "page": 389
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 141,
+     "page": 120
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.c18",
+   "sectionId": "onc-lung.s7",
+   "front": "Radiation pneumonitis vs radiation fibrosis?",
+   "back": "Pneumonitis: acute, **confined to the field**, within 3 months. Fibrosis: within ~1 year, **not confined** to the field, usually silent.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 996,
+     "page": 978
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 140,
+     "page": 119
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.c19",
+   "sectionId": "onc-lung.s7",
+   "front": "When is prophylactic cranial irradiation given in SCLC?",
+   "back": "After a (complete) response to chemotherapy, to prevent brain metastases.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 624,
+     "page": 602
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 141,
+     "page": 120
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "onc-lung.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A medical student is preparing a talk on the outlook for patients with newly diagnosed lung cancer of all stages and cell types, using Davidson's figures.",
+   "leadIn": "About what proportion of patients are alive 5 years after diagnosis?",
+   "options": [
+    "1–2%",
+    "6–8%",
+    "15–20%",
+    "30–35%",
+    "50–55%"
+   ],
+   "answer": 1,
+   "explanation": "Davidson gives **6–8%** at 5 years, with fewer than 30% alive at 1 year. Over half already have metastases at diagnosis. Other books quote 10–14%, but Davidson is the course authority.",
+   "whyNot": [
+    "Too low. A small but real minority survive, mainly after resection of early disease.",
+    "",
+    "Close to the 14% that Step-Up quotes, but not Davidson's figure.",
+    "This is closer to the 1-year survival (<30%) than to the 5-year figure.",
+    "This matches stage IIB NSCLC after treatment, not all patients."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lung.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 620,
+     "page": 598
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 199,
+     "page": 199
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 63-year-old smoker has a 2 cm central lung mass. Bronchial biopsy shows a tumour of neuroendocrine origin, and the MDT puts him on a non-surgical pathway even though the primary is small.",
+   "leadIn": "Which property of this tumour group best explains that decision?",
+   "options": [
+    "It cavitates early and bleeds",
+    "It spreads widely early in its course",
+    "It is usually resistant to chemotherapy",
+    "It arises in the lung periphery",
+    "It invades the chest wall at an early stage"
+   ],
+   "answer": 1,
+   "explanation": "Neuroendocrine origin means **small-cell lung cancer**. SCLC **disseminates early**, even from a small primary, so it is usually not suitable for surgery. NSCLC is more often found while localised.",
+   "whyNot": [
+    "Cavitation is typical of squamous carcinoma and does not decide operability.",
+    "",
+    "The reverse: SCLC is very chemotherapy-responsive.",
+    "SCLC is usually central.",
+    "Chest wall invasion is a local NSCLC problem (T3) and does not explain avoiding surgery for a small tumour."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lung.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 140,
+     "page": 119
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 624,
+     "page": 602
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q3",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Risk factors for lung cancer",
+   "leadIn": "For each patient below, choose the exposure most likely to have caused, or multiplied the risk of, the lung cancer. Any option can fit one item, several items or none.",
+   "options": [
+    "Active cigarette smoking",
+    "Second-hand tobacco smoke",
+    "Domestic radon",
+    "Asbestos",
+    "Arsenic",
+    "Chromium",
+    "Previous radiotherapy for another cancer",
+    "Pulmonary fibrosis",
+    "HIV infection",
+    "Coal-combustion products"
+   ],
+   "items": [
+    {
+     "stem": "A 66-year-old retired shipyard worker who smoked 30 pack-years has a peripheral adenocarcinoma. CT also shows calcified pleural plaques. His oncologist says one exposure has worked with his smoking to raise his risk far more than either would alone.",
+     "answer": 3,
+     "explanation": "Shipbuilding and pleural plaques point to **asbestos**. Asbestos and smoking are **synergistic**, so the risk is more than additive. Asbestos-related cancers follow a 20–40-year latency.",
+     "studyRef": {
+      "sectionId": "onc-lung.s2"
+     }
+    },
+    {
+     "stem": "A 51-year-old woman has never smoked, has never worked in industry, and lives alone. She has slept in a converted basement bedroom for 20 years. A home survey after her diagnosis found high levels of a naturally occurring radioactive gas.",
+     "answer": 2,
+     "explanation": "A natural radioactive gas that collects in basements is **radon**, a recognised cause of lung cancer in never-smokers.",
+     "studyRef": {
+      "sectionId": "onc-lung.s2"
+     }
+    },
+    {
+     "stem": "A 58-year-old woman who has never smoked develops lung cancer. She has no occupational exposures. For 35 years her husband has smoked 30 cigarettes a day indoors.",
+     "answer": 1,
+     "explanation": "This is long-term **passive smoking**, thought to contribute to about 5% of lung cancer deaths.",
+     "studyRef": {
+      "sectionId": "onc-lung.s2"
+     }
+    },
+    {
+     "stem": "A 44-year-old never-smoker has a lung mass. At 22 she was treated for Hodgkin lymphoma with chemotherapy and mediastinal irradiation. She has no other exposures.",
+     "answer": 6,
+     "explanation": "**Prior radiotherapy** for another cancer is a listed risk factor. Two steps: identify the mantle-field treatment, then link ionising radiation to lung cancer decades later.",
+     "studyRef": {
+      "sectionId": "onc-lung.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 195,
+     "page": 195
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 621,
+     "page": 599
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 386,
+     "page": 386
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 993,
+     "page": 975
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 591,
+     "page": 554
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q4",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Histological types of lung tumour",
+   "leadIn": "For each patient below, choose the most likely tumour type. Any option can fit one item, several items or none.",
+   "options": [
+    "Small-cell carcinoma",
+    "Adenocarcinoma",
+    "Bronchial carcinoid tumour",
+    "Squamous cell carcinoma",
+    "Hamartoma",
+    "Large-cell carcinoma",
+    "Bronchial gland adenoma",
+    "Adenosquamous carcinoma",
+    "Malignant mesothelioma",
+    "Lymphoma"
+   ],
+   "items": [
+    {
+     "stem": "A 69-year-old man who has smoked 50 pack-years has thirst and confusion. Serum calcium is 3.2 mmol/L with a suppressed PTH, and an isotope bone scan is normal. Chest X-ray shows a thick-walled cavitating mass.",
+     "answer": 3,
+     "explanation": "Hypercalcaemia with suppressed PTH and no bone metastases means a **PTHrP**-secreting tumour, classically **squamous**. Cavitation from central necrosis is also typical of squamous carcinoma.",
+     "studyRef": {
+      "sectionId": "onc-lung.s3"
+     }
+    },
+    {
+     "stem": "A 42-year-old woman who has never smoked has a 3 cm peripheral nodule and a left adrenal deposit. Biopsy shows a gland-forming, mucin-producing tumour, and molecular testing finds an EGFR mutation.",
+     "answer": 1,
+     "explanation": "A peripheral, glandular, mucin-secreting tumour in a never-smoker with EGFR mutation is **adenocarcinoma**. Adrenal metastases are common with it.",
+     "studyRef": {
+      "sectionId": "onc-lung.s3"
+     }
+    },
+    {
+     "stem": "A 34-year-old non-smoker has had cough and recurrent infection in one lobe for a year. Bronchoscopy shows a smooth endobronchial lesion. Resection shows a low-grade tumour with neuroendocrine differentiation, and the surgeon expects about 95% 5-year survival.",
+     "answer": 2,
+     "explanation": "A low-grade neuroendocrine endobronchial tumour in a young non-smoker with excellent survival after resection is a **bronchial carcinoid**.",
+     "studyRef": {
+      "sectionId": "onc-lung.s3"
+     }
+    },
+    {
+     "stem": "A 57-year-old man has an incidental, well-defined peripheral nodule on a pre-operative chest X-ray. Excision shows benign tissue made of mesenchymal cells and cartilage.",
+     "answer": 4,
+     "explanation": "A benign peripheral nodule with cartilage and mesenchymal cells is a **hamartoma**. Local resection is curative.",
+     "studyRef": {
+      "sectionId": "onc-lung.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 621,
+     "page": 599
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 994,
+     "page": 976
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 625,
+     "page": 603
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 684,
+     "page": 662
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q5",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Local and regional spread of lung cancer",
+   "leadIn": "For each patient below, choose the structure whose involvement best explains the findings. Any option can fit one item, several items or none.",
+   "options": [
+    "Left recurrent laryngeal nerve",
+    "Phrenic nerve",
+    "Lower brachial plexus (C8–T1)",
+    "Cervical sympathetic chain",
+    "Superior vena cava",
+    "Oesophagus",
+    "Pericardium",
+    "Intercostal nerve",
+    "Trachea",
+    "Vagus nerve below the recurrent branch"
+   ],
+   "items": [
+    {
+     "stem": "A 64-year-old smoker has had a hoarse voice for 6 weeks. His wife notices that his cough has lost its normal explosive sound. CT shows a mass at the left hilum.",
+     "answer": 0,
+     "explanation": "Hoarseness with a **'bovine' cough** from a left hilar tumour means the **left recurrent laryngeal nerve** is involved, causing vocal cord paralysis.",
+     "studyRef": {
+      "sectionId": "onc-lung.s4"
+     }
+    },
+    {
+     "stem": "A 59-year-old smoker has severe pain along the inner aspect of his right arm and wasting of the small muscles of the right hand. Chest X-ray shows a right apical opacity.",
+     "answer": 2,
+     "explanation": "An apical (Pancoast) tumour destroying the **C8 and T1 roots** causes inner-arm pain and small hand-muscle wasting. Sympathetic chain involvement would add Horner's but would not explain the hand wasting.",
+     "studyRef": {
+      "sectionId": "onc-lung.s4"
+     }
+    },
+    {
+     "stem": "A 70-year-old woman with a known lung cancer is increasingly breathless. Chest X-ray shows a newly raised right hemidiaphragm. On fluoroscopy it moves upward when she sniffs.",
+     "answer": 1,
+     "explanation": "Paradoxical upward movement on sniffing shows a paralysed hemidiaphragm, which means **phrenic nerve** palsy.",
+     "studyRef": {
+      "sectionId": "onc-lung.s4"
+     }
+    },
+    {
+     "stem": "A 61-year-old smoker has a headache that is worst when she bends to tie her shoes. Her face and neck are swollen, her conjunctivae are oedematous and dilated veins cross her upper chest. CT shows bulky right paratracheal nodes.",
+     "answer": 4,
+     "explanation": "Facial swelling, conjunctival oedema, chest-wall collaterals and headache worse on stooping are **SVC obstruction**, most often from lung cancer nodes.",
+     "studyRef": {
+      "sectionId": "onc-lung.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 622,
+     "page": 600
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 623,
+     "page": 601
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1348,
+     "page": 1326
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 994,
+     "page": 976
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q6",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Non-metastatic manifestations of lung cancer",
+   "leadIn": "For each patient below, choose the most likely paraneoplastic process. Any option can fit one item, several items or none.",
+   "options": [
+    "Syndrome of inappropriate ADH secretion",
+    "Ectopic ACTH secretion",
+    "PTHrP-mediated hypercalcaemia",
+    "Lambert–Eaton myasthenic syndrome",
+    "Myasthenia gravis",
+    "Limbic encephalitis",
+    "Subacute cerebellar degeneration",
+    "Hypertrophic pulmonary osteoarthropathy",
+    "Dermatomyositis",
+    "Ectopic HCG secretion",
+    "Thrombophlebitis migrans"
+   ],
+   "items": [
+    {
+     "stem": "A 66-year-old smoker with a central lung mass is drowsy and confused. He is clinically euvolaemic. Serum sodium is 118 mmol/L and his urine is inappropriately concentrated.",
+     "answer": 0,
+     "explanation": "Euvolaemic hyponatraemia with concentrated urine in a patient with a central (likely small-cell) tumour is **SIADH**.",
+     "studyRef": {
+      "sectionId": "onc-lung.s5"
+     }
+    },
+    {
+     "stem": "A 63-year-old smoker has painful, tender wrists and ankles. His fingers are clubbed. X-rays of the forearms and shins show new bone laid down beneath the periosteum.",
+     "answer": 7,
+     "explanation": "Painful periostitis of the distal radius, ulna, tibia and fibula with subperiosteal new bone, plus clubbing, is **HPOA**. It is most often linked to lung cancer.",
+     "studyRef": {
+      "sectionId": "onc-lung.s5"
+     }
+    },
+    {
+     "stem": "A 68-year-old smoker struggles to rise from a chair, but her grip gets stronger over a few seconds of sustained effort. Knee reflexes are reduced. On nerve conduction studies a small muscle action potential grows markedly after brief exercise.",
+     "answer": 3,
+     "explanation": "Proximal weakness that **improves with effort**, reduced reflexes and an increment after exercise are **Lambert–Eaton** (antibodies to presynaptic calcium channels), typically with SCLC. Myasthenia gravis worsens with use.",
+     "studyRef": {
+      "sectionId": "onc-lung.s5"
+     }
+    },
+    {
+     "stem": "A 54-year-old smoker notices tender enlargement of both breasts. Testicular examination and ultrasound are normal, but serum hCG is raised. Chest X-ray shows a lung mass.",
+     "answer": 9,
+     "explanation": "Gynaecomastia with raised hCG and no testicular tumour points to **ectopic HCG** from the lung cancer.",
+     "studyRef": {
+      "sectionId": "onc-lung.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 623,
+     "page": 601
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 622,
+     "page": 600
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1348,
+     "page": 1326
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 593,
+     "page": 556
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 197,
+     "page": 197
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 379,
+     "page": 357
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 71-year-old ex-smoker has a 2.5 cm mass in the periphery of the right upper lobe. Staging CT shows enlarged right paratracheal and subcarinal lymph nodes. There is no effusion and no distant spread.",
+   "leadIn": "Which single procedure is most likely to give both a tissue diagnosis and nodal staging?",
+   "options": [
+    "EBUS-guided transbronchial needle aspiration of the nodes",
+    "CT-guided percutaneous biopsy of the lung mass",
+    "Sputum cytology on three samples",
+    "Thoracoscopic wedge resection of the mass",
+    "Blind bronchoscopic washings from the right upper lobe"
+   ],
+   "answer": 0,
+   "explanation": "With a peripheral tumour **and** enlarged hilar or paratracheal nodes, **EBUS-guided node sampling** can confirm cancer and stage the mediastinum in one procedure.",
+   "whyNot": [
+    "",
+    "Gives a diagnosis but no nodal staging, and carries a pneumothorax risk.",
+    "Low yield, and kept for patients unfit for invasive tests. It does not stage.",
+    "Too invasive as a first step, and resection is not appropriate before nodes are staged.",
+    "Low yield for peripheral lesions and no staging information."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lung.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 623,
+     "page": 601
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 198,
+     "page": 198
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 3,
+   "stem": "A 60-year-old woman has a 4 cm adenocarcinoma in the right lower lobe. PET-CT shows uptake in right hilar and subcarinal nodes. A hard left supraclavicular node is aspirated and contains carcinoma. There is no other spread.",
+   "leadIn": "What is the nodal (N) category?",
+   "options": [
+    "N0",
+    "N1",
+    "N2",
+    "N3",
+    "NX"
+   ],
+   "answer": 3,
+   "explanation": "Hilar = N1 and subcarinal = N2, but the **supraclavicular** node sets the highest category: **N3**. Any scalene or supraclavicular node, or contralateral node, is N3.",
+   "whyNot": [
+    "Nodes are clearly involved.",
+    "Hilar disease alone would be N1, but higher stations are involved.",
+    "The subcarinal node alone would be N2. The supraclavicular node upstages it.",
+    "",
+    "NX means nodes cannot be assessed, but here they have been sampled."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lung.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 624,
+     "page": 602
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 997,
+     "page": 979
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q9",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Treatment choices in lung cancer",
+   "leadIn": "For each patient below, choose the most appropriate next treatment. Any option can fit one item, several items or none.",
+   "options": [
+    "Lobectomy",
+    "Stereotactic ablative radiotherapy (SABR)",
+    "Concurrent chemoradiotherapy",
+    "Platinum + etoposide chemotherapy with atezolizumab",
+    "Osimertinib",
+    "Alectinib",
+    "Pembrolizumab",
+    "Docetaxel",
+    "Prophylactic cranial irradiation",
+    "Palliative radiotherapy to the chest",
+    "Best supportive care alone"
+   ],
+   "items": [
+    {
+     "stem": "A 76-year-old man with severe COPD has a 1.8 cm peripheral NSCLC with no nodal or distant spread. His lung function makes him unfit for any resection.",
+     "answer": 1,
+     "explanation": "Early, localised NSCLC in a patient unfit for surgery is treated with radical radiotherapy. For a **small lesion**, **stereotactic RT (SABR)** in 3–5 fractions is ideal.",
+     "studyRef": {
+      "sectionId": "onc-lung.s7"
+     }
+    },
+    {
+     "stem": "A 47-year-old woman who has never smoked has adenocarcinoma with bone and liver metastases. Tumour sequencing shows an EGFR exon 19 deletion.",
+     "answer": 4,
+     "explanation": "An actionable **EGFR** mutation means a matched TKI first-line. Pocket Medicine names **osimertinib**.",
+     "studyRef": {
+      "sectionId": "onc-lung.s7"
+     }
+    },
+    {
+     "stem": "A 39-year-old ex-smoker has metastatic adenocarcinoma with several small brain deposits. Testing shows an ALK fusion oncogene.",
+     "answer": 5,
+     "explanation": "**ALK**-positive disease is treated with **alectinib**, preferred for its CNS activity. That matters here because of the brain metastases.",
+     "studyRef": {
+      "sectionId": "onc-lung.s7"
+     }
+    },
+    {
+     "stem": "A 62-year-old with limited-stage small-cell carcinoma has had concurrent chemotherapy and thoracic radiotherapy. Restaging shows a complete response and his performance status is good.",
+     "answer": 8,
+     "explanation": "After a complete response in SCLC, **prophylactic cranial irradiation** prevents brain metastases and improves survival by about 5%.",
+     "studyRef": {
+      "sectionId": "onc-lung.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 624,
+     "page": 602
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 389,
+     "page": 389
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 141,
+     "page": 120
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q10",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Choosing the investigation in suspected lung cancer",
+   "leadIn": "For each patient below, choose the most appropriate next investigation. Any option can fit one item, several items or none.",
+   "options": [
+    "Chest X-ray",
+    "Contrast CT of chest and upper abdomen",
+    "PET-CT",
+    "Flexible bronchoscopy with biopsy",
+    "EBUS-guided node sampling",
+    "Endoscopic (oesophageal) ultrasound node sampling",
+    "CT-guided percutaneous needle biopsy",
+    "Pleural aspiration and biopsy",
+    "Thoracoscopy",
+    "Sputum cytology",
+    "Fine-needle aspiration of a supraclavicular node",
+    "MRI brain"
+   ],
+   "items": [
+    {
+     "stem": "A 91-year-old bedbound woman with severe heart failure has a central lung mass on X-ray. She and her family want a diagnosis but she is unfit for any invasive procedure.",
+     "answer": 9,
+     "explanation": "**Sputum cytology** is reserved for patients unfit for invasive tests. The yield is low but it is non-invasive.",
+     "studyRef": {
+      "sectionId": "onc-lung.s6"
+     }
+    },
+    {
+     "stem": "A 67-year-old man has a unilateral pleural effusion and a lung mass. Two pleural aspirates and a blind pleural biopsy have been non-diagnostic.",
+     "answer": 8,
+     "explanation": "**Thoracoscopy** raises the yield by allowing targeted biopsies under direct vision.",
+     "studyRef": {
+      "sectionId": "onc-lung.s6"
+     }
+    },
+    {
+     "stem": "A 72-year-old smoker has a large central mass, liver deposits and a hard 2 cm lymph node just above the right clavicle.",
+     "answer": 10,
+     "explanation": "In metastatic disease, sample the **easiest accessible site**. A palpable **supraclavicular node** aspirate is quick, safe and diagnostic.",
+     "studyRef": {
+      "sectionId": "onc-lung.s6"
+     }
+    },
+    {
+     "stem": "During staging of a resectable-looking NSCLC, CT shows a single enlarged node low in the posterior mediastinum beside the oesophagus, out of reach of the bronchoscope.",
+     "answer": 5,
+     "explanation": "**Lower mediastinal** nodes are sampled through the oesophageal wall with **endoscopic ultrasound**. EBUS and mediastinoscopy reach the upper nodes.",
+     "studyRef": {
+      "sectionId": "onc-lung.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 623,
+     "page": 601
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 624,
+     "page": 602
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 622,
+     "page": 600
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 198,
+     "page": 198
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A heavy smoker aged 57 (about 30 a day) gives a 2-week history of a swollen, dusky face and arms and a headache that is worse when he lies flat. Dilated veins run across his upper chest. Chest X-ray shows a right hilar mass with a widened upper mediastinum. He has no central venous line.",
+   "leadIn": "What is the most likely underlying cause?",
+   "options": [
+    "Lung cancer",
+    "Non-Hodgkin lymphoma",
+    "Metastatic breast carcinoma",
+    "Catheter-related SVC thrombosis",
+    "Retrosternal goitre"
+   ],
+   "answer": 0,
+   "explanation": "This is SVC obstruction, and **lung cancer is its commonest cause**. A heavy smoker with a hilar mass makes it even more likely.",
+   "whyNot": [
+    "",
+    "Lymphoma is another common cause of SVC compression, but lung cancer is the commonest, and a heavy smoker with a hilar mass makes it far more likely.",
+    "Metastases can cause SVCO, but a male smoker with a hilar mass and no known primary points to lung cancer.",
+    "He has no central line, which is the usual setting for catheter thrombosis.",
+    "Goitre sits in the superior mediastinum but would not produce a hilar mass."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lung.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 622,
+     "page": 600
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1348,
+     "page": 1326
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 65-year-old smoker has 4 months of proximal leg weakness and difficulty climbing stairs. Her neurologist suspects a paraneoplastic neuromuscular syndrome rather than myasthenia gravis.",
+   "leadIn": "Which finding best supports Lambert–Eaton syndrome over myasthenia gravis?",
+   "options": [
+    "Strength improves briefly with sustained effort",
+    "Ptosis worsens towards the end of the day",
+    "Weakness begins in the extraocular muscles",
+    "Weakness worsens steadily with repeated use",
+    "Tendon reflexes are brisk"
+   ],
+   "answer": 0,
+   "explanation": "In **Lambert–Eaton** syndrome (antibodies to presynaptic Ca²⁺ channels, usually with SCLC), proximal weakness **improves with exercise** and reflexes are reduced. Myasthenia gives fatigable weakness that worsens with use.",
+   "whyNot": [
+    "",
+    "End-of-day ptosis is a feature of myasthenia gravis.",
+    "Myasthenia usually starts with ptosis or diplopia; ocular onset points away from Lambert–Eaton.",
+    "Weakness that fades the longer the muscle is used is the fatigability of myasthenia gravis. Davidson describes Lambert–Eaton strength as improving with exercise.",
+    "Reflexes are reduced or absent in Lambert–Eaton, returning after sustained contraction. They are not brisk."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lung.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1348,
+     "page": 1326
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 197,
+     "page": 197
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 110,
+     "page": 110
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1163,
+     "page": 1141
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1165,
+     "page": 1143
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 66-year-old woman who could not have surgery received radical radiotherapy for a right upper lobe NSCLC. Eight weeks later she has a dry cough and mild breathlessness. Chest X-ray shows new shadowing with a sharp, straight edge that exactly matches the treatment field.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Radiation pneumonitis",
+    "Radiation fibrosis",
+    "Lymphangitis carcinomatosa",
+    "Post-obstructive pneumonia",
+    "Local tumour recurrence"
+   ],
+   "answer": 0,
+   "explanation": "An acute infiltrate **confined exactly to the radiation field** within **3 months** is **radiation pneumonitis**.",
+   "whyNot": [
+    "",
+    "Fibrosis appears within about a year and is not confined to the field.",
+    "Lymphangitis gives diffuse streaky shadowing with septal lines, not a field-shaped margin.",
+    "Obstructive pneumonia follows bronchial anatomy, not a geometric radiation field.",
+    "Recurrence this early with straight-edged shadowing matching the field is much less likely."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lung.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 996,
+     "page": 978
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 625,
+     "page": 603
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 70-year-old smoker with a central squamous cell carcinoma is admitted with confusion and constipation. Serum calcium is 3.1 mmol/L, PTH is suppressed and a bone scan shows no metastases.",
+   "leadIn": "What is the most likely mechanism of the hypercalcaemia?",
+   "options": [
+    "Tumour secretion of PTH-related peptide",
+    "Osteolytic bone metastases",
+    "Primary hyperparathyroidism",
+    "Ectopic ACTH secretion",
+    "Dehydration from vomiting alone"
+   ],
+   "answer": 0,
+   "explanation": "With no bone deposits and a suppressed PTH, a **squamous** lung cancer causes hypercalcaemia through **PTHrP**, a classic paraneoplastic association.",
+   "whyNot": [
+    "",
+    "Bone metastases can cause it, but the bone scan is normal.",
+    "In primary hyperparathyroidism PTH is detectable or raised, not suppressed.",
+    "Ectopic ACTH causes Cushing's features, typically with SCLC, not hypercalcaemia.",
+    "Dehydration may worsen hypercalcaemia but does not cause a calcium of 3.1 by itself in this setting."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lung.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 623,
+     "page": 601
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 684,
+     "page": 662
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q15",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 1,
+   "stem": "A 61-year-old smoker has right middle lobe pneumonia for the third time in 4 months. Each episode has cleared slowly. Between episodes he has a persistent unilateral wheeze that does not clear on coughing.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Contrast CT of the chest, then bronchoscopy",
+    "A further course of oral antibiotics",
+    "Sputum culture only",
+    "Repeat chest X-ray in 6 months",
+    "Pneumococcal vaccination and review"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: pneumonia that **recurs at the same site** or resolves slowly in a smoker suggests an **obstructing bronchial tumour**. Step 2: a fixed monophonic wheeze that coughing does not clear means partial bronchial obstruction. Step 3: investigate with early **CT** to show the lesion and plan the biopsy route, then **bronchoscopy** to see and sample a central tumour.",
+   "whyNot": [
+    "",
+    "Treats the infection but leaves the cause unexplored.",
+    "Will not find an endobronchial tumour.",
+    "Delaying 6 months risks progression of a probable cancer.",
+    "Prevention does not explain recurrent pneumonia in one lobe."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lung.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 622,
+     "page": 600
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 623,
+     "page": 601
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q16",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 66-year-old woman has a 2.5 cm peripheral adenocarcinoma confined within the visceral pleura. EBUS sampling of hilar and mediastinal nodes is negative and PET-CT shows no distant spread.",
+   "leadIn": "What is her stage group?",
+   "options": [
+    "IA1",
+    "IA2",
+    "IA3",
+    "IB",
+    "IIA"
+   ],
+   "answer": 2,
+   "explanation": "Work through T, N, M. **T**: a tumour >2 cm but ≤3 cm is **T1c**. **N0**: nodes negative. **M0**: no spread. T1c N0 M0 = **stage IA3**, with about 77% 5-year survival (Davidson). Resection is the treatment of choice.",
+   "whyNot": [
+    "IA1 is T1a (≤1 cm) N0.",
+    "IA2 is T1b (>1–2 cm) N0.",
+    "",
+    "IB is T2a (>3–4 cm) N0.",
+    "IIA is T2b (>4–5 cm) N0."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lung.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 624,
+     "page": 602,
+     "figure": "Fig. 17.51"
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q17",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 64-year-old smoker has small-cell lung cancer with liver and bone metastases. He is ambulant and self-caring (performance status 1).",
+   "leadIn": "What is the most appropriate first-line treatment?",
+   "options": [
+    "Platinum + etoposide chemotherapy with atezolizumab",
+    "Lobectomy with mediastinal node dissection",
+    "Stereotactic ablative radiotherapy to the primary",
+    "Osimertinib",
+    "Single-agent docetaxel"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: liver and bone deposits make this **extensive-stage** SCLC. Step 2: SCLC is very chemo-sensitive, and surgery has almost no role. Step 3: the standard is **platinum + etoposide**, and adding **atezolizumab** improves survival. Chemotherapy raises median survival from about 3 months untreated to well over a year (Davidson).",
+   "whyNot": [
+    "",
+    "SCLC spreads early and metastatic disease rules out surgery.",
+    "SABR is for small, localised NSCLC in patients unfit for surgery.",
+    "An EGFR TKI for EGFR-mutant NSCLC, not SCLC.",
+    "Second-line therapy for NSCLC."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lung.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 624,
+     "page": 602
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 390,
+     "page": 390
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 594,
+     "page": 557
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q18",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Recognising the underlying tumour",
+   "leadIn": "For each patient below, choose the most likely underlying tumour. Any option can fit one item, several items or none.",
+   "options": [
+    "Small-cell lung cancer",
+    "EGFR-mutant adenocarcinoma",
+    "ALK-rearranged adenocarcinoma",
+    "Keratinising squamous carcinoma",
+    "Bronchial carcinoid",
+    "Pleural mesothelioma",
+    "Renal cell carcinoma metastasis",
+    "Thymoma",
+    "Primary cerebral lymphoma"
+   ],
+   "items": [
+    {
+     "stem": "A 59-year-old heavy smoker has rapidly developed a rounded face, purple abdominal striae and proximal weakness. Cortisol does not suppress with dexamethasone. CT shows a central lung mass and multiple liver deposits.",
+     "answer": 0,
+     "explanation": "Rapid **ectopic ACTH** Cushing's with a central mass and early liver spread points to **small-cell** carcinoma.",
+     "studyRef": {
+      "sectionId": "onc-lung.s5"
+     }
+    },
+    {
+     "stem": "A 53-year-old woman who has never smoked has a peripheral lung mass. Molecular testing shows an ALK fusion gene.",
+     "answer": 2,
+     "explanation": "Never-smoker, peripheral tumour and an **ALK** fusion point to **ALK-rearranged adenocarcinoma**, which is commoner in younger non-smokers or ex-smokers.",
+     "studyRef": {
+      "sectionId": "onc-lung.s3"
+     }
+    },
+    {
+     "stem": "A 71-year-old smoker has 6 weeks of short-term memory loss, hallucinations and two seizures. Serum anti-Hu antibodies are positive and a small central lung mass is found.",
+     "answer": 0,
+     "explanation": "Limbic encephalitis or encephalomyelitis with **anti-Hu** antibodies is caused by **small-cell** carcinoma in about 75% of cases.",
+     "studyRef": {
+      "sectionId": "onc-lung.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 993,
+     "page": 975
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 109,
+     "page": 109
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1336,
+     "page": 1314
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 690,
+     "page": 668
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q19",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "TNM staging of non-small-cell lung cancer",
+   "leadIn": "For each finding below, choose the TNM category that it defines on its own. Any option can fit one item, several items or none.",
+   "options": [
+    "T1",
+    "T2",
+    "T3",
+    "T4",
+    "N1",
+    "N2",
+    "N3",
+    "M1a",
+    "M1b",
+    "M1c"
+   ],
+   "items": [
+    {
+     "stem": "A 6 cm primary tumour in the left upper lobe that invades the parietal pericardium but no deeper structure.",
+     "answer": 2,
+     "explanation": "Both features, a size of >5–7 cm and invasion of the **parietal pericardium**, define **T3**.",
+     "studyRef": {
+      "sectionId": "onc-lung.s6"
+     }
+    },
+    {
+     "stem": "A pleural effusion on the side of the tumour; aspirate cytology shows adenocarcinoma cells.",
+     "answer": 7,
+     "explanation": "A **malignant pleural effusion** is **M1a** (stage IV), not a T category.",
+     "studyRef": {
+      "sectionId": "onc-lung.s6"
+     }
+    },
+    {
+     "stem": "A subcarinal lymph node on the same side as the tumour that is positive on EBUS sampling.",
+     "answer": 5,
+     "explanation": "Ipsilateral mediastinal or **subcarinal** nodes are **N2**.",
+     "studyRef": {
+      "sectionId": "onc-lung.s6"
+     }
+    },
+    {
+     "stem": "A single adrenal deposit, confirmed on biopsy, with no other spread outside the chest.",
+     "answer": 8,
+     "explanation": "A **single extrathoracic** metastasis is **M1b**. Multiple deposits would be M1c.",
+     "studyRef": {
+      "sectionId": "onc-lung.s6"
+     }
+    },
+    {
+     "stem": "A 3 cm tumour that has grown into the main carina.",
+     "answer": 3,
+     "explanation": "Invasion of the **carina** makes it **T4** regardless of size.",
+     "studyRef": {
+      "sectionId": "onc-lung.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 997,
+     "page": 979
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 624,
+     "page": 602
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q20",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Palliation of lung cancer complications",
+   "leadIn": "For each patient below, choose the most appropriate palliative intervention. Any option can fit one item, several items or none.",
+   "options": [
+    "Palliative external-beam radiotherapy",
+    "Endobronchial stent",
+    "Bronchoscopic laser debulking",
+    "Intercostal drainage then talc pleurodesis",
+    "Regular opioid with a laxative",
+    "Prednisolone",
+    "5-HT3 receptor antagonist",
+    "Resection and irradiation of a solitary brain metastasis",
+    "Repeated therapeutic thoracentesis only",
+    "Early referral to specialist palliative care"
+   ],
+   "items": [
+    {
+     "stem": "A 68-year-old man with metastatic NSCLC has a large malignant pleural effusion that has returned twice. After drainage the chest X-ray shows the lung has fully re-expanded.",
+     "answer": 3,
+     "explanation": "A recurrent malignant effusion is drained by intercostal tube, then **talc pleurodesis** is performed **provided the lung re-expands**.",
+     "studyRef": {
+      "sectionId": "onc-lung.s7"
+     }
+    },
+    {
+     "stem": "A 63-year-old woman has worsening breathlessness. Bronchoscopy shows the left main bronchus narrowed by extrinsic compression from bulky malignant nodes. The mucosa is intact.",
+     "answer": 1,
+     "explanation": "**Extrinsic compression** by nodes is relieved with an **endobronchial stent**. Laser needs tumour inside the lumen.",
+     "studyRef": {
+      "sectionId": "onc-lung.s7"
+     }
+    },
+    {
+     "stem": "A 70-year-old man has collapse of the right lung. Bronchoscopy shows a fleshy tumour growing into and blocking the right main bronchus.",
+     "answer": 2,
+     "explanation": "**Intraluminal** tumour in a main bronchus is best debulked with **bronchoscopic laser**, which can re-aerate the collapsed lung.",
+     "studyRef": {
+      "sectionId": "onc-lung.s7"
+     }
+    },
+    {
+     "stem": "A 65-year-old woman with known NSCLC has severe pain from a destructive metastasis in the right 6th rib despite regular analgesia.",
+     "answer": 0,
+     "explanation": "Pain from **bone metastases** or chest wall invasion is one of the main uses of **palliative radiotherapy**.",
+     "studyRef": {
+      "sectionId": "onc-lung.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 625,
+     "page": 603
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 624,
+     "page": 602
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 594,
+     "page": 557
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q21",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A GP is reviewing which of her patients would qualify for annual low-dose CT lung screening under the US criteria in Pocket Medicine.",
+   "leadIn": "Which patient meets the criteria?",
+   "options": [
+    "62-year-old who smoked 30 pack-years and quit 8 years ago",
+    "45-year-old current smoker with 25 pack-years",
+    "68-year-old never-smoker with high home radon levels",
+    "75-year-old who smoked 40 pack-years and quit 22 years ago",
+    "58-year-old current smoker with 10 pack-years"
+   ],
+   "answer": 0,
+   "explanation": "Criteria: age **50–80**, **≥20 pack-years**, and still smoking or **quit within 15 years**. Screening of this kind cut lung cancer deaths by about 20%.",
+   "whyNot": [
+    "",
+    "Younger than 50.",
+    "No smoking history, so not eligible.",
+    "Quit more than 15 years ago.",
+    "Fewer than 20 pack-years."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lung.s6"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 387,
+     "page": 387
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 999,
+     "page": 981
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q22",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 3,
+   "stem": "A 56-year-old woman who has never smoked has 6 weeks of rapidly worsening breathlessness. CT shows thickened interlobular septa in a polygonal pattern throughout **both** lungs, with no discrete lung mass.",
+   "leadIn": "Which primary site is most likely?",
+   "options": [
+    "Breast carcinoma",
+    "Bronchial adenocarcinoma",
+    "Small-cell lung cancer",
+    "Pleural mesothelioma",
+    "Pulmonary hamartoma"
+   ],
+   "answer": 0,
+   "explanation": "This is **lymphangitis carcinomatosa**. When it is **bilateral**, look for a primary outside the lung, such as breast, stomach or colon. Lymphangitis from a bronchial primary is usually unilateral.",
+   "whyNot": [
+    "",
+    "Lymphangitis from a bronchial primary is usually unilateral, and there is no lung mass.",
+    "SCLC usually presents with a central mass and early distant spread, not isolated bilateral lymphangitis.",
+    "Mesothelioma causes pleural thickening and effusion, not septal lymphangitis.",
+    "Hamartoma is a benign nodule and does not spread."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lung.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 995,
+     "page": 977
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 625,
+     "page": 603
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q23",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 58-year-old smoker has an apical lung tumour with pain down the inner left arm and wasting of the left hand muscles. His left eyelid droops slightly.",
+   "leadIn": "Which other finding on the left side would you expect?",
+   "options": [
+    "Constricted pupil",
+    "Dilated pupil",
+    "Increased facial sweating",
+    "Upper lid retraction",
+    "Proptosis"
+   ],
+   "answer": 0,
+   "explanation": "A Pancoast tumour involving the sympathetic chain causes ipsilateral **Horner's**: partial ptosis, **miosis**, enophthalmos and reduced facial sweating.",
+   "whyNot": [
+    "",
+    "A dilated pupil goes with a third-nerve palsy. Horner's gives a small pupil.",
+    "Sympathetic loss reduces sweating.",
+    "Horner's makes the lid droop (partial ptosis). Lid retraction is the opposite of the sign he already has.",
+    "Horner's gives apparent enophthalmos, not proptosis."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lung.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 622,
+     "page": 600
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1114,
+     "page": 1092
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q24",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 63-year-old man with squamous carcinoma of the left lung has flexible bronchoscopy to assess whether the tumour can be resected.",
+   "leadIn": "Which finding most clearly indicates that the tumour is inoperable?",
+   "options": [
+    "Paralysis of the left vocal cord",
+    "Tumour confined to a segmental bronchus",
+    "Brushings positive for squamous cells",
+    "Distorted mucosal folds in a lobar bronchus",
+    "Tumour lying 4 cm distal to the main carina"
+   ],
+   "answer": 0,
+   "explanation": "**Vocal cord paralysis** means the recurrent laryngeal nerve is involved by mediastinal tumour, which indicates **inoperability**. Tumour in the first 2 cm of a main bronchus does too.",
+   "whyNot": [
+    "",
+    "A distal, contained lesion is favourable for resection.",
+    "Confirms histology but says nothing about extent.",
+    "A typical appearance of tumour, not a sign of unresectability.",
+    "Well clear of the carina, so the tumour may still be resectable."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lung.s6"
+   },
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 593,
+     "page": 556
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 623,
+     "page": 601
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q25",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 3,
+   "stem": "A 67-year-old man has a central stage II NSCLC that would need a pneumonectomy. He walks a mile daily, his ECOG status is 0 and his resting oxygen saturation is 96%.",
+   "leadIn": "Which pre-operative result would most strongly argue against pneumonectomy?",
+   "options": [
+    "Gas transfer 40% of predicted",
+    "FEV1/FVC ratio 0.68",
+    "Haemoglobin 128 g/L",
+    "Normal resting ECG",
+    "Serum calcium 2.40 mmol/L"
+   ],
+   "answer": 0,
+   "explanation": "An active life after **pneumonectomy** is unlikely if **gas transfer is below 50%**. That is why full lung function including transfer factor is part of pre-operative assessment.",
+   "whyNot": [
+    "",
+    "Mild obstruction is common in smokers and does not on its own rule out surgery.",
+    "A mild anaemia does not stop surgery.",
+    "A normal ECG is reassuring.",
+    "Normal calcium."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lung.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 140,
+     "page": 119
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 996,
+     "page": 978
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q26",
+   "kind": "emq",
+   "pool": "mock",
+   "difficulty": 2,
+   "theme": "Complications of lung cancer",
+   "leadIn": "For each patient below, choose the most likely complication. Any option can fit one item, several items or none.",
+   "options": [
+    "Superior vena cava obstruction",
+    "Spinal cord compression",
+    "Hypercalcaemia",
+    "SIADH",
+    "Massive haemoptysis",
+    "Malignant pericardial effusion",
+    "Lambert–Eaton syndrome",
+    "Brain metastases",
+    "Pancoast syndrome",
+    "Lobar collapse"
+   ],
+   "items": [
+    {
+     "stem": "A 62-year-old man with a large central lung tumour suddenly coughs up a large volume of fresh blood and becomes shocked.",
+     "answer": 4,
+     "explanation": "A central tumour can erode a large vessel and cause sudden **massive, sometimes fatal haemoptysis**.",
+     "studyRef": {
+      "sectionId": "onc-lung.s4"
+     }
+    },
+    {
+     "stem": "A 58-year-old woman with NSCLC has two new seizures over a week, and her family notice a personality change.",
+     "answer": 7,
+     "explanation": "Seizures, focal deficits and personality change point to **brain metastases**.",
+     "studyRef": {
+      "sectionId": "onc-lung.s4"
+     }
+    },
+    {
+     "stem": "A 69-year-old man with left hilar lung cancer has a new irregular pulse and increasing breathlessness. His cardiac outline on chest X-ray has enlarged since a film 3 weeks earlier.",
+     "answer": 5,
+     "explanation": "An enlarging cardiac shadow with arrhythmia means pericardial invasion with **malignant pericardial effusion**.",
+     "studyRef": {
+      "sectionId": "onc-lung.s4"
+     }
+    },
+    {
+     "stem": "A 66-year-old woman with known vertebral metastases has new thoracic back pain, leg weakness and difficulty passing urine.",
+     "answer": 1,
+     "explanation": "Back pain, leg weakness and sphincter symptoms with spinal metastases mean **spinal cord compression**, which needs urgent treatment.",
+     "studyRef": {
+      "sectionId": "onc-lung.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 622,
+     "page": 600
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 623,
+     "page": 601
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 994,
+     "page": 976
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1348,
+     "page": 1326
+    }
+   ]
+  },
+  {
+   "id": "onc-lung.q27",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "Five patients have newly diagnosed lung cancer with good performance status.",
+   "leadIn": "According to Davidson, which tumour carries the best prognosis?",
+   "options": [
+    "Well-differentiated squamous carcinoma, no metastases, resectable",
+    "Small-cell carcinoma, limited stage",
+    "Adenocarcinoma with a malignant pleural effusion",
+    "Large-cell carcinoma with ipsilateral mediastinal nodes",
+    "Squamous carcinoma with a single adrenal metastasis"
+   ],
+   "answer": 0,
+   "explanation": "Davidson says the best outlook is a **well-differentiated, non-metastatic, resectable squamous** tumour. Resection gives over 75% 5-year survival in stage I.",
+   "whyNot": [
+    "",
+    "Even limited-stage SCLC has only about 25% 5-year survival.",
+    "A malignant effusion is M1a (stage IV).",
+    "N2 disease is at least stage IIIA.",
+    "A single extrathoracic metastasis is M1b (stage IV)."
+   ],
+   "studyRef": {
+    "sectionId": "onc-lung.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 625,
+     "page": 603
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 624,
+     "page": 602
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 141,
+     "page": 120
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "onc-lung.o1",
+   "sectionId": "onc-lung.s3",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 621,
+    "page": 599,
+    "figure": "Fig. 17.47"
+   },
+   "identify": "Large **cavitating** mass in the left lower lobe → lung cancer with central necrosis, classically peripheral squamous carcinoma. The main differential is a lung abscess."
+  },
+  {
+   "id": "onc-lung.o2",
+   "sectionId": "onc-lung.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 622,
+    "page": 600,
+    "figure": "Fig. 17.48"
+   },
+   "identify": "**Whole right lung collapse**: trachea and mediastinum pulled to the right, raised right hemidiaphragm, compensatory over-expansion of the left lung → right main bronchus obstruction, e.g. by a bronchial carcinoma."
+  },
+  {
+   "id": "onc-lung.o3",
+   "sectionId": "onc-lung.s6",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 574,
+    "page": 552,
+    "figure": "Fig. 17.5"
+   },
+   "identify": "**Lobar collapse patterns** from bronchial obstruction: identify which lobe has collapsed from the shape of the shadowing and the shift of fissures and diaphragm."
+  },
+  {
+   "id": "onc-lung.o4",
+   "sectionId": "onc-lung.s6",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 623,
+    "page": 601,
+    "figure": "Fig. 17.49"
+   },
+   "identify": "Eight X-ray presentations of lung cancer: unilateral hilar enlargement, peripheral opacity, collapse, effusion, paratracheal widening, enlarged cardiac shadow, raised hemidiaphragm (phrenic palsy) and rib destruction."
+  },
+  {
+   "id": "onc-lung.o5",
+   "sectionId": "onc-lung.s6",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 623,
+    "page": 601,
+    "figure": "Fig. 17.50"
+   },
+   "identify": "**Bronchoscopic view** of a lung cancer: distorted mucosal folds, partial narrowing of the lumen and abnormal tumour tissue."
+  },
+  {
+   "id": "onc-lung.o6",
+   "sectionId": "onc-lung.s6",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 575,
+    "page": 553,
+    "figure": "Fig. 17.6"
+   },
+   "identify": "**PET-CT**: FDG-avid pleural deposits that are inconspicuous on CT alone → occult pleural metastases (M1a), which upstage the disease."
+  },
+  {
+   "id": "onc-lung.o7",
+   "sectionId": "onc-lung.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 1336,
+    "page": 1314,
+    "figure": "Clinical examination overview"
+   },
+   "identify": "**Finger clubbing** in lung cancer: soft-tissue overgrowth of the fingertip with increased nail curvature. The same panel shows SVC obstruction and the Cushingoid look of ectopic ACTH.",
+   "image": "finger-clubbing"
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:27:42.418Z",
+  "contentHash": "441bb9d152089233346e3f2fdb7aff97ac95d836c48a9c237d4dc3dbb22c09c3"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:27:42.433Z",
+  "contentHash": "441bb9d152089233346e3f2fdb7aff97ac95d836c48a9c237d4dc3dbb22c09c3",
+  "checkerVersion": "source-check-v1"
+ }
+}

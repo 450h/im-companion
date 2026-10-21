@@ -1,0 +1,3741 @@
+{
+ "topicId": "cardio-hypertension",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "cardio-hypertension.s1",
+   "title": "Definition, grading and BP phenotypes",
+   "objectiveIdx": [
+    0,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Cardiovascular risk climbs **continuously** with BP — there is no natural cut-off. Hypertension is therefore a **pragmatic threshold**: the level at which the benefit of treatment outweighs its cost and side-effects. Davidson (British Hypertension Society) calls BP **above 140/90 mmHg** mild hypertension. Kumar describes it as a persistent rise in systemic arterial pressure affecting about **one adult in three** — the world's leading risk factor for death and a major driver of AF, stroke, MI and end-stage kidney disease.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 530,
+       "page": 508,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1149,
+       "page": 1133,
+       "chapter": "Hypertension"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Office BP categories (Davidson Box 16.64)",
+     "columns": [
+      "Category",
+      "Systolic (mmHg)",
+      "Diastolic (mmHg)"
+     ],
+     "rows": [
+      [
+       "Optimal",
+       "< 120",
+       "< 80"
+      ],
+      [
+       "Normal",
+       "< 130",
+       "< 85"
+      ],
+      [
+       "High normal",
+       "130–139",
+       "85–89"
+      ],
+      [
+       "Grade 1 (mild)",
+       "140–159",
+       "90–99"
+      ],
+      [
+       "Grade 2 (moderate)",
+       "160–179",
+       "100–109"
+      ],
+      [
+       "Grade 3 (severe)",
+       "≥ 180",
+       "> 110"
+      ],
+      [
+       "Isolated systolic, grade 1",
+       "140–159",
+       "< 90"
+      ],
+      [
+       "Isolated systolic, grade 2",
+       "≥ 160",
+       "< 90"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 531,
+       "page": 509,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Clinic vs out-of-office thresholds (NICE staging)",
+     "columns": [
+      "Stage",
+      "Clinic BP",
+      "Ambulatory / home average"
+     ],
+     "rows": [
+      [
+       "Stage 1",
+       "≥ 140/90",
+       "≥ 135/85"
+      ],
+      [
+       "Stage 2",
+       "≥ 160/100",
+       "≥ 150/95"
+      ],
+      [
+       "Severe",
+       "≥ 180/110 — consider treating at once",
+       "—"
+      ],
+      [
+       "Normotensive",
+       "< 140/90",
+       "< 135/85"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 534,
+       "page": 512,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 22,
+       "page": 22,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1156,
+       "page": 1140,
+       "chapter": "Hypertension"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "BP phenotypes and special types",
+     "columns": [
+      "Type",
+      "What it means",
+      "Key point"
+     ],
+     "rows": [
+      [
+       "White coat hypertension",
+       "High in clinic, normal at home/ambulatory",
+       "Risk between normotensive and sustained HTN; up to ~20% of raised clinic readings; drugs not recommended (Kumar)"
+      ],
+      [
+       "Masked hypertension",
+       "Normal in clinic, high outside it",
+       "Intermediate risk; manage using the out-of-office values"
+      ],
+      [
+       "Isolated systolic HTN",
+       "Systolic ≥ 140 with diastolic < 90",
+       "Arterial stiffening after ~50 years; wide pulse pressure"
+      ],
+      [
+       "Resistant (refractory) HTN",
+       "Uncontrolled despite 3 appropriate drugs",
+       "Check adherence first, then look for a secondary cause"
+      ],
+      [
+       "Accelerated (malignant) HTN",
+       "Very high BP with rapidly progressive organ damage",
+       "Fibrinoid necrosis of arterioles; grade 3–4 retinopathy"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1152,
+       "page": 1136,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1153,
+       "page": 1137,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 532,
+       "page": 510,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 536,
+       "page": 514,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In **isolated systolic hypertension** treat as for combined hypertension, but avoid pushing the diastolic **below about 60 mmHg** because coronary filling happens in diastole. Remember that **aortic regurgitation** can also produce a high systolic with a low diastolic.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1152,
+       "page": 1136,
+       "chapter": "Hypertension"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Never label hypertension from one reading** (unless BP is severe or organ damage is present) — confirm with repeated readings and ideally ambulatory/home monitoring. A **cuff that is too small** gives a falsely high reading: the bladder must cover at least two-thirds (Kumar: > 80%) of the arm.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 1089,
+       "page": 1089,
+       "chapter": "Ambulatory medicine"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 532,
+       "page": 510,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1152,
+       "page": 1136,
+       "chapter": "Hypertension"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**US thresholds differ.** The 2017 ACC/AHA scheme labels 130–139/80–89 as stage 1 and ≥ 140/90 as stage 2. Davidson and the UK sources use **140/90** as the diagnostic line — use that unless a question names the US guideline.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 96,
+       "page": 96,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 22,
+       "page": 22,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 530,
+       "page": 508,
+       "chapter": "Cardiology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.s2",
+   "title": "Primary vs secondary hypertension and its causes",
+   "objectiveIdx": [
+    1,
+    2
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Primary vs secondary",
+     "columns": [
+      "Feature",
+      "Primary (essential)",
+      "Secondary"
+     ],
+     "rows": [
+      [
+       "Definition",
+       "No single identifiable cause; multifactorial",
+       "A specific disease or drug whose removal can normalise BP"
+      ],
+      [
+       "Share of cases",
+       "Davidson > 95% (Kumar up to 90%; KC 80–90%)",
+       "Davidson ~5% (Kumar ~10%)"
+      ],
+      [
+       "Typical patient",
+       "Onset 25–55 y, family history",
+       "Young (< 30–40 y), sudden onset, severe or refractory BP, suggestive features"
+      ],
+      [
+       "Genetics",
+       "~40–60% of BP variation is inherited",
+       "Some monogenic forms (e.g. Liddle's)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 531,
+       "page": 509,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1153,
+       "page": 1137,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 519,
+       "page": 482,
+       "chapter": "Cardiovascular disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 96,
+       "page": 96,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1160,
+       "page": 1144
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Risk factors for essential hypertension",
+     "items": [
+      "**Age** — strong in all ethnic groups",
+      "**Ethnicity** — commoner in African Americans and Japanese",
+      "Family history / genetic factors",
+      "**High salt** intake, heavy **alcohol**, **obesity**, physical inactivity",
+      "**Low birth weight** / impaired intrauterine growth",
+      "Diet low in fruit and vegetables, high in saturated fat and simple sugars"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 531,
+       "page": 509,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1153,
+       "page": 1137,
+       "chapter": "Hypertension"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Secondary causes by group",
+     "columns": [
+      "Group",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Renal parenchymal",
+       "Glomerulonephritis, polycystic kidney disease, diabetic nephropathy, chronic tubulointerstitial disease"
+      ],
+      [
+       "Renovascular",
+       "Renal artery stenosis — atherosclerosis (older male smokers) or fibromuscular dysplasia (young women)"
+      ],
+      [
+       "Endocrine",
+       "Primary hyperaldosteronism (Conn's), phaeochromocytoma, Cushing's, acromegaly, hypo- and hyperthyroidism, hyperparathyroidism, CAH (11β- or 17α-hydroxylase deficiency), Liddle's, 11β-HSD deficiency"
+      ],
+      [
+       "Vascular",
+       "Coarctation of the aorta"
+      ],
+      [
+       "Drugs / substances",
+       "Alcohol, stimulants, combined oral contraceptive, NSAIDs, corticosteroids, ciclosporin/tacrolimus, VEGF inhibitors, venlafaxine, erythropoietin, liquorice"
+      ],
+      [
+       "Other",
+       "Obesity, obstructive sleep apnoea, pregnancy (pre-eclampsia)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 531,
+       "page": 509,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1154,
+       "page": 1138,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 519,
+       "page": 482,
+       "chapter": "Cardiovascular disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 97,
+       "page": 97,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 520,
+       "page": 483,
+       "chapter": "Cardiovascular disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 707,
+       "page": 707
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Renal artery stenosis** reduces perfusion of the juxtaglomerular apparatus, switching on the **renin–angiotensin–aldosterone system**. About two-thirds is **atherosclerotic** (elderly men, smokers, other vascular disease); **fibromuscular dysplasia** affects **young women** and is bilateral in about half.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 707,
+       "page": 707,
+       "chapter": "Nephrology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 97,
+       "page": 97,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Coarctation of the aorta** is a narrowing at the isthmus just beyond the left subclavian artery. It is twice as common in males and is linked with a **bicuspid aortic valve** (> 50%) and cerebral **berry aneurysms**. BP is high in the arms and normal or low in the legs.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 556,
+       "page": 534,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Liquorice** inhibits the enzyme (11β-HSD2) that normally stops cortisol reaching the mineralocorticoid receptor, so it mimics aldosterone excess — high BP with low potassium but **low aldosterone**. Always ask about over-the-counter drugs such as NSAIDs and decongestant stimulants.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1153,
+       "page": 1137,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1154,
+       "page": 1138,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 531,
+       "page": 509,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1085,
+       "page": 1085
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Sources disagree on the **commonest secondary cause**: KC and Zero to Finals say renal (parenchymal) disease; Step-Up says renal artery stenosis; Kumar names primary hyperaldosteronism, obstructive sleep apnoea and obesity. Davidson lists parenchymal renal disease (especially glomerulonephritis) first. Know the categories rather than one \"answer\".",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 519,
+       "page": 482,
+       "chapter": "Cardiovascular disease"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 22,
+       "page": 22,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1085,
+       "page": 1085,
+       "chapter": "Ambulatory medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1154,
+       "page": 1138,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 531,
+       "page": 509,
+       "chapter": "Cardiology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.s3",
+   "title": "Symptoms and examination signs",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Hypertension is usually **silent** until it is picked up at a routine check or a complication appears — hence Davidson's advice to check BP **every 5 years after age 40**. Headache, nosebleeds and, less often, visual upset or dizziness may occur, but on their own they are not a reason to start treatment. Most hypertension deaths come from **MI or heart failure**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 531,
+       "page": 509,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1150,
+       "page": 1134,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1087,
+       "page": 1087,
+       "chapter": "Ambulatory medicine"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Clues to a secondary cause",
+     "columns": [
+      "Finding",
+      "Think of"
+     ],
+     "rows": [
+      [
+       "Radio-femoral delay, weak femorals, arm BP > leg BP, posterior systolic murmur",
+       "Coarctation of the aorta"
+      ],
+      [
+       "Bilateral palpable (ballotable) kidneys",
+       "Polycystic kidney disease"
+      ],
+      [
+       "Abdominal (renal) bruit, flash pulmonary oedema",
+       "Renal artery stenosis"
+      ],
+      [
+       "Moon face, central obesity, striae",
+       "Cushing's syndrome"
+      ],
+      [
+       "Paroxysms of headache, palpitations, sweating, pallor",
+       "Phaeochromocytoma"
+      ],
+      [
+       "Hypokalaemia with metabolic alkalosis (not on diuretics)",
+       "Primary hyperaldosteronism (or Cushing's)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 531,
+       "page": 509,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 532,
+       "page": 510,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 97,
+       "page": 97,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 520,
+       "page": 483,
+       "chapter": "Cardiovascular disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 556,
+       "page": 534,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1155,
+       "page": 1139
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Signs of hypertensive heart disease",
+     "items": [
+      "Thrusting / heaving apex from **left ventricular hypertrophy**",
+      "Loud **aortic component of S2**",
+      "**Fourth heart sound** (stiff hypertrophied LV)",
+      "**Atrial fibrillation** — from LVH-related diastolic dysfunction or coexisting CAD",
+      "Left ventricular failure can occur in severe hypertension even without CAD"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 531,
+       "page": 509,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 520,
+       "page": 483,
+       "chapter": "Cardiovascular disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1156,
+       "page": 1140,
+       "chapter": "Hypertension"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Hypertensive retinopathy (Keith–Wagener–Barker, Davidson Box 16.66)",
+     "columns": [
+      "Grade",
+      "Features (each includes the grade before)"
+     ],
+     "rows": [
+      [
+       "1",
+       "Thickened, tortuous, shiny arterioles — **silver wiring**"
+      ],
+      [
+       "2",
+       "Plus **arteriovenous nipping** (veins pinched where arteries cross)"
+      ],
+      [
+       "3",
+       "Plus retinal ischaemia — **flame/blot haemorrhages** and **cotton wool spots**"
+      ],
+      [
+       "4",
+       "Plus **papilloedema** (swollen disc)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 532,
+       "page": 510,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 520,
+       "page": 483,
+       "chapter": "Cardiovascular disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1156,
+       "page": 1140
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Hard exudates and microaneurysms (dot haemorrhages) point to diabetic retinopathy**, not hypertension. Cotton wool spots are retinal infarcts and fade over a few weeks. Hypertension is also linked with **central retinal vein occlusion**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 532,
+       "page": 510,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 531,
+       "page": 509,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Grading schemes vary: Kumar now merges the two mildest grades into a three-tier system (mild / moderate / severe, with papilloedema = severe). Use Davidson's **four grades** for exams.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1156,
+       "page": 1140,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 532,
+       "page": 510,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 531,
+      "page": 509,
+      "chapter": "Cardiology",
+      "figure": "Fig. 16.76"
+     },
+     "note": "Look at panel A: grade 4 retinopathy — swollen disc, haemorrhages and many cotton wool spots. Panel B: central retinal vein occlusion."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1157,
+      "page": 1141,
+      "chapter": "Hypertension",
+      "figure": "Fig. 31.5"
+     },
+     "note": "Spot each sign: AV nicking, silver/copper wiring, flame haemorrhage, cotton wool spot, and the swollen disc of malignant hypertension."
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.s4",
+   "title": "Confirming the diagnosis and baseline investigations",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Measuring BP correctly",
+     "items": [
+      "Validated, calibrated device; patient seated and rested (Kumar: 5 min), back supported, legs uncrossed",
+      "Arm supported at **heart level**; tight clothing removed",
+      "Cuff bladder covering > two-thirds of the arm (Kumar > 80%) — too small a cuff over-reads in obese arms",
+      "Deflate about 2 mmHg per second; record to the nearest 2 mmHg; diastolic = **phase V** (sounds disappear)",
+      "Two readings per visit; measure both arms and use the higher arm if they differ by > 10 mmHg",
+      "Use the auscultatory method in AF; add standing BP in the elderly and diabetics"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 532,
+       "page": 510,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1152,
+       "page": 1136,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1150,
+       "page": 1134
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Ambulatory BP monitoring (ABPM)** gives many readings over 24 h, correlates best with organ damage and events, and is the UK diagnostic standard; **home monitoring (HBPM)** is the alternative. Out-of-office values run lower than clinic values — Davidson quotes about **12/7 mmHg** for ambulatory readings (use the **daytime** average), Kumar 5–10/5 mmHg — so thresholds are lowered to **135/85**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 532,
+       "page": 510,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1152,
+       "page": 1136,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 534,
+       "page": 512,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 300\" font-family=\"sans-serif\" font-size=\"12\"><rect x=\"160\" y=\"8\" width=\"200\" height=\"34\" rx=\"6\" fill=\"#e8eef7\" stroke=\"#345\"/><text x=\"260\" y=\"30\" text-anchor=\"middle\">Clinic BP ≥ 140/90</text><line x1=\"260\" y1=\"42\" x2=\"260\" y2=\"68\" stroke=\"#345\" stroke-width=\"1.5\"/><rect x=\"140\" y=\"68\" width=\"240\" height=\"34\" rx=\"6\" fill=\"#e8eef7\" stroke=\"#345\"/><text x=\"260\" y=\"90\" text-anchor=\"middle\">Offer ABPM (or HBPM)</text><line x1=\"260\" y1=\"102\" x2=\"80\" y2=\"140\" stroke=\"#345\" stroke-width=\"1.5\"/><line x1=\"260\" y1=\"102\" x2=\"260\" y2=\"140\" stroke=\"#345\" stroke-width=\"1.5\"/><line x1=\"260\" y1=\"102\" x2=\"440\" y2=\"140\" stroke=\"#345\" stroke-width=\"1.5\"/><rect x=\"10\" y=\"140\" width=\"140\" height=\"44\" rx=\"6\" fill=\"#eef7ee\" stroke=\"#345\"/><text x=\"80\" y=\"158\" text-anchor=\"middle\">&lt; 135/85</text><text x=\"80\" y=\"175\" text-anchor=\"middle\">Normotensive</text><rect x=\"190\" y=\"140\" width=\"140\" height=\"44\" rx=\"6\" fill=\"#fff6e5\" stroke=\"#345\"/><text x=\"260\" y=\"158\" text-anchor=\"middle\">≥ 135/85</text><text x=\"260\" y=\"175\" text-anchor=\"middle\">Stage 1</text><rect x=\"370\" y=\"140\" width=\"140\" height=\"44\" rx=\"6\" fill=\"#fde8e8\" stroke=\"#345\"/><text x=\"440\" y=\"158\" text-anchor=\"middle\">≥ 150/95</text><text x=\"440\" y=\"175\" text-anchor=\"middle\">Stage 2</text><rect x=\"20\" y=\"220\" width=\"480\" height=\"64\" rx=\"6\" fill=\"#f4f4f4\" stroke=\"#345\"/><text x=\"260\" y=\"242\" text-anchor=\"middle\">Clinic ≥ 180/110: consider starting drugs at once</text><text x=\"260\" y=\"266\" text-anchor=\"middle\">Accelerated HTN or suspected phaeo: same-day specialist referral</text></svg>",
+     "alt": "Algorithm: clinic BP of 140/90 or more leads to ambulatory or home monitoring. Below 135/85 is normotensive, 135/85 or more is stage 1, 150/95 or more is stage 2. Clinic BP of 180/110 or more: consider immediate treatment; accelerated hypertension or suspected phaeochromocytoma: same-day referral.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 534,
+       "page": 512,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Baseline tests for every hypertensive patient",
+     "items": [
+      "**Urinalysis** for blood, protein and glucose; urine **albumin:creatinine ratio**",
+      "**U&E and creatinine / eGFR** (renal damage; low K⁺ may hint at aldosteronism)",
+      "**Glucose / HbA1c** and **lipids** (total and HDL cholesterol)",
+      "**Thyroid function**",
+      "**12-lead ECG** — LVH, ischaemia, AF",
+      "Fundoscopy, cardiac examination and a **total cardiovascular risk** estimate (e.g. QRISK)"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 532,
+       "page": 510,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1151,
+       "page": 1135,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 521,
+       "page": 484,
+       "chapter": "Cardiovascular disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 97,
+       "page": 97,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 520,
+       "page": 483
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "The work-up has three aims: confirm the diagnosis, look for **target organ damage** and other **cardiovascular risk factors**, and screen for clues to a **secondary cause**. Extra tests for secondary causes are only ordered when history, examination or the baseline results suggest one.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 532,
+       "page": 510,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 97,
+       "page": 97,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1090,
+       "page": 1090,
+       "chapter": "Ambulatory medicine"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**ECG voltage criteria for LVH** are insensitive (20–50%) but highly specific (> 90%): a positive ECG makes LVH likely, a normal ECG does not exclude it. **Echocardiography** (or cardiac MRI) is better at detecting it.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1156,
+       "page": 1140,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 533,
+       "page": 511,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Hypokalaemic alkalosis** in a treated hypertensive is **usually the diuretic**, not Conn's syndrome — interpret potassium in the light of the drug history.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 532,
+       "page": 510,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 534,
+      "page": 512,
+      "chapter": "Cardiology",
+      "figure": "Fig. 16.78"
+     },
+     "note": "Follow the NICE diagnostic pathway: clinic reading → ABPM/HBPM stage → treatment threshold and referral triggers."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1152,
+      "page": 1136,
+      "chapter": "Hypertension",
+      "figure": "Fig. 31.3"
+     },
+     "note": "Correct BP technique: cuff at heart height, bladder > 80% of arm, rested patient, pulse palpated for AF."
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.s5",
+   "title": "Investigating secondary hypertension",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Who needs a secondary work-up",
+     "items": [
+      "Age **< 40 years** (especially without risk factors)",
+      "**Resistant** BP (uncontrolled on ≥ 3 drugs) or sudden worsening of previously stable BP",
+      "Suggestive history or examination (bruit, radio-femoral delay, paroxysms, Cushingoid habitus)",
+      "Abnormal baseline tests (unexplained low K⁺, raised creatinine, proteinuria)",
+      "Target organ damage out of proportion to BP, labile BP or intolerance of several drugs"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 532,
+       "page": 510,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 521,
+       "page": 484,
+       "chapter": "Cardiovascular disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1160,
+       "page": 1144,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 708,
+       "page": 708,
+       "chapter": "Nephrology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Suspected cause → test",
+     "columns": [
+      "Suspected cause",
+      "Key test(s)",
+      "Notes"
+     ],
+     "rows": [
+      [
+       "Renal artery stenosis",
+       "MR or CT angiography, duplex Doppler; catheter angiography is the gold standard",
+       "Treat with angioplasty ± stent; plasma renin alone is not specific"
+      ],
+      [
+       "Primary hyperaldosteronism",
+       "**Aldosterone:renin ratio** (raised), low K⁺",
+       "Then adrenal CT/MRI ± adrenal vein sampling; adrenalectomy if one-sided"
+      ],
+      [
+       "Phaeochromocytoma",
+       "**Plasma metanephrines** or urinary catecholamines",
+       "Localise with MRI / MIBG; full **α-blockade before surgery**"
+      ],
+      [
+       "Cushing's syndrome",
+       "Urinary free cortisol, **low-dose dexamethasone suppression**",
+       ""
+      ],
+      [
+       "Acromegaly",
+       "Serum **IGF-1**",
+       ""
+      ],
+      [
+       "Thyroid disease",
+       "TSH",
+       "Both hypo- and hyperthyroidism raise BP"
+      ],
+      [
+       "Obstructive sleep apnoea",
+       "Overnight oximetry / sleep study",
+       ""
+      ],
+      [
+       "Coarctation",
+       "**MRI** (investigation of choice); CXR, echo",
+       "CXR: rib notching, \"3\" sign"
+      ],
+      [
+       "Renal parenchymal disease",
+       "Renal ultrasound, urine ACR, eGFR",
+       ""
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 533,
+       "page": 511,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1155,
+       "page": 1139,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 708,
+       "page": 708,
+       "chapter": "Nephrology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 97,
+       "page": 97,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 556,
+       "page": 534,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 22,
+       "page": 22,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Suspect **renal artery stenosis** when: creatinine jumps after starting an **ACE inhibitor or ARB**, there is **flash pulmonary oedema** with a normal heart, an **abdominal bruit** (heard in 50–80%), hypertension that is new, sudden, accelerated or resistant, or vascular disease elsewhere.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1155,
+       "page": 1139,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 708,
+       "page": 708,
+       "chapter": "Nephrology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 707,
+       "page": 707
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A small fall in GFR (up to ~10%) is accepted when an ACE inhibitor starts. A **large creatinine rise within 1–2 weeks** suggests **bilateral renal artery stenosis** — check U&E before and 1–2 weeks after starting.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1156,
+       "page": 1140,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 535,
+       "page": 513,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1155,
+       "page": 1139
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Never operate on a phaeochromocytoma, or give a β-blocker alone, before adequate **α-blockade** — unopposed α-stimulation can cause a hypertensive crisis.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1155,
+       "page": 1139,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 698,
+       "page": 676
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 556,
+      "page": 534,
+      "chapter": "Cardiology",
+      "figure": "Fig. 16.93"
+     },
+     "note": "MRI of coarctation: tight narrowing just past the arch with large internal mammary and intercostal collaterals."
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.s6",
+   "title": "Complications and hypertensive crises",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "In **large arteries** the elastic lamina thickens, smooth muscle hypertrophies and fibrosis stiffens the wall. **Small arteries (< 1 mm)** develop **hyaline arteriosclerosis**, narrowing and micro-aneurysms. Atheroma accelerates everywhere, and the stiff, narrowed vessels raise resistance and cut renal flow, which drives the RAAS and worsens BP further.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 531,
+       "page": 509,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Target organ damage",
+     "columns": [
+      "Organ",
+      "Complications"
+     ],
+     "rows": [
+      [
+       "Heart",
+       "Concentric **LVH** → diastolic dysfunction → heart failure; AF; accelerated CAD and MI"
+      ],
+      [
+       "Brain",
+       "Ischaemic and lacunar stroke, TIA, **intracerebral haemorrhage**, vascular dementia, hypertensive encephalopathy"
+      ],
+      [
+       "Kidney",
+       "Nephrosclerosis — microalbuminuria first, then proteinuria and falling GFR, up to end-stage kidney disease"
+      ],
+      [
+       "Eye",
+       "Hypertensive retinopathy; central retinal vein occlusion"
+      ],
+      [
+       "Vessels",
+       "**Aortic dissection** (hypertension in ~80%), aortic aneurysm, peripheral arterial disease"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 531,
+       "page": 509,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 529,
+       "page": 507,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1156,
+       "page": 1140
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1086,
+       "page": 1086,
+       "chapter": "Ambulatory medicine"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1088,
+       "page": 1088,
+       "chapter": "Ambulatory medicine"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 98,
+       "page": 98,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Accelerated (malignant) hypertension** can complicate any cause. It is defined by **very high BP plus rapidly progressive end-organ damage**: grade 3–4 retinopathy, renal dysfunction with proteinuria (often AKI) and/or encephalopathy (KC uses diastolic > 120 mmHg). The hallmark lesion is **fibrinoid necrosis** of small arteries and arterioles with intravascular thrombosis. Untreated, LV failure and death follow within months.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 536,
+       "page": 514,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 520,
+       "page": 483,
+       "chapter": "Cardiovascular disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1161,
+       "page": 1145,
+       "chapter": "Hypertension"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Emergency vs urgency (US terms)",
+     "columns": [
+      "Feature",
+      "Hypertensive emergency",
+      "Hypertensive urgency"
+     ],
+     "rows": [
+      [
+       "BP",
+       "SBP ≥ 180 and/or DBP ≥ 120",
+       "Same range"
+      ],
+      [
+       "Acute organ damage",
+       "Present (encephalopathy, AKI, dissection, pulmonary oedema, ACS, eclampsia)",
+       "Absent"
+      ],
+      [
+       "Approach",
+       "Admit; usually IV drugs, controlled reduction",
+       "Oral drugs, lower over 24 h, usually as outpatient"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 132,
+       "page": 132,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1161,
+       "page": 1145,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 134,
+       "page": 134
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 99,
+       "page": 99
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Davidson: managing accelerated hypertension",
+     "items": [
+      "Lowering BP **too fast** is dangerous — autoregulation has reset, so perfusion falls: cerebral damage such as **occipital blindness**, or coronary or renal insufficiency",
+      "Aim for about **150/90 mmHg over 24–48 hours**, even with heart failure or encephalopathy",
+      "Bed rest and **oral** therapy are usually enough",
+      "Parenteral options (HDU): IV/IM **labetalol** 2 mg/min to max 200 mg; IV **GTN** 0.6–1.2 mg/h; IM **hydralazine** 5–10 mg every 30 min; IV **nitroprusside** 0.3–1.0 µg/kg/min"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 536,
+       "page": 514,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Specific emergencies (Kumar Box 31.7)",
+     "columns": [
+      "Situation",
+      "Target",
+      "First-line IV drug"
+     ],
+     "rows": [
+      [
+       "Aortic dissection",
+       "SBP 100–120 and HR 50–60 at once",
+       "Labetalol (rate first, then vasodilator)"
+      ],
+      [
+       "Acute pulmonary oedema",
+       "SBP < 140",
+       "GTN (plus loop diuretic)"
+      ],
+      [
+       "Acute coronary syndrome",
+       "SBP < 140",
+       "GTN, labetalol"
+      ],
+      [
+       "Pre-eclampsia",
+       "SBP < 160, DBP < 105",
+       "Antihypertensive plus IV magnesium"
+      ],
+      [
+       "Malignant HTN / encephalopathy",
+       "~25% MAP reduction (hours / immediately)",
+       "Labetalol, nicardipine"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1161,
+       "page": 1145,
+       "chapter": "Hypertension"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Rates differ by source: Davidson aims for ~150/90 over **24–48 h** even in encephalopathy; Kumar and Pocket cut MAP by ~25% within the first hour(s); Step-Up 10–20% in hour 1. Follow **Davidson** — slow, controlled lowering — with **aortic dissection** the exception needing rapid control (β-blocker/labetalol first).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 536,
+       "page": 514,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1161,
+       "page": 1145,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 100,
+       "page": 100,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 134,
+       "page": 134,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 530,
+       "page": 508,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**PRES** (posterior reversible encephalopathy syndrome) can complicate a hypertensive emergency: headache, confusion, visual loss and seizures with **posterior white-matter oedema on MRI**. Despite the name it is not always reversible.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 133,
+       "page": 133,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1161,
+       "page": 1145,
+       "chapter": "Hypertension"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 531,
+      "page": 509,
+      "chapter": "Cardiology",
+      "figure": "Fig. 16.76"
+     },
+     "note": "Panel B: central retinal vein occlusion — swollen disc and widespread fundal haemorrhage, a recognised complication of hypertension."
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.s7",
+   "title": "Management: lifestyle, drugs, targets and special groups",
+   "objectiveIdx": [
+    7
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Treatment aims to prevent **stroke, CAD and heart failure**. Lowering BP by about **10/5 mmHg** cuts all-cause mortality by ~15%, stroke by ~35%, heart failure by ~40% and MI by ~20% (Kumar). Relative benefit is similar in all groups, so **absolute** benefit is greatest in high-risk (e.g. older) patients.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1156,
+       "page": 1140,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 533,
+       "page": 511,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Lifestyle measures and expected fall in BP (Kumar Box 31.4)",
+     "columns": [
+      "Measure",
+      "Approximate effect"
+     ],
+     "rows": [
+      [
+       "Fruit/vegetable-rich diet, low saturated fat",
+       "~10 mmHg"
+      ],
+      [
+       "Salt < 6 g/day",
+       "~5 mmHg"
+      ],
+      [
+       "Aerobic exercise 30 min daily",
+       "~5 mmHg"
+      ],
+      [
+       "Alcohol < 2 units/day (KC: ≤ 21 units/wk men, ≤ 14 women)",
+       "~3 mmHg"
+      ],
+      [
+       "Weight loss if BMI > 25",
+       "~1 mmHg per kg"
+      ],
+      [
+       "Stop smoking",
+       "Lowers CV risk (not BP itself)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1158,
+       "page": 1142,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 522,
+       "page": 485,
+       "chapter": "Cardiovascular disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 535,
+       "page": 513,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "NICE stepwise drug therapy (Davidson Fig. 16.79)",
+     "columns": [
+      "Step",
+      "< 55 years (not Black)",
+      "≥ 55 years, or Black African/Caribbean at any age"
+     ],
+     "rows": [
+      [
+       "1",
+       "**A** — ACE inhibitor (or low-cost ARB)",
+       "**C** — calcium channel blocker"
+      ],
+      [
+       "2",
+       "A + C",
+       "A + C (ARB preferred over ACEI in Black patients)"
+      ],
+      [
+       "3",
+       "A + C + **D** (thiazide-like diuretic, e.g. indapamide)",
+       "A + C + D"
+      ],
+      [
+       "4 (resistant)",
+       "Add low-dose **spironolactone** (if K⁺ ≤ 4.5) or more thiazide-like diuretic (if K⁺ > 4.5); α- or β-blocker if diuretics fail; seek expert advice",
+       "Same"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 537,
+       "page": 515,
+       "chapter": "Cardiology",
+       "figure": "Fig. 16.79"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 523,
+       "page": 486,
+       "chapter": "Cardiovascular disease"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 22,
+       "page": 22,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 23,
+       "page": 23,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Why age and ethnicity? They stand in for **plasma renin**: older and Black patients tend to be **low-renin**, so ACEI/ARB monotherapy works poorly and a **CCB** is chosen first. The PATHWAY-2 trial showed **spironolactone** is the best fourth drug.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1158,
+       "page": 1142,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 522,
+       "page": 485,
+       "chapter": "Cardiovascular disease"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Targets (Davidson Box 16.71)",
+     "columns": [
+      "Age",
+      "Clinic BP",
+      "Ambulatory / home (daytime)"
+     ],
+     "rows": [
+      [
+       "< 80 years",
+       "< 140/90",
+       "< 135/85"
+      ],
+      [
+       "≥ 80 years",
+       "< 150/90",
+       "< 140/85"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 535,
+       "page": 513,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 534,
+       "page": 512,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Drug classes — key adverse effects and contraindications",
+     "columns": [
+      "Class",
+      "Adverse effects",
+      "Avoid / caution"
+     ],
+     "rows": [
+      [
+       "ACE inhibitor",
+       "Dry cough (bradykinin), first-dose hypotension, hyperkalaemia, rash, angioedema, renal impairment",
+       "**Pregnancy**, bilateral renal artery stenosis, angioedema; check U&E before and 1–2 wk after starting"
+      ],
+      [
+       "ARB",
+       "As ACEI but **no cough**; hyperkalaemia",
+       "Pregnancy, bilateral RAS; never combine with an ACEI"
+      ],
+      [
+       "Dihydropyridine CCB (amlodipine, nifedipine)",
+       "**Ankle oedema**, flushing, headache, palpitations",
+       "—"
+      ],
+      [
+       "Rate-limiting CCB (verapamil, diltiazem)",
+       "Bradycardia, **constipation** (verapamil)",
+       "**AV block, heart failure**, combining with a β-blocker"
+      ],
+      [
+       "Thiazide / thiazide-like",
+       "Low K⁺, low Na⁺, high urate, high glucose, raised lipids, low Mg²⁺",
+       "**Gout**"
+      ],
+      [
+       "β-blocker",
+       "Bradycardia, bronchospasm, cold peripheries, fatigue",
+       "**Asthma/COPD**, heart block; not first-line"
+      ],
+      [
+       "α-blocker (doxazosin)",
+       "Postural hypotension, urinary incontinence",
+       "Useful with BPH"
+      ],
+      [
+       "Spironolactone",
+       "**Hyperkalaemia**, gynaecomastia",
+       "eGFR < 30, K⁺ > 5.0"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 535,
+       "page": 513,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 536,
+       "page": 514,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1159,
+       "page": 1143,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1093,
+       "page": 1093,
+       "chapter": "Ambulatory medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 523,
+       "page": 486
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1092,
+       "page": 1092
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Compelling indications (Davidson Box 16.72)",
+     "columns": [
+      "Comorbidity",
+      "Favoured class"
+     ],
+     "rows": [
+      [
+       "Heart failure / LV dysfunction, post-MI",
+       "ACE inhibitor (ARB if intolerant), β-blocker, diuretic"
+      ],
+      [
+       "Diabetic nephropathy, proteinuric CKD",
+       "ACE inhibitor or ARB"
+      ],
+      [
+       "Angina or previous MI",
+       "β-blocker (or rate-limiting CCB)"
+      ],
+      [
+       "Older patient, isolated systolic HTN",
+       "Thiazide or dihydropyridine CCB"
+      ],
+      [
+       "Benign prostatic hypertrophy",
+       "α-blocker"
+      ],
+      [
+       "Secondary stroke prevention",
+       "ACE inhibitor plus thiazide-like diuretic"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 536,
+       "page": 514,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1092,
+       "page": 1092,
+       "chapter": "Ambulatory medicine"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 99,
+       "page": 99,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Pregnancy:** use **labetalol**, **methyldopa** or **nifedipine**; ACE inhibitors and ARBs are contraindicated, and diuretics are avoided. **Resistant hypertension:** the commonest reason is **non-adherence**; also exclude pseudoresistance (wrong cuff, high salt, white coat effect) and a missed cause (renal artery stenosis, phaeochromocytoma) before adding **spironolactone**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1159,
+       "page": 1143,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 99,
+       "page": 99,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 536,
+       "page": 514,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1158,
+       "page": 1142,
+       "chapter": "Hypertension"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Cardiovascular risk reduction:** a **statin** is indicated for hypertensives with a 10-year CV risk ≥ 10% or established vascular disease. Davidson also advises **aspirin** for patients ≥ 50 with well-controlled BP plus organ damage, diabetes or high risk.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 535,
+       "page": 513,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Guidelines differ: Kumar states that **aspirin is no longer recommended for primary prevention** in any group (bleeding offsets benefit), unlike Davidson. US guidance (ACC/AHA) starts drugs at ≥ 130/80 in higher-risk patients and treats thiazide, CCB and ACEI/ARB as equal first-line options; since SPRINT most international guidelines (not NICE) aim for < 130/80. All agree **β-blockers are not first-line** without another indication.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1158,
+       "page": 1142,
+       "chapter": "Hypertension"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 535,
+       "page": 513,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 98,
+       "page": 98,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 521,
+       "page": 484,
+       "chapter": "Cardiovascular disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1154,
+       "page": 1138
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kcEssentials",
+      "pdfPage": 523,
+      "page": 486,
+      "chapter": "Cardiovascular disease",
+      "figure": "Fig. 10.17"
+     },
+     "note": "NICE drug-choice algorithm: A or C by age/ethnicity → A + C → A + C + D → step 4 options."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "stepup6",
+      "pdfPage": 1095,
+      "page": 1095,
+      "chapter": "Ambulatory medicine",
+      "figure": "FIGURE 12-2"
+     },
+     "note": "Renin–angiotensin–aldosterone system: see where ACE inhibitors and ARBs act."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "cardio-hypertension.c1",
+   "sectionId": "cardio-hypertension.s1",
+   "front": "Davidson/BHS threshold for (mild) hypertension?",
+   "back": "Clinic BP above **140/90 mmHg** (grade 1 = 140–159 / 90–99).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 530,
+     "page": 508,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 531,
+     "page": 509,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.c2",
+   "sectionId": "cardio-hypertension.s1",
+   "front": "Grade 3 (severe) hypertension in Davidson's Box 16.64?",
+   "back": "Systolic **≥ 180** or diastolic **> 110** mmHg.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 531,
+     "page": 509,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.c3",
+   "sectionId": "cardio-hypertension.s1",
+   "front": "ABPM/HBPM thresholds for NICE stage 1 and stage 2 hypertension?",
+   "back": "Stage 1 **≥ 135/85**; stage 2 **≥ 150/95** (daytime average).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 534,
+     "page": 512,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 521,
+     "page": 484
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.c4",
+   "sectionId": "cardio-hypertension.s1",
+   "front": "White coat vs masked hypertension?",
+   "back": "White coat: high in clinic, normal outside. Masked: normal in clinic, high outside (manage on out-of-office values).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1152,
+     "page": 1136,
+     "chapter": "Hypertension"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.c5",
+   "sectionId": "cardio-hypertension.s2",
+   "front": "What proportion of hypertension is essential (primary), per Davidson?",
+   "back": "**> 95%**; about 5% is secondary.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 531,
+     "page": 509,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.c6",
+   "sectionId": "cardio-hypertension.s2",
+   "front": "Two types of renal artery stenosis and who gets them?",
+   "back": "**Atherosclerotic** (~two-thirds; older male smokers) and **fibromuscular dysplasia** (young women, often bilateral).",
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 707,
+     "page": 707,
+     "chapter": "Nephrology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.c7",
+   "sectionId": "cardio-hypertension.s2",
+   "front": "How does liquorice raise BP?",
+   "back": "Blocks 11β-HSD2, letting cortisol activate the mineralocorticoid receptor → apparent aldosterone excess.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1153,
+     "page": 1137,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.c8",
+   "sectionId": "cardio-hypertension.s3",
+   "front": "Grades 1–4 of hypertensive retinopathy?",
+   "back": "1 silver wiring; 2 + AV nipping; 3 + flame/blot haemorrhages and cotton wool spots; 4 + **papilloedema**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 532,
+     "page": 510,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.c9",
+   "sectionId": "cardio-hypertension.s3",
+   "front": "Retinal signs that suggest diabetes rather than hypertension?",
+   "back": "**Hard exudates** and **microaneurysms** (dot haemorrhages).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 532,
+     "page": 510,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.c10",
+   "sectionId": "cardio-hypertension.s3",
+   "front": "Three cardiac signs of hypertensive heart disease?",
+   "back": "Heaving apex (LVH), loud A2, fourth heart sound (± AF).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 531,
+     "page": 509,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 520,
+     "page": 483,
+     "chapter": "Cardiovascular disease"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.c11",
+   "sectionId": "cardio-hypertension.s4",
+   "front": "Baseline tests for every hypertensive?",
+   "back": "Urinalysis/ACR, U&E/creatinine, glucose/HbA1c, lipids, TFTs, 12-lead ECG (+ fundoscopy, CV risk score).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 532,
+     "page": 510,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1151,
+     "page": 1135,
+     "chapter": "Hypertension"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.c12",
+   "sectionId": "cardio-hypertension.s4",
+   "front": "Sensitivity vs specificity of ECG for LVH?",
+   "back": "Insensitive (20–50%) but specific (> 90%); echo is better.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1156,
+     "page": 1140,
+     "chapter": "Hypertension"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.c13",
+   "sectionId": "cardio-hypertension.s5",
+   "front": "Screening test for primary hyperaldosteronism?",
+   "back": "Plasma **aldosterone:renin ratio** (raised), often with low K⁺.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1155,
+     "page": 1139,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 22,
+     "page": 22,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.c14",
+   "sectionId": "cardio-hypertension.s5",
+   "front": "Investigation of choice for coarctation of the aorta?",
+   "back": "**MRI** (CXR may show rib notching and the \"3\" sign).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 556,
+     "page": 534,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.c15",
+   "sectionId": "cardio-hypertension.s6",
+   "front": "Hallmark histology of malignant (accelerated) hypertension?",
+   "back": "**Fibrinoid necrosis** of small arteries/arterioles with intravascular thrombosis.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 536,
+     "page": 514,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 520,
+     "page": 483,
+     "chapter": "Cardiovascular disease"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.c16",
+   "sectionId": "cardio-hypertension.s6",
+   "front": "Davidson's target when treating accelerated hypertension?",
+   "back": "About **150/90 over 24–48 h**, usually orally — falls that are too fast can cause cerebral damage such as occipital blindness.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 536,
+     "page": 514,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.c17",
+   "sectionId": "cardio-hypertension.s7",
+   "front": "NICE step 1 drug for a 45-year-old white man vs a 60-year-old?",
+   "back": "45 y: **ACE inhibitor** (or ARB). ≥ 55 y or Black African/Caribbean: **CCB**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 537,
+     "page": 515,
+     "chapter": "Cardiology",
+     "figure": "Fig. 16.79"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 523,
+     "page": 486,
+     "chapter": "Cardiovascular disease"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.c18",
+   "sectionId": "cardio-hypertension.s7",
+   "front": "Preferred fourth-line drug in resistant hypertension (K⁺ ≤ 4.5)?",
+   "back": "Low-dose **spironolactone** (PATHWAY-2).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1158,
+     "page": 1142,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 23,
+     "page": 23,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.c19",
+   "sectionId": "cardio-hypertension.s7",
+   "front": "Clinic BP target for patients ≥ 80 years (Davidson)?",
+   "back": "**< 150/90 mmHg** (< 140/90 if under 80).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 535,
+     "page": 513,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.c20",
+   "sectionId": "cardio-hypertension.s7",
+   "front": "Antihypertensives safe in pregnancy?",
+   "back": "Labetalol, methyldopa, nifedipine. Never ACEI/ARB.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1159,
+     "page": 1143,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 99,
+     "page": 99,
+     "chapter": "Cardiology"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "cardio-hypertension.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 52-year-old teacher has a clinic BP of 152/96 mmHg on two visits. She has no symptoms and no other illnesses.",
+   "leadIn": "Using the Davidson (British Hypertension Society) classification, how is this BP graded?",
+   "options": [
+    "High normal",
+    "Grade 1 (mild) hypertension",
+    "Grade 2 (moderate) hypertension",
+    "Grade 3 (severe) hypertension",
+    "Isolated systolic hypertension"
+   ],
+   "answer": 1,
+   "explanation": "Systolic 140–159 and diastolic 90–99 fall in **grade 1 (mild)**. If the two values fell in different bands, the higher band would decide the grade.",
+   "whyNot": [
+    "High normal is 130–139 / 85–89.",
+    "",
+    "Grade 2 needs 160–179 systolic or 100–109 diastolic.",
+    "Grade 3 needs ≥ 180 systolic or > 110 diastolic.",
+    "Isolated systolic hypertension requires a diastolic below 90."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-hypertension.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 531,
+     "page": 509,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 96,
+     "page": 96
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 46-year-old man has clinic readings of 158/94 and 160/96 mmHg. Over 24 hours of ambulatory monitoring his daytime average is 128/80 mmHg.",
+   "leadIn": "What is the best description of his blood pressure?",
+   "options": [
+    "Masked hypertension",
+    "White coat hypertension",
+    "Stage 1 hypertension",
+    "Stage 2 hypertension",
+    "Isolated systolic hypertension"
+   ],
+   "answer": 1,
+   "explanation": "High clinic readings with a **normal out-of-office average (< 135/85)** define **white coat hypertension**. His risk is above that of a normotensive person but below sustained hypertension, and drugs are not routinely started; keep monitoring.",
+   "whyNot": [
+    "Masked hypertension is the reverse: normal in clinic, high outside it.",
+    "",
+    "Stage 1 needs a daytime ABPM average ≥ 135/85.",
+    "Stage 2 needs a daytime ABPM average ≥ 150/95.",
+    "His diastolic is high in clinic, and the ambulatory values are normal anyway."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-hypertension.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1152,
+     "page": 1136,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 532,
+     "page": 510,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 534,
+     "page": 512,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q3",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Causes of hypertension",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Primary (essential) hypertension",
+    "Coarctation of the aorta",
+    "Atherosclerotic renal artery stenosis",
+    "Fibromuscular dysplasia of the renal artery",
+    "Adult polycystic kidney disease",
+    "Primary hyperaldosteronism (Conn's syndrome)",
+    "Phaeochromocytoma",
+    "Cushing's syndrome",
+    "Acromegaly",
+    "Obstructive sleep apnoea",
+    "Excess liquorice ingestion",
+    "Drug-induced hypertension (NSAID)"
+   ],
+   "items": [
+    {
+     "stem": "A 27-year-old woman is found to have BP 168/102 mmHg at a routine check. She is a non-smoker with no family history. A soft bruit is heard just lateral to the umbilicus. Her renal function is normal.",
+     "answer": 3,
+     "explanation": "Young woman + epigastric/abdominal bruit + no atherosclerotic risk factors = **fibromuscular dysplasia** of the renal artery, which often involves both sides.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s2"
+     }
+    },
+    {
+     "stem": "A 38-year-old man with BP 172/104 mmHg reports flank discomfort and one episode of visible haematuria. His father needed dialysis in his fifties. Both flanks have large, irregular ballotable masses.",
+     "answer": 4,
+     "explanation": "Bilateral enlarged kidneys with a family history of kidney failure point to **autosomal dominant polycystic kidney disease**.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s2"
+     }
+    },
+    {
+     "stem": "A 44-year-old woman has BP 164/100 mmHg and muscle weakness. She takes no medication. Sodium 144 mmol/L, potassium 2.9 mmol/L, bicarbonate 33 mmol/L. Plasma renin is suppressed and aldosterone is high.",
+     "answer": 5,
+     "explanation": "Hypertension + unprovoked **hypokalaemic alkalosis** with **high aldosterone and low renin** = primary hyperaldosteronism. Liquorice also lowers K⁺ but suppresses aldosterone.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 707,
+     "page": 707,
+     "chapter": "Nephrology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 531,
+     "page": 509,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1155,
+     "page": 1139,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 97,
+     "page": 97,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 61-year-old man who has had poorly controlled hypertension for years has his retinas examined. The arterioles are narrow and shiny, the veins are pinched where arteries cross, and there are flame-shaped haemorrhages and several cotton wool spots. The optic discs are sharp.",
+   "leadIn": "What grade of hypertensive retinopathy is this?",
+   "options": [
+    "Grade 1",
+    "Grade 2",
+    "Grade 3",
+    "Grade 4",
+    "Diabetic background retinopathy"
+   ],
+   "answer": 2,
+   "explanation": "Silver wiring (grade 1) + AV nipping (grade 2) + **haemorrhages and cotton wool spots** (signs of ischaemia) = **grade 3**. Sharp discs exclude papilloedema, so it is not grade 4.",
+   "whyNot": [
+    "Grade 1 is arteriolar change (silver wiring) only.",
+    "Grade 2 adds AV nipping but has no haemorrhages or exudates.",
+    "",
+    "Grade 4 requires papilloedema; the discs here are sharp.",
+    "Diabetic retinopathy is typified by microaneurysms and hard exudates, not AV nipping and silver wiring."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-hypertension.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 532,
+     "page": 510,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 19-year-old man has BP 166/98 mmHg in the right arm. He gets leg cramps when running. The femoral pulses are weak and arrive later than the radial pulse, and a systolic murmur is heard between the scapulae.",
+   "leadIn": "Which additional finding is most likely?",
+   "options": [
+    "Bilateral ballotable kidneys",
+    "BP in the legs lower than in the arms",
+    "Cushingoid facies with purple striae",
+    "Hypokalaemia with metabolic alkalosis",
+    "Paroxysmal sweating and pallor"
+   ],
+   "answer": 1,
+   "explanation": "Radio-femoral delay, claudication-type cramps and a posterior murmur indicate **coarctation**. Pressure is raised proximal to the narrowing and normal or low distally, so **leg BP is lower than arm BP**.",
+   "whyNot": [
+    "Enlarged kidneys suggest polycystic kidney disease, not this picture.",
+    "",
+    "Cushing's facies are not linked with radio-femoral delay.",
+    "Hypokalaemic alkalosis points to aldosterone excess, not coarctation.",
+    "Paroxysms suggest phaeochromocytoma."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-hypertension.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 556,
+     "page": 534,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 531,
+     "page": 509,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 58-year-old man has a clinic BP of 154/94 mmHg on two occasions. He has no symptoms and examination is normal.",
+   "leadIn": "According to the NICE pathway in Davidson, what is the next step to confirm the diagnosis?",
+   "options": [
+    "Start an ACE inhibitor immediately",
+    "Ambulatory BP monitoring",
+    "Renal artery duplex ultrasound",
+    "Repeat clinic BP in 5 years",
+    "Plasma metanephrines"
+   ],
+   "answer": 1,
+   "explanation": "Any clinic reading ≥ 140/90 should be confirmed with **ABPM** (or HBPM if ABPM is declined). Immediate treatment is considered only at ≥ 180/110 or with accelerated features.",
+   "whyNot": [
+    "Drugs are started before confirmation only if clinic BP is ≥ 180/110 or there is accelerated hypertension.",
+    "",
+    "There is nothing to suggest renal artery stenosis.",
+    "A 5-yearly check is for people whose clinic BP is below 140/90.",
+    "There are no features of phaeochromocytoma."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-hypertension.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 534,
+     "page": 512,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1152,
+     "page": 1136,
+     "chapter": "Hypertension"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 63-year-old woman on bendroflumethiazide for 3 years has routine bloods: sodium 136 mmol/L, potassium 3.1 mmol/L, bicarbonate 31 mmol/L. BP is 138/84 mmHg.",
+   "leadIn": "What is the most likely explanation for her potassium?",
+   "options": [
+    "Primary hyperaldosteronism",
+    "Thiazide diuretic therapy",
+    "Cushing's syndrome",
+    "Renal artery stenosis",
+    "Liddle's syndrome"
+   ],
+   "answer": 1,
+   "explanation": "Hypokalaemic alkalosis **can** suggest Conn's, but in a patient on a diuretic it is **usually the drug**. Check the drug history before chasing secondary causes.",
+   "whyNot": [
+    "Possible, but much less likely than the known diuretic; her BP is controlled.",
+    "",
+    "No Cushingoid features are described.",
+    "RAS can cause hypokalaemia but the diuretic explains it fully.",
+    "A rare monogenic disorder; the diuretic is the obvious cause."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-hypertension.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 532,
+     "page": 510,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 522,
+     "page": 485,
+     "chapter": "Cardiovascular disease"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q8",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Investigations for secondary hypertension",
+   "leadIn": "For each patient, choose the single most useful next investigation. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Plasma aldosterone:renin ratio",
+    "Plasma metanephrines",
+    "Low-dose dexamethasone suppression test",
+    "Serum IGF-1",
+    "Thyroid-stimulating hormone",
+    "Overnight oximetry / sleep study",
+    "MR angiography of the renal arteries",
+    "MRI of the thoracic aorta",
+    "Renal ultrasound",
+    "Echocardiography",
+    "Urine albumin:creatinine ratio",
+    "Serum calcium"
+   ],
+   "items": [
+    {
+     "stem": "A 49-year-old man's hypertension has needed four drugs. His wife says he snores loudly and stops breathing at night; he falls asleep in meetings. BMI is 38 kg/m² and neck circumference is large.",
+     "answer": 5,
+     "explanation": "Snoring, witnessed apnoeas and daytime sleepiness in an obese patient suggest **obstructive sleep apnoea**, one of the commonest secondary causes — test with overnight oximetry / a sleep study.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s5"
+     }
+    },
+    {
+     "stem": "A 34-year-old woman has episodes of pounding headache, palpitations, drenching sweats and pallor. BP between attacks is 150/95 mmHg but reached 230/130 during one episode.",
+     "answer": 1,
+     "explanation": "Paroxysmal headache, palpitations, sweating and pallor with BP surges = **phaeochromocytoma** — screen with plasma metanephrines (or urinary catecholamines).",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s5"
+     }
+    },
+    {
+     "stem": "A 68-year-old smoker with peripheral arterial disease starts ramipril for hypertension. Ten days later his creatinine has risen from 95 to 190 µmol/L. He had flash pulmonary oedema last year despite a normal ejection fraction.",
+     "answer": 6,
+     "explanation": "Two steps: a steep creatinine rise on an ACE inhibitor plus flash pulmonary oedema with good LV function → **bilateral renal artery stenosis** → non-invasive renal angiography (MR or CT).",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1155,
+     "page": 1139,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 533,
+     "page": 511,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1154,
+     "page": 1138
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 708,
+     "page": 708
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q9",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Managing severe hypertension",
+   "leadIn": "For each patient, choose the most appropriate immediate management. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Oral therapy aiming for about 150/90 mmHg over 24–48 hours",
+    "IV labetalol to SBP 100–120 mmHg and heart rate 50–60 within minutes",
+    "IV glyceryl trinitrate with a loop diuretic, SBP below 140 mmHg",
+    "IV magnesium sulfate plus antihypertensive, SBP below 160 mmHg",
+    "Sublingual nifedipine to normalise BP within an hour",
+    "Observe without treatment and repeat BP next year",
+    "Ambulatory BP monitoring before any treatment",
+    "Urgent alpha-blockade before any beta-blocker",
+    "Start statin only",
+    "Immediate carotid endarterectomy"
+   ],
+   "items": [
+    {
+     "stem": "A 55-year-old man has sudden tearing chest pain radiating to the back. BP is 190/110 mmHg in the right arm and 150/90 in the left. CT shows a dissection flap in the ascending aorta.",
+     "answer": 1,
+     "explanation": "Aortic dissection is the exception that needs **rapid** BP and heart-rate control — IV labetalol (β-blockade first) to SBP 100–120 and HR 50–60, then surgery for a type A dissection.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s6"
+     }
+    },
+    {
+     "stem": "A 47-year-old man has headache and blurred vision. BP is 236/138 mmHg. Fundoscopy shows bilateral disc swelling, flame haemorrhages and cotton wool spots. Creatinine is mildly raised; he is alert with no focal signs.",
+     "answer": 0,
+     "explanation": "Accelerated (malignant) hypertension. Davidson: lowering too fast causes cerebral hypoperfusion (e.g. occipital blindness), so aim for ~150/90 over **24–48 h**, usually with oral drugs.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s6"
+     }
+    },
+    {
+     "stem": "A 31-year-old woman at 35 weeks' gestation has headache, oedema and right upper quadrant pain. BP is 172/112 mmHg and there is new heavy proteinuria.",
+     "answer": 3,
+     "explanation": "Severe pre-eclampsia: lower SBP below 160 and DBP below 105 and give **IV magnesium** to prevent eclamptic fits.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 536,
+     "page": 514,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1161,
+     "page": 1145,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 530,
+     "page": 508,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q10",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Choosing an antihypertensive",
+   "leadIn": "For each patient, choose the most appropriate drug to add or start. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Ramipril (ACE inhibitor)",
+    "Losartan (ARB)",
+    "Amlodipine (dihydropyridine CCB)",
+    "Verapamil (rate-limiting CCB)",
+    "Indapamide (thiazide-like diuretic)",
+    "Bisoprolol (beta-blocker)",
+    "Doxazosin (alpha-blocker)",
+    "Spironolactone",
+    "Labetalol",
+    "Methyldopa",
+    "Furosemide",
+    "Hydralazine"
+   ],
+   "items": [
+    {
+     "stem": "A 42-year-old white man has ABPM-confirmed stage 1 hypertension with a 10-year CV risk of 12%. He has no other illness and lifestyle measures have not worked.",
+     "answer": 0,
+     "explanation": "Under 55 and not of Black African/Caribbean origin → NICE step 1 is an **ACE inhibitor** (A).",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s7"
+     }
+    },
+    {
+     "stem": "A 64-year-old woman with newly confirmed hypertension has no other conditions and no drug allergies.",
+     "answer": 2,
+     "explanation": "Aged ≥ 55 → step 1 is a **calcium channel blocker** (C), because older patients tend to have low renin.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s7"
+     }
+    },
+    {
+     "stem": "A 59-year-old man takes ramipril, amlodipine and indapamide at full dose and adheres to them. Clinic BP is 156/94 and ABPM confirms it. Serum potassium is 3.9 mmol/L.",
+     "answer": 7,
+     "explanation": "Resistant hypertension at step 4 with **K⁺ ≤ 4.5** → add low-dose **spironolactone** (PATHWAY-2 best fourth drug). With K⁺ > 4.5, more thiazide-like diuretic would be used instead.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 537,
+     "page": 515,
+     "chapter": "Cardiology",
+     "figure": "Fig. 16.79"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1158,
+     "page": 1142,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 23,
+     "page": 23,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 523,
+     "page": 486,
+     "chapter": "Cardiovascular disease"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q11",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Adverse effects of antihypertensive drugs",
+   "leadIn": "For each problem below, choose the drug most likely to be responsible. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Ramipril",
+    "Losartan",
+    "Amlodipine",
+    "Verapamil",
+    "Indapamide",
+    "Bisoprolol",
+    "Labetalol",
+    "Spironolactone",
+    "Clonidine",
+    "Minoxidil",
+    "Prazosin"
+   ],
+   "items": [
+    {
+     "stem": "A 66-year-old woman started a new BP tablet 6 weeks ago. She now has swollen ankles by the evening and a flushed face, but no breathlessness and a normal JVP.",
+     "answer": 2,
+     "explanation": "Dihydropyridine CCBs dilate arterioles, causing **ankle oedema**, flushing and headache — not fluid overload.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s7"
+     }
+    },
+    {
+     "stem": "A 52-year-old man stopped a BP drug because of a persistent tickly dry cough. He is switched to another agent acting on the same hormone system, which he tolerates well.",
+     "answer": 0,
+     "explanation": "ACE inhibitors cause **dry cough** through bradykinin build-up; ARBs (like losartan) do not, so the switch works.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s7"
+     }
+    },
+    {
+     "stem": "A 70-year-old man develops a hot, swollen first toe joint two months after a diuretic is added to his BP regimen.",
+     "answer": 4,
+     "explanation": "Thiazide and thiazide-like diuretics raise **uric acid** and can trigger **gout**; gout is a contraindication.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s7"
+     }
+    },
+    {
+     "stem": "A 61-year-old man on four BP drugs develops tender breast enlargement. His potassium is 5.6 mmol/L.",
+     "answer": 7,
+     "explanation": "**Spironolactone** (an aldosterone antagonist with anti-androgen effects) causes **gynaecomastia** and **hyperkalaemia**.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 535,
+     "page": 513,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1159,
+     "page": 1143,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 1093,
+     "page": 1093,
+     "chapter": "Ambulatory medicine"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 522,
+     "page": 485,
+     "chapter": "Cardiovascular disease"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 35-year-old woman has newly diagnosed hypertension of 170/105 mmHg. She drinks very little alcohol and takes no regular medicines, but says she eats several bars of liquorice a day. Potassium is 3.0 mmol/L. Plasma renin and aldosterone are both low.",
+   "leadIn": "What is the most likely mechanism of her hypertension?",
+   "options": [
+    "Autonomous aldosterone secretion by an adrenal adenoma",
+    "Cortisol activating the mineralocorticoid receptor",
+    "Increased renin from renal hypoperfusion",
+    "Excess catecholamine release",
+    "Increased vascular stiffness with age"
+   ],
+   "answer": 1,
+   "explanation": "Liquorice inhibits **11β-HSD2**, so cortisol is no longer inactivated in the kidney and stimulates the **mineralocorticoid receptor**. The result looks like aldosterone excess (high BP, low K⁺) but with **low renin and low aldosterone**.",
+   "whyNot": [
+    "Conn's would give high aldosterone, not low.",
+    "",
+    "Renovascular hypertension raises renin.",
+    "Catecholamine excess (phaeochromocytoma) does not cause low aldosterone with hypokalaemia.",
+    "She is 35; age-related stiffening causes isolated systolic hypertension in older people."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-hypertension.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1153,
+     "page": 1137,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 531,
+     "page": 509,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 70-year-old man with long-standing hypertension has a heaving apex beat and a fourth heart sound. Echocardiography shows a thick-walled, non-dilated left ventricle with normal ejection fraction and impaired relaxation.",
+   "leadIn": "What is the main mechanism of these findings?",
+   "options": [
+    "Concentric hypertrophy due to raised afterload",
+    "Eccentric dilatation due to volume overload",
+    "Myocardial infarction with scar",
+    "Restrictive infiltration by amyloid",
+    "Aortic regurgitation"
+   ],
+   "answer": 0,
+   "explanation": "Chronic pressure load (raised afterload) produces **concentric LVH** → stiff ventricle → **diastolic dysfunction** (S4, preserved EF), later dilatation and heart failure; AF is common.",
+   "whyNot": [
+    "",
+    "Volume overload (e.g. regurgitation) causes eccentric dilatation, not a thick small cavity.",
+    "Infarction gives regional wall motion loss and thinning.",
+    "Possible in the elderly, but long-standing hypertension is the obvious cause.",
+    "AR causes a dilated LV and a diastolic murmur."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-hypertension.s6"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 1086,
+     "page": 1086,
+     "chapter": "Ambulatory medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 531,
+     "page": 509,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1156,
+     "page": 1140,
+     "chapter": "Hypertension"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "A 67-year-old man with type 1 diabetes, gout and BPH has BP 162/96 mmHg on ABPM. eGFR is 70 mL/min and urine ACR is raised. He is of white British origin.",
+   "leadIn": "Which drug is the most appropriate first choice?",
+   "options": [
+    "Indapamide",
+    "Ramipril",
+    "Bisoprolol",
+    "Verapamil",
+    "Doxazosin"
+   ],
+   "answer": 1,
+   "explanation": "Despite his age, **type 1 diabetic nephropathy** (raised ACR) is a compelling indication for an **ACE inhibitor/ARB**, which protects the kidney. Thiazides are contraindicated in gout; α-blockers help BPH but are not first- or second-line.",
+   "whyNot": [
+    "Thiazide-like diuretics raise urate and are contraindicated in gout.",
+    "",
+    "β-blockers are not first-line without angina or MI.",
+    "Rate-limiting CCBs are not first-line antihypertensives.",
+    "An α-blocker would ease BPH but is only a step-4 drug for BP."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-hypertension.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 536,
+     "page": 514,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 1092,
+     "page": 1092,
+     "chapter": "Ambulatory medicine"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 23,
+     "page": 23,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 33-year-old man has resistant hypertension. Potassium is 3.2 mmol/L off diuretics and the aldosterone:renin ratio is markedly raised. Adrenal CT shows a 1.5 cm left adrenal nodule, and adrenal vein sampling confirms one-sided secretion.",
+   "leadIn": "What is the most appropriate treatment?",
+   "options": [
+    "Laparoscopic left adrenalectomy",
+    "Lifelong amlodipine alone",
+    "Renal artery angioplasty",
+    "Bilateral adrenalectomy",
+    "Alpha-blockade then surgery"
+   ],
+   "answer": 0,
+   "explanation": "**Unilateral** aldosterone secretion (Conn's adenoma) is curable by **laparoscopic adrenalectomy**, after localisation with adrenal imaging and vein sampling.",
+   "whyNot": [
+    "",
+    "Would not correct the cause; surgery offers cure for one-sided disease.",
+    "There is no renal artery stenosis.",
+    "Unnecessary — only one gland is the source; it would cause adrenal failure.",
+    "That is the preparation for phaeochromocytoma surgery."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-hypertension.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1155,
+     "page": 1139,
+     "chapter": "Hypertension"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q16",
+   "kind": "emq",
+   "pool": "worked",
+   "difficulty": 2,
+   "theme": "Classifying blood pressure",
+   "leadIn": "For each patient, choose the best description of their blood pressure. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Optimal BP",
+    "High normal BP",
+    "Grade 1 (mild) hypertension",
+    "Grade 2 (moderate) hypertension",
+    "Grade 3 (severe) hypertension",
+    "Isolated systolic hypertension",
+    "White coat hypertension",
+    "Masked hypertension",
+    "Resistant hypertension",
+    "Accelerated (malignant) hypertension"
+   ],
+   "items": [
+    {
+     "stem": "A 74-year-old woman has repeated clinic BP of 168/78 mmHg and a daytime ABPM average of 160/74 mmHg. Her pulse pressure is wide.",
+     "answer": 5,
+     "explanation": "Step 1: the systolic is high on both clinic and ABPM, so this is sustained. Step 2: the diastolic is **below 90**. Step 3: age-related arterial stiffening widens pulse pressure — **isolated systolic hypertension** (grade 2, as SBP ≥ 160). Avoid lowering DBP below ~60.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s1"
+     }
+    },
+    {
+     "stem": "A 41-year-old man has clinic BP of 132/82 mmHg on three visits, but his home readings average 148/92 mmHg. He has LVH on ECG.",
+     "answer": 7,
+     "explanation": "Step 1: clinic readings are below 140/90. Step 2: out-of-office average is above 135/85. Step 3: the LVH shows the high home BP is real → **masked hypertension**; manage on the out-of-office values.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s1"
+     }
+    },
+    {
+     "stem": "A 57-year-old man takes full doses of an ACE inhibitor, amlodipine and indapamide, and pill counts confirm he takes them. ABPM daytime average remains 152/96 mmHg.",
+     "answer": 8,
+     "explanation": "Step 1: three appropriate drugs including a diuretic. Step 2: adherence confirmed and ABPM excludes a white coat effect. Step 3: BP still above target → **resistant hypertension**; now screen for secondary causes and consider spironolactone.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 531,
+     "page": 509,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1152,
+     "page": 1136,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1153,
+     "page": 1137,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 99,
+     "page": 99,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q17",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 50-year-old man presents with headache and blurred vision. BP is 240/140 mmHg. He has bilateral papilloedema with flame haemorrhages. Urine shows protein and blood, and creatinine is 210 µmol/L. He is alert and oriented. The junior doctor proposes IV nitroprusside to bring BP to 120/80 within the hour.",
+   "leadIn": "What is the most appropriate approach?",
+   "options": [
+    "Normalise BP within 1 hour with IV nitroprusside",
+    "Reduce BP gradually to about 150/90 over 24–48 hours",
+    "Give no treatment until ABPM is done",
+    "Give sublingual nifedipine and discharge",
+    "Start lifestyle advice and review in 4 weeks"
+   ],
+   "answer": 1,
+   "explanation": "Reasoning: (1) grade 4 retinopathy + renal damage = **accelerated (malignant) hypertension**. (2) Cerebral autoregulation has reset to high pressures, so a rapid fall causes **hypoperfusion** — cerebral infarction, occipital blindness, renal or coronary insufficiency. (3) Davidson: bring BP to about **150/90 over 24–48 h**, usually with bed rest and oral drugs; IV agents (labetalol, GTN, nitroprusside) only with close HDU supervision.",
+   "whyNot": [
+    "Too fast — risks stroke and blindness.",
+    "",
+    "He has organ damage; treatment must start now.",
+    "Sublingual agents cause uncontrolled falls; he needs admission.",
+    "Accelerated hypertension is life-threatening and needs admission."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-hypertension.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 536,
+     "page": 514,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 524,
+     "page": 487,
+     "chapter": "Cardiovascular disease"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q18",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Causes of secondary hypertension",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Primary (essential) hypertension",
+    "Coarctation of the aorta",
+    "Atherosclerotic renal artery stenosis",
+    "Fibromuscular dysplasia of the renal artery",
+    "Adult polycystic kidney disease",
+    "Primary hyperaldosteronism (Conn's syndrome)",
+    "Phaeochromocytoma",
+    "Cushing's syndrome",
+    "Acromegaly",
+    "Obstructive sleep apnoea",
+    "Excess liquorice ingestion",
+    "Drug-induced hypertension (NSAID)"
+   ],
+   "items": [
+    {
+     "stem": "A 47-year-old man notices his rings and shoes no longer fit. He has coarse facial features, a large tongue, sweating and new hypertension of 164/100 mmHg. Glucose tolerance is impaired.",
+     "answer": 8,
+     "explanation": "Enlarging hands/feet, coarse features and macroglossia = **acromegaly** (confirm with IGF-1); GH excess causes hypertension and glucose intolerance.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s2"
+     }
+    },
+    {
+     "stem": "A 36-year-old woman has rapidly gained weight around her trunk, with a round red face, thin skin, purple abdominal striae and proximal muscle weakness. BP is 158/98 mmHg.",
+     "answer": 7,
+     "explanation": "Central obesity, moon face, purple striae and proximal myopathy = **Cushing's syndrome**.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s2"
+     }
+    },
+    {
+     "stem": "A 58-year-old woman with osteoarthritis has had good BP control for years on amlodipine. Over two months her BP has risen to 156/96 mmHg and she has gained ankle swelling. She recently began buying high-dose ibuprofen over the counter.",
+     "answer": 11,
+     "explanation": "NSAIDs cause sodium retention and blunt antihypertensives; always **ask specifically about over-the-counter drugs**.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s2"
+     }
+    },
+    {
+     "stem": "A 66-year-old ex-smoker with angina and claudication has BP that has recently become hard to control on three drugs. There is a bruit in the left upper quadrant, and the left kidney is 2 cm smaller than the right on ultrasound.",
+     "answer": 2,
+     "explanation": "Two steps: older vascular patient with new resistance + abdominal bruit + **asymmetric kidneys** → renal artery narrowing, and in this profile it is **atherosclerotic** (about two-thirds of RAS) rather than FMD.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 531,
+     "page": 509,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1154,
+     "page": 1138,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1155,
+     "page": 1139,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 707,
+     "page": 707,
+     "chapter": "Nephrology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 708,
+     "page": 708,
+     "chapter": "Nephrology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q19",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Investigations in hypertension",
+   "leadIn": "For each patient, choose the single most useful next investigation. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Plasma aldosterone:renin ratio",
+    "Plasma metanephrines",
+    "Low-dose dexamethasone suppression test",
+    "Serum IGF-1",
+    "Thyroid-stimulating hormone",
+    "Overnight oximetry / sleep study",
+    "MR angiography of the renal arteries",
+    "MRI of the thoracic aorta",
+    "Renal ultrasound",
+    "Echocardiography",
+    "Urine albumin:creatinine ratio",
+    "Serum calcium"
+   ],
+   "items": [
+    {
+     "stem": "A 22-year-old man has BP 162/90 mmHg in both arms. Femoral pulses are weak and delayed. CXR shows notching of the under-surface of several ribs.",
+     "answer": 7,
+     "explanation": "Radio-femoral delay + **rib notching** from collaterals = coarctation; **MRI** is the investigation of choice.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s5"
+     }
+    },
+    {
+     "stem": "A 39-year-old woman is newly hypertensive at 158/100 mmHg. She is not on diuretics. Potassium is 3.1 mmol/L and bicarbonate 32 mmol/L.",
+     "answer": 0,
+     "explanation": "Hypertension + unprovoked hypokalaemic alkalosis → screen for primary hyperaldosteronism with the **aldosterone:renin ratio**.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s5"
+     }
+    },
+    {
+     "stem": "A 54-year-old man with newly confirmed stage 1 hypertension has a normal dipstick. You want to detect the earliest sign of hypertensive kidney damage.",
+     "answer": 10,
+     "explanation": "The earliest renal damage is **microalbuminuria**, detected by the urine **albumin:creatinine ratio**, before dipstick proteinuria or a fall in eGFR.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s4"
+     }
+    },
+    {
+     "stem": "A 60-year-old woman with hypertension has a heaving apex and an S4, but her ECG shows no voltage criteria for LVH. You want to confirm or exclude LVH.",
+     "answer": 9,
+     "explanation": "ECG criteria for LVH are specific but **insensitive** (20–50%), so a normal ECG does not exclude it; **echocardiography** is more sensitive.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 556,
+     "page": 534,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1155,
+     "page": 1139,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1156,
+     "page": 1140,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 533,
+     "page": 511,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q20",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 30-year-old woman develops hypertension of 150/96 mmHg six months after starting a new medicine. Before this her BP was always normal. She has no other symptoms.",
+   "leadIn": "Which drug is the most likely cause?",
+   "options": [
+    "Combined oral contraceptive pill",
+    "Levothyroxine at replacement dose",
+    "Metformin",
+    "Folic acid",
+    "Paracetamol"
+   ],
+   "answer": 0,
+   "explanation": "Oestrogen-containing **oral contraceptives** are a classic, reversible cause of secondary hypertension in young women. Others to ask about: NSAIDs, steroids, calcineurin inhibitors, VEGF inhibitors, venlafaxine and stimulants.",
+   "whyNot": [
+    "",
+    "Replacement-dose thyroxine restores normal BP rather than raising it.",
+    "Metformin does not raise BP.",
+    "Folic acid has no effect on BP.",
+    "Paracetamol is not a recognised cause."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-hypertension.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1154,
+     "page": 1138,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 520,
+     "page": 483,
+     "chapter": "Cardiovascular disease"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 1085,
+     "page": 1085,
+     "chapter": "Ambulatory medicine"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q21",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 60-year-old man has confirmed hypertension. He has had several attacks of gout and has stable angina. He is of white British origin.",
+   "leadIn": "Which drug class is best avoided?",
+   "options": [
+    "Thiazide-like diuretic",
+    "ACE inhibitor",
+    "Beta-blocker",
+    "Dihydropyridine calcium channel blocker",
+    "Angiotensin receptor blocker"
+   ],
+   "answer": 0,
+   "explanation": "Davidson lists **gout** as a compelling contraindication to thiazides — they raise uric acid. A β-blocker or CCB suits his angina.",
+   "whyNot": [
+    "",
+    "ACE inhibitors are suitable and helpful after CAD.",
+    "Angina is a compelling indication for a β-blocker.",
+    "DHP CCBs suit older patients and angina.",
+    "ARBs are a suitable alternative to ACEIs."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-hypertension.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 536,
+     "page": 514,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 522,
+     "page": 485,
+     "chapter": "Cardiovascular disease"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q22",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A nurse measures BP in an obese man with an arm circumference of 42 cm using a standard adult cuff and gets 168/100 mmHg.",
+   "leadIn": "What is the most likely effect of the cuff choice on this reading?",
+   "options": [
+    "It falsely raises the reading",
+    "It falsely lowers the reading",
+    "It has no effect if the arm is at heart level",
+    "It only affects the diastolic phase IV",
+    "It causes an auscultatory gap only"
+   ],
+   "answer": 0,
+   "explanation": "The bladder must cover **more than two-thirds (Kumar > 80%)** of the arm. A cuff that is too small needs extra pressure to compress the artery and so **over-reads**, a common cause of falsely high readings in obese patients.",
+   "whyNot": [
+    "",
+    "A too-large cuff tends to under-read, not a small one.",
+    "Arm position matters, but does not cancel a small-cuff error.",
+    "Diastolic is read at phase V; the error affects both values.",
+    "The auscultatory gap is unrelated to cuff size."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-hypertension.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 532,
+     "page": 510,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1152,
+     "page": 1136,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 1089,
+     "page": 1089,
+     "chapter": "Ambulatory medicine"
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q23",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 3,
+   "theme": "Antihypertensive choice in special situations",
+   "leadIn": "For each patient, choose the most appropriate drug. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Ramipril (ACE inhibitor)",
+    "Losartan (ARB)",
+    "Amlodipine (dihydropyridine CCB)",
+    "Verapamil (rate-limiting CCB)",
+    "Indapamide (thiazide-like diuretic)",
+    "Bisoprolol (beta-blocker)",
+    "Doxazosin (alpha-blocker)",
+    "Spironolactone",
+    "Labetalol",
+    "Methyldopa",
+    "Furosemide",
+    "Hydralazine"
+   ],
+   "items": [
+    {
+     "stem": "A 29-year-old woman, 14 weeks pregnant, has BP 152/100 mmHg on repeated checks. She has mild asthma requiring an inhaler twice a week, and a trial of a calcium channel blocker earlier caused severe ankle swelling and headache. Proteinuria is absent.",
+     "answer": 9,
+     "explanation": "Pregnancy rules out ACEI/ARB. Labetalol is a β-blocker and is unwise with **asthma**, and she could not tolerate a CCB, so **methyldopa** is chosen.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s7"
+     }
+    },
+    {
+     "stem": "A 72-year-old man with urinary hesitancy and nocturia from an enlarged prostate is on ramipril, amlodipine and indapamide. BP is still 150/92 mmHg and potassium is 4.8 mmol/L. A higher indapamide dose previously caused hyponatraemia.",
+     "answer": 6,
+     "explanation": "Two steps: K⁺ > 4.5 makes spironolactone unsuitable and more diuretic was not tolerated, so step 4 moves to an α- or β-blocker — and **BPH** is a compelling indication for an **α-blocker**.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s7"
+     }
+    },
+    {
+     "stem": "A 58-year-old Black Caribbean man on amlodipine had ramipril added at step 2, but stopped it after 3 weeks because of an irritating dry cough. BP is 148/94 mmHg on ABPM.",
+     "answer": 1,
+     "explanation": "Step 2 is A + C. ACE-inhibitor cough is due to bradykinin; an **ARB** blocks the same system without cough (and is the preferred A drug in Black patients).",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1159,
+     "page": 1143,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 99,
+     "page": 99,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 536,
+     "page": 514,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 23,
+     "page": 23
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q24",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 3,
+   "stem": "A 71-year-old man with diabetes and peripheral arterial disease starts ramipril. Ten days later creatinine has risen from 110 to 205 µmol/L and potassium is 5.8 mmol/L. He is euvolaemic and takes no NSAIDs.",
+   "leadIn": "What is the most likely underlying diagnosis?",
+   "options": [
+    "Bilateral renal artery stenosis",
+    "Acute interstitial nephritis",
+    "Diabetic nephropathy progression",
+    "Post-renal obstruction from BPH",
+    "Primary hyperaldosteronism"
+   ],
+   "answer": 0,
+   "explanation": "Glomerular filtration in stenotic kidneys depends on angiotensin II constricting the efferent arteriole. An **ACE inhibitor removes that support**, so creatinine rises sharply. A rise far beyond the accepted ~10% within 1–2 weeks in a vascular patient points to **bilateral renal artery stenosis**.",
+   "whyNot": [
+    "",
+    "No culprit drug such as an NSAID is described; the tight link to starting an ACEI favours RAS.",
+    "Progression is slow, not a doubling in 10 days.",
+    "No urinary symptoms or retention described.",
+    "Conn's causes hypokalaemia, not hyperkalaemia."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-hypertension.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 535,
+     "page": 513,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1155,
+     "page": 1139,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1156,
+     "page": 1140,
+     "chapter": "Hypertension"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 406,
+     "page": 384
+    }
+   ]
+  },
+  {
+   "id": "cardio-hypertension.q25",
+   "kind": "emq",
+   "pool": "mock",
+   "difficulty": 2,
+   "theme": "Complications of hypertension",
+   "leadIn": "For each patient with long-standing hypertension, choose the most likely complication. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Aortic dissection",
+    "Lacunar infarct",
+    "Primary intracerebral haemorrhage",
+    "Hypertensive encephalopathy / PRES",
+    "Central retinal vein occlusion",
+    "Hypertensive nephrosclerosis",
+    "Left ventricular hypertrophy with diastolic dysfunction",
+    "Atrial fibrillation",
+    "Abdominal aortic aneurysm rupture",
+    "Subarachnoid haemorrhage"
+   ],
+   "items": [
+    {
+     "stem": "A 72-year-old woman with poorly controlled hypertension wakes to find she cannot see out of her right eye; it is not painful. On ophthalmoscopy the disc is swollen and haemorrhages are scattered across all four quadrants.",
+     "answer": 4,
+     "explanation": "Sudden painless monocular loss with widespread (\"stormy\") haemorrhage = **central retinal vein occlusion**, which is associated with hypertension.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s6"
+     }
+    },
+    {
+     "stem": "A 44-year-old man with BP 250/150 mmHg develops severe headache, confusion, cortical blindness and a seizure. MRI shows white-matter oedema in both occipital lobes.",
+     "answer": 3,
+     "explanation": "Very high BP + encephalopathy + **posterior white-matter oedema on MRI** = PRES / hypertensive encephalopathy.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s6"
+     }
+    },
+    {
+     "stem": "A 69-year-old man with hypertension for 25 years has a gradual rise in creatinine over 10 years, mild proteinuria, bland urine sediment and small, smooth kidneys on ultrasound.",
+     "answer": 5,
+     "explanation": "Two steps: slowly progressive CKD with bland sediment and small kidneys in long-standing hypertension → arteriolar sclerosis of the glomeruli → **hypertensive nephrosclerosis**.",
+     "studyRef": {
+      "sectionId": "cardio-hypertension.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 531,
+     "page": 509,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 1088,
+     "page": 1088,
+     "chapter": "Ambulatory medicine"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 133,
+     "page": 133,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1154,
+     "page": 1138,
+     "chapter": "Hypertension"
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "cardio-hypertension.o1",
+   "sectionId": "cardio-hypertension.s3",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 531,
+    "page": 509,
+    "chapter": "Cardiology",
+    "figure": "Fig. 16.76"
+   },
+   "identify": "Panel A: **grade 4 hypertensive retinopathy** — swollen optic disc (papilloedema), retinal haemorrhages and multiple cotton wool spots."
+  },
+  {
+   "id": "cardio-hypertension.o2",
+   "sectionId": "cardio-hypertension.s6",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 531,
+    "page": 509,
+    "chapter": "Cardiology",
+    "figure": "Fig. 16.76"
+   },
+   "identify": "Panel B: **central retinal vein occlusion** — swollen disc with haemorrhages throughout the fundus; a recognised complication of hypertension."
+  },
+  {
+   "id": "cardio-hypertension.o3",
+   "sectionId": "cardio-hypertension.s3",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 1157,
+    "page": 1141,
+    "chapter": "Hypertension",
+    "figure": "Fig. 31.5"
+   },
+   "identify": "Name each sign: **AV nicking** and silver/copper wiring (mild), **flame haemorrhage** and **cotton wool spot** (moderate), swollen disc with macular exudate (malignant, grade 4)."
+  },
+  {
+   "id": "cardio-hypertension.o4",
+   "sectionId": "cardio-hypertension.s3",
+   "cite": {
+    "book": "stepup6",
+    "pdfPage": 1090,
+    "page": 1090,
+    "chapter": "Ambulatory medicine",
+    "figure": "FIGURE 12-1"
+   },
+   "identify": "**Cotton wool spots** — fluffy white patches of nerve-fibre-layer infarction, a classic sign of hypertensive retinopathy."
+  },
+  {
+   "id": "cardio-hypertension.o5",
+   "sectionId": "cardio-hypertension.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 556,
+    "page": 534,
+    "chapter": "Cardiology",
+    "figure": "Fig. 16.93"
+   },
+   "identify": "MRI: **coarctation of the aorta** — tight narrowing just beyond the arch with enlarged internal mammary and intercostal collateral arteries."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:47:54.856Z",
+  "contentHash": "b926ee87c3a8f67f443c37871ba5097cff95d8cbf786c8bac36acdd303f33197"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:47:54.867Z",
+  "contentHash": "b926ee87c3a8f67f443c37871ba5097cff95d8cbf786c8bac36acdd303f33197",
+  "checkerVersion": "source-check-v1"
+ }
+}

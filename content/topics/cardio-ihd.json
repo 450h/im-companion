@@ -1,0 +1,3905 @@
+{
+ "topicId": "cardio-ihd",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "cardio-ihd.s1",
+   "title": "Pathogenesis, risk factors and the clinical spectrum",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Ischaemia arises whenever myocardial **oxygen demand outstrips supply**, and the usual culprit is **coronary atheroma**. A _fixed_ stenosis produces predictable **stable angina**; a plaque that **ruptures or erodes** and attracts a platelet-rich thrombus produces the _dynamic_ obstruction of **unstable angina** or the complete occlusion of **MI**. Rarer causes include spasm, arteritis and high demand states such as thyrotoxicosis or LVH from aortic stenosis or hypertension.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 507,
+       "page": 485
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 509,
+       "page": 487
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 482,
+       "page": 445
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Stable versus vulnerable plaque",
+     "columns": [
+      "Feature",
+      "Stable plaque",
+      "Vulnerable (rupture-prone) plaque"
+     ],
+     "rows": [
+      [
+       "Lipid core",
+       "Small pool",
+       "Large, lipid-rich"
+      ],
+      [
+       "Fibrous cap",
+       "Thick",
+       "Thin"
+      ],
+      [
+       "Calcification",
+       "Heavy",
+       "Speckled"
+      ],
+      [
+       "Inflammatory cells",
+       "Few; collagen cross-links abundant",
+       "Many"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 508,
+       "page": 486
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "What sets the oxygen balance",
+     "columns": [
+      "Raises demand",
+      "Determines supply"
+     ],
+     "rows": [
+      [
+       "Heart rate",
+       "Length of diastole (coronary flow is mainly diastolic)"
+      ],
+      [
+       "Blood pressure",
+       "Coronary perfusion pressure"
+      ],
+      [
+       "Contractility",
+       "Coronary vasomotor tone"
+      ],
+      [
+       "LV hypertrophy, valve disease",
+       "Haemoglobin and oxygen saturation"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 509,
+       "page": 487
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Risk factors",
+     "items": [
+      "**Age** is the strongest independent risk factor; male sex and a first-degree relative with early IHD are other fixed factors.",
+      "**Smoking** is probably the most important _modifiable_ factor, especially under 70; risk falls to near normal about 10 years after quitting.",
+      "Others: dyslipidaemia (high LDL, low HDL, high TG), hypertension, diabetes, obesity, inactivity, diet high in saturated fat.",
+      "Post-menopausal **HRT does not protect** and actually increases cardiovascular events."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 508,
+       "page": 486
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 483,
+       "page": 446
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Grading chest pain (NICE) and angina severity (CCS)",
+     "columns": [
+      "Scale",
+      "Category",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "NICE",
+       "Typical angina",
+       "All 3: constricting central pain (to jaw/arms), brought on by exertion/stress, eased by rest or GTN"
+      ],
+      [
+       "NICE",
+       "Atypical angina",
+       "2 of the 3 features"
+      ],
+      [
+       "NICE",
+       "Non-anginal pain",
+       "Only 1 of the 3 features"
+      ],
+      [
+       "CCS",
+       "Class I",
+       "Angina only with strenuous or prolonged exertion"
+      ],
+      [
+       "CCS",
+       "Class II–III",
+       "Slight (vigorous activity) to moderate (everyday activity) limitation"
+      ],
+      [
+       "CCS",
+       "Class IV",
+       "Angina with any activity or at rest"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1097,
+       "page": 1081
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 510,
+       "page": 488
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Angina variants",
+     "columns": [
+      "Variant",
+      "Key features"
+     ],
+     "rows": [
+      [
+       "Stable angina",
+       "Exertion, cold, heavy meals or emotion provoke it; rest relieves it promptly"
+      ],
+      [
+       "Unstable angina",
+       "New, crescendo or rest angina without myocardial necrosis; part of ACS"
+      ],
+      [
+       "Prinzmetal (variant)",
+       "Coronary **vasospasm**, often at rest, with **transient ST elevation**; isolated spasm with normal arteries is under 1% of cases"
+      ],
+      [
+       "Cardiac syndrome X",
+       "Typical angina + ischaemia on stress testing + **normal angiogram**; often women; good prognosis"
+      ],
+      [
+       "Decubitus / nocturnal",
+       "Provoked by lying flat / vivid dreams"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 509,
+       "page": 487
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 510,
+       "page": 488
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 484,
+       "page": 447
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "The acute coronary syndrome spectrum",
+     "columns": [
+      "Syndrome",
+      "Occlusion",
+      "Troponin",
+      "Typical ECG"
+     ],
+     "rows": [
+      [
+       "Unstable angina",
+       "Dynamic, partial",
+       "Not raised",
+       "Normal, or ST depression / T changes"
+      ],
+      [
+       "NSTEMI",
+       "Partial (subendocardial infarct)",
+       "Raised",
+       "ST depression, T inversion, R-wave loss without Q waves"
+      ],
+      [
+       "STEMI",
+       "Complete (transmural infarct)",
+       "Raised",
+       "ST elevation or new LBBB, later Q waves"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 487,
+       "page": 450
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 515,
+       "page": 493
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 519,
+       "page": 497
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Universal classification of MI",
+     "columns": [
+      "Type",
+      "Mechanism"
+     ],
+     "rows": [
+      [
+       "1",
+       "Spontaneous plaque rupture/erosion with thrombus"
+      ],
+      [
+       "2",
+       "Supply–demand mismatch: spasm, embolism, anaemia, arrhythmia, hypo-/hypertension"
+      ],
+      [
+       "3",
+       "Sudden cardiac death before biomarkers are available"
+      ],
+      [
+       "4a / 4b",
+       "PCI-related / stent thrombosis"
+      ],
+      [
+       "5",
+       "CABG-related"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1100,
+       "page": 1084
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 30,
+       "page": 30
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1101,
+       "page": 1085
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "About **1 in 10** patients with stable effort angina have **normal coronary arteries** at angiography — think of spasm, syndrome X, aortic stenosis, HCM or anaemia.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 509,
+       "page": 487
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1098,
+       "page": 1082
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Silent (painless) MI** is common in the **elderly and diabetics**. Older patients may present with anorexia, fatigue, weakness, delirium or falls rather than chest pain.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 517,
+       "page": 495
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 522,
+       "page": 500
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 490,
+       "page": 453
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.s2",
+   "title": "Approach to management and risk stratification",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The **history** makes the diagnosis. The first decision is whether the pain is **predictable exertional angina** (outpatient work-up) or a possible **acute coronary syndrome** (urgent admission, ECG at once).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 510,
+       "page": 488
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 520,
+       "page": 498
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Five principles for stable angina",
+     "items": [
+      "Assess the extent and severity of coronary disease",
+      "Find and treat risk factors",
+      "Support smoking cessation",
+      "Start drugs for symptom control",
+      "Identify **high-risk** patients who may live longer with revascularisation"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 510,
+       "page": 488
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Explain and reassure: many patients wrongly believe each angina attack is a \"mini heart attack\" and stop all exercise. Exercise up to the point of discomfort is helpful. Quick sources summarise stable angina care as **RAMP**: Refer, Advise (when to call an ambulance), Medical therapy, Procedural intervention.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 510,
+       "page": 488
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 511,
+       "page": 489
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 10,
+       "page": 10
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Risk stratification in stable angina",
+     "columns": [
+      "High risk",
+      "Low risk"
+     ],
+     "rows": [
+      [
+       "Angina after infarction",
+       "Predictable exertional angina"
+      ],
+      [
+       "Poor effort tolerance",
+       "Good effort tolerance"
+      ],
+      [
+       "Ischaemic changes appear early, at a low exercise level",
+       "Ischaemic changes appear only near peak exercise"
+      ],
+      [
+       "Disease of the left main stem, or of all three vessels",
+       "Disease confined to one or two vessels"
+      ],
+      [
+       "Poor LV function",
+       "Good LV function"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 510,
+       "page": 488
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Clinical features of ACS",
+     "items": [
+      "Prolonged pain in chest, throat, arms, epigastrium or back; dread, breathlessness, nausea/vomiting, syncope",
+      "**Sympathetic** signs: pallor, sweating, tachycardia",
+      "**Vagal** signs: vomiting, bradycardia — especially with **inferior MI**",
+      "Pump failure: hypotension, cold peripheries, raised JVP, S3, crackles"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 517,
+       "page": 495
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 620 330\" role=\"img\" aria-label=\"ACS triage algorithm\">\n<rect x=\"185\" y=\"10\" width=\"250\" height=\"44\" rx=\"8\" fill=\"#e8eef8\" stroke=\"#34558b\" stroke-width=\"1.5\"/>\n<text x=\"310\" y=\"30\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\" font-weight=\"bold\">Suspected ACS: admit, ECG at once</text>\n<text x=\"310\" y=\"46\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">aspirin 300 mg, P2Y12 load, analgesia</text>\n<line x1=\"250\" y1=\"54\" x2=\"140\" y2=\"96\" stroke=\"#34558b\" stroke-width=\"1.5\"/>\n<line x1=\"370\" y1=\"54\" x2=\"470\" y2=\"96\" stroke=\"#34558b\" stroke-width=\"1.5\"/>\n<rect x=\"20\" y=\"96\" width=\"250\" height=\"56\" rx=\"8\" fill=\"#fbe9e7\" stroke=\"#b23b2a\" stroke-width=\"1.5\"/>\n<text x=\"145\" y=\"118\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\" font-weight=\"bold\">ST elevation or new LBBB</text>\n<text x=\"145\" y=\"138\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">= STEMI (do not wait for troponin)</text>\n<rect x=\"350\" y=\"96\" width=\"250\" height=\"56\" rx=\"8\" fill=\"#eef6ec\" stroke=\"#3c7a35\" stroke-width=\"1.5\"/>\n<text x=\"475\" y=\"118\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\" font-weight=\"bold\">No ST elevation</text>\n<text x=\"475\" y=\"138\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">serial ECGs + serial troponin</text>\n<line x1=\"145\" y1=\"152\" x2=\"145\" y2=\"190\" stroke=\"#b23b2a\" stroke-width=\"1.5\"/>\n<rect x=\"20\" y=\"190\" width=\"250\" height=\"70\" rx=\"8\" fill=\"#fbe9e7\" stroke=\"#b23b2a\" stroke-width=\"1.5\"/>\n<text x=\"145\" y=\"212\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\">Onset under 12 h: primary PCI</text>\n<text x=\"145\" y=\"230\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\">PCI not possible in 120 min:</text>\n<text x=\"145\" y=\"248\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\">thrombolysis, then PCI within 24 h</text>\n<line x1=\"430\" y1=\"152\" x2=\"410\" y2=\"190\" stroke=\"#3c7a35\" stroke-width=\"1.5\"/>\n<line x1=\"520\" y1=\"152\" x2=\"545\" y2=\"190\" stroke=\"#3c7a35\" stroke-width=\"1.5\"/>\n<rect x=\"320\" y=\"190\" width=\"160\" height=\"56\" rx=\"8\" fill=\"#eef6ec\" stroke=\"#3c7a35\" stroke-width=\"1.5\"/>\n<text x=\"400\" y=\"212\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\" font-weight=\"bold\">Troponin raised</text>\n<text x=\"400\" y=\"230\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\">= NSTEMI</text>\n<rect x=\"490\" y=\"190\" width=\"120\" height=\"56\" rx=\"8\" fill=\"#f4f4f4\" stroke=\"#666666\" stroke-width=\"1.5\"/>\n<text x=\"550\" y=\"212\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\" font-weight=\"bold\">Troponin normal</text>\n<text x=\"550\" y=\"230\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">UA or non-cardiac</text>\n<line x1=\"400\" y1=\"246\" x2=\"440\" y2=\"276\" stroke=\"#3c7a35\" stroke-width=\"1.5\"/>\n<line x1=\"550\" y1=\"246\" x2=\"500\" y2=\"276\" stroke=\"#666666\" stroke-width=\"1.5\"/>\n<rect x=\"320\" y=\"276\" width=\"290\" height=\"46\" rx=\"8\" fill=\"#fff7e0\" stroke=\"#a07800\" stroke-width=\"1.5\"/>\n<text x=\"465\" y=\"296\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\">GRACE score: 140 or more (medium/high risk)</text>\n<text x=\"465\" y=\"313\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\">= early inpatient coronary angiography</text>\n</svg>",
+     "alt": "Algorithm: suspected ACS gets an immediate ECG. ST elevation or new LBBB means STEMI and reperfusion. Without ST elevation, serial troponin separates NSTEMI (raised) from unstable angina or non-cardiac pain (normal). A GRACE score of 140 or more indicates early inpatient angiography.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 12,
+       "page": 12
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 520,
+       "page": 498
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 521,
+       "page": 499
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "GRACE score and Killip class",
+     "columns": [
+      "Item",
+      "Detail"
+     ],
+     "rows": [
+      [
+       "GRACE inputs",
+       "Killip class, systolic BP, heart rate, age, creatinine, cardiac arrest at admission, ST deviation, raised enzymes"
+      ],
+      [
+       "Killip I",
+       "No heart failure"
+      ],
+      [
+       "Killip II",
+       "Crackles halfway up the chest"
+      ],
+      [
+       "Killip III",
+       "Crackles over all lung fields"
+      ],
+      [
+       "Killip IV",
+       "Cardiogenic shock"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 516,
+       "page": 494
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "All suspected ACS is **admitted urgently**. A GRACE score of **140 or more** indicates early inpatient angiography; Davidson's algorithm bands in-hospital death risk as low (<1%), medium (1–9%) and high (>9%). Uncomplicated low-risk patients mobilise on **day 2**, go home after **2–3 days** and have an exercise test about 4 weeks later.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 520,
+       "page": 498
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 521,
+       "page": 499
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Quick sources also use the **TIMI** score for UA/NSTEMI: 1 point each for age over 65, more than three risk factors, known stenosis of 50% or more, aspirin in the last 7 days, two or more rest-pain episodes in 24 h, ST deviation and raised markers (0–2 low, 3–4 intermediate, 5–7 high).",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 490,
+       "page": 453
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "ACS is not benign: about **12% die within 1 month** and **20% within 6 months**. A normal-looking patient with ongoing pain still needs admission.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 515,
+       "page": 493
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 516,
+      "page": 494,
+      "figure": "Fig. 16.62"
+     },
+     "note": "GRACE chart: see how points for each predictor add up to an in-hospital death probability."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 521,
+      "page": 499,
+      "figure": "Fig. 16.70"
+     },
+     "note": "ACS treatment algorithm: STEMI → reperfusion; NSTE-ACS → GRACE band decides early angiography."
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.s3",
+   "title": "Investigating suspected stable angina",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Baseline work-up",
+     "items": [
+      "Examine for **aortic stenosis** (slow-rising pulse, ejection systolic murmur to the neck), heart failure, anaemia, thyrotoxicosis and lipid signs (arcus, xanthelasma, tendon xanthomata)",
+      "Bloods: FBC, TFTs, fasting glucose/HbA1c, fasting lipids, renal function (before ACE inhibitor), LFTs (before statin)",
+      "**12-lead ECG** — often normal between attacks; during pain ST depression or T flattening/inversion",
+      "Echo for wall motion and EF; ambulatory ECG if vasospasm suspected; CXR if features are atypical"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1098,
+       "page": 1082
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 10,
+       "page": 10
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 485,
+       "page": 448
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Davidson's first-line test is the **exercise ECG**. **Planar or down-sloping ST depression of 1 mm or more** indicates ischaemia; up-sloping depression is less specific and may be normal. The test is diagnostic only if the patient reaches about **85% of predicted maximum heart rate** (220 minus age).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 510,
+       "page": 488
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 511,
+       "page": 489
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 21,
+       "page": 21
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Features of **severe disease** on exercise testing: ST depression at a **low workload** (early in the Bruce protocol) or a **fall in BP** during exercise. These patients go on to coronary angiography.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 485,
+       "page": 448
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 510,
+       "page": 488
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "False-positive or uninterpretable exercise ECGs: **digoxin, LVH, bundle branch block (LBBB), WPW**, paced rhythm. A normal test does not exclude CAD; if suspicion stays high, use perfusion imaging or stress echo.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 510,
+       "page": 488
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 29,
+       "page": 29
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Functional imaging",
+     "columns": [
+      "Test",
+      "Ischaemia looks like",
+      "Notes"
+     ],
+     "rows": [
+      [
+       "Myocardial perfusion scan",
+       "Defect at stress, normal at rest (**reversible**)",
+       "Defect in both phases (**fixed**) = old infarct/scar"
+      ],
+      [
+       "Stress echocardiography",
+       "New regional wall-motion abnormality under stress",
+       "Often uses dobutamine (raises HR, BP, contractility)"
+      ],
+      [
+       "Vasodilator stress",
+       "Adenosine/dipyridamole cause \"steal\" from stenosed beds",
+       "For patients who cannot exercise; paired with perfusion imaging"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 510,
+       "page": 488
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 30,
+       "page": 30
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 22,
+       "page": 22
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**CT coronary angiography** is increasingly used to confirm or exclude CAD and avoid catheterisation in those with no or mild disease. **Invasive coronary angiography** is the definitive anatomical test and is done when PCI or CABG is being considered.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 510,
+       "page": 488
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 24,
+       "page": 24
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Sources differ on the first test: **Davidson** names the **exercise ECG** as first line (with CTCA increasingly used), whereas NICE-based quick sources call **CT coronary angiography** the gold-standard first test. In the exam follow Davidson but know the NICE position.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 510,
+       "page": 488
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 10,
+       "page": 10
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 511,
+      "page": 489,
+      "figure": "Fig. 16.56"
+     },
+     "note": "Three ST depression shapes: planar and down-sloping suggest ischaemia; up-sloping may be normal."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 512,
+      "page": 490,
+      "figure": "Fig. 16.57"
+     },
+     "note": "Positive exercise test: marked planar ST depression in V4–V5 after 3 minutes; angiography showed critical three-vessel disease."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 512,
+      "page": 490,
+      "figure": "Fig. 16.58"
+     },
+     "note": "Perfusion scan: uniform \"doughnut\" uptake at rest, anterior \"crescent\" defect at stress = reversible anterior ischaemia."
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.s4",
+   "title": "Investigations in acute coronary syndrome",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Acute MI** = a **rise and/or fall of troponin** with at least one value above the **99th centile**, plus at least one of: ischaemic symptoms, new ST–T change or new LBBB, new pathological Q waves, new loss of viable myocardium or regional wall-motion abnormality on imaging, or intracoronary thrombus.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 515,
+       "page": 493
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 39,
+       "page": 39
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "The **first ECG is normal or non-diagnostic in about one-third**, so repeat it — every 15 minutes while pain continues. **STEMI criteria** (Davidson): ST elevation in two contiguous leads of **1 mm or more in limb leads** or **2 mm or more in chest leads**, or **new LBBB**. Pocket Medicine lowers the V2–V3 threshold for women (1.5 mm).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 518,
+       "page": 496
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 521,
+       "page": 499
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1104,
+       "page": 1088
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 44,
+       "page": 44
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "ECG evolution of transmural MI",
+     "columns": [
+      "Stage",
+      "Timing",
+      "Change"
+     ],
+     "rows": [
+      [
+       "Hyperacute",
+       "Minutes",
+       "Tall T waves, ST elevation (\"current of injury\")"
+      ],
+      [
+       "Evolving",
+       "Hours",
+       "R-wave loss, Q wave appears, ST settles, T begins to invert"
+      ],
+      [
+       "Established",
+       "Days",
+       "Deep Q wave with inverted T"
+      ],
+      [
+       "Old infarct",
+       "Weeks–months",
+       "Q wave persists; T changes fade"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 518,
+       "page": 496
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 519,
+       "page": 497
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 491,
+       "page": 454
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Localising the infarct",
+     "columns": [
+      "Territory",
+      "Leads",
+      "Usual artery"
+     ],
+     "rows": [
+      [
+       "Anteroseptal",
+       "V1–V4",
+       "LAD"
+      ],
+      [
+       "Anterolateral",
+       "V4–V6, I, aVL",
+       "LAD / circumflex"
+      ],
+      [
+       "Lateral",
+       "I, aVL (V5–V6)",
+       "Circumflex"
+      ],
+      [
+       "Inferior",
+       "II, III, aVF (reciprocal ST depression in I/aVL)",
+       "RCA in about 85%"
+      ],
+      [
+       "Posterior",
+       "ST depression + tall R in V1–V3/V4; ST elevation in V7–V9",
+       "RCA or circumflex"
+      ],
+      [
+       "Right ventricle",
+       "ST elevation in V4R",
+       "Proximal RCA"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 519,
+       "page": 497
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 39,
+       "page": 39
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Posterior MI** has no facing standard lead: look for the mirror image in V1–V2 — **tall R waves, ST depression, upright T waves**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 519,
+       "page": 497
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 492,
+       "page": 455
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "A Q wave counts as **pathological** when it is wider than 1 mm and either deeper than 2 mm or more than a quarter of the height of the R wave that follows: dead muscle is electrically silent, so the lead \"sees\" activity moving away. They are a late sign. NSTEMI usually shows ST depression and T inversion, with R-wave loss but **no Q waves**.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 491,
+       "page": 454
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 519,
+       "page": 497
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 492,
+       "page": 455
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Biomarkers and other tests",
+     "columns": [
+      "Test",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "Troponin T/I",
+       "Rises within **3–6 h**, peaks about **36 h**, stays up to **2 weeks**; no rise in unstable angina. If the first is negative, repeat (3 h later in Kumar; 1 h with high-sensitivity assays)."
+      ],
+      [
+       "CK",
+       "Rises early; reperfusion gives an early washout peak (then AST, then LDH)"
+      ],
+      [
+       "FBC, ESR, CRP",
+       "Leucocytosis peaks on day 1; ESR/CRP rise"
+      ],
+      [
+       "Chest X-ray",
+       "May show pulmonary oedema not obvious clinically"
+      ],
+      [
+       "Echo (pre-discharge)",
+       "LV function and complications: thrombus, rupture, VSD, MR, effusion"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 519,
+       "page": 497
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 520,
+       "page": 498
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1101,
+       "page": 1085
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 39,
+       "page": 39
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A raised troponin is **not specific for ACS**: it also rises in chronic kidney disease, sepsis, myocarditis, aortic dissection and pulmonary embolism. Interpret it with the clinical picture and the trend.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 13,
+       "page": 13
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Lipid timing differs between books. **Davidson: measure lipids within 24 h**, because cholesterol falls transiently for about **3 months** after MI. Kumar & Clark Essentials says within 12 h, altered for 6 weeks. Follow Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 519,
+       "page": 497
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 492,
+       "page": 455
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 519,
+      "page": 497,
+      "figure": "Fig. 16.65"
+     },
+     "note": "Stages A–E of ECG evolution in transmural MI, from ST elevation to the old-infarct Q wave."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 519,
+      "page": 497,
+      "figure": "Fig. 16.67"
+     },
+     "note": "Anterior STEMI at 6 h: ST elevation in I, aVL, V2–V6 with Q waves in V3–V5."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 520,
+      "page": 498,
+      "figure": "Fig. 16.68"
+     },
+     "note": "Inferolateral STEMI: ST elevation II, III, aVF and V4–V6 with reciprocal depression in aVL and V2."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 519,
+      "page": 497,
+      "figure": "Fig. 16.66"
+     },
+     "note": "Anterior NSTEMI: deep symmetrical T inversion and reduced R waves in V1–V4."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 520,
+      "page": 498,
+      "figure": "Fig. 16.69"
+     },
+     "note": "Biomarker curves after MI: CK and troponin first, then AST, then LDH."
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.s5",
+   "title": "Medical treatment of stable angina",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Every patient with angina from CAD gets **aspirin 75 mg** indefinitely (clopidogrel 75 mg if aspirin is not tolerated) and a **statin even if cholesterol is normal**. Quick sources add an ACE inhibitor to make the \"4 As\" of secondary prevention.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 511,
+       "page": 489
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 11,
+       "page": 11
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Anti-anginal ladder (Davidson)",
+     "items": [
+      "Start **sublingual GTN + a β-blocker**",
+      "Add a **calcium channel blocker** or a **long-acting nitrate** if needed",
+      "If **two drugs** fail to control symptoms, consider **revascularisation**",
+      "No class is clearly more effective than another; keep the regimen simple"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 511,
+       "page": 489
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Anti-anginal drug classes",
+     "columns": [
+      "Drug",
+      "How it works",
+      "Exam points"
+     ],
+     "rows": [
+      [
+       "Nitrates (GTN, ISMN)",
+       "Venous + arterial dilatation: lower preload/afterload, dilate coronaries",
+       "Headache, hypotension; tolerance avoided by a **6–8 h nitrate-free gap** (usually overnight)"
+      ],
+      [
+       "β-blockers",
+       "Lower HR, BP and contractility",
+       "Prefer **cardioselective** (bisoprolol, metoprolol); **never stop abruptly** (withdrawal syndrome); bronchospasm"
+      ],
+      [
+       "Dihydropyridine CCB (amlodipine, nifedipine)",
+       "Lower BP and contractility",
+       "Reflex tachycardia — **combine with a β-blocker**; ankle oedema, flushing"
+      ],
+      [
+       "Rate-limiting CCB (verapamil, diltiazem)",
+       "Slow SA node and AV conduction",
+       "Usable **alone** when β-blockers are contraindicated; avoid with poor LV function"
+      ],
+      [
+       "Nicorandil",
+       "K-channel activator, arterial + venous dilator",
+       "**No nitrate-type tolerance**; oral ulceration"
+      ],
+      [
+       "Ivabradine",
+       "Blocks the sinus-node If current",
+       "Slows HR **without negative inotropy**; sinus rhythm only; phosphenes"
+      ],
+      [
+       "Ranolazine",
+       "Blocks late inward Na current",
+       "Can **prolong QT**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 512,
+       "page": 490
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 513,
+       "page": 491
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1099,
+       "page": 1083
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Sublingual GTN** (400 µg spray or 300–500 µg tablet) relieves pain in **2–3 minutes** and should be taken **before** exertion. If pain persists 5 minutes after a second dose, call an ambulance.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 512,
+       "page": 490
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 10,
+       "page": 10
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Lifestyle advice",
+     "items": [
+      "Stop smoking; aim for ideal body weight",
+      "Regular exercise up to, not beyond, the onset of discomfort",
+      "Avoid sudden severe exertion, and vigorous effort after heavy meals or in the cold"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 511,
+       "page": 489
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Nitrates (including isosorbide mononitrate) are **contraindicated with PDE-5 inhibitors** such as sildenafil — profound hypotension.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1099,
+       "page": 1083
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 485,
+       "page": 448
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**High-dose nifedipine** raises mortality in angina and should not be used; calcium channel blockers can precipitate heart failure when LV function is poor.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 486,
+       "page": 449
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 512,
+       "page": 490
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Prinzmetal angina**: treat with a calcium channel blocker plus nitrate. Avoid **non-selective β-blockers** (and triptans or high-dose aspirin), which can worsen spasm.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 40,
+       "page": 40
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 512,
+       "page": 490
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.s6",
+   "title": "Medical treatment of ACS and secondary prevention",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Immediate measures in ACS (Davidson Fig. 16.70)",
+     "columns": [
+      "Step",
+      "Detail"
+     ],
+     "rows": [
+      [
+       "Monitoring",
+       "Oxygen and cardiac rhythm monitoring; transfer to a cardiac unit"
+      ],
+      [
+       "Antiplatelets",
+       "**Aspirin 300 mg** PO + **ticagrelor 180 mg** PO"
+      ],
+      [
+       "Analgesia",
+       "IV morphine 5–10 mg (or diamorphine 2.5–5 mg) + metoclopramide 10 mg; **no IM injections**"
+      ],
+      [
+       "β-blocker",
+       "Metoprolol IV or PO unless contraindicated"
+      ],
+      [
+       "Anticoagulant",
+       "**Fondaparinux** or LMW heparin"
+      ],
+      [
+       "Nitrates",
+       "SL GTN; IV nitrate for persistent pain or LV failure"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 520,
+       "page": 498
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 521,
+       "page": 499
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 522,
+       "page": 500
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Aspirin** cuts mortality by about **25%** (relative) and continues indefinitely. A **P2Y12 antagonist** is added for **up to 12 months**: ticagrelor 180 mg then 90 mg twice daily (strongest evidence) or prasugrel 60 mg then 10 mg daily; clopidogrel 300 mg then 75 mg is used if aspirin is not tolerated. **GP IIb/IIIa antagonists** (abciximab, tirofiban, eptifibatide) block the final common pathway of platelet aggregation and help high-risk patients undergoing PCI, especially with heavy thrombus.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 522,
+       "page": 500
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1102,
+       "page": 1086
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Anticoagulation**: fondaparinux 2.5 mg SC daily has the best safety–efficacy profile; enoxaparin 1 mg/kg SC twice daily is the alternative. Continue for **8 days** or until discharge or revascularisation. Consider **warfarin** for persistent AF or extensive anterior MI with **mural thrombus**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 522,
+       "page": 500
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 43,
+       "page": 43
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Hold **IV β-blockers** if there is **pulmonary oedema**, **systolic BP < 105 mmHg** or **HR < 65/min** (Davidson). Pocket Medicine lists similar limits (HR < 60, PR > 0.24 s, high-grade AV block, bronchospasm, shock risk).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 522,
+       "page": 500
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 41,
+       "page": 41
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Prasugrel** is contraindicated after previous stroke/TIA; **ticagrelor** can cause dyspnoea and ventricular pauses. Fondaparinux needs added UFH during PCI.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 42,
+       "page": 42
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 43,
+       "page": 43
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Sources disagree on two details. **Oxygen**: Davidson's algorithm lists it for all; quick sources give it only if saturation is low (<95% UK). **GP IIb/IIIa**: Davidson still suggests considering them in medium/high-risk NSTE-ACS, while Kumar limits them to heavy thrombus or PCI complications.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 521,
+       "page": 499
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 14,
+       "page": 14
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1102,
+       "page": 1086
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Secondary prevention after MI",
+     "columns": [
+      "Treatment",
+      "Detail"
+     ],
+     "rows": [
+      [
+       "Aspirin",
+       "Indefinitely"
+      ],
+      [
+       "P2Y12 antagonist",
+       "Up to 12 months with aspirin"
+      ],
+      [
+       "β-blocker",
+       "Long-term mortality down about 25%"
+      ],
+      [
+       "ACE inhibitor (ARB if intolerant)",
+       "Limits remodelling and heart failure; caution in hypotension"
+      ],
+      [
+       "Statin",
+       "All patients, whatever the cholesterol; **atorvastatin 80 mg** if LDL > 3.2 mmol/L"
+      ],
+      [
+       "Mineralocorticoid antagonist",
+       "EF **< 35%** plus pulmonary oedema or diabetes (eplerenone/spironolactone)"
+      ],
+      [
+       "ICD",
+       "Severe LV impairment, **EF ≤ 30%**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 520,
+       "page": 498
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 522,
+       "page": 500
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 523,
+       "page": 501
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Stopping smoking** is the single most effective step after ACS: those who keep smoking have **double the 5-year mortality**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 523,
+       "page": 501
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Rehabilitation",
+     "items": [
+      "Necrotic muscle is replaced by fibrous tissue over 4–6 weeks",
+      "Uncomplicated: mobilise day 2, home after 2–3 days, back to work by about **4 weeks**; most may drive after 1–4 weeks",
+      "Address anxiety, depression and denial; formal graded exercise programmes help"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 523,
+       "page": 501
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.s7",
+   "title": "Revascularization: PCI, CABG and reperfusion",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**PCI** passes a guidewire across the stenosis, dilates it with a balloon and usually deploys a stent. In **chronic stable angina it relieves symptoms but does not improve survival**; trials comparing revascularisation (mostly PCI) with optimal medical therapy showed no fall in deaths. It is mainly used for **one- or two-vessel** disease. Optimal medical therapy comes first; revascularise when symptoms persist on two anti-anginals.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 513,
+       "page": 491
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 36,
+       "page": 36
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 486,
+       "page": 449
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "PCI complications",
+     "items": [
+      "Acute vessel occlusion or dissection in **2–5%**",
+      "**Restenosis** in up to one-third, usually within **3 months** (elastic recoil + smooth-muscle proliferation)",
+      "**Drug-eluting stents** (sirolimus, paclitaxel) reduce in-stent restenosis — favoured in diabetics and long, calcified or small-vessel lesions",
+      "**Stent thrombosis**: abrupt, usually in the first month, often after antiplatelets are stopped early; presents as MI",
+      "Aspirin + a P2Y12 inhibitor + heparin improve outcome after PCI"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 513,
+       "page": 491
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 34,
+       "page": 34
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**CABG** uses internal mammary or radial arteries or reversed saphenous vein. Operative mortality is about **1.5%**; about 90% are angina-free at 1 year. Fewer than **50% of vein grafts** but more than **80% of internal mammary grafts** are patent at 10 years. CABG **improves survival** in **left main stem** disease, **three-vessel** disease, or **two-vessel disease involving the proximal LAD**, especially with impaired LV function. Perioperative stroke risk is 1–5%.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 513,
+       "page": 491
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 514,
+       "page": 492
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "PCI versus CABG (Davidson Box 16.45)",
+     "columns": [
+      "Outcome",
+      "CABG",
+      "PCI"
+     ],
+     "rows": [
+      [
+       "Procedural death",
+       "< 1.5%",
+       "< 0.5%"
+      ],
+      [
+       "Time in hospital",
+       "5–8 days",
+       "12–36 h"
+      ],
+      [
+       "Back to work",
+       "6–12 weeks",
+       "2–5 days"
+      ],
+      [
+       "Needing another revascularisation by 2 years",
+       "2%",
+       "10–20%"
+      ],
+      [
+       "Neurological complications",
+       "Common",
+       "Rare"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 515,
+       "page": 493
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "A **heart team** decides. CABG is preferred for **three-vessel disease with diabetes** or high SYNTAX score (>22), and left main disease with SYNTAX >22. A stenosis with **FFR > 0.80** can be treated medically without a stent; radial access reduces bleeding.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1099,
+       "page": 1083
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1098,
+       "page": 1082
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 37,
+       "page": 37
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**STEMI reperfusion**: primary PCI is the treatment of choice within **12 h** of symptom onset. If PCI cannot be done within **120 minutes**, give **thrombolysis** (tenecteplase or reteplase as an IV bolus); benefit is greatest within 12 h and especially the first 2 h. After successful lysis still consider **PCI within 24 h**. **Failed lysis** (ongoing pain, <50% ST resolution at 60–90 min) needs **rescue PCI**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 521,
+       "page": 499
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 522,
+       "page": 500
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1105,
+       "page": 1089
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 492,
+       "page": 455
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Time targets vary by source: **Davidson uses 120 minutes** as the limit for primary PCI before choosing lysis. Pocket Medicine quotes ≤90 min from first medical contact and door-to-needle ≤30 min; Zero to Finals says within 2 h of presentation. Use Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 521,
+       "page": 499
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 45,
+       "page": 45
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 13,
+       "page": 13
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Thrombolysis: hazards and contraindications",
+     "columns": [
+      "Point",
+      "Detail"
+     ],
+     "rows": [
+      [
+       "Main hazard",
+       "Bleeding: about **4 extra strokes per 1000** treated; other major bleeds 0.5–1%"
+      ],
+      [
+       "Davidson relative contraindications",
+       "Active internal bleeding; previous SAH or ICH; uncontrolled hypertension; surgery within 1 month; recent trauma; likely active peptic ulcer; pregnancy"
+      ],
+      [
+       "Pocket Medicine absolute list",
+       "Any prior ICH; intracranial tumour/AVM; ischaemic stroke or closed head injury within 3 months; active bleeding; suspected aortic dissection"
+      ],
+      [
+       "Agents",
+       "Bolus: tenecteplase, reteplase. Infusion: alteplase, streptokinase (antibodies form — not reused after 4 days)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 522,
+       "page": 500
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 46,
+       "page": 46
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 493,
+       "page": 456
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**NSTE-ACS**: emergency PCI gives **no immediate mortality benefit**. Medium/high-risk patients benefit from inpatient angiography. Kumar's timing: **< 2 h** if very high risk (refractory pain, shock, heart failure, VT/VF); **< 24 h** if high risk (dynamic troponin or ST/T change, high GRACE); **< 72 h** if intermediate risk.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 522,
+       "page": 500
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1103,
+       "page": 1087
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 43,
+       "page": 43
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 514,
+      "page": 492,
+      "figure": "Fig. 16.60"
+     },
+     "note": "Primary PCI: occluded right coronary artery, thrombus filling defect, then restored flow after stenting."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 514,
+      "page": 492,
+      "figure": "Fig. 16.61"
+     },
+     "note": "CABG: saphenous vein grafts to RCA, obtuse marginal and diagonal; LIMA to LAD on 3D CT."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "stepup6",
+      "pdfPage": 25,
+      "page": 25,
+      "figure": "Figure 1-1"
+     },
+     "note": "Coronary angiogram of the right coronary artery with a mid-vessel stenosis (arrow)."
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.s8",
+   "title": "Complications of myocardial infarction",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Remember **DREAD**: **D**eath, **R**upture (septum, papillary muscle, free wall), o**E**dema (heart failure), **A**rrhythmia and **A**neurysm, **D**ressler's syndrome.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 14,
+       "page": 14
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Arrhythmias after MI",
+     "columns": [
+      "Rhythm",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "VF",
+       "5–10% of hospital patients; **early VF (<48 h)** promptly defibrillated does not worsen prognosis. **Late** VT/VF suggests poor LV function → ICD"
+      ],
+      [
+       "AF",
+       "Often transient; β-blocker or digoxin; cardiovert if unstable; **anticoagulate if it persists**"
+      ],
+      [
+       "Sinus bradycardia",
+       "Treat only if hypotensive: **atropine 0.6–1.2 mg IV**"
+      ],
+      [
+       "AV block, inferior MI",
+       "RCA supplies the AV node; usually **transient**, resolves with reperfusion; pace if symptomatic"
+      ],
+      [
+       "AV block, anterior MI",
+       "Means extensive necrosis; asystole may follow → **prophylactic temporary pacing**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 517,
+       "page": 495
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 495,
+       "page": 458
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1107,
+       "page": 1091
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Mechanical complications (usually days after MI)",
+     "columns": [
+      "Complication",
+      "Clues",
+      "Action"
+     ],
+     "rows": [
+      [
+       "Papillary muscle rupture",
+       "Sudden **pulmonary oedema + shock**; murmur may be soft or absent; commoner after inferior MI (posteromedial muscle has a single PDA supply)",
+       "Echo; emergency valve surgery"
+      ],
+      [
+       "Ventricular septal rupture",
+       "**Loud pansystolic murmur** to right sternal border; **acute right heart failure** rather than pulmonary oedema; 1–2% of STEMI",
+       "Echo/right heart catheter; emergency repair (IABP as bridge); ~92% die without surgery"
+      ],
+      [
+       "Free wall rupture",
+       "Tamponade, PEA; risk higher with lysis, large MI, older age, female sex, hypertension",
+       "Usually fatal; occasionally surgery"
+      ],
+      [
+       "LV aneurysm",
+       "About 10%; persistent occlusion; **persistent ST elevation**, paradoxical apical impulse, bulging heart border",
+       "Echo diagnoses; risks HF, VT, mural thrombus, embolism"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 518,
+       "page": 496
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 48,
+       "page": 48
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 49,
+       "page": 49
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1107,
+       "page": 1091
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Pericardial complications",
+     "columns": [
+      "Feature",
+      "Early pericarditis",
+      "Dressler's syndrome"
+     ],
+     "rows": [
+      [
+       "Timing",
+       "Days 2–3",
+       "Weeks to months"
+      ],
+      [
+       "Mechanism",
+       "Inflammation over the infarct",
+       "Probably autoimmune"
+      ],
+      [
+       "Features",
+       "Positional, inspiratory pain; rub",
+       "Fever, pericarditis, pleurisy (± effusion)"
+      ],
+      [
+       "Treatment",
+       "**Opiates**; avoid NSAIDs and steroids early (aneurysm/rupture risk)",
+       "High-dose aspirin or NSAIDs; steroids if severe"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 518,
+       "page": 496
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 14,
+       "page": 14
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Heart failure and shock**: mild failure gets IV furosemide 40–80 mg plus GTN if BP allows; severe failure needs inotropes. **Cardiogenic shock** (about 7% of MI: MAP < 60 mmHg, cardiac index < 2.2 L/min/m², PCWP > 18 mmHg) is treated with **revascularisation** and inotropes or mechanical support; an intra-aortic balloon pump gives no survival benefit when early revascularisation is done.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1106,
+       "page": 1090
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 47,
+       "page": 47
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 48,
+       "page": 48
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Right ventricular infarction** (proximal RCA, with inferior MI): **hypotension, raised JVP, Kussmaul's sign, clear lungs**, ST elevation ≥ 1 mm in **V4R**. Optimise preload with fluids, add dobutamine, reperfuse; use nitrates with caution because the RV is preload-dependent.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 48,
+       "page": 48
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 41,
+       "page": 41
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other complications",
+     "items": [
+      "**Remodelling**: the thinned infarct stretches and the ventricle dilates → heart failure; ACE inhibitors and MRAs reduce it",
+      "**Mural thrombus** → systemic embolism; anticoagulate (warfarin, INR 2–3) with severe LV dysfunction, persistent AF or thrombus",
+      "**Recurrent angina** after ACS → prompt angiography; it follows thrombolysis in up to 50%"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 518,
+       "page": 496
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 517,
+       "page": 495
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 495,
+       "page": 458
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Prognosis: in almost **a quarter** of all MIs, death comes within minutes, before any medical care; about **40%** of all affected patients die within the first month, but those who reach hospital have **28-day survival above 85%**. **Anterior** MI does worse than inferior.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 523,
+       "page": 501
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Dressler's timing varies by source (2–3 weeks; 2–10 weeks; up to 12 weeks). Davidson simply says **a few weeks to months** after MI — the key contrast is with early pericarditis on days 2–3.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 518,
+       "page": 496
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 14,
+       "page": 14
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 49,
+       "page": 49
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 495,
+       "page": 458
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 518,
+      "page": 496,
+      "figure": "Fig. 16.64"
+     },
+     "note": "Infarct expansion raises wall stress, causing progressive dilatation of the remaining ventricle (remodelling)."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1106,
+      "page": 1090,
+      "figure": "Fig. 30.71"
+     },
+     "note": "Cardiac MRI: inferior left ventricular aneurysm (later resected)."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "cardio-ihd.c1",
+   "sectionId": "cardio-ihd.s1",
+   "front": "Strongest independent CAD risk factor, and most important modifiable one?",
+   "back": "**Age** is the strongest; **smoking** is probably the most important modifiable factor.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 508,
+     "page": 486
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c2",
+   "sectionId": "cardio-ihd.s1",
+   "front": "Prinzmetal angina: mechanism and ECG sign?",
+   "back": "Coronary **vasospasm**, often at rest, with **transient ST elevation**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 509,
+     "page": 487
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c3",
+   "sectionId": "cardio-ihd.s1",
+   "front": "Type 2 MI?",
+   "back": "Infarction from **supply–demand mismatch** (e.g. anaemia, arrhythmia, hypotension, spasm), not plaque rupture.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1100,
+     "page": 1084
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1101,
+     "page": 1085
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c4",
+   "sectionId": "cardio-ihd.s2",
+   "front": "GRACE score threshold for early inpatient angiography (Davidson)?",
+   "back": "**140 points or more**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 520,
+     "page": 498
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c5",
+   "sectionId": "cardio-ihd.s2",
+   "front": "Killip classes I–IV?",
+   "back": "I no HF; II crackles halfway up the chest; III crackles in all lung fields; IV cardiogenic shock.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 516,
+     "page": 494
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c6",
+   "sectionId": "cardio-ihd.s3",
+   "front": "What exercise ECG change indicates ischaemia?",
+   "back": "**Planar or down-sloping** ST depression of **1 mm or more** (up-sloping is less specific).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 510,
+     "page": 488
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c7",
+   "sectionId": "cardio-ihd.s3",
+   "front": "Perfusion scan: reversible vs fixed defect?",
+   "back": "Reversible (stress only) = **ischaemia**; fixed (stress and rest) = **old infarct/scar**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 510,
+     "page": 488
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 30,
+     "page": 30
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c8",
+   "sectionId": "cardio-ihd.s4",
+   "front": "Troponin time course after MI?",
+   "back": "Rises in **3–6 h**, peaks about **36 h**, raised for up to **2 weeks**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 519,
+     "page": 497
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c9",
+   "sectionId": "cardio-ihd.s4",
+   "front": "ECG sign of posterior MI?",
+   "back": "**Tall R waves and ST depression** (upright T) in V1–V3 — mirror image of posterior ST elevation.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 519,
+     "page": 497
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 492,
+     "page": 455
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c10",
+   "sectionId": "cardio-ihd.s4",
+   "front": "Davidson STEMI ECG thresholds?",
+   "back": "ST elevation in two contiguous leads: **≥1 mm limb** or **≥2 mm chest** leads, or new LBBB.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 521,
+     "page": 499
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c11",
+   "sectionId": "cardio-ihd.s5",
+   "front": "How is nitrate tolerance avoided?",
+   "back": "A **6–8 hour nitrate-free period**, usually overnight.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 512,
+     "page": 490
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c12",
+   "sectionId": "cardio-ihd.s5",
+   "front": "Ivabradine: action and requirement?",
+   "back": "Blocks the sinus-node **If** current, slowing HR without negative inotropy; works only in **sinus rhythm**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 513,
+     "page": 491
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1099,
+     "page": 1083
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c13",
+   "sectionId": "cardio-ihd.s6",
+   "front": "When to avoid IV β-blocker in ACS (Davidson)?",
+   "back": "Pulmonary oedema, **SBP < 105 mmHg**, or **HR < 65/min**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 522,
+     "page": 500
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c14",
+   "sectionId": "cardio-ihd.s6",
+   "front": "Who gets a mineralocorticoid antagonist after MI?",
+   "back": "EF **< 35%** with pulmonary oedema or diabetes (eplerenone/spironolactone).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 523,
+     "page": 501
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c15",
+   "sectionId": "cardio-ihd.s6",
+   "front": "P2Y12 antagonist duration after ACS?",
+   "back": "**Up to 12 months** with aspirin (aspirin continues indefinitely).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 522,
+     "page": 500
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c16",
+   "sectionId": "cardio-ihd.s7",
+   "front": "STEMI: when thrombolysis instead of primary PCI?",
+   "back": "When primary PCI **cannot be done within 120 minutes** (within 12 h of onset).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 521,
+     "page": 499
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 522,
+     "page": 500
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c17",
+   "sectionId": "cardio-ihd.s7",
+   "front": "Where does CABG improve survival?",
+   "back": "**Left main**, **three-vessel**, or **two-vessel with proximal LAD** disease — especially with poor LV function.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 514,
+     "page": 492
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c18",
+   "sectionId": "cardio-ihd.s7",
+   "front": "10-year graft patency: vein vs internal mammary?",
+   "back": "Vein grafts **< 50%**; internal mammary **> 80%**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 514,
+     "page": 492
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c19",
+   "sectionId": "cardio-ihd.s8",
+   "front": "Septal rupture vs papillary muscle rupture?",
+   "back": "VSD: loud pansystolic murmur, **right heart failure**. Papillary rupture: **pulmonary oedema + shock**, murmur may be quiet.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 518,
+     "page": 496
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c20",
+   "sectionId": "cardio-ihd.s8",
+   "front": "Treatment of pericarditis on day 2–3 after MI?",
+   "back": "**Opiates**; avoid NSAIDs and steroids early (aneurysm and rupture risk).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 518,
+     "page": 496
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.c21",
+   "sectionId": "cardio-ihd.s8",
+   "front": "AV block in anterior vs inferior MI?",
+   "back": "Inferior: usually transient. Anterior: risk of sudden asystole → **prophylactic temporary pacing**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 517,
+     "page": 495
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "cardio-ihd.q1",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Types and variants of myocardial ischaemia",
+   "leadIn": "Match each case below to the best option in the list. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Stable angina",
+    "Unstable angina",
+    "NSTEMI",
+    "STEMI",
+    "Prinzmetal (vasospastic) angina",
+    "Cardiac syndrome X",
+    "Type 2 myocardial infarction",
+    "Decubitus angina",
+    "Angina secondary to aortic stenosis",
+    "Silent myocardial infarction"
+   ],
+   "items": [
+    {
+     "stem": "A 49-year-old woman has chest tightness every time she walks uphill. An exercise test shows 1.5 mm planar ST depression at peak exercise. Invasive coronary angiography shows smooth, unobstructed coronary arteries.",
+     "answer": 5,
+     "explanation": "Typical exertional angina + objective ischaemia on stress testing + normal angiogram = **cardiac syndrome X**. It is commoner in women and carries a good prognosis.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s1"
+     }
+    },
+    {
+     "stem": "A 38-year-old heavy smoker is woken around 5 am by chest pain at rest. A Holter recording shows ST elevation in II, III and aVF that disappears as the pain settles. Angiography shows no fixed stenosis.",
+     "answer": 4,
+     "explanation": "Rest pain with **transient ST elevation** and non-obstructed arteries points to coronary **vasospasm** (Prinzmetal angina).",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s1"
+     }
+    },
+    {
+     "stem": "A 74-year-old woman with pneumonia and septic shock has haemoglobin 70 g/L and a heart rate of 140/min. Her troponin rises well above the 99th centile with diffuse ST depression. Angiography later shows no ruptured plaque.",
+     "answer": 6,
+     "explanation": "Two steps: troponin rise with ischaemia = MI; no plaque event but anaemia, tachycardia and hypotension = oxygen **supply–demand mismatch**, i.e. **type 2 MI**.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 509,
+     "page": 487
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 510,
+     "page": 488
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1100,
+     "page": 1084
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1101,
+     "page": 1085
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 58-year-old man has had exertional chest tightness for 4 months. He has never had an MI. He manages only 3 minutes of a treadmill protocol before limiting pain, and his ECG shows planar ST depression at that point.",
+   "leadIn": "Which feature places him in the high-risk group for prognostic revascularisation?",
+   "options": [
+    "Pain that is predictable with effort",
+    "Ischaemia at a low workload",
+    "Relief of pain within minutes by rest",
+    "Absence of a previous infarct",
+    "Normal resting ECG"
+   ],
+   "answer": 1,
+   "explanation": "Davidson's risk table lists **ischaemia at a low workload** and **poor effort tolerance** as high-risk features (alongside post-infarct angina, left main/three-vessel disease and poor LV function). Such patients need angiography with a view to revascularisation.",
+   "whyNot": [
+    "Predictable exertional angina is the low-risk pattern.",
+    "",
+    "Prompt relief with rest defines stable angina; it does not mark high risk.",
+    "Angina after an infarct would be high risk — its absence is reassuring.",
+    "A normal resting ECG is common in angina and does not stratify risk."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 510,
+     "page": 488
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 67-year-old man is admitted with 2 hours of chest pain. His ECG shows 1 mm ST depression in V4–V6 and his troponin is raised. He is pain free on medical therapy. His GRACE score is 168 and there are no contraindications to invasive treatment.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Discharge with an exercise test in 4 weeks",
+    "Early inpatient coronary angiography",
+    "Immediate intravenous thrombolysis",
+    "Outpatient CT coronary angiography",
+    "Medical therapy only and discharge on day 3"
+   ],
+   "answer": 1,
+   "explanation": "This is NSTEMI with a GRACE score above **140**, which Davidson uses as the threshold for **early inpatient angiography** with a view to revascularisation.",
+   "whyNot": [
+    "Discharge with a later exercise test is for low-risk, uncomplicated patients.",
+    "",
+    "Thrombolysis is for STEMI only; it is not used in NSTE-ACS.",
+    "CT angiography is an outpatient test for suspected stable angina, not for a high-risk NSTEMI.",
+    "Medical therapy alone suits low-risk patients; his GRACE score is high."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 520,
+     "page": 498
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 521,
+     "page": 499
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q4",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Investigations in suspected stable angina",
+   "leadIn": "Match each case below to the best option in the list. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Resting 12-lead ECG",
+    "Exercise treadmill ECG",
+    "Myocardial perfusion scan",
+    "CT coronary angiography",
+    "Invasive coronary angiography",
+    "Ambulatory (Holter) ECG monitoring",
+    "Transthoracic echocardiography",
+    "High-sensitivity troponin",
+    "Thyroid function tests",
+    "Chest X-ray"
+   ],
+   "items": [
+    {
+     "stem": "A 57-year-old man with exertional angina develops 3 mm down-sloping ST depression after 2 minutes of an exercise test, and his BP falls. He is keen on any treatment that improves his outlook.",
+     "answer": 4,
+     "explanation": "Ischaemia at a low workload with a fall in BP suggests severe (possibly left main or three-vessel) disease. The next step is **invasive coronary angiography** to plan revascularisation.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s3"
+     }
+    },
+    {
+     "stem": "A 71-year-old woman has chest pain and light-headedness on exertion. She has a slow-rising carotid pulse and an ejection systolic murmur radiating to the neck.",
+     "answer": 6,
+     "explanation": "These signs point to **aortic stenosis**, which must be excluded in any patient with angina. **Echocardiography** confirms it and assesses severity.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s3"
+     }
+    },
+    {
+     "stem": "A 44-year-old woman has episodes of chest pain at rest in the early morning. An exercise test was normal. Her doctor suspects coronary spasm and wants to capture an episode.",
+     "answer": 5,
+     "explanation": "Spasm is unpredictable and unrelated to exertion; **ambulatory ECG monitoring** can record transient ST changes during an episode.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s3"
+     }
+    },
+    {
+     "stem": "A 63-year-old man has new exertional chest pain together with weight loss, heat intolerance, tremor and a resting pulse of 112/min.",
+     "answer": 8,
+     "explanation": "Thyrotoxicosis raises myocardial oxygen demand and can unmask angina. **Thyroid function tests** belong in every angina work-up.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 510,
+     "page": 488
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1098,
+     "page": 1082
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 485,
+     "page": 448
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 62-year-old man has had crushing chest pain for 2 hours. His ECG shows 2 mm horizontal ST depression in V1–V3 with dominant R waves and upright T waves in V1–V2. There is no ST elevation in any standard lead.",
+   "leadIn": "Which region is most likely to be infarcting?",
+   "options": [
+    "Anteroseptal wall",
+    "Inferior wall",
+    "Posterior wall",
+    "High lateral wall",
+    "Right ventricle"
+   ],
+   "answer": 2,
+   "explanation": "Posterior infarction has no facing standard lead, so it shows the **mirror image** in V1–V3: **ST depression with tall R waves** and upright T waves. Posterior leads (V7–V9) would show ST elevation.",
+   "whyNot": [
+    "Anteroseptal MI gives ST elevation in V1–V4, not depression.",
+    "Inferior MI shows ST elevation in II, III and aVF.",
+    "",
+    "High lateral MI shows ST elevation in I and aVL.",
+    "RV infarction shows ST elevation in right-sided leads such as V4R."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 519,
+     "page": 497
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 492,
+     "page": 455
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 39,
+     "page": 39
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 55-year-old woman arrives 1 hour after the onset of central chest pain that is now easing. Her ECG is non-diagnostic and the first troponin (standard assay) is within the normal range.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Discharge, as ACS has been excluded",
+    "Repeat troponin and ECG after a few hours",
+    "Measure AST and LDH instead",
+    "Give thrombolysis now",
+    "Arrange outpatient CT coronary angiography"
+   ],
+   "answer": 1,
+   "explanation": "Troponin takes **3–6 hours** to rise after infarction, and the first ECG is non-diagnostic in a third of ACS. An early negative result cannot exclude MI, so **repeat troponin** (Kumar: 3 h later) and serial ECGs.",
+   "whyNot": [
+    "One early normal troponin cannot exclude MI because troponin rises only after 3–6 h.",
+    "",
+    "AST and LDH rise later than troponin and are less specific.",
+    "Thrombolysis needs STEMI criteria; this ECG is non-diagnostic.",
+    "Possible ACS needs inpatient assessment, not an outpatient scan."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 518,
+     "page": 496
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 519,
+     "page": 497
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1101,
+     "page": 1085
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q7",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Anti-anginal drugs",
+   "leadIn": "Match each case below to the best option in the list. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Sublingual glyceryl trinitrate",
+    "Isosorbide mononitrate",
+    "Bisoprolol",
+    "Propranolol",
+    "Amlodipine",
+    "Verapamil",
+    "Short-acting nifedipine",
+    "Nicorandil",
+    "Ivabradine",
+    "Ranolazine"
+   ],
+   "items": [
+    {
+     "stem": "A 61-year-old woman with stable angina has severe asthma, so β-blockers are not an option. Her LV function is normal. Her doctor wants one drug that will lower her heart rate and control symptoms on its own.",
+     "answer": 5,
+     "explanation": "A **rate-limiting calcium blocker** (verapamil or diltiazem) can be used alone when β-blockers are contraindicated. Dihydropyridines cause reflex tachycardia, so they are better combined with a β-blocker.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s5"
+     }
+    },
+    {
+     "stem": "A 68-year-old man's angina is not controlled on bisoprolol, amlodipine and a long-acting nitrate. A potassium-channel activator is added. Some weeks later he develops painful mouth ulcers.",
+     "answer": 7,
+     "explanation": "**Nicorandil** is a K-channel activator that shows no nitrate-type tolerance; oral ulceration is a recognised side effect.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s5"
+     }
+    },
+    {
+     "stem": "A 70-year-old man with heart failure (EF 30%) is in sinus rhythm at 84/min despite the maximum tolerated β-blocker dose and still has angina. His cardiologist wants to slow the sinus rate without depressing contractility.",
+     "answer": 8,
+     "explanation": "**Ivabradine** blocks the sinus-node If current, slowing heart rate without negative inotropy. It works only in sinus rhythm.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 512,
+     "page": 490
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 513,
+     "page": 491
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1099,
+     "page": 1083
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 64-year-old man arrives with an acute anterior STEMI. BP is 96/60 mmHg, pulse 58/min, and there are crackles to the mid-zones. Primary PCI is being arranged.",
+   "leadIn": "Which drug from the immediate ACS bundle should be withheld?",
+   "options": [
+    "Aspirin 300 mg orally",
+    "Ticagrelor 180 mg orally",
+    "Intravenous metoprolol",
+    "Intravenous morphine with metoclopramide",
+    "Unfractionated or low-molecular-weight heparin"
+   ],
+   "answer": 2,
+   "explanation": "Davidson says to avoid IV β-blockers in **pulmonary oedema**, **SBP < 105 mmHg** or **HR < 65/min** — he has all three. The antiplatelets, analgesia and anticoagulation still apply.",
+   "whyNot": [
+    "Aspirin gives a 25% relative mortality reduction and should be given.",
+    "P2Y12 loading is standard before primary PCI.",
+    "",
+    "IV opiate with an antiemetic is appropriate for pain and distress.",
+    "Anticoagulation is part of standard ACS treatment and PCI."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 521,
+     "page": 499
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 522,
+     "page": 500
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 59-year-old man with type 2 diabetes had an NSTEMI 3 weeks ago. Echo shows an EF of 32%. He takes aspirin, ticagrelor, bisoprolol, ramipril and atorvastatin 80 mg. His potassium is 4.3 mmol/L.",
+   "leadIn": "Which additional drug is most likely to improve his prognosis?",
+   "options": [
+    "Eplerenone",
+    "Nicorandil",
+    "Isosorbide mononitrate",
+    "Amlodipine",
+    "Digoxin"
+   ],
+   "answer": 0,
+   "explanation": "Davidson recommends a **mineralocorticoid receptor antagonist** (eplerenone or spironolactone) after MI when **EF < 35%** with either pulmonary oedema or **diabetes**.",
+   "whyNot": [
+    "",
+    "Nicorandil treats symptoms; it has no stated prognostic benefit here.",
+    "Long-acting nitrates relieve angina but do not improve survival.",
+    "Amlodipine is a symptomatic anti-anginal and does not help LV dysfunction.",
+    "Digoxin is for rate control in AF, not prognosis after MI."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 523,
+     "page": 501
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q10",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Revascularisation and reperfusion strategies",
+   "leadIn": "Match each case below to the best option in the list. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Primary PCI",
+    "Intravenous thrombolysis",
+    "Rescue PCI",
+    "Coronary angiography within 24 hours",
+    "Immediate (within 2 hours) invasive angiography",
+    "Coronary artery bypass grafting",
+    "Elective PCI to a single lesion",
+    "Optimal medical therapy alone",
+    "CT coronary angiography",
+    "Exercise tolerance test before discharge"
+   ],
+   "items": [
+    {
+     "stem": "A 57-year-old man with 3 hours of chest pain and 3 mm ST elevation in V2–V5 is at a rural hospital. Transfer to the nearest PCI centre will take about 3 hours. He has no bleeding history.",
+     "answer": 1,
+     "explanation": "STEMI within 12 h, but primary PCI cannot happen within **120 minutes** → **thrombolysis** (bolus tenecteplase or reteplase), then PCI within 24 h.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s7"
+     }
+    },
+    {
+     "stem": "A 62-year-old woman received tenecteplase for an inferior STEMI. Ninety minutes later she still has pain and the ST elevation has fallen by only about 30%.",
+     "answer": 2,
+     "explanation": "Less than 50% ST resolution at 60–90 min with ongoing pain means **failed lysis** → **rescue PCI**.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s7"
+     }
+    },
+    {
+     "stem": "A 66-year-old man with diabetes still has angina despite a β-blocker and a calcium blocker. Angiography shows severe disease in the LAD, circumflex and right coronary arteries, and his EF is 38%.",
+     "answer": 5,
+     "explanation": "Two-drug failure → revascularise. **Three-vessel disease with diabetes and impaired LV** favours **CABG**, which improves survival here.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s7"
+     }
+    },
+    {
+     "stem": "A 71-year-old man with NSTEMI has ongoing chest pain despite full medical therapy, BP 82/50 mmHg and runs of ventricular tachycardia.",
+     "answer": 4,
+     "explanation": "Refractory pain, haemodynamic instability and ventricular arrhythmia make him **very high risk**: invasive angiography **within 2 hours**.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 514,
+     "page": 492
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 521,
+     "page": 499
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 522,
+     "page": 500
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1103,
+     "page": 1087
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1105,
+     "page": 1089
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 67-year-old man is on day 4 after an inferior STEMI. He suddenly becomes very breathless with frothy sputum and a BP of 80/50 mmHg. Chest X-ray shows pulmonary oedema. A murmur is hard to hear.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Papillary muscle rupture",
+    "Ventricular septal rupture",
+    "Free wall rupture",
+    "Dressler's syndrome",
+    "Left ventricular aneurysm"
+   ],
+   "answer": 0,
+   "explanation": "Sudden severe MR from **papillary muscle rupture** causes **acute pulmonary oedema and shock**; the murmur may be soft or absent. It is commoner after inferior MI because the posteromedial muscle has a single blood supply.",
+   "whyNot": [
+    "",
+    "Septal rupture usually gives a loud pansystolic murmur and right heart failure rather than pulmonary oedema.",
+    "Free wall rupture causes tamponade or PEA, not pulmonary oedema.",
+    "Dressler's causes fever, pericarditis and pleurisy weeks later.",
+    "Aneurysm develops more slowly, with persistent ST elevation and a paradoxical impulse."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 518,
+     "page": 496
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 48,
+     "page": 48
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "On day 2 after an anterior STEMI treated with primary PCI, a 60-year-old woman has a new sharp chest pain, worse on inspiration and lying flat. A pericardial rub is heard. Echo shows no effusion.",
+   "leadIn": "What is the most appropriate treatment?",
+   "options": [
+    "Opiate analgesia",
+    "High-dose ibuprofen",
+    "Oral prednisolone",
+    "Pericardiocentesis",
+    "Repeat coronary angiography"
+   ],
+   "answer": 0,
+   "explanation": "Early post-infarct pericarditis (days 2–3) is treated with **opiates**. Davidson advises **avoiding NSAIDs and steroids** in the early recovery period, as they may increase the risk of aneurysm and myocardial rupture.",
+   "whyNot": [
+    "",
+    "NSAIDs early after MI may promote aneurysm formation and rupture.",
+    "Steroids early after MI carry the same rupture/aneurysm concern.",
+    "There is no effusion or tamponade to drain.",
+    "Positional, pleuritic pain with a rub is pericarditis, not recurrent ischaemia."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 518,
+     "page": 496
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q13",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Complications after myocardial infarction",
+   "leadIn": "Match each case below to the best option in the list. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Ventricular fibrillation",
+    "Complete heart block",
+    "Atrial fibrillation",
+    "Papillary muscle rupture",
+    "Ventricular septal rupture",
+    "Free wall rupture with tamponade",
+    "Left ventricular aneurysm",
+    "Dressler's syndrome",
+    "Early post-infarct pericarditis",
+    "Right ventricular infarction",
+    "Mural thrombus with systemic embolism",
+    "Cardiogenic shock"
+   ],
+   "items": [
+    {
+     "stem": "Six weeks after an anterior MI, a 58-year-old man has fever, pleuritic chest pain and a pleural rub. His ESR is raised.",
+     "answer": 7,
+     "explanation": "Fever, pericarditis and pleurisy **weeks to months** after MI, probably autoimmune = **Dressler's syndrome**.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s8"
+     }
+    },
+    {
+     "stem": "Three months after an anterior MI with a persistently occluded LAD, a 66-year-old woman's ECG still shows ST elevation in V1–V4. There is a paradoxical impulse at the apex and a bulge on the left heart border on chest X-ray.",
+     "answer": 6,
+     "explanation": "**Persistent ST elevation**, paradoxical impulse and an abnormal bulge after persistent occlusion = **LV aneurysm**; echo confirms.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s8"
+     }
+    },
+    {
+     "stem": "A 63-year-old man with an inferior STEMI has BP 82/50 mmHg, a JVP raised to the earlobes that rises on inspiration, and clear lung fields. Right-sided chest leads show 1.5 mm ST elevation in V4R.",
+     "answer": 9,
+     "explanation": "Inferior MI + hypotension + raised JVP + **clear lungs** + ST elevation in **V4R** = **RV infarction** from proximal RCA occlusion. Give fluids; be cautious with nitrates.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s8"
+     }
+    },
+    {
+     "stem": "Three days after an anterior MI, a 70-year-old woman deteriorates suddenly with a new loud pansystolic murmur at the right sternal edge, a raised JVP and hepatomegaly. Her lungs are relatively clear.",
+     "answer": 4,
+     "explanation": "Loud pansystolic murmur plus **acute right heart failure** (left-to-right shunt) = **ventricular septal rupture**; needs emergency surgical repair.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s8"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 518,
+     "page": 496
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 48,
+     "page": 48
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 14,
+     "page": 14
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 54-year-old man with suspected angina performs a treadmill test. He reaches 92% of his predicted maximum heart rate.",
+   "leadIn": "Which ECG finding most strongly indicates myocardial ischaemia?",
+   "options": [
+    "1 mm up-sloping ST depression at peak exercise",
+    "1.5 mm planar ST depression at peak exercise",
+    "Sinus tachycardia of 150/min at peak exercise",
+    "Isolated ventricular ectopics in recovery",
+    "T-wave flattening on the resting ECG"
+   ],
+   "answer": 1,
+   "explanation": "**Planar or down-sloping** ST depression of **1 mm or more** indicates ischaemia. Up-sloping depression is less specific and often seen in normal people.",
+   "whyNot": [
+    "Up-sloping ST depression is non-specific and may be normal.",
+    "",
+    "A rise in heart rate is the expected response to exercise.",
+    "Occasional ectopics in recovery are not a diagnostic criterion.",
+    "Minor resting T changes are non-specific; the test is judged on exercise changes."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 510,
+     "page": 488
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 511,
+     "page": 489
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 63-year-old woman has an anterior STEMI 2 hours after onset. Primary PCI is not available within 120 minutes, so thrombolysis is considered.",
+   "leadIn": "Which item in her history most strongly argues against thrombolysis?",
+   "options": [
+    "Intracerebral haemorrhage four years ago",
+    "Type 2 diabetes for 10 years",
+    "Hypertension controlled at 138/84 mmHg",
+    "PCI to the right coronary artery 3 years ago",
+    "Inguinal hernia repair 6 months ago"
+   ],
+   "answer": 0,
+   "explanation": "Bleeding is the main hazard of lysis. A **previous intracerebral haemorrhage** is listed by Davidson and is an **absolute** contraindication in Pocket Medicine.",
+   "whyNot": [
+    "",
+    "Diabetes alone is not a contraindication.",
+    "Only uncontrolled hypertension counts against lysis.",
+    "Previous PCI does not increase bleeding risk.",
+    "Davidson lists surgery within 1 month; 6 months ago does not count."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 522,
+     "page": 500
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 46,
+     "page": 46
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 72-year-old man with NSTEMI is about to start dual antiplatelet therapy. Two years ago he had an ischaemic stroke with full recovery.",
+   "leadIn": "Which antithrombotic drug is contraindicated?",
+   "options": [
+    "Prasugrel",
+    "Ticagrelor",
+    "Clopidogrel",
+    "Aspirin",
+    "Fondaparinux"
+   ],
+   "answer": 0,
+   "explanation": "**Prasugrel** is contraindicated after a previous stroke or TIA because of a higher bleeding risk, and is used cautiously over 75 years.",
+   "whyNot": [
+    "",
+    "Ticagrelor is not contraindicated by prior ischaemic stroke; its classic side effect is dyspnoea.",
+    "Clopidogrel is a suitable P2Y12 choice here.",
+    "Aspirin is continued indefinitely after ACS.",
+    "Fondaparinux is the preferred anticoagulant in Davidson."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s6"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 42,
+     "page": 42
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 522,
+     "page": 500
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 52-year-old woman is recovering from an NSTEMI. Her total cholesterol is 4.1 mmol/L and LDL 2.2 mmol/L. She asks whether she really needs a cholesterol tablet.",
+   "leadIn": "What is the best advice?",
+   "options": [
+    "Start a statin, since all ACS patients need one whatever the cholesterol",
+    "No statin is needed because her LDL is below 3.2 mmol/L",
+    "Use dietary changes alone and recheck in 3 months",
+    "Start a fibrate instead of a statin",
+    "Start ezetimibe alone"
+   ],
+   "answer": 0,
+   "explanation": "Davidson: **all** patients after ACS receive a **statin irrespective of cholesterol**. The LDL > 3.2 mmol/L cut-off only marks who benefits from more intensive therapy (atorvastatin 80 mg).",
+   "whyNot": [
+    "",
+    "3.2 mmol/L is the threshold for intensive therapy, not for any statin at all.",
+    "Diet alone is not enough after ACS; statins reduce events.",
+    "Fibrates are add-ons when statins alone fail.",
+    "Ezetimibe is an add-on, not a substitute for a statin."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 523,
+     "page": 501
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q18",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 1,
+   "stem": "A 58-year-old man has a 2-month history of central chest tightness on walking briskly that settles within minutes of rest. He has no asthma or heart failure. BP 148/90 mmHg, pulse 84/min. He has started aspirin and a statin.",
+   "leadIn": "What is the most appropriate initial anti-anginal regimen?",
+   "options": [
+    "Sublingual GTN as needed plus bisoprolol",
+    "Sublingual GTN as needed plus short-acting nifedipine",
+    "Isosorbide mononitrate alone",
+    "Ivabradine plus ranolazine",
+    "Referral for CABG without drug treatment"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: the history (exertional, relieved by rest) is **stable angina**. Step 2: he has aspirin and a statin for prognosis; now he needs **symptom control**. Step 3: Davidson's ladder starts with **sublingual GTN + a β-blocker**; a cardioselective agent like **bisoprolol** is preferred, and his BP and heart rate leave room for it. Step 4: add a calcium blocker or long-acting nitrate only if needed, and consider revascularisation if two drugs fail.",
+   "whyNot": [
+    "",
+    "Nifedipine causes reflex tachycardia unless combined with a β-blocker, and high-dose nifedipine raises mortality in angina.",
+    "A long-acting nitrate is an add-on, not the first choice, and gives no rapid relief for attacks.",
+    "Ivabradine and ranolazine are second-line agents.",
+    "Revascularisation is considered after two drugs fail to control symptoms."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 511,
+     "page": 489
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 512,
+     "page": 490
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 486,
+     "page": 449
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q19",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 61-year-old man has severe chest pain with vomiting and a pulse of 48/min. His ECG shows 3 mm ST elevation in II, III and aVF with ST depression in I and aVL.",
+   "leadIn": "Which coronary artery is most likely occluded?",
+   "options": [
+    "Right coronary artery",
+    "Left anterior descending artery",
+    "Left circumflex artery",
+    "Left main stem",
+    "First diagonal branch"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: ST elevation in **II, III and aVF** = **inferior** MI; ST depression in I and aVL is the reciprocal change. Step 2: the inferior wall is supplied by the **RCA in about 85%** of people. Step 3: the vagal features (vomiting, bradycardia) fit inferior MI, and the RCA usually supplies the AV node, so watch for AV block. Also record V4R to look for RV involvement.",
+   "whyNot": [
+    "",
+    "LAD occlusion causes anterior (V1–V4) ST elevation.",
+    "The circumflex mainly produces lateral changes (I, aVL, V5–V6), though it sometimes supplies the inferior wall.",
+    "Left main occlusion causes extensive anterior/lateral ischaemia, usually with shock.",
+    "A diagonal branch gives limited anterolateral changes."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 517,
+     "page": 495
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 519,
+     "page": 497
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 39,
+     "page": 39
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 48,
+     "page": 48
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q20",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 55-year-old man arrives at a hospital with a 24-hour catheter laboratory 2 hours after the onset of crushing chest pain. His ECG shows 3 mm ST elevation in V1–V4. His first troponin is pending.",
+   "leadIn": "What is the most appropriate immediate management?",
+   "options": [
+    "Primary PCI",
+    "Thrombolysis and discharge if pain settles",
+    "Wait for the troponin result before deciding",
+    "Calculate a GRACE score and plan angiography within 72 hours",
+    "Arrange CT coronary angiography"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: ST elevation of 2 mm or more in contiguous chest leads meets **STEMI** criteria. Step 2: in STEMI the decision is made from the **ECG**, not the troponin. Step 3: he is within 12 h and PCI is available well within 120 min, so **primary PCI** is the treatment of choice, after aspirin, a P2Y12 inhibitor and analgesia. Step 4: thrombolysis is only the back-up when timely PCI is impossible.",
+   "whyNot": [
+    "",
+    "Lysis is second-best when PCI is available, and PCI within 24 h would still be needed afterwards.",
+    "Troponin takes 3–6 h to rise; waiting loses myocardium.",
+    "The GRACE-based pathway is for NSTE-ACS, not STEMI.",
+    "CT angiography has no role in acute STEMI."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 519,
+     "page": 497
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 521,
+     "page": 499
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 522,
+     "page": 500
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q21",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Drugs used in acute coronary syndrome",
+   "leadIn": "Match each case below to the best option in the list. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Aspirin",
+    "Ticagrelor",
+    "Prasugrel",
+    "Clopidogrel",
+    "Fondaparinux",
+    "Enoxaparin",
+    "Tenecteplase",
+    "Abciximab",
+    "Metoclopramide",
+    "Warfarin",
+    "Eplerenone",
+    "Atropine"
+   ],
+   "items": [
+    {
+     "stem": "A 70-year-old woman with NSTEMI awaiting inpatient angiography starts a once-daily subcutaneous pentasaccharide anticoagulant, chosen because it has the best safety and efficacy profile.",
+     "answer": 4,
+     "explanation": "**Fondaparinux** 2.5 mg SC daily (a factor Xa inhibitor acting through antithrombin) is Davidson's preferred anticoagulant in ACS.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s6"
+     }
+    },
+    {
+     "stem": "A 60-year-old man with newly diagnosed stable angina had bronchospasm with aspirin in the past. He needs long-term antiplatelet therapy.",
+     "answer": 3,
+     "explanation": "**Clopidogrel 75 mg** daily is the equally effective alternative when aspirin is not tolerated.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s5"
+     }
+    },
+    {
+     "stem": "Two weeks after an extensive anterior STEMI, echo shows a mobile thrombus at the left ventricular apex in a 64-year-old man who remains in sinus rhythm.",
+     "answer": 9,
+     "explanation": "Davidson: consider **warfarin** after extensive anterior MI with **mural thrombus** (or persistent AF) to prevent systemic embolism (INR 2–3).",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s8"
+     }
+    },
+    {
+     "stem": "During primary PCI for STEMI, angiography shows a large thrombus burden in the right coronary artery. The operator gives an intravenous agent that blocks the final common pathway of platelet aggregation.",
+     "answer": 7,
+     "explanation": "GP IIb/IIIa antagonists such as **abciximab** block the final common pathway; they are used in high-risk PCI, especially with heavy thrombus.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 511,
+     "page": 489
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 522,
+     "page": 500
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1102,
+     "page": 1086
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 495,
+     "page": 458
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q22",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Reading the ECG in acute coronary syndrome",
+   "leadIn": "Match each case below to the best option in the list. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Anteroseptal STEMI",
+    "Extensive anterior STEMI",
+    "Inferior STEMI",
+    "Inferolateral STEMI",
+    "High lateral STEMI",
+    "Posterior MI",
+    "Right ventricular infarction",
+    "Anterior NSTEMI (subendocardial)",
+    "Old (established) infarct"
+   ],
+   "items": [
+    {
+     "stem": "A 59-year-old man has had chest pain for 1 hour. ST elevation of 3 mm is seen in V1–V4 only.",
+     "answer": 0,
+     "explanation": "V1–V4 face the **septum and anterior wall**: anteroseptal STEMI, usually LAD.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s4"
+     }
+    },
+    {
+     "stem": "A 67-year-old woman with 4 hours of pain has ST elevation in II, III, aVF, V5 and V6, with ST depression in aVL and V2.",
+     "answer": 3,
+     "explanation": "Inferior leads plus lateral chest leads = **inferolateral** STEMI; aVL and V2 show reciprocal depression.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s4"
+     }
+    },
+    {
+     "stem": "A 72-year-old man had chest pain yesterday. Troponin is raised. His ECG shows deep symmetrical T-wave inversion and smaller R waves in V1–V4, with no Q waves and no ST elevation.",
+     "answer": 7,
+     "explanation": "Partial-thickness infarction: **T inversion with R-wave loss but no Q waves** in V1–V4 = anterior NSTEMI.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s4"
+     }
+    },
+    {
+     "stem": "A 69-year-old man attends for a routine check. He had a heart attack 5 years ago. His ECG shows deep Q waves in II, III and aVF with flat T waves and isoelectric ST segments.",
+     "answer": 8,
+     "explanation": "Q waves persist while ST and T changes fade over weeks to months: an **old inferior infarct**. Pathological Q waves alone are a criterion for previous MI.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 516,
+     "page": 494
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 518,
+     "page": 496
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 519,
+     "page": 497
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 520,
+     "page": 498
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 62-year-old man with two-vessel coronary disease is choosing between PCI and CABG. He asks what the main drawback of PCI is compared with surgery.",
+   "leadIn": "Which statement best describes PCI compared with CABG?",
+   "options": [
+    "PCI needs repeat revascularisation more often",
+    "PCI has a higher procedural mortality",
+    "PCI causes more neurological complications",
+    "PCI needs a longer hospital stay",
+    "PCI needs a longer time before return to work"
+   ],
+   "answer": 0,
+   "explanation": "Davidson Box 16.45: repeat revascularisation is **10–20% at 2 years after PCI** versus **2% after CABG**. PCI is better on death, stay, return to work and neurological complications.",
+   "whyNot": [
+    "",
+    "PCI mortality is lower (< 0.5% vs < 1.5%).",
+    "Neurological complications are rare with PCI but common with CABG.",
+    "PCI stay is 12–36 h vs 5–8 days.",
+    "Return to work is 2–5 days after PCI vs 6–12 weeks after CABG."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 515,
+     "page": 493
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q24",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 70-year-old man with atrial fibrillation has an exercise ECG for atypical chest pain. It shows 1.5 mm ST depression in V4–V6. CT coronary angiography later shows normal coronary arteries.",
+   "leadIn": "Which of his medicines most likely explains the exercise test result?",
+   "options": [
+    "Digoxin",
+    "Apixaban",
+    "Atorvastatin",
+    "Ramipril",
+    "Omeprazole"
+   ],
+   "answer": 0,
+   "explanation": "**Digoxin** causes false-positive ST depression on exercise testing, as do LVH, bundle branch block and WPW. Functional imaging avoids this problem.",
+   "whyNot": [
+    "",
+    "Anticoagulants do not affect ST segments.",
+    "Statins do not alter the exercise ECG.",
+    "ACE inhibitors do not cause false-positive ST depression.",
+    "Proton pump inhibitors have no effect on the ST segment."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 510,
+     "page": 488
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 29,
+     "page": 29
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q25",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "An 81-year-old woman, diabetic for 25 years, is brought in after two falls and 2 days of confusion and poor appetite. She denies chest pain. Her ECG shows new Q waves in V1–V4 and her troponin is markedly raised with a falling trend.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Silent (painless) myocardial infarction",
+    "Unstable angina",
+    "Stable angina",
+    "Prinzmetal angina",
+    "Cardiac syndrome X"
+   ],
+   "answer": 0,
+   "explanation": "Painless MI is particularly common in **older and diabetic** patients, who may present with falls, delirium, anorexia or fatigue. New Q waves with a rise and fall of troponin confirm infarction.",
+   "whyNot": [
+    "",
+    "Unstable angina has no troponin rise or Q waves.",
+    "Stable angina is predictable exertional pain without necrosis.",
+    "Prinzmetal angina gives transient ST elevation, not established Q waves.",
+    "Syndrome X is effort angina with normal coronaries, not infarction."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 517,
+     "page": 495
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 522,
+     "page": 500
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q26",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 3,
+   "theme": "Next step in suspected acute coronary syndrome",
+   "leadIn": "Match each case below to the best option in the list. Any option can be the answer for several cases, or for none.",
+   "options": [
+    "Primary PCI",
+    "Intravenous thrombolysis",
+    "Early inpatient angiography (within 24 hours)",
+    "Immediate angiography (within 2 hours)",
+    "Discharge with outpatient investigation",
+    "Repeat ECG every 15 minutes and serial troponin",
+    "Exercise tolerance test about 4 weeks later",
+    "Intravenous furosemide and nitrate",
+    "Temporary transvenous pacing",
+    "Intravenous atropine"
+   ],
+   "items": [
+    {
+     "stem": "A 56-year-old man has had 30 minutes of crushing central chest pain that is continuing. His first ECG is normal.",
+     "answer": 5,
+     "explanation": "The first ECG is normal in up to a third of ACS. With pain ongoing, **repeat the ECG every 15 minutes** and measure troponin serially to catch an evolving STEMI.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s4"
+     }
+    },
+    {
+     "stem": "A day after an anterior STEMI, a 69-year-old man's monitor shows new complete heart block with broad escape complexes. He is currently normotensive.",
+     "answer": 8,
+     "explanation": "AV block in **anterior** MI means extensive damage and may progress suddenly to asystole, so Davidson recommends a **prophylactic temporary pacemaker**.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s8"
+     }
+    },
+    {
+     "stem": "A 64-year-old woman with NSTEMI is now pain free and stable. Her troponin rose on serial testing and her GRACE score is 152.",
+     "answer": 2,
+     "explanation": "High risk (dynamic troponin, GRACE above 140) but stable → **early inpatient angiography within 24 h**. Immediate (<2 h) angiography is kept for refractory pain, shock or arrhythmia.",
+     "studyRef": {
+      "sectionId": "cardio-ihd.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 517,
+     "page": 495
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 518,
+     "page": 496
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 520,
+     "page": 498
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1103,
+     "page": 1087
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1104,
+     "page": 1088
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q27",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "Six hours after an inferior STEMI treated with PCI, a 66-year-old man feels light-headed. Pulse 40/min (sinus bradycardia), BP 82/50 mmHg. His lungs are clear.",
+   "leadIn": "What is the most appropriate immediate treatment?",
+   "options": [
+    "Intravenous atropine",
+    "Intravenous metoprolol",
+    "Intravenous amiodarone",
+    "Synchronised DC cardioversion",
+    "Intravenous adenosine"
+   ],
+   "answer": 0,
+   "explanation": "Bradycardia after inferior MI is often vagal. It is treated only if it causes **hypotension or haemodynamic deterioration**, and then with **atropine 0.6–1.2 mg IV**.",
+   "whyNot": [
+    "",
+    "A β-blocker would worsen bradycardia and hypotension.",
+    "Amiodarone is for ventricular tachyarrhythmias and can slow the heart further.",
+    "Cardioversion treats tachyarrhythmias, not sinus bradycardia.",
+    "Adenosine blocks the AV node and would worsen bradycardia."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 517,
+     "page": 495
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q28",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 36-year-old woman who smokes has recurrent episodes of chest pain at rest, mainly in the early morning. During one episode her ECG shows ST elevation in II, III and aVF that resolves within minutes. Coronary angiography shows no significant stenosis.",
+   "leadIn": "What is the most appropriate long-term treatment?",
+   "options": [
+    "Calcium channel blocker plus a long-acting nitrate",
+    "Propranolol",
+    "PCI with a drug-eluting stent",
+    "High-dose aspirin",
+    "Ranolazine alone"
+   ],
+   "answer": 0,
+   "explanation": "This is **Prinzmetal (vasospastic) angina**. Treat with a **calcium channel blocker plus nitrate** and stop smoking. Non-selective β-blockers such as propranolol can worsen spasm.",
+   "whyNot": [
+    "",
+    "Non-selective β-blockers may aggravate coronary vasospasm.",
+    "There is no fixed stenosis to stent.",
+    "High-dose aspirin may worsen spasm and does not prevent it.",
+    "Ranolazine is not the standard treatment for vasospasm."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s5"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 40,
+     "page": 40
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 509,
+     "page": 487
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 512,
+     "page": 490
+    }
+   ]
+  },
+  {
+   "id": "cardio-ihd.q29",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 61-year-old man has had three episodes of central chest pain at rest over 2 days, each lasting about 20 minutes. His ECG during pain shows 1 mm ST depression in V4–V6. Troponin at presentation and 3 hours later is normal.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Unstable angina",
+    "NSTEMI",
+    "STEMI",
+    "Stable angina",
+    "Type 2 myocardial infarction"
+   ],
+   "answer": 0,
+   "explanation": "Rest angina with ischaemic ECG changes but **no troponin rise** = **unstable angina**: an acute coronary syndrome without myocardial necrosis.",
+   "whyNot": [
+    "",
+    "NSTEMI requires a rise in troponin.",
+    "There is no ST elevation or new LBBB.",
+    "Stable angina is predictable and exertional, not recurrent rest pain.",
+    "Any MI, including type 2, requires a troponin rise."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-ihd.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 515,
+     "page": 493
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 519,
+     "page": 497
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 12,
+     "page": 12
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "cardio-ihd.o1",
+   "sectionId": "cardio-ihd.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 519,
+    "page": 497,
+    "figure": "Fig. 16.67"
+   },
+   "identify": "Acute anterior STEMI: ST elevation in I, aVL and V2–V6 with Q waves in V3–V5 (LAD territory)."
+  },
+  {
+   "id": "cardio-ihd.o2",
+   "sectionId": "cardio-ihd.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 520,
+    "page": 498,
+    "figure": "Fig. 16.68"
+   },
+   "identify": "Acute inferolateral STEMI: ST elevation in II, III, aVF and V4–V6, reciprocal ST depression in aVL and V2."
+  },
+  {
+   "id": "cardio-ihd.o3",
+   "sectionId": "cardio-ihd.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 519,
+    "page": 497,
+    "figure": "Fig. 16.66"
+   },
+   "identify": "Anterior NSTEMI: deep symmetrical T-wave inversion with reduced R waves in V1–V4, no Q waves."
+  },
+  {
+   "id": "cardio-ihd.o4",
+   "sectionId": "cardio-ihd.s4",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 1105,
+    "page": 1089,
+    "figure": "Fig. 30.69"
+   },
+   "identify": "Acute inferior MI: raised ST segments with Q waves in II, III and aVF."
+  },
+  {
+   "id": "cardio-ihd.o5",
+   "sectionId": "cardio-ihd.s3",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 512,
+    "page": 490,
+    "figure": "Fig. 16.57"
+   },
+   "identify": "Positive exercise test: marked planar ST depression in V4–V5 at low workload — severe (three-vessel) disease."
+  },
+  {
+   "id": "cardio-ihd.o6",
+   "sectionId": "cardio-ihd.s3",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 512,
+    "page": 490,
+    "figure": "Fig. 16.58"
+   },
+   "identify": "Myocardial perfusion scan: anterior uptake defect at stress, normal at rest = reversible anterior ischaemia."
+  },
+  {
+   "id": "cardio-ihd.o7",
+   "sectionId": "cardio-ihd.s7",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 514,
+    "page": 492,
+    "figure": "Fig. 16.60"
+   },
+   "identify": "Coronary angiogram: acute right coronary occlusion with thrombus, then normal flow after stenting (primary PCI)."
+  },
+  {
+   "id": "cardio-ihd.o8",
+   "sectionId": "cardio-ihd.s8",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 1106,
+    "page": 1090,
+    "figure": "Fig. 30.71"
+   },
+   "identify": "Cardiac MRI: inferior left ventricular aneurysm after MI."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:43:56.762Z",
+  "contentHash": "83c5c0de917dd43197139058a345250c6371a890b2b327220c1d17953f1bff22"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:43:56.768Z",
+  "contentHash": "83c5c0de917dd43197139058a345250c6371a890b2b327220c1d17953f1bff22",
+  "checkerVersion": "source-check-v1"
+ }
+}

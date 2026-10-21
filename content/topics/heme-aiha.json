@@ -1,0 +1,2954 @@
+{
+ "topicId": "heme-aiha",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "heme-aiha.s1",
+   "title": "Definition and classification",
+   "objectiveIdx": [
+    0,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Autoimmune haemolytic anaemia (AIHA)** is an _acquired_ haemolytic anaemia: the patient makes **autoantibodies against antigens on their own red cells**, so the cells are destroyed early and survive less than the normal **120 days**. The marrow can lift red cell output roughly **six- to eightfold**, so anaemia only appears once destruction outpaces that compensation. The defining laboratory feature is a **positive direct antiglobulin (Coombs) test**, which shows antibody and/or complement already sitting on the red cell surface.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 967,
+       "page": 945
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 375,
+       "page": 351
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 255,
+       "page": 218
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 246,
+       "page": 209
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Warm versus cold autoimmune haemolysis",
+     "columns": [
+      "Feature",
+      "Warm AIHA",
+      "Cold AIHA (cold agglutinin disease)"
+     ],
+     "rows": [
+      [
+       "Share of cases",
+       "About 80% (the commoner type)",
+       "About 20%"
+      ],
+      [
+       "Best binding temperature",
+       "37°C (body temperature)",
+       "About 4°C (Step-Up: 0–5°C); clinically relevant only if active near body temperature"
+      ],
+      [
+       "Antibody",
+       "Mostly **IgG**, often against Rhesus antigens (commonly anti-e)",
+       "Usually **IgM**, complement-fixing; anti-I (rarely anti-i)"
+      ],
+      [
+       "DAT pattern",
+       "IgG alone, IgG + complement, or complement alone",
+       "Complement only (**C3d**) because IgM elutes off"
+      ],
+      [
+       "Main destruction",
+       "**Extravascular**: splenic macrophages",
+       "**Intravascular** when complement is fixed; liver is the main sequestration site"
+      ],
+      [
+       "Blood film",
+       "Spherocytes, polychromasia",
+       "Red cell agglutinates"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 376,
+       "page": 352
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 377,
+       "page": 353
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 833,
+       "page": 833
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 834,
+       "page": 834
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Where AIHA sits in the classification of immune haemolysis",
+     "items": [
+      "**Autoantibodies** (AIHA): warm or cold, and each type is either **primary (idiopathic)** or **secondary** to another disease.",
+      "Kumar also recognises a **mixed** warm-and-cold type.",
+      "Cold forms: **chronic** cold agglutinin disease when the IgM is **monoclonal**; **acute, transient** cold agglutination when it is **polyclonal** (after infection); and **paroxysmal cold haemoglobinuria** (an IgG cold antibody).",
+      "**Alloantibodies** attack _non-self_ red cells: mismatched transfusion and haemolytic disease of the newborn. These are not AIHA.",
+      "**Drug-induced** immune haemolysis is a further immune group."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 968,
+       "page": 946
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 375,
+       "page": 351
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 377,
+       "page": 353
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 255,
+       "page": 218
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 968,
+      "page": 946,
+      "figure": "Fig. 23.19"
+     },
+     "note": "Look at panel B: acquired haemolysis splits into immune (warm and cold autoantibodies, alloantibodies) and non-immune causes."
+    },
+    {
+     "type": "pearl",
+     "text": "Warm AIHA is **more common** than cold. The antibody class (IgG vs IgM) predicts **where** the red cells are destroyed and **how well** the patient responds to treatment.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 833,
+       "page": 833
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.s2",
+   "title": "Etiology: primary and secondary causes",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "In **warm AIHA no cause is found in up to half** of patients. In the rest it is secondary, and Kumar names a **lymphoproliferative disorder** (CLL, lymphoma) as the most frequent underlying cause. Cold AIHA is either a chronic disease of older people or a short-lived complication of infection.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 377,
+       "page": 353
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Secondary causes by antibody type",
+     "columns": [
+      "Group",
+      "Warm AIHA",
+      "Cold AIHA"
+     ],
+     "rows": [
+      [
+       "Autoimmune disease",
+       "SLE, rheumatoid arthritis",
+       "—"
+      ],
+      [
+       "Lymphoid malignancy",
+       "CLL, lymphoma, myeloma",
+       "Lymphoma; low-grade B-cell lymphoma / Waldenström making **monoclonal IgM**"
+      ],
+      [
+       "Other tumours",
+       "Carcinoma of lung, colon, kidney, ovary; thymoma",
+       "—"
+      ],
+      [
+       "Infection",
+       "HIV (Pocket Medicine also lists babesiosis)",
+       "_Mycoplasma pneumoniae_, infectious mononucleosis (EBV), CMV, syphilis"
+      ],
+      [
+       "Other",
+       "Ulcerative colitis",
+       "Paroxysmal cold haemoglobinuria after childhood viral infections"
+      ],
+      [
+       "Drugs",
+       "Methyldopa, L-dopa, mefenamic acid, penicillin, quinidine, fludarabine",
+       "—"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 968,
+       "page": 946
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 377,
+       "page": 353
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 332,
+       "page": 332
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 419,
+       "page": 419
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 255,
+       "page": 218
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Drugs reported to cause immune haemolysis (quick sources)",
+     "items": [
+      "Antibiotics: penicillin, cephalosporins, sulfonamides, rifampicin, ribavirin.",
+      "Cardiovascular: **methyldopa**, procainamide, quinidine, thiazides.",
+      "Others: phenytoin, NSAIDs, tricyclics, phenothiazines, sulfonylureas, methotrexate, 5-FU."
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 332,
+       "page": 332
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 419,
+       "page": 419
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 255,
+       "page": 218
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Cold antibody settings",
+     "items": [
+      "**Chronic cold agglutinin disease**: typically elderly; may signal a low-grade B-cell lymphoma producing monoclonal IgM.",
+      "**Post-infective**: _Mycoplasma_ pneumonia or glandular fever raise polyclonal cold agglutinins and cause mild, transient haemolysis.",
+      "**Paroxysmal cold haemoglobinuria**: very rare, in **children** after viral or bacterial infection (Kumar: measles, mumps, chickenpox)."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 377,
+       "page": 353
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 256,
+       "page": 219
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Exam pairings: **methyldopa, SLE, CLL → warm (IgG)**; **_Mycoplasma_, EBV, Waldenström → cold (IgM)**.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 419,
+       "page": 419
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 968,
+       "page": 946
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.s3",
+   "title": "Pathogenesis: how antibodies destroy red cells",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The key variable is **complement fixation**. An antibody that fixes complement strongly lyses red cells **inside the circulation (intravascular)**. Weak complement activation leaves the cells to be cleared by macrophages of the reticulo-endothelial system (**extravascular**).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 376,
+       "page": 352
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 256,
+       "page": 219
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Warm (IgG) antibodies — mainly extravascular, in the spleen",
+     "items": [
+      "IgG-coated red cells bind **Fc receptors on splenic macrophages** and are swallowed whole.",
+      "Others lose only a piece of membrane (**partial phagocytosis**) and return to the blood as **spherocytes**, which are later trapped in the spleen.",
+      "Some IgG partly activates complement and leaves **C3b** on the cell, which speeds phagocytosis further.",
+      "Because the spleen does the work, **splenomegaly** is common."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 376,
+       "page": 352
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 833,
+       "page": 833
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 332,
+       "page": 332
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Cold (IgM) antibodies — agglutination and complement",
+     "items": [
+      "IgM binds red cells in the **cool peripheries** (fingers, ears, nose) and clumps them, causing acrocyanosis.",
+      "When the cells return to the warm core, activated **complement lyses** them (intravascular haemolysis).",
+      "If complement is only partly activated, C3b-coated cells stick to **liver macrophages**; this is inefficient, and most cells are released once C3b is cleaved to **C3d**, so they circulate C3d-coated.",
+      "Small amounts of low-titre cold agglutinins are normal and harmless."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 376,
+       "page": 352
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 377,
+       "page": 353
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 256,
+       "page": 219
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 834,
+       "page": 834
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Paroxysmal cold haemoglobinuria (PCH)** is caused by a **biphasic polyclonal IgG** (the **Donath–Landsteiner antibody**) directed against the **P antigen**. It attaches to red cells in the cold periphery, then complement lyses them in the central circulation.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 377,
+       "page": 353
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 376,
+      "page": 352,
+      "figure": "Fig. 16.27"
+     },
+     "note": "Look at: the three fates of antibody-coated cells — complete phagocytosis, partial phagocytosis producing a spherocyte, and complement-coated cells circulating with C3d."
+    },
+    {
+     "type": "pitfall",
+     "text": "First Aid states that AIHA causes **extravascular** haemolysis in both types. Davidson, Kumar and Step-Up all describe complement-fixing cold IgM causing **intravascular** haemolysis. Follow Davidson: **warm = mainly extravascular (spleen); cold = intravascular when complement is fixed**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 419,
+       "page": 419
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 834,
+       "page": 834
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.s4",
+   "title": "Clinical features",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Warm AIHA** affects about **1 per 100 000 people per year**. It occurs at any age but is commonest in **middle-aged women**. It may present as a single episode of anaemia with jaundice, but it often remits and relapses into a chronic intermittent course. The spleen may be palpable, and an **infection or folate deficiency** can cause a sudden drop in haemoglobin. Severity ranges from mild compensated haemolysis to life-threatening anaemia.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 376,
+       "page": 352
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 377,
+       "page": 353
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 256,
+       "page": 219
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Features of haemolysis in general",
+     "items": [
+      "Symptoms of anaemia: tiredness, breathlessness, headache, palpitations; pallor and tachycardia.",
+      "**Mild jaundice** from unconjugated bilirubin; urine contains excess urobilinogen.",
+      "Splenomegaly (or hepatosplenomegaly), pigment gallstones and leg ulcers in chronic cases.",
+      "Signs of any underlying disease, e.g. lupus or the lymphadenopathy of CLL."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 967,
+       "page": 945
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 834,
+       "page": 834
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 416,
+       "page": 416
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Cold antibody syndromes",
+     "items": [
+      "**Chronic cold agglutinin disease**: older patient; gradual, low-grade haemolysis; fingers, toes, ears or nose become **cold, painful and blue (acrocyanosis)** on cold exposure, so winter is the hardest season.",
+      "**PCH**: a child, recently unwell with a viral illness, with bouts of intravascular haemolysis and haemoglobinuria."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 377,
+       "page": 353
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 332,
+       "page": 332
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 256,
+       "page": 219
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Evans syndrome** = AIHA together with autoimmune thrombocytopenia and/or neutropenia. About 10% of patients with ITP also have AIHA.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 377,
+       "page": 353
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 338,
+       "page": 338
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "The course of AIHA varies, but it tends to be **more fulminant in children** than in adults.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 833,
+       "page": 833
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.s5",
+   "title": "Investigations",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Step 1 — prove haemolysis",
+     "columns": [
+      "Test",
+      "Finding",
+      "Comment"
+     ],
+     "rows": [
+      [
+       "Haemoglobin",
+       "Low",
+       "Usually normocytic"
+      ],
+      [
+       "Reticulocytes",
+       "Raised",
+       "Seen as polychromasia on the film"
+      ],
+      [
+       "Unconjugated bilirubin",
+       "Raised",
+       "Mild jaundice"
+      ],
+      [
+       "LDH",
+       "Raised",
+       "Released from destroyed red cells"
+      ],
+      [
+       "Urinary urobilinogen",
+       "Raised",
+       "—"
+      ],
+      [
+       "Haptoglobin",
+       "Low or absent",
+       "Free haemoglobin binds it; marks intravascular haemolysis"
+      ],
+      [
+       "Methaemalbumin (Schumm test)",
+       "Present",
+       "Intravascular haemolysis"
+      ],
+      [
+       "Urine haemoglobin / haemosiderin",
+       "Present",
+       "Haemosiderinuria always means intravascular haemolysis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 968,
+       "page": 946
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 969,
+       "page": 947
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 246,
+       "page": 209
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 967,
+       "page": 945
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 248,
+       "page": 211
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 416,
+       "page": 416
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Step 2 — show it is immune: the direct antiglobulin (Coombs) test",
+     "items": [
+      "The patient's red cells are mixed with **Coombs reagent** (anti-human IgG, IgM and complement). Cells already coated with antibody in vivo **agglutinate**.",
+      "**Warm pattern**: IgG alone (about 35% in Kumar), IgG plus complement, or complement alone.",
+      "**Cold pattern**: complement (**C3d**) only.",
+      "Antibody **eluted** from the cells and tested against a typed red cell panel is usually Rhesus-specific, most often **anti-e**, which guides the choice of blood for cross-match."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 376,
+       "page": 352
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 377,
+       "page": 353
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 834,
+       "page": 834
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 256,
+       "page": 219
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A **negative DAT does not exclude AIHA**. The test needs roughly **200 antibody molecules per red cell**, and standard reagent misses **IgA and IgE**. About **10% of warm AIHA is Coombs-negative**, even with brisk haemolysis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Cold agglutinin disease and PCH",
+     "items": [
+      "Film made at room temperature shows **red cell agglutinates**, which disperse on warming.",
+      "**Cold agglutinin titre** is markedly raised (above 1:512); this is the most useful test for cold AIHA.",
+      "Monoclonal IgM usually has **anti-I** specificity (sometimes anti-i).",
+      "PCH: the **Donath–Landsteiner test** shows lysis when the patient's cells and serum are chilled and then warmed."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 377,
+       "page": 353
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 419,
+       "page": 419
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 834,
+       "page": 834
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 256,
+       "page": 219
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "In cold agglutinin disease the analyser counts red cell clumps as single large cells, so the **MCV is spuriously high**. A raised reticulocyte count can also nudge the MCV up in any haemolysis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 243,
+       "page": 206
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 417,
+       "page": 417
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Step 3 — look for the cause",
+     "items": [
+      "Drug history; drug-induced immune haemolysis is supported by timing, a positive DAT and recovery after stopping the drug. **Rechallenge is not advised**.",
+      "Full blood count for associated thrombocytopenia or neutropenia (Evans syndrome).",
+      "Kumar recommends **CT of the abdomen** to look for lymphoma in warm AIHA."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 377,
+       "page": 353
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 330\" role=\"img\" aria-label=\"DAT-based approach to haemolysis\">\n<rect x=\"200\" y=\"10\" width=\"240\" height=\"44\" rx=\"8\" fill=\"#e8eef7\" stroke=\"#34507a\" stroke-width=\"1.5\"/>\n<text x=\"320\" y=\"29\" font-size=\"13\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#1d2b40\">Haemolysis confirmed</text>\n<text x=\"320\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#1d2b40\">low Hb, high retics, LDH, unconj. bilirubin</text>\n<line x1=\"320\" y1=\"54\" x2=\"320\" y2=\"84\" stroke=\"#34507a\" stroke-width=\"1.5\"/>\n<rect x=\"220\" y=\"84\" width=\"200\" height=\"36\" rx=\"8\" fill=\"#fff4dc\" stroke=\"#9a6b00\" stroke-width=\"1.5\"/>\n<text x=\"320\" y=\"107\" font-size=\"13\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#3d2a00\">Direct antiglobulin test</text>\n<line x1=\"320\" y1=\"120\" x2=\"160\" y2=\"150\" stroke=\"#34507a\" stroke-width=\"1.5\"/>\n<line x1=\"320\" y1=\"120\" x2=\"500\" y2=\"150\" stroke=\"#34507a\" stroke-width=\"1.5\"/>\n<text x=\"210\" y=\"142\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#1d2b40\">positive</text>\n<text x=\"440\" y=\"142\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#1d2b40\">negative</text>\n<rect x=\"20\" y=\"150\" width=\"130\" height=\"62\" rx=\"8\" fill=\"#e6f4ea\" stroke=\"#2f6b3c\" stroke-width=\"1.5\"/>\n<text x=\"85\" y=\"170\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#173a1f\">IgG +/- C3</text>\n<text x=\"85\" y=\"187\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#173a1f\">Warm AIHA</text>\n<text x=\"85\" y=\"203\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#173a1f\">film: spherocytes</text>\n<rect x=\"165\" y=\"150\" width=\"140\" height=\"62\" rx=\"8\" fill=\"#e6f4ea\" stroke=\"#2f6b3c\" stroke-width=\"1.5\"/>\n<text x=\"235\" y=\"170\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#173a1f\">C3d only</text>\n<text x=\"235\" y=\"187\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#173a1f\">Cold agglutinin disease</text>\n<text x=\"235\" y=\"203\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#173a1f\">film: agglutination</text>\n<line x1=\"160\" y1=\"150\" x2=\"85\" y2=\"150\" stroke=\"#34507a\" stroke-width=\"1.5\"/>\n<line x1=\"160\" y1=\"150\" x2=\"235\" y2=\"150\" stroke=\"#34507a\" stroke-width=\"1.5\"/>\n<rect x=\"400\" y=\"150\" width=\"220\" height=\"110\" rx=\"8\" fill=\"#fbe9e7\" stroke=\"#8a2f22\" stroke-width=\"1.5\"/>\n<text x=\"510\" y=\"170\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#4a160f\">Non-immune causes</text>\n<text x=\"510\" y=\"188\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#4a160f\">spherocytes + family hx: HS</text>\n<text x=\"510\" y=\"204\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#4a160f\">bite cells: G6PD / oxidants</text>\n<text x=\"510\" y=\"220\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#4a160f\">fragments: MAHA, valves</text>\n<text x=\"510\" y=\"236\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#4a160f\">haemoglobinuria: PNH</text>\n<text x=\"510\" y=\"252\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#4a160f\">but ~10% warm AIHA is DAT-neg</text>\n<rect x=\"20\" y=\"236\" width=\"285\" height=\"74\" rx=\"8\" fill=\"#f2f2f2\" stroke=\"#555555\" stroke-width=\"1.2\"/>\n<text x=\"162\" y=\"256\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#222222\">Then look for a cause</text>\n<text x=\"162\" y=\"274\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#222222\">drugs, SLE, CLL/lymphoma (CT), infection</text>\n<text x=\"162\" y=\"291\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\" fill=\"#222222\">child + cold + haemoglobinuria: Donath-Landsteiner</text>\n<line x1=\"162\" y1=\"212\" x2=\"162\" y2=\"236\" stroke=\"#34507a\" stroke-width=\"1.5\"/>\n</svg>",
+     "alt": "Algorithm: confirm haemolysis, then DAT. Positive with IgG means warm AIHA with spherocytes; C3d only means cold agglutinin disease with agglutination. Negative DAT points to non-immune causes, remembering 10% of warm AIHA is DAT-negative. Then search for a cause.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 968,
+       "page": 946
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 377,
+       "page": 353
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 248,
+       "page": 211,
+       "figure": "Fig. 5.2"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 970,
+      "page": 948,
+      "figure": "Fig. 23.20"
+     },
+     "note": "Look at: the direct test detects antibody already on the patient's cells (AIHA, HDN, transfusion reactions); the indirect test detects antibody in plasma (pre-transfusion screen)."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 943,
+      "page": 921,
+      "figure": "Fig. 23.8D"
+     },
+     "note": "Look at: spherocytes — small, dense red cells with no central pallor (AIHA, hereditary spherocytosis, post-splenectomy)."
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.s6",
+   "title": "Differential diagnosis",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The differential of haemolysis is narrowed by three things: the **clinical setting**, the **blood film** and the **DAT**. A positive DAT points to an immune cause; a negative DAT shifts attention to membrane, enzyme, haemoglobin and mechanical causes.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 968,
+       "page": 946
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 248,
+       "page": 211
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Conditions that mimic AIHA",
+     "columns": [
+      "Condition",
+      "Distinguishing clues"
+     ],
+     "rows": [
+      [
+       "Hereditary spherocytosis",
+       "Spherocytes but **DAT negative**; family history (autosomal dominant); reduced eosin-5-maleimide (EMA) binding; positive osmotic fragility (also positive in AIHA)"
+      ],
+      [
+       "G6PD deficiency",
+       "Episodes after oxidant drugs or fava beans; **bite cells**, Heinz bodies; DAT negative"
+      ],
+      [
+       "Microangiopathic haemolysis (TTP, HUS, DIC)",
+       "**Red cell fragments**; DAT negative"
+      ],
+      [
+       "Mechanical heart valve, march haemoglobinuria",
+       "Fragments and intravascular markers; history of valve or prolonged exercise"
+      ],
+      [
+       "Paroxysmal nocturnal haemoglobinuria",
+       "Acquired GPI-anchor defect (no CD55/CD59); complement lysis; **dark early-morning urine**; DAT negative"
+      ],
+      [
+       "Alloimmune haemolysis",
+       "Antibody against _non-self_ red cells: mismatched transfusion, haemolytic disease of the newborn"
+      ],
+      [
+       "Falciparum malaria, _C. perfringens_ sepsis",
+       "Infection context; clostridial toxin gives severe intravascular haemolysis with marked spherocytosis"
+      ],
+      [
+       "Sickle-cell disease",
+       "Sickle cells on the film"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 968,
+       "page": 946
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 969,
+       "page": 947
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 248,
+       "page": 211
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 420,
+       "page": 420
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Spherocytes appear in **both** AIHA and hereditary spherocytosis, and both can have abnormal osmotic fragility. The **DAT separates them**: positive in AIHA, negative in HS.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 969,
+       "page": 947
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 836,
+       "page": 836
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 420,
+       "page": 420
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Spherocytes are not unique to immune haemolysis: _Clostridium perfringens_ toxin and severe burns also produce them. Also, the busy marrow of chronic haemolysis can run out of folate and give **megaloblastic** features.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 968,
+       "page": 946
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Cryoglobulinaemia** and **cold agglutinin disease** are different disorders, even though both are caused by IgM antibodies.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 442,
+       "page": 442
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.s7",
+   "title": "Management",
+   "objectiveIdx": [
+    7
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Warm AIHA — first line",
+     "items": [
+      "Treat any underlying disease and **stop implicated drugs**.",
+      "**Prednisolone about 1 mg/kg orally**. Davidson: response in **70–80%**, but it can take up to **3 weeks** (KC Essentials quotes remission in 80%).",
+      "Response = rising haemoglobin with **falling bilirubin, LDH and reticulocytes**. Once Hb is normal, taper the steroid slowly over several weeks.",
+      "Steroids reduce macrophage destruction of coated cells and lower autoantibody production.",
+      "Folic acid for patients with ongoing haemolysis."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 256,
+       "page": 219
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 377,
+       "page": 353
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 836,
+       "page": 836
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Warm AIHA — steroid-refractory or steroid-dependent",
+     "items": [
+      "**Rituximab** (anti-CD20) is the second-line drug of choice in current UK guidance (Davidson).",
+      "**Splenectomy** (often laparoscopic) gives a good response in 50–60%; fewer are now performed.",
+      "Other immunosuppressants: azathioprine, ciclosporin, mycophenolate, cyclophosphamide.",
+      "IVIg can control severe haemolysis that is not responding.",
+      "Risks: long-term immunosuppression → malignancy; splenectomy → severe infection with capsulated organisms (pneumococcus, meningococcus).",
+      "Pocket Medicine (in its ITP section) advises checking HBsAg and anti-HBc before giving rituximab."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 420,
+       "page": 420
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 332,
+       "page": 332
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 338,
+       "page": 338
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 836,
+       "page": 836
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Second-line choice differs between books. Kumar calls **splenectomy** the most effective second-line therapy. Davidson says **rituximab** is now preferred in UK guidance and fewer splenectomies are done. Follow Davidson: **rituximab is the usual second-line answer**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 377,
+       "page": 353
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Transfusion",
+     "items": [
+      "Reserve it for **life-threatening** problems, such as heart failure or a rapid, continuing fall in Hb.",
+      "Use the **least incompatible** blood: autoantibodies make cross-matching difficult, and reactions or new alloantibodies can still occur.",
+      "In cold agglutinin disease, send the cross-match sample at **37°C** and give the blood through a **blood warmer**, with the patient kept warm."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 377,
+       "page": 353
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Cold agglutinin disease, PCH and drug-induced haemolysis",
+     "items": [
+      "Keep the extremities warm and **avoid the cold**; treat any underlying lymphoma.",
+      "Transfusion support as needed; **folic acid** for all.",
+      "**Rituximab** helps some patients; the complement inhibitor **sutimlimab** is approved for cold agglutinin disease (Pocket Medicine).",
+      "PCH is **self-limiting**, although transfusion may be needed.",
+      "Drug-induced: stop the drug."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 377,
+       "page": 353
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 332,
+       "page": 332
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 836,
+       "page": 836
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Steroids in cold agglutinin disease: Davidson says some patients respond to glucocorticoids and rituximab, but Kumar and Step-Up say **steroids and splenectomy are usually ineffective**, and Pocket Medicine calls steroids ineffective (IgM-coated cells are cleared mainly in the liver, not the spleen). In an exam, choose **warmth plus rituximab**, not splenectomy, for cold AIHA.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 972,
+       "page": 950
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 377,
+       "page": 353
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 836,
+       "page": 836
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 332,
+       "page": 332
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 834,
+       "page": 834
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 376,
+       "page": 352
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Before and after splenectomy",
+     "items": [
+      "Give pneumococcal, _Haemophilus influenzae_ type b, meningococcal C and influenza vaccines **at least 2–3 weeks** before elective surgery.",
+      "Lifelong prophylactic **penicillin V 500 mg twice daily**.",
+      "The risk of overwhelming sepsis from encapsulated bacteria is lifelong."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 970,
+       "page": 948
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 419,
+       "page": 419
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "heme-aiha.c1",
+   "sectionId": "heme-aiha.s1",
+   "front": "Define autoimmune haemolytic anaemia.",
+   "back": "An acquired haemolytic anaemia in which autoantibodies against the patient's own red cell antigens shorten red cell survival; marked by a positive DAT.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 375,
+     "page": 351
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.c2",
+   "sectionId": "heme-aiha.s1",
+   "front": "Warm vs cold AIHA: share of cases, best temperature and antibody class?",
+   "back": "Warm: ~80%, binds best at 37°C, mostly IgG. Cold: ~20%, binds best at ~4°C, usually IgM (complement-fixing).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.c3",
+   "sectionId": "heme-aiha.s2",
+   "front": "In what proportion of warm AIHA is no cause found?",
+   "back": "Up to 50% (primary/idiopathic).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.c4",
+   "sectionId": "heme-aiha.s2",
+   "front": "Commonest underlying cause of secondary warm AIHA (Kumar)?",
+   "back": "A lymphoproliferative disorder, e.g. CLL or lymphoma.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 377,
+     "page": 353
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.c5",
+   "sectionId": "heme-aiha.s2",
+   "front": "Two classic infections that cause cold agglutinin haemolysis?",
+   "back": "_Mycoplasma pneumoniae_ and infectious mononucleosis (EBV); the rise in cold agglutinins is polyclonal and transient.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 256,
+     "page": 219
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.c6",
+   "sectionId": "heme-aiha.s3",
+   "front": "Why are spherocytes seen in warm AIHA?",
+   "back": "Splenic macrophages bite off part of the IgG-coated membrane (partial phagocytosis via Fc receptors); the remnant cell becomes spherical.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 376,
+     "page": 352
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.c7",
+   "sectionId": "heme-aiha.s3",
+   "front": "Antibody in paroxysmal cold haemoglobinuria?",
+   "back": "Biphasic polyclonal IgG (Donath–Landsteiner antibody) with anti-P specificity: binds in the cold, lyses centrally via complement.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 377,
+     "page": 353
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.c8",
+   "sectionId": "heme-aiha.s4",
+   "front": "What is Evans syndrome?",
+   "back": "AIHA plus autoimmune thrombocytopenia and/or neutropenia.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 377,
+     "page": 353
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 338,
+     "page": 338
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.c9",
+   "sectionId": "heme-aiha.s4",
+   "front": "Cause of acrocyanosis in cold agglutinin disease?",
+   "back": "IgM agglutinates red cells in the small vessels of cool exposed parts (fingers, toes, ears, nose).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.c10",
+   "sectionId": "heme-aiha.s5",
+   "front": "DAT result in chronic cold agglutinin disease?",
+   "back": "Positive for complement (C3d) only; the IgM itself has eluted off.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 376,
+     "page": 352
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 377,
+     "page": 353
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.c11",
+   "sectionId": "heme-aiha.s5",
+   "front": "Why can the DAT be negative in warm AIHA?",
+   "back": "It needs ~200 antibody molecules per cell and standard reagent misses IgA/IgE; ~10% of warm AIHA is Coombs-negative.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.c12",
+   "sectionId": "heme-aiha.s5",
+   "front": "Why may the MCV be falsely high in cold agglutinin disease?",
+   "back": "The analyser counts clumps of agglutinated red cells as single large cells.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.c13",
+   "sectionId": "heme-aiha.s6",
+   "front": "Single test that separates AIHA from hereditary spherocytosis?",
+   "back": "Direct antiglobulin test: positive in AIHA, negative in HS.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 969,
+     "page": 947
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 836,
+     "page": 836
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.c14",
+   "sectionId": "heme-aiha.s7",
+   "front": "First-line treatment of warm AIHA and expected response?",
+   "back": "Prednisolone ~1 mg/kg orally (plus treat cause/stop drug); response in 70–80%, may take up to 3 weeks.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.c15",
+   "sectionId": "heme-aiha.s7",
+   "front": "Second-line drug of choice for steroid-refractory warm AIHA (Davidson, UK guidance)?",
+   "back": "Rituximab (anti-CD20). Splenectomy works in 50–60%.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.c16",
+   "sectionId": "heme-aiha.s7",
+   "front": "Two transfusion precautions in cold agglutinin disease?",
+   "back": "Transport the cross-match sample at 37°C and give blood through a blood warmer.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "heme-aiha.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "During a teaching round, a haematologist explains that immune haemolytic anaemias caused by autoantibodies are divided into \"warm\" and \"cold\" types.",
+   "leadIn": "What is this division based on?",
+   "options": [
+    "The temperature at which the autoantibody binds red cells most strongly",
+    "The outdoor temperature at which the patient's symptoms begin",
+    "Whether red cells are destroyed inside or outside the circulation",
+    "The immunoglobulin class found on the direct antiglobulin test",
+    "The patient's core temperature during a haemolytic episode"
+   ],
+   "answer": 0,
+   "explanation": "Immune haemolysis is classified by **thermal specificity**: warm antibodies bind best at 37°C, cold ones at about 4°C. Antibody class and site of destruction tend to follow from this, but they are not the basis of the classification.",
+   "whyNot": [
+    "",
+    "Cold-induced symptoms are a consequence of cold antibodies, not the criterion for classifying them.",
+    "The site of destruction depends mainly on complement fixation and does not define warm vs cold.",
+    "IgG usually means warm and IgM cold, but the exceptions (e.g. the IgG cold antibody of PCH) show that class is not the criterion.",
+    "Core temperature is normal and plays no part in the classification."
+   ],
+   "studyRef": {
+    "sectionId": "heme-aiha.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 375,
+     "page": 351
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A medical student is summarising the epidemiology of autoimmune haemolytic anaemia for a revision sheet.",
+   "leadIn": "Roughly what proportion of autoimmune haemolysis is caused by warm-reacting antibodies?",
+   "options": [
+    "About 10%",
+    "About 20%",
+    "About 50%",
+    "About 80%",
+    "About 99%"
+   ],
+   "answer": 3,
+   "explanation": "Davidson: warm antibodies account for about **80%** of cases and cold antibodies for the remaining **20%**.",
+   "whyNot": [
+    "Far too low: warm AIHA is the commoner form.",
+    "20% is the share of cold antibody disease, not warm.",
+    "50% is the proportion of warm AIHA with no identifiable cause, a different figure.",
+    "",
+    "Cold antibodies account for a real minority (about a fifth), so warm is not almost universal."
+   ],
+   "studyRef": {
+    "sectionId": "heme-aiha.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 833,
+     "page": 833
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 71-year-old man with a 5-year history of lymphocytosis and painless cervical lymph nodes becomes increasingly tired. Hb is 82 g/L with raised reticulocytes, unconjugated bilirubin and LDH. The film shows spherocytes, and the direct antiglobulin test is positive for IgG.",
+   "leadIn": "What is the most likely cause of his anaemia?",
+   "options": [
+    "Warm autoimmune haemolysis secondary to chronic lymphocytic leukaemia",
+    "Cold agglutinin disease caused by Mycoplasma infection",
+    "Marrow failure from leukaemic infiltration",
+    "Late-presenting hereditary spherocytosis",
+    "Microangiopathic haemolysis from disseminated intravascular coagulation"
+   ],
+   "answer": 0,
+   "explanation": "Lymphocytosis with nodes suggests **CLL**, a classic cause of secondary **warm (IgG) AIHA**. Spherocytes plus an IgG-positive DAT confirm immune extravascular haemolysis.",
+   "whyNot": [
+    "",
+    "Cold agglutinin disease gives a C3d-only DAT and agglutination, not IgG with spherocytes.",
+    "Marrow infiltration lowers reticulocytes and does not make the DAT positive.",
+    "Hereditary spherocytosis is DAT-negative and usually has a family history.",
+    "DIC produces red cell fragments with a negative DAT."
+   ],
+   "studyRef": {
+    "sectionId": "heme-aiha.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 968,
+     "page": 946
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 377,
+     "page": 353
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 21-year-old student had a dry cough, headache and patchy chest X-ray shadowing 2 weeks ago. He now has tiredness, mild jaundice and fingers that turn blue in the cold. The film shows red cell clumps, and the DAT is positive for C3d only.",
+   "leadIn": "Which organism most likely triggered this haemolysis?",
+   "options": [
+    "_Streptococcus pneumoniae_",
+    "_Mycoplasma pneumoniae_",
+    "_Plasmodium falciparum_",
+    "_Clostridium perfringens_",
+    "_Staphylococcus aureus_"
+   ],
+   "answer": 1,
+   "explanation": "Atypical pneumonia followed by **cold agglutinin** haemolysis (agglutination, C3d-only DAT, acrocyanosis) is the classic **_Mycoplasma_** picture. The polyclonal IgM rise is transient.",
+   "whyNot": [
+    "Pneumococcal pneumonia is not a recognised trigger of cold agglutinins.",
+    "",
+    "Malaria causes non-immune intravascular haemolysis with parasites on the film, not cold agglutinins.",
+    "Clostridial toxin causes DAT-negative haemolysis with spherocytes in severe sepsis.",
+    "Staphylococcal infection is not a cause of cold AIHA."
+   ],
+   "studyRef": {
+    "sectionId": "heme-aiha.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 968,
+     "page": 946
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 256,
+     "page": 219
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 332,
+     "page": 332
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 39-year-old woman has warm autoimmune haemolytic anaemia. Her blood film shows many small, dense red cells without central pallor.",
+   "leadIn": "How do these abnormal cells form?",
+   "options": [
+    "Splenic macrophages remove part of the IgG-coated red cell membrane",
+    "An inherited defect weakens the red cell membrane skeleton",
+    "Complement membrane-attack complexes lyse cells in the circulation",
+    "Oxidised haemoglobin precipitates and is removed by the spleen",
+    "Red cells are sheared by fibrin strands in small vessels"
+   ],
+   "answer": 0,
+   "explanation": "In warm AIHA, IgG-coated cells bind Fc receptors on splenic macrophages. **Partial phagocytosis** removes membrane, and the cell re-forms as a **spherocyte**.",
+   "whyNot": [
+    "",
+    "That is the mechanism of hereditary spherocytosis, not AIHA.",
+    "Complete intravascular lysis destroys the cell; it does not leave spherocytes in circulation.",
+    "Oxidative damage gives Heinz bodies and bite cells (e.g. G6PD deficiency).",
+    "Fibrin-strand shearing produces fragments (microangiopathic haemolysis)."
+   ],
+   "studyRef": {
+    "sectionId": "heme-aiha.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 376,
+     "page": 352
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 6-year-old girl recovering from chickenpox has two episodes of dark red-brown urine after sledging. Hb has fallen to 88 g/L.",
+   "leadIn": "Which antibody is responsible?",
+   "options": [
+    "A biphasic polyclonal IgG with anti-P specificity",
+    "A monoclonal IgM with anti-I specificity",
+    "A warm IgG with anti-e specificity",
+    "A maternally derived IgG anti-D",
+    "An IgE directed against a drug hapten"
+   ],
+   "answer": 0,
+   "explanation": "A child after a viral infection with cold-triggered haemoglobinuria has **paroxysmal cold haemoglobinuria**. The **Donath–Landsteiner antibody** is a biphasic IgG against the **P antigen**: it binds in the cold and complement lyses the cells centrally.",
+   "whyNot": [
+    "",
+    "Monoclonal anti-I IgM is chronic cold agglutinin disease of the elderly.",
+    "Anti-e IgG is the typical warm AIHA specificity and is not cold-triggered.",
+    "Maternal anti-D causes haemolytic disease of the newborn, not disease in a 6-year-old.",
+    "IgE drug antibodies are not the mechanism of PCH."
+   ],
+   "studyRef": {
+    "sectionId": "heme-aiha.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 377,
+     "page": 353
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 34-year-old woman has 10 days of fatigue and a petechial rash on her legs. She is mildly jaundiced. Hb 74 g/L, platelets 19 × 10⁹/L, reticulocytes raised. The film shows spherocytes but no red cell fragments, and the DAT is positive for IgG.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Thrombotic thrombocytopenic purpura",
+    "Evans syndrome",
+    "Aplastic anaemia",
+    "Paroxysmal nocturnal haemoglobinuria",
+    "Haemolytic uraemic syndrome"
+   ],
+   "answer": 1,
+   "explanation": "Immune haemolysis (spherocytes, IgG-positive DAT) **plus immune thrombocytopenia** is **Evans syndrome**.",
+   "whyNot": [
+    "TTP causes fragments on the film and a negative DAT.",
+    "",
+    "Aplastic anaemia has low reticulocytes and no haemolysis.",
+    "PNH haemolysis is complement-mediated and DAT-negative.",
+    "HUS causes fragmented red cells and renal failure with a negative DAT."
+   ],
+   "studyRef": {
+    "sectionId": "heme-aiha.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 377,
+     "page": 353
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 338,
+     "page": 338
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 968,
+     "page": 946
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 44-year-old woman has 3 weeks of tiredness and breathlessness on stairs. Warm autoimmune haemolytic anaemia is later confirmed.",
+   "leadIn": "Which examination finding is most consistent with this diagnosis?",
+   "options": [
+    "Spoon-shaped nails",
+    "Mild jaundice with a palpable spleen tip",
+    "Loss of vibration sense in both feet",
+    "A smooth, beefy red tongue with angular cheilitis",
+    "Kayser–Fleischer rings"
+   ],
+   "answer": 1,
+   "explanation": "Haemolysis raises unconjugated bilirubin (**mild jaundice**), and IgG-coated cells are cleared in the spleen, which may become **palpable**.",
+   "whyNot": [
+    "Koilonychia points to iron deficiency.",
+    "",
+    "Posterior column loss suggests vitamin B12 deficiency.",
+    "Glossitis and cheilitis suggest haematinic deficiency rather than immune haemolysis.",
+    "Kayser–Fleischer rings indicate Wilson disease, a non-immune (copper) cause of haemolysis."
+   ],
+   "studyRef": {
+    "sectionId": "heme-aiha.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 967,
+     "page": 945
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 376,
+     "page": 352
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 833,
+     "page": 833
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 968,
+     "page": 946
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "An 80-year-old woman has chronic mild anaemia and painful blue fingertips in winter. Cold agglutinin disease is suspected.",
+   "leadIn": "Which direct antiglobulin test result is expected?",
+   "options": [
+    "IgG only",
+    "IgG and complement",
+    "Complement (C3d) only",
+    "IgA only",
+    "Negative"
+   ],
+   "answer": 2,
+   "explanation": "The IgM cold agglutinin elutes off the cells at body temperature, leaving complement behind. The DAT is therefore **positive for C3d only**.",
+   "whyNot": [
+    "IgG alone is a warm AIHA pattern.",
+    "IgG with complement is also a warm pattern.",
+    "",
+    "IgA is not part of the cold agglutinin picture and is missed by standard reagent anyway.",
+    "The DAT is positive (complement) in cold agglutinin disease."
+   ],
+   "studyRef": {
+    "sectionId": "heme-aiha.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 376,
+     "page": 352
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 377,
+     "page": 353
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 834,
+     "page": 834
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 3,
+   "stem": "A 30-year-old woman has a falling Hb, raised LDH and reticulocytes, low haptoglobin and many spherocytes. There is no family history of anaemia, EMA binding is normal, and the DAT is negative. Her haematologist still suspects warm autoimmune haemolysis.",
+   "leadIn": "Which statement best supports this suspicion?",
+   "options": [
+    "A DAT can miss red cells carrying fewer than about 200 IgG molecules",
+    "The DAT detects only IgM antibodies",
+    "The DAT becomes positive only after splenectomy",
+    "The DAT measures free antibody in plasma, not on red cells",
+    "Spherocytes physically block DAT agglutination"
+   ],
+   "answer": 0,
+   "explanation": "Around **10% of warm AIHA is Coombs-negative**: a positive DAT needs roughly 200 antibody molecules per cell, and standard reagent misses IgA and IgE. Normal EMA binding and no family history argue against HS.",
+   "whyNot": [
+    "",
+    "Coombs reagent detects IgG, IgM and complement.",
+    "Splenectomy has nothing to do with DAT positivity.",
+    "That describes the indirect antiglobulin test.",
+    "Spherocytes do not interfere with the test."
+   ],
+   "studyRef": {
+    "sectionId": "heme-aiha.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 969,
+     "page": 947
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 19-year-old man has intermittent jaundice and a palpable spleen. His father had a splenectomy as a teenager. The film shows spherocytes, and haemolysis markers are raised.",
+   "leadIn": "Which test best distinguishes his likely condition from autoimmune haemolytic anaemia?",
+   "options": [
+    "Serum LDH",
+    "Reticulocyte count",
+    "Direct antiglobulin test",
+    "Serum haptoglobin",
+    "Unconjugated bilirubin"
+   ],
+   "answer": 2,
+   "explanation": "Both hereditary spherocytosis and AIHA give spherocytes and raised haemolysis markers. The **DAT is negative in HS** and positive in AIHA.",
+   "whyNot": [
+    "LDH rises in any haemolysis and cannot separate the two.",
+    "Reticulocytosis is common to both.",
+    "",
+    "Haptoglobin falls in both conditions.",
+    "Unconjugated bilirubin rises in both."
+   ],
+   "studyRef": {
+    "sectionId": "heme-aiha.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 969,
+     "page": 947
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 836,
+     "page": 836
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 420,
+     "page": 420
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 35-year-old man notices that his first urine of the day is dark brown. He takes no medicines. Hb is 96 g/L, LDH is high, haptoglobin is absent, and urinary haemosiderin is positive. The DAT is negative and the film shows no fragments or bite cells.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Warm autoimmune haemolytic anaemia",
+    "Cold agglutinin disease",
+    "Paroxysmal nocturnal haemoglobinuria",
+    "Hereditary spherocytosis",
+    "Glucose-6-phosphate dehydrogenase deficiency"
+   ],
+   "answer": 2,
+   "explanation": "Intravascular haemolysis with **dark early-morning urine** and a **negative DAT** fits **PNH**, an acquired loss of GPI-anchored CD55/CD59 that leaves red cells open to complement lysis.",
+   "whyNot": [
+    "Warm AIHA is usually DAT-positive and mainly extravascular.",
+    "Cold agglutinin disease has a C3d-positive DAT and red cell agglutination.",
+    "",
+    "HS is extravascular with spherocytes and usually a family history.",
+    "G6PD haemolysis follows oxidant exposure and shows bite cells."
+   ],
+   "studyRef": {
+    "sectionId": "heme-aiha.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 969,
+     "page": 947
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 377,
+     "page": 353
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 48-year-old woman has newly diagnosed warm autoimmune haemolytic anaemia with no underlying cause found. Hb is 76 g/L and she is haemodynamically stable.",
+   "leadIn": "What is the most appropriate first-line treatment?",
+   "options": [
+    "Splenectomy",
+    "Oral prednisolone about 1 mg/kg daily",
+    "Plasma exchange",
+    "Keeping warm and avoiding cold exposure",
+    "Rituximab as the sole agent"
+   ],
+   "answer": 1,
+   "explanation": "First-line therapy for warm AIHA is **prednisolone ~1 mg/kg**, which works in **70–80%**, though response can take up to 3 weeks.",
+   "whyNot": [
+    "Splenectomy is second-line for refractory disease.",
+    "",
+    "Plasma exchange is not a standard warm AIHA treatment.",
+    "Cold avoidance is for cold agglutinin disease.",
+    "Rituximab is reserved for steroid failure or dependence (or added to steroids), not used alone first."
+   ],
+   "studyRef": {
+    "sectionId": "heme-aiha.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 256,
+     "page": 219
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 79-year-old man with chronic cold agglutinin disease has Hb 62 g/L and chest pain on exertion. A red cell transfusion is planned.",
+   "leadIn": "Which precaution is most important?",
+   "options": [
+    "Send the cross-match sample at 37°C and give the blood through a blood warmer",
+    "Give group O RhD-negative blood without a cross-match",
+    "Use only irradiated red cells",
+    "Give high-dose prednisolone before the transfusion",
+    "Delay transfusion until a splenectomy has been done"
+   ],
+   "answer": 0,
+   "explanation": "Cold agglutinins clump cells as they cool. The sample must be kept at **37°C** in transit and the blood given via a **warmer**, with the patient kept warm.",
+   "whyNot": [
+    "",
+    "Emergency uncross-matched blood is not the standard approach; careful warm cross-matching is.",
+    "Irradiation prevents transfusion-associated GVHD and does not address cold agglutination.",
+    "Steroids are usually ineffective in cold agglutinin disease.",
+    "Splenectomy is usually ineffective in cold disease and would not precede an urgent transfusion."
+   ],
+   "studyRef": {
+    "sectionId": "heme-aiha.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 377,
+     "page": 353
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q15",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Causes of haemolytic anaemia",
+   "leadIn": "Match each patient below with the best option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Warm autoimmune haemolytic anaemia",
+    "Chronic cold agglutinin disease",
+    "Paroxysmal cold haemoglobinuria",
+    "Hereditary spherocytosis",
+    "G6PD deficiency",
+    "Paroxysmal nocturnal haemoglobinuria",
+    "Thrombotic thrombocytopenic purpura",
+    "Haemolysis from a mechanical heart valve",
+    "Falciparum malaria",
+    "Clostridium perfringens sepsis",
+    "Acute haemolytic transfusion reaction",
+    "Sickle-cell disease"
+   ],
+   "items": [
+    {
+     "stem": "A 51-year-old woman has 4 weeks of tiredness, yellow sclerae and a palpable spleen. The film shows spherocytes and polychromasia. The DAT is positive for IgG. Nobody in her family has had anaemia.",
+     "answer": 0,
+     "explanation": "Spherocytes with an IgG-positive DAT in a middle-aged woman is warm AIHA.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s1"
+     }
+    },
+    {
+     "stem": "A 23-year-old man of Mediterranean origin passes dark urine 2 days after a meal of broad beans. The film shows bite cells, and the DAT is negative.",
+     "answer": 4,
+     "explanation": "Oxidant trigger (fava beans) with bite cells and a negative DAT points to G6PD deficiency.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s6"
+     }
+    },
+    {
+     "stem": "A 64-year-old man had an aortic valve replacement 5 years ago. A new murmur suggests a leak around the valve ring. He is anaemic with fragmented red cells, raised LDH and a negative DAT.",
+     "answer": 7,
+     "explanation": "Shear stress from a paravalvular leak fragments red cells (mechanical haemolysis).",
+     "studyRef": {
+      "sectionId": "heme-aiha.s6"
+     }
+    },
+    {
+     "stem": "A 5-year-old boy recovering from measles suddenly passes red-brown urine after playing in the snow. A cold-then-warm incubation of his cells with his serum causes lysis.",
+     "answer": 2,
+     "explanation": "Two steps: a child after a viral illness with cold-triggered haemoglobinuria, and a positive Donath–Landsteiner test, means paroxysmal cold haemoglobinuria.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 968,
+     "page": 946
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 377,
+     "page": 353
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 943,
+     "page": 921
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q16",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Investigations in suspected haemolysis",
+   "leadIn": "Match each patient below with the best option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Direct antiglobulin test",
+    "Indirect antiglobulin test",
+    "Cold agglutinin titre",
+    "Donath–Landsteiner test",
+    "Eosin-5-maleimide binding by flow cytometry",
+    "Flow cytometry for CD55/CD59",
+    "G6PD enzyme assay",
+    "Urine haemosiderin",
+    "Serum haptoglobin",
+    "CT scan of the abdomen",
+    "Antibody elution and testing against a typed red cell panel",
+    "Haemoglobin electrophoresis"
+   ],
+   "items": [
+    {
+     "stem": "A 46-year-old woman has a falling Hb, raised LDH and spherocytes on the film. Which test confirms an autoimmune cause?",
+     "answer": 0,
+     "explanation": "The direct antiglobulin test detects antibody or complement on red cells and confirms AIHA.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s5"
+     }
+    },
+    {
+     "stem": "A 52-year-old man has confirmed warm AIHA. He has no autoimmune features, no relevant drugs and no palpable lymph nodes. Which test looks for a hidden underlying cause?",
+     "answer": 9,
+     "explanation": "Lymphoproliferative disease is the commonest secondary cause; Kumar advises abdominal CT to look for lymphoma.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s5"
+     }
+    },
+    {
+     "stem": "A 20-year-old woman has spherocytes, a negative DAT and a mother who had gallstones at 25. Osmotic fragility is borderline. Which test is recommended to confirm her likely diagnosis?",
+     "answer": 4,
+     "explanation": "Hereditary spherocytosis: flow cytometry for EMA binding is the more specific test in borderline cases.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s6"
+     }
+    },
+    {
+     "stem": "A 33-year-old woman with warm AIHA needs a transfusion. The laboratory wants to know which red cell antigen her autoantibody targets so it can choose the most suitable donor units. Which test does this?",
+     "answer": 10,
+     "explanation": "Two steps: the antibody must be removed from her cells and its specificity identified against typed cells; it is usually Rhesus (anti-e).",
+     "studyRef": {
+      "sectionId": "heme-aiha.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 969,
+     "page": 947
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 377,
+     "page": 353
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948,
+     "figure": "Fig. 23.20"
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q17",
+   "kind": "emq",
+   "pool": "worked",
+   "difficulty": 2,
+   "theme": "Underlying causes of secondary immune haemolysis",
+   "leadIn": "Match each patient below with the best option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Systemic lupus erythematosus",
+    "Chronic lymphocytic leukaemia",
+    "Low-grade B-cell lymphoma producing monoclonal IgM",
+    "Mycoplasma pneumoniae infection",
+    "Infectious mononucleosis",
+    "Methyldopa",
+    "Fludarabine",
+    "Ulcerative colitis",
+    "HIV infection",
+    "Thymoma",
+    "Ovarian carcinoma"
+   ],
+   "items": [
+    {
+     "stem": "A 27-year-old woman has a photosensitive facial rash, painful hand joints and mouth ulcers. ANA is strongly positive. She has new anaemia with spherocytes and an IgG-positive DAT.",
+     "answer": 0,
+     "explanation": "Step 1: spherocytes plus IgG on the DAT = warm AIHA. Step 2: which listed cause fits a young woman with rash, arthritis and positive ANA? SLE, a classic autoimmune cause of warm AIHA.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s2"
+     }
+    },
+    {
+     "stem": "A 69-year-old woman has painful, dusky fingers and ear tips every winter and mild chronic anaemia. The DAT is positive for C3d only, and serum electrophoresis shows a small IgM kappa paraprotein.",
+     "answer": 2,
+     "explanation": "Step 1: acrocyanosis with a C3d-only DAT = chronic cold agglutinin disease. Step 2: a monoclonal IgM band in an older patient points to an underlying low-grade B-cell lymphoma, the usual source of the monoclonal cold agglutinin.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s2"
+     }
+    },
+    {
+     "stem": "A 31-year-old woman, 30 weeks pregnant, has been on an antihypertensive for 3 months. She becomes tired and jaundiced, with spherocytes and an IgG-positive DAT.",
+     "answer": 5,
+     "explanation": "Step 1: warm-type immune haemolysis. Step 2: methyldopa is a standard antihypertensive in pregnancy (Davidson), a classic drug cause of warm AIHA. Step 3: stop the drug.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 968,
+     "page": 946
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 419,
+     "page": 419
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 255,
+     "page": 218
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1298,
+     "page": 1276
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q18",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 52-year-old woman with warm AIHA started prednisolone 1 mg/kg 2 weeks ago. Her team wants to know whether she is responding.",
+   "leadIn": "Which set of results shows a response to treatment?",
+   "options": [
+    "Rising Hb with falling bilirubin, LDH and reticulocytes",
+    "Rising Hb with rising LDH and reticulocytes",
+    "Stable Hb with rising bilirubin",
+    "Falling Hb with falling reticulocytes",
+    "Unchanged Hb with a newly negative DAT"
+   ],
+   "answer": 0,
+   "explanation": "Work it out step by step. (1) Haemolysis drives up bilirubin, LDH and reticulocytes. (2) If steroids reduce destruction, Hb rises **and** these markers fall together. (3) Davidson describes exactly this combined pattern as the sign of response, which may take up to 3 weeks. Once Hb is normal, taper slowly.",
+   "whyNot": [
+    "",
+    "Rising LDH means ongoing red cell destruction, not response.",
+    "Rising bilirubin suggests continuing haemolysis.",
+    "Falling Hb with falling reticulocytes suggests marrow suppression (e.g. folate deficiency or infection), not remission.",
+    "DAT status is not the marker of steroid response; the haemolysis markers are."
+   ],
+   "studyRef": {
+    "sectionId": "heme-aiha.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q19",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Treatment of immune haemolytic anaemias",
+   "leadIn": "Match each patient below with the best option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Oral prednisolone about 1 mg/kg",
+    "Rituximab",
+    "Splenectomy",
+    "Azathioprine",
+    "Stop the implicated drug",
+    "Keep warm and avoid cold exposure",
+    "Transfusion of the least incompatible red cells",
+    "Folic acid supplementation alone",
+    "Intravenous immunoglobulin",
+    "Pneumococcal, Hib, meningococcal and influenza vaccination",
+    "Lifelong penicillin V",
+    "Supportive care only: the condition is self-limiting"
+   ],
+   "items": [
+    {
+     "stem": "A 41-year-old woman has newly diagnosed idiopathic warm AIHA. Hb is 81 g/L and she is clinically stable.",
+     "answer": 0,
+     "explanation": "Prednisolone ~1 mg/kg is first-line; 70–80% respond.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s7"
+     }
+    },
+    {
+     "stem": "A 58-year-old man with warm AIHA relapses every time his prednisolone dose drops below 20 mg/day over 5 months. Which drug does current UK guidance recommend next?",
+     "answer": 1,
+     "explanation": "Steroid-dependent warm AIHA: rituximab is Davidson's second-line drug of choice.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s7"
+     }
+    },
+    {
+     "stem": "A 7-year-old girl with paroxysmal cold haemoglobinuria after a viral illness has Hb 98 g/L and is well.",
+     "answer": 11,
+     "explanation": "PCH haemolysis settles on its own; transfusion only if needed.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s7"
+     }
+    },
+    {
+     "stem": "A 36-year-old woman with refractory warm AIHA is booked for laparoscopic splenectomy in 4 weeks. What should be arranged now?",
+     "answer": 9,
+     "explanation": "Vaccinate against capsulated organisms (and influenza) at least 2–3 weeks before elective splenectomy.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 377,
+     "page": 353
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q20",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Blood film findings in haemolysis",
+   "leadIn": "Match each patient below with the best option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Spherocytes",
+    "Red cell agglutinates",
+    "Bite cells",
+    "Red cell fragments",
+    "Sickle cells",
+    "Target cells",
+    "Prickle cells",
+    "Basophilic stippling",
+    "Hypersegmented neutrophils",
+    "Tear-drop cells"
+   ],
+   "items": [
+    {
+     "stem": "A 47-year-old woman with SLE develops anaemia with an IgG-positive DAT. What does her film most likely show?",
+     "answer": 0,
+     "explanation": "Warm AIHA: partial phagocytosis creates spherocytes.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s5"
+     }
+    },
+    {
+     "stem": "An 81-year-old man has a C3d-only DAT and a cold agglutinin titre of 1:2048. A film is made at room temperature. What is seen?",
+     "answer": 1,
+     "explanation": "Cold agglutinin disease: IgM clumps the cells at room temperature; the clumps disperse on warming.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s5"
+     }
+    },
+    {
+     "stem": "A 31-year-old woman at 34 weeks of pregnancy has severe hypertension, a low platelet count and haemolysis with a negative DAT. What does her film show?",
+     "answer": 3,
+     "explanation": "Pregnancy-induced hypertension is a cause of microangiopathic haemolysis: fibrin laid down in small vessels shears red cells into fragments.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s6"
+     }
+    },
+    {
+     "stem": "A 60-year-old man develops haemolysis a week after starting dapsone. The DAT is negative. What does his film show?",
+     "answer": 2,
+     "explanation": "Two steps: dapsone is an oxidant drug; oxidative haemolysis produces bite cells, not spherocytes.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 943,
+     "page": 921
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 968,
+     "page": 946
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 377,
+     "page": 353
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 248,
+     "page": 211
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q21",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Mechanisms of red cell destruction",
+   "leadIn": "Match each patient below with the best option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "IgG opsonisation and Fc-receptor phagocytosis in the spleen",
+    "IgM agglutination in cool peripheries with complement lysis",
+    "Biphasic IgG anti-P with central complement lysis",
+    "Alloantibody against transfused red cells",
+    "Loss of GPI-anchored CD55 and CD59",
+    "Oxidative denaturation of haemoglobin",
+    "Shear stress from turbulent flow",
+    "Bacterial lecithinase damaging the red cell membrane",
+    "Inherited defect of the membrane skeleton",
+    "Fibrin deposition in small vessels"
+   ],
+   "items": [
+    {
+     "stem": "A 45-year-old woman with rheumatoid arthritis has anaemia, splenomegaly, spherocytes and an IgG-positive DAT.",
+     "answer": 0,
+     "explanation": "Warm AIHA: IgG-coated cells are cleared by splenic macrophages via Fc receptors.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s3"
+     }
+    },
+    {
+     "stem": "A 74-year-old man with Waldenström macroglobulinaemia gets blue, painful fingers whenever he goes out in winter, with mild intravascular haemolysis.",
+     "answer": 1,
+     "explanation": "Monoclonal IgM cold agglutinin clumps cells in cool extremities, then complement lyses them centrally.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s3"
+     }
+    },
+    {
+     "stem": "A 66-year-old woman with ascending cholangitis suddenly develops severe intravascular haemolysis, marked spherocytosis and a negative DAT.",
+     "answer": 7,
+     "explanation": "Two steps: biliary sepsis plus abrupt DAT-negative spherocytic haemolysis suggests _C. perfringens_, whose lecithinase destroys red cell membranes.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s6"
+     }
+    },
+    {
+     "stem": "Minutes after a unit of red cells labelled for another patient is started, a woman passes dark red urine (haemoglobinuria).",
+     "answer": 3,
+     "explanation": "Antibodies against non-self red cells (alloimmune haemolysis) from a mismatched transfusion.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 376,
+     "page": 352
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 377,
+     "page": 353
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 968,
+     "page": 946
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 332,
+     "page": 332
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 957,
+     "page": 935
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q22",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 76-year-old woman with chronic cold agglutinin disease has worsening symptomatic anaemia although she now keeps warm. Her haematologist wants to add a drug.",
+   "leadIn": "Which drug has support in all the main textbooks that discuss drug treatment of cold agglutinin disease?",
+   "options": [
+    "High-dose prednisolone",
+    "Rituximab",
+    "Splenectomy",
+    "Hydroxocobalamin injections",
+    "Intravenous iron"
+   ],
+   "answer": 1,
+   "explanation": "Davidson, Kumar, Step-Up, Pocket Medicine and First Aid all mention **rituximab** for cold agglutinin disease. Kumar and Step-Up say steroids and splenectomy usually fail, Pocket Medicine calls steroids ineffective, and IgM-coated cells are cleared mainly in the liver rather than the spleen.",
+   "whyNot": [
+    "Kumar, Step-Up and Pocket Medicine call steroids ineffective in cold disease; Davidson says only some patients respond.",
+    "",
+    "Splenectomy does not help: IgM-coated cells are handled mainly in the liver.",
+    "Vitamin B12 treats megaloblastic B12 deficiency; the supplement that matters in cold agglutinin disease is folic acid.",
+    "Iron is not part of cold agglutinin disease management; folic acid is."
+   ],
+   "studyRef": {
+    "sectionId": "heme-aiha.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 377,
+     "page": 353
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 836,
+     "page": 836
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 332,
+     "page": 332
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 420,
+     "page": 420
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 834,
+     "page": 834
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A junior doctor reviews haemolysis screens from two patients, one with intravascular and one with extravascular haemolysis.",
+   "leadIn": "Which finding specifically indicates intravascular haemolysis?",
+   "options": [
+    "Raised LDH",
+    "Raised reticulocyte count",
+    "Haemosiderin in the urine",
+    "Raised unconjugated bilirubin",
+    "Raised urinary urobilinogen"
+   ],
+   "answer": 2,
+   "explanation": "**Haemosiderinuria always indicates intravascular haemolysis**: free haemoglobin filtered by the kidney is stored as haemosiderin in tubular cells, which are shed into the urine.",
+   "whyNot": [
+    "LDH rises in both types of haemolysis.",
+    "Reticulocytosis is the marrow response to any haemolysis.",
+    "",
+    "Unconjugated bilirubin rises in both types.",
+    "Urobilinogen rises whenever bilirubin turnover increases."
+   ],
+   "studyRef": {
+    "sectionId": "heme-aiha.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 968,
+     "page": 946
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 969,
+     "page": 947
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q24",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 3,
+   "theme": "Interpreting results in immune and non-immune haemolysis",
+   "leadIn": "Match each patient below with the best option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Warm autoimmune haemolytic anaemia",
+    "Coombs-negative warm autoimmune haemolytic anaemia",
+    "Chronic cold agglutinin disease",
+    "Evans syndrome",
+    "Drug-induced immune haemolysis",
+    "Hereditary spherocytosis",
+    "Paroxysmal nocturnal haemoglobinuria",
+    "Haemolytic disease of the newborn",
+    "Microangiopathic haemolytic anaemia",
+    "Paroxysmal cold haemoglobinuria"
+   ],
+   "items": [
+    {
+     "stem": "An 83-year-old woman's automated count reports MCV 121 fL, but the MCV is normal when the sample is warmed. The DAT is positive for C3d and the cold agglutinin titre is 1:1024.",
+     "answer": 2,
+     "explanation": "Clumps counted as single big cells give a false macrocytosis; with a C3d-only DAT and a high titre this is cold agglutinin disease.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s5"
+     }
+    },
+    {
+     "stem": "A 37-year-old woman has Hb 70 g/L, platelets 15 × 10⁹/L, spherocytes and an IgG-positive DAT. There are no red cell fragments.",
+     "answer": 3,
+     "explanation": "AIHA with immune thrombocytopenia = Evans syndrome; absent fragments argue against TTP.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s4"
+     }
+    },
+    {
+     "stem": "A 57-year-old man receiving a cephalosporin for endocarditis develops a positive DAT and haemolysis on day 9. It settles within 2 weeks of switching antibiotics.",
+     "answer": 4,
+     "explanation": "Temporal link, positive DAT and recovery after withdrawal confirm drug-induced immune haemolysis; rechallenge is not advised.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s5"
+     }
+    },
+    {
+     "stem": "A 29-year-old woman has brisk haemolysis with spherocytes, a negative DAT, normal EMA binding and no family history. She improves quickly on prednisolone.",
+     "answer": 1,
+     "explanation": "Two steps: normal EMA and no family history make HS unlikely; a steroid response supports immune haemolysis, and about 10% of warm AIHA is DAT-negative.",
+     "studyRef": {
+      "sectionId": "heme-aiha.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 377,
+     "page": 353
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 332,
+     "page": 332
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 969,
+     "page": 947
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q25",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 34-year-old woman had a laparoscopic splenectomy for refractory warm autoimmune haemolytic anaemia. She was vaccinated beforehand.",
+   "leadIn": "Which long-term measure is recommended?",
+   "options": [
+    "Lifelong oral penicillin V prophylaxis",
+    "Lifelong low-dose prednisolone",
+    "Monthly intravenous immunoglobulin",
+    "Annual bone marrow examination",
+    "Lifelong warfarin"
+   ],
+   "answer": 0,
+   "explanation": "After splenectomy the risk of overwhelming infection with capsulated bacteria is lifelong. Davidson recommends **lifelong penicillin V (500 mg twice daily)**, plus vaccination.",
+   "whyNot": [
+    "",
+    "Steroids are tapered once remission is achieved, not continued for life after splenectomy.",
+    "IVIg is for severe refractory haemolysis, not routine prophylaxis.",
+    "Splenectomy does not require marrow surveillance.",
+    "Anticoagulation is not a routine post-splenectomy measure."
+   ],
+   "studyRef": {
+    "sectionId": "heme-aiha.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 419,
+     "page": 419
+    }
+   ]
+  },
+  {
+   "id": "heme-aiha.q26",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 49-year-old woman with warm autoimmune haemolytic anaemia needs blood. The laboratory elutes the autoantibody from her red cells and tests it against a panel of typed cells.",
+   "leadIn": "Against which antigen is the antibody most likely directed?",
+   "options": [
+    "I antigen",
+    "P antigen",
+    "Rhesus e antigen",
+    "ABO A antigen",
+    "Kell antigen"
+   ],
+   "answer": 2,
+   "explanation": "Warm autoantibodies are most often **Rhesus-specific, usually anti-e**. Knowing this helps the laboratory select the most compatible units.",
+   "whyNot": [
+    "Anti-I is the usual specificity of monoclonal IgM in cold agglutinin disease.",
+    "Anti-P is the Donath–Landsteiner antibody of PCH.",
+    "",
+    "Anti-A is a naturally occurring alloantibody, not a warm autoantibody.",
+    "Anti-Kell is an alloantibody after transfusion or pregnancy, not the usual warm autoantibody."
+   ],
+   "studyRef": {
+    "sectionId": "heme-aiha.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 377,
+     "page": 353
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "heme-aiha.o1",
+   "sectionId": "heme-aiha.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 943,
+    "page": 921,
+    "figure": "Fig. 23.8D"
+   },
+   "identify": "Spherocytes: small, dense, round red cells with no central pallor → AIHA, hereditary spherocytosis or post-splenectomy. Next step: DAT."
+  },
+  {
+   "id": "heme-aiha.o2",
+   "sectionId": "heme-aiha.s5",
+   "cite": {
+    "book": "fa2ck11",
+    "pdfPage": 416,
+    "page": 416,
+    "figure": "FIGURE 2.7-11"
+   },
+   "identify": "Spherocytes marked by arrows: cells lacking central pallor, seen in autoimmune haemolysis and hereditary spherocytosis."
+  },
+  {
+   "id": "heme-aiha.o3",
+   "sectionId": "heme-aiha.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 970,
+    "page": 948,
+    "figure": "Fig. 23.20"
+   },
+   "identify": "Direct antiglobulin test (antibody already on the patient's red cells: AIHA, HDN, transfusion reaction) versus indirect test (antibody in plasma: pre-transfusion and antenatal screening)."
+  },
+  {
+   "id": "heme-aiha.o4",
+   "sectionId": "heme-aiha.s5",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 375,
+    "page": 351,
+    "figure": "Fig. 16.26"
+   },
+   "identify": "Coombs test principle: anti-human globulin bridges antibody-coated red cells into visible agglutinates; direct = coated in vivo, indirect = coated in vitro."
+  },
+  {
+   "id": "heme-aiha.o5",
+   "sectionId": "heme-aiha.s3",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 376,
+    "page": 352,
+    "figure": "Fig. 16.27"
+   },
+   "identify": "Extravascular haemolysis: complete phagocytosis via Fc/complement receptors, partial phagocytosis creating a spherocyte, and C3d-coated cells returning to the circulation."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:33:27.407Z",
+  "contentHash": "211f40cb2214df114ad2e9c40701032b7d5e5e1bc80b2b735a0f67c1c20a7ba9"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:33:27.414Z",
+  "contentHash": "211f40cb2214df114ad2e9c40701032b7d5e5e1bc80b2b735a0f67c1c20a7ba9",
+  "checkerVersion": "source-check-v1"
+ }
+}

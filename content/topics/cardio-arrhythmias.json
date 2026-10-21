@@ -1,0 +1,4722 @@
+{
+ "topicId": "cardio-arrhythmias",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "cardio-arrhythmias.s1",
+   "title": "Definitions, mechanisms & causes",
+   "objectiveIdx": [
+    0,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "An **arrhythmia** is any disturbance of the heart's normal electrical rhythm. By convention a **tachycardia** is a rate **>100/min** and a **bradycardia** a rate **<60/min**. Tachycardias are split into **supraventricular** (arising in the SA node, atria, AV node or His bundle) and **ventricular** (arising below the His bundle).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 490,
+       "page": 468
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1067,
+       "page": 1051
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 65,
+       "page": 65
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 78,
+       "page": 78
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "A quick bedside classification of tachycardias uses **QRS width**: a **narrow QRS** means the rhythm starts at or above the AV node; a **broad QRS (>120 ms)** means either a ventricular origin or a supraventricular rhythm conducted with **aberrancy** (bundle branch block) or via an accessory pathway.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 76,
+       "page": 76
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Three mechanisms of tachycardia",
+     "columns": [
+      "Mechanism",
+      "What happens",
+      "Exam examples"
+     ],
+     "rows": [
+      [
+       "Increased automaticity",
+       "An ectopic focus depolarises spontaneously and repeatedly",
+       "Ectopic atrial or ventricular focus"
+      ],
+      [
+       "**Re-entry** (commonest)",
+       "An ectopic beat starts an impulse travelling round a circuit that then keeps itself going",
+       "AVNRT, AVRT, atrial flutter, scar-related VT"
+      ],
+      [
+       "Triggered activity",
+       "After-depolarisations (early or delayed) arise from membrane that has not fully repolarised",
+       "Digoxin-toxic atrial tachycardia; onset of VT in long QT syndrome"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 490,
+       "page": 468
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1068,
+       "page": 1052
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Causes of sinus bradycardia",
+     "items": [
+      "Drugs: **beta-blockers**, rate-limiting calcium-channel blockers (verapamil), **digoxin**, amiodarone, lithium",
+      "High vagal tone: athletes, sleep, **inferior MI**",
+      "Metabolic/systemic: **hypothyroidism**, **hypothermia**, hypoxia, sepsis, hypoglycaemia, cholestatic jaundice",
+      "**Raised intracranial pressure**; obstructive sleep apnoea",
+      "Intrinsic conduction disease: **sick sinus syndrome**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 491,
+       "page": 469
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 107,
+       "page": 107
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Causes of sinus tachycardia",
+     "items": [
+      "Anxiety, fever, anaemia, heart failure",
+      "**Thyrotoxicosis**, **phaeochromocytoma**",
+      "Beta-agonist drugs"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 491,
+       "page": 469
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Causes of atrial fibrillation",
+     "items": [
+      "Cardiac: coronary disease, **hypertension**, heart failure, **valve disease (especially rheumatic mitral)**, cardiomyopathy, sinoatrial disease, pericardial disease, congenital disease, after cardiac surgery",
+      "Non-cardiac: **thyrotoxicosis**, **alcohol** (\"holiday heart\"), chest infection/sepsis, **pulmonary embolism**, hypoxic lung disease, phaeochromocytoma, cocaine or methamphetamine",
+      "No cause found: \"lone\" (idiopathic) AF"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 493,
+       "page": 471
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1075,
+       "page": 1059
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 67,
+       "page": 67
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Causes of VT and of long QT",
+     "items": [
+      "VT: **coronary disease with old MI (commonest)**, acute ischaemia, cardiomyopathy (including infiltrative such as sarcoidosis), scar, congenital heart disease, long QT syndrome, drug toxicity",
+      "Long QT: inherited channelopathies; drugs (antipsychotics, citalopram, macrolides, class Ia/Ic/III antiarrhythmics such as sotalol and amiodarone, tricyclics); **low K⁺, Mg²⁺ or Ca²⁺**; bradycardia"
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 78,
+       "page": 78
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 37,
+       "page": 37
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 498,
+       "page": 476
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 79,
+       "page": 79
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Mnemonic for common AF causes, **\"mrs SMITH\"**: Sepsis, Mitral valve disease, Ischaemic heart disease, Thyrotoxicosis, Hypertension. The classic triad taught is rheumatic disease, alcohol and thyrotoxicosis, but in the developed world **hypertension and heart failure** are the commonest causes. About **one-third** of patients develop AF after cardiac surgery.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 30,
+       "page": 30
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1075,
+       "page": 1059
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Definitions differ slightly: Davidson's uses **<60/min** for bradycardia, whereas Kumar & Clark use <60/min by day but **<50/min at night**. Follow Davidson's (<60/min) in the exam unless the question specifies sleep.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 490,
+       "page": 468
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1067,
+       "page": 1051
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.s2",
+   "title": "Atrial fibrillation & atrial flutter",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**AF is the commonest sustained arrhythmia**: about 0.5% of UK adults, 1% at age 60–64 and **9% over 80**, and it roughly **doubles mortality**. Bursts of ectopic activity, mostly from **pulmonary vein** tissue, trigger it; multiple re-entrant wavelets in (often dilated) atria keep it going. The atria fire chaotically at >400/min and quiver rather than contract; the AV node lets through only some impulses, giving an **irregularly irregular** ventricular rate (typically 75–175/min).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 492,
+       "page": 470
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 67,
+       "page": 67
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Classification of AF",
+     "columns": [
+      "Type",
+      "Definition"
+     ],
+     "rows": [
+      [
+       "Paroxysmal",
+       "Stops on its own, within 7 days"
+      ],
+      [
+       "Persistent",
+       "Lasts >7 days or needs electrical/drug cardioversion to stop"
+      ],
+      [
+       "Long-standing persistent",
+       "Persistent for >1 year"
+      ],
+      [
+       "Permanent",
+       "Accepted; no further attempt to restore sinus rhythm"
+      ],
+      [
+       "\"Valvular\" AF",
+       "AF with a mechanical valve or moderate–severe mitral stenosis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 492,
+       "page": 470
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 114,
+       "page": 114
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 493,
+       "page": 471
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Electrical and then structural **remodelling** of the atria makes AF self-perpetuating, so it tends to become chronic over time.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 493,
+       "page": 471
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Work-up of new AF",
+     "items": [
+      "History and examination; **12-lead ECG**",
+      "**Echocardiogram**: LA size, valve (especially mitral) disease, LV function, thrombus",
+      "**Thyroid function tests** (AF may be the only sign of occult thyrotoxicosis)",
+      "K⁺, Mg²⁺, creatinine; chest X-ray",
+      "About 70% of AF of <48 h duration reverts spontaneously within 48 h"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 493,
+       "page": 471
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 115,
+       "page": 115
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Rate vs rhythm control.** The AFFIRM and AF-CHF trials found **no mortality advantage** for rhythm control over rate control. NICE recommends **rate control first-line** unless there is a reversible cause, onset within 48 h, AF-induced heart failure, or symptoms persisting despite rate control. Rhythm control suits younger, symptomatic, active patients; with heart failure or LVH, amiodarone is the recommended rhythm drug.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1077,
+       "page": 1061
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 30,
+       "page": 30
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Rate-control drugs",
+     "columns": [
+      "Drug",
+      "Exam points"
+     ],
+     "rows": [
+      [
+       "**Beta-blocker**",
+       "First line; controls exercise rate better than digoxin; metoprolol succinate suits LV systolic dysfunction"
+      ],
+      [
+       "Rate-limiting CCB (verapamil, diltiazem)",
+       "Good exercise control; avoid in HFrEF; **never combine with a beta-blocker** (bradycardia)"
+      ],
+      [
+       "Digoxin",
+       "Poor control on exercise; may suffice alone in elderly sedentary patients; can be added to a beta-blocker"
+      ],
+      [
+       "Target",
+       "Resting rate **<110/min** (lenient); stricter 60–80/min at rest if symptoms persist"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 494,
+       "page": 472
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1077,
+       "page": 1061
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 69,
+       "page": 69
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 30,
+       "page": 30
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Rhythm control: cardioversion of persistent AF",
+     "items": [
+      "**Haemodynamically unstable** AF: immediate electrical (DC) cardioversion",
+      "AF **<48 h**: cardiovert immediately; **IV flecainide 2 mg/kg over 30 min (max 150 mg)** restores sinus rhythm in ~75% within 8 h if there is **no structural heart disease**",
+      "Structural or ischaemic heart disease: **IV amiodarone** (via a central line) instead of flecainide",
+      "AF **≥48 h or of unknown duration**: at least **4 weeks** of effective oral anticoagulation before elective DC cardioversion, continued for at least **3 months** afterwards",
+      "Relapse is common (25–50% at 1 month, 70–90% at 1 year); best results if AF <3 months, young patient, normal heart"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 494,
+       "page": 472
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 69,
+       "page": 69
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Paroxysmal AF: preventing recurrences",
+     "items": [
+      "**Beta-blocker** first line if episodes are troublesome",
+      "Class Ic (**flecainide**, propafenone) only if no coronary disease or LV dysfunction, and given **with a beta-blocker**; flecainide can be used as **\"pill in the pocket\"**",
+      "**Amiodarone** is the most effective but is reserved because of toxicity; **dronedarone** is contraindicated in heart failure"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 493,
+       "page": 471
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 31,
+       "page": 31
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "CHA₂DS₂-VASc (stroke risk in non-valvular AF)",
+     "columns": [
+      "Letter",
+      "Risk factor",
+      "Points"
+     ],
+     "rows": [
+      [
+       "C",
+       "Congestive heart failure",
+       "1"
+      ],
+      [
+       "H",
+       "Hypertension",
+       "1"
+      ],
+      [
+       "A₂",
+       "Age ≥75 years",
+       "2"
+      ],
+      [
+       "D",
+       "Diabetes mellitus",
+       "1"
+      ],
+      [
+       "S₂",
+       "Previous stroke or TIA",
+       "2"
+      ],
+      [
+       "V",
+       "Vascular disease (MI, PAD)",
+       "1"
+      ],
+      [
+       "A",
+       "Age 65–74 years",
+       "1"
+      ],
+      [
+       "Sc",
+       "Sex category female",
+       "1"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 495,
+       "page": 473
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 69,
+       "page": 69
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Interpreting the score (Davidson's):** 0 → no prophylaxis; 1 → oral anticoagulant (OAC) **in men only**; **≥2 → OAC recommended**. Bleeding risk is estimated with **HAS-BLED** (Hypertension >160 systolic, Abnormal liver/renal function, Stroke, Bleeding, Labile INR, Elderly ≥65, Drugs/alcohol); a score **≥3** means closer monitoring, not automatic withholding. AF due to **mitral valve disease is always anticoagulated**. **Warfarin (INR 2.0–3.0)** cuts stroke by about two-thirds; **DOACs** (apixaban, rivaroxaban, edoxaban, dabigatran) are at least as effective, cause less intracranial bleeding and need no INR monitoring. Warfarin remains the choice with **mechanical valves**. **Aspirin should not be used** for stroke prevention in AF.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 494,
+       "page": 472
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 495,
+       "page": 473
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 70,
+       "page": 70
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Stroke prevention is **the same for paroxysmal, persistent and permanent AF**: embolic risk is only weakly linked to how often or how long the episodes are. Anticoagulate on the CHA₂DS₂-VASc score, not on the AF type.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 494,
+       "page": 472
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Sources disagree on two thresholds.** (1) Anticoagulation around cardioversion: Davidson's says ≥**4 weeks** before and ≥**3 months** after; Kumar & Clark and Step-Up say **3 weeks** before and **4 weeks** after (or TOE to exclude LA thrombus, then cardioversion on heparin). (2) OAC threshold: Davidson's box recommends OAC from a score of 1 in men; Step-Up anticoagulates at **>1 in men, >2 in women**. Davidson's wins in this course.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 494,
+       "page": 472
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 495,
+       "page": 473
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1077,
+       "page": 1061
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 69,
+       "page": 69
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 70,
+       "page": 70
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Atrial flutter** is a single **macro re-entry circuit in the right atrium** around the tricuspid annulus, through the **cavotricuspid isthmus**. The atrial rate is ~**300/min**; with 2:1, 3:1 or 4:1 AV block the ventricular rate is **150, 100 or 75/min**. The ECG shows **sawtooth flutter (F) waves**, best seen in II, III and aVF. Associations: heart failure, rheumatic disease, CAD, COPD and ASD. Management mirrors AF, **including anticoagulation**, but **catheter ablation cures >90%**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 492,
+       "page": 470
+      },
+      {
+       "book": "goldberger",
+       "pdfPage": 158,
+       "page": 144
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 74,
+       "page": 74
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Think of **flutter with 2:1 block in any regular narrow-complex tachycardia at ~150/min**. Carotid sinus pressure or IV adenosine briefly increases the AV block and **unmasks the flutter waves**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 492,
+       "page": 470
+      },
+      {
+       "book": "goldberger",
+       "pdfPage": 161,
+       "page": 147
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Do not give flecainide (class Ic) alone in atrial flutter.** It slows the circuit (e.g. to ≤220/min) so the AV node can conduct **1:1**, causing a paradoxical, very fast ventricular rate. Flutter with 1:1 conduction needs synchronised cardioversion.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 492,
+       "page": 470
+      },
+      {
+       "book": "goldberger",
+       "pdfPage": 160,
+       "page": 146
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 31,
+       "page": 31
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Cardiology",
+      "pdfPage": 493,
+      "page": 471,
+      "figure": "Fig. 16.37"
+     },
+     "note": "Look at: AF — irregular narrow QRS complexes, no P waves, fibrillatory baseline"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "goldberger",
+      "pdfPage": 161,
+      "page": 147,
+      "figure": "Fig. 15.3"
+     },
+     "note": "Look at: flutter with 2:1 conduction; carotid massage increases block and reveals the sawtooth waves"
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.s3",
+   "title": "AV nodal (junctional) tachycardias & WPW",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "\"SVT\" in practice means the regular narrow-complex tachycardias with a re-entry circuit or focus involving the atria: **AVNRT**, **AVRT** and **atrial tachycardia**. The label is imperfect because the ventricles are often part of the circuit. Paroxysmal SVT starts and stops **abruptly**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 495,
+       "page": 473
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 65,
+       "page": 65
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "AVNRT vs AVRT",
+     "columns": [
+      "Feature",
+      "AVNRT",
+      "AVRT (orthodromic)"
+     ],
+     "rows": [
+      [
+       "Circuit",
+       "Two AV nodal inputs: a **fast** (superior) and a **slow** (inferior) pathway",
+       "Down the AV node, back up an **accessory pathway**"
+      ],
+      [
+       "Typical patient",
+       "Structurally normal heart; **twice as common in women**; commonest cause of palpitation in normal hearts",
+       "Accessory pathway (manifest WPW or concealed)"
+      ],
+      [
+       "ECG in tachycardia",
+       "Regular narrow QRS at 120–240/min; **P waves hidden** in the QRS or just before/after it",
+       "Regular narrow QRS; **retrograde P wave clearly between QRS and T**"
+      ],
+      [
+       "ECG in sinus rhythm",
+       "Normal",
+       "Short PR + delta wave if the pathway is manifest; normal if concealed"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 495,
+       "page": 473
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1073,
+       "page": 1057
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1074,
+       "page": 1058
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 75,
+       "page": 75
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 76,
+       "page": 76
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Typical **\"slow–fast\" AVNRT**: an early atrial ectopic arrives while the fast pathway is still refractory, travels down the slow pathway and returns up the now-recovered fast pathway, setting up the loop. In **antidromic AVRT** (less common) conduction goes down the accessory pathway, so the QRS is **broad**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1073,
+       "page": 1057
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 76,
+       "page": 76
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Acute treatment of stable SVT (on continuous ECG)",
+     "items": [
+      "**Vagal manoeuvres**: Valsalva, then carotid sinus massage",
+      "**IV adenosine**: rapid bolus into a large proximal vein, increasing doses until the tachycardia stops (warn of flushing and a sense of impending doom)",
+      "**IV verapamil 5 mg over 1 min** is the alternative (e.g. in asthma); IV beta-blocker or flecainide can also be used",
+      "**DC cardioversion** if there is severe haemodynamic compromise or drugs fail",
+      "Recurrent episodes: **catheter ablation** cures >90%; drug prophylaxis (beta-blocker, verapamil, flecainide) is a second choice, awkward in young women as these drugs are avoided in pregnancy"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 495,
+       "page": 473
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 35,
+       "page": 35
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Never give IV verapamil** after a beta-blocker or when the tachycardia has a **broad QRS** (>0.12 s) — if it is VT, verapamil can cause collapse. Avoid adenosine in **asthma**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1075,
+       "page": 1059
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 504,
+       "page": 482
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 35,
+       "page": 35
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Adenosine doses differ by source.** Davidson's: **3 mg**, then 6 mg, then 12 mg at 1–2 min intervals. Kumar & Clark and Zero to Finals: **6 mg**, then 12 mg (Zero to Finals adds a further 12 mg). Quote Davidson's sequence; the principle (rapid escalating bolus) is the same.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 504,
+       "page": 482
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1075,
+       "page": 1059
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 35,
+       "page": 35
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Wolff–Parkinson–White (WPW)**: an accessory pathway (bundle of Kent) bypasses the AV-node delay and **pre-excites** the ventricle. Sinus-rhythm ECG triad: **short PR (<0.12 s)**, **broad QRS** and a **delta wave** (slurred QRS upstroke). About half of pathways are **concealed** (conduct only backwards), leaving a normal resting ECG. Negative delta waves in II, III and aVF can mimic inferior Q waves.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 495,
+       "page": 473
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 36,
+       "page": 36
+      },
+      {
+       "book": "goldberger",
+       "pdfPage": 199,
+       "page": 185
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Pre-excited AF in WPW** (irregular, very fast, broad-complex) can degenerate into VF. Treat with **DC cardioversion** (procainamide or ibutilide are alternatives). **Avoid AV-nodal blockers** — digoxin and verapamil shorten the accessory pathway's refractory period; beta-blockers, adenosine and amiodarone are also avoided.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 496,
+       "page": 474
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 111,
+       "page": 111
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Sudden-death risk in WPW is about **0.15–0.39% per patient-year**; pathways with an antegrade refractory period **<250 ms** can conduct AF fast enough to cause VF. **Symptomatic WPW → ablation first line.**",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1075,
+       "page": 1059
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 496,
+       "page": 474
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Multifocal atrial tachycardia** occurs with severe lung disease (e.g. COPD): an irregular rhythm with **≥3 different P-wave shapes** and varying PR/RR intervals. Treat the lung disease; cardioversion does not work.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 75,
+       "page": 75
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Cardiology",
+      "pdfPage": 496,
+      "page": 474,
+      "figure": "Fig. 16.39"
+     },
+     "note": "Look at: AVNRT circuit, WPW sinus rhythm (short PR, delta wave), orthodromic AVRT and pre-excited AF"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "goldberger",
+      "pdfPage": 199,
+      "page": 185,
+      "figure": "Fig. 18.3"
+     },
+     "note": "Look at: 12-lead WPW — short PR, delta waves; negative delta waves inferiorly mimic infarct Q waves"
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.s4",
+   "title": "Ventricular arrhythmias",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Ventricular premature beats (VPBs, ectopics)",
+     "items": [
+      "Broad, bizarre complexes; unifocal or multifocal; may form couplets, triplets or **bigeminy**",
+      "Seen in **digoxin toxicity**; very frequent ectopics can cause LV dysfunction",
+      "Check blood count, electrolytes and TFTs; reassure if the heart is normal; refer if there is heart disease, chest pain, syncope, a murmur or family history of sudden death",
+      "After MI, frequent VPBs (>10/h) mark a worse outcome, but antiarrhythmics other than beta-blockers do not help and may harm"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 497,
+       "page": 475
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 37,
+       "page": 37
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 496,
+       "page": 474
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1082,
+       "page": 1066
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Ventricular tachycardia (VT)**: ≥3 consecutive ventricular beats producing a **broad, abnormal QRS** at a rate **>120/min**, with **AV dissociation**. **Sustained VT lasts >30 s**; non-sustained VT (Kumar: ≥5 beats lasting <30 s) is found in ~6% of normal hearts and 60–80% of diseased hearts. Main settings: **acute MI, chronic coronary disease (scar re-entry) and cardiomyopathy**. VT may degenerate into VF.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 497,
+       "page": 475
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 78,
+       "page": 78
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1082,
+       "page": 1066
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Broad-complex tachycardia: features favouring VT over SVT with aberrancy",
+     "columns": [
+      "Feature",
+      "Comment"
+     ],
+     "rows": [
+      [
+       "**AV dissociation**",
+       "Pathognomonic; P waves march through the QRS complexes"
+      ],
+      [
+       "**Capture and fusion beats**",
+       "Pathognomonic; only possible with AV dissociation"
+      ],
+      [
+       "History of MI, heart failure or LV dysfunction",
+       "The strongest clinical predictor"
+      ],
+      [
+       "Very broad QRS",
+       ">140 ms (RBBB-like) or >160 ms (LBBB-like)"
+      ],
+      [
+       "Extreme (left) axis deviation",
+       "Favours VT"
+      ],
+      [
+       "Precordial concordance",
+       "All QRS in V1–V6 pointing the same way"
+      ],
+      [
+       "No response to carotid massage or IV adenosine",
+       "SVTs slow or stop; VT does not"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 497,
+       "page": 475
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1079,
+       "page": 1063
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 113,
+       "page": 113
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "About **80% of broad-complex tachycardias are VT** (more if there is structural heart disease). Blood pressure and rate do **not** distinguish VT from SVT — a well-looking patient can be in VT. **If in doubt, treat as VT.**",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1079,
+       "page": 1063
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 113,
+       "page": 113
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Management of sustained VT",
+     "items": [
+      "**Unstable** (e.g. systolic BP <90 mmHg, shock): **synchronised DC cardioversion**, then amiodarone",
+      "**Stable**: **IV amiodarone** bolus then infusion; IV lidocaine is an alternative but can depress LV function",
+      "Correct **hypokalaemia, hypomagnesaemia, acidosis and hypoxia**",
+      "Long term: **ICD** if LV function is poor or VT caused haemodynamic compromise",
+      "**Slow VT (idioventricular rhythm, <120/min)** after MI usually signals reperfusion, is self-limiting and needs no treatment",
+      "VT in a structurally normal heart (RV outflow tract, fascicular) is best treated by **catheter ablation**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 497,
+       "page": 475
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 82,
+       "page": 82
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 498,
+       "page": 476
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Ventricular fibrillation (VF)**: chaotic activity from many ventricular foci with **no cardiac output** — no pulse, BP or heart sounds. Most VF starts as VT, except in acute ischaemia. **VT and VF are the shockable arrest rhythms**; PEA and asystole are not. Treat with early **unsynchronised defibrillation**, CPR and adrenaline, then amiodarone or lidocaine — drugs alone cannot convert VF. VF within 48 h of an acute MI has a low recurrence risk and needs no long-term therapy.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 84,
+       "page": 84
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 85,
+       "page": 85
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 34,
+       "page": 34
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Long QT and torsades de pointes",
+     "columns": [
+      "Aspect",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "Definition",
+       "Polymorphic VT twisting about the baseline in a patient with a long QT (**QTc >0.44 s men, >0.46 s women**)"
+      ],
+      [
+       "Acquired causes",
+       "Bradycardia; low K⁺/Mg²⁺/Ca²⁺; class Ia, Ic and III drugs; tricyclics; phenothiazines/antipsychotics; macrolides"
+      ],
+      [
+       "LQT1 (KCNQ1)",
+       "Events triggered by **exercise**"
+      ],
+      [
+       "LQT2 (HERG)",
+       "Events triggered by **sudden noise**"
+      ],
+      [
+       "LQT3 (SCN5A)",
+       "Events during **sleep**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 498,
+       "page": 476
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 37,
+       "page": 37
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Treatment of torsades",
+     "items": [
+      "**IV magnesium** in all cases (Davidson's: **8 mmol over 15 min, then 72 mmol over 24 h**), even if serum Mg is normal",
+      "Stop culprit drugs and correct electrolytes; defibrillate if it degenerates to VF",
+      "If magnesium fails: **atrial pacing or isoprenaline** to shorten the QT (acquired cases)",
+      "Congenital LQTS: **beta-blockers** (not sotalol) prevent syncope; **ICD** if QTc >500 ms or high risk"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 498,
+       "page": 476
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 499,
+       "page": 477
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 37,
+       "page": 37
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Isoprenaline** can be used in acquired long QT but is **contraindicated in congenital long QT syndrome**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 499,
+       "page": 477
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Brugada syndrome**: an inherited **sodium-channel** disorder (SCN5A in ~20%), commonest in young men and in South-East Asia. ECG: **RBBB pattern with coved ST elevation in V1–V3**. It causes sudden death, typically **during sleep**. The only effective treatment is an **ICD**; beta-blockers do not help.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1080,
+       "page": 1064
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Cardiology",
+      "pdfPage": 497,
+      "page": 475,
+      "figure": "Fig. 16.41"
+     },
+     "note": "Look at: VT rhythm strip with a fusion beat (arrow) — proof of AV dissociation"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Cardiology",
+      "pdfPage": 498,
+      "page": 476,
+      "figure": "Fig. 16.43"
+     },
+     "note": "Look at: torsades — bradycardia and long QT, then an R-on-T ectopic launching polymorphic VT"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Cardiology",
+      "pdfPage": 1080,
+      "page": 1064,
+      "figure": "Fig. 30.49"
+     },
+     "note": "Look at: Brugada pattern — RBBB-like QRS with ST elevation in V1–V3"
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.s5",
+   "title": "Bradycardias & heart block",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Sick sinus syndrome** is commonest in the elderly (fibrosis or ischaemia of the SA node). It combines sinus bradycardia, **sinus arrest/pauses**, and paroxysms of AF or atrial tachycardia (**tachy–brady**), sometimes with AV block. Symptoms: dizziness, confusion, syncope, fatigue. **Pacing relieves symptoms but does not improve prognosis**, so it is not indicated if asymptomatic.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 491,
+       "page": 469
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 86,
+       "page": 86
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "AV block",
+     "columns": [
+      "Type",
+      "ECG",
+      "Level / behaviour",
+      "Treatment"
+     ],
+     "rows": [
+      [
+       "First degree",
+       "Every P conducted; **PR >0.20 s**, constant",
+       "Usually AV node; benign",
+       "None"
+      ],
+      [
+       "Mobitz I (Wenckebach)",
+       "**PR lengthens progressively** until a P wave is not conducted; group beating",
+       "AV node; can be physiological (athletes, sleep)",
+       "None if asymptomatic"
+      ],
+      [
+       "Mobitz II",
+       "**Constant PR** with sudden dropped beats; QRS often broad",
+       "His–Purkinje; risk of **asystole**/complete block",
+       "**Permanent pacemaker** even if asymptomatic"
+      ],
+      [
+       "Third degree (complete)",
+       "P waves and QRS unrelated (**AV dissociation**); atrial rate > ventricular rate",
+       "Escape: narrow (AV node/His) or broad and slower (distal)",
+       "**Permanent pacemaker**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 499,
+       "page": 477
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 500,
+       "page": 478
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 88,
+       "page": 88
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 89,
+       "page": 89
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 108,
+       "page": 108
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Wenckebach clue: the **PR after the dropped beat is shorter** than the PR just before it; in Mobitz II the PR never changes. Mobitz I worsens with carotid massage and improves with atropine; Mobitz II may do the opposite — so have pacing pads ready before giving atropine.",
+     "cites": [
+      {
+       "book": "goldberger",
+       "pdfPage": 187,
+       "page": 173
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 107,
+       "page": 107
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "In **2:1 AV block** you cannot tell Mobitz I from Mobitz II, because there are no consecutive conducted beats to show PR lengthening. **High-grade block** means ≥2 consecutive non-conducted P waves.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 108,
+       "page": 108
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Complete heart block: clinical picture and causes",
+     "items": [
+      "Slow (25–50/min), **regular, large-volume pulse**; **cannon a waves**; **variable-intensity first heart sound**",
+      "Escape rhythm: narrow-complex (His) ~50–60/min and fairly reliable; broad-complex (below His) **15–40/min, unreliable** → Stokes–Adams attacks",
+      "Causes: idiopathic fibrosis (Lev's, elderly distal; Lenègre's, younger proximal), **MI/ischaemia**, endocarditis, **sarcoidosis**, **Chagas' disease**, trauma, congenital, drugs (digoxin, beta-blockers, calcium antagonists)"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 499,
+       "page": 477
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 500,
+       "page": 478
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1071,
+       "page": 1055
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Managing symptomatic or unstable bradycardia",
+     "items": [
+      "**Atropine 0.5–0.6 mg IV**, repeated to a maximum of 3 mg",
+      "Then inotropes or transcutaneous pacing; **temporary transvenous pacing** if asystole risk is high (Mobitz II, complete block, previous asystole)",
+      "**Permanent pacing**: any symptomatic AV block, and **asymptomatic Mobitz II or complete block** (it improves prognosis)"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 500,
+       "page": 478
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 503,
+       "page": 481
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 38,
+       "page": 38
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Inferior MI** (RCA supplies the AV node): AV block is usually **transient** with a reliable narrow escape — atropine or temporary pacing if needed. **Anterior MI**: AV block means **extensive septal damage**, a poor prognosis, and needs **prompt temporary pacing**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 500,
+       "page": 478
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Bundle branch and fascicular block",
+     "columns": [
+      "Pattern",
+      "ECG",
+      "Significance"
+     ],
+     "rows": [
+      [
+       "RBBB",
+       "QRS ≥0.12 s; **M-shaped complex in V1–V2**; wide S in lead I",
+       "Can be a normal variant; PE, ASD"
+      ],
+      [
+       "LBBB",
+       "QRS ≥0.12 s; **M-shaped complex in V5–V6**; no septal Q in lead I",
+       "Usually important disease: CAD, hypertension, aortic valve disease, cardiomyopathy"
+      ],
+      [
+       "Left anterior hemiblock",
+       "**Left axis deviation**; QRS not widened",
+       "Fascicular block"
+      ],
+      [
+       "Left posterior hemiblock",
+       "**Right axis deviation**; QRS not widened",
+       "Fascicular block"
+      ],
+      [
+       "Bifascicular block",
+       "RBBB + either hemiblock",
+       "Block of the last fascicle → complete heart block"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 500,
+       "page": 478
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1072,
+       "page": 1056
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 501,
+       "page": 479
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Cardiology",
+      "pdfPage": 499,
+      "page": 477,
+      "figure": "Fig. 16.44-16.46"
+     },
+     "note": "Look at: first-degree (PR 0.26 s), Wenckebach 4:3 and Mobitz II strips"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Cardiology",
+      "pdfPage": 500,
+      "page": 478,
+      "figure": "Fig. 16.49"
+     },
+     "note": "Look at: RBBB — broad QRS, M-shaped V1–V2, wide S in lead I"
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.s6",
+   "title": "Symptoms, signs & complications",
+   "objectiveIdx": [
+    6,
+    9
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Presenting symptoms",
+     "items": [
+      "Sustained tachycardia: rapid **palpitation**, dizziness, chest discomfort, breathlessness, occasionally **syncope**; extreme rates can cause cardiac arrest",
+      "Bradycardia: **fatigue**, light-headedness, syncope",
+      "AF is often **asymptomatic** and may first present as an **embolic stroke** or worsening heart failure",
+      "VT: palpitations, dyspnoea, angina, syncope, cardiogenic shock or sudden death"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 490,
+       "page": 468
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 493,
+       "page": 471
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 29,
+       "page": 29
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 82,
+       "page": 82
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Bedside clues",
+     "columns": [
+      "Finding",
+      "Points to"
+     ],
+     "rows": [
+      [
+       "Irregularly irregular pulse that **stays irregular on exercise**",
+       "AF"
+      ],
+      [
+       "Irregular pulse that **becomes regular on exercise**",
+       "Ectopic beats"
+      ],
+      [
+       "Abrupt-onset, abrupt-offset regular fast palpitation, stopped by Valsalva; polyuria; neck pulsation",
+       "AVNRT / AVRT (syncope in 10–15%)"
+      ],
+      [
+       "Intermittent **cannon a waves** and **varying first heart sound**",
+       "AV dissociation: VT or complete heart block"
+      ],
+      [
+       "Slow, regular, large-volume pulse",
+       "Complete heart block"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1076,
+       "page": 1060
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 29,
+       "page": 29
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1075,
+       "page": 1059
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 82,
+       "page": 82
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 499,
+       "page": 477
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "A **Stokes–Adams attack** is collapse without warning from ventricular standstill (usually high-grade AV block): the patient is deathly pale, may have a brief anoxic seizure, then recovers quickly with a **characteristic flush** as the heart restarts — unlike the slow, confused recovery after epilepsy.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 500,
+       "page": 478
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Complications of arrhythmias",
+     "columns": [
+      "Complication",
+      "Key facts"
+     ],
+     "rows": [
+      [
+       "**Stroke / systemic embolism**",
+       "Loss of atrial contraction + LA dilatation → stasis and **left atrial appendage thrombus** (usually needs ≥48 h of AF). AF is found in **15% of stroke patients**. Untreated stroke risk ~5%/year, ~1–2%/year with anticoagulation"
+      ],
+      [
+       "**Heart failure**",
+       "Loss of atrial contraction and a fast rate can precipitate or worsen heart failure, even pulmonary oedema; a rapid rate left uncontrolled for weeks to months → **tachycardia-induced cardiomyopathy**"
+      ],
+      [
+       "**Sudden cardiac death**",
+       "Death within 1 h of symptom onset, usually arrhythmic; 25–30% of cardiovascular deaths. VT/VF cause ~75% of cardiac arrests"
+      ],
+      [
+       "Bleeding on treatment",
+       "Serious bleeding on anticoagulation ~3%/year — estimate with HAS-BLED"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 494,
+       "page": 472
+      },
+      {
+       "book": "goldberger",
+       "pdfPage": 167,
+       "page": 153
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 31,
+       "page": 31
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 478,
+       "page": 456
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 78,
+       "page": 78
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 84,
+       "page": 84
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Causes of sudden cardiac death",
+     "columns": [
+      "Group",
+      "Share",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Coronary artery disease",
+       "~85%",
+       "Acute ischaemia, post-MI scar VT"
+      ],
+      [
+       "Other structural disease",
+       "~10%",
+       "Aortic stenosis, HCM, DCM, ARVD"
+      ],
+      [
+       "No structural disease",
+       "~5%",
+       "Long QT, Brugada, WPW, drugs, electrolyte disturbance"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 478,
+       "page": 456
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**CAST trial**: suppressing post-MI ventricular ectopics with class Ic drugs (flecainide) **increased mortality**. Non-sustained VT with coronary disease and LV dysfunction predicts sudden death, but antiarrhythmic drugs have not been shown to prolong life — devices (ICD) do.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 65,
+       "page": 65
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1083,
+       "page": 1067
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 78,
+       "page": 78
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.s7",
+   "title": "Investigations, EP studies & ECG recognition",
+   "objectiveIdx": [
+    7,
+    8
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The first test is always a **12-lead ECG**, ideally during symptoms. If the arrhythmia is intermittent and the resting ECG is normal, the aim is to **capture the rhythm during symptoms** with ambulatory recording.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 490,
+       "page": 468
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Ambulatory ECG monitoring",
+     "columns": [
+      "Device",
+      "Duration",
+      "Best for"
+     ],
+     "rows": [
+      [
+       "**Holter monitor**",
+       "24–72 h (>100 000 complexes)",
+       "Frequent (daily) symptoms"
+      ],
+      [
+       "External event / loop recorder",
+       "Days to weeks (≈2–6 weeks)",
+       "Symptoms likely within a few weeks"
+      ],
+      [
+       "**Implantable loop recorder**",
+       "Subcutaneous; records for 2–3 years",
+       "Episodes **<1/month**, recurrent syncope without warning"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1053,
+       "page": 1037
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 122,
+       "page": 122
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other tests",
+     "items": [
+      "**Echocardiogram**: structural, valve and LV disease (all new AF; frequent VPBs)",
+      "**Exercise ECG** for ischaemia when VPBs are very frequent",
+      "**TFTs, K⁺, Mg²⁺, Ca²⁺, creatinine**, full blood count",
+      "TOE to exclude left atrial appendage thrombus before early cardioversion"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 493,
+       "page": 471
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 497,
+       "page": 475
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 115,
+       "page": 115
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 37,
+       "page": 37
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 70,
+       "page": 70
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Electrophysiology study (EPS)**: electrode catheters are passed through the femoral (and neck) veins to record intracardiac signals and to try to **induce** the arrhythmia. Today it is done mainly to map arrhythmias **at the same sitting as catheter ablation**; it is occasionally used to **risk-stratify** ventricular arrhythmia — e.g. non-sustained VT after MI with LV dysfunction: inducible sustained VT supports an ICD. It is low-yield (<1% abnormal) when the ECG and echo are normal.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 476,
+       "page": 454
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 122,
+       "page": 122
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 83,
+       "page": 83
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Response to IV adenosine or vagal manoeuvres",
+     "columns": [
+      "Rhythm",
+      "Response"
+     ],
+     "rows": [
+      [
+       "AVNRT / AVRT (AV node in circuit)",
+       "Terminates"
+      ],
+      [
+       "AF, atrial flutter, atrial tachycardia",
+       "Transient AV block **unmasks** f/F or P waves; rhythm continues"
+      ],
+      [
+       "Sinus tachycardia",
+       "Gradual transient slowing"
+      ],
+      [
+       "VT",
+       "**No effect**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 504,
+       "page": 482
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 109,
+       "page": 109
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "ECG recognition — tachycardias",
+     "columns": [
+      "Rhythm",
+      "Key ECG features"
+     ],
+     "rows": [
+      [
+       "Atrial fibrillation",
+       "No P waves, wavy f-wave baseline, **irregularly irregular** narrow QRS (120–160/min at onset)"
+      ],
+      [
+       "Atrial flutter",
+       "**Sawtooth F waves** ~300/min (II, III, aVF; positive in V1 in typical flutter); regular QRS at 150/100/75"
+      ],
+      [
+       "AVNRT",
+       "Regular narrow QRS; P buried in or just after QRS"
+      ],
+      [
+       "Orthodromic AVRT",
+       "Regular narrow QRS; retrograde P between QRS and T"
+      ],
+      [
+       "Pre-excited AF",
+       "Fast, **irregular, broad** and varying QRS"
+      ],
+      [
+       "Monomorphic VT",
+       "Regular broad QRS; AV dissociation, capture/fusion beats"
+      ],
+      [
+       "Torsades de pointes",
+       "Polymorphic VT; QRS amplitude waxes and wanes in a **spindle** pattern; often after a pause with long QT/R-on-T"
+      ],
+      [
+       "VF",
+       "Chaotic irregular deflections, no identifiable QRS"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 493,
+       "page": 471
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 74,
+       "page": 74
+      },
+      {
+       "book": "goldberger",
+       "pdfPage": 160,
+       "page": 146
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1074,
+       "page": 1058
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 113,
+       "page": 113
+      },
+      {
+       "book": "goldberger",
+       "pdfPage": 180,
+       "page": 166
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "ECG recognition — conduction and inherited patterns",
+     "columns": [
+      "Pattern",
+      "Key ECG features"
+     ],
+     "rows": [
+      [
+       "WPW (sinus)",
+       "Short PR, delta wave, broad QRS"
+      ],
+      [
+       "First-degree block",
+       "PR >0.20 s, every P conducted"
+      ],
+      [
+       "Mobitz I / Mobitz II",
+       "Progressive PR lengthening vs constant PR with sudden dropped P"
+      ],
+      [
+       "Complete heart block",
+       "P and QRS independent; atrial rate > ventricular (e.g. 80 vs 38/min)"
+      ],
+      [
+       "RBBB / LBBB",
+       "M-shaped V1–V2 / M-shaped V5–V6"
+      ],
+      [
+       "Brugada",
+       "RBBB-like pattern with coved ST elevation V1–V3"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 499,
+       "page": 477
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 500,
+       "page": 478
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 36,
+       "page": 36
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1080,
+       "page": 1064
+      },
+      {
+       "book": "goldberger",
+       "pdfPage": 189,
+       "page": 175
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Cardiology",
+      "pdfPage": 492,
+      "page": 470,
+      "figure": "Fig. 16.34"
+     },
+     "note": "Look at: atrial flutter with 4:1 AV block; flutter waves clear in II and III"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "goldberger",
+      "pdfPage": 220,
+      "page": 206,
+      "figure": "Fig. 19.16"
+     },
+     "note": "Look at: monomorphic VT with fusion (F) and capture (C) beats"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "stepup6",
+      "pdfPage": 83,
+      "page": 83,
+      "figure": "FIGURE 1-12"
+     },
+     "note": "Look at: monomorphic VT vs polymorphic VT vs VF strips"
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Cardiology",
+      "pdfPage": 491,
+      "page": 469,
+      "figure": "Fig. 16.32"
+     },
+     "note": "Look at: sick sinus syndrome on a 24-h tape — sinus arrest, junctional beats, paroxysmal AF"
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.s8",
+   "title": "Antiarrhythmic drugs, cardioversion & devices",
+   "objectiveIdx": [
+    10
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Vaughan Williams classification",
+     "columns": [
+      "Class",
+      "Action",
+      "Examples",
+      "Exam point"
+     ],
+     "rows": [
+      [
+       "Ia",
+       "Na⁺-channel block; **prolongs** action potential",
+       "Quinidine, procainamide, disopyramide",
+       "Long QT, torsades"
+      ],
+      [
+       "Ib",
+       "Na⁺-channel block; **shortens** action potential",
+       "Lidocaine, mexiletine",
+       "IV lidocaine for VT; may depress LV"
+      ],
+      [
+       "Ic",
+       "Na⁺-channel block; little effect on AP duration",
+       "**Flecainide**, propafenone",
+       "Widens QRS; avoid in CAD/LV dysfunction (CAST)"
+      ],
+      [
+       "II",
+       "Beta-blockade",
+       "Bisoprolol, metoprolol, atenolol",
+       "Depress SA and AV nodes; bradycardia, especially with class IV"
+      ],
+      [
+       "III",
+       "K⁺-channel block; prolongs AP",
+       "**Amiodarone**, dronedarone, **sotalol**, ibutilide, dofetilide",
+       "QT prolongation, torsades"
+      ],
+      [
+       "IV",
+       "Rate-limiting Ca²⁺-channel block",
+       "Verapamil, diltiazem",
+       "Slow AV node; bradycardia with beta-blockers"
+      ],
+      [
+       "Other",
+       "—",
+       "Adenosine, digoxin, atropine",
+       "Not in the classes"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 501,
+       "page": 479
+      },
+      {
+       "book": "goldberger",
+       "pdfPage": 118,
+       "page": 104
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 497,
+       "page": 475
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Amiodarone — side-effects to know",
+     "items": [
+      "**Photosensitivity**, blue-grey skin discoloration, **corneal microdeposits**",
+      "**Thyroid dysfunction** (hypo- or hyper-), **pulmonary alveolitis**, hepatotoxicity, peripheral neuropathy",
+      "QT prolongation and torsades",
+      "Raises **digoxin** levels and potentiates **warfarin**; very long tissue half-life (25–110 days)"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 502,
+       "page": 480
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 503,
+       "page": 481
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Digoxin toxicity",
+     "items": [
+      "GI: anorexia, nausea, vomiting, diarrhoea; visual: **xanthopsia** (yellow vision)",
+      "Rhythms: bradycardia, frequent ventricular ectopics/**bigeminy**, **atrial tachycardia with variable block**, VT, VF",
+      "Reduce dose in the **elderly** and in **renal impairment**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 504,
+       "page": 482
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Adenosine and atropine",
+     "items": [
+      "Adenosine: A1-receptor agonist giving a few seconds of AV block; IV bolus **3 mg → 6 mg → 12 mg** at 1–2 min intervals (Davidson's)",
+      "Adenosine side-effects: flushing, breathlessness, chest pain; **avoid in asthma** (bronchospasm); effect **potentiated by dipyridamole**, **blocked by theophylline**",
+      "Atropine **0.6 mg IV**, repeated to a maximum of 3 mg: vagally mediated bradycardia/hypotension and bradyarrhythmia complicating inferior MI"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 504,
+       "page": 482
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 503,
+       "page": 481
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Proarrhythmia**: class Ic drugs widen the QRS; **class Ia and III prolong the QT** and cause torsades (sotalol especially with diuretic-induced **hypokalaemia**, needing in-hospital ECG monitoring to start); beta-blocker + rate-limiting CCB (e.g. metoprolol + diltiazem) causes severe bradycardia. Flecainide can speed AV conduction in AF/flutter, so it is paired with an AV-nodal blocker. **Dronedarone** is contraindicated in heart failure/LV impairment and permanent AF.",
+     "cites": [
+      {
+       "book": "goldberger",
+       "pdfPage": 118,
+       "page": 104
+      },
+      {
+       "book": "goldberger",
+       "pdfPage": 168,
+       "page": 154
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1083,
+       "page": 1067
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 503,
+       "page": 481
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "IV **ibutilide** (class III) converts up to ~50% of recent AF and ~70% of flutter but markedly prolongs QT, so continuous ECG monitoring is mandatory. For long-term maintenance of sinus rhythm, beta-blockers are tried first, dronedarone second, and **amiodarone if there is heart failure/LV dysfunction**.",
+     "cites": [
+      {
+       "book": "goldberger",
+       "pdfPage": 168,
+       "page": 154
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 31,
+       "page": 31
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "DC shocks",
+     "columns": [
+      "Feature",
+      "Elective cardioversion",
+      "Defibrillation"
+     ],
+     "rows": [
+      [
+       "Indication",
+       "AF, flutter, VT (with a pulse), unstable SVT",
+       "VF / pulseless VT"
+      ],
+      [
+       "Timing",
+       "**Synchronised** to the R wave (a shock on the T wave can induce VF)",
+       "**Unsynchronised**"
+      ],
+      [
+       "Energy",
+       "Start low (~50 J) and increase",
+       "**150 J** for first shocks, then up to 200 J (biphasic)"
+      ],
+      [
+       "Anaesthesia",
+       "Short general anaesthesia/sedation",
+       "Not needed (unconscious)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 504,
+       "page": 482
+      },
+      {
+       "book": "goldberger",
+       "pdfPage": 169,
+       "page": 155
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "ICD indications (Davidson's)",
+     "columns": [
+      "Primary prevention",
+      "Secondary prevention"
+     ],
+     "rows": [
+      [
+       "Post-MI with **LVEF <30%**",
+       "Survivors of **VF/VT arrest** without a reversible cause"
+      ],
+      [
+       "Symptomatic heart failure on optimal therapy with **LVEF <35%**",
+       "**VT with haemodynamic compromise** or with LVEF <35%"
+      ],
+      [
+       "Inherited conditions: long QT, HCM, ARVD, Brugada",
+       "—"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 505,
+       "page": 483
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1080,
+       "page": 1064
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1082,
+       "page": 1066
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.s9",
+   "title": "Catheter ablation & radiofrequency",
+   "objectiveIdx": [
+    11
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Catheter ablation**: catheters are passed via the **femoral veins** under X-ray, the heart's electrical activity is mapped (sometimes by inducing the arrhythmia), and the culprit focus or pathway is destroyed — usually with **radiofrequency (heat)**, or with **cryoablation**. It is the **treatment of choice for AVNRT, accessory-pathway tachycardias and typical flutter**, and an option for AF and some VT.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 506,
+       "page": 484
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 36,
+       "page": 36
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Ablation targets and results",
+     "columns": [
+      "Arrhythmia",
+      "Procedure",
+      "Results / notes"
+     ],
+     "rows": [
+      [
+       "AVNRT",
+       "**Slow-pathway modification**",
+       "Cures ~96%; ~1% risk of AV block needing a pacemaker"
+      ],
+      [
+       "WPW / accessory pathway",
+       "Ablation of the pathway",
+       "~95% success, ~5% recurrence; **first line in symptomatic WPW**"
+      ],
+      [
+       "Typical atrial flutter",
+       "Linear lesion across the **cavotricuspid isthmus**",
+       "~90% long-term cure in selected patients"
+      ],
+      [
+       "AF",
+       "**Pulmonary vein isolation** (RF or cryoablation, transseptal) ± left atrial lesions",
+       "~70–80% success, best in younger patients with structurally normal hearts"
+      ],
+      [
+       "VT",
+       "Ablation of the VT focus",
+       "When VT comes from an isolated focus, or recurs and triggers ICD shocks"
+      ],
+      [
+       "Permanent AF, rate uncontrollable",
+       "**\"Ablate and pace\"**: pacemaker, then AV-node ablation",
+       "Excellent rate control without drugs"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 506,
+       "page": 484
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1075,
+       "page": 1059
+      },
+      {
+       "book": "goldberger",
+       "pdfPage": 168,
+       "page": 154
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 114,
+       "page": 114
+      },
+      {
+       "book": "goldberger",
+       "pdfPage": 169,
+       "page": 155
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 496,
+       "page": 474
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Complications",
+     "items": [
+      "Overall <1%: **complete heart block** (septal ablation near the AV node), **cardiac tamponade**",
+      "AF ablation specifically: tamponade, **stroke**, **phrenic nerve injury**, rarely **pulmonary vein stenosis**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 506,
+       "page": 484
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 494,
+       "page": 472
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "After **\"ablate and pace\"** the patient is **pacemaker-dependent** and the atria are still fibrillating, so **lifelong anticoagulation is still required**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Cardiology",
+       "pdfPage": 1077,
+       "page": 1061
+      },
+      {
+       "book": "goldberger",
+       "pdfPage": 168,
+       "page": 154
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Davidson's quotes AF ablation success as ~75% in one place and 70–80% in another; Pocket Medicine ~70%. Remember \"**about three-quarters**\" — lower than the >90% cure rates for AVNRT, accessory pathways and flutter.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 494,
+       "page": 472
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Cardiology",
+       "pdfPage": 506,
+       "page": 484
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 117,
+       "page": 117
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "goldberger",
+      "pdfPage": 169,
+      "page": 155,
+      "figure": "Fig. 15.13"
+     },
+     "note": "Look at: anterior–posterior pad position for DC cardioversion of AF, shock synchronised to the QRS"
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "cardio-arrhythmias.c1",
+   "sectionId": "cardio-arrhythmias.s1",
+   "front": "Conventional rate definitions of tachycardia and bradycardia?",
+   "back": "Tachycardia **>100/min**; bradycardia **<60/min** (Kumar: <50/min at night)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 490,
+     "page": 468
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1067,
+     "page": 1051
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c2",
+   "sectionId": "cardio-arrhythmias.s1",
+   "front": "Three mechanisms of tachyarrhythmia — which is commonest?",
+   "back": "Increased automaticity, **re-entry (commonest)**, triggered activity (after-depolarisations)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 490,
+     "page": 468
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1068,
+     "page": 1052
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c3",
+   "sectionId": "cardio-arrhythmias.s1",
+   "front": "Mnemonic for common causes of AF?",
+   "back": "\"mrs **SMITH**\": Sepsis, Mitral valve disease, Ischaemic heart disease, Thyrotoxicosis, Hypertension",
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "pdfPage": 30,
+     "page": 30
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c4",
+   "sectionId": "cardio-arrhythmias.s2",
+   "front": "AF classification by duration?",
+   "back": "Paroxysmal (self-terminates within 7 days); persistent (>7 days / needs cardioversion); long-standing persistent (>1 year); permanent (accepted)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 492,
+     "page": 470
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 114,
+     "page": 114
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c5",
+   "sectionId": "cardio-arrhythmias.s2",
+   "front": "CHA₂DS₂-VASc: which items score 2 points?",
+   "back": "**Age ≥75** and **previous stroke/TIA**; all others (CHF, HTN, diabetes, vascular disease, age 65–74, female) score 1",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 495,
+     "page": 473
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c6",
+   "sectionId": "cardio-arrhythmias.s2",
+   "front": "AF ≥48 h or unknown duration: anticoagulation around elective DC cardioversion (Davidson's)?",
+   "back": "At least **4 weeks before** and at least **3 months after** (Kumar/Step-Up: 3 weeks before, 4 weeks after)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 494,
+     "page": 472
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1077,
+     "page": 1061
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c7",
+   "sectionId": "cardio-arrhythmias.s2",
+   "front": "IV flecainide for recent AF — dose and who is suitable?",
+   "back": "**2 mg/kg over 30 min (max 150 mg)**; AF <48 h with no structural heart disease (~75% revert within 8 h). Structural disease → IV amiodarone",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 494,
+     "page": 472
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c8",
+   "sectionId": "cardio-arrhythmias.s2",
+   "front": "Atrial flutter: atrial rate and ventricular rates with 2:1, 3:1, 4:1 block?",
+   "back": "Atrial ~**300/min** → ventricles **150, 100, 75/min**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 492,
+     "page": 470
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c9",
+   "sectionId": "cardio-arrhythmias.s2",
+   "front": "Why is flecainide alone dangerous in atrial flutter?",
+   "back": "It slows the flutter circuit so the AV node can conduct **1:1**, giving a paradoxically very fast ventricular rate",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 492,
+     "page": 470
+    },
+    {
+     "book": "goldberger",
+     "pdfPage": 160,
+     "page": 146
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c10",
+   "sectionId": "cardio-arrhythmias.s3",
+   "front": "AVNRT: what forms the circuit?",
+   "back": "Dual AV nodal inputs — a **fast (superior)** and a **slow (inferior)** pathway; typical form is slow down, fast up",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 495,
+     "page": 473
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1073,
+     "page": 1057
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c11",
+   "sectionId": "cardio-arrhythmias.s3",
+   "front": "WPW sinus-rhythm ECG triad?",
+   "back": "**Short PR (<0.12 s)**, **delta wave**, **broad QRS**",
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "pdfPage": 36,
+     "page": 36
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c12",
+   "sectionId": "cardio-arrhythmias.s3",
+   "front": "Pre-excited AF in WPW: drugs to avoid and treatment?",
+   "back": "Avoid AV-nodal blockers (**digoxin, verapamil**, beta-blockers, adenosine, amiodarone); treat with **DC cardioversion** (or procainamide/ibutilide)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 496,
+     "page": 474
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 111,
+     "page": 111
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c13",
+   "sectionId": "cardio-arrhythmias.s4",
+   "front": "Two ECG findings that are pathognomonic of VT?",
+   "back": "**AV dissociation** and **capture/fusion beats**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 497,
+     "page": 475
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c14",
+   "sectionId": "cardio-arrhythmias.s4",
+   "front": "IV magnesium regimen for torsades (Davidson's)?",
+   "back": "**8 mmol over 15 min, then 72 mmol over 24 h** — given even if serum Mg is normal",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 498,
+     "page": 476
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 37,
+     "page": 37
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c15",
+   "sectionId": "cardio-arrhythmias.s4",
+   "front": "Brugada syndrome: ECG and only effective treatment?",
+   "back": "RBBB-like pattern with **coved ST elevation V1–V3**; **ICD**",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1080,
+     "page": 1064
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c16",
+   "sectionId": "cardio-arrhythmias.s4",
+   "front": "Congenital long QT types and triggers?",
+   "back": "LQT1 (KCNQ1) — **exercise**; LQT2 (HERG) — **sudden noise**; LQT3 (SCN5A) — **sleep**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 498,
+     "page": 476
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c17",
+   "sectionId": "cardio-arrhythmias.s5",
+   "front": "Mobitz I vs Mobitz II: PR behaviour and level of block?",
+   "back": "Mobitz I: PR **lengthens** then a beat drops (AV node, benign). Mobitz II: **constant PR** with sudden drops (His–Purkinje) → pacemaker",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 499,
+     "page": 477
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 89,
+     "page": 89
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c18",
+   "sectionId": "cardio-arrhythmias.s5",
+   "front": "AV block in inferior vs anterior MI?",
+   "back": "Inferior: usually **transient**, reliable escape (atropine/temporary pacing). Anterior: extensive damage, poor prognosis, **prompt temporary pacing**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 500,
+     "page": 478
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c19",
+   "sectionId": "cardio-arrhythmias.s5",
+   "front": "Escape rhythm rates in complete heart block?",
+   "back": "Narrow (His) ~**50–60/min**, reliable; broad (below His) **15–40/min**, unreliable → Stokes–Adams attacks",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1071,
+     "page": 1055
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c20",
+   "sectionId": "cardio-arrhythmias.s6",
+   "front": "Stokes–Adams attack — what distinguishes it from epilepsy?",
+   "back": "Sudden collapse with pallor, then **rapid recovery with facial flushing** as the heart restarts",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 500,
+     "page": 478
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c21",
+   "sectionId": "cardio-arrhythmias.s6",
+   "front": "Causes of sudden cardiac death by proportion?",
+   "back": "Coronary disease **~85%**; other structural disease ~10% (AS, HCM, DCM, ARVD); no structural disease ~5% (long QT, Brugada, WPW, drugs, electrolytes)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 478,
+     "page": 456
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c22",
+   "sectionId": "cardio-arrhythmias.s7",
+   "front": "Effect of IV adenosine on AVNRT, flutter and VT?",
+   "back": "AVNRT **terminates**; flutter/AF/atrial tachycardia show **transient AV block** unmasking atrial waves; VT **no effect**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 504,
+     "page": 482
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 109,
+     "page": 109
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c23",
+   "sectionId": "cardio-arrhythmias.s7",
+   "front": "Monitor for syncope occurring less than once a month?",
+   "back": "**Implantable loop recorder** (records for 2–3 years)",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 122,
+     "page": 122
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c24",
+   "sectionId": "cardio-arrhythmias.s8",
+   "front": "Five side-effects of amiodarone?",
+   "back": "Photosensitivity/skin discoloration, corneal deposits, **thyroid dysfunction**, **pulmonary alveolitis**, hepatotoxicity, neuropathy (also potentiates warfarin and digoxin)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 502,
+     "page": 480
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c25",
+   "sectionId": "cardio-arrhythmias.s8",
+   "front": "Features of digoxin toxicity?",
+   "back": "Nausea/vomiting, **xanthopsia**; bradycardia, ventricular bigeminy, **atrial tachycardia with block**, VT/VF",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 504,
+     "page": 482
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c26",
+   "sectionId": "cardio-arrhythmias.s8",
+   "front": "Primary-prevention ICD after MI (Davidson's)?",
+   "back": "LVEF **<30%** after MI (or symptomatic HF on optimal therapy with LVEF <35%)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 505,
+     "page": 483
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.c27",
+   "sectionId": "cardio-arrhythmias.s9",
+   "front": "Cure rates of ablation: AVNRT, accessory pathway, flutter, AF?",
+   "back": "AVNRT ~96%; accessory pathway ~95%; typical flutter ~90%; AF (pulmonary vein isolation) ~70–80%",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1075,
+     "page": 1059
+    },
+    {
+     "book": "goldberger",
+     "pdfPage": 168,
+     "page": 154
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 506,
+     "page": 484
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "cardio-arrhythmias.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "An 81-year-old woman with heart failure has been taking digoxin. Her eGFR has fallen recently. She now has nausea and an ECG showing an atrial tachycardia with variable AV block.",
+   "leadIn": "Which electrophysiological mechanism best explains this tachycardia?",
+   "options": [
+    "Re-entry within dual AV nodal pathways",
+    "Re-entry through an accessory pathway",
+    "Triggered activity from after-depolarisations",
+    "Macro re-entry around the tricuspid annulus",
+    "Ventricular escape from a distal focus"
+   ],
+   "answer": 2,
+   "explanation": "Digoxin-toxic atrial tachycardia is the classic example of **triggered activity**: after-depolarisations arise from membrane that has not fully repolarised. Re-entry is the commonest mechanism overall, but not for digoxin toxicity. Renal impairment raises digoxin levels.",
+   "whyNot": [
+    "This is AVNRT, a re-entry tachycardia unrelated to digoxin.",
+    "This is AVRT, which needs an accessory pathway.",
+    "",
+    "This is the mechanism of typical atrial flutter.",
+    "An escape rhythm is a slow rhythm, not an atrial tachycardia."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-arrhythmias.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1068,
+     "page": 1052
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 504,
+     "page": 482
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 58-year-old woman complains of tiredness, weight gain and feeling cold. Her pulse is 46/min and regular, and the ECG shows sinus rhythm with normal PR interval.",
+   "leadIn": "Which condition is the most likely cause of her heart rate?",
+   "options": [
+    "Hypothyroidism",
+    "Thyrotoxicosis",
+    "Iron-deficiency anaemia",
+    "Phaeochromocytoma",
+    "Acute febrile illness"
+   ],
+   "answer": 0,
+   "explanation": "**Hypothyroidism** (myxoedema) is a recognised cause of **sinus bradycardia**, and fits the weight gain and cold intolerance. All the other options cause **sinus tachycardia**.",
+   "whyNot": [
+    "",
+    "Thyrotoxicosis causes sinus tachycardia or AF, with weight loss and heat intolerance.",
+    "Anaemia causes a compensatory sinus tachycardia.",
+    "Catecholamine excess causes tachycardia and episodic hypertension.",
+    "Fever raises the sinus rate."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-arrhythmias.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 491,
+     "page": 469
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 107,
+     "page": 107
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q3",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Management of atrial fibrillation and flutter",
+   "options": [
+    "Immediate synchronised DC cardioversion",
+    "IV flecainide",
+    "IV amiodarone via a central line",
+    "Oral beta-blocker for rate control",
+    "Digoxin alone",
+    "Oral anticoagulation for ≥4 weeks, then elective DC cardioversion",
+    "Cavotricuspid isthmus catheter ablation",
+    "Pulmonary vein isolation",
+    "Permanent pacemaker then AV-node ablation",
+    "Aspirin 75 mg daily",
+    "Verapamil combined with atenolol"
+   ],
+   "items": [
+    {
+     "stem": "A 31-year-old woman with no past history has had palpitations for 9 hours. ECG: AF at 140/min. BP 124/78 mmHg. Echocardiogram is normal. She wants sinus rhythm restored today.",
+     "answer": 1,
+     "explanation": "AF <48 h in a stable patient **without structural heart disease** → IV flecainide (2 mg/kg over 30 min) restores sinus rhythm in about 75% within 8 h.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s2"
+     }
+    },
+    {
+     "stem": "A 69-year-old man, whose earlier anterior MI left him with an ejection fraction of 30%, develops AF at 130/min, 10 hours after onset. He is stable and a cardiologist wants pharmacological cardioversion.",
+     "answer": 2,
+     "explanation": "Recent-onset AF but **structural/ischaemic heart disease** → avoid flecainide; give **IV amiodarone** through a central venous catheter.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s2"
+     }
+    },
+    {
+     "stem": "A 64-year-old man notices an irregular pulse that he thinks started \"a week or two ago\". He is stable, rate-controlled, and is keen to try to get back into sinus rhythm.",
+     "answer": 5,
+     "explanation": "AF ≥48 h or of uncertain duration: defer DC cardioversion until he has had **at least 4 weeks of effective oral anticoagulation**, then continue for ≥3 months (Davidson's).",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s2"
+     }
+    },
+    {
+     "stem": "A 72-year-old man has recurrent typical atrial flutter (sawtooth waves in II, III, aVF) despite drug therapy and wants a definitive treatment.",
+     "answer": 6,
+     "explanation": "Typical flutter uses the **cavotricuspid isthmus**; a linear RF lesion there cures about 90% and is the definitive treatment.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 494,
+     "page": 472
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 492,
+     "page": 470
+    },
+    {
+     "book": "goldberger",
+     "pdfPage": 168,
+     "page": 154
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q4",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Treatment of junctional and pre-excited tachycardias",
+   "options": [
+    "Valsalva manoeuvre",
+    "IV adenosine",
+    "IV verapamil",
+    "Synchronised DC cardioversion",
+    "IV digoxin",
+    "IV amiodarone",
+    "Catheter ablation of the accessory pathway",
+    "Slow-pathway catheter ablation",
+    "Oral flecainide",
+    "IV magnesium sulfate",
+    "Unsynchronised defibrillation",
+    "Oral bisoprolol"
+   ],
+   "items": [
+    {
+     "stem": "A 24-year-old woman has sudden-onset regular palpitations for 30 minutes. Pulse 190/min, BP 118/74 mmHg. ECG: regular narrow-complex tachycardia with no visible P waves. What is the first step?",
+     "answer": 0,
+     "explanation": "Stable narrow-complex SVT (likely AVNRT) → **vagal manoeuvres first**, before any drug.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s3"
+     }
+    },
+    {
+     "stem": "A 29-year-old man with moderate asthma (uses inhaled steroid and salbutamol) has a stable regular narrow-complex tachycardia at 180/min. Valsalva and carotid sinus massage have failed.",
+     "answer": 2,
+     "explanation": "Adenosine causes **bronchospasm** and should be avoided in asthma, so the alternative is **IV verapamil 5 mg over 1 min** (QRS is narrow and he is not on a beta-blocker).",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s3"
+     }
+    },
+    {
+     "stem": "A 22-year-old man known to have a short PR interval and delta waves presents with an irregular broad-complex tachycardia at 260/min. BP 82/50 mmHg and he is drowsy.",
+     "answer": 3,
+     "explanation": "This is **pre-excited AF** in WPW with compromise. Treat with **synchronised DC cardioversion**; digoxin, verapamil and other AV-nodal blockers can accelerate pathway conduction into VF.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s3"
+     }
+    },
+    {
+     "stem": "A 27-year-old woman has had four episodes of AVNRT this year, each needing adenosine. She plans a pregnancy and does not want long-term tablets.",
+     "answer": 7,
+     "explanation": "Recurrent AVNRT → **slow-pathway modification** cures ~96% and avoids drugs that are best avoided in pregnancy. Two-step: recognise AVNRT, then know the ablation target.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 495,
+     "page": 473
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 35,
+     "page": 35
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 496,
+     "page": 474
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1075,
+     "page": 1059
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q5",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Broad-complex and ventricular arrhythmias",
+   "options": [
+    "Monomorphic ventricular tachycardia",
+    "Torsades de pointes",
+    "Ventricular fibrillation",
+    "SVT with bundle branch block",
+    "Pre-excited atrial fibrillation",
+    "Accelerated idioventricular rhythm",
+    "Brugada syndrome",
+    "Ventricular bigeminy",
+    "Non-sustained VT",
+    "Atrial flutter with 2:1 block",
+    "Complete heart block with broad escape rhythm"
+   ],
+   "items": [
+    {
+     "stem": "A 67-year-old man with an anterior MI 4 years ago has palpitations. ECG: regular broad-complex tachycardia at 170/min, QRS 160 ms, with an occasional narrow complex of normal appearance in the middle of the run.",
+     "answer": 0,
+     "explanation": "The normal-looking beat is a **capture beat**, pathognomonic of AV dissociation; with prior MI this is **VT**.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s4"
+     }
+    },
+    {
+     "stem": "A 59-year-old woman taking sotalol and recently started on clarithromycin, with K⁺ 2.9 mmol/L, collapses. The monitor shows a fast broad-complex rhythm whose QRS amplitude twists around the baseline.",
+     "answer": 1,
+     "explanation": "Long-QT drugs + macrolide + **hypokalaemia** → polymorphic VT with twisting axis = **torsades de pointes**.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s4"
+     }
+    },
+    {
+     "stem": "A 62-year-old man, 6 hours after thrombolysis for an inferior STEMI, has a regular broad-complex rhythm at 95/min. He feels well and his BP is normal.",
+     "answer": 5,
+     "explanation": "Slow VT (<120/min) shortly after reperfusion = **accelerated idioventricular rhythm**; usually self-limiting, a marker of reperfusion, needs no treatment.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s4"
+     }
+    },
+    {
+     "stem": "A 33-year-old man from Thailand is referred after his brother died suddenly in his sleep. His ECG shows an RBBB-like pattern with coved ST elevation in V1–V3.",
+     "answer": 6,
+     "explanation": "**Brugada syndrome**: sodium-channel disease, young South-East Asian men, sudden death in sleep; the only effective treatment is an ICD.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 497,
+     "page": 475
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 498,
+     "page": 476
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1080,
+     "page": 1064
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q6",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Bradycardias and AV conduction disorders",
+   "options": [
+    "First-degree AV block",
+    "Mobitz I (Wenckebach) block",
+    "Mobitz II block",
+    "2:1 AV block",
+    "Complete heart block with narrow escape rhythm",
+    "Complete heart block with broad escape rhythm",
+    "Sick sinus syndrome",
+    "Sinus bradycardia",
+    "Left anterior hemiblock",
+    "Bifascicular block",
+    "Left bundle branch block",
+    "Right bundle branch block"
+   ],
+   "items": [
+    {
+     "stem": "A 20-year-old marathon runner has an overnight Holter showing progressive lengthening of the PR interval followed by a single non-conducted P wave, repeating in cycles. He has no symptoms.",
+     "answer": 1,
+     "explanation": "Progressive PR lengthening then a dropped beat = **Wenckebach**; it occurs physiologically with high vagal tone in athletes and during sleep.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s5"
+     }
+    },
+    {
+     "stem": "A 76-year-old woman has had two sudden collapses with rapid recovery and flushing. Pulse 32/min, regular, with intermittent cannon a waves. ECG: P waves unrelated to QRS complexes, QRS 150 ms.",
+     "answer": 5,
+     "explanation": "AV dissociation with a **broad**, slow escape (below the His bundle) → unreliable, causing **Stokes–Adams** attacks; needs pacing.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s5"
+     }
+    },
+    {
+     "stem": "A 79-year-old man has dizzy spells. A 24-h tape shows slow sinus rhythm, sinus pauses of up to 4 s and runs of paroxysmal AF.",
+     "answer": 6,
+     "explanation": "Bradycardia + sinus arrest + paroxysmal AF in an elderly patient = **sick sinus (tachy–brady) syndrome**.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s5"
+     }
+    },
+    {
+     "stem": "A 71-year-old man has an ECG with QRS 140 ms, M-shaped complexes in V1–V2, a wide S wave in lead I and marked left axis deviation.",
+     "answer": 9,
+     "explanation": "Two steps: M-shaped V1–V2 = **RBBB**; left axis deviation = **left anterior hemiblock**; together = **bifascicular block**, which can progress to complete heart block.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 499,
+     "page": 477
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 500,
+     "page": 478
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 491,
+     "page": 469
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1072,
+     "page": 1056
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1071,
+     "page": 1055
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 501,
+     "page": 479
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 78-year-old man collapses suddenly while sitting at dinner with no warning. His wife says he went \"white as a sheet\" and had a few jerks of his arms. Within 30 seconds he came round, his face became flushed, and he was immediately orientated.",
+   "leadIn": "What is the most likely cause of the collapse?",
+   "options": [
+    "Stokes–Adams attack",
+    "Generalised tonic–clonic seizure",
+    "Vasovagal syncope",
+    "Orthostatic hypotension",
+    "Hypoglycaemia"
+   ],
+   "answer": 0,
+   "explanation": "Sudden collapse **without warning**, deathly pallor, brief anoxic jerks and a **rapid recovery with flushing** as the circulation returns is the classic **Stokes–Adams attack** (transient ventricular standstill, typically high-grade AV block).",
+   "whyNot": [
+    "",
+    "Epilepsy is followed by slow, confused recovery, without the characteristic flush.",
+    "Vasovagal syncope usually has a prodrome and a trigger (standing, pain).",
+    "Orthostatic syncope happens on standing, not while seated.",
+    "Hypoglycaemia does not resolve spontaneously within 30 seconds."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-arrhythmias.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 500,
+     "page": 478
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 44-year-old woman notices an irregular pulse at rest. The irregularity is unrelated to breathing. After she climbs two flights of stairs, her pulse is 118/min and completely regular.",
+   "leadIn": "What is the most likely rhythm at rest?",
+   "options": [
+    "Ventricular ectopic beats",
+    "Atrial fibrillation",
+    "Atrial flutter with variable block",
+    "Multifocal atrial tachycardia",
+    "Complete heart block"
+   ],
+   "answer": 0,
+   "explanation": "Ectopic beats are suppressed once the sinus rate rises above a threshold, so the pulse **becomes regular on exercise**. AF stays irregularly irregular on exercise. An ECG is still needed to confirm.",
+   "whyNot": [
+    "",
+    "AF remains irregularly irregular on exercise.",
+    "Variable flutter block does not disappear with exercise.",
+    "MAT occurs with severe lung disease and stays irregular.",
+    "Complete heart block gives a slow regular pulse."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-arrhythmias.s6"
+   },
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "pdfPage": 29,
+     "page": 29
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1076,
+     "page": 1060
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 63-year-old man with a past MI has a regular broad-complex tachycardia at 160/min. His BP is 128/80 mmHg and he is talking normally. A rhythm strip shows one beat that looks intermediate between his sinus QRS and the tachycardia complexes.",
+   "leadIn": "Which finding most reliably establishes that this is ventricular tachycardia?",
+   "options": [
+    "The fusion beat on the rhythm strip",
+    "His normal blood pressure",
+    "A heart rate of 160/min",
+    "QRS duration of 125 ms",
+    "Right bundle branch block morphology"
+   ],
+   "answer": 0,
+   "explanation": "A **fusion beat** (and capture beats) can only happen when the atria and ventricles are dissociated, so it is **pathognomonic of VT**. Prior MI also strongly favours VT.",
+   "whyNot": [
+    "",
+    "Haemodynamic stability does not distinguish VT from SVT.",
+    "Rate does not separate VT from SVT.",
+    "A QRS of 125 ms is not very broad; >140 ms favours VT.",
+    "RBBB shape occurs both in VT and in SVT with aberrancy."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-arrhythmias.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 497,
+     "page": 475
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 113,
+     "page": 113
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 3,
+   "stem": "A 66-year-old man had an anterior MI 2 months ago and his ejection fraction is 35%. A Holter shows several runs of non-sustained VT and he has had one episode of near-syncope.",
+   "leadIn": "Which investigation will best guide the decision about an ICD?",
+   "options": [
+    "Electrophysiology study",
+    "Repeat 24-hour Holter monitor",
+    "Exercise ECG",
+    "Implantable loop recorder",
+    "Thyroid function tests"
+   ],
+   "answer": 0,
+   "explanation": "Non-sustained VT with coronary disease, LV dysfunction and symptoms warrants an **EP study**: if sustained VT can be **induced**, an ICD is appropriate. EPS is mainly used with ablation but still has this risk-stratification role.",
+   "whyNot": [
+    "",
+    "Another Holter adds little — NSVT is already documented.",
+    "Exercise testing looks for ischaemia, not inducible VT.",
+    "A loop recorder suits infrequent unexplained episodes, not risk stratification here.",
+    "TFTs are reasonable bloods but do not guide ICD decisions."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-arrhythmias.s7"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 83,
+     "page": 83
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 122,
+     "page": 122
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 476,
+     "page": 454
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q11",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Antiarrhythmic and related drugs",
+   "options": [
+    "Adenosine",
+    "Amiodarone",
+    "Atropine",
+    "Digoxin",
+    "Dronedarone",
+    "Flecainide",
+    "Ivabradine",
+    "Diltiazem",
+    "Verapamil",
+    "Bisoprolol",
+    "Vernakalant",
+    "Magnesium sulfate"
+   ],
+   "items": [
+    {
+     "stem": "A 70-year-old man on long-term therapy for recurrent VT develops blue-grey facial pigmentation, sunburns easily, has corneal microdeposits and a suppressed TSH.",
+     "answer": 1,
+     "explanation": "Photosensitivity, skin discoloration, corneal deposits and thyroid dysfunction are classic **amiodarone** effects.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s8"
+     }
+    },
+    {
+     "stem": "An 84-year-old woman with CKD stage 4 being treated for AF complains of anorexia, vomiting and seeing everything with a yellow tinge.",
+     "answer": 3,
+     "explanation": "GI upset + **xanthopsia** in an elderly patient with renal impairment = **digoxin toxicity**.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s8"
+     }
+    },
+    {
+     "stem": "A 61-year-old man is recovering from an MI and has frequent ventricular ectopics. A trial showed that the class of drug containing this agent increased mortality when used to suppress such ectopics.",
+     "answer": 5,
+     "explanation": "The **CAST** trial: class Ic drugs (**flecainide**) increased post-MI mortality. Two-step: recall the trial, then identify the Ic agent.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s8"
+     }
+    },
+    {
+     "stem": "A 57-year-old man with an acute inferior STEMI has sinus bradycardia of 38/min and BP 80/50 mmHg.",
+     "answer": 2,
+     "explanation": "Vagally mediated bradycardia with hypotension in inferior MI → **atropine 0.6 mg IV**, repeated up to 3 mg.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s8"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 502,
+     "page": 480
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 504,
+     "page": 482
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1083,
+     "page": 1067
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 503,
+     "page": 481
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 34-year-old woman with recurrent AVNRT is consented for catheter ablation targeting the slow pathway.",
+   "leadIn": "Which complication is she specifically warned about because of the site of ablation?",
+   "options": [
+    "Complete heart block needing a pacemaker",
+    "Pulmonary vein stenosis",
+    "Phrenic nerve injury",
+    "Torsades de pointes",
+    "Dronedarone-induced hepatotoxicity"
+   ],
+   "answer": 0,
+   "explanation": "Slow-pathway modification is close to the AV node: it cures ~96% of AVNRT but carries about a **1% risk of AV block** requiring a pacemaker.",
+   "whyNot": [
+    "",
+    "Pulmonary vein stenosis is a complication of AF ablation (pulmonary vein isolation).",
+    "Phrenic nerve injury is a recognised complication of AF ablation, not of slow-pathway ablation.",
+    "Torsades is a drug (QT) effect, not an ablation complication.",
+    "A drug side-effect, not related to ablation."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-arrhythmias.s9"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1075,
+     "page": 1059
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 506,
+     "page": 484
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 494,
+     "page": 472
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "An 80-year-old woman with permanent AF has persistently fast rates despite maximum tolerated beta-blocker and digoxin. She has a permanent pacemaker implanted and then undergoes AV-node ablation.",
+   "leadIn": "Which statement about her management after this procedure is correct?",
+   "options": [
+    "She still needs lifelong anticoagulation",
+    "Anticoagulation can stop because the atria are now in sinus rhythm",
+    "Her pacemaker can be removed after 3 months",
+    "Her AF has been cured by the ablation",
+    "She should restart digoxin for rate control"
+   ],
+   "answer": 0,
+   "explanation": "\"**Ablate and pace**\" controls the ventricular rate but leaves the atria fibrillating, so stroke risk is unchanged and **anticoagulation continues for life**; she is now pacemaker-dependent.",
+   "whyNot": [
+    "",
+    "The atria are still fibrillating; only AV conduction has been abolished.",
+    "She is pacemaker-dependent after AV-node ablation.",
+    "AV-node ablation treats rate, not the AF itself.",
+    "Rate is now set by the pacemaker; rate-control drugs are no longer needed."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-arrhythmias.s9"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1077,
+     "page": 1061
+    },
+    {
+     "book": "goldberger",
+     "pdfPage": 168,
+     "page": 154
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q14",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Choosing the investigation in suspected arrhythmia",
+   "options": [
+    "12-lead ECG",
+    "24-hour Holter monitor",
+    "External event recorder",
+    "Implantable loop recorder",
+    "Transthoracic echocardiogram",
+    "Thyroid function tests",
+    "Electrophysiology study",
+    "Exercise ECG",
+    "IV adenosine under ECG monitoring",
+    "Transoesophageal echocardiogram",
+    "Coronary angiography"
+   ],
+   "items": [
+    {
+     "stem": "A 55-year-old man has had three sudden blackouts without warning over 8 months. Resting ECG and echocardiogram are normal and two Holter recordings were unremarkable.",
+     "answer": 3,
+     "explanation": "Infrequent (<1/month) events with no prodrome → **implantable loop recorder**, which can record for 2–3 years.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s7"
+     }
+    },
+    {
+     "stem": "A 38-year-old woman has brief episodes of fluttering in her chest most days. Her resting ECG is normal.",
+     "answer": 1,
+     "explanation": "Daily symptoms → a **24-hour Holter** is likely to capture an episode.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s7"
+     }
+    },
+    {
+     "stem": "A 70-year-old man has a regular narrow-complex tachycardia at exactly 150/min. No clear P waves are seen and vagal manoeuvres are not tolerated.",
+     "answer": 8,
+     "explanation": "Rate of 150 suggests **flutter with 2:1 block**; IV adenosine briefly increases AV block and **unmasks the flutter waves** (or terminates AVNRT/AVRT).",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s7"
+     }
+    },
+    {
+     "stem": "A 29-year-old woman with new-onset AF has lost 6 kg, has a fine tremor and feels hot all the time.",
+     "answer": 5,
+     "explanation": "AF may be the main feature of **thyrotoxicosis** — TFTs are part of every new-AF work-up.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 122,
+     "page": 122
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1053,
+     "page": 1037
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 492,
+     "page": 470
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 493,
+     "page": 471
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 504,
+     "page": 482
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q15",
+   "kind": "emq",
+   "leadIn": "For each patient with non-valvular AF, choose the correct CHA₂DS₂-VASc score. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "theme": "CHA₂DS₂-VASc scoring in atrial fibrillation",
+   "options": [
+    "Score 0",
+    "Score 1",
+    "Score 2",
+    "Score 3",
+    "Score 4",
+    "Score 5",
+    "Score 6",
+    "Score 7",
+    "Score 8"
+   ],
+   "items": [
+    {
+     "stem": "A 70-year-old woman with treated hypertension and type 2 diabetes.",
+     "answer": 4,
+     "explanation": "Age 65–74 (1) + female (1) + hypertension (1) + diabetes (1) = **4** → anticoagulate.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s2"
+     }
+    },
+    {
+     "stem": "An 81-year-old man with a previous TIA and no other history.",
+     "answer": 4,
+     "explanation": "Age ≥75 (2) + TIA (2) = **4** → anticoagulate.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s2"
+     }
+    },
+    {
+     "stem": "A 52-year-old man with lone paroxysmal AF and no other medical problems.",
+     "answer": 0,
+     "explanation": "No risk factors = **0** → no stroke prophylaxis required.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s2"
+     }
+    },
+    {
+     "stem": "A 68-year-old man with heart failure and peripheral arterial disease.",
+     "answer": 3,
+     "explanation": "Age 65–74 (1) + CHF (1) + vascular disease (1) = **3** → anticoagulate.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 495,
+     "page": 473
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 69,
+     "page": 69
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "A 66-year-old man with typical atrial flutter (2:1 block, ventricular rate 150/min) is started on oral flecainide alone by a locum. Two days later he presents with a regular tachycardia at 230/min and a BP of 85/50 mmHg.",
+   "leadIn": "What is the most likely explanation?",
+   "options": [
+    "Flutter slowed by flecainide now conducting 1:1",
+    "Flecainide-induced torsades de pointes",
+    "Degeneration of flutter into AF",
+    "Development of AVNRT",
+    "Sinus tachycardia due to hypotension"
+   ],
+   "answer": 0,
+   "explanation": "Class Ic drugs slow the flutter circuit; the slower atrial rate lets the AV node conduct **1:1**, producing a paradoxically faster ventricular rate. This is why flecainide is avoided in flutter (or given only with an AV-nodal blocker). Treatment is **synchronised cardioversion**.",
+   "whyNot": [
+    "",
+    "Torsades is polymorphic and irregular; Ic drugs mainly widen the QRS.",
+    "AF would give an irregularly irregular rhythm.",
+    "There is no reason for a new nodal re-entry circuit.",
+    "Sinus tachycardia does not reach 230/min in a 66-year-old."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-arrhythmias.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 492,
+     "page": 470
+    },
+    {
+     "book": "goldberger",
+     "pdfPage": 160,
+     "page": 146
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q17",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 67-year-old woman is found to be in AF at a routine visit. She is unsure when the palpitations began. Her rate is 88/min on bisoprolol and she is stable. She would like to try cardioversion.",
+   "leadIn": "What is the most appropriate plan (according to Davidson's)?",
+   "options": [
+    "Oral anticoagulation for at least 4 weeks, DC cardioversion, then anticoagulation for at least 3 months",
+    "Immediate DC cardioversion today",
+    "IV flecainide today, then stop anticoagulation",
+    "Aspirin for 4 weeks, then DC cardioversion",
+    "DC cardioversion without anticoagulation because her rate is controlled"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: **duration** — unknown, so treat as ≥48 h. Step 2: thrombus may already be present in the left atrial appendage, so cardioversion (electrical or chemical) risks embolism. Step 3: Davidson's says give **≥4 weeks** of effective oral anticoagulation first and continue for **≥3 months** after (Kumar/Step-Up: 3 weeks before, 4 weeks after). Step 4: her CHA₂DS₂-VASc (age 65–74 + female = 2) then decides long-term anticoagulation.",
+   "whyNot": [
+    "",
+    "Immediate cardioversion is only for AF <48 h or haemodynamic instability.",
+    "Chemical cardioversion carries the same embolic risk, and anticoagulation must continue afterwards.",
+    "Aspirin does not protect against AF-related stroke and should not be used.",
+    "Rate control does not remove the embolic risk of cardioversion."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-arrhythmias.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 494,
+     "page": 472
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1077,
+     "page": 1061
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 495,
+     "page": 473
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q18",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 71-year-old man with a previous inferior MI presents with palpitations. ECG: regular broad-complex tachycardia at 180/min, QRS 170 ms, extreme left axis deviation. BP 122/78 mmHg; he is alert. A junior suggests IV verapamil \"in case it is SVT\".",
+   "leadIn": "What is the most appropriate immediate treatment?",
+   "options": [
+    "IV amiodarone bolus followed by infusion",
+    "IV verapamil 5 mg over 1 minute",
+    "Synchronised DC cardioversion under sedation",
+    "Carotid sinus massage and observation",
+    "IV digoxin"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: broad-complex tachycardia + **prior MI** + QRS >140 ms + extreme axis → **VT** (and ~80% of broad-complex tachycardias are VT anyway). Step 2: he is **stable** (systolic >90) → **IV amiodarone** bolus then infusion; correct K⁺/Mg²⁺. Step 3: verapamil is **contraindicated** in broad-complex tachycardia — it can cause collapse in VT. DC cardioversion is for unstable VT or drug failure.",
+   "whyNot": [
+    "",
+    "Verapamil must not be given for a broad-QRS tachycardia; in VT it may cause cardiovascular collapse.",
+    "Cardioversion is first choice only if he is compromised (e.g. systolic BP <90) or drugs fail.",
+    "VT does not respond to vagal manoeuvres and needs active treatment.",
+    "Digoxin has no role in VT."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-arrhythmias.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 497,
+     "page": 475
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1075,
+     "page": 1059
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1079,
+     "page": 1063
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q19",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 23-year-old man with known WPW pattern presents with palpitations. ECG: irregular broad-complex tachycardia at 240/min with QRS morphology varying from beat to beat. BP 104/68 mmHg.",
+   "leadIn": "Which treatment must be avoided?",
+   "options": [
+    "Verapamil",
+    "Procainamide",
+    "Ibutilide",
+    "Synchronised DC cardioversion under sedation",
+    "Quinidine"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: irregular + broad + varying QRS in WPW = **pre-excited AF**. Step 2: AV-nodal blockers (**verapamil, digoxin**, also beta-blockers, adenosine, amiodarone) block the AV node and/or shorten pathway refractoriness, pushing more impulses down the pathway → VF. Step 3: give **DC cardioversion** (or procainamide/ibutilide if stable). Step 4: later, accessory pathway **ablation**.",
+   "whyNot": [
+    "",
+    "Procainamide slows pathway conduction and is an accepted option.",
+    "Ibutilide is an accepted option for stable pre-excited AF.",
+    "DC cardioversion is the safest and usual emergency treatment for pre-excited AF.",
+    "Class Ia drugs such as quinidine suppress conduction in the accessory pathway, so they are acceptable options."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-arrhythmias.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 496,
+     "page": 474
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 111,
+     "page": 111
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 78,
+     "page": 78
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q20",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can be the answer for several patients, or for none.",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Underlying causes of arrhythmias",
+   "options": [
+    "Thyrotoxicosis",
+    "Alcohol excess",
+    "Hypothermia",
+    "Hypokalaemia",
+    "Raised intracranial pressure",
+    "Digoxin toxicity",
+    "Rheumatic mitral stenosis",
+    "Pulmonary embolism",
+    "Sarcoidosis",
+    "Hypothyroidism",
+    "Phaeochromocytoma",
+    "Chagas' disease"
+   ],
+   "items": [
+    {
+     "stem": "A 36-year-old man is brought in on a Monday morning with palpitations after a weekend stag party. ECG shows AF. Echo and TFTs are normal.",
+     "answer": 1,
+     "explanation": "Binge drinking precipitating AF in a normal heart = \"**holiday heart**\" — alcohol excess.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s1"
+     }
+    },
+    {
+     "stem": "An 83-year-old woman is found on her kitchen floor after a cold night. Her core temperature is 31 °C and her pulse is 40/min, sinus rhythm.",
+     "answer": 2,
+     "explanation": "**Hypothermia** is a cause of sinus bradycardia.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s1"
+     }
+    },
+    {
+     "stem": "A 41-year-old woman has episodes of pounding headache, sweating and palpitations. BP during an episode is 220/120 mmHg; ECG shows sinus tachycardia.",
+     "answer": 10,
+     "explanation": "Paroxysmal hypertension, headache, sweating and tachycardia → **phaeochromocytoma**.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s1"
+     }
+    },
+    {
+     "stem": "A 46-year-old woman with erythema nodosum and bilateral hilar lymphadenopathy presents with dizzy spells. ECG shows complete heart block.",
+     "answer": 8,
+     "explanation": "Erythema nodosum + bilateral hilar lymphadenopathy = **sarcoidosis**, a recognised cause of complete heart block.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s5"
+     }
+    },
+    {
+     "stem": "A 50-year-old man who grew up in rural Bolivia has a dilated heart and complete heart block.",
+     "answer": 11,
+     "explanation": "**Chagas' disease** is a recognised cause of complete heart block; the clue is his upbringing in rural South America.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 67,
+     "page": 67
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 491,
+     "page": 469
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 500,
+     "page": 478
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q21",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can be the answer for several patients, or for none.",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "ECG diagnosis of tachyarrhythmias",
+   "options": [
+    "Sinus tachycardia",
+    "Atrial fibrillation",
+    "Atrial flutter, 2:1 conduction",
+    "Atrial flutter, 4:1 conduction",
+    "AV nodal re-entrant tachycardia",
+    "Orthodromic AV re-entrant tachycardia",
+    "Pre-excited atrial fibrillation",
+    "Multifocal atrial tachycardia",
+    "Monomorphic ventricular tachycardia",
+    "Torsades de pointes",
+    "Ventricular fibrillation",
+    "Ventricular bigeminy"
+   ],
+   "items": [
+    {
+     "stem": "Regular narrow-complex rhythm at 150/min; leads II, III and aVF show a sawtooth baseline at 300/min.",
+     "answer": 2,
+     "explanation": "Atrial rate 300 with every second wave conducted → **flutter with 2:1 block**.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s7"
+     }
+    },
+    {
+     "stem": "Regular narrow-complex rhythm at 75/min; a sawtooth baseline at 300/min with only every fourth wave conducted.",
+     "answer": 3,
+     "explanation": "Same atrial rate, ventricular 75/min → **4:1 block**.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s7"
+     }
+    },
+    {
+     "stem": "A 26-year-old woman with abrupt palpitations has a regular narrow-complex tachycardia at 200/min with no P waves visible anywhere.",
+     "answer": 4,
+     "explanation": "P waves hidden within the QRS = **AVNRT** (the commonest regular SVT in normal hearts).",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s3"
+     }
+    },
+    {
+     "stem": "A 30-year-old man whose sinus ECG shows a short PR and delta wave has a regular narrow-complex tachycardia; an inverted P wave sits clearly between each QRS and T wave.",
+     "answer": 5,
+     "explanation": "Two-step: WPW pathway + narrow QRS (down the AV node) + retrograde P after QRS = **orthodromic AVRT**.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s3"
+     }
+    },
+    {
+     "stem": "A 74-year-old woman with an infective exacerbation of COPD has an irregular narrow-complex rhythm at 115/min with at least three different P-wave shapes.",
+     "answer": 7,
+     "explanation": "**MAT** — ≥3 P-wave morphologies in severe lung disease; treat the lung disease.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 492,
+     "page": 470
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 495,
+     "page": 473
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1074,
+     "page": 1058
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 75,
+     "page": 75
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 76,
+     "page": 76
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q22",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 64-year-old woman on haloperidol and erythromycin has recurrent syncope. Her QTc is 560 ms and a monitor captures polymorphic VT with a spindle-shaped, twisting QRS that self-terminates. Serum Mg²⁺ is normal.",
+   "leadIn": "What is the most appropriate first treatment?",
+   "options": [
+    "IV magnesium sulfate",
+    "IV amiodarone",
+    "IV flecainide",
+    "Oral sotalol",
+    "IV adenosine"
+   ],
+   "answer": 0,
+   "explanation": "Torsades de pointes with drug-induced long QT: stop the culprit drugs, correct electrolytes and give **IV magnesium** (Davidson's: 8 mmol over 15 min then 72 mmol over 24 h) **even if serum Mg is normal**. Pacing or isoprenaline follow if needed.",
+   "whyNot": [
+    "",
+    "Amiodarone (class III) further prolongs QT.",
+    "Class Ic drugs are proarrhythmic and not used for torsades.",
+    "Sotalol prolongs QT and can itself cause torsades.",
+    "Adenosine has no effect on VT."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-arrhythmias.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 498,
+     "page": 476
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 37,
+     "page": 37
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 504,
+     "page": 482
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 59-year-old man with moderate–severe rheumatic mitral stenosis develops AF. He has no other medical history.",
+   "leadIn": "What is the most appropriate stroke-prevention strategy?",
+   "options": [
+    "Oral anticoagulation regardless of his CHA₂DS₂-VASc score",
+    "No antithrombotic therapy because his CHA₂DS₂-VASc score is 0",
+    "Aspirin 75 mg daily",
+    "Anticoagulation only if episodes last more than 48 hours",
+    "Decide using the HAS-BLED score alone"
+   ],
+   "answer": 0,
+   "explanation": "AF due to **mitral valve disease** (valvular AF) carries such a high embolic risk that it is **always anticoagulated** — CHA₂DS₂-VASc applies to non-valvular AF. Warfarin (INR 2.0–3.0) is used for valvular AF.",
+   "whyNot": [
+    "",
+    "CHA₂DS₂-VASc is for non-valvular AF; mitral disease overrides it.",
+    "Aspirin should not be used for stroke prevention in AF.",
+    "Stroke prevention does not depend on episode duration or AF type.",
+    "HAS-BLED estimates bleeding risk; it guides monitoring, not whether to anticoagulate."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-arrhythmias.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 494,
+     "page": 472
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 114,
+     "page": 114
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 70,
+     "page": 70
+    },
+    {
+     "book": "goldberger",
+     "pdfPage": 167,
+     "page": 153
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 117,
+     "page": 117
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q24",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 3,
+   "stem": "A 64-year-old man is admitted with an extensive anterior STEMI. Twelve hours later his pulse falls to 34/min. ECG: P waves at 90/min unrelated to broad QRS complexes at 34/min. BP 94/60 mmHg.",
+   "leadIn": "What is the most appropriate management?",
+   "options": [
+    "Prompt temporary transvenous pacing",
+    "Observation, as this block is usually transient",
+    "Oral bisoprolol",
+    "IV adenosine",
+    "IV verapamil"
+   ],
+   "answer": 0,
+   "explanation": "Complete heart block with a **broad, slow escape** complicating **anterior MI** indicates extensive septal necrosis, a poor prognosis and an unreliable escape — it needs **prompt temporary pacing** (permanent pacing if it persists). In inferior MI block is usually transient and narrow-complex.",
+   "whyNot": [
+    "",
+    "Transient, benign block is typical of inferior, not anterior, MI.",
+    "Beta-blockade would slow the escape rhythm further.",
+    "Adenosine increases AV block.",
+    "Verapamil depresses AV conduction and would worsen the block."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-arrhythmias.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 500,
+     "page": 478
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 38,
+     "page": 38
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q25",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can be the answer for several patients, or for none.",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Long-term management of arrhythmias",
+   "options": [
+    "No treatment; reassurance",
+    "Permanent pacemaker",
+    "Implantable cardioverter-defibrillator",
+    "Catheter ablation of an accessory pathway",
+    "Pulmonary vein isolation",
+    "Pacemaker then AV-node ablation",
+    "Oral beta-blocker",
+    "Oral amiodarone",
+    "Oral flecainide with a beta-blocker",
+    "Oral dronedarone",
+    "Cavotricuspid isthmus ablation",
+    "Lifelong DOAC alone"
+   ],
+   "items": [
+    {
+     "stem": "A 57-year-old man has an incidental ECG showing a constant PR interval with occasional sudden non-conducted P waves and a broad QRS. He has no symptoms.",
+     "answer": 1,
+     "explanation": "**Mobitz II** is His–Purkinje disease with a risk of asystole; pacing improves prognosis even when asymptomatic.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s5"
+     }
+    },
+    {
+     "stem": "A 62-year-old man, 2 months after an MI and on optimal medical therapy, has an LVEF of 25%.",
+     "answer": 2,
+     "explanation": "Primary prevention: post-MI **LVEF <30%** → **ICD**.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s8"
+     }
+    },
+    {
+     "stem": "A 25-year-old woman with a short PR and delta waves has had two episodes of rapid palpitations with near-syncope.",
+     "answer": 3,
+     "explanation": "**Symptomatic WPW** → accessory pathway ablation first line (~95% success) because of the sudden-death risk.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s9"
+     }
+    },
+    {
+     "stem": "A 25-year-old rower has an ECG showing PR 0.24 s with every P wave conducted. He is asymptomatic.",
+     "answer": 0,
+     "explanation": "**First-degree AV block** is benign and needs no treatment.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 499,
+     "page": 477
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 500,
+     "page": 478
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 505,
+     "page": 483
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Cardiology",
+     "pdfPage": 1075,
+     "page": 1059
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 496,
+     "page": 474
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q26",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 72-year-old man with a mechanical mitral valve is stable on warfarin with an INR of 3.0. He is started on oral amiodarone for recurrent VT. Two weeks later he has gum bleeding and his INR is 6.8.",
+   "leadIn": "What is the most likely explanation?",
+   "options": [
+    "Amiodarone potentiating warfarin",
+    "Amiodarone-induced hypothyroidism",
+    "Amiodarone-induced pulmonary alveolitis",
+    "Thrombocytopenia from the mechanical valve",
+    "Reduced vitamin K absorption due to diarrhoea"
+   ],
+   "answer": 0,
+   "explanation": "Amiodarone **potentiates warfarin** (and raises digoxin levels), so the INR rises within weeks of starting it. The warfarin dose needs reducing and the INR monitoring increasing.",
+   "whyNot": [
+    "",
+    "Hypothyroidism does not raise the INR this quickly; thyroid effects come later.",
+    "Lung toxicity (alveolitis) causes breathlessness, not over-anticoagulation.",
+    "A mechanical valve does not cause thrombocytopenia or a raised INR.",
+    "No history of diarrhoea is given; the drug interaction is the clear cause."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-arrhythmias.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 502,
+     "page": 480
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q27",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can be the answer for several patients, or for none.",
+   "pool": "mock",
+   "difficulty": 2,
+   "theme": "Acute management of life-threatening arrhythmias",
+   "options": [
+    "Synchronised DC cardioversion",
+    "Unsynchronised defibrillation",
+    "IV amiodarone",
+    "IV lidocaine",
+    "IV magnesium sulfate",
+    "IV atropine",
+    "Temporary transvenous pacing",
+    "Isoprenaline infusion",
+    "IV adenosine",
+    "IV verapamil",
+    "Observation only"
+   ],
+   "items": [
+    {
+     "stem": "A 70-year-old man collapses on the ward. He is unresponsive and pulseless. The monitor shows chaotic irregular deflections with no recognisable QRS complexes.",
+     "answer": 1,
+     "explanation": "**VF** is a shockable arrest rhythm → immediate **unsynchronised defibrillation** (150 J biphasic, then up to 200 J) and CPR.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s4"
+     }
+    },
+    {
+     "stem": "A 66-year-old woman with prior MI has a regular broad-complex tachycardia at 190/min. She is clammy and confused, BP 78/42 mmHg.",
+     "answer": 0,
+     "explanation": "VT with a pulse but **haemodynamic compromise** (systolic <90) → **synchronised** DC cardioversion.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s4"
+     }
+    },
+    {
+     "stem": "A 59-year-old man with ischaemic cardiomyopathy has monomorphic VT at 150/min. He is alert with BP 126/80 mmHg.",
+     "answer": 2,
+     "explanation": "Stable VT → **IV amiodarone** bolus then infusion; correct electrolytes.",
+     "studyRef": {
+      "sectionId": "cardio-arrhythmias.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 497,
+     "page": 475
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 504,
+     "page": 482
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 84,
+     "page": 84
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 34,
+     "page": 34
+    }
+   ]
+  },
+  {
+   "id": "cardio-arrhythmias.q28",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 3,
+   "stem": "A 74-year-old man who had an ischaemic stroke last year has a regular narrow-complex tachycardia at 180/min. Vagal manoeuvres fail and IV adenosine is planned. The registrar first checks his regular medicines.",
+   "leadIn": "Which of his medicines will most greatly increase the effect of adenosine?",
+   "options": [
+    "Theophylline",
+    "Dipyridamole",
+    "Bisoprolol",
+    "Amlodipine",
+    "Atorvastatin"
+   ],
+   "answer": 1,
+   "explanation": "**Dipyridamole** (often given after an ischaemic stroke) greatly **potentiates** adenosine, so the AV block it causes is exaggerated and prolonged. Theophylline and other xanthines do the opposite: they **inhibit** adenosine. Adenosine should also be avoided in asthma because it causes bronchospasm.",
+   "whyNot": [
+    "Theophylline (a xanthine) inhibits adenosine, so it reduces rather than increases the response.",
+    "",
+    "Beta-blockers have no listed interaction with adenosine.",
+    "Amlodipine is a dihydropyridine with no listed adenosine interaction.",
+    "Statins do not interact with adenosine."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-arrhythmias.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Cardiology",
+     "pdfPage": 504,
+     "page": 482
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "cardio-arrhythmias.o1",
+   "sectionId": "cardio-arrhythmias.s7",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Cardiology",
+    "pdfPage": 493,
+    "page": 471,
+    "figure": "Fig. 16.37"
+   },
+   "identify": "Atrial fibrillation: irregularly irregular narrow QRS, absent P waves, fibrillatory baseline"
+  },
+  {
+   "id": "cardio-arrhythmias.o2",
+   "sectionId": "cardio-arrhythmias.s7",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Cardiology",
+    "pdfPage": 492,
+    "page": 470,
+    "figure": "Fig. 16.34"
+   },
+   "identify": "Atrial flutter with 4:1 AV block: sawtooth flutter waves (clearest in II and III), ventricular rate ~75/min"
+  },
+  {
+   "id": "cardio-arrhythmias.o3",
+   "sectionId": "cardio-arrhythmias.s3",
+   "cite": {
+    "book": "goldberger",
+    "pdfPage": 199,
+    "page": 185,
+    "figure": "Fig. 18.3"
+   },
+   "identify": "Wolff–Parkinson–White pattern: short PR, delta waves, broad QRS; inferior negative delta waves mimic old inferior MI"
+  },
+  {
+   "id": "cardio-arrhythmias.o4",
+   "sectionId": "cardio-arrhythmias.s4",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Cardiology",
+    "pdfPage": 497,
+    "page": 475,
+    "figure": "Fig. 16.41"
+   },
+   "identify": "Ventricular tachycardia: broad-complex tachycardia with a fusion beat, proving AV dissociation"
+  },
+  {
+   "id": "cardio-arrhythmias.o5",
+   "sectionId": "cardio-arrhythmias.s4",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Cardiology",
+    "pdfPage": 498,
+    "page": 476,
+    "figure": "Fig. 16.43"
+   },
+   "identify": "Torsades de pointes: long QT and bradycardia, then an R-on-T ectopic starting polymorphic VT with a twisting axis"
+  },
+  {
+   "id": "cardio-arrhythmias.o6",
+   "sectionId": "cardio-arrhythmias.s5",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Cardiology",
+    "pdfPage": 499,
+    "page": 477,
+    "figure": "Fig. 16.44-16.46"
+   },
+   "identify": "AV block: first degree (PR 0.26 s), Mobitz I Wenckebach (progressive PR lengthening, dropped beat), Mobitz II (constant PR, dropped P)"
+  },
+  {
+   "id": "cardio-arrhythmias.o7",
+   "sectionId": "cardio-arrhythmias.s5",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Cardiology",
+    "pdfPage": 500,
+    "page": 478,
+    "figure": "Fig. 16.49"
+   },
+   "identify": "Right bundle branch block: QRS ≥0.12 s, M-shaped complex in V1–V2, wide S in lead I"
+  },
+  {
+   "id": "cardio-arrhythmias.o8",
+   "sectionId": "cardio-arrhythmias.s4",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Cardiology",
+    "pdfPage": 1080,
+    "page": 1064,
+    "figure": "Fig. 30.49"
+   },
+   "identify": "Brugada syndrome: RBBB-like pattern with coved ST elevation in V1–V3"
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:47:58.922Z",
+  "contentHash": "85c6b21da731f28555a1c6d50dc6afd6198904dc02162e57ea28089e98f481c5"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:47:58.932Z",
+  "contentHash": "85c6b21da731f28555a1c6d50dc6afd6198904dc02162e57ea28089e98f481c5",
+  "checkerVersion": "source-check-v1"
+ }
+}

@@ -17,7 +17,7 @@ import {
 import type { Capabilities, ContentInfo } from '@shared/engine/status'
 import { logError } from './log'
 
-/** Features this app version has (docs/05 §3 capabilities). Bump as releases add features. */
+/** Features this app version has (docs/05 §3 capabilities). All shipped as of v0.5.0. */
 export const CAPABILITIES: Capabilities = {
   quizzes: true,
   practice: true,

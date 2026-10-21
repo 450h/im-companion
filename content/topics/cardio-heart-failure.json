@@ -1,0 +1,3890 @@
+{
+ "topicId": "cardio-heart-failure",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "cardio-heart-failure.s1",
+   "title": "Definition, cardiac physiology & types of heart failure",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Heart failure (HF) is a **clinical syndrome**: the heart cannot keep up an adequate output, or manages it only by running **raised ventricular filling pressures**. In milder disease symptoms appear only when demand rises (exercise, stress); in severe disease they are present **at rest**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 483,
+       "page": 461,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 473,
+       "page": 436
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "What sets cardiac output",
+     "items": [
+      "**Preload**: the end-diastolic volume and pressure in the ventricle (how much it is stretched before it contracts).",
+      "**Afterload**: the load the ventricle has to eject against during systole.",
+      "**Contractility**: the intrinsic force of the myocardium; raised by sympathetic (mainly β1) drive. At rest vagal tone dominates.",
+      "**Frank–Starling law**: stroke volume climbs as diastolic filling rises, but only up to a point; an over-stretched ventricle loses performance.",
+      "In HF the Starling curve is **shifted right and flattened**, so extra filling adds little output; a positive inotrope or afterload reduction moves the curve **up and to the left**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 483,
+       "page": 461,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1041,
+       "page": 1025,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 475,
+       "page": 438,
+       "figure": "Fig. 10.14"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "At the myocyte level, calcium entering during the action-potential plateau triggers further release from the sarcoplasmic reticulum; calcium binds troponin and lets actin and myosin interact. The large heart of HF is due to **slippage of myofibrils**, not to longer sarcomeres.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 468,
+       "page": 446,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Compensation that becomes a vicious circle",
+     "items": [
+      "A failing ventricle (systolic or diastolic dysfunction) lowers output, which switches on the **sympathetic nervous system (SNS)** and **renin–angiotensin–aldosterone system (RAAS)**.",
+      "**Angiotensin II** constricts arterioles and, with aldosterone, retains salt and water, so both afterload and preload rise.",
+      "Chronic sympathetic drive causes myocyte apoptosis, hypertrophy, focal necrosis and **arrhythmias**.",
+      "**Endothelin-1** and, in severe HF, **vasopressin (ADH)** add vasoconstriction and water retention.",
+      "**Natriuretic peptides** (ANP from stretched atria, BNP from ventricles) promote natriuresis and vasodilatation but are overwhelmed in HF.",
+      "Ongoing **remodelling** (hypertrophy, myocyte loss, interstitial fibrosis) makes pump failure progressive."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 483,
+       "page": 461,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 484,
+       "page": 462,
+       "chapter": "Cardiology",
+       "figure": "Fig. 16.25"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 474,
+       "page": 437
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 475,
+       "page": 438
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1087,
+       "page": 1071,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Laplace relationship:** wall tension is proportional to intraventricular pressure × chamber radius. A dilated ventricle therefore needs more wall tension (and oxygen) to generate the same pressure, so dilatation and raised afterload feed each other.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1086,
+       "page": 1070,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 475,
+       "page": 438
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Classification by left ventricular ejection fraction (LVEF)",
+     "columns": [
+      "Type",
+      "LVEF",
+      "Key features"
+     ],
+     "rows": [
+      [
+       "HF with reduced EF (HFrEF, systolic)",
+       "< 40%",
+       "Impaired contraction, often ischaemic; the only group in which drugs are proven to cut mortality"
+      ],
+      [
+       "HF with mid-range EF (HFmrEF)",
+       "40–50%",
+       "Grey zone between the two"
+      ],
+      [
+       "HF with preserved EF (HFpEF, diastolic)",
+       "> 50%",
+       "Stiff, poorly relaxing ventricle; thick LV wall and big left atrium with near-normal LV volume; typical in elderly hypertensives"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1087,
+       "page": 1071,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1088,
+       "page": 1072,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 52,
+       "page": 52
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Epidemiology & outlook:** prevalence rises from about 1% at 50–59 years to over 10% at 80–89 years. Without treatment, about **half of patients with severe HF due to LV dysfunction die within 2 years**, from pump failure or malignant ventricular arrhythmia.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 483,
+       "page": 461,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 483,
+      "page": 461,
+      "chapter": "Cardiology",
+      "figure": "Fig. 16.24"
+     },
+     "note": "Look at: Starling curves A–D. Failing hearts sit on lower, flatter curves; the arrow shows the up-and-left shift with better contractility or lower afterload."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 484,
+      "page": 462,
+      "chapter": "Cardiology",
+      "figure": "Fig. 16.25"
+     },
+     "note": "Look at: the loop of SNS, RAAS, vasopressin and endothelin activation leading to vasoconstriction, fluid retention and more cardiac work."
+    },
+    {
+     "type": "pearl",
+     "text": "Systolic and diastolic dysfunction often **coexist**, especially in coronary disease. Effort symptoms come first because the failing heart copes almost normally at rest but cannot raise contractility enough on exertion.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 483,
+       "page": 461,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 48,
+       "page": 48
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**EF cut-offs differ between books.** Davidson gives none; Kumar & Clark and Step-Up use < 40% (HFrEF) and > 50% (HFpEF); Kumar & Clark Essentials takes EF < 0.45 as systolic dysfunction. For exams, quote the < 40 / 40–50 / > 50% scheme.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1087,
+       "page": 1071,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 52,
+       "page": 52
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 478,
+       "page": 441
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 17,
+       "page": 17
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.s2",
+   "title": "Causes of left-sided heart failure & precipitants",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Left HF** = low LV output with raised left atrial and pulmonary venous pressure. A **sudden** rise in LA pressure (e.g. acute MI) floods the lungs → **pulmonary oedema**. A **gradual** rise (e.g. mitral stenosis) triggers reflex pulmonary vasoconstriction, which protects the lungs but leads to pulmonary hypertension and later RV failure.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 483,
+       "page": 461,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Mechanisms of left heart failure",
+     "columns": [
+      "Mechanism",
+      "Examples",
+      "What happens"
+     ],
+     "rows": [
+      [
+       "Reduced contractility",
+       "MI (segmental); myocarditis or cardiomyopathy (global)",
+       "Akinetic or dyskinetic segments; progressive dilatation"
+      ],
+      [
+       "Outflow obstruction (pressure overload)",
+       "Hypertension, aortic stenosis",
+       "Concentric hypertrophy first, then dilatation and rapid decline"
+      ],
+      [
+       "Inflow obstruction",
+       "Mitral stenosis",
+       "Small vigorous LV, big atrium; onset of AF causes marked worsening"
+      ],
+      [
+       "Volume overload",
+       "Mitral or aortic regurgitation, VSD",
+       "Dilatation keeps stroke volume up until the myocardium fails"
+      ],
+      [
+       "Arrhythmia",
+       "AF, prolonged tachycardia, complete heart block",
+       "Poor filling, myocardial fatigue, or too slow a rate"
+      ],
+      [
+       "Diastolic dysfunction",
+       "LVH and fibrosis, restrictive cardiomyopathy, constrictive pericarditis, tamponade",
+       "Good contraction but poor filling"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 484,
+       "page": 462,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Commonest cause of HF: coronary artery disease / MI.** Kumar & Clark's big three are ischaemic heart disease, dilated cardiomyopathy and hypertension (hypertension is the leading cause in Africa).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 483,
+       "page": 461,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 473,
+       "page": 436
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 474,
+       "page": 437
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other causes worth remembering",
+     "items": [
+      "**Toxins & drugs:** alcohol, cocaine, methamphetamine, anthracyclines (doxorubicin), trastuzumab, imatinib.",
+      "**Infiltration:** amyloidosis, sarcoidosis, haemochromatosis.",
+      "**Infection/inflammation:** myocarditis, Chagas disease, HIV.",
+      "**Others:** peripartum cardiomyopathy, radiation, thyroid disease, valvular and congenital heart disease (ASD, VSD), pericardial disease."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1085,
+       "page": 1069,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 474,
+       "page": 437
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 49,
+       "page": 49
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "HFpEF vs high-output failure",
+     "columns": [
+      "Pattern",
+      "Causes"
+     ],
+     "rows": [
+      [
+       "HFpEF (diastolic)",
+       "Hypertension with LVH (commonest); aortic stenosis; restrictive cardiomyopathy (early amyloid, sarcoid, haemochromatosis)"
+      ],
+      [
+       "High-output failure (warm peripheries)",
+       "Severe anaemia, thyrotoxicosis, large AV fistula/shunt, wet beriberi (thiamine deficiency), Paget disease, pregnancy; these tip a diseased heart into failure quickly"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 50,
+       "page": 50
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 52,
+       "page": 52
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 485,
+       "page": 463,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 481,
+       "page": 444
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Precipitants of decompensation in known heart disease",
+     "items": [
+      "Myocardial ischaemia or infarction; arrhythmia (e.g. new AF).",
+      "Intercurrent illness such as infection or sepsis; pulmonary embolism.",
+      "Stopping or cutting down treatment (e.g. diuretics).",
+      "Drugs: negative inotropes (β-blocker started at full dose) or fluid retainers (**NSAIDs**, glucocorticoids).",
+      "High-demand states: pregnancy, thyrotoxicosis, anaemia.",
+      "**IV fluid overload**, classically in a frail patient with a poor LV."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 485,
+       "page": 463,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 16,
+       "page": 16
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 489,
+       "page": 467
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Always look for the **trigger** of an acute decompensation (e.g. a recent NSAID, an infection, new AF, stopped diuretics). Treating the precipitant is as important as treating the congestion.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 485,
+       "page": 463,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 16,
+       "page": 16
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.s3",
+   "title": "Causes of right-sided heart failure & cor pulmonale",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Right HF** = low RV output with raised right atrial and systemic venous pressure. Davidson names **chronic lung disease, pulmonary embolism and pulmonary valve stenosis** as the commonest causes of isolated right HF.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 483,
+       "page": 461,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Mechanisms of right heart failure",
+     "columns": [
+      "Mechanism",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Pressure overload",
+       "Pulmonary hypertension (primary, or secondary to lung disease, PE or left heart disease); pulmonary valve stenosis"
+      ],
+      [
+       "Volume overload",
+       "Atrial septal defect"
+      ],
+      [
+       "Inflow obstruction",
+       "Tricuspid stenosis"
+      ],
+      [
+       "Myocardial disease",
+       "RV infarction, arrhythmogenic RV cardiomyopathy"
+      ],
+      [
+       "Other",
+       "Adult congenital heart disease; chronic left-sided disease (biventricular failure)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 484,
+       "page": 462,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1088,
+       "page": 1072,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 54,
+       "page": 54
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 476,
+       "page": 439
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Cor pulmonale** is right HF caused by lung disease: pulmonary hypertension makes RV emptying fail, and pressure backs up into the RA, venae cavae and systemic veins. Causes: **COPD (commonest)**, PE, interstitial lung disease, cystic fibrosis, primary pulmonary hypertension. Treat the underlying cause and the congestion; long-term oxygen is often used. Outlook is poor unless the cause is reversible.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 483,
+       "page": 461,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 21,
+       "page": 21
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Biventricular failure** arises when one disease hits both ventricles (dilated cardiomyopathy, ischaemic heart disease), or when chronically raised LA pressure causes pulmonary hypertension and secondary right HF.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 483,
+       "page": 461,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Mitral stenosis is the classic route from left heart disease to **right** HF: the slow rise in LA pressure provokes pulmonary vasoconstriction, so the patient may show ascites and oedema more than pulmonary oedema.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 483,
+       "page": 461,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Books differ on the commonest cause.** Davidson lists lung disease, PE and pulmonary stenosis for right HF, while Step-Up stresses that long-standing **left HF** is the most frequent cause overall, so many patients show both sets of features. In an exam, a patient with prior LV failure and new systemic congestion has biventricular failure, not cor pulmonale.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 483,
+       "page": 461,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 54,
+       "page": 54
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.s4",
+   "title": "Symptoms, signs & complications",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Left vs right heart failure",
+     "columns": [
+      "Feature",
+      "Left HF (pulmonary congestion)",
+      "Right HF (systemic congestion)"
+     ],
+     "rows": [
+      [
+       "Symptoms",
+       "Exertional dyspnoea, orthopnoea, PND, dry nocturnal cough, fatigue; confusion in advanced disease",
+       "Ankle swelling, abdominal swelling, nocturia, fatigue"
+      ],
+      [
+       "Signs",
+       "Tachycardia, bibasal inspiratory crackles, S3 gallop, pleural effusions, cardiomegaly; JVP only modestly raised",
+       "JVP markedly raised, tender hepatomegaly (pulsatile with TR), hepatojugular reflux, ascites, dependent pitting oedema; RV heave and loud P2 if pulmonary hypertension"
+      ],
+      [
+       "Low-output features",
+       "Cold peripheries, low BP, oliguria and uraemia, muscle fatigue",
+       "Same"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 485,
+       "page": 463,
+       "chapter": "Cardiology",
+       "figure": "Fig. 16.26"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 476,
+       "page": 439
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 53,
+       "page": 53
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 54,
+       "page": 54
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 21,
+       "page": 21
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Acute left heart failure at the bedside",
+     "items": [
+      "Sudden **breathlessness at rest**, orthopnoea and distress; often an obvious trigger such as acute MI.",
+      "Pale, clammy, **cool peripheries**, tachycardia; type 1 respiratory failure with low SpO2.",
+      "**BP usually high** (sympathetic surge) unless the patient is in cardiogenic shock.",
+      "**Apex not displaced**: the ventricle has had no time to dilate.",
+      "**S3 gallop** early; crackles at the bases or throughout the lungs, sometimes wheeze; frothy white or pink sputum."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 485,
+       "page": 463,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 16,
+       "page": 16
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "A **new systolic murmur** with acute pulmonary oedema after MI points to **acute mitral regurgitation** or **ventricular septal rupture**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 485,
+       "page": 463,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Heart sounds, pulse and nocturnal symptoms",
+     "items": [
+      "**S3** (ventricular gallop, after S2, best at the apex with the bell): rapid filling of a non-compliant ventricle; normal in children and young people, but one of the most specific signs of HF in adults.",
+      "**S4** (before S1): atrial contraction into a stiff ventricle, e.g. LVH.",
+      "**Pulsus alternans**: regular rhythm with alternately strong and weak beats; marks severe LV failure and a very poor outlook; easiest to detect while taking the BP.",
+      "**PND**: wakes 1–2 h after falling asleep, breathless and coughing, eased by sitting up or standing over minutes. Lung fluid spreads when supine, the respiratory centre is less responsive in sleep and adrenergic drive falls.",
+      "In bed-bound patients dependent oedema collects over the **sacrum and thighs** rather than the ankles."
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 53,
+       "page": 53
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 54,
+       "page": 54
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1046,
+       "page": 1030,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 19,
+       "page": 19
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 485,
+       "page": 463,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "NYHA functional classes",
+     "columns": [
+      "Class",
+      "Limitation"
+     ],
+     "rows": [
+      [
+       "I",
+       "None during ordinary activity"
+      ],
+      [
+       "II",
+       "Slight: comfortable at rest, ordinary activity brings symptoms"
+      ],
+      [
+       "III",
+       "Marked: comfortable at rest, less than ordinary activity brings symptoms"
+      ],
+      [
+       "IV",
+       "Symptoms with any activity and possibly at rest"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 476,
+       "page": 454,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1088,
+       "page": 1072,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 476,
+       "page": 439
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Complications of advanced HF",
+     "items": [
+      "**Renal impairment**: low output, worsened by diuretics, ACE inhibitors and ARBs.",
+      "**Hypokalaemia** (loop/thiazide diuretics, hyperaldosteronism) or **hyperkalaemia** (ACE inhibitor/ARB/MRA, especially with renal dysfunction).",
+      "**Hyponatraemia**: diuretics and vasopressin excess; a **poor prognostic sign**.",
+      "Congested liver: mild jaundice, abnormal LFTs, unstable anticoagulation.",
+      "Thromboembolism: DVT/PE, and systemic emboli with AF, mural thrombus or LV aneurysm.",
+      "Arrhythmias: **AF in about 20%**; ventricular ectopics and non-sustained VT carry a bad prognosis.",
+      "**Sudden death in up to 50%**, most likely from VF; cardiac cachexia in chronic disease."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 486,
+       "page": 464,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 485,
+      "page": 463,
+      "chapter": "Cardiology",
+      "figure": "Fig. 16.26"
+     },
+     "note": "Look at: left HF (pulmonary oedema, effusions, cardiomegaly, JVP +/++) compared with right HF (JVP +++, hepatomegaly, ascites, marked pitting oedema)."
+    },
+    {
+     "type": "pitfall",
+     "text": "**Oedema is not always cardiac.** Consider chronic venous insufficiency, hypoalbuminaemia (nephrotic syndrome, liver disease, protein-losing enteropathy; may involve face and arms), drugs (fludrocortisone and NSAIDs retain sodium; nifedipine and amlodipine raise capillary permeability), idiopathic oedema (women) and lymphatic obstruction. In older people, isolated ankle oedema is more often from venous insufficiency than from heart failure.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 485,
+       "page": 463,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 54,
+       "page": 54
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.s5",
+   "title": "Investigations",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 300\" role=\"img\" aria-label=\"Diagnostic pathway for suspected heart failure\">\n<rect x=\"0\" y=\"0\" width=\"480\" height=\"300\" fill=\"#ffffff\"/>\n<rect x=\"130\" y=\"10\" width=\"220\" height=\"40\" rx=\"6\" fill=\"#eef2f7\" stroke=\"#334155\" stroke-width=\"1.5\"/>\n<text x=\"240\" y=\"35\" font-size=\"13\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111827\">Suspected heart failure</text>\n<line x1=\"240\" y1=\"50\" x2=\"240\" y2=\"72\" stroke=\"#334155\" stroke-width=\"1.5\"/>\n<polygon points=\"234,70 246,70 240,78\" fill=\"#334155\"/>\n<rect x=\"100\" y=\"78\" width=\"280\" height=\"44\" rx=\"6\" fill=\"#eef2f7\" stroke=\"#334155\" stroke-width=\"1.5\"/>\n<text x=\"240\" y=\"98\" font-size=\"13\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111827\">ECG + chest X-ray +</text>\n<text x=\"240\" y=\"114\" font-size=\"13\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111827\">BNP or NT-proBNP</text>\n<line x1=\"180\" y1=\"122\" x2=\"110\" y2=\"152\" stroke=\"#334155\" stroke-width=\"1.5\"/>\n<polygon points=\"104,146 114,156 102,158\" fill=\"#334155\"/>\n<line x1=\"300\" y1=\"122\" x2=\"370\" y2=\"152\" stroke=\"#334155\" stroke-width=\"1.5\"/>\n<polygon points=\"366,156 376,146 378,158\" fill=\"#334155\"/>\n<text x=\"120\" y=\"138\" font-size=\"11\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#374151\">all normal</text>\n<text x=\"362\" y=\"138\" font-size=\"11\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#374151\">any abnormal</text>\n<rect x=\"10\" y=\"158\" width=\"200\" height=\"50\" rx=\"6\" fill=\"#f3f4f6\" stroke=\"#334155\" stroke-width=\"1.5\"/>\n<text x=\"110\" y=\"179\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111827\">HF unlikely:</text>\n<text x=\"110\" y=\"196\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111827\">look for another cause</text>\n<rect x=\"270\" y=\"158\" width=\"200\" height=\"50\" rx=\"6\" fill=\"#e0ecff\" stroke=\"#334155\" stroke-width=\"1.5\"/>\n<text x=\"370\" y=\"179\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111827\">Transthoracic</text>\n<text x=\"370\" y=\"196\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111827\">echocardiogram</text>\n<line x1=\"370\" y1=\"208\" x2=\"370\" y2=\"228\" stroke=\"#334155\" stroke-width=\"1.5\"/>\n<polygon points=\"364,226 376,226 370,234\" fill=\"#334155\"/>\n<rect x=\"250\" y=\"234\" width=\"220\" height=\"58\" rx=\"6\" fill=\"#e0ecff\" stroke=\"#334155\" stroke-width=\"1.5\"/>\n<text x=\"360\" y=\"254\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111827\">HF confirmed: define type (EF),</text>\n<text x=\"360\" y=\"270\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111827\">cause, precipitants</text>\n<text x=\"360\" y=\"286\" font-size=\"12\" font-family=\"sans-serif\" text-anchor=\"middle\" fill=\"#111827\">and severity</text>\n</svg>",
+     "alt": "Algorithm: suspected heart failure, then ECG, chest X-ray and natriuretic peptide. If all normal, HF is unlikely. If any is abnormal, do an echocardiogram; if HF is confirmed, define its type, cause, precipitants and severity.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1088,
+       "page": 1072,
+       "chapter": "Cardiology",
+       "figure": "Fig. 30.56"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 477,
+       "page": 440,
+       "figure": "Fig. 10.15"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Chest X-ray: the order in which changes appear",
+     "columns": [
+      "Stage",
+      "Finding"
+     ],
+     "rows": [
+      [
+       "Raised pulmonary venous pressure",
+       "Upper lobe venous diversion (prominent upper lobe veins on an erect film); dilated pulmonary arteries and enlarged hila"
+      ],
+      [
+       "Interstitial oedema",
+       "**Kerley B lines**: short horizontal lines at the costophrenic angles from thickened septa and dilated lymphatics; fluid in the fissures"
+      ],
+      [
+       "Alveolar oedema",
+       "Hazy opacification spreading out from the hila; pleural effusions"
+      ],
+      [
+       "Chronic HF",
+       "Cardiomegaly: cardiothoracic ratio > 0.5"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 486,
+       "page": 464,
+       "chapter": "Cardiology",
+       "figure": "Fig. 16.27"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 17,
+       "page": 17
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Natriuretic peptides",
+     "items": [
+      "**BNP** is released mainly by ventricular myocytes under wall stress; **NT-proBNP** is the inactive fragment cut from proBNP. Both rise with severity and predict events and death.",
+      "A **normal BNP (< 100 pg/mL)** or normal NT-proBNP makes HF very unlikely; Step-Up quotes NT-proBNP < 300 as virtually excluding it.",
+      "**Sensitive but not specific**: also raised by tachycardia, sepsis, PE, renal impairment and COPD. May be falsely low in obesity.",
+      "Helps separate cardiac from respiratory breathlessness. NICE-based teaching: NT-proBNP > 2000 ng/L warrants urgent specialist referral."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1087,
+       "page": 1071,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 478,
+       "page": 441
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 55,
+       "page": 55
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 17,
+       "page": 17
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 20,
+       "page": 20
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 486,
+       "page": 464,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Echocardiography",
+     "items": [
+      "Do it in **every** new HF patient; transthoracic echo is the initial test of choice.",
+      "Measures EF, systolic and diastolic function and regional wall motion; shows chamber sizes and valves (e.g. **occult mitral stenosis**).",
+      "Establishes the cause and identifies who will benefit from long-term drug therapy."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 486,
+       "page": 464,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 478,
+       "page": 441
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 55,
+       "page": 55
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Bloods, ECG and further tests",
+     "items": [
+      "**FBC** (anaemia), **U&E/creatinine** (baseline before diuretics and ACE inhibitors), LFTs (congestion), glucose, **TFTs** (elderly or AF).",
+      "Acute presentations add **troponin**, CRP and **D-dimer** (PE).",
+      "**ECG**: ischaemia or old MI, LVH, arrhythmia (AF).",
+      "Viability (**hibernating myocardium**): stress echo, cardiac MRI, nuclear/PET imaging; catheterisation for ischaemic cause and pressures.",
+      "Cardiopulmonary exercise testing (peak VO2) and Holter monitoring help with prognosis and ICD decisions."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 486,
+       "page": 464,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 477,
+       "page": 440
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 478,
+       "page": 441
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1088,
+       "page": 1072,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1093,
+       "page": 1077,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1089,
+       "page": 1073
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Acute HF presentations (ESC):** acute decompensation of chronic HF; hypertensive acute HF; **acute pulmonary oedema** (SpO2 < 90% on air); **cardiogenic shock** (SBP < 90 mmHg or MAP fall > 30 mmHg with low urine output and cold peripheries); high-output failure (warm peripheries); and right HF (raised JVP, hepatomegaly, hypotension).",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1093,
+       "page": 1077,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 481,
+       "page": 444
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 486,
+      "page": 464,
+      "chapter": "Cardiology",
+      "figure": "Fig. 16.27"
+     },
+     "note": "Look at: upper lobe vessel prominence, big hila, reticular alveolar shadowing, enlarged heart; the inset magnifies Kerley B lines at the lung base."
+    },
+    {
+     "type": "pitfall",
+     "text": "In **acute LVF, treat first**: do not wait for a BNP result or an echo before giving oxygen and diuretic.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 17,
+       "page": 17
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.s6",
+   "title": "Management of acute heart failure & pulmonary oedema",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Acute pulmonary oedema: first-line measures (Davidson)",
+     "columns": [
+      "Action",
+      "Detail",
+      "Why"
+     ],
+     "rows": [
+      [
+       "Sit the patient up",
+       "Upright position",
+       "Lowers preload"
+      ],
+      [
+       "High-flow oxygen",
+       "Titrate to saturations; care in COPD",
+       "Corrects hypoxia"
+      ],
+      [
+       "CPAP",
+       "5–10 mmHg by tight-fitting mask",
+       "Lowers preload and the pulmonary capillary hydrostatic gradient"
+      ],
+      [
+       "Nitrates",
+       "IV GTN 10–200 μg/min or buccal GTN 2–5 mg; increase every 10 min until better or SBP < 110 mmHg",
+       "Lowers preload and afterload"
+      ],
+      [
+       "Loop diuretic",
+       "IV furosemide 50–100 mg",
+       "Removes fluid; IV dosing also venodilates"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 487,
+       "page": 465,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 480,
+       "page": 443
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 18,
+       "page": 18
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Escalation and supportive care",
+     "items": [
+      "Stop any running IV fluids; monitor rhythm, BP, oximetry, fluid balance and daily weight.",
+      "**Opiates** only sparingly in distressed patients: they can depress breathing and worsen hypoxaemia and hypercapnia.",
+      "Refractory cases, especially with hypotension: **dobutamine 2.5–10 μg/kg/min**.",
+      "**Intra-aortic balloon pump** for cardiogenic pulmonary oedema with shock; ventricular assist devices if recovery is expected.",
+      "Inpatients need **prophylactic anticoagulation** (e.g. enoxaparin).",
+      "After the acute episode, start long-term therapy and treat the precipitant."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 487,
+       "page": 465,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 18,
+       "page": 18
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 481,
+       "page": 444
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1091,
+       "page": 1075,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Acute systolic HF: choose by systolic BP (after O2 ± CPAP and IV furosemide)",
+     "columns": [
+      "Systolic BP",
+      "Next step"
+     ],
+     "rows": [
+      [
+       "> 100 mmHg",
+       "Vasodilator (GTN, nitroprusside)"
+      ],
+      [
+       "85–100 mmHg",
+       "Vasodilator and/or inotrope (dobutamine, phosphodiesterase inhibitor)"
+      ],
+      [
+       "< 85 mmHg",
+       "Consider volume; inotrope, dopamine and/or noradrenaline"
+      ],
+      [
+       "Good response",
+       "Switch to oral furosemide and an ACE inhibitor"
+      ],
+      [
+       "No response",
+       "Mechanical assist device (left or right VAD)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 482,
+       "page": 445,
+       "table": "Emergency Box 10.2"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1093,
+       "page": 1077,
+       "chapter": "Cardiology",
+       "figure": "Fig. 30.59"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Zero to Finals mnemonic **\"Pour SOD\"**: **P**our away (stop) IV fluids, **S**it up, **O**xygen, **D**iuretic. Severe cases move on to CPAP or inotropes in CCU/HDU.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 18,
+       "page": 18
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 487,
+      "page": 465,
+      "chapter": "Cardiology",
+      "figure": "Fig. 16.28"
+     },
+     "note": "Look at: diuretics and venodilators move the patient left along the same curve; ACE inhibitors/mixed vasodilators and inotropes lift the curve."
+    },
+    {
+     "type": "pitfall",
+     "text": "**IV furosemide dose differs:** Davidson gives 50–100 mg, Kumar & Clark Essentials 50 mg and Zero to Finals 40 mg. Follow Davidson. Vasodilators need an adequate BP: titrate GTN down once SBP falls below about 110 mmHg.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 487,
+       "page": 465,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 481,
+       "page": 444
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 18,
+       "page": 18
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.s7",
+   "title": "Chronic heart failure: lifestyle & anti-failure drugs",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Long-term aims: improve contractility, optimise preload, lower afterload and control rate and rhythm. **Preload-reducing** drugs suit congested patients; **afterload reducers and inotropes** suit those with a low output.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 487,
+       "page": 465,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "General measures",
+     "items": [
+      "Education; **daily weights** with self-adjustment of the diuretic.",
+      "No added salt (Step-Up: sodium < 4 g/day, fluid 1.5–2 L/day); weight loss if obese.",
+      "Limit alcohol; **total abstinence** in alcoholic cardiomyopathy. Stop smoking.",
+      "Regular moderate aerobic exercise within symptom limits.",
+      "**Influenza and pneumococcal** vaccination.",
+      "Correct aggravating factors: AF, anaemia, hypertension, infection."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 487,
+       "page": 465,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 479,
+       "page": 442
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 57,
+       "page": 57
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Disease-modifying drugs in HFrEF",
+     "columns": [
+      "Drug class",
+      "Examples & doses",
+      "Benefit",
+      "Watch for"
+     ],
+     "rows": [
+      [
+       "ACE inhibitor",
+       "Ramipril 1.25 → 10 mg daily; enalapril 2.5 → 10 mg bd; lisinopril 2.5 → 20 mg daily",
+       "Block angiotensin II formation (and raise bradykinin); better effort tolerance and survival; prevent HF after MI",
+       "First-dose hypotension, renal impairment (bilateral renal artery stenosis), hyperkalaemia, cough, angio-oedema; avoid in pregnancy"
+      ],
+      [
+       "ARB",
+       "Candesartan 4 → 32 mg; losartan 25 → 100 mg; valsartan 40 → 160 mg daily",
+       "Similar haemodynamic and mortality benefit; alternative if ACE inhibitor not tolerated",
+       "No bradykinin cough, but same renal and potassium problems"
+      ],
+      [
+       "ARNI",
+       "Sacubitril–valsartan",
+       "Neprilysin inhibition preserves ANP/BNP; extra symptom and mortality benefit over ACE inhibition (PARADIGM-HF)",
+       "Given in place of the ACE inhibitor (see the washout pitfall below); same renal and K+ cautions as an ARB"
+      ],
+      [
+       "β-blocker",
+       "Bisoprolol 1.25 → 10 mg over ~12 weeks; carvedilol 3.125 → 25 mg bd; metoprolol 25 → 100 mg bd",
+       "Higher EF, fewer admissions, arrhythmias and deaths; RRR in mortality 33% (vs 20% for ACE inhibitors)",
+       "Full starting doses can precipitate acute-on-chronic decompensation"
+      ],
+      [
+       "MRA",
+       "Spironolactone 25 mg daily; eplerenone",
+       "Better survival in severe LV systolic dysfunction (EF < 35%) and post-MI HF",
+       "Hyperkalaemia (worse with ACE inhibitor); gynaecomastia with spironolactone"
+      ],
+      [
+       "SGLT2 inhibitor",
+       "Dapagliflozin",
+       "Cut mortality in HFrEF with or without diabetes (DAPA-HF)",
+       "Second-line add-on in Step-Up"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 487,
+       "page": 465,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 488,
+       "page": 466,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 489,
+       "page": 467,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1089,
+       "page": 1073,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 480,
+       "page": 443
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 58,
+       "page": 58
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other drugs",
+     "items": [
+      "**Ivabradine** blocks the If current in the SA node to slow the rate; reduces admissions and deaths in moderate–severe LV systolic dysfunction. Needs **sinus rhythm** (useless in AF); best when HR stays high (> 77/min in trials; ≥ 70 in US texts) on maximal β-blocker or when β-blockers are not tolerated.",
+      "**Hydralazine + nitrate** (afterload + preload reduction) when ACE inhibitor/ARB are not tolerated: improved survival, largest benefit in Black patients (A-HeFT). Hydralazine/isosorbide dinitrate starts at 37.5/20 mg three times daily.",
+      "Patients taking nitrates must **never** take PDE5 inhibitors such as sildenafil (profound hypotension)."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 489,
+       "page": 467,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1089,
+       "page": 1073,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1091,
+       "page": 1075,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 58,
+       "page": 58
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 395,
+       "page": 395
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 396,
+       "page": 396
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Diuretics: symptom control, not survival",
+     "items": [
+      "**Loop diuretics** (furosemide 20–40 mg daily orally, up to 250–500 mg) relieve congestion by lowering preload; no proven mortality benefit. Oral furosemide has variable bioavailability.",
+      "The failing heart sits beyond the Starling apex, so lowering filling pressure usually does not reduce output, but **over-diuresis** causes hypotension, lethargy and renal failure (especially with diastolic HF).",
+      "**Resistant oedema**: IV furosemide infusion 5–10 mg/h, or add a thiazide (bendroflumethiazide 5 mg) or **metolazone**, which still works with loops at low GFR.",
+      "Complications: hypokalaemia (dangerous with digoxin), hyponatraemia, hypomagnesaemia, contraction alkalosis, hypotension."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 487,
+       "page": 465,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 480,
+       "page": 443
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 57,
+       "page": 57
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 397,
+       "page": 397
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Zero to Finals first line for chronic HFrEF, **\"ABAL\"**: **A**CE inhibitor + **B**eta-blocker for all, add an **A**ldosterone antagonist if still symptomatic, and a **L**oop diuretic for congestion. Use candesartan if an ACE inhibitor is not tolerated.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 20,
+       "page": 20
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 479,
+       "page": 442
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Starting an ACE inhibitor:** if the patient is not stable with SBP over 100 mmHg, hold diuretics for 24 h and give a small dose of a long-acting agent at night. Recheck U&E and K+ 1–2 weeks later. A creatinine rise of up to 30% is acceptable (Washington); Kumar & Clark Essentials expects about 10–15%.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 488,
+       "page": 466,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 393,
+       "page": 393
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 478,
+       "page": 441
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**ACE inhibitor + ARB:** Davidson allows the pair in resistant or recurrent HF, whereas Kumar & Clark use the ARB only as a substitute. Never combine ACE inhibitor + ARB + MRA (dangerous hyperkalaemia). Sacubitril–valsartan: stop the ACE inhibitor 36 h before the first dose (Pocket Medicine; Kumar & Clark’s drug box says 3 days); an ARB can be stopped on the day.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 488,
+       "page": 466,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1089,
+       "page": 1073,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1090,
+       "page": 1074,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 394,
+       "page": 394
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 62,
+       "page": 62
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**MRA safety:** do not start if K+ ≥ 5.0 mmol/L or creatinine > 2.5 mg/dL (men) or > 2.0 mg/dL (women). Gynaecomastia affects 10–20% of men on spironolactone; switch to **eplerenone**.",
+     "cites": [
+      {
+       "book": "washington36",
+       "pdfPage": 395,
+       "page": 395
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 60,
+       "page": 60
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 487,
+       "page": 465,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Drugs to avoid in HFrEF:** verapamil and diltiazem (negative inotropes), NSAIDs and glucocorticoids (fluid retention). Amlodipine is safe for BP but does not reduce mortality. Do not start ACE inhibitors in valvular disease until a specialist does so. No drug clearly lowers mortality in HFpEF.",
+     "cites": [
+      {
+       "book": "washington36",
+       "pdfPage": 396,
+       "page": 396
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 397,
+       "page": 397
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 391,
+       "page": 391
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 485,
+       "page": 463,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 20,
+       "page": 20
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 488,
+      "page": 466,
+      "chapter": "Cardiology",
+      "figure": "Fig. 16.29"
+     },
+     "note": "Look at: where ACE inhibitors, ARBs, MRAs, β-blockers and diuretics act on the RAAS–sympathetic cascade, and the bradykinin side-branch blocked by ACE."
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.s8",
+   "title": "Digoxin, anti-arrhythmics, devices & transplantation",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Digoxin",
+     "items": [
+      "Slows AV-nodal conduction and lengthens its refractory period: **rate control in HF with AF**; also a weak positive inotrope.",
+      "In NYHA III–IV it **reduces HF admissions but does not improve survival**; also an add-on in sinus rhythm if still symptomatic.",
+      "Renally excreted with a long tissue half-life (~36 h): lower doses in older people and renal impairment. Usual dose 0.125–0.25 mg daily.",
+      "Toxicity can occur even with \"therapeutic\" plasma levels (0.8–2.0 ng/mL)."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 489,
+       "page": 467,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 504,
+       "page": 482,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 480,
+       "page": 443
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 396,
+       "page": 396
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Digoxin toxicity",
+     "columns": [
+      "Aspect",
+      "Details"
+     ],
+     "rows": [
+      [
+       "Extracardiac",
+       "Anorexia, nausea, vomiting, diarrhoea; altered colour vision (xanthopsia); confusion"
+      ],
+      [
+       "Cardiac",
+       "Bradycardia and AV block, multiple ventricular ectopics, bigeminy, atrial tachycardia with block, VT, VF"
+      ],
+      [
+       "Made worse by",
+       "Hypokalaemia, hypoxaemia, hypothyroidism, renal failure, volume depletion"
+      ],
+      [
+       "Interacting drugs",
+       "Amiodarone, verapamil, quinidine, flecainide, erythromycin, tetracycline"
+      ],
+      [
+       "Treatment",
+       "Not removed by dialysis; give **digoxin-specific antibody (Fab) fragments**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 504,
+       "page": 482,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 396,
+       "page": 396
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 59,
+       "page": 59
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Amiodarone** has little negative inotropic effect, so it is the anti-arrhythmic of choice for **symptomatic** arrhythmias in poor LV function, but it should not be given prophylactically. In SCD-HeFT amiodarone gave no survival benefit, whereas an ICD cut mortality by 23%.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 489,
+       "page": 467,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1091,
+       "page": 1075,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Devices and revascularisation",
+     "columns": [
+      "Treatment",
+      "Indication",
+      "Effect"
+     ],
+     "rows": [
+      [
+       "ICD",
+       "Symptomatic ventricular arrhythmias with HF; primary prevention if LVEF ≤ 35% and NYHA class below IV",
+       "Fewer sudden deaths, better survival"
+      ],
+      [
+       "CRT (biventricular pacing)",
+       "Severe symptomatic HF with intraventricular conduction delay (wide QRS, e.g. LBBB > 120 ms)",
+       "Coordinated LV contraction; improves symptoms and survival"
+      ],
+      [
+       "CRT-D",
+       "Meets both ICD and CRT criteria",
+       "Combined benefit"
+      ],
+      [
+       "Coronary revascularisation (CABG/PCI)",
+       "Hibernating myocardium on stress echo, nuclear or MRI imaging",
+       "Can recover LV function"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 489,
+       "page": 467,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1084,
+       "page": 1068,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 480,
+       "page": 443
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 58,
+       "page": 58
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Cardiac transplantation",
+     "items": [
+      "For **young patients with intractable HF** despite optimal therapy; commonest underlying diseases are coronary disease and dilated cardiomyopathy.",
+      "**Contraindicated with high pulmonary vascular resistance** (long-standing left HF, Eisenmenger syndrome, primary pulmonary hypertension): the donor RV fails.",
+      "Problems: **rejection** (ciclosporin, azathioprine, glucocorticoids; biopsy to confirm), **accelerated graft coronary disease** (angina rare because the heart is denervated; present in 30–50% at 5 years), opportunistic infection.",
+      "Survival > 90% at 1 year and about 75% at 5 years. VADs can bridge to transplant."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 489,
+       "page": 467,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1092,
+       "page": 1076,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 480,
+       "page": 443
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 479,
+       "page": 442
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Anticoagulation:** HF raises stroke risk about fourfold. Give oral anticoagulation with AF, or in sinus rhythm with previous thromboembolism, LV aneurysm or thrombus.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1091,
+       "page": 1075,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 489,
+      "page": 467,
+      "chapter": "Cardiology",
+      "figure": "Fig. 16.30"
+     },
+     "note": "Look at: CRT-D on chest X-ray: RA lead in the appendage, RV lead at the apex (pacing and shock coil), LV lead threaded via the coronary sinus."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1091,
+      "page": 1075,
+      "chapter": "Cardiology",
+      "figure": "Fig. 30.57"
+     },
+     "note": "Look at: stages A–D of HF and the matching treatment ladder, from risk-factor control to VAD, transplant or hospice."
+    },
+    {
+     "type": "pitfall",
+     "text": "**Primary-prevention ICD threshold varies:** Kumar & Clark give LVEF ≤ 35% (NYHA < IV), Step-Up < 35% and Kumar & Clark Essentials < 30% on optimal therapy. Davidson only states ICDs for symptomatic ventricular arrhythmias. Quote ≤ 35% on optimal therapy.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1084,
+       "page": 1068,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 58,
+       "page": 58
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 480,
+       "page": 443
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 489,
+       "page": 467,
+       "chapter": "Cardiology"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "cardio-heart-failure.c1",
+   "sectionId": "cardio-heart-failure.s1",
+   "front": "Definition of heart failure (Davidson)?",
+   "back": "A syndrome in which the heart cannot maintain an adequate output, or does so only at the cost of raised ventricular filling pressure.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 483,
+     "page": 461,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.c2",
+   "sectionId": "cardio-heart-failure.s1",
+   "front": "LVEF cut-offs for HFrEF, HFmrEF and HFpEF?",
+   "back": "HFrEF < 40%; HFmrEF 40–50%; HFpEF > 50%.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1087,
+     "page": 1071,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 52,
+     "page": 52
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.c3",
+   "sectionId": "cardio-heart-failure.s1",
+   "front": "Laplace relationship in a dilated ventricle?",
+   "back": "Wall tension ∝ pressure × radius, so a bigger chamber needs more tension (and O2) for the same pressure.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1086,
+     "page": 1070,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.c4",
+   "sectionId": "cardio-heart-failure.s2",
+   "front": "Commonest cause of heart failure?",
+   "back": "Coronary artery disease / myocardial infarction.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 483,
+     "page": 461,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.c5",
+   "sectionId": "cardio-heart-failure.s2",
+   "front": "Name four causes of high-output heart failure.",
+   "back": "Severe anaemia, thyrotoxicosis, large AV fistula/shunt, wet beriberi (also Paget disease, pregnancy).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 485,
+     "page": 463,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 50,
+     "page": 50
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.c6",
+   "sectionId": "cardio-heart-failure.s3",
+   "front": "What is cor pulmonale, and its commonest cause?",
+   "back": "Right heart failure secondary to chronic lung disease; COPD is the commonest cause.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 483,
+     "page": 461,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 21,
+     "page": 21
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.c7",
+   "sectionId": "cardio-heart-failure.s4",
+   "front": "NYHA class III?",
+   "back": "Marked limitation: comfortable at rest, but less than ordinary activity brings on symptoms.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 476,
+     "page": 454,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 476,
+     "page": 439
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.c8",
+   "sectionId": "cardio-heart-failure.s4",
+   "front": "Pulsus alternans signifies?",
+   "back": "Severe LV failure with a very poor prognosis (regular alternating strong and weak beats).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1046,
+     "page": 1030,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.c9",
+   "sectionId": "cardio-heart-failure.s4",
+   "front": "Proportion of HF patients with AF, and with sudden death?",
+   "back": "AF in about 20%; sudden death (probably VF) in up to 50%.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 486,
+     "page": 464,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.c10",
+   "sectionId": "cardio-heart-failure.s5",
+   "front": "Earliest and interstitial CXR signs of raised pulmonary venous pressure?",
+   "back": "Upper lobe venous diversion first; then Kerley B lines (thickened septa, dilated lymphatics) at the costophrenic angles.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 486,
+     "page": 464,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.c11",
+   "sectionId": "cardio-heart-failure.s5",
+   "front": "BNP level that makes heart failure unlikely?",
+   "back": "BNP < 100 pg/mL (normal NT-proBNP also largely excludes HF).",
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 478,
+     "page": 441
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 55,
+     "page": 55
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.c12",
+   "sectionId": "cardio-heart-failure.s6",
+   "front": "Davidson doses in acute pulmonary oedema: GTN and furosemide?",
+   "back": "IV GTN 10–200 μg/min (or buccal 2–5 mg) titrated every 10 min; IV furosemide 50–100 mg.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 487,
+     "page": 465,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.c13",
+   "sectionId": "cardio-heart-failure.s6",
+   "front": "Inotrope and dose for refractory acute HF with hypotension?",
+   "back": "Dobutamine 2.5–10 μg/kg/min; IABP if cardiogenic shock.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 487,
+     "page": 465,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.c14",
+   "sectionId": "cardio-heart-failure.s7",
+   "front": "Bisoprolol regimen in chronic HF?",
+   "back": "Start 1.25 mg daily and increase slowly over about 12 weeks to 10 mg daily.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 489,
+     "page": 467,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.c15",
+   "sectionId": "cardio-heart-failure.s7",
+   "front": "Mortality RRR: β-blockers vs ACE inhibitors in HF?",
+   "back": "About 33% for β-blockers vs 20% for ACE inhibitors.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 489,
+     "page": 467,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.c16",
+   "sectionId": "cardio-heart-failure.s8",
+   "front": "Digoxin in NYHA III–IV HF: effect on admissions and survival?",
+   "back": "Fewer HF admissions; no effect on long-term survival.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 489,
+     "page": 467,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.c17",
+   "sectionId": "cardio-heart-failure.s8",
+   "front": "Main contraindication to conventional heart transplantation?",
+   "back": "High pulmonary vascular resistance (e.g. long-standing left HF, Eisenmenger, primary pulmonary hypertension): the donor RV fails.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 489,
+     "page": 467,
+     "chapter": "Cardiology"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "cardio-heart-failure.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1087,
+     "page": 1071,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1088,
+     "page": 1072,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 52,
+     "page": 52
+    }
+   ],
+   "stem": "A 76-year-old woman with long-standing hypertension has 6 months of exertional breathlessness and ankle swelling. Echocardiography shows a thick-walled left ventricle of normal size, an enlarged left atrium, abnormal relaxation and an ejection fraction of 60%.",
+   "leadIn": "Which category of heart failure best fits?",
+   "options": [
+    "HF with reduced ejection fraction",
+    "HF with preserved ejection fraction",
+    "HF with mid-range ejection fraction",
+    "High-output heart failure",
+    "Isolated right heart failure"
+   ],
+   "answer": 1,
+   "explanation": "HF symptoms with an EF above 50%, a stiff hypertrophied LV, a large LA and impaired relaxation define **HFpEF** (diastolic HF), the typical pattern in elderly hypertensives.",
+   "whyNot": [
+    "HFrEF requires an EF below 40%.",
+    "",
+    "HFmrEF is the 40–50% grey zone; her EF is 60%.",
+    "High-output failure has warm peripheries and a cause such as anaemia, thyrotoxicosis or a shunt.",
+    "The echo abnormality is left-sided (LVH, big LA), not RV-predominant."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 484,
+     "page": 462,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 488,
+     "page": 466
+    }
+   ],
+   "stem": "In a lecture on the neurohumoral response to a falling cardiac output, students are asked which mediator is chiefly responsible for arteriolar constriction in the kidney and systemic circulation together with sodium and water retention.",
+   "leadIn": "Which mediator is it?",
+   "options": [
+    "Angiotensin II",
+    "B-type natriuretic peptide",
+    "Atrial natriuretic peptide",
+    "Bradykinin",
+    "Nitric oxide"
+   ],
+   "answer": 0,
+   "explanation": "RAAS activation acts mainly through **angiotensin II**, a powerful arteriolar constrictor, which with aldosterone retains salt and water and raises both afterload and preload, completing the vicious circle.",
+   "whyNot": [
+    "",
+    "BNP is natriuretic and vasodilating: it opposes, not causes, the retention.",
+    "ANP from stretched atria promotes sodium excretion.",
+    "Bradykinin is a vasodilator (raised by ACE inhibitors).",
+    "Nitric oxide is a vasodilator."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1085,
+     "page": 1069,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 49,
+     "page": 49
+    }
+   ],
+   "stem": "A 47-year-old woman completed a year of treatment for HER2-positive breast cancer 3 months ago. She now has orthopnoea and ankle oedema; echocardiography shows global LV hypokinesia with an EF of 32%. She drinks no alcohol and her coronary angiogram is normal.",
+   "leadIn": "What is the most likely cause of her heart failure?",
+   "options": [
+    "Trastuzumab cardiotoxicity",
+    "Peripartum cardiomyopathy",
+    "Thyrotoxicosis",
+    "Alcoholic cardiomyopathy",
+    "Constrictive pericarditis"
+   ],
+   "answer": 0,
+   "explanation": "HER2-positive breast cancer is treated with **trastuzumab**, a recognised cause of HFrEF (alongside anthracyclines and imatinib). Normal coronaries exclude ischaemia.",
+   "whyNot": [
+    "",
+    "Peripartum cardiomyopathy follows pregnancy, which is not the story here.",
+    "Thyrotoxicosis gives a high-output state; nothing suggests it.",
+    "She does not drink alcohol.",
+    "Constriction impairs filling with preserved contraction, not global hypokinesia."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 485,
+     "page": 463,
+     "chapter": "Cardiology"
+    }
+   ],
+   "stem": "A retired builder of 71, known to have ischaemic LV dysfunction, has been stable for a year on ramipril, bisoprolol and low-dose furosemide. Ten days after his GP started a new tablet for painful knee osteoarthritis he gains 3 kg and becomes breathless lying flat.",
+   "leadIn": "Which new drug most likely precipitated the decompensation?",
+   "options": [
+    "Ibuprofen",
+    "Paracetamol",
+    "Codeine phosphate",
+    "Tramadol",
+    "Topical capsaicin"
+   ],
+   "answer": 0,
+   "explanation": "**NSAIDs** cause sodium and fluid retention and are a classic precipitant of decompensated HF (Box 16.13), along with glucocorticoids and negative inotropes.",
+   "whyNot": [
+    "",
+    "Paracetamol does not retain fluid.",
+    "Codeine causes constipation and sedation, not fluid retention.",
+    "Tramadol is not a recognised precipitant of HF.",
+    "Topical capsaicin has negligible systemic effects."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 483,
+     "page": 461,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 21,
+     "page": 21
+    }
+   ],
+   "stem": "A 69-year-old ex-smoker with severe COPD has increasing ankle oedema. JVP is raised 6 cm, the liver is enlarged and tender, and there is wheeze but no orthopnoea. Echocardiography shows a dilated, hypokinetic right ventricle with a normal left ventricle and raised pulmonary pressures.",
+   "leadIn": "What is the best term for his condition?",
+   "options": [
+    "Cor pulmonale",
+    "Biventricular failure from dilated cardiomyopathy",
+    "Constrictive pericarditis",
+    "Acute left ventricular failure",
+    "High-output failure"
+   ],
+   "answer": 0,
+   "explanation": "Right HF caused by chronic lung disease is **cor pulmonale**; COPD is its commonest cause. The normal LV rules out a left-sided origin.",
+   "whyNot": [
+    "",
+    "The LV is normal, so this is not a disease of both ventricles.",
+    "Constriction would not cause pulmonary hypertension with a dilated RV.",
+    "There is no pulmonary oedema or LV dysfunction.",
+    "Nothing suggests anaemia, thyrotoxicosis or a shunt."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 483,
+     "page": 461,
+     "chapter": "Cardiology"
+    }
+   ],
+   "stem": "A 55-year-old woman with rheumatic mitral stenosis diagnosed 20 years ago now has ascites, a raised JVP and ankle oedema. She has never had an episode of pulmonary oedema.",
+   "leadIn": "Which mechanism best explains her right heart failure?",
+   "options": [
+    "Reflex pulmonary vasoconstriction causing pulmonary hypertension",
+    "Left-to-right shunt across an atrial septal defect",
+    "Pericardial constriction after rheumatic fever",
+    "Hypoalbuminaemia from hepatic congestion",
+    "Recurrent emboli from a left atrial thrombus"
+   ],
+   "answer": 0,
+   "explanation": "A **slow** rise in LA pressure, as in mitral stenosis, triggers reflex pulmonary vasoconstriction. This protects against pulmonary oedema but raises pulmonary vascular resistance, so the RV eventually fails.",
+   "whyNot": [
+    "",
+    "No shunt is described; ASD causes RV volume overload by a different route.",
+    "Constriction is not a feature of rheumatic mitral disease here.",
+    "Hypoalbuminaemia would not explain a raised JVP.",
+    "LA thrombus embolises to the systemic, not pulmonary, circulation."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 485,
+     "page": 463,
+     "chapter": "Cardiology"
+    }
+   ],
+   "stem": "A 63-year-old man arrives 3 hours after the onset of crushing chest pain. He is acutely breathless, pale and clammy, with crackles to the mid-zones and BP 168/94 mmHg. He has no previous cardiac history.",
+   "leadIn": "Which additional examination finding is most expected?",
+   "options": [
+    "A third heart sound (gallop rhythm)",
+    "An apex beat displaced to the anterior axillary line",
+    "Marked sacral pitting oedema",
+    "Shifting dullness from ascites",
+    "Severe muscle wasting"
+   ],
+   "answer": 0,
+   "explanation": "In **acute** left HF an S3 gallop appears early. The ventricle has not had time to dilate, so the apex is not displaced, and chronic congestive signs are absent.",
+   "whyNot": [
+    "",
+    "Acute failure gives no time for dilatation, so the apex stays in place.",
+    "Sacral oedema reflects chronic fluid retention in a bed-bound patient.",
+    "Ascites reflects chronic systemic venous congestion.",
+    "Cachexia belongs to long-standing chronic HF."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1046,
+     "page": 1030,
+     "chapter": "Cardiology"
+    }
+   ],
+   "stem": "A 66-year-old man with severe dilated cardiomyopathy is in sinus rhythm. While the cuff is slowly deflated, the systolic pressure is found to swing by about 30 mmHg between consecutive beats, which are otherwise regular.",
+   "leadIn": "Which pulse abnormality is this?",
+   "options": [
+    "Pulsus alternans",
+    "Pulsus paradoxus",
+    "Bigeminal pulse",
+    "Collapsing pulse",
+    "Slow-rising pulse"
+   ],
+   "answer": 0,
+   "explanation": "**Pulsus alternans** = regular rhythm with alternately strong and weak beats, easiest to detect when taking the BP. It reflects severe myocardial failure and a very poor prognosis.",
+   "whyNot": [
+    "",
+    "Paradoxus is an exaggerated fall in pressure with inspiration (e.g. tamponade), not beat-to-beat alternation.",
+    "Bigeminy comes from an ectopic after each sinus beat, so the rhythm is irregular.",
+    "A collapsing pulse suggests aortic regurgitation or high output.",
+    "A slow-rising, small pulse suggests aortic stenosis."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1088,
+     "page": 1072,
+     "chapter": "Cardiology",
+     "figure": "Fig. 30.56"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 477,
+     "page": 440
+    }
+   ],
+   "stem": "A 66-year-old woman reports 3 months of breathlessness on hills. Her 12-lead ECG, chest X-ray and NT-proBNP are all normal.",
+   "leadIn": "What is the most appropriate interpretation?",
+   "options": [
+    "Heart failure is unlikely; look for another cause",
+    "Arrange urgent echocardiography to confirm heart failure",
+    "Proceed to coronary angiography",
+    "Start furosemide and review in 2 weeks",
+    "Request cardiac MRI to assess viability"
+   ],
+   "answer": 0,
+   "explanation": "In the ESC/NICE pathway, normal ECG, CXR and natriuretic peptide make HF **unlikely**; echo is reserved for those with any abnormal result.",
+   "whyNot": [
+    "",
+    "Echo is triggered by an abnormal ECG, CXR or peptide.",
+    "Angiography is not a test for suspected HF without evidence of HF.",
+    "Treating without a diagnosis is wrong, and HF is unlikely.",
+    "Viability imaging is for known ischaemic LV dysfunction."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 486,
+     "page": 464,
+     "chapter": "Cardiology"
+    }
+   ],
+   "stem": "A radiology tutorial shows a chest X-ray from a patient with left heart failure. Short horizontal lines reach the pleural surface at both costophrenic angles.",
+   "leadIn": "What do these lines represent?",
+   "options": [
+    "Thickened interlobular septa and dilated lymphatics (Kerley B lines)",
+    "Distended upper lobe pulmonary veins",
+    "Alveolar oedema spreading from the hila",
+    "Fluid in the horizontal fissure",
+    "Pleural effusions"
+   ],
+   "answer": 0,
+   "explanation": "**Kerley B lines** mark interstitial oedema: thickened septa and dilated lymphatics, seen as horizontal lines at the costophrenic angles.",
+   "whyNot": [
+    "",
+    "Upper lobe diversion is an earlier sign in the upper zones, not basal horizontal lines.",
+    "Alveolar oedema gives hazy perihilar shadowing.",
+    "Fissural fluid follows the fissure line, not short peripheral lines.",
+    "Effusions blunt the costophrenic angles with a meniscus."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 487,
+     "page": 465,
+     "chapter": "Cardiology"
+    }
+   ],
+   "stem": "A 70-year-old man with acute pulmonary oedema has been sat up and given high-flow oxygen and IV furosemide. His BP is 176/98 mmHg and he remains very breathless.",
+   "leadIn": "Which drug reduces both preload and afterload and is increased every 10 minutes against the systolic BP?",
+   "options": [
+    "IV glyceryl trinitrate",
+    "IV dobutamine",
+    "IV noradrenaline",
+    "IV morphine",
+    "IV digoxin"
+   ],
+   "answer": 0,
+   "explanation": "**Nitrates** (IV GTN 10–200 μg/min or buccal 2–5 mg) lower preload and afterload; the dose is raised every 10 min until he improves or SBP falls below 110 mmHg. His high BP makes a vasodilator ideal.",
+   "whyNot": [
+    "",
+    "Dobutamine is for refractory cases, particularly with hypotension.",
+    "Noradrenaline is a vasopressor for shock, not hypertension.",
+    "Opiates are used only sparingly and can worsen hypoxaemia.",
+    "Digoxin is not part of acute pulmonary oedema treatment unless for AF rate control."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 487,
+     "page": 465,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 482,
+     "page": 445
+    }
+   ],
+   "stem": "Two hours after an anterior STEMI, a 58-year-old man has pulmonary oedema with BP 78/50 mmHg, cold clammy skin and minimal urine output despite oxygen and IV furosemide.",
+   "leadIn": "Which treatment is most appropriate next?",
+   "options": [
+    "IV dobutamine infusion",
+    "IV glyceryl trinitrate infusion",
+    "Oral bisoprolol",
+    "Oral ramipril",
+    "IV morphine bolus"
+   ],
+   "answer": 0,
+   "explanation": "Refractory acute HF with **hypotension** needs an inotrope such as **dobutamine** (2.5–10 μg/kg/min); an intra-aortic balloon pump is the next step for cardiogenic shock.",
+   "whyNot": [
+    "",
+    "Vasodilators are avoided when SBP is below about 85–90 mmHg.",
+    "β-blockers are negative inotropes and would worsen shock.",
+    "ACE inhibitors drop BP further; they come later once stable.",
+    "Opiates can depress breathing and do not raise output."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 488,
+     "page": 466,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 478,
+     "page": 441
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 396,
+     "page": 396
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 397,
+     "page": 397
+    }
+   ],
+   "stem": "A 64-year-old man with HFrEF takes ramipril, bisoprolol and furosemide. Since starting ramipril he has had a persistent dry, tickly cough. Chest X-ray and spirometry are normal.",
+   "leadIn": "Which drug should replace ramipril?",
+   "options": [
+    "Candesartan",
+    "Perindopril",
+    "Amlodipine",
+    "Diltiazem",
+    "Doxazosin"
+   ],
+   "answer": 0,
+   "explanation": "ACE-inhibitor cough is bradykinin-mediated. An **ARB** (candesartan) gives comparable mortality benefit without affecting bradykinin.",
+   "whyNot": [
+    "",
+    "Another ACE inhibitor would cause the same cough.",
+    "Amlodipine is safe in HF but has no mortality benefit.",
+    "Diltiazem is a negative inotrope to avoid in HFrEF.",
+    "Doxazosin has no role and raises HF risk as a first-line antihypertensive."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s7"
+   },
+   "cites": [
+    {
+     "book": "washington36",
+     "pdfPage": 395,
+     "page": 395
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 487,
+     "page": 465,
+     "chapter": "Cardiology"
+    }
+   ],
+   "stem": "A 59-year-old man with HFrEF (EF 28%) takes ramipril, bisoprolol and spironolactone 25 mg. Over 4 months he has developed tender breast enlargement. Potassium is 4.6 mmol/L and creatinine is normal.",
+   "leadIn": "What is the most appropriate change?",
+   "options": [
+    "Switch spironolactone to eplerenone",
+    "Switch spironolactone to bendroflumethiazide",
+    "Switch spironolactone to metolazone",
+    "Stop spironolactone and increase furosemide",
+    "Stop spironolactone and add digoxin"
+   ],
+   "answer": 0,
+   "explanation": "Gynaecomastia affects 10–20% of men on spironolactone. **Eplerenone**, a more selective MRA, keeps the survival benefit without this side effect.",
+   "whyNot": [
+    "",
+    "Thiazides do not provide the MRA survival benefit.",
+    "Metolazone is for resistant oedema, not a mortality drug.",
+    "Loop diuretics relieve symptoms but do not replace MRA benefit.",
+    "Digoxin does not improve survival."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 504,
+     "page": 482,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 396,
+     "page": 396
+    }
+   ],
+   "stem": "An 80-year-old woman with HF and AF takes digoxin. After her furosemide dose was doubled she develops vomiting, yellow-tinged vision and a pulse of 38/min. Potassium is 2.9 mmol/L and the digoxin level is high.",
+   "leadIn": "Which specific treatment reverses digoxin toxicity?",
+   "options": [
+    "Digoxin-specific antibody Fab fragments",
+    "Haemodialysis",
+    "Activated charcoal haemoperfusion",
+    "IV flumazenil",
+    "IV acetylcysteine"
+   ],
+   "answer": 0,
+   "explanation": "Digoxin is **not removed by dialysis**; the antidote is **digoxin immune Fab**. Diuretic-induced hypokalaemia potentiated the toxicity and must be corrected.",
+   "whyNot": [
+    "",
+    "Digoxin has a large volume of distribution and is not dialysable.",
+    "Haemoperfusion is not the recognised treatment.",
+    "Flumazenil reverses benzodiazepines.",
+    "Acetylcysteine treats paracetamol poisoning."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s8"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1084,
+     "page": 1068,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 489,
+     "page": 467,
+     "chapter": "Cardiology"
+    }
+   ],
+   "stem": "A 61-year-old man with ischaemic HFrEF has an EF of 25% and NYHA class III symptoms despite 4 months of optimal drug therapy. He is in sinus rhythm; the ECG shows left bundle branch block with a QRS of 160 ms.",
+   "leadIn": "Which device is most appropriate?",
+   "options": [
+    "Cardiac resynchronisation therapy with defibrillator (CRT-D)",
+    "Single-chamber ICD alone",
+    "Dual-chamber pacemaker",
+    "Implantable loop recorder",
+    "Intra-aortic balloon pump"
+   ],
+   "answer": 0,
+   "explanation": "EF ≤ 35% with NYHA < IV qualifies for a primary-prevention ICD, and LBBB with QRS > 120 ms adds CRT, so **CRT-D** gives both benefits.",
+   "whyNot": [
+    "",
+    "An ICD alone misses the symptom and survival benefit of resynchronisation.",
+    "A standard pacemaker does not resynchronise the LV or treat VF.",
+    "A loop recorder only records rhythm.",
+    "An IABP is a temporary support in cardiogenic shock."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q17",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can fit one case, several cases, or none.",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Causes of heart failure",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1085,
+     "page": 1069,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 474,
+     "page": 437
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 49,
+     "page": 49
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 50,
+     "page": 50
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 485,
+     "page": 463,
+     "chapter": "Cardiology"
+    }
+   ],
+   "options": [
+    "Ischaemic heart disease",
+    "Long-standing systemic hypertension",
+    "Calcific aortic stenosis",
+    "Rheumatic mitral stenosis",
+    "Alcoholic cardiomyopathy",
+    "Anthracycline cardiotoxicity",
+    "Thyrotoxicosis",
+    "Wet beriberi (thiamine deficiency)",
+    "Peripartum cardiomyopathy",
+    "Constrictive pericarditis",
+    "Atrial septal defect",
+    "Chagas disease"
+   ],
+   "items": [
+    {
+     "stem": "A 52-year-old publican has drunk about 80 units a week for 20 years. He has a dilated, globally hypokinetic left ventricle and a normal coronary angiogram.",
+     "answer": 4,
+     "explanation": "Heavy long-term alcohol intake with a dilated LV and normal coronaries points to **alcoholic cardiomyopathy**; abstinence is required.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s2"
+     }
+    },
+    {
+     "stem": "A 61-year-old woman received doxorubicin-based chemotherapy for lymphoma 2 years ago. She now has orthopnoea and an EF of 30% with global hypokinesia.",
+     "answer": 5,
+     "explanation": "Doxorubicin is an **anthracycline**, a dose-related cause of HFrEF.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s2"
+     }
+    },
+    {
+     "stem": "A 46-year-old man with alcohol dependence and a very poor diet has breathlessness, oedema, warm hands and a bounding pulse, plus numb feet. He improves dramatically after vitamin replacement.",
+     "answer": 7,
+     "explanation": "Warm peripheries and a bounding pulse mean **high-output** failure; with poor nutrition, neuropathy and a response to vitamins the cause is **thiamine deficiency (wet beriberi)**, not direct alcohol toxicity.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s2"
+     }
+    },
+    {
+     "stem": "A 29-year-old woman with no previous heart disease develops orthopnoea and ankle swelling 3 weeks after delivering her first baby. Echo shows a dilated LV with an EF of 25%.",
+     "answer": 8,
+     "explanation": "New LV systolic failure around delivery in a previously healthy woman is **peripartum cardiomyopathy**.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s2"
+     }
+    },
+    {
+     "stem": "A 64-year-old smoker with diabetes had an anterior myocardial infarction 3 years ago. Echo shows an akinetic anterior wall and an EF of 35%.",
+     "answer": 0,
+     "explanation": "Segmental (regional) dysfunction after MI is **ischaemic heart disease**, the commonest cause of HF.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s2"
+     }
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q18",
+   "kind": "emq",
+   "leadIn": "For each description below, choose the single most appropriate drug from the list. Any option can fit one case, several cases, or none.",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Drugs used in chronic heart failure",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 487,
+     "page": 465,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 489,
+     "page": 467,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 58,
+     "page": 58
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 480,
+     "page": 443
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 397,
+     "page": 397
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1090,
+     "page": 1074
+    }
+   ],
+   "options": [
+    "Ramipril",
+    "Candesartan",
+    "Sacubitril–valsartan",
+    "Bisoprolol",
+    "Spironolactone",
+    "Furosemide",
+    "Metolazone",
+    "Digoxin",
+    "Ivabradine",
+    "Hydralazine with isosorbide dinitrate",
+    "Dapagliflozin",
+    "Amiodarone"
+   ],
+   "items": [
+    {
+     "stem": "Slows the heart by blocking the If (\"funny\") current of the sinus node; it is ineffective once the patient is in atrial fibrillation.",
+     "answer": 8,
+     "explanation": "**Ivabradine** acts only on the SA node, so it needs sinus rhythm.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s7"
+     }
+    },
+    {
+     "stem": "Combines a neprilysin inhibitor with an angiotensin receptor blocker; the ACE inhibitor has to be stopped before it is started.",
+     "answer": 2,
+     "explanation": "**Sacubitril–valsartan** (ARNI) preserves ANP/BNP and beat ACE inhibition on mortality.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s7"
+     }
+    },
+    {
+     "stem": "A thiazide-like diuretic added to a loop diuretic in resistant oedema; it still works when the GFR is low.",
+     "answer": 6,
+     "explanation": "**Metolazone** acts at proximal and distal tubule and gives a profound diuresis with loops.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s7"
+     }
+    },
+    {
+     "stem": "Originally a glucose-lowering drug, it reduced mortality in a trial of HFrEF patients whether or not they had diabetes.",
+     "answer": 10,
+     "explanation": "**Dapagliflozin** (SGLT2 inhibitor; DAPA-HF).",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s7"
+     }
+    },
+    {
+     "stem": "Reduces admissions in NYHA III–IV failure without improving survival, and also controls the ventricular rate in AF.",
+     "answer": 7,
+     "explanation": "**Digoxin**: rate control and fewer admissions, no survival gain.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s8"
+     }
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q19",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1086,
+     "page": 1070,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 475,
+     "page": 438
+    }
+   ],
+   "stem": "A student asks why a dilated, failing left ventricle consumes more oxygen than a normal-sized one to eject blood against the same aortic pressure.",
+   "leadIn": "Which principle explains this?",
+   "options": [
+    "Laplace's law",
+    "Frank–Starling law",
+    "Poiseuille's law",
+    "Fick principle",
+    "Bernoulli principle"
+   ],
+   "answer": 0,
+   "explanation": "By **Laplace**, wall tension ∝ pressure × radius: a larger radius needs more tension, and so more oxygen, for the same pressure.",
+   "whyNot": [
+    "",
+    "Starling links filling (preload) to stroke volume, not wall tension to radius.",
+    "Poiseuille describes flow through a tube.",
+    "Fick is used to measure cardiac output from oxygen uptake.",
+    "Bernoulli relates velocity to pressure gradients (used in Doppler)."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q20",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 489,
+     "page": 467,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 396,
+     "page": 396
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 58,
+     "page": 58
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 397,
+     "page": 397
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 485,
+     "page": 463
+    }
+   ],
+   "stem": "A 58-year-old woman with HFrEF (EF 30%) remains in NYHA class III on target-dose ACE inhibitor, maximal tolerated bisoprolol and spironolactone. She is in sinus rhythm at 88/min; BP 112/70 mmHg.",
+   "leadIn": "Which drug is the most appropriate addition to slow her heart rate?",
+   "options": [
+    "Ivabradine",
+    "Verapamil",
+    "Diltiazem",
+    "Amlodipine",
+    "Nifedipine"
+   ],
+   "answer": 0,
+   "explanation": "**Ivabradine** suits patients in sinus rhythm whose rate stays high (≥ 70–77/min) on maximal β-blocker; it lowers admissions and deaths.",
+   "whyNot": [
+    "",
+    "Verapamil is a negative inotrope to avoid in HFrEF.",
+    "Diltiazem is also negatively inotropic.",
+    "Amlodipine does not slow the heart rate.",
+    "Nifedipine is a dihydropyridine: it does not slow the heart, lacks a mortality benefit in HFrEF and can cause ankle oedema."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q21",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 488,
+     "page": 466,
+     "chapter": "Cardiology"
+    }
+   ],
+   "stem": "A 79-year-old man with newly diagnosed HFrEF takes furosemide 80 mg daily. His BP is 96/60 mmHg and sodium 131 mmol/L. The team wants to start an ACE inhibitor.",
+   "leadIn": "What is the safest way to start it?",
+   "options": [
+    "Withhold furosemide for 24 hours, then give a small dose of a long-acting ACE inhibitor at night",
+    "Start a full target dose of ramipril in the morning",
+    "Double the furosemide and start captopril at the same time",
+    "Avoid ACE inhibitors permanently",
+    "Start an ACE inhibitor and an ARB together at low dose"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1:** spot the risk: an elderly patient on a high diuretic dose, with SBP under 100 and hyponatraemia, is prone to first-dose hypotension. **Step 2:** Davidson's advice is to hold the diuretic for 24 h and start a **small dose of a long-acting agent at bedtime**. **Step 3:** recheck U&E and potassium 1–2 weeks later, then titrate up. ACE inhibitors still improve survival, so they should not be abandoned.",
+   "whyNot": [
+    "",
+    "Full doses and short-acting agents cause marked falls in BP in this setting.",
+    "More diuretic deepens volume depletion and hypotension.",
+    "He stands to gain a survival benefit; low BP means start cautiously, not never.",
+    "Combining them doubles renal and potassium risk and is not a starting strategy."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q22",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 489,
+     "page": 467,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 392,
+     "page": 392
+    }
+   ],
+   "stem": "A 60-year-old woman with HFrEF (EF 30%) is euvolaemic and stable on ramipril and furosemide. Her cardiologist wants to add a β-blocker.",
+   "leadIn": "Which regimen is most appropriate?",
+   "options": [
+    "Bisoprolol 1.25 mg daily, increased gradually over about 12 weeks towards 10 mg",
+    "Bisoprolol 10 mg daily from the first day",
+    "Atenolol 100 mg daily",
+    "IV metoprolol, then stop when symptoms settle",
+    "Bisoprolol 1.25 mg daily, never increased"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1:** β-blockers block harmful chronic sympathetic drive and cut mortality (RRR ~33%). **Step 2:** they are negative inotropes, so full doses can trigger decompensation. **Step 3:** therefore start **low (1.25 mg) and go slow**, titrating over ~12 weeks to the target of 10 mg. Use only trial-proven agents (bisoprolol, carvedilol, metoprolol succinate); LV benefit takes 2–3 months, and any transient fluid retention is managed with extra diuretic.",
+   "whyNot": [
+    "",
+    "Starting at full dose may precipitate acute-on-chronic HF.",
+    "Atenolol is not one of the trial-proven HF β-blockers.",
+    "Benefit comes from long-term oral therapy, not a short IV course.",
+    "Benefit relates to reaching target dose and heart-rate reduction, so titration is needed."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q23",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s5"
+   },
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "pdfPage": 17,
+     "page": 17
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 55,
+     "page": 55
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 478,
+     "page": 441
+    }
+   ],
+   "stem": "A 72-year-old woman with COPD presents with worsening breathlessness and mild ankle swelling. Her BNP is 60 pg/mL.",
+   "leadIn": "How should this BNP result be interpreted?",
+   "options": [
+    "Heart failure is unlikely as the cause of her breathlessness",
+    "Heart failure is confirmed",
+    "The result is uninterpretable in COPD",
+    "She needs urgent specialist referral for heart failure",
+    "BNP is falsely low because COPD lowers it"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1:** BNP is released by stretched ventricles and is **sensitive but not specific**. **Step 2:** a value below 100 pg/mL is normal, so it is good at **ruling HF out**. **Step 3:** COPD, PE, sepsis and renal impairment can raise BNP, so a high value would need echo, but a low one makes HF unlikely here and points back to her lung disease.",
+   "whyNot": [
+    "",
+    "A normal BNP cannot confirm HF; it argues against it.",
+    "COPD may raise BNP but does not make a normal result useless.",
+    "Urgent referral is triggered by a very high NT-proBNP (> 2000 ng/L).",
+    "COPD tends to raise BNP; obesity is the classic cause of falsely low values."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q24",
+   "kind": "emq",
+   "leadIn": "For each scenario, choose the single most useful investigation. Any option can fit one case, several cases, or none.",
+   "pool": "worked",
+   "difficulty": 2,
+   "theme": "Investigations in heart failure",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 486,
+     "page": 464,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 489,
+     "page": 467,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 477,
+     "page": 440
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 478,
+     "page": 441
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1093,
+     "page": 1077,
+     "chapter": "Cardiology"
+    }
+   ],
+   "options": [
+    "Chest X-ray",
+    "12-lead ECG",
+    "BNP or NT-proBNP",
+    "Transthoracic echocardiography",
+    "Dobutamine stress echo or cardiac MRI for viability",
+    "Coronary angiography",
+    "Thyroid function tests",
+    "Serum troponin",
+    "D-dimer",
+    "Cardiopulmonary exercise testing (peak VO2)"
+   ],
+   "items": [
+    {
+     "stem": "A 69-year-old man has exertional breathlessness, bibasal crackles and a raised NT-proBNP. Which test confirms the diagnosis and measures his ejection fraction?",
+     "answer": 3,
+     "explanation": "**Step 1:** an abnormal peptide means HF is possible. **Step 2:** the next test in the pathway is **echocardiography**, which measures EF, systolic and diastolic function, wall motion and valves. **Step 3:** it also shows the cause and who needs long-term drugs.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s5"
+     }
+    },
+    {
+     "stem": "A 66-year-old with ischaemic HFrEF has an akinetic anterior wall. The surgeons ask whether bypass grafting could improve his LV function.",
+     "answer": 4,
+     "explanation": "**Step 1:** revascularisation helps only if the dysfunctional muscle is alive but underperfused (**hibernating**). **Step 2:** viability is shown by stress echo, nuclear imaging or **cardiac MRI**. **Step 3:** angiography shows the anatomy but not whether the muscle will recover.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s5"
+     }
+    },
+    {
+     "stem": "A 74-year-old woman has new HF with atrial fibrillation, weight loss despite a good appetite, and a fine tremor.",
+     "answer": 6,
+     "explanation": "**Step 1:** HF with AF in an older patient warrants **thyroid function tests**. **Step 2:** weight loss, tremor and AF suggest thyrotoxicosis, a reversible high-output cause. **Step 3:** treating it may reverse the failure.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s5"
+     }
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q25",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the physical sign being described or most expected. Any option can fit one case, several cases, or none.",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Physical signs in heart failure",
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 53,
+     "page": 53
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 54,
+     "page": 54
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1046,
+     "page": 1030,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 485,
+     "page": 463,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 21,
+     "page": 21
+    }
+   ],
+   "options": [
+    "Third heart sound (S3)",
+    "Fourth heart sound (S4)",
+    "Pulsus alternans",
+    "Pulsus paradoxus",
+    "Hepatojugular reflux",
+    "Pulsatile hepatomegaly",
+    "Right ventricular heave",
+    "Displaced, dyskinetic apex beat",
+    "Bibasal inspiratory crackles",
+    "Sacral pitting oedema",
+    "Bigeminal pulse",
+    "New pansystolic murmur"
+   ],
+   "items": [
+    {
+     "stem": "A 66-year-old with end-stage dilated cardiomyopathy is in sinus rhythm. When the BP cuff is deflated slowly, Korotkoff sounds are at first heard only with every second beat.",
+     "answer": 2,
+     "explanation": "Sounds at first only on alternate beats mean alternate beats have lower systolic pressure in a regular rhythm: **pulsus alternans**, a sign of severe LV failure.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s4"
+     }
+    },
+    {
+     "stem": "A 72-year-old hypertensive man with marked LVH is in sinus rhythm. A low-pitched extra sound is heard just before the first heart sound.",
+     "answer": 1,
+     "explanation": "An **S4** comes from atrial contraction into a stiff, hypertrophied ventricle and precedes S1. It cannot occur in AF.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s4"
+     }
+    },
+    {
+     "stem": "An 84-year-old nursing-home resident with right heart failure has been bed-bound for months. Her ankles are not swollen.",
+     "answer": 9,
+     "explanation": "Dependent oedema collects where gravity takes it: in bed-bound patients over the **sacrum** and thighs rather than the ankles.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s4"
+     }
+    },
+    {
+     "stem": "A man with cor pulmonale and severe tricuspid regurgitation has an enlarged liver that moves outwards with every heartbeat.",
+     "answer": 5,
+     "explanation": "With TR, the systolic wave is transmitted to the hepatic veins, making the liver **pulsatile**.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s4"
+     }
+    },
+    {
+     "stem": "Four days after an inferior MI, a 68-year-old woman suddenly develops pulmonary oedema. Auscultation reveals a loud murmur that was not present on admission.",
+     "answer": 11,
+     "explanation": "A **new systolic murmur** after MI with acute pulmonary oedema suggests acute mitral regurgitation or ventricular septal rupture.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s4"
+     }
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q26",
+   "kind": "emq",
+   "leadIn": "For each patient, choose the single most appropriate next intervention. Any option can fit one case, several cases, or none.",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Acute heart failure: immediate management",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 487,
+     "page": 465,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 18,
+     "page": 18
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 482,
+     "page": 445
+    }
+   ],
+   "options": [
+    "Sit upright and give high-flow oxygen",
+    "IV furosemide",
+    "IV glyceryl trinitrate infusion",
+    "CPAP via a tight-fitting mask",
+    "IV dobutamine infusion",
+    "Intra-aortic balloon pump",
+    "Small dose of IV opiate",
+    "Stop the running IV fluids",
+    "IV noradrenaline",
+    "Prophylactic low-molecular-weight heparin",
+    "Oral bisoprolol up-titration",
+    "Elective coronary bypass surgery"
+   ],
+   "items": [
+    {
+     "stem": "An 86-year-old frail woman is 2 days after hip surgery and has received 3 litres of IV fluid a day. She is now breathless with bilateral crackles. She is already sitting up on oxygen. What addresses the cause?",
+     "answer": 7,
+     "explanation": "Iatrogenic **fluid overload** in a frail patient is a classic cause of acute LVF. \"Pour SOD\": stop (pour away) the IV fluids first.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s6"
+     }
+    },
+    {
+     "stem": "A 70-year-old man with acute pulmonary oedema has been sat up, given oxygen and IV furosemide 50 mg. His BP is 172/98 mmHg and he is still very breathless.",
+     "answer": 2,
+     "explanation": "With SBP well above 100–110 mmHg, a **nitrate infusion** lowers preload and afterload; titrate every 10 min against BP.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s6"
+     }
+    },
+    {
+     "stem": "Despite oxygen, IV nitrate and diuretic, a 75-year-old woman with pulmonary oedema has SpO2 85% and is tiring, though she is alert and cooperative and her BP is 140/85 mmHg.",
+     "answer": 3,
+     "explanation": "**CPAP** (5–10 mmHg) lowers preload and the capillary hydrostatic gradient and improves oxygenation in an alert patient.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s6"
+     }
+    },
+    {
+     "stem": "After a large anterior MI, a 62-year-old man has pulmonary oedema with SBP 80 mmHg, cold peripheries and oliguria that persist despite a dobutamine infusion.",
+     "answer": 5,
+     "explanation": "Cardiogenic pulmonary oedema with **shock** unresponsive to inotropes: an **intra-aortic balloon pump** supports the circulation (e.g. as a bridge to revascularisation).",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s6"
+     }
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q27",
+   "kind": "emq",
+   "leadIn": "For each patient with heart failure with reduced ejection fraction, choose the most appropriate next step. Any option can fit one case, several cases, or none.",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Chronic HFrEF: next step in treatment",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 489,
+     "page": 467,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1084,
+     "page": 1068,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 20,
+     "page": 20
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 58,
+     "page": 58
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 487,
+     "page": 465,
+     "chapter": "Cardiology"
+    }
+   ],
+   "options": [
+    "Add bisoprolol at a low dose",
+    "Switch the ACE inhibitor to candesartan",
+    "Replace the ACE inhibitor with sacubitril–valsartan",
+    "Add spironolactone",
+    "Add ivabradine",
+    "Add digoxin",
+    "Add hydralazine with isosorbide dinitrate",
+    "Implant CRT with defibrillator (CRT-D)",
+    "Implant an ICD alone",
+    "Refer for cardiac transplant assessment",
+    "Add amiodarone prophylactically",
+    "Add metolazone"
+   ],
+   "items": [
+    {
+     "stem": "A 67-year-old man with EF 30% is euvolaemic on ramipril 10 mg and furosemide. He has NYHA class II symptoms, is in sinus rhythm at 82/min, and has no asthma.",
+     "answer": 0,
+     "explanation": "Every HFrEF patient should have an ACE inhibitor **and** a β-blocker. He lacks the β-blocker, so start **bisoprolol at a low dose** and titrate.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s7"
+     }
+    },
+    {
+     "stem": "A 70-year-old woman with EF 28% stays in NYHA class III on target-dose ramipril and bisoprolol. Potassium is 4.3 mmol/L and creatinine is normal.",
+     "answer": 3,
+     "explanation": "Still symptomatic on ACE inhibitor + β-blocker with severe LV systolic dysfunction and safe potassium: add an **MRA** (the second \"A\" of ABAL).",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s7"
+     }
+    },
+    {
+     "stem": "A 63-year-old man with EF 25% has NYHA class III symptoms on optimal drugs including an MRA. He is in sinus rhythm; QRS is 160 ms with left bundle branch block.",
+     "answer": 7,
+     "explanation": "He meets primary-prevention ICD criteria (EF ≤ 35%, NYHA < IV), and the wide-QRS LBBB adds resynchronisation, so **CRT-D**.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s8"
+     }
+    },
+    {
+     "stem": "A 38-year-old man with dilated cardiomyopathy remains breathless at rest despite all recommended drugs and a CRT-D device. Right heart catheterisation shows normal pulmonary vascular resistance.",
+     "answer": 9,
+     "explanation": "Young, intractable HF despite optimal therapy, without high pulmonary vascular resistance: **transplant assessment**.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s8"
+     }
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q28",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s7"
+   },
+   "cites": [
+    {
+     "book": "washington36",
+     "pdfPage": 395,
+     "page": 395
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 60,
+     "page": 60
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 57,
+     "page": 57
+    }
+   ],
+   "stem": "A 68-year-old man with HFrEF (EF 30%) on ramipril and bisoprolol remains in NYHA class III. Potassium is 5.4 mmol/L and creatinine 1.4 mg/dL.",
+   "leadIn": "Why should spironolactone not be started at present?",
+   "options": [
+    "His potassium is 5.0 mmol/L or more",
+    "His creatinine exceeds the safe limit for men",
+    "His ejection fraction is too high",
+    "He is already taking a β-blocker",
+    "Spironolactone has no survival benefit in HFrEF"
+   ],
+   "answer": 0,
+   "explanation": "MRAs need **K+ < 5.0 mmol/L** and creatinine < 2.5 mg/dL in men (< 2.0 in women). His potassium is already 5.4, so adding an MRA to an ACE inhibitor risks dangerous hyperkalaemia.",
+   "whyNot": [
+    "",
+    "His creatinine of 1.4 mg/dL is below the 2.5 mg/dL threshold.",
+    "An EF of 30% is within the MRA indication (EF < 35%).",
+    "MRAs are added on top of ACE inhibitor + β-blocker.",
+    "MRAs reduce mortality and admissions in severe HFrEF (RALES)."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q29",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 485,
+     "page": 463,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 50,
+     "page": 50
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 481,
+     "page": 444
+    }
+   ],
+   "stem": "A 57-year-old man on haemodialysis through a large brachiocephalic arteriovenous fistula develops breathlessness and oedema. His hands are warm, the pulse is bounding and the echo shows a hyperdynamic LV with an EF of 65%.",
+   "leadIn": "What type of heart failure is this?",
+   "options": [
+    "High-output heart failure",
+    "HF with reduced ejection fraction",
+    "Cor pulmonale",
+    "Constrictive pericarditis",
+    "Restrictive cardiomyopathy"
+   ],
+   "answer": 0,
+   "explanation": "A large **AV shunt** forces the heart to pump excessive volumes: **high-output failure** with warm peripheries and a vigorous LV.",
+   "whyNot": [
+    "",
+    "EF is 65%, not reduced.",
+    "There is no chronic lung disease.",
+    "Constriction gives a small-volume pulse and impaired filling.",
+    "Restriction causes stiff ventricles with biatrial enlargement, not a hyperdynamic state."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q30",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can fit one case, several cases, or none.",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Causes of right-sided heart failure",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 483,
+     "page": 461,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 484,
+     "page": 462,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1088,
+     "page": 1072,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 54,
+     "page": 54
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 21,
+     "page": 21
+    }
+   ],
+   "options": [
+    "Chronic obstructive pulmonary disease",
+    "Acute massive pulmonary embolism",
+    "Pulmonary valve stenosis",
+    "Atrial septal defect",
+    "Right ventricular infarction",
+    "Tricuspid stenosis",
+    "Chronic left ventricular failure",
+    "Mitral stenosis",
+    "Arrhythmogenic right ventricular cardiomyopathy",
+    "Primary pulmonary hypertension",
+    "Constrictive pericarditis"
+   ],
+   "items": [
+    {
+     "stem": "A 41-year-old woman has a dilated right ventricle due to volume overload; echo shows left-to-right shunting at atrial level.",
+     "answer": 3,
+     "explanation": "RV **volume** overload from an **atrial septal defect**.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s3"
+     }
+    },
+    {
+     "stem": "A 59-year-old man with an inferior STEMI is hypotensive, with a markedly raised JVP but clear lung fields.",
+     "answer": 4,
+     "explanation": "Raised JVP with clear lungs during inferior MI means the RV, not the LV, has failed: **RV infarction**.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s3"
+     }
+    },
+    {
+     "stem": "A 72-year-old ex-smoker with FEV1 35% predicted and chronic hypoxaemia has a raised JVP and ankle oedema. His left ventricle is normal on echo.",
+     "answer": 0,
+     "explanation": "Right HF from chronic lung disease (cor pulmonale), most often **COPD**.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s3"
+     }
+    },
+    {
+     "stem": "A 70-year-old man had an anterior MI 6 years ago and has an EF of 25%. Over recent months his JVP has risen and he has developed hepatomegaly and ascites.",
+     "answer": 6,
+     "explanation": "Chronic **left** HF raises pulmonary pressures and eventually causes right HF (biventricular failure), the commonest route overall.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s3"
+     }
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q31",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 3,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 489,
+     "page": 467,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1092,
+     "page": 1076
+    }
+   ],
+   "stem": "A 45-year-old man with long-standing severe left heart failure is assessed for heart transplantation. Right heart catheterisation shows a markedly raised, fixed pulmonary vascular resistance.",
+   "leadIn": "Why would conventional heart transplantation be inappropriate?",
+   "options": [
+    "The donor right ventricle would fail against the high pulmonary resistance",
+    "Graft coronary atherosclerosis would be inevitable within a year",
+    "He is too old to be considered",
+    "Immunosuppression cannot be given with pulmonary hypertension",
+    "The donor heart cannot be denervated"
+   ],
+   "answer": 0,
+   "explanation": "A normal donor RV is not conditioned to pump against high pulmonary vascular resistance and **fails**. This is why long-standing left HF with pulmonary vascular disease, Eisenmenger syndrome and primary pulmonary hypertension contraindicate conventional transplant.",
+   "whyNot": [
+    "",
+    "Graft vasculopathy is a late problem (30–50% at 5 years), not the reason to decline.",
+    "Transplant is aimed at younger patients; 45 is within range.",
+    "Immunosuppression is not contraindicated by pulmonary hypertension.",
+    "Transplanted hearts are always denervated; this is why angina is rare."
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q32",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can fit one case, several cases, or none.",
+   "pool": "mock",
+   "difficulty": 2,
+   "theme": "Causes of peripheral oedema",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 485,
+     "page": 463,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 54,
+     "page": 54
+    }
+   ],
+   "options": [
+    "Right heart failure",
+    "Constrictive pericarditis",
+    "Chronic venous insufficiency",
+    "Nephrotic syndrome",
+    "Cirrhosis with hypoalbuminaemia",
+    "Protein-losing enteropathy",
+    "Amlodipine",
+    "Fludrocortisone",
+    "Chronic lymphatic obstruction",
+    "Idiopathic oedema"
+   ],
+   "items": [
+    {
+     "stem": "A 58-year-old man started amlodipine 10 mg for hypertension 6 weeks ago. He now has bilateral ankle swelling; JVP, albumin and urine dipstick are normal.",
+     "answer": 6,
+     "explanation": "Dihydropyridine calcium-channel blockers cause oedema by raising **capillary permeability**, not by heart failure.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s4"
+     }
+    },
+    {
+     "stem": "A 44-year-old woman has puffy eyelids each morning and swollen legs. Urine dipstick shows 4+ protein and serum albumin is 18 g/L.",
+     "answer": 3,
+     "explanation": "Heavy proteinuria with low albumin and facial oedema indicates **nephrotic syndrome**; hypoalbuminaemic oedema often spreads to the face and arms.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s4"
+     }
+    },
+    {
+     "stem": "A 66-year-old woman with long-standing varicose veins has ankle swelling that worsens through the day. JVP, albumin and echocardiogram are normal.",
+     "answer": 2,
+     "explanation": "Varicose veins with normal cardiac and protein findings: **chronic venous insufficiency**, the commonest non-cardiac mimic in older people.",
+     "studyRef": {
+      "sectionId": "cardio-heart-failure.s4"
+     }
+    }
+   ]
+  },
+  {
+   "id": "cardio-heart-failure.q33",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "studyRef": {
+    "sectionId": "cardio-heart-failure.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 489,
+     "page": 467,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 394,
+     "page": 394
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1090,
+     "page": 1074
+    }
+   ],
+   "stem": "A 66-year-old man with HFrEF on enalapril, bisoprolol and eplerenone remains in NYHA class III. His cardiologist replaces enalapril with sacubitril–valsartan.",
+   "leadIn": "What is the mechanism of sacubitril?",
+   "options": [
+    "Inhibits neprilysin, preventing breakdown of natriuretic peptides",
+    "Blocks the angiotensin II type 1 receptor",
+    "Inhibits angiotensin-converting enzyme",
+    "Blocks the If current in the sinus node",
+    "Antagonises the mineralocorticoid receptor"
+   ],
+   "answer": 0,
+   "explanation": "**Sacubitril** inhibits neprilysin, the enzyme that breaks down ANP and BNP (endogenous diuretics/vasodilators). Valsartan supplies the AT1 blockade. The combination added symptom and mortality benefit over ACE inhibition; angio-oedema is commoner.",
+   "whyNot": [
+    "",
+    "AT1 blockade is the valsartan component.",
+    "ACE inhibition is what it replaces; combining with an ACE inhibitor is avoided.",
+    "That is ivabradine.",
+    "That is spironolactone or eplerenone."
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "cardio-heart-failure.o1",
+   "sectionId": "cardio-heart-failure.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 486,
+    "page": 464,
+    "chapter": "Cardiology",
+    "figure": "Fig. 16.27"
+   },
+   "identify": "Pulmonary oedema on CXR: prominent upper lobe veins, enlarged hila, reticular alveolar shadowing, cardiomegaly; inset shows Kerley B septal lines at the base → left heart failure."
+  },
+  {
+   "id": "cardio-heart-failure.o2",
+   "sectionId": "cardio-heart-failure.s5",
+   "cite": {
+    "book": "kcEssentials",
+    "pdfPage": 449,
+    "page": 412,
+    "figure": "Fig. 10.1"
+   },
+   "identify": "Acute LVF CXR: cardiomegaly, hilar haze, Kerley B lines, upper lobe venous engorgement and fluid in the right horizontal fissure (interstitial oedema)."
+  },
+  {
+   "id": "cardio-heart-failure.o3",
+   "sectionId": "cardio-heart-failure.s5",
+   "cite": {
+    "book": "stepup6",
+    "pdfPage": 56,
+    "page": 56,
+    "figure": "Figure 1-8"
+   },
+   "identify": "Cardiogenic pulmonary oedema; the second film also shows cardiomegaly from chronic heart failure."
+  },
+  {
+   "id": "cardio-heart-failure.o4",
+   "sectionId": "cardio-heart-failure.s8",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 489,
+    "page": 467,
+    "chapter": "Cardiology",
+    "figure": "Fig. 16.30"
+   },
+   "identify": "CRT-D on CXR: three leads: RA appendage, RV apex (pacing + defibrillator coil) and LV lead via the coronary sinus → biventricular pacing for HF with wide QRS."
+  },
+  {
+   "id": "cardio-heart-failure.o5",
+   "sectionId": "cardio-heart-failure.s1",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 483,
+    "page": 461,
+    "chapter": "Cardiology",
+    "figure": "Fig. 16.24"
+   },
+   "identify": "Starling curves: worsening HF moves the curve right and flattens it; more contractility or less afterload shifts it up and left."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:44:07.920Z",
+  "contentHash": "05a325133fbcdb80395b541dbefc90e858578f8ecf5bddf1a5c0678fe0f39287"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:44:07.928Z",
+  "contentHash": "05a325133fbcdb80395b541dbefc90e858578f8ecf5bddf1a5c0678fe0f39287",
+  "checkerVersion": "source-check-v1"
+ }
+}

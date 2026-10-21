@@ -1,0 +1,3084 @@
+{
+ "topicId": "heme-iron-deficiency",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "heme-iron-deficiency.s1",
+   "title": "Definition and why iron lack makes small red cells",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Anaemia** is a haemoglobin concentration **below the reference range for the person’s age and sex**. Pregnancy and living at altitude also change what counts as normal. Anaemia is a finding that points to an underlying disease, not a diagnosis in itself. The first step in classifying it is the **MCV** (micro-, normo- or macrocytic).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 945,
+       "page": 923
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 179,
+       "page": 179
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Reference values differ between books",
+     "columns": [
+      "Source",
+      "Hb (men)",
+      "Hb (women)",
+      "Normal MCV"
+     ],
+     "rows": [
+      [
+       "Davidson 24e",
+       "—",
+       "—",
+       "**76–100 fL** (microcytosis < 76 fL, macrocytosis > 100 fL)"
+      ],
+      [
+       "Zero to Finals",
+       "130–180 g/L",
+       "120–165 g/L",
+       "80–100 fL"
+      ],
+      [
+       "K&C Essentials",
+       "135–175 g/L",
+       "115–160 g/L",
+       "80–96 fL"
+      ],
+      [
+       "Pocket Medicine",
+       "Anaemia if Hb < 13.5 g/dL",
+       "Anaemia if Hb < 12 g/dL",
+       "—"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 946,
+       "page": 924
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 179,
+       "page": 179
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 235,
+       "page": 198
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 321,
+       "page": 321
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Iron deficiency anaemia (IDA)** develops when iron losses or physiological needs outstrip what the gut can absorb. It is the **commonest anaemia in the world**: about 30% of people are anaemic, and roughly half of them (about 600 million) are iron deficient.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 962,
+       "page": 940
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 236,
+       "page": 199
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Why the cells are small:** red cell precursors must reach a minimum haemoglobin content before leaving the marrow. If haemoglobin is made slowly, the precursors go through **extra cell divisions** while they wait, so they are released with a **low MCV**. In IDA the missing building block is **iron**. The same logic applies to thalassaemia (globin) and sideroblastic anaemia (haem).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 962,
+       "page": 940
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 963,
+       "page": 941,
+       "figure": "Fig. 23.17"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "The sequence of iron deficiency",
+     "items": [
+      "Body and marrow iron stores are used up first.",
+      "Haem synthesis then falls.",
+      "Red cells become **microcytic**, and finally **anaemia** appears."
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 236,
+       "page": 199
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 322,
+       "page": 322
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Microcytosis cut-off: **Davidson uses MCV < 76 fL**, while most quick sources (K&C Essentials, First Aid) use **< 80 fL**. Follow Davidson, but recognise both numbers in a stem.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 943,
+       "page": 921
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 238,
+       "page": 201
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 409,
+       "page": 409
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 963,
+      "page": 941,
+      "figure": "Fig. 23.17"
+     },
+     "note": "Look at: slow haemoglobinisation (iron lack, thalassaemia, sideroblastic) gives small cells, while defective DNA synthesis gives large cells."
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.s2",
+   "title": "Iron metabolism: absorption, transport, storage and hepcidin",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Iron balance in numbers",
+     "items": [
+      "The body has **no physiological way to excrete iron**, so balance depends entirely on controlling **absorption**.",
+      "Obligatory loss is about **1 mg/day** (shed skin and gut cells). Losing just 2 mL of blood a day doubles the requirement.",
+      "Each period costs about **20 mg** extra, so premenopausal women need roughly **twice as much iron as men**.",
+      "A UK diet supplies 15–20 mg/day, but only about **10%** is absorbed. Maximum absorption is about **3.5 mg/day**.",
+      "Reference nutrient intake: **8.7 mg/day**, rising to **14.8 mg/day** for women under 50."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 739,
+       "page": 717
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 237,
+       "page": 200
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 964,
+       "page": 942,
+       "figure": "Fig. 23.18"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 236,
+       "page": 199
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "What changes iron absorption",
+     "columns": [
+      "Increases absorption",
+      "Decreases absorption"
+     ],
+     "rows": [
+      [
+       "**Haem** iron (red meat, liver)",
+       "**Non-haem** iron (vegetables, cereals), although it makes up most of the diet"
+      ],
+      [
+       "**Ferrous** (Fe2+) form",
+       "Ferric (Fe3+) form"
+      ],
+      [
+       "Gastric acid; vitamin C",
+       "Achlorhydria (elderly, PPIs), gastric surgery"
+      ],
+      [
+       "Low iron stores",
+       "Tea tannins, phytates, phosphates, dietary calcium"
+      ],
+      [
+       "Increased erythropoiesis (bleeding, haemolysis, altitude)",
+       "Iron overload (except in haemochromatosis)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 739,
+       "page": 717
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 354,
+       "page": 330
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 237,
+       "page": 200
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 963,
+       "page": 941
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Absorption pathway:** gastric acid releases iron from food and keeps it soluble as Fe2+. Uptake is active and happens in the **duodenum / upper small intestine**, which is why coeliac disease, PPIs and gastric surgery cause deficiency. At the brush border a **ferric reductase** converts Fe3+ to Fe2+, and **DMT1** carries it into the enterocyte. **Ferroportin**, helped by **hephaestin**, exports it into plasma. Iron that is not exported stays in the cell as ferritin and is lost when the enterocyte is shed.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 963,
+       "page": 941
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 354,
+       "page": 330
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 181,
+       "page": 181
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Transport and storage:** **transferrin** (made in the liver) carries two ferric atoms per molecule and is normally about **one-third saturated**. Most iron on transferrin comes from **macrophages recycling old red cells**, not from the gut. Body iron is about 65% in haemoglobin, 29% in ferritin, 4% in myoglobin and 2% in enzymes. Stores are about two-thirds **ferritin** (soluble, quickly mobilised, an acute-phase protein) and one-third **haemosiderin** (insoluble, seen in marrow macrophages with **Perls’ stain**).",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 354,
+       "page": 330
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 964,
+       "page": 942
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 237,
+       "page": 200
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Hepcidin: the master regulator",
+     "columns": [
+      "State",
+      "Triggers",
+      "Effect",
+      "Result"
+     ],
+     "rows": [
+      [
+       "**High hepcidin**",
+       "Inflammatory cytokines, especially **IL-6**",
+       "Ferroportin is internalised and degraded",
+       "Iron trapped in enterocytes and macrophages as ferritin, giving **anaemia of chronic disease**"
+      ],
+      [
+       "**Low hepcidin**",
+       "Anaemia, hypoxia, low iron stores",
+       "Ferroportin stays on the cell surface",
+       "More iron absorbed and released into plasma"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 965,
+       "page": 943
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 964,
+       "page": 942,
+       "figure": "Fig. 23.18"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 239,
+       "page": 202
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Hepcidin is made by the **liver** and acts on **ferroportin**. Too much causes iron-restricted anaemia (ACD). A rare inherited fault in hepcidin regulation causes **iron-refractory iron-deficiency anaemia (IRIDA)**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 965,
+       "page": 943
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 323,
+       "page": 323
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 964,
+      "page": 942,
+      "figure": "Fig. 23.18"
+     },
+     "note": "Look at: haem vs non-haem uptake, enterocyte ferroportin, and high vs low hepcidin states with their triggers."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 353,
+      "page": 329,
+      "figure": "Fig. 16.8"
+     },
+     "note": "Look at: duodenal enterocyte with ferric reductase, DMT1, ferroportin and hephaestin, and hepcidin control."
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.s3",
+   "title": "Causes of iron deficiency",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Four mechanisms",
+     "columns": [
+      "Mechanism",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "**Blood loss** (most cases)",
+       "GI: occult gastric or colorectal cancer, gastritis, peptic ulcer, IBD, diverticulitis, polyps, angiodysplasia; worsened by aspirin and NSAIDs. Uterine: menorrhagia. Parasites: hookworm, schistosomiasis. Rarely: chronic haemoptysis or haematuria"
+      ],
+      [
+       "**Increased demand**",
+       "Infancy and puberty (rapid growth), pregnancy, breastfeeding, erythropoietin therapy"
+      ],
+      [
+       "**Reduced absorption**",
+       "Achlorhydria (elderly, PPIs), previous gastric surgery, coeliac disease, Crohn’s disease"
+      ],
+      [
+       "**Poor intake**",
+       "Uncommon alone in developed countries; the usual cause in growing children"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 962,
+       "page": 940
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 963,
+       "page": 941
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 238,
+       "page": 201
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 409,
+       "page": 409
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 181,
+       "page": 181
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 323,
+       "page": 323
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In **men and postmenopausal women**, chronic blood loss causing IDA is from the **GI tract**. The priority is to rule out **gastric or right-colon cancer** and **coeliac disease**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1200,
+       "page": 1185
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 962,
+       "page": 940
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Occult GI bleeding can reach **200 mL/day**. **Caecal carcinoma** is the key cause to exclude because it may cause no GI symptoms at all.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 805,
+       "page": 783
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Who gets it",
+     "items": [
+      "Adults: **blood loss** is the commonest cause. Growing children: **diet**.",
+      "Women of child-bearing age: periods, pregnancy and breastfeeding deplete stores. In developed countries one-third of premenopausal women have low stores, but only **3%** have iron-deficient red cell production.",
+      "High-risk groups: toddlers, adolescent girls and women of reproductive age.",
+      "Worldwide: **hookworm** is the commonest cause of chronic GI blood loss; schistosomiasis is another."
+     ],
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 181,
+       "page": 181
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 963,
+       "page": 941
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 409,
+       "page": 409
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1200,
+       "page": 1185
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "In pregnancy, iron goes to the fetus, the placenta and the larger maternal red cell mass, and more is lost with bleeding at delivery.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 963,
+       "page": 941
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Always ask about **aspirin and NSAIDs**. They cause gut erosions **and** impair platelet function, so they make any GI blood loss worse.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 962,
+       "page": 940
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 963,
+       "page": 941
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.s4",
+   "title": "Clinical features",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**General anaemia symptoms** come from reduced tissue oxygen delivery: tiredness, breathlessness, headache, dizziness and palpitations, with worsening angina, heart failure or claudication. **Speed of onset matters**: sudden anaemia from bleeding causes more symptoms than slowly developing IDA, which can be silent. Patients who are older or have heart or lung disease tolerate it poorly, and may have a flow murmur or cardiac failure.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 945,
+       "page": 923
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 180,
+       "page": 180
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 238,
+       "page": 201
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 235,
+       "page": 198
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Features that point to iron lack itself",
+     "columns": [
+      "Feature",
+      "What you see"
+     ],
+     "rows": [
+      [
+       "**Koilonychia**",
+       "Brittle, spoon-shaped (concave) nails"
+      ],
+      [
+       "**Atrophic glossitis**",
+       "Smooth tongue from atrophy of the papillae"
+      ],
+      [
+       "**Angular stomatitis / cheilitis**",
+       "Cracks at the corners of the mouth"
+      ],
+      [
+       "Hair changes",
+       "Brittle hair; diffuse shedding and thinning, often in menstruating women who avoid red meat"
+      ],
+      [
+       "**Pica**",
+       "Craving non-food items such as ice, clay or soil"
+      ],
+      [
+       "Generalised pruritus",
+       "Itch without a rash"
+      ],
+      [
+       "**Plummer–Vinson syndrome**",
+       "Dysphagia from a post-cricoid web (see below)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 355,
+       "page": 331
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 180,
+       "page": 180
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 702,
+       "page": 680
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 322,
+       "page": 322
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 238,
+       "page": 201
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 717,
+       "page": 695
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Plummer–Vinson (Paterson–Brown–Kelly) syndrome** is a rare complication of long-standing IDA, mainly in women. A thin **post-cricoid oesophageal web**, usually on the front wall, causes dysphagia. It shows well on **barium swallow** but is easily broken by the endoscope, so it can be missed. Dilatation is rarely needed; treat the iron deficiency. It is **premalignant**: it can lead to **squamous cell carcinoma**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 818,
+       "page": 796
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1184,
+       "page": 1169
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "History checklist",
+     "items": [
+      "A full GI history, looking especially for symptoms of blood loss.",
+      "Menstrual history in **every** woman (menorrhagia is common).",
+      "Diet, including iron intake.",
+      "Previous gastric or bowel resection.",
+      "Drugs: aspirin, NSAIDs, PPIs."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 945,
+       "page": 923
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 963,
+       "page": 941
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Older people: anaemia is **never \"normal for age\"**. Symptoms can be subtle, mainly breathlessness, oedema, dizziness and apathy. GI blood loss is still the commonest cause of their IDA.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The Plummer–Vinson \"triad\" is phrased differently by different books: IDA + web + **dysphagia** (First Aid) or IDA + web + **atrophic glossitis** (Pocket). Recognise either form.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 410,
+       "page": 410
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 322,
+       "page": 322
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 409,
+       "page": 409
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 934,
+      "page": 912,
+      "figure": "Clinical examination (p. 912)"
+     },
+     "note": "Look at: koilonychia, and glossitis with angular stomatitis, in iron deficiency."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "fa2ck11",
+      "pdfPage": 410,
+      "page": 410,
+      "figure": "FIGURE 2.7-7"
+     },
+     "note": "Look at: the concave, spoon-shaped nail plate of koilonychia."
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.s5",
+   "title": "Investigations: confirm the deficiency, then find the cause",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Full blood count and film",
+     "items": [
+      "**Microcytic** (low MCV) and **hypochromic** (low MCH, MCHC) red cells.",
+      "**Anisocytosis** (variable size) and **poikilocytosis** (variable shape). Target cells may be seen.",
+      "Reticulocytes low; platelets may be raised.",
+      "Starting tests for any anaemia: Hb, MCV, ferritin, B12, folate and a film."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 355,
+       "page": 331
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 238,
+       "page": 201
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 410,
+       "page": 410
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 323,
+       "page": 323
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 178,
+       "page": 178
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 180,
+       "page": 180
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Iron studies in IDA",
+     "columns": [
+      "Test",
+      "In IDA",
+      "Watch out for"
+     ],
+     "rows": [
+      [
+       "**Serum ferritin**",
+       "**Low**. The best single test: a low value means iron deficiency (very rarely hypothyroidism or vitamin C deficiency)",
+       "Acute-phase protein, also raised in liver disease: ferritin **up to 100 μg/L** can still fit with empty marrow stores. In older people < 45 μg/L strongly predicts deficiency"
+      ],
+      [
+       "Serum iron",
+       "Low",
+       "Varies through the day and from day to day; falls in the acute phase, rises in liver disease and haemolysis"
+      ],
+      [
+       "TIBC (transferrin)",
+       "**High**",
+       "Low in malnutrition, liver disease, acute phase and nephrotic syndrome; high in pregnancy and on the pill"
+      ],
+      [
+       "Transferrin saturation (iron/TIBC × 100)",
+       "**< 16%** (Davidson)",
+       "Less specific than ferritin"
+      ],
+      [
+       "Soluble transferrin receptor",
+       "**High**",
+       "Stays high despite inflammation or liver disease, so it helps separate IDA from ACD"
+      ],
+      [
+       "Marrow iron (Perls’ / Prussian blue)",
+       "Absent",
+       "Invasive; only for difficult cases"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 963,
+       "page": 941
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 964,
+       "page": 942
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 410,
+       "page": 410
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Transferrin saturation cut-offs differ: **Davidson < 16%**, Kumar and K&C Essentials < 19%, Pocket \"especially < 15%\". Use Davidson’s figure, and remember that saturation is less specific than ferritin.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 964,
+       "page": 942
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 355,
+       "page": 331
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 238,
+       "page": 201
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 323,
+       "page": 323
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A **normal ferritin does not exclude IDA** when there is inflammation, cancer or liver disease. A **low** ferritin, however, is strong evidence of deficiency.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 963,
+       "page": 941
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 238,
+       "page": 201
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Finding the cause:** in **men and postmenopausal women** on a normal diet, examine both the upper and lower GI tract (\"top and tail\"). Do **upper GI endoscopy first, always taking duodenal biopsies** for coeliac disease even if serology was done, then **colonoscopy**. Test for coeliac disease early (**anti-tTG**). If both scopes and the biopsies are normal, **capsule endoscopy** is the small-bowel test of choice. In the tropics, check stool and urine for parasites. Pocket also adds H. pylori serology.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 964,
+       "page": 942
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1200,
+       "page": 1185
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 323,
+       "page": 323
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Premenopausal women",
+     "items": [
+      "Usually caused by menstrual loss.",
+      "Coeliac serology is the main test.",
+      "Endoscopy only if there are GI symptoms, no clear cause, or a strong family history of colorectal cancer at a young age."
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 238,
+       "page": 201
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 180,
+       "page": 180
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 182,
+       "page": 182
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "IDA in an older adult is **colorectal cancer until proven otherwise**.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 411,
+       "page": 411
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 805,
+       "page": 783
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Faecal occult blood testing should not decide whether to scope.** Tumours bleed intermittently, so a negative test does not exclude cancer. FOB is only for population screening.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 805,
+       "page": 783
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1200,
+       "page": 1185
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Other lab traps: iron deficiency lengthens red cell lifespan and can make **HbA1c spuriously high**. Iron tablets or acute liver damage can raise all iron study values, so take the bloods **before treatment**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 743,
+       "page": 721
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 182,
+       "page": 182
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 323,
+       "page": 323
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 355,
+      "page": 331,
+      "figure": "Fig. 16.9"
+     },
+     "note": "Look at: hypochromic microcytic cells with anisocytosis and poikilocytosis."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 943,
+      "page": 921,
+      "figure": "Fig. 23.8"
+     },
+     "note": "Look at: panel A (microcytosis), and compare it with the target cells and other panels."
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.s6",
+   "title": "Differential diagnosis of microcytosis",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The main causes of a low MCV are **iron deficiency, thalassaemia and sideroblastic anaemia**. **Anaemia of chronic disease (ACD)** can also be microcytic, especially when long-standing. Mnemonic **TAILS**: Thalassaemia, ACD, Iron deficiency, Lead poisoning, Sideroblastic anaemia.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 943,
+       "page": 921
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 962,
+       "page": 940
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 179,
+       "page": 179
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Telling the microcytic anaemias apart",
+     "columns": [
+      "Feature",
+      "Iron deficiency",
+      "Chronic disease",
+      "Thalassaemia trait",
+      "Sideroblastic"
+     ],
+     "rows": [
+      [
+       "Faulty step",
+       "Iron supply",
+       "Iron use (hepcidin block)",
+       "Globin chains",
+       "Haem synthesis"
+      ],
+      [
+       "Serum iron",
+       "↓",
+       "↓",
+       "Normal",
+       "↑"
+      ],
+      [
+       "TIBC",
+       "**↑**",
+       "**↓**",
+       "Normal",
+       "Normal"
+      ],
+      [
+       "Ferritin",
+       "**↓**",
+       "Normal or ↑",
+       "Normal",
+       "↑"
+      ],
+      [
+       "Soluble TfR",
+       "↑",
+       "Normal or ↓",
+       "Normal or ↑",
+       "Normal or ↑"
+      ],
+      [
+       "Marrow iron",
+       "Absent",
+       "Present",
+       "Present",
+       "Present, with **ring sideroblasts**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 964,
+       "page": 942
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 355,
+       "page": 331
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 324,
+       "page": 324
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 239,
+       "page": 202
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Anaemia of chronic disease (inflammation)",
+     "items": [
+      "Occurs with chronic infection (e.g. TB), inflammation (RA, Crohn’s), cancer or CKD.",
+      "Mild (Hb **85–115 g/L**) and usually **normocytic**.",
+      "Serum iron low but stores normal or high: hepcidin traps iron as ferritin.",
+      "Iron deficiency often **coexists**. Clues: low ferritin, absent marrow iron, raised sTfR, or a response to oral iron.",
+      "A **trial of oral iron** helps when it is hard to tell from IDA: true IDA responds, ACD does not. Marrow examination may still be needed."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 965,
+       "page": 943
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 239,
+       "page": 202
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 325,
+       "page": 325
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Thalassaemia trait clues",
+     "items": [
+      "MCV **very low for the degree of anaemia** (often < 70 fL), often with little or no anaemia.",
+      "Normal iron and ferritin; Mentzer index (MCV / RBC count) < 13.",
+      "Target cells and basophilic stippling on the film.",
+      "Hb electrophoresis: **raised HbA2 = beta-thal trait**; normal HbA2 suggests alpha-thal trait.",
+      "Suspect it when a mild microcytic anaemia does not respond to iron: a wrong diagnosis such as thalassaemia trait is a classic cause of iron failure."
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 324,
+       "page": 324
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 946,
+       "page": 924,
+       "figure": "Fig. 23.10"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 236,
+       "page": 199
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 356,
+       "page": 332
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Sideroblastic anaemia",
+     "items": [
+      "A refractory anaemia with a **dimorphic film** and **ring sideroblasts** (iron in erythroblast mitochondria around the nucleus, seen with Perls’ stain).",
+      "Inherited: X-linked defect in **delta-ALA synthase (ALAS2)**.",
+      "Acquired: **myelodysplasia** (most adult cases), alcohol, lead, isoniazid; also chloramphenicol and copper deficiency.",
+      "Management: stop the drug or alcohol; some respond to **pyridoxine**; folic acid if folate is also low."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 356,
+       "page": 332
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 239,
+       "page": 202
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 324,
+       "page": 324
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A **mixed picture** (e.g. iron plus B12 or folate deficiency) can give a **normal MCV**. Look at the RDW and the film for two cell populations.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 321,
+       "page": 321
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 235,
+       "page": 198
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 236,
+       "page": 199
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 946,
+      "page": 924,
+      "figure": "Fig. 23.10"
+     },
+     "note": "Look at: the low/normal MCV algorithm: reticulocytes, film, ferritin, HbA2 and marrow."
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.s7",
+   "title": "Management",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Two goals: **find and treat the cause**, and **replace iron** to correct the haemoglobin and refill the stores.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 356,
+       "page": 332
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 965,
+       "page": 943
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Transfusion",
+     "items": [
+      "Not needed unless there is **angina, heart failure or cerebral hypoxia**.",
+      "It corrects the Hb but **not the iron stores**.",
+      "Most chronic anaemia is managed by treating the cause, not by transfusion."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 965,
+       "page": 943
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 182,
+       "page": 182
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 236,
+       "page": 199
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Oral iron",
+     "columns": [
+      "Point",
+      "Detail"
+     ],
+     "rows": [
+      [
+       "Standard regimen",
+       "**Ferrous sulphate 200 mg three times daily** (195 mg elemental iron/day); each tablet holds about 65 mg iron"
+      ],
+      [
+       "Duration",
+       "Continue **3–6 months** to refill stores (K&C Essentials: 3 months after Hb normalises)"
+      ],
+      [
+       "Side-effects",
+       "Dyspepsia, nausea, abdominal pain, constipation or diarrhoea, **black stools**"
+      ],
+      [
+       "If not tolerated",
+       "Drop to 200 mg **twice** daily, or switch to **ferrous gluconate** 300 mg twice daily (70 mg iron/day)"
+      ],
+      [
+       "Avoid",
+       "**Delayed-release** tablets release iron beyond the absorbing segment"
+      ],
+      [
+       "Absorption tips",
+       "Take fasting with orange juice (vitamin C); avoid tea; antacids reduce uptake"
+      ],
+      [
+       "Dosing interval",
+       "A dose quickly raises hepcidin and blunts the next one, so **alternate-day** dosing is being studied and reduces GI upset"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 965,
+       "page": 943
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 280,
+       "page": 243
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 356,
+       "page": 332
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 411,
+       "page": 411
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 182,
+       "page": 182
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Expected response:** reticulocytes rise **within a week**, then Hb climbs by about **10 g/L every 7–10 days** (Davidson; quick sources say about 10 g/L per week) until normal.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 965,
+       "page": 943
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 239,
+       "page": 202
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 182,
+       "page": 182
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "No response to oral iron? Think of",
+     "items": [
+      "Non-adherence.",
+      "Continuing blood loss.",
+      "Malabsorption.",
+      "Wrong diagnosis, e.g. thalassaemia trait."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 965,
+       "page": 943
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 356,
+       "page": 332
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Parenteral iron** is for malabsorption (coeliac disease, gastric bypass), chronic gut disease such as **IBD**, intolerance of every oral form, or hyperemesis gravidarum. **Ferric carboxymaltose** and **iron isomaltoside** cause fewer allergic reactions than iron dextran or sucrose. The dose is worked out from Hb and body weight; give a test dose and watch for anaphylaxis. IV iron **refills stores faster**, but the **Hb does not rise any quicker** than with oral iron.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 965,
+       "page": 943
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 356,
+       "page": 332
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 411,
+       "page": 411
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**H. pylori eradication** is indicated in unexplained IDA once GI bleeding sources have been looked for and excluded.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 822,
+       "page": 800
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Pregnancy: IDA is common and is treated with oral iron. Plasma volume rises by about 40%, so the normal Hb limit falls to **> 105 g/L at 28 weeks**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 963,
+       "page": 941
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Oral iron turns stools black but does **not** make an occult blood test positive. Avoid long-term iron without a reason: excretion is fixed at 1–2 mg/day, so overload can occur.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 323,
+       "page": 323
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 280,
+       "page": 243
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 182,
+       "page": 182
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "heme-iron-deficiency.c1",
+   "sectionId": "heme-iron-deficiency.s1",
+   "front": "Davidson’s MCV cut-off for microcytosis?",
+   "back": "**< 76 fL** (normal 76–100 fL; macrocytosis > 100 fL). Quick sources use < 80 fL.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 963,
+     "page": 941
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 946,
+     "page": 924
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 238,
+     "page": 201
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.c2",
+   "sectionId": "heme-iron-deficiency.s1",
+   "front": "Why are red cells small in iron deficiency?",
+   "back": "Precursors haemoglobinise slowly, so they undergo **extra divisions** in the marrow before release.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 962,
+     "page": 940
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.c3",
+   "sectionId": "heme-iron-deficiency.s2",
+   "front": "How does hepcidin reduce plasma iron?",
+   "back": "It binds **ferroportin** on enterocytes and macrophages and causes it to be internalised, blocking iron export. IL-6 raises it; anaemia, hypoxia and low stores suppress it.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 965,
+     "page": 943
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 964,
+     "page": 942
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.c4",
+   "sectionId": "heme-iron-deficiency.s2",
+   "front": "Why do premenopausal women need about twice as much iron as men?",
+   "back": "Basal loss is ~1 mg/day, and each period adds about **20 mg**. There is no excretion route, so intake must match.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 739,
+     "page": 717
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.c5",
+   "sectionId": "heme-iron-deficiency.s2",
+   "front": "Ferritin vs haemosiderin?",
+   "back": "Ferritin: soluble, quickly mobilised, about two-thirds of stores, an acute-phase protein. Haemosiderin: insoluble, about one-third, seen in marrow macrophages with Perls’ stain.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 354,
+     "page": 330
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.c6",
+   "sectionId": "heme-iron-deficiency.s3",
+   "front": "Commonest cause of IDA in men and postmenopausal women?",
+   "back": "**GI blood loss**. Exclude gastric or right-colon (caecal) cancer and coeliac disease.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 962,
+     "page": 940
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1200,
+     "page": 1185
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.c7",
+   "sectionId": "heme-iron-deficiency.s3",
+   "front": "Commonest worldwide cause of GI blood loss causing IDA?",
+   "back": "**Hookworm** (schistosomiasis is another).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 962,
+     "page": 940
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1200,
+     "page": 1185
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.c8",
+   "sectionId": "heme-iron-deficiency.s4",
+   "front": "Plummer–Vinson syndrome?",
+   "back": "Long-standing IDA with a **post-cricoid web** causing dysphagia, mainly in women. Premalignant (**squamous carcinoma**). Best seen on barium swallow; treat with iron.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 818,
+     "page": 796
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1184,
+     "page": 1169
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.c9",
+   "sectionId": "heme-iron-deficiency.s4",
+   "front": "Signs specific to iron deficiency (not just anaemia)?",
+   "back": "**Koilonychia**, atrophic glossitis, angular stomatitis, brittle hair and nails, pica.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 355,
+     "page": 331
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 180,
+     "page": 180
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.c10",
+   "sectionId": "heme-iron-deficiency.s5",
+   "front": "Best single test for iron deficiency, and its main trap?",
+   "back": "**Serum ferritin**. As an acute-phase protein, a value up to 100 μg/L can still fit with empty stores in inflammation or liver disease.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 963,
+     "page": 941
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.c11",
+   "sectionId": "heme-iron-deficiency.s5",
+   "front": "Transferrin saturation cut-off for IDA (Davidson)?",
+   "back": "**< 16%**, less specific than ferritin. Kumar uses < 19%.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 964,
+     "page": 942
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 355,
+     "page": 331
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.c12",
+   "sectionId": "heme-iron-deficiency.s5",
+   "front": "Role of faecal occult blood testing in unexplained IDA?",
+   "back": "**None**: a negative test does not exclude cancer because tumours bleed intermittently. Scope the upper and lower GI tract anyway.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 805,
+     "page": 783
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.c13",
+   "sectionId": "heme-iron-deficiency.s5",
+   "front": "Order of GI investigation in unexplained IDA?",
+   "back": "OGD with **duodenal biopsies**, then colonoscopy. If both are normal, **capsule endoscopy**.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1200,
+     "page": 1185
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.c14",
+   "sectionId": "heme-iron-deficiency.s6",
+   "front": "TIBC in IDA vs anaemia of chronic disease?",
+   "back": "IDA: **high** TIBC, low ferritin. ACD: **low** TIBC, normal or high ferritin. Both have low serum iron.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 964,
+     "page": 942
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.c15",
+   "sectionId": "heme-iron-deficiency.s6",
+   "front": "Microcytosis with normal ferritin and raised HbA2?",
+   "back": "**Beta-thalassaemia trait**. MCV is very low for the degree of anaemia.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 946,
+     "page": 924
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 355,
+     "page": 331
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.c16",
+   "sectionId": "heme-iron-deficiency.s6",
+   "front": "Ring sideroblasts: what are they and the commonest adult cause?",
+   "back": "Iron-laden mitochondria around the erythroblast nucleus (Perls’ stain). Most adult cases are due to **myelodysplasia**.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 356,
+     "page": 332
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.c17",
+   "sectionId": "heme-iron-deficiency.s7",
+   "front": "Standard oral iron regimen (Davidson)?",
+   "back": "**Ferrous sulphate 200 mg three times daily** (195 mg iron/day) for 3–6 months to refill stores.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 965,
+     "page": 943
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.c18",
+   "sectionId": "heme-iron-deficiency.s7",
+   "front": "Expected response to oral iron?",
+   "back": "Reticulocytes rise within a week; Hb rises about **10 g/L every 7–10 days**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 965,
+     "page": 943
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.c19",
+   "sectionId": "heme-iron-deficiency.s7",
+   "front": "Four reasons for failure of oral iron?",
+   "back": "Non-adherence, continuing blood loss, malabsorption, wrong diagnosis (e.g. thalassaemia trait).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 965,
+     "page": 943
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "heme-iron-deficiency.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 31-year-old woman with heavy periods has Hb 96 g/L and MCV 69 fL. Her marrow is producing red cells normally apart from a shortage of iron.",
+   "leadIn": "Which mechanism best explains her low MCV?",
+   "options": [
+    "Extra precursor divisions while haemoglobin is slowly acquired",
+    "Fewer precursor divisions from impaired DNA synthesis",
+    "Shortened red cell survival from haemolysis",
+    "Exchange of membrane lipid with raised plasma lipids",
+    "Release of large numbers of reticulocytes"
+   ],
+   "answer": 0,
+   "explanation": "Precursors must reach a minimum Hb content before release. When iron is short they keep dividing while they wait, so the cells released are **small**. This is the shared mechanism of all the \"defective haemoglobinisation\" anaemias.",
+   "whyNot": [
+    "",
+    "Impaired DNA synthesis (B12 or folate deficiency) means fewer divisions and **large** cells.",
+    "Haemolysis shortens survival but does not make cells small; the reticulocytosis tends to raise the MCV.",
+    "Raised plasma lipids (liver disease, hypothyroidism) cause **macrocytosis**.",
+    "Reticulocytes are larger than mature cells and raise the MCV."
+   ],
+   "studyRef": {
+    "sectionId": "heme-iron-deficiency.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 962,
+     "page": 940
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 963,
+     "page": 941,
+     "figure": "Fig. 23.17"
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A student reads that her mother’s MCV of 78 fL is \"microcytic\" on one website but \"normal\" in her textbook, Davidson 24e.",
+   "leadIn": "Which MCV threshold does Davidson use to define microcytosis?",
+   "options": [
+    "Below 70 fL",
+    "Below 76 fL",
+    "Below 80 fL",
+    "Below 86 fL",
+    "Below 90 fL"
+   ],
+   "answer": 1,
+   "explanation": "Davidson defines microcytosis as **MCV < 76 fL** (normal 76–100 fL). Most quick sources use < 80 fL, which explains the mismatch. In the exam, follow Davidson.",
+   "whyNot": [
+    "An MCV below 70 fL is a thalassaemia clue in Pocket Medicine, not the definition of microcytosis.",
+    "",
+    "< 80 fL is the quick-source cut-off, not Davidson’s.",
+    "86 fL is within the normal range in every source.",
+    "90 fL is within the normal range in every source."
+   ],
+   "studyRef": {
+    "sectionId": "heme-iron-deficiency.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 943,
+     "page": 921
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 946,
+     "page": 924
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 57-year-old woman with active rheumatoid arthritis has a low serum iron, but stainable iron in her marrow is plentiful. Her IL-6 level is high.",
+   "leadIn": "Which mechanism best explains the low serum iron?",
+   "options": [
+    "Hepcidin-induced internalisation of ferroportin",
+    "Loss of DMT1 activity from achlorhydria",
+    "Increased urinary excretion of iron",
+    "Suppression of hepcidin by hypoxia",
+    "Reduced ferric reductase from vitamin C lack"
+   ],
+   "answer": 0,
+   "explanation": "IL-6 makes the liver produce **hepcidin**, which causes **ferroportin** to be taken into the cell. Enterocytes and macrophages can no longer export iron, so it stays trapped as ferritin. Serum iron falls while stores stay full: the anaemia of chronic disease.",
+   "whyNot": [
+    "",
+    "Achlorhydria reduces absorption but does not explain full marrow stores alongside inflammation.",
+    "There is no physiological iron excretion route, so urinary loss is not the explanation.",
+    "Hypoxia **suppresses** hepcidin, which would raise plasma iron.",
+    "Vitamin C lack slightly reduces absorption but would not leave the stores full."
+   ],
+   "studyRef": {
+    "sectionId": "heme-iron-deficiency.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 965,
+     "page": 943
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 739,
+     "page": 717
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 20-year-old vegetarian student has iron deficiency. She drinks strong tea with every meal and takes her iron tablet with breakfast cereal and milk.",
+   "leadIn": "Which change would most improve absorption of her iron tablets?",
+   "options": [
+    "Take them fasting with a glass of orange juice",
+    "Take them with a glass of milk",
+    "Take them with a cup of tea",
+    "Take them with an antacid",
+    "Take them with a phytate-rich cereal"
+   ],
+   "answer": 0,
+   "explanation": "**Vitamin C** helps keep iron in the absorbable ferrous form, and taking the tablet fasting avoids dietary inhibitors. Tea tannins, calcium, phytates and antacids all reduce uptake.",
+   "whyNot": [
+    "",
+    "Dietary calcium reduces iron uptake from the same meal.",
+    "Tannins in tea inhibit iron absorption.",
+    "Antacids reduce the acid that keeps iron soluble and impair absorption.",
+    "Phytates form insoluble complexes with iron and reduce its absorption."
+   ],
+   "studyRef": {
+    "sectionId": "heme-iron-deficiency.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 356,
+     "page": 332
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 739,
+     "page": 717
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 411,
+     "page": 411
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 354,
+     "page": 330
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 66-year-old man eats a normal mixed diet. He has Hb 90 g/L, MCV 67 fL and ferritin 5 μg/L. He has no GI symptoms, no haematuria and takes no medicines.",
+   "leadIn": "What is the most likely source of his iron loss?",
+   "options": [
+    "A gastrointestinal lesion such as right-colon cancer",
+    "Inadequate dietary iron",
+    "Chronic haematuria",
+    "Chronic haemoptysis",
+    "Increased physiological demand"
+   ],
+   "answer": 0,
+   "explanation": "In men and postmenopausal women, IDA is due to **GI blood loss** until proven otherwise. Right-colon (caecal) cancer can bleed silently, without any bowel symptoms.",
+   "whyNot": [
+    "",
+    "He eats a normal diet; poor intake alone is unusual in developed countries.",
+    "Chronic haematuria only very rarely causes iron deficiency.",
+    "Chronic haemoptysis only very rarely causes iron deficiency.",
+    "Increased demand applies to growth and pregnancy, not to an older man."
+   ],
+   "studyRef": {
+    "sectionId": "heme-iron-deficiency.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 962,
+     "page": 940
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1200,
+     "page": 1185
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 805,
+     "page": 783
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 238,
+     "page": 201
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 17-year-old boy from a rural farming village in South Asia, who works barefoot in the fields, has a microcytic anaemia with very low ferritin.",
+   "leadIn": "Worldwide, which is the commonest cause of gut blood loss producing iron deficiency?",
+   "options": [
+    "Hookworm infestation",
+    "Peptic ulceration",
+    "Colorectal carcinoma",
+    "Angiodysplasia",
+    "NSAID-induced gastric erosions"
+   ],
+   "answer": 0,
+   "explanation": "Worldwide, **hookworm** is the commonest cause of chronic GI blood loss and iron deficiency; schistosomiasis is another. In the tropics, stool should be examined for parasites.",
+   "whyNot": [
+    "",
+    "Peptic ulcers cause GI bleeding but are not the commonest global cause of IDA.",
+    "Colorectal cancer matters most in older patients in developed countries.",
+    "Angiodysplasia is an occasional cause, mainly in older people.",
+    "NSAID erosions are an important cause where these drugs are widely used, not the leading global cause."
+   ],
+   "studyRef": {
+    "sectionId": "heme-iron-deficiency.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 962,
+     "page": 940
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1200,
+     "page": 1185
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 310,
+     "page": 288
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 45-year-old woman has had slowly worsening difficulty swallowing solids for a year. She has spoon-shaped nails, a smooth sore tongue and a microcytic anaemia with low ferritin.",
+   "leadIn": "Which long-term complication is she at particular risk of?",
+   "options": [
+    "Squamous cell carcinoma of the upper oesophagus",
+    "Oesophageal adenocarcinoma",
+    "Achalasia",
+    "Oesophageal varices",
+    "Eosinophilic oesophagitis"
+   ],
+   "answer": 0,
+   "explanation": "Dysphagia with koilonychia, glossitis and IDA suggests **Plummer–Vinson syndrome** (post-cricoid web). The web is premalignant and can lead to **squamous carcinoma**.",
+   "whyNot": [
+    "",
+    "Adenocarcinoma arises from Barrett’s oesophagus in the lower oesophagus, not from a post-cricoid web.",
+    "Achalasia is a motility disorder unrelated to iron deficiency.",
+    "Varices are caused by portal hypertension.",
+    "Eosinophilic oesophagitis is an allergic condition, not a complication of IDA."
+   ],
+   "studyRef": {
+    "sectionId": "heme-iron-deficiency.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 818,
+     "page": 796
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1184,
+     "page": 1169
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 29-year-old woman with Hb 92 g/L is examined for signs that point to iron deficiency rather than to anaemia of any cause.",
+   "leadIn": "Which finding is most specific for iron deficiency?",
+   "options": [
+    "Koilonychia",
+    "Conjunctival pallor",
+    "Resting tachycardia",
+    "Systolic flow murmur",
+    "Ankle oedema"
+   ],
+   "answer": 0,
+   "explanation": "**Koilonychia** (spoon-shaped nails) reflects iron lack in epithelial tissues. The other signs occur with any significant anaemia.",
+   "whyNot": [
+    "",
+    "Pallor occurs with anaemia of any cause.",
+    "Tachycardia is a general response to anaemia.",
+    "A flow murmur occurs with anaemia of any cause.",
+    "Oedema can occur when any anaemia strains the heart."
+   ],
+   "studyRef": {
+    "sectionId": "heme-iron-deficiency.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 355,
+     "page": 331
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 180,
+     "page": 180
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 3,
+   "stem": "A 58-year-old woman with active rheumatoid arthritis and a high CRP has Hb 101 g/L, MCV 77 fL and ferritin 82 μg/L. Her rheumatologist suspects coexisting iron deficiency.",
+   "leadIn": "Which test would best support coexisting iron deficiency?",
+   "options": [
+    "Soluble transferrin receptor",
+    "Serum iron",
+    "Haemoglobin electrophoresis",
+    "Reticulocyte count",
+    "Serum vitamin B12"
+   ],
+   "answer": 0,
+   "explanation": "Ferritin is an acute-phase protein, so values up to about 100 μg/L can still hide empty stores. **Soluble transferrin receptor** rises in true iron deficiency and is not pushed up by inflammation, so a raised level supports coexisting IDA.",
+   "whyNot": [
+    "",
+    "Serum iron is low in both IDA and ACD, so it does not separate them.",
+    "Electrophoresis looks for thalassaemia trait, not iron deficiency.",
+    "Reticulocytes are low in both conditions.",
+    "B12 assesses macrocytic anaemia and does not measure iron status."
+   ],
+   "studyRef": {
+    "sectionId": "heme-iron-deficiency.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 963,
+     "page": 941
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 964,
+     "page": 942
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 946,
+     "page": 924
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 72-year-old man has newly diagnosed iron deficiency anaemia. A faecal occult blood test sent by his GP is negative. Coeliac serology is negative.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Upper GI endoscopy with duodenal biopsies, then colonoscopy",
+    "Reassure him, as the occult blood test is negative",
+    "Repeat the occult blood test on three samples",
+    "Oral iron alone and a repeat blood count in 3 months",
+    "Capsule endoscopy as the first test"
+   ],
+   "answer": 0,
+   "explanation": "IDA in an older man needs **upper and lower GI investigation** regardless of the FOB result. Tumours bleed intermittently, so a negative FOB does not exclude cancer. Duodenal biopsies are taken even after negative serology.",
+   "whyNot": [
+    "",
+    "A negative FOB does not exclude a bleeding tumour.",
+    "Repeated FOB tests still should not decide whether to scope.",
+    "Treating without looking for the cause risks missing cancer.",
+    "Capsule endoscopy is used only after OGD and colonoscopy are negative."
+   ],
+   "studyRef": {
+    "sectionId": "heme-iron-deficiency.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 805,
+     "page": 783
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1200,
+     "page": 1185
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 964,
+     "page": 942
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 24-year-old woman of Cypriot origin has Hb 114 g/L, MCV 63 fL and ferritin 70 μg/L. The film shows target cells and basophilic stippling. Three months of oral iron made no difference.",
+   "leadIn": "Which test is most appropriate next?",
+   "options": [
+    "Haemoglobin electrophoresis for HbA2",
+    "Bone marrow aspirate with Perls’ stain",
+    "Soluble transferrin receptor",
+    "Switch to intravenous iron",
+    "Serum B12 and folate"
+   ],
+   "answer": 0,
+   "explanation": "An MCV far too low for a mild anaemia, normal ferritin, target cells, stippling and no response to iron point to **thalassaemia trait**. Hb electrophoresis comes next: a raised HbA2 confirms beta-thal trait.",
+   "whyNot": [
+    "",
+    "Marrow examination is not needed when a simple blood test can confirm the diagnosis.",
+    "sTfR helps separate IDA from ACD, not thalassaemia from IDA.",
+    "She is not iron deficient; more iron would be wrong and risks overload.",
+    "B12 and folate assess macrocytosis, not this microcytic picture."
+   ],
+   "studyRef": {
+    "sectionId": "heme-iron-deficiency.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 946,
+     "page": 924,
+     "figure": "Fig. 23.10"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 976,
+     "page": 954
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 324,
+     "page": 324
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 61-year-old man on isoniazid for tuberculosis develops anaemia with a dimorphic blood film. Serum iron and ferritin are raised. His marrow shows iron granules ringing the erythroblast nuclei.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Sideroblastic anaemia",
+    "Iron deficiency anaemia",
+    "Anaemia of chronic disease",
+    "Beta-thalassaemia trait",
+    "Alpha-thalassaemia trait"
+   ],
+   "answer": 0,
+   "explanation": "**Ring sideroblasts**, a dimorphic film and raised iron and ferritin define **sideroblastic anaemia**. Isoniazid is a classic acquired cause; stop the drug and consider pyridoxine.",
+   "whyNot": [
+    "",
+    "IDA has low ferritin and absent marrow iron.",
+    "ACD has raised or normal ferritin but low serum iron and no ring sideroblasts.",
+    "Thalassaemia trait has normal iron studies and no ring sideroblasts.",
+    "Alpha-thal trait has normal iron studies and no ring sideroblasts."
+   ],
+   "studyRef": {
+    "sectionId": "heme-iron-deficiency.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 356,
+     "page": 332
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 324,
+     "page": 324
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 35-year-old woman started ferrous sulphate 200 mg three times daily two weeks ago. She has abdominal pain and constipation and wants to stop.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Reduce to twice daily or switch to ferrous gluconate",
+    "Give intravenous iron straight away",
+    "Arrange a red cell transfusion",
+    "Change to a delayed-release iron tablet",
+    "Stop iron and recheck in 6 months"
+   ],
+   "answer": 0,
+   "explanation": "GI side-effects are common. Davidson’s first step is to **lower the dose** (200 mg twice daily) or **switch to ferrous gluconate**. IV iron is kept for intolerance of all oral forms or malabsorption.",
+   "whyNot": [
+    "",
+    "Parenteral iron is for intolerance of **all** oral forms, malabsorption or chronic gut disease.",
+    "Transfusion is only for angina, heart failure or cerebral hypoxia.",
+    "Delayed-release tablets release iron beyond the absorbing segment and are not useful.",
+    "Stopping leaves her deficient and untreated."
+   ],
+   "studyRef": {
+    "sectionId": "heme-iron-deficiency.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 965,
+     "page": 943
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 40-year-old woman with Hb 80 g/L from menorrhagia takes ferrous sulphate as prescribed. She has no further heavy bleeding.",
+   "leadIn": "After about 3 weeks of treatment, which change in Hb is expected?",
+   "options": [
+    "No change yet",
+    "A rise of about 5 g/L",
+    "A rise of about 20–30 g/L",
+    "A rise of about 60–70 g/L",
+    "A rise of about 100 g/L"
+   ],
+   "answer": 2,
+   "explanation": "Reticulocytes rise within a week, then Hb climbs by about **10 g/L every 7–10 days**. After about 3 weeks, expect roughly **20–30 g/L**. A smaller rise should prompt a search for non-adherence, ongoing loss, malabsorption or a wrong diagnosis.",
+   "whyNot": [
+    "No change after 3 weeks means the treatment is failing.",
+    "About 5 g/L is too slow and suggests a problem.",
+    "",
+    "A 60–70 g/L rise in 3 weeks is faster than oral iron can achieve.",
+    "Full correction this quickly is not possible with oral iron."
+   ],
+   "studyRef": {
+    "sectionId": "heme-iron-deficiency.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 965,
+     "page": 943
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 239,
+     "page": 202
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q15",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 52-year-old man with a flare of Crohn’s colitis has Hb 104 g/L and MCV 82 fL. Serum iron is low, TIBC is low, transferrin saturation is 12%, ferritin is 240 μg/L and soluble transferrin receptor is normal. CRP is raised.",
+   "leadIn": "What is the most likely cause of his anaemia?",
+   "options": [
+    "Iron deficiency anaemia alone",
+    "Anaemia of chronic disease",
+    "Beta-thalassaemia trait",
+    "Sideroblastic anaemia",
+    "Megaloblastic anaemia"
+   ],
+   "answer": 1,
+   "explanation": "**Step 1:** a low serum iron and low saturation occur in both IDA and ACD, so they do not separate them. **Step 2:** look at the discriminators. **TIBC is low** (high in IDA), **ferritin is high** and **sTfR is normal** (raised in IDA). **Step 3:** with active inflammation, IL-6-driven hepcidin traps iron in stores, so this is **anaemia of chronic disease**. It is mild and normocytic, as Davidson describes.",
+   "whyNot": [
+    "In IDA, TIBC and sTfR would be high and ferritin low.",
+    "",
+    "Thalassaemia trait has normal iron studies and a very low MCV.",
+    "Sideroblastic anaemia has a raised serum iron and ring sideroblasts.",
+    "Megaloblastic anaemia is macrocytic."
+   ],
+   "studyRef": {
+    "sectionId": "heme-iron-deficiency.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 964,
+     "page": 942
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 965,
+     "page": 943
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q16",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "pool": "worked",
+   "difficulty": 2,
+   "theme": "Interpreting iron studies in microcytic anaemia",
+   "options": [
+    "Iron deficiency anaemia",
+    "Anaemia of chronic disease",
+    "Iron deficiency with coexisting chronic inflammation",
+    "Beta-thalassaemia trait",
+    "Alpha-thalassaemia trait",
+    "Sideroblastic anaemia",
+    "Lead poisoning",
+    "Recent oral iron therapy",
+    "Megaloblastic anaemia",
+    "Haemolytic anaemia"
+   ],
+   "items": [
+    {
+     "stem": "A 28-year-old woman with heavy periods has Hb 95 g/L and MCV 71 fL. Ferritin is 5 μg/L, TIBC is raised and transferrin saturation is 7%.",
+     "answer": 0,
+     "explanation": "**Step 1:** microcytic anaemia. **Step 2:** a very low ferritin confirms empty stores, backed up by a high TIBC and low saturation. **Step 3:** a clear source (menorrhagia) makes this straightforward **iron deficiency anaemia**.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s5"
+     }
+    },
+    {
+     "stem": "A 34-year-old Greek man has Hb 126 g/L, MCV 64 fL and a high red cell count. Ferritin is 110 μg/L. Hb electrophoresis shows HbA2 of 5.2%.",
+     "answer": 3,
+     "explanation": "**Step 1:** the MCV is very low for almost no anaemia, and ferritin is normal, so this is not iron deficiency. **Step 2:** a **raised HbA2** is the marker of **beta-thalassaemia trait**. (A normal HbA2 would point to alpha-thal trait.)",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s6"
+     }
+    },
+    {
+     "stem": "A 63-year-old woman with active rheumatoid arthritis takes daily NSAIDs. Hb is 94 g/L, MCV 74 fL, CRP high and ferritin 88 μg/L. Soluble transferrin receptor is raised.",
+     "answer": 2,
+     "explanation": "**Step 1:** in inflammation, ferritin up to about 100 μg/L can still hide empty stores. **Step 2:** a **raised sTfR** is not caused by inflammation and signals true iron lack. **Step 3:** NSAIDs give a source of GI loss. So this is **iron deficiency on a background of chronic inflammation**.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 963,
+     "page": 941
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 964,
+     "page": 942
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 946,
+     "page": 924,
+     "figure": "Fig. 23.10"
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q17",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Causes of iron deficiency",
+   "options": [
+    "Caecal carcinoma",
+    "Coeliac disease",
+    "Menorrhagia",
+    "Hookworm infestation",
+    "NSAID-induced gastric erosions",
+    "Achlorhydria from long-term PPI use",
+    "Previous partial gastrectomy",
+    "Pregnancy",
+    "Dietary insufficiency",
+    "Angiodysplasia",
+    "Schistosomiasis",
+    "Gastric carcinoma"
+   ],
+   "items": [
+    {
+     "stem": "A 26-year-old man has iron deficiency that does not improve despite supervised oral iron. He has loose stools and bloating. Upper endoscopy and colonoscopy look normal, but the duodenal biopsies show villous atrophy.",
+     "answer": 1,
+     "explanation": "Failure of oral iron with **villous atrophy** on duodenal biopsy means **coeliac disease**: iron is absorbed in the upper small intestine, so mucosal damage there causes malabsorption.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s3"
+     }
+    },
+    {
+     "stem": "A 78-year-old man has Hb 82 g/L, MCV 65 fL and ferritin 4 μg/L, with recent weight loss. He has no abdominal pain and no change in bowel habit. His OGD and duodenal biopsies are normal.",
+     "answer": 0,
+     "explanation": "An older man with IDA, weight loss and **no GI symptoms**, after a normal upper GI tract: the key lesion is **caecal carcinoma**, which can bleed silently.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s3"
+     }
+    },
+    {
+     "stem": "A 22-year-old agricultural labourer from rural Bangladesh works barefoot on warm, moist, shady soil and does not bathe or wade in rivers or lakes. He has a microcytic anaemia with a very low ferritin and no bowel or urinary symptoms.",
+     "answer": 3,
+     "explanation": "Hookworm larvae develop in warm, moist soil and **penetrate bare skin**; the adult worms attach to the small-bowel mucosa and suck blood. Hookworm is the commonest worldwide cause of chronic gut blood loss. Schistosomiasis is caught from **fresh water**, which he avoids.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s3"
+     }
+    },
+    {
+     "stem": "A 58-year-old woman had an operation on her stomach for a peptic ulcer 15 years ago. She is not bleeding, and her colonoscopy and coeliac serology are normal, but she has slowly become iron deficient.",
+     "answer": 6,
+     "explanation": "Gastric acid frees iron from food and keeps it soluble. **Previous gastric surgery** reduces both, and leads to slow malabsorption of iron.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 963,
+     "page": 941
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 805,
+     "page": 783
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1200,
+     "page": 1185
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 310,
+     "page": 288
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 316,
+     "page": 294
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 828,
+     "page": 806
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q18",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Investigating suspected iron deficiency",
+   "options": [
+    "Serum ferritin",
+    "Soluble transferrin receptor",
+    "Haemoglobin electrophoresis",
+    "Bone marrow aspirate with Perls’ stain",
+    "Anti-tissue transglutaminase antibodies",
+    "Upper GI endoscopy with duodenal biopsies, then colonoscopy",
+    "Capsule endoscopy",
+    "Faecal occult blood test",
+    "Stool and urine microscopy for parasites",
+    "Barium swallow",
+    "Serum B12 and red cell folate",
+    "Transferrin saturation"
+   ],
+   "items": [
+    {
+     "stem": "A 32-year-old woman with heavy periods feels tired. Hb is 104 g/L and MCV 74 fL. She has no other illness. Which single test best confirms iron deficiency?",
+     "answer": 0,
+     "explanation": "**Serum ferritin** is the best single test for iron stores. A low result means iron deficiency.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s5"
+     }
+    },
+    {
+     "stem": "A 69-year-old man with confirmed IDA has had a normal OGD with duodenal biopsies and a normal colonoscopy. His Hb keeps falling despite iron. Which test should be done next?",
+     "answer": 6,
+     "explanation": "When upper and lower endoscopy and duodenal biopsies are negative, the small bowel must be examined. **Capsule endoscopy** is the investigation of choice.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s5"
+     }
+    },
+    {
+     "stem": "A 47-year-old woman with long-standing IDA feels food sticking high in her throat. Endoscopy was reported as normal. Which test is most likely to show the cause?",
+     "answer": 9,
+     "explanation": "This suggests a **post-cricoid web** (Plummer–Vinson). Webs are easily broken by the endoscope, so they are missed, but they show well on **barium swallow**.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s4"
+     }
+    },
+    {
+     "stem": "A 74-year-old woman on a normal diet has new IDA. She has no symptoms. Her GP asks whether to start with a stool test for blood. Which investigation is most appropriate?",
+     "answer": 5,
+     "explanation": "FOB testing should not decide whether to scope. A postmenopausal woman with IDA needs **OGD with duodenal biopsies, then colonoscopy**.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 963,
+     "page": 941
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 805,
+     "page": 783
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1200,
+     "page": 1185
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1184,
+     "page": 1169
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q19",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Management of iron deficiency anaemia",
+   "options": [
+    "Continue ferrous sulphate 200 mg three times daily",
+    "Reduce to ferrous sulphate 200 mg twice daily",
+    "Intravenous ferric carboxymaltose",
+    "Red cell transfusion",
+    "Delayed-release oral iron",
+    "Helicobacter pylori eradication therapy",
+    "Haemoglobin electrophoresis before more iron",
+    "Pyridoxine",
+    "Treat the inflammation; no iron",
+    "Folic acid alone"
+   ],
+   "items": [
+    {
+     "stem": "An 81-year-old woman with Hb 61 g/L from chronic GI loss has central chest pain whenever she walks to the bathroom.",
+     "answer": 3,
+     "explanation": "Transfusion is warranted when anaemia causes **angina**, heart failure or cerebral hypoxia. Iron alone works too slowly here.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s7"
+     }
+    },
+    {
+     "stem": "A 33-year-old man with active small-bowel Crohn’s disease has IDA. Oral iron did not raise his Hb after adequate adherence and worsened his diarrhoea.",
+     "answer": 2,
+     "explanation": "Malabsorption and **chronic gut disease (IBD)** with oral failure are indications for **parenteral iron**. Ferric carboxymaltose causes fewer allergic reactions than older preparations.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s7"
+     }
+    },
+    {
+     "stem": "A 49-year-old man has unexplained IDA. OGD with duodenal biopsies, colonoscopy and capsule endoscopy are all normal. His H. pylori test is positive.",
+     "answer": 5,
+     "explanation": "Davidson lists unexplained IDA as an indication for **H. pylori eradication**, once bleeding sources have been looked for and excluded.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s7"
+     }
+    },
+    {
+     "stem": "A 25-year-old Italian woman has taken ferrous sulphate reliably for 2 months. Her Hb is unchanged at 112 g/L and MCV 64 fL, with target cells on the film. Ferritin is now 95 μg/L.",
+     "answer": 6,
+     "explanation": "**Step 1:** reliable iron with no response and a normal ferritin means the diagnosis is wrong. **Step 2:** a very low MCV with target cells in a Mediterranean patient suggests **thalassaemia trait**, so check **HbA2 by electrophoresis** before giving more iron.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 965,
+     "page": 943
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 822,
+     "page": 800
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 976,
+     "page": 954
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q20",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Diagnosis of microcytic and hypochromic anaemia",
+   "options": [
+    "Iron deficiency anaemia",
+    "Anaemia of chronic disease",
+    "Beta-thalassaemia trait",
+    "Alpha-thalassaemia trait",
+    "Inherited (X-linked) sideroblastic anaemia",
+    "Acquired sideroblastic anaemia from myelodysplasia",
+    "Lead poisoning",
+    "Plummer–Vinson syndrome",
+    "Combined iron and folate deficiency",
+    "Iron-refractory iron-deficiency anaemia"
+   ],
+   "items": [
+    {
+     "stem": "A 19-year-old man has had mild anaemia since childhood, as has his maternal uncle. MCV is 70 fL, ferritin is raised, the marrow shows ring sideroblasts, and his Hb improves slightly on pyridoxine.",
+     "answer": 4,
+     "explanation": "Lifelong disease, an affected maternal uncle (**X-linked** inheritance), ring sideroblasts and a pyridoxine response point to the **inherited ALA synthase defect**.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s6"
+     }
+    },
+    {
+     "stem": "A 74-year-old woman who does not drink alcohol or take regular medicines has a refractory anaemia with a dimorphic film. Her marrow shows ring sideroblasts.",
+     "answer": 5,
+     "explanation": "In adults, most sideroblastic anaemia is acquired and due to **myelodysplasia**. Here the drug and alcohol causes have been excluded.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s6"
+     }
+    },
+    {
+     "stem": "A 27-year-old Thai woman has Hb 118 g/L and MCV 67 fL. Ferritin is normal and Hb electrophoresis shows a normal HbA2.",
+     "answer": 3,
+     "explanation": "**Step 1:** a very low MCV with little anaemia and normal ferritin suggests thalassaemia trait. **Step 2:** a **normal HbA2** excludes the beta form, so consider **alpha-thalassaemia trait**.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s6"
+     }
+    },
+    {
+     "stem": "A 46-year-old woman with untreated coeliac disease has Hb 95 g/L but a normal MCV of 88 fL. The RDW is high and the film shows both small pale cells and large oval cells. Ferritin and red cell folate are both low.",
+     "answer": 8,
+     "explanation": "A **mixed** iron and folate deficiency can average out to a normal MCV. The high RDW and two cell populations give it away, and coeliac disease explains both deficiencies.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 356,
+     "page": 332
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 324,
+     "page": 324
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 321,
+     "page": 321
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 946,
+     "page": 924,
+     "figure": "Fig. 23.10"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 236,
+     "page": 199
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 829,
+     "page": 807
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q21",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Iron handling in the body",
+   "options": [
+    "Hepcidin",
+    "Ferroportin",
+    "Divalent metal transporter 1 (DMT1)",
+    "Duodenal ferric reductase",
+    "Hephaestin",
+    "Transferrin",
+    "Ferritin",
+    "Haemosiderin",
+    "Soluble transferrin receptor",
+    "Gastric acid",
+    "Tea tannins",
+    "Vitamin C"
+   ],
+   "items": [
+    {
+     "stem": "A patient with tuberculosis has low serum iron despite full stores. Which liver-derived peptide, raised by IL-6, is responsible?",
+     "answer": 0,
+     "explanation": "**Hepcidin** is made by the liver, increased by inflammatory cytokines (especially IL-6), and blocks iron export by internalising ferroportin.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s2"
+     }
+    },
+    {
+     "stem": "A marrow aspirate stained with Perls’ reagent shows blue-staining iron in macrophages. Which insoluble storage form is being seen?",
+     "answer": 7,
+     "explanation": "About one-third of storage iron is **haemosiderin**, which is insoluble and seen in marrow macrophages with Perls’ stain.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s2"
+     }
+    },
+    {
+     "stem": "A 70-year-old woman on omeprazole for years develops iron deficiency with no bleeding. Which normal factor, now reduced, frees iron from food and keeps it soluble?",
+     "answer": 9,
+     "explanation": "**Gastric acid** releases iron from food and keeps it in the soluble ferrous state. Achlorhydria from PPIs reduces absorption.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s2"
+     }
+    },
+    {
+     "stem": "Which liver-made plasma protein carries two ferric atoms per molecule, is normally about one-third saturated, and rises in iron deficiency (seen as a raised TIBC)?",
+     "answer": 5,
+     "explanation": "**Transferrin** carries iron in plasma. TIBC mirrors transferrin, which rises when iron is short.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 965,
+     "page": 943
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 354,
+     "page": 330
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 963,
+     "page": 941
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 181,
+     "page": 181
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q22",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "pool": "exam",
+   "difficulty": 3,
+   "theme": "Pitfalls in laboratory tests for iron deficiency",
+   "options": [
+    "Acute-phase rise in ferritin masking low stores",
+    "Spuriously high HbA1c from longer red cell survival",
+    "Intermittent tumour bleeding giving a negative occult blood test",
+    "Mixed iron and folate deficiency giving a normal MCV",
+    "Recent iron tablets raising iron study values",
+    "Pregnancy raising the TIBC",
+    "Diurnal variation in serum iron",
+    "Thalassaemia trait mistaken for iron deficiency",
+    "Malnutrition lowering transferrin",
+    "Haemolysis raising serum iron"
+   ],
+   "items": [
+    {
+     "stem": "A 53-year-old man with type 2 diabetes and newly found IDA has an HbA1c that has risen from 52 to 63 mmol/mol, although his home glucose readings have not changed.",
+     "answer": 1,
+     "explanation": "Iron deficiency **prolongs red cell lifespan**, so glycation builds up and HbA1c reads **falsely high**.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s5"
+     }
+    },
+    {
+     "stem": "A 67-year-old man with IDA is reassured after a negative stool test for blood. Six months later a bleeding caecal tumour is found.",
+     "answer": 2,
+     "explanation": "Tumours bleed **intermittently**, so a negative FOB does not exclude cancer. That is why unexplained IDA is investigated by endoscopy regardless.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s5"
+     }
+    },
+    {
+     "stem": "A 60-year-old woman with a flare of rheumatoid arthritis has ferritin 75 μg/L, but a marrow aspirate shows no stainable iron.",
+     "answer": 0,
+     "explanation": "Ferritin is an **acute-phase protein**. In inflammation, values up to about 100 μg/L can coexist with empty marrow stores.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s5"
+     }
+    },
+    {
+     "stem": "A 23-year-old woman’s iron studies, previously typical of deficiency, are now all high-normal. She started over-the-counter iron tablets 3 days before the blood test. Her Hb is unchanged.",
+     "answer": 4,
+     "explanation": "**Recent iron supplements** can raise iron study values and mislead. Iron studies should ideally be taken before treatment starts.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 743,
+     "page": 721
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 805,
+     "page": 783
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 963,
+     "page": 941
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 182,
+     "page": 182
+    }
+   ]
+  },
+  {
+   "id": "heme-iron-deficiency.q23",
+   "kind": "emq",
+   "leadIn": "For each patient below, choose the clinical feature that best fits the description. Any option can be the answer for several patients, or for none.",
+   "pool": "mock",
+   "difficulty": 2,
+   "theme": "Clinical features of iron deficiency",
+   "options": [
+    "Koilonychia",
+    "Angular stomatitis",
+    "Atrophic glossitis",
+    "Post-cricoid oesophageal web",
+    "Pica",
+    "Diffuse hair shedding",
+    "Generalised pruritus",
+    "Splenomegaly",
+    "Jaundice",
+    "Peripheral neuropathy"
+   ],
+   "items": [
+    {
+     "stem": "A 38-year-old woman with iron deficiency admits she has been chewing large amounts of ice every day.",
+     "answer": 4,
+     "explanation": "Craving non-food items such as ice or clay is **pica**, a recognised symptom of iron deficiency.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s4"
+     }
+    },
+    {
+     "stem": "A 44-year-old woman with long-standing IDA has had increasing difficulty swallowing solids, with a feeling of food sticking at the top of her gullet. A barium swallow shows a thin shelf on the front wall.",
+     "answer": 3,
+     "explanation": "This is a **post-cricoid web** (Plummer–Vinson syndrome). It is premalignant; treatment is to correct the iron deficiency, and dilatation is rarely needed.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s4"
+     }
+    },
+    {
+     "stem": "A 51-year-old man has itching all over his body with no visible rash. Investigation finds a low ferritin from colonic bleeding.",
+     "answer": 6,
+     "explanation": "Iron deficiency can present with **generalised pruritus**, so an unexplained itch without a rash deserves a blood count and iron studies.",
+     "studyRef": {
+      "sectionId": "heme-iron-deficiency.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "pdfPage": 180,
+     "page": 180
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 322,
+     "page": 322
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 818,
+     "page": 796
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 702,
+     "page": 680
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1184,
+     "page": 1169
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "heme-iron-deficiency.o1",
+   "sectionId": "heme-iron-deficiency.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 943,
+    "page": 921,
+    "figure": "Fig. 23.8"
+   },
+   "identify": "Panel A: **microcytosis**, small red cells (iron deficiency, thalassaemia, sideroblastic anaemia). Compare with target cells and other panels."
+  },
+  {
+   "id": "heme-iron-deficiency.o2",
+   "sectionId": "heme-iron-deficiency.s5",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 355,
+    "page": 331,
+    "figure": "Fig. 16.9"
+   },
+   "identify": "**Hypochromic microcytic** red cells with anisocytosis and poikilocytosis: iron deficiency anaemia."
+  },
+  {
+   "id": "heme-iron-deficiency.o3",
+   "sectionId": "heme-iron-deficiency.s5",
+   "cite": {
+    "book": "fa2ck11",
+    "pdfPage": 411,
+    "page": 411,
+    "figure": "FIGURE 2.7-8"
+   },
+   "identify": "Small pale \"doughnut\" red cells with a widened central pallor: **iron deficiency anaemia**."
+  },
+  {
+   "id": "heme-iron-deficiency.o4",
+   "sectionId": "heme-iron-deficiency.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 934,
+    "page": 912,
+    "figure": "Clinical examination (p. 912)"
+   },
+   "identify": "**Koilonychia**, and **glossitis with angular stomatitis**: epithelial signs of iron deficiency."
+  },
+  {
+   "id": "heme-iron-deficiency.o5",
+   "sectionId": "heme-iron-deficiency.s4",
+   "cite": {
+    "book": "fa2ck11",
+    "pdfPage": 410,
+    "page": 410,
+    "figure": "FIGURE 2.7-7"
+   },
+   "identify": "**Koilonychia**: a concave, spoon-shaped nail plate in chronic iron deficiency."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:33:34.630Z",
+  "contentHash": "0761ee0ec8095c6fdeaec9e0356843d12d35ff40c1af7879dd4f21517cefca51"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:33:34.638Z",
+  "contentHash": "0761ee0ec8095c6fdeaec9e0356843d12d35ff40c1af7879dd4f21517cefca51",
+  "checkerVersion": "source-check-v1"
+ }
+}

@@ -1,0 +1,2685 @@
+{
+ "topicId": "hemonc-cml",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "hemonc-cml.s1",
+   "title": "Definition & epidemiology",
+   "objectiveIdx": [
+    0,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Chronic myeloid leukaemia (CML)** is a clonal **myeloproliferative neoplasm** that starts in a haematopoietic stem cell. All marrow lineages expand, but the **granulocyte series dominates**. Because the clone can still mature fairly normally, the blood fills with neutrophils and their precursors rather than with blasts.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 366,
+       "page": 366
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "What defines CML",
+     "items": [
+      "The diagnosis rests on the **Philadelphia (Ph) chromosome / BCR-ABL1 fusion**, shown by karyotype, FISH or PCR. Without the fusion, the label CML does not apply.",
+      "CML belongs to the MPN family with polycythaemia vera, essential thrombocythaemia and myelofibrosis. Those three carry **JAK2** mutations instead, and members of the family can change into one another or into acute leukaemia.",
+      "**Chronic vs acute leukaemia:** in chronic leukaemia the clone keeps differentiating, so mature cells accumulate. In acute leukaemia, poorly differentiated blasts build up and the marrow fails."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 416,
+       "page": 392
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 366,
+       "page": 366
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 434,
+       "page": 434
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 258,
+       "page": 221
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 977,
+       "page": 955
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Epidemiology at a glance",
+     "columns": [
+      "Feature",
+      "Davidson's 24e (primary)",
+      "Other sources"
+     ],
+     "rows": [
+      [
+       "Incidence",
+       "1.8 per 100 000 per year in the UK, so a rare disease",
+       "About 6600 new US cases a year (Pocket)"
+      ],
+      [
+       "Share of leukaemias",
+       "About 20% of all leukaemias",
+       "About 14% (Kumar); about 15% of adult leukaemias (Pocket)"
+      ],
+      [
+       "Age",
+       "Mostly 30–80 years, peak at **55 years**",
+       "Peak 40–60 years (Kumar, First Aid); median about 50 (Step-Up, First Aid) or about 64 (Pocket)"
+      ],
+      [
+       "Who",
+       "Occurs in all races",
+       "Almost exclusively an adult disease (Kumar)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 416,
+       "page": 392
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 366,
+       "page": 366
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 892,
+       "page": 892
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 434,
+       "page": 434
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Risk factors",
+     "items": [
+      "**Ionising radiation** is the only established risk factor for CML. Survivors of the atomic bombings in Japan developed myeloid leukaemia.",
+      "Davidson's general list of leukaemia risk factors also includes alkylating drugs, industrial benzene and fetal X-ray exposure. For CML specifically, Pocket Medicine finds no clear link with earlier cytotoxic drugs.",
+      "Most patients have no identifiable cause."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 977,
+       "page": 955
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 892,
+       "page": 892
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 366,
+       "page": 366
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Typical age for each leukaemia (an exam shortcut): ALL under 13, AML 13–40, **CML 40–60**, CLL over 60.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 434,
+       "page": 434
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The books give different numbers. Davidson says **20% of leukaemias with a peak at 55 years**, Kumar says about 14% and 40–60 years, and Pocket gives a median age of about 64. Quote Davidson's figures and remember the idea: a disease of **middle age**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 416,
+       "page": 392
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 366,
+       "page": 366
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.s2",
+   "title": "Pathogenesis: the Philadelphia chromosome & BCR-ABL1",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The **Philadelphia chromosome** is a **shortened chromosome 22** produced by the **reciprocal translocation t(9;22)(q34;q11)**. Chromosome 22 breaks within the **breakpoint cluster region (BCR)**. The fragment that arrives from chromosome 9 carries the **ABL** oncogene, and the two pieces join to form a **BCR-ABL fusion gene**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 55,
+       "page": 39
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "From fusion gene to disease",
+     "items": [
+      "BCR-ABL encodes a **210 kDa protein** whose **tyrosine kinase is permanently switched on** (constitutively active).",
+      "This unregulated kinase signalling increases proliferation, disturbs differentiation, blocks apoptosis and changes how cells attach to marrow stroma.",
+      "The kinase is the drug target. **Imatinib** and the later TKIs block it.",
+      "BCR-ABL is the classic example of an **oncogene activated by a translocation** that creates a fusion gene."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 296,
+       "page": 259
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 892,
+       "page": 892
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 54,
+       "page": 38
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "How often the Ph chromosome is seen on karyotype",
+     "columns": [
+      "Source",
+      "Ph-positive CML"
+     ],
+     "rows": [
+      [
+       "Kumar (Fig. 2.23)",
+       "90–95%"
+      ],
+      [
+       "First Aid",
+       "Over 95% on conventional cytogenetics"
+      ],
+      [
+       "KC Essentials",
+       "97%"
+      ],
+      [
+       "Step-Up",
+       "Over 90%"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 55,
+       "page": 39
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 434,
+       "page": 434
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 296,
+       "page": 259
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 892,
+       "page": 892
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**A normal karyotype does not exclude CML.** In some patients the Ph chromosome cannot be seen on conventional cytogenetics, yet the BCR-ABL product is found by **FISH or PCR**. These patients still have CML, because the fusion is the defining lesion.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 416,
+       "page": 392
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 435,
+       "page": 435
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**The Ph chromosome is not unique to CML.** It also occurs in some **acute lymphoblastic leukaemia**, where it is a **poor-prognosis** marker (Davidson: about 20% 5-year survival). Imatinib is added to every phase of treatment for Ph-positive ALL.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 54,
+       "page": 38
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 979,
+       "page": 957
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 432,
+       "page": 432
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Step-Up notes that patients who truly lack the Philadelphia chromosome have shorter survival and respond less well to treatment. That is one more reason to look for the fusion with molecular tests before accepting a \"Ph-negative\" result.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 892,
+       "page": 892
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 55,
+      "page": 39,
+      "figure": "Fig. 2.23"
+     },
+     "note": "Look at: the ideogram of the reciprocal t(9;22)(q34;q11) exchange and the shortened chromosome 22 (Ph) that carries BCR-ABL."
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.s3",
+   "title": "Phases & natural history",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "CML follows a **three-phase course**. The **chronic phase** is easily controlled. An **accelerated phase**, which not every patient has, is harder to control. **Blast crisis** is transformation into an **acute leukaemia** that responds poorly to treatment. About **85% of patients are diagnosed in chronic phase**, often from a routine blood count.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 893,
+       "page": 893
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Phases (WHO criteria as summarised in Pocket Medicine)",
+     "columns": [
+      "Phase",
+      "Blasts (blood or marrow)",
+      "Other clues",
+      "Course"
+     ],
+     "rows": [
+      [
+       "Chronic",
+       "Under 10%",
+       "Responds to treatment; infection and bleeding are rare",
+       "Untreated, it used to last about 3–5 years; with TKIs many patients now have a near-normal life expectancy"
+      ],
+      [
+       "Accelerated",
+       "10–19%",
+       "Basophils 20% or more; platelets under 100 × 10^9/L; new karyotype (clonal) changes; more primitive cells on the film",
+       "Disease becomes harder to control"
+      ],
+      [
+       "Blast phase (blast crisis)",
+       "20% or more",
+       "Extramedullary leukaemia (e.g. chloroma); a steep rise in circulating blasts",
+       "Behaves like acute leukaemia; untreated survival about 3–6 months"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 366,
+       "page": 366
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 367,
+       "page": 367
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 434,
+       "page": 434
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Blast crisis",
+     "items": [
+      "Lineage: **myeloblastic in 70% and lymphoblastic in 30%** (Davidson). Kumar quotes 75% and 25%.",
+      "It causes most **deaths** from CML. Its timing cannot be predicted, so it decides survival.",
+      "Rate of transformation: about **10% of patients a year before imatinib**, and only **0.5–2.5% a year** in patients on imatinib for up to 10 years.",
+      "Untreated disease may instead progress to **myelofibrosis** and marrow failure. Kumar gives a median untreated survival of 3–4 years."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 416,
+       "page": 392
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 299,
+       "page": 262
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Signs of progression: worsening constitutional symptoms, bone pain, a **rapidly enlarging spleen** and rising basophils. Platelet counts that were very high usually **drop sharply** at blast transformation.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 367,
+       "page": 367
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 434,
+       "page": 434
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The books disagree on blast lineage (Davidson 70:30, Kumar 75:25), but in both **myeloid blast crisis is more common**. **Lymphoid** transformation responds **better** to acute-leukaemia treatment than myeloid transformation.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 416,
+       "page": 392
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.s4",
+   "title": "Clinical features",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The onset is insidious, and about **25% of patients have no symptoms** at diagnosis. They are found on a routine blood count. Symptoms, when present, come from constitutional upset (weight loss, sweats, fever), anaemia and a large spleen.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 893,
+       "page": 893
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 416,
+       "page": 392
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Symptoms and signs",
+     "columns": [
+      "Group",
+      "Features",
+      "Frequency / note"
+     ],
+     "rows": [
+      [
+       "Constitutional",
+       "Lethargy, weight loss, sweating, fever without infection, anorexia",
+       "Common"
+      ],
+      [
+       "Spleen",
+       "Left upper quadrant discomfort, early satiety; friction rub after splenic infarction",
+       "Splenomegaly in about 90%; massive (more than 15 cm below the costal margin) in about 10%"
+      ],
+      [
+       "Liver",
+       "Hepatomegaly",
+       "About 50%"
+      ],
+      [
+       "Anaemia",
+       "Pallor, breathlessness",
+       "Normocytic normochromic"
+      ],
+      [
+       "High urate",
+       "Gout",
+       "From high cell turnover"
+      ],
+      [
+       "Very high WBC (hyperleucocytosis)",
+       "Headache, priapism, retinal haemorrhage from leucostasis; rarely hyperviscosity",
+       "Occasional"
+      ],
+      [
+       "Bleeding",
+       "Bruising or bleeding",
+       "Uncommon"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 416,
+       "page": 392
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 434,
+       "page": 434
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 435,
+       "page": 435
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Massive splenomegaly (spleen reaching the right iliac fossa): classic causes",
+     "items": [
+      "**Chronic myeloid leukaemia**",
+      "Myelofibrosis",
+      "Chronic malaria",
+      "Visceral leishmaniasis (kala-azar)",
+      "Gaucher disease (rarely)"
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 262,
+       "page": 225
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Lymphadenopathy is unusual** in chronic-phase CML. Enlarged nodes, or a soft-tissue leukaemic mass outside the marrow (**chloroma**), point to **blast crisis**. Step-Up lists lymphadenopathy, infections and low platelets among the general features; follow Davidson and Kumar here.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 416,
+       "page": 392
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 893,
+       "page": 893
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In a patient with CML and a large spleen, a **splenic friction rub** means **splenic infarction**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.s5",
+   "title": "Investigations & diagnosis",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Key results in chronic phase",
+     "columns": [
+      "Test",
+      "Typical finding"
+     ],
+     "rows": [
+      [
+       "Full blood count",
+       "Normocytic normochromic anaemia; WBC 10–600 × 10^9/L (often over 100); platelets low, normal or high, and very high (up to 2000 × 10^9/L) in about one-third"
+      ],
+      [
+       "Blood film",
+       "All stages of granulocyte maturation from myeloblast to neutrophil, mainly **neutrophils and myelocytes**; myeloblasts under 10%; more **basophils** and eosinophils; nucleated red cells are common"
+      ],
+      [
+       "Bone marrow",
+       "Hypercellular, with a raised myeloid:erythroid ratio and small megakaryocytes (micromegakaryocytes); confirms the diagnosis and the **phase**, with a karyotype for the Ph chromosome"
+      ],
+      [
+       "Cytogenetic / molecular tests",
+       "Karyotype shows t(9;22); **FISH or RT-PCR** detects BCR-ABL1 (the most accurate test) and measures response to treatment"
+      ],
+      [
+       "Biochemistry",
+       "Raised LDH; uric acid may be high because of cell turnover"
+      ],
+      [
+       "LAP score",
+       "**Low** in CML (high in a leukaemoid reaction)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 416,
+       "page": 392
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 367,
+       "page": 367
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 435,
+       "page": 435
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Diagnostic approach",
+     "items": [
+      "Suspect CML in a middle-aged adult with **marked neutrophilia, a left shift and basophilia**, with or without splenomegaly.",
+      "Show the **BCR-ABL1 fusion** by karyotype, FISH or PCR. It is required for the diagnosis.",
+      "A bone marrow aspirate establishes the **phase** (blast percentage) and gives a baseline karyotype.",
+      "Quantitative PCR measures the transcript level, which is then followed over time."
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 366,
+       "page": 366
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 416,
+       "page": 392
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 435,
+       "page": 435
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 367,
+       "page": 367
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "CML and its mimics",
+     "columns": [
+      "Condition",
+      "Distinguishing points"
+     ],
+     "rows": [
+      [
+       "Leukaemoid reaction",
+       "A trigger such as infection, usually no splenomegaly, **high LAP**, no BCR-ABL1"
+      ],
+      [
+       "Myelofibrosis",
+       "Spleen also massive, but **teardrop red cells**, a leucoerythroblastic film, a **dry tap** with fibrosis on trephine biopsy, and **no Ph chromosome**"
+      ],
+      [
+       "Chronic lymphocytic leukaemia",
+       "**Lymphocytosis** of mature B cells (CD5+) in older patients, not a granulocytosis"
+      ],
+      [
+       "Other MPNs (PV, ET)",
+       "JAK2 mutation, BCR-ABL1 negative"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 892,
+       "page": 892
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 435,
+       "page": 435
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 261,
+       "page": 224
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 258,
+       "page": 221
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Basophilia** is a useful clue. Myeloproliferative disease, CML included, causes both **neutrophilia and basophilia**, and CML is one of the **clonal** (non-reactive) causes of thrombocytosis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 948,
+       "page": 926
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 951,
+       "page": 929
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Step-Up gives a WBC of 50–200 × 10^9/L with eosinophilia and thrombocytosis. Davidson's range is much wider (10–600). A white count of \"only\" 30 × 10^9/L does not rule out CML.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 893,
+       "page": 893
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 416,
+      "page": 392,
+      "figure": "Fig. 17.10"
+     },
+     "note": "Look at: a CML blood film with blast cells (arrow). More blasts mean accelerated phase or blast crisis."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 938,
+      "page": 916,
+      "figure": "Fig. 23.3"
+     },
+     "note": "Look at: the myeloblast → promyelocyte → myelocyte → metamyelocyte → neutrophil sequence. A CML film shows all of these stages at once (left shift)."
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.s6",
+   "title": "Management (targeted therapy) & prognosis",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Tyrosine kinase inhibitors (TKIs)** that block BCR-ABL have turned CML from a fatal disease into a chronic one. In patients who respond well, **median survival is close to that of the general population**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "The TKIs",
+     "columns": [
+      "Generation",
+      "Drugs",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "1st",
+       "Imatinib",
+       "First line; side-effects include nausea, headache, rash, muscle cramps and cytopenias"
+      ],
+      [
+       "2nd",
+       "Nilotinib, dasatinib, bosutinib",
+       "Faster and deeper responses but more toxicity, with no overall survival gain (Pocket). Davidson lists nilotinib and dasatinib as first line and bosutinib as second line"
+      ],
+      [
+       "3rd",
+       "Ponatinib",
+       "Works against the **T315I** mutation"
+      ],
+      [
+       "Allosteric (STAMP) inhibitor",
+       "Asciminib",
+       "Used after two or more earlier TKIs; also active against T315I (Pocket)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 367,
+       "page": 367
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 416,
+       "page": 392
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Chronic phase (Davidson)",
+     "items": [
+      "First line: **imatinib, nilotinib or dasatinib**. The blood count usually returns to normal within about a month.",
+      "**Complete cytogenetic response** (the Ph chromosome disappears) in about **90%** within 3–6 months. Responses come faster with nilotinib and dasatinib.",
+      "A marrow sample at **6 months** confirms the complete cytogenetic response. After that, **real-time quantitative PCR for BCR-ABL mRNA in blood is done every 3 months**.",
+      "The aim is a **major molecular response**: a 3–5 log fall in transcripts (MR3 under 0.1%, MR4 under 0.01%, MR5 under 0.001%). In a complete molecular response, transcripts cannot be detected.",
+      "If treatment fails or the response is lost: do **mutation analysis** and **switch TKI**. For **T315I, use ponatinib**.",
+      "**Allogeneic HSCT** is now kept for patients who fail TKIs. **Hydroxycarbamide** is used for palliation, and **interferon** for women planning pregnancy."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 416,
+       "page": 392
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Response milestones (Pocket, International Scale)",
+     "columns": [
+      "Time on TKI",
+      "BCR-ABL1 target",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "3 months",
+       "Under 10%",
+       "1-log fall"
+      ],
+      [
+       "6 months",
+       "Under 1%",
+       "2-log fall, roughly equal to complete cytogenetic response"
+      ],
+      [
+       "12 months",
+       "Under 0.1%",
+       "3-log fall = major molecular response"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 368,
+       "page": 368
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Accelerated phase and blast crisis",
+     "items": [
+      "Accelerated phase: a TKI, most often **nilotinib or dasatinib**. Consider allogeneic HSCT.",
+      "Blast crisis: identify the blast type, then give a **second- or third-generation TKI with acute-leukaemia chemotherapy**. Lymphoid crisis responds better than myeloid crisis.",
+      "If the disease returns to chronic phase in a younger, fit patient, give an **allogeneic HSCT**. Older or frail patients may have palliative hydroxycarbamide or low-dose cytarabine.",
+      "Imatinib alone usually gives only short-lived responses in blast crisis. Outcomes in blast crisis remain poor."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 416,
+       "page": 392
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 367,
+       "page": 367
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 299,
+       "page": 262
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 436,
+       "page": 436
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 893,
+       "page": 893
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "TKI toxicities (Pocket)",
+     "columns": [
+      "Drug",
+      "Characteristic toxicity"
+     ],
+     "rows": [
+      [
+       "All TKIs",
+       "Nausea and vomiting, diarrhoea, muscle cramps, cytopenias, low phosphate, QT prolongation, rarely heart failure"
+      ],
+      [
+       "Dasatinib",
+       "Pleural and pericardial effusions, pulmonary hypertension"
+      ],
+      [
+       "Nilotinib",
+       "Raised bilirubin and lipase, cardiovascular toxicity"
+      ],
+      [
+       "Ponatinib",
+       "Pancreatitis, arterial events (stroke, coronary, peripheral arterial disease)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 367,
+       "page": 367
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Prognosis",
+     "items": [
+      "Chronic phase on imatinib: **89% 5-year overall survival**, 95% free of death from CML, and 7% progressing to blast phase by 5 years. Patients in complete cytogenetic response have a normal life expectancy.",
+      "Untreated CML: death at a median of 3–4 years.",
+      "Stopping the TKI can be tried after a **sustained deep molecular response** (MR4; Pocket: a fall of more than 4.5 logs for over 2 years), with close PCR monitoring. About two-thirds (Kumar), or up to half at 2 years (Pocket), stay in remission off treatment."
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 368,
+       "page": 368
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 416,
+       "page": 392
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 367,
+       "page": 367
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Pregnancy:** all TKIs and hydroxycarbamide are contraindicated. **Interferon** is the option if treatment is needed, and Davidson uses it for women planning pregnancy.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 368,
+       "page": 368
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The response rates in the books differ. Davidson gives about 90% complete cytogenetic response with any first-line TKI, Kumar 70% with imatinib, and KC Essentials over 95% complete **haematological** response. Learn the three levels: haematological (normal counts), cytogenetic (no Ph) and molecular (log fall on PCR).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 416,
+       "page": 392
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 299,
+       "page": 262
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**T315I:** Davidson and Kumar name **ponatinib**, and Pocket adds asciminib. Imatinib, nilotinib, dasatinib and bosutinib do not work against this mutation.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 416,
+       "page": 392
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 367,
+       "page": 367
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "The same target matters in another leukaemia: in **Ph-positive ALL**, imatinib is added to induction, consolidation and maintenance.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 979,
+       "page": 957
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "hemonc-cml.c1",
+   "sectionId": "hemonc-cml.s1",
+   "front": "What is chronic myeloid leukaemia?",
+   "back": "A clonal myeloproliferative neoplasm of the haematopoietic stem cell in which granulocytes dominate. It is defined by the Ph chromosome / BCR-ABL1.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 416,
+     "page": 392
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.c2",
+   "sectionId": "hemonc-cml.s1",
+   "front": "CML epidemiology in Davidson's",
+   "back": "Annual UK incidence 1.8/100 000; about 20% of leukaemias; peak age 55 years (range 30–80).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.c3",
+   "sectionId": "hemonc-cml.s1",
+   "front": "The only established risk factor for CML?",
+   "back": "Ionising radiation",
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 892,
+     "page": 892
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 366,
+     "page": 366
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.c4",
+   "sectionId": "hemonc-cml.s2",
+   "front": "Which translocation creates the Philadelphia chromosome?",
+   "back": "t(9;22)(q34;q11): a reciprocal swap that leaves a shortened chromosome 22 (the Ph chromosome)",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 55,
+     "page": 39
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.c5",
+   "sectionId": "hemonc-cml.s2",
+   "front": "What does the BCR-ABL fusion gene encode?",
+   "back": "A 210 kDa protein with a tyrosine kinase that is always switched on (constitutively active)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.c6",
+   "sectionId": "hemonc-cml.s3",
+   "front": "WHO blast thresholds for the CML phases?",
+   "back": "Chronic under 10%; accelerated 10–19%; blast phase 20% or more (or extramedullary disease)",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 366,
+     "page": 366
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 367,
+     "page": 367
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.c7",
+   "sectionId": "hemonc-cml.s3",
+   "front": "Blast crisis lineage in Davidson's?",
+   "back": "70% myeloblastic, 30% lymphoblastic. Lymphoid crisis responds better to treatment.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.c8",
+   "sectionId": "hemonc-cml.s4",
+   "front": "How often is there splenomegaly in CML?",
+   "back": "In about 90%; massive (over 15 cm below the costal margin) in about 10%. Hepatomegaly in about 50%.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.c9",
+   "sectionId": "hemonc-cml.s4",
+   "front": "What do lymphadenopathy or a chloroma suggest in CML?",
+   "back": "Blast crisis",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 416,
+     "page": 392
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.c10",
+   "sectionId": "hemonc-cml.s5",
+   "front": "Typical chronic-phase CML blood film?",
+   "back": "Every stage of granulocyte maturation, mostly neutrophils and myelocytes; myeloblasts under 10%; basophilia and eosinophilia",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.c11",
+   "sectionId": "hemonc-cml.s5",
+   "front": "LAP score: CML vs leukaemoid reaction?",
+   "back": "Low in CML; high in a leukaemoid reaction",
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "pdfPage": 435,
+     "page": 435
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 892,
+     "page": 892
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.c12",
+   "sectionId": "hemonc-cml.s6",
+   "front": "First-line TKIs for chronic-phase CML (Davidson's)?",
+   "back": "Imatinib, nilotinib or dasatinib",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.c13",
+   "sectionId": "hemonc-cml.s6",
+   "front": "How is response monitored once complete cytogenetic response is confirmed?",
+   "back": "Real-time quantitative PCR for BCR-ABL mRNA in blood every 3 months. Major molecular response = a 3-log fall or more (under 0.1%).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 416,
+     "page": 392
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.c14",
+   "sectionId": "hemonc-cml.s6",
+   "front": "CML with the T315I mutation: which drug?",
+   "back": "Ponatinib (third-generation TKI)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.c15",
+   "sectionId": "hemonc-cml.s6",
+   "front": "CML treatment in a woman planning pregnancy?",
+   "back": "Interferon. TKIs and hydroxycarbamide are contraindicated.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 368,
+     "page": 368
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "hemonc-cml.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 50-year-old man has a white cell count of 160 × 10^9/L, mostly neutrophils and myelocytes, and a spleen palpable 10 cm below the costal margin. His haematologist says one more laboratory result is needed before the diagnosis of chronic myeloid leukaemia can be made.",
+   "leadIn": "Which finding defines the diagnosis?",
+   "options": [
+    "Basophils above 20% of white cells",
+    "BCR-ABL1 fusion detected",
+    "JAK2 V617F mutation",
+    "Low leukocyte alkaline phosphatase score",
+    "Spleen more than 15 cm below the costal margin"
+   ],
+   "answer": 1,
+   "explanation": "CML is **defined** by the Philadelphia chromosome / BCR-ABL1 fusion, shown by karyotype, FISH or PCR. Everything else on the list can support the diagnosis or suggest a phase, but none of it defines the disease.",
+   "whyNot": [
+    "A basophil count of 20% or more is a criterion for accelerated phase, not the defining lesion.",
+    "",
+    "JAK2 mutations mark polycythaemia vera, essential thrombocythaemia and myelofibrosis, not CML.",
+    "A low LAP score supports CML over a leukaemoid reaction, but it is also low in other haematological malignancies.",
+    "Massive splenomegaly occurs in only about 10% of patients and is seen in other conditions too."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cml.s1"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 366,
+     "page": 366
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 416,
+     "page": 392
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 435,
+     "page": 435
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 258,
+     "page": 221
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A medical student is listing risk factors for chronic myeloid leukaemia for a revision poster.",
+   "leadIn": "Which exposure is the best-established risk factor for CML?",
+   "options": [
+    "Ionising radiation",
+    "Industrial benzene",
+    "Cigarette smoking",
+    "Previous alkylating chemotherapy",
+    "Low-dose aspirin use"
+   ],
+   "answer": 0,
+   "explanation": "Step-Up names **ionising radiation** as the only known risk factor for CML, and Pocket agrees. Davidson notes that atomic-bomb survivors developed myeloid leukaemia. Most patients have no identifiable cause.",
+   "whyNot": [
+    "",
+    "Benzene appears in Davidson's general list of leukaemia risk factors, but it is not the established risk factor for CML.",
+    "Smoking is not given as a CML risk factor in the sources.",
+    "Pocket finds no clear link between CML and earlier cytotoxic drugs; alkylating agents are linked with secondary myeloid leukaemia in general.",
+    "Aspirin has no recognised link with CML."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cml.s1"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 892,
+     "page": 892
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 366,
+     "page": 366
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 977,
+     "page": 955
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A lecturer shows a karyotype with a shortened chromosome 22 from a patient with chronic myeloid leukaemia.",
+   "leadIn": "Which best describes the product of the abnormal gene on this chromosome?",
+   "options": [
+    "A constitutively active 210 kDa tyrosine kinase",
+    "A tumour suppressor protein inactivated by deletion",
+    "A fusion protein containing the retinoic acid receptor",
+    "A JAK2 kinase carrying a point mutation",
+    "An over-expressed FLT3 cytokine receptor"
+   ],
+   "answer": 0,
+   "explanation": "The Ph chromosome carries the **BCR-ABL** fusion gene. It encodes a **210 kDa protein with tyrosine kinase activity that is always switched on**, driving proliferation and survival. This kinase is what imatinib blocks.",
+   "whyNot": [
+    "",
+    "BCR-ABL is an activated oncogene (a gain of function), not a lost tumour suppressor.",
+    "The retinoic acid receptor fusion belongs to acute promyelocytic leukaemia t(15;17), which is treated with ATRA.",
+    "JAK2 mutations drive the other myeloproliferative neoplasms, which are Ph-negative.",
+    "FLT3 is a receptor on AML blasts that predicts a poorer prognosis; it is not the Ph product."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cml.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 54,
+     "page": 38
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 296,
+     "page": 259
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 46-year-old woman has a white cell count of 140 × 10^9/L with myelocytes and basophilia, and splenomegaly. A conventional karyotype of her bone marrow shows no Philadelphia chromosome.",
+   "leadIn": "What is the most appropriate next step to establish the diagnosis?",
+   "options": [
+    "Diagnose a Ph-negative myeloproliferative neoplasm",
+    "Repeat the full blood count in 3 months",
+    "FISH or RT-PCR for the BCR-ABL1 fusion",
+    "Start hydroxycarbamide and observe the response",
+    "Splenectomy for histology"
+   ],
+   "answer": 2,
+   "explanation": "A negative conventional karyotype **does not exclude CML**. In some patients the BCR-ABL product can be found only by **molecular methods** (FISH or PCR), which are the most accurate tests. The fusion defines the disease, so it must be looked for before any other label is given.",
+   "whyNot": [
+    "This labels her too early: the fusion may be found by molecular testing even when the karyotype is normal.",
+    "Waiting delays a diagnosis that can be made now with a molecular test.",
+    "",
+    "Treating without a diagnosis is wrong, and hydroxycarbamide is now used mainly for palliation.",
+    "Splenectomy has no diagnostic role here; the fusion is detected in blood or marrow."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cml.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 416,
+     "page": 392
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 435,
+     "page": 435
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 58-year-old man has had CML for 3 years. His latest blood count shows 12% blasts, 24% basophils and platelets of 85 × 10^9/L. There is no extramedullary disease.",
+   "leadIn": "Which phase of disease is he in?",
+   "options": [
+    "Chronic phase",
+    "Accelerated phase",
+    "Myeloid blast crisis",
+    "Lymphoid blast crisis",
+    "Myelofibrotic transformation"
+   ],
+   "answer": 1,
+   "explanation": "Under the WHO criteria summarised in Pocket, **accelerated phase** means **10–19% blasts**, **20% or more basophils**, platelets under 100 × 10^9/L, or new clonal changes. He meets three of these criteria. Blast phase needs 20% or more blasts or extramedullary leukaemia.",
+   "whyNot": [
+    "Chronic phase requires blasts under 10%.",
+    "",
+    "Blast crisis needs 20% or more blasts or extramedullary disease, whatever the lineage.",
+    "A lymphoid blast crisis also needs 20% or more blasts; the lineage does not change the threshold.",
+    "Myelofibrotic change would show teardrop cells, a leucoerythroblastic film and a dry tap, not this blast and basophil pattern."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cml.s3"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 366,
+     "page": 366
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 367,
+     "page": 367
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 434,
+     "page": 434
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 261,
+     "page": 224
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 55-year-old woman with known CML develops blast crisis.",
+   "leadIn": "Which statement about this phase is most accurate?",
+   "options": [
+    "Most blast crises are lymphoblastic",
+    "It is the commonest cause of death in CML",
+    "Its timing can be predicted from the white count at diagnosis",
+    "Platelet counts usually rise sharply at transformation",
+    "It affects about 10% a year of patients taking imatinib"
+   ],
+   "answer": 1,
+   "explanation": "Blast crisis causes **most deaths** in CML. Its timing cannot be predicted, so it decides survival. Davidson gives the split as 70% myeloblastic and 30% lymphoblastic, and with imatinib only 0.5–2.5% of patients transform each year.",
+   "whyNot": [
+    "About 70% are myeloblastic; lymphoblastic crisis is the smaller group (30%).",
+    "",
+    "Davidson stresses that the timing of blast crisis cannot be predicted.",
+    "High platelet counts usually fall sharply at blast transformation.",
+    "About 10% a year was the rate before imatinib; on imatinib it is 0.5–2.5% a year."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cml.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 55-year-old woman has had weight loss, sweats and abdominal fullness for 3 months. Her white cell count is 210 × 10^9/L with granulocytes at all stages of maturation.",
+   "leadIn": "Which examination finding is she most likely to have?",
+   "options": [
+    "Generalised lymphadenopathy",
+    "Splenomegaly",
+    "Hepatomegaly",
+    "Splenic friction rub",
+    "Retinal haemorrhages"
+   ],
+   "answer": 1,
+   "explanation": "Splenomegaly is the classic sign of CML and is present in about **90%** of patients. It is massive in about 10%. Hepatomegaly occurs in about half, and the other findings are much less common.",
+   "whyNot": [
+    "Lymphadenopathy is unusual in CML and suggests blast crisis.",
+    "",
+    "Hepatomegaly occurs in only about 50%, less often than splenomegaly.",
+    "A rub is heard only after a splenic infarction.",
+    "Retinal haemorrhage from leucostasis is an occasional feature, not a usual one."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cml.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 416,
+     "page": 392
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 49-year-old man has had CML controlled on imatinib for 5 years. He now has enlarging cervical lymph nodes and a firm soft-tissue mass over the sternum. His white count has started to rise.",
+   "leadIn": "What is the most likely explanation?",
+   "options": [
+    "Blast crisis with an extramedullary leukaemic deposit",
+    "An imatinib-induced skin reaction",
+    "Reactive lymphadenopathy from a viral infection",
+    "Transformation to chronic lymphocytic leukaemia",
+    "Splenic infarction"
+   ],
+   "answer": 0,
+   "explanation": "Lymphadenopathy is **uncommon** in chronic-phase CML, and a soft-tissue leukaemic mass outside the marrow (a **chloroma**) means **blast crisis**. Extramedullary leukaemia is enough on its own to define blast phase.",
+   "whyNot": [
+    "",
+    "Imatinib can cause a rash, but not a firm sternal mass with lymphadenopathy.",
+    "A viral illness would not explain a soft-tissue mass and a rising white count in a patient with CML.",
+    "CML transforms to acute leukaemia or myelofibrosis, not to CLL.",
+    "Splenic infarction causes left upper quadrant pain and a rub, not nodes or a sternal mass."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cml.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 416,
+     "page": 392
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 366,
+     "page": 366
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 367,
+     "page": 367
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A medical student examines the blood film of a patient with untreated chronic-phase CML.",
+   "leadIn": "Which description best fits the film?",
+   "options": [
+    "Granulocytes at every stage of maturation, mainly neutrophils and myelocytes, with basophilia",
+    "Blasts making up most of the white cells, with few intermediate forms",
+    "Small mature lymphocytes with smudge cells",
+    "Teardrop red cells in a leucoerythroblastic picture",
+    "Toxic granulation in mature neutrophils with no basophilia"
+   ],
+   "answer": 0,
+   "explanation": "Chronic-phase CML shows the **full range of granulocyte precursors**, mostly **neutrophils and myelocytes**, with myeloblasts under 10% and more basophils and eosinophils. Nucleated red cells are common.",
+   "whyNot": [
+    "",
+    "A film dominated by blasts suggests acute leukaemia or blast crisis.",
+    "Mature lymphocytes with smudge cells suggest CLL.",
+    "Teardrop cells in a leucoerythroblastic film suggest myelofibrosis.",
+    "Toxic granulation without basophilia suggests a reactive (leukaemoid) picture."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cml.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 434,
+     "page": 434
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 261,
+     "page": 224
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 435,
+     "page": 435
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 348,
+     "page": 348
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 29-year-old woman with lobar pneumonia has a white count of 48 × 10^9/L with a left shift and a few myelocytes. She has no splenomegaly.",
+   "leadIn": "Which result most strongly favours a reactive cause over CML?",
+   "options": [
+    "High leukocyte alkaline phosphatase score",
+    "Myelocytes on the film",
+    "Raised serum LDH",
+    "Normocytic anaemia",
+    "Raised platelet count"
+   ],
+   "answer": 0,
+   "explanation": "A **leukaemoid reaction** (the neutrophil response to infection, with a left shift) can look like CML. The **LAP score is high** in a leukaemoid reaction and **low** in CML. The trigger (pneumonia) and the normal spleen also point to a reactive cause.",
+   "whyNot": [
+    "",
+    "Myelocytes appear in both conditions, because both can show a left shift.",
+    "LDH is raised in CML too, so it does not help to separate them.",
+    "Anaemia is common in CML, so it does not favour a reactive cause.",
+    "Thrombocytosis occurs in about a third of patients with CML and in reactive states, so it does not discriminate."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cml.s5"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "pdfPage": 435,
+     "page": 435
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 892,
+     "page": 892
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 951,
+     "page": 929
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 60-year-old man with chronic-phase CML lost his response first to imatinib and then to dasatinib. Mutation analysis now shows a T315I mutation in the BCR-ABL kinase domain.",
+   "leadIn": "Which drug is most appropriate?",
+   "options": [
+    "Ponatinib",
+    "Nilotinib",
+    "Bosutinib",
+    "Hydroxycarbamide",
+    "Interferon"
+   ],
+   "answer": 0,
+   "explanation": "T315I gives **broad resistance** to TKIs. The third-generation TKI **ponatinib** works against it, and Davidson and Kumar name it as the drug of choice.",
+   "whyNot": [
+    "",
+    "Nilotinib, a second-generation TKI, is not effective against T315I.",
+    "Bosutinib, a second-generation TKI, is not effective against T315I.",
+    "Hydroxycarbamide is now used mainly for palliation; it does not target the mutant kinase.",
+    "Interferon is kept mainly for women planning pregnancy."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cml.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 416,
+     "page": 392
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 367,
+     "page": 367
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 28-year-old woman with chronic-phase CML is in major molecular response on nilotinib. She wants to become pregnant.",
+   "leadIn": "Which treatment is the recognised option if her disease needs control during pregnancy?",
+   "options": [
+    "Interferon",
+    "Imatinib",
+    "Dasatinib",
+    "Hydroxycarbamide",
+    "Ponatinib"
+   ],
+   "answer": 0,
+   "explanation": "All TKIs and hydroxycarbamide are **contraindicated in pregnancy**. **Interferon** is the only treatment option if one is needed, and Davidson uses it for women planning pregnancy.",
+   "whyNot": [
+    "",
+    "Imatinib, like all TKIs, is contraindicated in pregnancy.",
+    "Dasatinib, like all TKIs, is contraindicated in pregnancy.",
+    "Hydroxycarbamide is contraindicated in pregnancy.",
+    "Ponatinib, like all TKIs, is contraindicated in pregnancy."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cml.s6"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 368,
+     "page": 368
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q13",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Phases and transformations of chronic myeloid leukaemia",
+   "leadIn": "Match each patient below with the single most likely option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Chronic phase CML",
+    "Accelerated phase CML",
+    "Myeloid blast crisis",
+    "Lymphoid blast crisis",
+    "Transformation to myelofibrosis",
+    "Leukaemoid reaction",
+    "Chronic lymphocytic leukaemia",
+    "Polycythaemia vera",
+    "Essential thrombocythaemia",
+    "Acute promyelocytic leukaemia"
+   ],
+   "items": [
+    {
+     "stem": "A 52-year-old accountant has a routine blood count before a hernia repair. The white count is 145 × 10^9/L, mainly neutrophils and myelocytes, with 3% blasts and 4% basophils; platelets are 520 × 10^9/L. The spleen tip is palpable, and FISH shows BCR-ABL1.",
+     "answer": 0,
+     "explanation": "BCR-ABL1-positive disease with blasts under 10% and no other advanced features is **chronic phase**. Most patients (about 85%) are diagnosed in this phase, often by chance.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s3"
+     }
+    },
+    {
+     "stem": "A 61-year-old man has had CML for four years. He now has 15% blasts and 23% basophils in his blood, and his platelets are 70 × 10^9/L (previously 600). There is no extramedullary disease.",
+     "answer": 1,
+     "explanation": "Blasts of 10–19%, basophils of 20% or more, and platelets under 100 × 10^9/L are WHO criteria for the **accelerated phase**. The fall from a high platelet count is a warning sign.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s3"
+     }
+    },
+    {
+     "stem": "A 39-year-old man with CML develops cervical lymphadenopathy. His blood shows 25% blasts, and immunophenotyping identifies them as B-lymphoblasts. He is told that this form responds better to treatment than the more common type.",
+     "answer": 3,
+     "explanation": "Step 1: lymphadenopathy and 20% or more blasts mean **blast crisis**. Step 2: the blasts are lymphoid. About 30% of blast crises are lymphoblastic, and they respond better than myeloid ones.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s3"
+     }
+    },
+    {
+     "stem": "A 70-year-old man with CML refused all treatment years ago. He now has worsening marrow failure. His film shows teardrop red cells and nucleated red cells with immature myeloid cells, and marrow aspiration gives a dry tap.",
+     "answer": 4,
+     "explanation": "Step 1: untreated CML can end in blast crisis **or myelofibrosis**. Step 2: teardrop cells, a leucoerythroblastic film and a dry tap show that the marrow has become fibrotic, so this is **myelofibrotic transformation**.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 366,
+     "page": 366
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 367,
+     "page": 367
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 416,
+     "page": 392
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 261,
+     "page": 224
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 893,
+     "page": 893
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q14",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Causes of a raised white cell count with or without splenomegaly",
+   "leadIn": "Match each patient below with the single most likely option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Chronic myeloid leukaemia",
+    "Chronic lymphocytic leukaemia",
+    "Leukaemoid reaction to infection",
+    "Primary myelofibrosis",
+    "Polycythaemia vera",
+    "Essential thrombocythaemia",
+    "Acute myeloid leukaemia",
+    "Acute lymphoblastic leukaemia",
+    "Chronic malaria",
+    "Visceral leishmaniasis (kala-azar)",
+    "Gaucher disease"
+   ],
+   "items": [
+    {
+     "stem": "A 35-year-old man is admitted with a perforated appendix. His white count is 52 × 10^9/L with neutrophils, band forms and a few myelocytes. There is no splenomegaly, and the leukocyte alkaline phosphatase score is high.",
+     "answer": 2,
+     "explanation": "A clear trigger, no splenomegaly and a **high LAP score** mean a **leukaemoid reaction**. In CML the LAP score is low.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s5"
+     }
+    },
+    {
+     "stem": "A 72-year-old woman has a white count of 38 × 10^9/L made up almost entirely of small mature lymphocytes, with smudge cells on the film. Flow cytometry shows monoclonal B cells that express CD5.",
+     "answer": 1,
+     "explanation": "A mature **lymphocytosis** of CD5-positive monoclonal B cells with smudge cells in an older patient is **CLL**. CML causes a granulocytosis.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s5"
+     }
+    },
+    {
+     "stem": "A 66-year-old man has a spleen reaching his right iliac fossa. His film shows teardrop red cells, nucleated red cells and immature myeloid cells. Marrow aspiration is a dry tap, and BCR-ABL1 is not detected.",
+     "answer": 3,
+     "explanation": "Massive splenomegaly suggests CML or myelofibrosis. Teardrop cells, a leucoerythroblastic film, a dry tap and **no BCR-ABL1** point to **myelofibrosis**.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s5"
+     }
+    },
+    {
+     "stem": "A 44-year-old woman has a spleen reaching her right iliac fossa. Her white count is 230 × 10^9/L with every stage of granulocyte maturation, raised basophils and a low LAP score.",
+     "answer": 0,
+     "explanation": "A massive spleen with granulocytes at all stages, **basophilia** and a **low LAP score** in middle age is the classic picture of **CML**. Confirm it by showing BCR-ABL1.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 892,
+     "page": 892
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 435,
+     "page": 435
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 434,
+     "page": 434
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 261,
+     "page": 224
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 262,
+     "page": 225
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q15",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 45-year-old man started imatinib for chronic-phase CML 6 months ago. His blood count is now normal, and a bone marrow sample shows no Philadelphia-positive cells.",
+   "leadIn": "How should his response be monitored from now on?",
+   "options": [
+    "Real-time quantitative PCR for BCR-ABL1 transcripts in blood every 3 months",
+    "Bone marrow karyotype every 3 months",
+    "Full blood count alone every 6 months",
+    "Annual FISH on bone marrow",
+    "Monthly leukocyte alkaline phosphatase score"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: work out where he is. A normal count means a haematological response, and no Ph-positive cells on the 6-month marrow means a **complete cytogenetic response**, the marrow check Davidson recommends. Step 2: once the Ph chromosome has gone, a karyotype is no longer sensitive enough, so response is followed **molecularly**. Step 3: Davidson recommends **real-time quantitative PCR for BCR-ABL mRNA in blood every 3 months**. The aim is a major molecular response, a 3-log fall or more (under 0.1% on the International Scale, which Pocket expects by 12 months).",
+   "whyNot": [
+    "",
+    "Repeated marrow karyotypes are invasive and less sensitive than PCR once cytogenetic response is reached.",
+    "A blood count cannot detect the residual disease that PCR measures.",
+    "Annual FISH is too infrequent and less sensitive than quantitative PCR.",
+    "The LAP score helps tell CML from a leukaemoid reaction; it is not used to monitor treatment."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cml.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 368,
+     "page": 368
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 416,
+     "page": 392
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q16",
+   "kind": "emq",
+   "pool": "worked",
+   "difficulty": 2,
+   "theme": "Treatment choices in chronic myeloid leukaemia",
+   "leadIn": "Match each patient below with the single most likely option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Imatinib",
+    "Bosutinib",
+    "Ponatinib",
+    "Hydroxycarbamide",
+    "Interferon",
+    "Allogeneic haematopoietic stem cell transplantation",
+    "Second-generation TKI with acute-leukaemia chemotherapy",
+    "Leukapheresis",
+    "Rasburicase",
+    "Splenectomy",
+    "Stopping the TKI with close molecular monitoring"
+   ],
+   "items": [
+    {
+     "stem": "A 27-year-old woman has newly diagnosed chronic-phase CML with a white count of 60 × 10^9/L. She plans to conceive within the year.",
+     "answer": 4,
+     "explanation": "Step 1: chronic-phase CML is normally treated with a TKI. Step 2: TKIs (and hydroxycarbamide) are **contraindicated in pregnancy**. Step 3: Davidson keeps **interferon** for women planning pregnancy, and Pocket calls it the only option in pregnancy.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s6"
+     }
+    },
+    {
+     "stem": "A 41-year-old man in lymphoid blast crisis of CML has returned to chronic phase after dasatinib plus chemotherapy. He is fit and has an HLA-matched sibling.",
+     "answer": 5,
+     "explanation": "Step 1: blast crisis is treated with a second- or third-generation TKI plus acute-leukaemia chemotherapy, and that has worked. Step 2: in a **younger, fit** patient who regains chronic phase, Davidson advises an **allogeneic HSCT** to make the remission durable.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s6"
+     }
+    },
+    {
+     "stem": "A 58-year-old man with chronic-phase CML has had a sustained deep molecular response (MR4) on imatinib for several years. He asks whether he must take it for life.",
+     "answer": 10,
+     "explanation": "Step 1: imatinib can be continued indefinitely, but Step 2: after a **sustained deep molecular response (MR4)** a TKI can be **stopped under close PCR monitoring**. About two-thirds (Kumar), or up to half at 2 years (Pocket), stay in remission.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 367,
+     "page": 367
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 368,
+     "page": 368
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 416,
+     "page": 392
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q17",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Investigations in suspected or treated chronic myeloid leukaemia",
+   "leadIn": "Match each patient below with the single most likely option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Full blood count",
+    "Peripheral blood film",
+    "Leukocyte alkaline phosphatase score",
+    "Bone marrow aspirate with morphology and karyotype",
+    "Bone marrow trephine biopsy",
+    "BCR-ABL1 kinase-domain mutation analysis",
+    "Real-time quantitative PCR for BCR-ABL1 transcripts in blood",
+    "JAK2 mutation analysis",
+    "Serum lactate dehydrogenase",
+    "Serum uric acid",
+    "Electrocardiogram",
+    "Direct antiglobulin (Coombs) test"
+   ],
+   "items": [
+    {
+     "stem": "A 50-year-old woman has a blood picture typical of CML, and peripheral blood FISH has detected BCR-ABL1. Her haematologist now needs to know the exact phase of disease and to have a baseline karyotype.",
+     "answer": 3,
+     "explanation": "Davidson recommends a **bone marrow** sample to confirm the diagnosis and the **phase** (blast percentage), with chromosome analysis to show the Ph chromosome.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s5"
+     }
+    },
+    {
+     "stem": "A 47-year-old man had a complete cytogenetic response on his 6-month marrow on nilotinib. His haematologist plans a repeat test every 3 months from now on.",
+     "answer": 6,
+     "explanation": "After complete cytogenetic response, response is followed by **real-time quantitative PCR for BCR-ABL mRNA in blood every 3 months**.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s6"
+     }
+    },
+    {
+     "stem": "A 55-year-old woman takes imatinib reliably, but her BCR-ABL1 transcript level has risen ten-fold over two tests. Her haematologist plans to change her treatment.",
+     "answer": 5,
+     "explanation": "Step 1: rising transcripts despite good adherence mean a loss of response. Step 2: resistance is often caused by **kinase-domain mutations** (e.g. T315I), so **mutation analysis** is done to choose the next TKI.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s6"
+     }
+    },
+    {
+     "stem": "A 66-year-old man with CML is about to start nilotinib. He already takes several drugs that prolong the QT interval.",
+     "answer": 10,
+     "explanation": "Pocket lists **QT(c) prolongation** among the side-effects of all TKIs, nilotinib included. The QT interval is measured on an **ECG**, so a baseline ECG is the test to do in a patient already taking QT-prolonging drugs.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 367,
+     "page": 367
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 416,
+     "page": 392
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 417,
+     "page": 417
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q18",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Drugs used in chronic myeloid leukaemia: identify the agent",
+   "leadIn": "Match each patient below with the single most likely option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Imatinib",
+    "Nilotinib",
+    "Dasatinib",
+    "Bosutinib",
+    "Ponatinib",
+    "Asciminib",
+    "Hydroxycarbamide",
+    "Interferon",
+    "Cytarabine",
+    "Allopurinol"
+   ],
+   "items": [
+    {
+     "stem": "A 59-year-old man on a second-generation TKI for CML becomes breathless. His chest X-ray shows a pleural effusion, and echocardiography shows a small pericardial effusion.",
+     "answer": 2,
+     "explanation": "**Pleural and pericardial effusions** (and pulmonary hypertension) are the typical toxicity of **dasatinib**.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s6"
+     }
+    },
+    {
+     "stem": "A 63-year-old woman with T315I-mutated CML starts a third-generation TKI. Months later she develops epigastric pain with a raised lipase, and later a transient ischaemic attack.",
+     "answer": 4,
+     "explanation": "Step 1: a third-generation TKI used for T315I is **ponatinib**. Step 2: its typical toxicities are **pancreatitis** and **arterial events** such as stroke.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s6"
+     }
+    },
+    {
+     "stem": "A 52-year-old man on a second-generation TKI has raised bilirubin and lipase on routine bloods, and he is counselled about his cardiovascular risk.",
+     "answer": 1,
+     "explanation": "A raised bilirubin and lipase with **cardiovascular toxicity** is the typical pattern for **nilotinib**.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s6"
+     }
+    },
+    {
+     "stem": "A 70-year-old man has failed two previous TKIs. He now starts an allosteric (STAMP) inhibitor of BCR-ABL1.",
+     "answer": 5,
+     "explanation": "**Asciminib** is the allosteric (STAMP) inhibitor. Pocket lists it for use after two or more previous TKIs, and it also works against T315I.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 367,
+     "page": 367
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q19",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Explaining clinical findings in a patient with chronic myeloid leukaemia",
+   "leadIn": "Match each patient below with the single most likely option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Splenic infarction",
+    "Leucostasis from hyperleucocytosis",
+    "Gout from hyperuricaemia",
+    "Transformation to blast crisis",
+    "Symptomatic anaemia",
+    "Dasatinib-induced pleural effusion",
+    "Transformation to myelofibrosis",
+    "Tumour lysis syndrome",
+    "Hypersplenism",
+    "Reactive lymphadenopathy from infection"
+   ],
+   "items": [
+    {
+     "stem": "A 54-year-old man with newly diagnosed CML has a spleen 18 cm below the costal margin. He suddenly develops severe left upper quadrant pain, and a rub is heard over the spleen.",
+     "answer": 0,
+     "explanation": "In a massively enlarged CML spleen, sudden pain with a **friction rub** means **splenic infarction**.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s4"
+     }
+    },
+    {
+     "stem": "A 36-year-old man presents with a painful, persistent erection and a headache. His white count is 420 × 10^9/L with myelocytes and basophils.",
+     "answer": 1,
+     "explanation": "A very high white count can cause **priapism**, headache and retinal haemorrhage through **leucostasis** (hyperleucocytosis).",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s4"
+     }
+    },
+    {
+     "stem": "A 60-year-old woman with untreated CML has a hot, swollen first metatarsophalangeal joint. Her LDH is raised.",
+     "answer": 2,
+     "explanation": "High cell turnover raises **uric acid** (and LDH), and **gout** is a recognised presenting symptom of CML.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s4"
+     }
+    },
+    {
+     "stem": "A 48-year-old man has had CML well controlled on imatinib for 6 years. He now has bone pain and drenching sweats, his spleen is growing quickly, his previously high platelet count has dropped sharply, and his film shows a steep rise in circulating blasts.",
+     "answer": 3,
+     "explanation": "Step 1: worsening constitutional symptoms, bone pain and a **rapidly enlarging spleen** suggest progression. Step 2: a sharp **fall in a previously high platelet count** with a **steep rise in circulating blasts** is typical of blast transformation.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 416,
+     "page": 392
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 367,
+     "page": 367
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q20",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Cytogenetic and molecular lesions in haematological malignancy",
+   "leadIn": "Match each patient below with the single most likely option from the list above. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "t(9;22)(q34;q11) BCR-ABL1",
+    "t(15;17)",
+    "t(8;21)",
+    "inv(16)",
+    "t(1;19)",
+    "JAK2 mutation",
+    "T315I kinase-domain mutation",
+    "Deletion 5q or a complex karyotype",
+    "Normal karyotype with no recurrent lesion"
+   ],
+   "items": [
+    {
+     "stem": "A 50-year-old man has massive splenomegaly and neutrophilia with myelocytes and basophilia. The lesion responsible encodes a 210 kDa kinase that is always switched on.",
+     "answer": 0,
+     "explanation": "A 210 kDa tyrosine kinase that is always active is the BCR-ABL product of **t(9;22)**, which defines CML.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s2"
+     }
+    },
+    {
+     "stem": "A 25-year-old man with acute lymphoblastic leukaemia is told that his leukaemia carries a poor-risk lesion and that imatinib will be added to every phase of his treatment.",
+     "answer": 0,
+     "explanation": "Step 1: imatinib targets BCR-ABL. Step 2: Ph-positive ALL is poor-risk (about 20% 5-year survival in Davidson), and imatinib is added to induction, consolidation and maintenance. So the lesion is **t(9;22)**.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s2"
+     }
+    },
+    {
+     "stem": "A 34-year-old woman with acute myeloid leukaemia and bleeding is treated with ATRA and arsenic trioxide without chemotherapy. Her expected cure rate is about 90%.",
+     "answer": 1,
+     "explanation": "ATRA plus arsenic trioxide is the treatment for **acute promyelocytic leukaemia, t(15;17)**, which carries a good prognosis.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s2"
+     }
+    },
+    {
+     "stem": "A 64-year-old man with CML loses his response to imatinib, then nilotinib, then dasatinib. Only ponatinib is now expected to work.",
+     "answer": 6,
+     "explanation": "Broad resistance to TKIs that only ponatinib overcomes is caused by the **T315I** kinase-domain mutation.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s6"
+     }
+    },
+    {
+     "stem": "A 58-year-old woman with a myeloproliferative neoplasm has a raised haematocrit. BCR-ABL1 is negative.",
+     "answer": 5,
+     "explanation": "Polycythaemia vera, essential thrombocythaemia and myelofibrosis are BCR-ABL1-negative MPNs that carry **JAK2** mutations.",
+     "studyRef": {
+      "sectionId": "hemonc-cml.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 979,
+     "page": 957
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 55,
+     "page": 39
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 258,
+     "page": 221
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q21",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 3,
+   "stem": "A 63-year-old woman was diagnosed with CML 2 years ago. She now has fatigue and bone pain. Her film shows 32% blasts, and her platelets have fallen from 900 to 60 × 10^9/L. Flow cytometry shows that the blasts are lymphoid.",
+   "leadIn": "Which management approach is most appropriate?",
+   "options": [
+    "Second- or third-generation TKI with acute-leukaemia chemotherapy",
+    "Continue imatinib alone at the same dose",
+    "Interferon",
+    "Splenectomy",
+    "Stop treatment and follow PCR results"
+   ],
+   "answer": 0,
+   "explanation": "Blasts of 20% or more mean **blast crisis** (lymphoid here, which responds better than myeloid). Davidson advises identifying the blast type and then giving a **second- or third-generation TKI with acute-leukaemia chemotherapy**. A transplant is considered if she returns to chronic phase and is fit enough.",
+   "whyNot": [
+    "",
+    "Imatinib alone gives only short-lived responses in blast crisis.",
+    "Interferon is kept for women planning pregnancy, not for blast crisis.",
+    "Splenectomy does not treat transformation to acute leukaemia.",
+    "Stopping therapy is considered only in a sustained deep molecular response, not in blast crisis."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cml.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 299,
+     "page": 262
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 367,
+     "page": 367
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cml.q22",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 3,
+   "stem": "A 52-year-old man takes imatinib for chronic-phase CML and says he never misses a dose. His 3-monthly quantitative PCR results for BCR-ABL1 are 0.05%, then 0.4%, then 2.1%.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "BCR-ABL1 kinase-domain mutation analysis and a switch of TKI",
+    "Stop imatinib and watch",
+    "Add allopurinol",
+    "Allogeneic stem cell transplant without changing the TKI",
+    "Reduce PCR monitoring to once a year"
+   ],
+   "answer": 0,
+   "explanation": "Rising transcripts despite good adherence mean a **loss of response**. Resistance is often caused by **BCR-ABL kinase-domain mutations**, so the next step is **mutation analysis and a switch to another TKI** (ponatinib if T315I is found). Allogeneic HSCT is kept for patients who fail TKIs.",
+   "whyNot": [
+    "",
+    "Stopping is considered only after a sustained deep molecular response, not when transcripts are rising.",
+    "Allopurinol lowers urate; it does nothing for resistance.",
+    "Going straight to transplant skips the effective option of another TKI.",
+    "A rising transcript level calls for closer monitoring, not less."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cml.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 416,
+     "page": 392
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "hemonc-cml.o1",
+   "sectionId": "hemonc-cml.s2",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 55,
+    "page": 39,
+    "figure": "Fig. 2.23"
+   },
+   "identify": "Ideogram of the reciprocal t(9;22)(q34;q11): the shortened chromosome 22 is the **Philadelphia chromosome**, carrying the BCR-ABL fusion. Kumar reports it in 90–95% of patients with CML."
+  },
+  {
+   "id": "hemonc-cml.o2",
+   "sectionId": "hemonc-cml.s5",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 416,
+    "page": 392,
+    "figure": "Fig. 17.10"
+   },
+   "identify": "CML blood film with **blast cells** (arrow). An increased number of blasts suggests progression to the **accelerated phase or blast crisis**."
+  },
+  {
+   "id": "hemonc-cml.o3",
+   "sectionId": "hemonc-cml.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 938,
+    "page": 916,
+    "figure": "Fig. 23.3"
+   },
+   "identify": "The granulocyte maturation series (myeloblast → promyelocyte → myelocyte → metamyelocyte → neutrophil). A film showing all these stages together, with basophils, suggests **CML** (left-shifted granulocytosis)."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:34:29.068Z",
+  "contentHash": "d45287fae6d307bfc38a3a615e1f4433a9f92e766f31e7ab9398b5eb90a08a51"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:34:29.074Z",
+  "contentHash": "d45287fae6d307bfc38a3a615e1f4433a9f92e766f31e7ab9398b5eb90a08a51",
+  "checkerVersion": "source-check-v1"
+ }
+}

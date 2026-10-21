@@ -1,0 +1,3565 @@
+{
+ "topicId": "resp-asthma",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "resp-asthma.s1",
+   "title": "Definition & pathophysiology",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Asthma is a **chronic inflammatory disease of the airways**. The inflammation makes the airways **hyper-responsive**, so patients get recurrent bouts of **wheeze, breathlessness, chest tightness and cough**, typically at **night and in the early morning**. The airflow obstruction is **widespread and variable**, and it often **reverses**, either on its own or with treatment.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 589,
+       "page": 567
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 967,
+       "page": 949
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 563,
+       "page": 526
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "The three defining features",
+     "items": [
+      "**Airflow limitation** that is usually reversible (spontaneously or with treatment)",
+      "**Airway hyper-responsiveness (AHR)** to a wide range of stimuli",
+      "**Bronchial inflammation**: T lymphocytes, mast cells and eosinophils, with mucosal oedema, smooth-muscle hypertrophy, mucus plugging and epithelial damage"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 967,
+       "page": 949
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 563,
+       "page": 526
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 186,
+       "page": 186
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Atopy** (a tendency to make IgE against common allergens) is strongly linked to asthma. Dendritic cells present allergen to **Th2 lymphocytes**, whose cytokines (IL-4 and IL-13 switch B cells to **IgE**; IL-5 and others support eosinophil and mast cell development) prime **mast cells**. Re-exposure triggers a biphasic response: an **early (type I) reaction** within minutes from release of pre-formed mediators (histamine, tryptase, PGD2, LTC4), then a **late-phase reaction** hours later driven by recruited inflammatory cells.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 590,
+       "page": 568
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 564,
+       "page": 527
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 590,
+      "page": 568,
+      "figure": "Fig. 17.18"
+     },
+     "note": "Look at: peak flow after allergen challenge, with an early dip (type I, pre-formed mediators) and a second, later dip from inflammatory cell recruitment."
+    },
+    {
+     "type": "bullets",
+     "title": "What narrows the airway",
+     "items": [
+      "Contraction of bronchial smooth muscle",
+      "Wall thickening from oedema and inflammatory cell infiltrate",
+      "Mucus and cell debris in the lumen",
+      "In chronic disease, **remodelling**: smooth-muscle hypertrophy and hyperplasia, collagen laid down beneath the basement membrane, shedding of ciliated epithelium and more goblet cells"
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 564,
+       "page": 527
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 565,
+       "page": 528
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 590,
+       "page": 568
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**AHR** means the airways narrow excessively in response to triggers that hardly affect a normal person. It is central to the diagnosis and is linked, though not exclusively, to airway inflammation.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 590,
+       "page": 568
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Reversibility is not guaranteed for life. With increasing severity and duration, **remodelling** causes wall fibrosis and **fixed narrowing** with a smaller bronchodilator response, so incompletely reversible obstruction does not exclude long-standing asthma.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 590,
+       "page": 568
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 563,
+       "page": 526
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.s2",
+   "title": "Precipitants of an asthma attack",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Triggers by group",
+     "columns": [
+      "Group",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Allergens",
+       "House-dust mite (the major allergen); pets such as cat, guinea pig, rabbit, horse; cockroaches and other pests; moulds after water damage; pollens"
+      ],
+      [
+       "Infection",
+       "Viral upper respiratory tract infection: the **commonest trigger of exacerbations**"
+      ],
+      [
+       "Physical",
+       "Exercise (especially in cold weather); cold, dry air"
+      ],
+      [
+       "Irritants & pollution",
+       "Tobacco smoke, car exhaust, solvents, strong perfumes, dust; pollution episodes (ozone, particulates, NO2, SO2) during temperature inversions; pollen surges after thunderstorms; moulds such as Alternaria and Cladosporium"
+      ],
+      [
+       "Drugs",
+       "Beta-blockers (even as eye drops), aspirin and other NSAIDs, the oral contraceptive pill, cholinergic agents, prostaglandin F2α"
+      ],
+      [
+       "Occupational",
+       "Isocyanates, flour and grain dust, colophony, latex, animal proteins (see Types of asthma)"
+      ],
+      [
+       "Other",
+       "Emotion; betel nut (arecoline resembles methacholine)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 590,
+       "page": 568
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 591,
+       "page": 569
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 594,
+       "page": 572
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 968,
+       "page": 950
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 969,
+       "page": 951
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 565,
+       "page": 528
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Exercise-induced** symptoms classically start **after**, not during, exertion. Hyperventilation dries the airway lining fluid (and cools the mucosa), which releases mediators from mast cells. FEV1 rises briefly at the end of exercise, then falls sharply and recovers slowly.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 590,
+       "page": 568
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 592,
+       "page": 570
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 968,
+       "page": 950
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 135,
+       "page": 135
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 592,
+      "page": 570,
+      "figure": "Fig. 17.21"
+     },
+     "note": "Look at: FEV1 after 6 minutes of exercise, with a small rise, then a sudden fall and gradual recovery over about 30 minutes."
+    },
+    {
+     "type": "para",
+     "text": "**NSAIDs** (aspirin, propionic acid drugs such as ibuprofen, indometacin) worsen asthma in about **5%** of patients. Intolerance is most common in those who also have **nasal polyps**, and it often comes with rhinitis and flushing. Anyone intolerant of aspirin should avoid all NSAIDs.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 969,
+       "page": 951
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 567,
+       "page": 530
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Beta-blockers**: even cardioselective drugs (atenolol) and topical eye drops can provoke attacks. Non-selective agents (propranolol) block the β2 effect of circulating adrenaline that normally offsets vagal bronchoconstriction, so the airflow limitation is seen only in asthmatics. Avoid beta-blockers in any form in asthma.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 590,
+       "page": 568
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 969,
+       "page": 951
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 567,
+       "page": 530
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Exercise symptoms can be prevented by a proper **warm-up** or by taking a **β2-agonist, nedocromil or a leukotriene antagonist** beforehand.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 592,
+       "page": 570
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.s3",
+   "title": "Types of asthma",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Clinical types (phenotypes)",
+     "columns": [
+      "Type",
+      "Typical patient",
+      "Key clue"
+     ],
+     "rows": [
+      [
+       "Allergic (extrinsic), childhood onset",
+       "Atopic child or young adult, often with eczema and hay fever",
+       "Positive skin-prick tests (about 90% of children and 70% of adults with persistent asthma)"
+      ],
+      [
+       "Non-allergic (intrinsic), adult onset",
+       "Starts in middle age; attacks set off by respiratory infections",
+       "No atopy and no clear external trigger"
+      ],
+      [
+       "Aspirin-exacerbated (Samter's triad)",
+       "Middle-aged woman",
+       "Asthma + rhinosinusitis + nasal polyps; reacts to NSAIDs, sometimes alcohol and salicylate-rich foods"
+      ],
+      [
+       "Occupational",
+       "Working-age adult with new asthma",
+       "Better at weekends and on holiday"
+      ],
+      [
+       "Cough-variant",
+       "Any age",
+       "Cough is the main symptom, with little wheeze or breathlessness, so diagnosis is delayed"
+      ],
+      [
+       "Exercise-induced",
+       "Any age",
+       "Symptoms brought on by exercise, especially in cold weather"
+      ],
+      [
+       "Brittle",
+       "Some patients",
+       "Severe attacks with little or no warning"
+      ],
+      [
+       "Steroid-resistant",
+       "A recognised subtype (endotype)",
+       "Poor response to glucocorticoids"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 967,
+       "page": 949
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 186,
+       "page": 186
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 563,
+       "page": 526
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 590,
+       "page": 568
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 591,
+       "page": 569
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 594,
+       "page": 572
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "In **aspirin-sensitive asthma**, blocking cyclo-oxygenase diverts arachidonic acid down the **lipoxygenase pathway**, so more bronchoconstricting **cysteinyl leukotrienes** are made.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 590,
+       "page": 568
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Inflammatory subtypes (induced sputum)",
+     "items": [
+      "**Eosinophilic**: the usual pattern",
+      "**Neutrophilic**: seen in a severe form with less allergic drive, more common in women",
+      "**Pauci-granulocytic**: little inflammation of either kind"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 590,
+       "page": 568
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 591,
+       "page": 569
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Occupational asthma",
+     "items": [
+      "Suspect it in any **working-age adult with new-onset asthma** that improves away from work",
+      "Common agents: **isocyanates** (paint sprayers), **flour and grain dust** (bakers), colophony and fluxes (soldering), **latex** (nurses), animal proteins (laboratory animal workers), enzymes (laundry work)",
+      "Confirm with **serial peak flow at least 4 times a day for at least 3 weeks**, ideally including time away from work",
+      "Early removal from exposure may cure it",
+      "**Reactive airways dysfunction syndrome**: persistent asthma-like illness after a **single high-level irritant exposure** (gas, smoke, fumes)"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 635,
+       "page": 613
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 636,
+       "page": 614
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 565,
+       "page": 528
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 968,
+       "page": 950
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 567,
+       "page": 530
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 636,
+      "page": 614,
+      "figure": "Fig. 17.61"
+     },
+     "note": "Look at: serial peak flows that dip on working days and recover, with less diurnal variation, during time away from work."
+    },
+    {
+     "type": "table",
+     "title": "\"Asthma-plus\" syndromes",
+     "columns": [
+      "Syndrome",
+      "Components"
+     ],
+     "rows": [
+      [
+       "Aspirin-exacerbated respiratory disease (Samter's)",
+       "Asthma + aspirin/NSAID sensitivity + nasal polyps"
+      ],
+      [
+       "Allergic bronchopulmonary aspergillosis (ABPA)",
+       "Asthma + hypersensitivity to Aspergillus + pulmonary infiltrates; affects about 1–2% of asthmatics"
+      ],
+      [
+       "Eosinophilic granulomatosis with polyangiitis (Churg–Strauss)",
+       "Asthma + eosinophilia + granulomatous vasculitis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 136,
+       "page": 136
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 618,
+       "page": 596
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Extrinsic** asthma is the atopic, IgE-driven type. **Intrinsic** asthma is, by definition, not linked to atopy, so do not expect it to come with high circulating IgE or positive skin tests.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 186,
+       "page": 186
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 967,
+       "page": 949
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.s4",
+   "title": "Symptoms & signs",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Symptoms",
+     "items": [
+      "Recurrent **wheeze, chest tightness, breathlessness and cough**",
+      "**Diurnal pattern**: worse at night and early morning; poor control disturbs sleep",
+      "Cough may be the only symptom, especially **nocturnal cough in children**",
+      "Upper-airway symptoms: sinusitis, blocked or runny nose, **loss of smell**",
+      "Mild intermittent asthma is usually symptom-free between episodes"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 590,
+       "page": 568
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 565,
+       "page": 528
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 969,
+       "page": 951
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Signs",
+     "items": [
+      "Between attacks, examination is often **normal apart from wheeze**",
+      "Look for **nasal polyps** and **eczema**",
+      "A **vasculitic rash** suggests eosinophilic granulomatosis with polyangiitis",
+      "In an attack: tachypnoea, tachycardia, accessory muscle use, reduced chest expansion, **prolonged expiration** and **widespread expiratory polyphonic wheeze**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 590,
+       "page": 568
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 565,
+       "page": 528
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 136,
+       "page": 136
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Variability** within and between days is the hallmark of asthma. A mild asthmatic may have no symptoms or signs when well, which contrasts with the steady, progressive disability of COPD. Childhood wheeze and atopy make asthma more likely.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 580,
+       "page": 558
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Features that argue against asthma",
+     "items": [
+      "Wheeze only with coughs and colds (viral-induced wheeze)",
+      "Isolated or productive cough",
+      "Normal investigations when symptomatic, and no response to treatment",
+      "**Unilateral wheeze**: think of a focal lesion or infection"
+     ],
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 116,
+       "page": 116
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "\"All that wheezes is not asthma\"",
+     "items": [
+      "Heart failure (\"cardiac asthma\")",
+      "COPD, bronchiectasis, interstitial lung disease",
+      "Pulmonary embolism",
+      "Vocal cord dysfunction or upper-airway obstruction, inhaled foreign body",
+      "Panic and hyperventilation"
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 136,
+       "page": 136
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In acute severe asthma, **paradoxical inward movement of the abdomen and diaphragm** on inspiration warns of impending respiratory failure.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 187,
+       "page": 187
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Asthma is often misdiagnosed as a cold or a lingering chest infection (lasting more than about 10 days). Ask about the pattern, triggers and response to bronchodilators.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 590,
+       "page": 568
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.s5",
+   "title": "Investigations & lung function interpretation",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Making the diagnosis (Davidson): compatible history plus one of",
+     "columns": [
+      "Test",
+      "Positive result"
+     ],
+     "rows": [
+      [
+       "Bronchodilator or steroid trial",
+       "FEV1 up by **≥ 12% and ≥ 200 mL** (more convincing if > 15% and > 400 mL)"
+      ],
+      [
+       "Peak flow diary",
+       "**> 20% diurnal variation** on ≥ 3 days a week for 2 weeks"
+      ],
+      [
+       "Exercise test",
+       "FEV1 falls by **≥ 15%** after 6 minutes of exercise"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 591,
+       "page": 569
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Lung function patterns",
+     "columns": [
+      "Measure",
+      "Asthma",
+      "Emphysema",
+      "Pulmonary fibrosis"
+     ],
+     "rows": [
+      [
+       "FEV1",
+       "Markedly reduced",
+       "Markedly reduced",
+       "Reduced"
+      ],
+      [
+       "FVC",
+       "Reduced",
+       "Reduced",
+       "Markedly reduced"
+      ],
+      [
+       "FEV1/FVC",
+       "Reduced",
+       "Reduced",
+       "Normal or raised"
+      ],
+      [
+       "TLCO (gas transfer)",
+       "**Normal**",
+       "**Markedly reduced**",
+       "Markedly reduced"
+      ],
+      [
+       "KCO",
+       "Normal or raised",
+       "Reduced",
+       "Normal or reduced"
+      ],
+      [
+       "TLC / RV",
+       "Normal or raised",
+       "Raised",
+       "Reduced"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 577,
+       "page": 555
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Spirometry and reversibility",
+     "items": [
+      "Obstructive pattern: FEV1 reduced more than FVC, **FEV1/FVC < 0.70**; the flow–volume loop is \"coved\"",
+      "Repeat after salbutamol: a rise of **> 12% and > 200 mL** is significant reversibility; a large rise (> 400 mL) favours asthma",
+      "Spirometry can be **normal between episodes**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 577,
+       "page": 555
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 187,
+       "page": 187
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 136,
+       "page": 136
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 591,
+      "page": 569,
+      "figure": "Fig. 17.19"
+     },
+     "note": "Look at: volume–time traces before and 20 minutes after a β2-agonist; FEV1 rises from 1.0 to 2.5 L, a positive reversibility test."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 960,
+      "page": 942,
+      "figure": "Fig. 28.12"
+     },
+     "note": "Look at: volume–time curves for normal, restrictive (FEV1 and FVC both reduced) and obstructive (essentially only FEV1 reduced) patterns."
+    },
+    {
+     "type": "bullets",
+     "title": "Peak expiratory flow (PEF)",
+     "items": [
+      "Record the **best of three** blows, morning and evening, and express it as % of predicted (from sex, height, age) or personal best",
+      "Asthma shows a **morning dip**; > 20% diurnal variation supports the diagnosis and its size reflects severity",
+      "Also used to grade control and acute severity"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 591,
+       "page": 569
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 115,
+       "page": 115
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 591,
+      "page": 569,
+      "figure": "Fig. 17.20"
+     },
+     "note": "Look at: serial PEF chart with sharp overnight falls (morning dipping) that lessen once glucocorticoids are started."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kcEssentials",
+      "pdfPage": 566,
+      "page": 529,
+      "figure": "Fig. 11.3"
+     },
+     "note": "Look at: PEF diary with early-morning dips that improve after a course of prednisolone."
+    },
+    {
+     "type": "bullets",
+     "title": "Bronchial challenge (if lung function is normal)",
+     "items": [
+      "Rising doses of **histamine, methacholine or mannitol**; result given as **PC20/PD20** (dose that drops FEV1 by 20%)",
+      "**High negative predictive value**, but positives also occur in COPD, bronchiectasis and cystic fibrosis",
+      "Avoid if FEV1 < 1.5 L or there is a history of brittle asthma"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 591,
+       "page": 569
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 136,
+       "page": 136
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 566,
+       "page": 529
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 590,
+      "page": 568,
+      "figure": "Fig. 17.17"
+     },
+     "note": "Look at: % fall in FEV1 against rising histamine concentration; the curve shifts left (lower PC20) as asthma gets more severe."
+    },
+    {
+     "type": "bullets",
+     "title": "Supporting tests",
+     "items": [
+      "**FeNO ≥ 40 ppb** in a steroid-naive adult (marker of eosinophilic inflammation); NICE uses FeNO plus reversibility first-line",
+      "Atopy: **skin-prick tests** (weal read at 15 min) or total and specific IgE",
+      "Blood eosinophilia; **sputum eosinophilia is more specific**",
+      "Steroid trial (e.g. prednisolone 30 mg daily for 2 weeks) with improvement in FEV1 or PEF"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 591,
+       "page": 569
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 969,
+       "page": 951
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 116,
+       "page": 116
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 566,
+       "page": 529
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Imaging and blood gases",
+     "items": [
+      "**CXR is usually normal**; hyperinflation in an acute attack or severe disease",
+      "Lobar collapse from a mucus plug; **flitting infiltrates suggest ABPA**",
+      "CXR in an attack mainly excludes pneumothorax or pneumonia; HRCT detects bronchiectasis",
+      "ABG in an attack: hyperventilation normally gives a **low PaCO2**; a normal or rising PaCO2 means tiring"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 591,
+       "page": 569
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 969,
+       "page": 951
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 566,
+       "page": 529
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 188,
+       "page": 188
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Carbon monoxide transfer is normal in asthma.** A reduced TLCO in a patient with airflow obstruction points to emphysema instead.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 969,
+       "page": 951
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 577,
+       "page": 555
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Cut-offs differ between books: Kumar & Clark Essentials quotes ≥ 15% variability (and > 15% after a steroid trial). Davidson uses **≥ 12% and ≥ 200 mL** for reversibility and **> 20%** for diurnal PEF variation, so use Davidson's figures in the exam.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 591,
+       "page": 569
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 565,
+       "page": 528
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 566,
+       "page": 529
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.s6",
+   "title": "Assessing control & long-term management",
+   "objectiveIdx": [
+    3,
+    6
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Levels of asthma control",
+     "columns": [
+      "Feature (in any week)",
+      "Controlled",
+      "Partly controlled",
+      "Uncontrolled"
+     ],
+     "rows": [
+      [
+       "Daytime symptoms",
+       "None (≤ 2/week)",
+       "> 2/week",
+       "**≥ 3 features of partly controlled asthma in any week**, or an exacerbation in that week"
+      ],
+      [
+       "Activity limitation",
+       "None",
+       "Any",
+       ""
+      ],
+      [
+       "Night symptoms / waking",
+       "None",
+       "Any",
+       ""
+      ],
+      [
+       "Reliever use",
+       "None (≤ 2/week)",
+       "> 2/week",
+       ""
+      ],
+      [
+       "PEF or FEV1",
+       "Normal",
+       "< 80% predicted or personal best",
+       ""
+      ],
+      [
+       "Exacerbations",
+       "None",
+       "≥ 1 per year",
+       "1 in any week"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 592,
+       "page": 570
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 138,
+       "page": 138
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Mild intermittent asthma**: symptoms under once weekly over 3 months, with under two nocturnal episodes per month. An as-required SABA is usually enough.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 593,
+       "page": 571
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Start regular inhaled corticosteroid (ICS) if any of",
+     "items": [
+      "An exacerbation in the last 2 years",
+      "β2-agonist use ≥ 3 times a week",
+      "Symptoms ≥ 3 times a week",
+      "Woken by asthma one night a week"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 593,
+       "page": 571
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Stepwise treatment (BTS/SIGN, as in Davidson)",
+     "columns": [
+      "Step",
+      "Treatment",
+      "Notes"
+     ],
+     "rows": [
+      [
+       "1",
+       "Inhaled SABA (salbutamol, terbutaline) as needed",
+       "Move up if needed ≥ 3 times a week"
+      ],
+      [
+       "2",
+       "Add regular **low-dose ICS**",
+       "Start about 400 µg BDP/day (more in smokers)"
+      ],
+      [
+       "3",
+       "Add **LABA** to ICS, normally as a **combination inhaler**",
+       "No response: stop LABA and raise ICS. Partial response: keep LABA, raise ICS to medium dose"
+      ],
+      [
+       "4",
+       "High-dose ICS (up to 2000 µg BDP/day) or a **fourth drug**",
+       "LTRA, SR theophylline, oral β2-agonist or LAMA; stop any add-on that does not help"
+      ],
+      [
+       "5",
+       "**Lowest-dose daily oral prednisolone** + specialist care",
+       "Consider biologics to spare steroid"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 593,
+       "page": 571
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 594,
+       "page": 572
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 593,
+      "page": 571,
+      "figure": "Fig. 17.22"
+     },
+     "note": "Look at: the BTS/SIGN stepwise chart, moving up for poor control and down to the lowest therapy that keeps control."
+    },
+    {
+     "type": "pitfall",
+     "text": "Never give a **LABA alone** in asthma: monotherapy is linked to life-threatening attacks and asthma deaths. Fixed ICS/LABA inhalers prevent this and improve adherence. Adding a LABA beats raising the ICS dose alone.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 593,
+       "page": 571
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 594,
+       "page": 572
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 602,
+       "page": 565
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Before stepping up and at every review",
+     "items": [
+      "Check **adherence**, **inhaler technique** and ongoing **trigger exposure** (including smoking, which also causes relative steroid resistance)",
+      "Written self-management (action) plan, guided by PEF",
+      "Annual review and yearly influenza vaccine"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 592,
+       "page": 570
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 593,
+       "page": 571
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 118,
+       "page": 118
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 593,
+      "page": 571,
+      "figure": "Fig. 17.23"
+     },
+     "note": "Look at: metered-dose inhaler technique; shake, breathe out, slow deep breath in while pressing the canister, then hold the breath for 10 seconds."
+    },
+    {
+     "type": "bullets",
+     "title": "Other drug points",
+     "items": [
+      "**Budesonide/formoterol** can be both maintenance and reliever (MART), because formoterol acts as fast as salbutamol",
+      "**Montelukast 10 mg daily** is less effective than a LABA as add-on but can reduce ICS dose",
+      "Step 5 biologics: **omalizumab** (anti-IgE) for atopic disease; **mepolizumab/reslizumab** (anti-IL-5), **benralizumab** (anti-IL-5 receptor) for eosinophilic disease; dupilumab (anti-IL-4Rα) and tezepelumab (anti-TSLP) are newer options",
+      "**Step down** once controlled: cut the steroid dose by about **25–50% every 3 months**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 594,
+       "page": 572
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 137,
+       "page": 137
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 138,
+       "page": 138
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Ladders differ by guideline. **NICE 2017** adds an **LTRA before a LABA** and then considers MART. Kumar & Clark Essentials ties each step to PEF % predicted. The US NAEPP grades chronic severity (mild intermittent, mild/moderate/severe persistent). For the exam, follow the BTS/SIGN order above.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 117,
+       "page": 117
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 118,
+       "page": 118
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 568,
+       "page": 531
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 189,
+       "page": 189
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kcEssentials",
+      "pdfPage": 568,
+      "page": 531,
+      "figure": "Fig. 11.4"
+     },
+     "note": "Look at: a stepwise adult asthma ladder (steps 1–6) linked to PEF % predicted."
+    },
+    {
+     "type": "bullets",
+     "title": "Mild–moderate exacerbation at home",
+     "items": [
+      "**Doubling the ICS dose does not prevent** an exacerbation",
+      "Give a rescue course of **prednisolone 30–60 mg daily**",
+      "Triggers for a rescue course: PEF falling day by day to **< 60% of personal best**, new or worse sleep disturbance, morning symptoms lasting until midday, a fading response to the inhaler, or needing nebulised/injected bronchodilator"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 594,
+       "page": 572
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In **pregnancy**, β2-agonists, ICS, theophyllines, oral prednisolone and chromones are safe. Women on prednisolone > 7.5 mg/day need **hydrocortisone 100 mg 3–4 times daily in labour**. Use prostaglandin F2α with great caution.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 592,
+       "page": 570
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.s7",
+   "title": "Acute severe asthma (status asthmaticus)",
+   "objectiveIdx": [
+    3,
+    6,
+    7
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The books do not use the term \"status asthmaticus\". Its equivalent is **acute severe asthma**: an exacerbation that has not been controlled by standard medication. Davidson grades attacks as **acute severe**, **life-threatening** or **near-fatal**. It is a medical emergency, and in the UK about 1400 people die from asthma each year; most of these deaths are preventable.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 594,
+       "page": 572
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 569,
+       "page": 532
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 972,
+       "page": 954
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Grading an acute attack (Davidson / BTS)",
+     "columns": [
+      "Grade",
+      "Features (any one)"
+     ],
+     "rows": [
+      [
+       "Moderate",
+       "PEF 50–75% predicted, no severe features"
+      ],
+      [
+       "Acute severe",
+       "PEF **33–50%** (< 200 L/min); HR **≥ 110**; RR **≥ 25**; cannot finish sentences in one breath"
+      ],
+      [
+       "Life-threatening",
+       "PEF **< 33%** (< 100 L/min); PaO2 < 8 kPa or SpO2 < 92%; **normal or raised PaCO2**; **silent chest**; cyanosis; feeble effort; bradycardia or arrhythmia; hypotension; exhaustion, delirium, coma"
+      ],
+      [
+       "Near-fatal",
+       "**Raised PaCO2** and/or needing mechanical ventilation with raised inflation pressures"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 594,
+       "page": 572
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 595,
+       "page": 573
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 119,
+       "page": 119
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Pocket Medicine uses **GINA** bands (severe = PEF ≤ 50%, RR > 30, HR > 120, talks in words). The cut-offs differ from Davidson's BTS bands (PEF 33–50%, RR ≥ 25, HR ≥ 110), so use Davidson's numbers in the exam.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 139,
+       "page": 139
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 594,
+       "page": 572
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Pulsus paradoxus** is not a reliable severity marker (present in only about 45% of severe attacks). A **silent chest** is ominous: so little air moves that there is no wheeze.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 972,
+       "page": 954
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 119,
+       "page": 119
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Risk factors for a fatal attack",
+     "items": [
+      "Previous intubation or near-fatal attack",
+      "Emergency visit or admission in the past year",
+      "Current or recent oral steroids; not using ICS; over-use of SABA",
+      "Psychiatric illness, poor adherence",
+      "Blunted perception of airway narrowing; brittle asthma"
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 139,
+       "page": 139
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 594,
+       "page": 572
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Immediate treatment",
+     "items": [
+      "Measure **PEF** (unless too ill) and **ABG**; CXR only if pneumothorax is suspected",
+      "**High-flow oxygen** to keep SpO2 **> 92%**",
+      "**Nebulised salbutamol 5 mg** (or terbutaline), **oxygen-driven**; multiple puffs through a spacer work as well in primary care",
+      "Add **ipratropium 500 µg** in acute severe or life-threatening attacks",
+      "**Prednisolone 40 mg orally**, or **hydrocortisone 200 mg IV** if vomiting or unable to swallow",
+      "IV fluids if dehydrated; **replace potassium**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 594,
+       "page": 572
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 595,
+       "page": 573
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 570,
+       "page": 533
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "If the response is poor",
+     "items": [
+      "Repeat nebulisers or give continuous salbutamol",
+      "**IV magnesium sulphate 1.2–2.0 g over 20 min** (mainly if presenting PEF < 30%)",
+      "IV aminophylline (with **cardiac monitoring**) or IV salbutamol",
+      "Inform ICU early; decide about intubation before the patient is exhausted"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 595,
+       "page": 573
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 570,
+       "page": 533
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 119,
+       "page": 119
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 595,
+      "page": 573,
+      "figure": "Fig. 17.24"
+     },
+     "note": "Look at: the acute asthma algorithm by PEF % predicted, with doses and admit/home decisions."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kcEssentials",
+      "pdfPage": 570,
+      "page": 533,
+      "figure": "Emergency Box 11.1"
+     },
+     "note": "Look at: hospital flowchart for acute severe asthma covering initial treatment, escalation and discharge criteria."
+    },
+    {
+     "type": "pitfall",
+     "text": "**Oxygen targets differ**: Davidson keeps SpO2 **> 92%**, Kumar & Clark Essentials and Zero to Finals use 94–98%, and Step-Up uses > 90%. Whatever the target, a **high PaCO2 is never a reason to cut oxygen** in asthma; it signals a severe or life-threatening attack.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 594,
+       "page": 572
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 570,
+       "page": 533
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 190,
+       "page": 190
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A \"normal\" PaCO2 in an attack is **not reassuring**. The patient should be hyperventilating with a low PaCO2, so a normal or rising level means tiring and impending respiratory failure.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 594,
+       "page": 572
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 188,
+       "page": 188
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 120,
+       "page": 120
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Monitoring",
+     "items": [
+      "PEF every 15–30 minutes, then every 4–6 hours",
+      "Pulse oximetry to keep SaO2 > 92%",
+      "Repeat ABG if the first PaCO2 was normal or raised, PaO2 < 8 kPa, or the patient worsens"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 595,
+       "page": 573
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Indications for intubation and ventilation",
+     "columns": [
+      "Indication",
+      "Detail"
+     ],
+     "rows": [
+      [
+       "Coma or respiratory arrest",
+       ""
+      ],
+      [
+       "Exhaustion, delirium, drowsiness",
+       ""
+      ],
+      [
+       "Worsening gases despite best therapy",
+       "PaO2 < 8 kPa and falling; PaCO2 > 6 kPa and rising; pH low and falling"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 595,
+       "page": 573
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "When ventilating, use a large endotracheal tube, keep plateau pressure < 30 cm H2O and allow a long expiratory time to avoid air trapping. Heliox, inhalational anaesthetics and ECMO have been used in refractory cases.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 140,
+       "page": 140
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Discharge",
+     "items": [
+      "Stable on discharge medication, **off nebulisers for ≥ 24 hours**, PEF **≥ 75%** of predicted or best",
+      "Prednisolone 40 mg daily for 5 days (some books give 40–50 mg for 7 days); start or increase ICS",
+      "Check technique, avoid triggers, **written self-management plan**",
+      "GP or asthma nurse review within **2 working days**; specialist clinic within a month",
+      "NICE suggests respiratory referral after **2 attacks in 12 months**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 595,
+       "page": 573
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 570,
+       "page": 533
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 120,
+       "page": 120
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "pocket8",
+      "pdfPage": 140,
+      "page": 140,
+      "figure": "Figure 2-2"
+     },
+     "note": "Look at: disposition after initial treatment of an exacerbation (home, ward or ICU)."
+    },
+    {
+     "type": "pearl",
+     "text": "**Antibiotics are not routine** in acute asthma: yellow or green sputum usually reflects eosinophils from a viral trigger, not bacteria.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 972,
+       "page": 954
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 570,
+       "page": 533
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.s8",
+   "title": "Complications of asthma & of its treatment",
+   "objectiveIdx": [
+    7,
+    8
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Complications of asthma",
+     "items": [
+      "**Death or near-fatal attacks**, often in young people, usually from under-recognised severity and delayed treatment",
+      "**Respiratory failure** needing ventilation",
+      "**Pneumothorax** (asymmetric breath sounds, tracheal deviation, surgical emphysema) and **pneumomediastinum** (Hamman's precordial crunch)",
+      "**Lobar collapse** from mucus plugging",
+      "**ABPA** (about 1–2% of asthmatics): fever, cough with bronchial casts, flitting infiltrates, proximal bronchiectasis, total IgE > 417 kU/L, eosinophils > 0.5 × 10⁹/L",
+      "Fixed airflow obstruction from **remodelling**",
+      "In uncontrolled asthma in pregnancy: pre-eclampsia, hypertension, hyperemesis, haemorrhage; growth restriction, preterm birth, neonatal hypoxia, perinatal death"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 595,
+       "page": 573
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 139,
+       "page": 139
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 591,
+       "page": 569
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 618,
+       "page": 596
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 590,
+       "page": 568
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 592,
+       "page": 570
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Adverse effects of asthma treatment",
+     "columns": [
+      "Drug",
+      "Adverse effects",
+      "Prevention / monitoring"
+     ],
+     "rows": [
+      [
+       "β2-agonists (salbutamol)",
+       "Fine tremor, tachycardia, palpitations, headache, poor sleep; **hypokalaemia** at high doses",
+       "Monitor and replace K+ in acute asthma; caution in hyperthyroidism and arrhythmia"
+      ],
+      [
+       "LABA alone",
+       "Higher risk of life-threatening attacks and asthma death",
+       "Always combine with ICS"
+      ],
+      [
+       "Inhaled corticosteroid",
+       "**Oral thrush, hoarseness**; rarely subcapsular cataract; osteoporosis at high dose; short-term growth slowing in children above 400 µg/day (final height unaffected)",
+       "Spacer, rinse mouth after use"
+      ],
+      [
+       "Oral corticosteroid",
+       "Systemic side-effects (e.g. osteoporosis) if used > 3 months or > 3–4 courses a year",
+       "Lowest dose; bisphosphonate bone protection"
+      ],
+      [
+       "Theophylline / aminophylline",
+       "**Narrow therapeutic window** (10–20 mg/L): nausea, tachycardia, insomnia, arrhythmias, convulsions (especially with rapid IV dosing)",
+       "Levels (Davidson: 6 h post dose, steady state 2–3 days); cardiac monitoring with IV use; levels altered by smoking, liver disease, heart failure, interacting drugs"
+      ],
+      [
+       "Antimuscarinics (ipratropium, tiotropium)",
+       "Dry mouth, tachycardia, constipation, **acute angle-closure glaucoma**",
+       "Shield eyes from nebulised drug; caution in prostatic enlargement"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 602,
+       "page": 565
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 603,
+       "page": 566
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 604,
+       "page": 567
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 971,
+       "page": 953
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 594,
+       "page": 572
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 58,
+       "page": 36
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Leukotriene receptor antagonists** (e.g. montelukast) carry a warning for serious neuropsychiatric effects, including suicide. Warn patients when starting one and ask about mood at review.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 137,
+       "page": 137
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Inhaled steroids are absorbed. With a strong CYP3A4 inhibitor such as **ritonavir**, an inhaled steroid can cause **severe Cushing's syndrome** and HPA axis suppression. Systemic steroids can also alter mood and raise the neutrophil count.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 692,
+       "page": 670
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Salbutamol drives potassium into cells, and steroids also lower potassium. In a patient on repeated nebulisers, **check U&E** and replace K+.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 120,
+       "page": 120
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 595,
+       "page": 573
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 570,
+       "page": 533
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "A **spacer** slows the aerosol so less drug lands in the mouth. It cuts the risk of candidiasis and helps patients who cannot coordinate the inhaler, such as children and older people.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 970,
+       "page": 952
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "resp-asthma.c1",
+   "sectionId": "resp-asthma.s1",
+   "front": "Three defining features of asthma?",
+   "back": "Reversible airflow limitation, airway hyper-responsiveness, and bronchial inflammation (T cells, mast cells, eosinophils).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 967,
+     "page": 949
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 563,
+     "page": 526
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c2",
+   "sectionId": "resp-asthma.s1",
+   "front": "Two phases of the airway response to inhaled allergen?",
+   "back": "Early (type I) phase within minutes from pre-formed mast cell mediators, then a late phase hours later from recruited inflammatory cells.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 590,
+     "page": 568
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c3",
+   "sectionId": "resp-asthma.s1",
+   "front": "Why can long-standing asthma lose reversibility?",
+   "back": "Airway remodelling: wall fibrosis and smooth-muscle hypertrophy cause fixed narrowing and a smaller bronchodilator response.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 590,
+     "page": 568
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 565,
+     "page": 528
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 564,
+     "page": 527
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c4",
+   "sectionId": "resp-asthma.s2",
+   "front": "Drugs that can precipitate asthma?",
+   "back": "Beta-blockers (even eye drops and cardioselective ones), aspirin/NSAIDs, oral contraceptive pill, cholinergic agents, prostaglandin F2α.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 591,
+     "page": 569
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 969,
+     "page": 951
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c5",
+   "sectionId": "resp-asthma.s2",
+   "front": "When does exercise-induced wheeze occur?",
+   "back": "After exercise stops: FEV1 rises briefly, then falls sharply and recovers gradually. Cold air makes it worse.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 592,
+     "page": 570
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 968,
+     "page": 950
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c6",
+   "sectionId": "resp-asthma.s2",
+   "front": "Commonest trigger of asthma exacerbations?",
+   "back": "Viral respiratory infection.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 594,
+     "page": 572
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c7",
+   "sectionId": "resp-asthma.s3",
+   "front": "Samter's triad (aspirin-exacerbated respiratory disease)?",
+   "back": "Asthma + aspirin/NSAID sensitivity + nasal polyps (with rhinosinusitis); classically a middle-aged woman.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 136,
+     "page": 136
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 591,
+     "page": 569
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c8",
+   "sectionId": "resp-asthma.s3",
+   "front": "How is occupational asthma confirmed?",
+   "back": "Serial PEF at least 4 times a day for at least 3 weeks, ideally including time away from work.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 636,
+     "page": 614
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c9",
+   "sectionId": "resp-asthma.s3",
+   "front": "ABPA laboratory criteria (Davidson)?",
+   "back": "Total IgE > 417 kU/L, eosinophils > 0.5 × 10⁹/L, Aspergillus sensitisation, proximal bronchiectasis.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 618,
+     "page": 596
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c10",
+   "sectionId": "resp-asthma.s4",
+   "front": "Wheeze feature that argues against asthma?",
+   "back": "Unilateral wheeze, which suggests a focal lesion or infection.",
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "pdfPage": 116,
+     "page": 116
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c11",
+   "sectionId": "resp-asthma.s5",
+   "front": "Davidson's bronchodilator reversibility criterion for asthma?",
+   "back": "FEV1 rise ≥ 12% and ≥ 200 mL (more convincing if > 15% and > 400 mL).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 591,
+     "page": 569
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c12",
+   "sectionId": "resp-asthma.s5",
+   "front": "Diagnostic diurnal PEF variability?",
+   "back": "> 20% on ≥ 3 days a week for 2 weeks, with the lowest values in the morning.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 591,
+     "page": 569
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c13",
+   "sectionId": "resp-asthma.s5",
+   "front": "Gas transfer (TLCO) in asthma vs emphysema?",
+   "back": "Normal in asthma (KCO normal or raised); markedly reduced in emphysema.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 577,
+     "page": 555
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 969,
+     "page": 951
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c14",
+   "sectionId": "resp-asthma.s6",
+   "front": "When should regular ICS be started?",
+   "back": "Exacerbation in the last 2 years, SABA or symptoms ≥ 3 times a week, or night waking once a week.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 593,
+     "page": 571
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c15",
+   "sectionId": "resp-asthma.s6",
+   "front": "When is asthma \"uncontrolled\"?",
+   "back": "≥ 3 features of partly controlled asthma in any week, or an exacerbation in that week.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 592,
+     "page": 570
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c16",
+   "sectionId": "resp-asthma.s6",
+   "front": "How fast should steroids be stepped down once asthma is controlled?",
+   "back": "Cut the dose by about 25–50% every 3 months to the lowest dose that keeps control.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 594,
+     "page": 572
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c17",
+   "sectionId": "resp-asthma.s7",
+   "front": "Features of acute severe asthma?",
+   "back": "PEF 33–50% predicted, HR ≥ 110, RR ≥ 25, unable to complete sentences in one breath.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 594,
+     "page": 572
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c18",
+   "sectionId": "resp-asthma.s7",
+   "front": "Blood gas findings that make an attack life-threatening?",
+   "back": "SpO2 < 92% or PaO2 < 8 kPa, or a normal or raised PaCO2.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 594,
+     "page": 572
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c19",
+   "sectionId": "resp-asthma.s7",
+   "front": "Dose of IV magnesium in acute severe asthma?",
+   "back": "1.2–2.0 g IV over 20 minutes, if the response to initial treatment is poor.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 595,
+     "page": 573
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c20",
+   "sectionId": "resp-asthma.s7",
+   "front": "Discharge criteria after acute asthma?",
+   "back": "Off nebulisers ≥ 24 h, stable on discharge drugs, PEF ≥ 75% of predicted or best; GP review within 2 working days.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 595,
+     "page": 573
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c21",
+   "sectionId": "resp-asthma.s8",
+   "front": "Electrolyte to monitor with repeated salbutamol?",
+   "back": "Potassium: salbutamol (and steroids) cause hypokalaemia.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 595,
+     "page": 573
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 120,
+     "page": 120
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 570,
+     "page": 533
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.c22",
+   "sectionId": "resp-asthma.s8",
+   "front": "Theophylline target plasma range?",
+   "back": "10–20 mg/L, with a narrow margin before toxicity (arrhythmias, seizures).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 58,
+     "page": 36
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 604,
+     "page": 567
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "resp-asthma.q1",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Mechanisms in asthma",
+   "leadIn": "For each patient below, choose the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Airway hyper-responsiveness",
+    "Early-phase mast cell mediator release",
+    "Late-phase inflammatory cell recruitment",
+    "Airway remodelling with fixed narrowing",
+    "Leukotriene excess from cyclo-oxygenase inhibition",
+    "Water loss from the airway lining fluid",
+    "Neutrophil-predominant airway inflammation",
+    "Pauci-granulocytic airway inflammation",
+    "Alveolar wall destruction"
+   ],
+   "items": [
+    {
+     "stem": "A 25-year-old atopic volunteer inhales grass pollen extract in a research laboratory. His peak flow falls within 15 minutes and recovers by 2 hours. At 7 hours it falls again and stays low overnight. Which process explains the fall at 7 hours?",
+     "answer": 2,
+     "explanation": "Two phases: the immediate fall is mast cell degranulation, but the second fall hours later comes from recruitment and activation of inflammatory cells (late-phase reaction).",
+     "studyRef": {
+      "sectionId": "resp-asthma.s1"
+     }
+    },
+    {
+     "stem": "A 58-year-old woman has had poorly treated asthma since childhood. She has never smoked. Post-bronchodilator FEV1/FVC stays at 0.61 and FEV1 rises by only 4%. TLCO is normal and HRCT shows no emphysema.",
+     "answer": 3,
+     "explanation": "Persistent obstruction with normal gas transfer in a lifelong asthmatic non-smoker points to remodelling (wall fibrosis, fixed narrowing) rather than emphysema.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s1"
+     }
+    },
+    {
+     "stem": "A 29-year-old man has episodic chest tightness, but his spirometry is normal today. Inhaled methacholine produces a 20% fall in FEV1 at a concentration that has no effect on healthy controls.",
+     "answer": 0,
+     "explanation": "Excessive narrowing to a stimulus that barely affects normal airways is the definition of airway hyper-responsiveness.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 590,
+     "page": 568
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 564,
+     "page": 527
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 565,
+     "page": 528
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 59-year-old man with asthma that has been well controlled for years on a low-dose inhaled corticosteroid is reviewed 2 weeks after a myocardial infarction. Since discharge he has needed salbutamol several times a day. He has taken low-dose aspirin for 5 years without problems. Four new drugs were started in hospital.",
+   "leadIn": "Which drug is most likely to have caused his deterioration?",
+   "options": [
+    "Atenolol",
+    "Atorvastatin",
+    "Clopidogrel",
+    "Amlodipine",
+    "Isosorbide mononitrate"
+   ],
+   "answer": 0,
+   "explanation": "Beta-blockers, including **cardioselective** ones such as atenolol, can provoke bronchospasm in asthma by blocking the β2 effect that opposes vagal bronchoconstriction. Aspirin has been tolerated for years, so NSAID sensitivity is not the issue.",
+   "whyNot": [
+    "",
+    "Statins are not a recognised asthma trigger.",
+    "Clopidogrel does not inhibit cyclo-oxygenase, so it does not shunt arachidonic acid to leukotrienes as aspirin can.",
+    "Calcium-channel blockers are not among the drugs that precipitate asthma.",
+    "Nitrates are not a recognised trigger of bronchospasm."
+   ],
+   "studyRef": {
+    "sectionId": "resp-asthma.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 969,
+     "page": 951
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 591,
+     "page": 569
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 590,
+     "page": 568
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 26-year-old woman with asthma, well controlled on a low-dose inhaled corticosteroid, had 3 days of sore throat and runny nose. Her wheeze has since worsened and her peak flow has fallen to 65% of her best. She is afebrile and her chest X-ray is clear.",
+   "leadIn": "What is the most likely precipitant of this exacerbation?",
+   "options": [
+    "Viral upper respiratory tract infection",
+    "Bacterial pneumonia",
+    "House-dust mite exposure",
+    "Strenuous exercise",
+    "Cold air exposure"
+   ],
+   "answer": 0,
+   "explanation": "Viral infections are the **commonest trigger of asthma exacerbations**. The coryzal prodrome followed by worsening wheeze is typical.",
+   "whyNot": [
+    "",
+    "No fever and a clear chest X-ray make pneumonia unlikely; discoloured sputum in asthma usually reflects eosinophils, not bacteria.",
+    "A perennial indoor allergen would not explain the coryzal prodrome.",
+    "Exercise causes short-lived wheeze just after exertion, not several days of worsening after a cold.",
+    "Cold air causes short-lived bronchoconstriction on exposure, not a days-long deterioration after a cold."
+   ],
+   "studyRef": {
+    "sectionId": "resp-asthma.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 594,
+     "page": 572
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 972,
+     "page": 954
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q4",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Types of asthma",
+   "leadIn": "For each patient below, choose the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Allergic (extrinsic) childhood-onset asthma",
+    "Non-allergic (intrinsic) adult-onset asthma",
+    "Aspirin-exacerbated respiratory disease",
+    "Occupational asthma",
+    "Reactive airways dysfunction syndrome",
+    "Cough-variant asthma",
+    "Brittle asthma",
+    "Exercise-induced bronchoconstriction",
+    "Allergic bronchopulmonary aspergillosis",
+    "Eosinophilic granulomatosis with polyangiitis"
+   ],
+   "items": [
+    {
+     "stem": "A 46-year-old woman has a blocked nose, recurrent sinusitis and loss of smell. Within an hour of taking ibuprofen for back pain she became very wheezy. She also notices chest tightness after a glass of red wine.",
+     "answer": 2,
+     "explanation": "Asthma with rhinosinusitis, nasal polyp symptoms (anosmia) and reactions to NSAIDs and alcohol is aspirin-exacerbated respiratory disease (Samter's).",
+     "studyRef": {
+      "sectionId": "resp-asthma.s3"
+     }
+    },
+    {
+     "stem": "A 34-year-old man started work in a car body shop 8 months ago. He now wheezes most evenings in the working week, and his symptoms settle during a 2-week holiday.",
+     "answer": 3,
+     "explanation": "New adult asthma that improves away from work points to occupational asthma; isocyanates in spray paint are the classic cause.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s3"
+     }
+    },
+    {
+     "stem": "A 41-year-old maintenance worker with no previous chest disease was exposed to a large chlorine gas leak while cleaning a tank. Six months later he still has cough, wheeze and a positive methacholine challenge, regardless of whether he is at work.",
+     "answer": 4,
+     "explanation": "Two steps: the illness is work-related, but it began after one massive irritant exposure, not gradual sensitisation, and does not vary with work. This is reactive airways dysfunction syndrome.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 591,
+     "page": 569
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 635,
+     "page": 613
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 636,
+     "page": 614
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 34-year-old man is referred with a label of \"asthma\". Several features of his history are listed.",
+   "leadIn": "Which feature most strongly argues against asthma?",
+   "options": [
+    "Wheeze heard only over the right lower chest",
+    "A dry cough that wakes him at night",
+    "Symptoms that are worst on waking",
+    "Chest tightness after stroking a cat",
+    "Eczema in childhood"
+   ],
+   "answer": 0,
+   "explanation": "**Unilateral wheeze** suggests a focal lesion (e.g. an obstructing tumour or foreign body) or localised infection, not diffuse airway disease.",
+   "whyNot": [
+    "",
+    "Nocturnal cough fits the diurnal pattern of asthma.",
+    "Early-morning symptoms are typical of asthma.",
+    "Wheeze after allergen exposure supports allergic asthma.",
+    "A history of atopy makes asthma more likely."
+   ],
+   "studyRef": {
+    "sectionId": "resp-asthma.s4"
+   },
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "pdfPage": 116,
+     "page": 116
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 590,
+     "page": 568
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 47-year-old woman with adult-onset asthma reports a constantly blocked nose, recurrent sinus infections and loss of smell. Last year she became very wheezy after taking ibuprofen.",
+   "leadIn": "Which examination finding is most likely?",
+   "options": [
+    "Nasal polyps",
+    "Finger clubbing",
+    "Bibasal fine inspiratory crackles",
+    "Unilateral monophonic wheeze",
+    "Tracheal deviation"
+   ],
+   "answer": 0,
+   "explanation": "Davidson advises inspecting for **nasal polyps** in asthma. Anosmia, sinus disease and NSAID sensitivity make polyps very likely (aspirin-exacerbated respiratory disease).",
+   "whyNot": [
+    "",
+    "Clubbing is not a feature of asthma and suggests another diagnosis.",
+    "Fine crackles suggest fibrosis or heart failure.",
+    "A fixed localised wheeze suggests a focal obstruction.",
+    "Tracheal deviation suggests pneumothorax or collapse, not this chronic picture."
+   ],
+   "studyRef": {
+    "sectionId": "resp-asthma.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 590,
+     "page": 568
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 591,
+     "page": 569
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q7",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Interpreting lung function in a breathless patient",
+   "leadIn": "For each patient below, choose the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Reversible airflow obstruction typical of asthma",
+    "Airflow obstruction with reduced gas transfer (emphysema)",
+    "Restrictive defect with reduced gas transfer (fibrosis)",
+    "Normal spirometry with airway hyper-responsiveness",
+    "Excessive diurnal peak flow variation",
+    "Exercise-induced fall in FEV1",
+    "Normal lung function without hyper-responsiveness",
+    "Airflow obstruction without significant reversibility, normal gas transfer"
+   ],
+   "items": [
+    {
+     "stem": "A 27-year-old woman has FEV1 1.60 L and FEV1/FVC 0.58. Twenty minutes after salbutamol her FEV1 is 2.15 L.",
+     "answer": 0,
+     "explanation": "FEV1 rose by 550 mL (about 34%), well above the 12% and 200 mL threshold, so the obstruction is reversible.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s5"
+     }
+    },
+    {
+     "stem": "A 66-year-old man who has smoked 45 pack-years has FEV1/FVC 0.52 with a 3% rise after salbutamol. TLCO and KCO are both markedly reduced.",
+     "answer": 1,
+     "explanation": "Fixed obstruction with low gas transfer points to emphysema; TLCO is normal in asthma.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s5"
+     }
+    },
+    {
+     "stem": "A 30-year-old teacher has episodic night cough and wheeze. Spirometry today is normal, but FEV1 falls by 20% at a low concentration of inhaled histamine.",
+     "answer": 3,
+     "explanation": "When baseline spirometry is normal, a low PC20 on bronchial challenge shows hyper-responsiveness and supports asthma.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s5"
+     }
+    },
+    {
+     "stem": "A 38-year-old man records peak flows for 2 weeks. On 4 days each week his morning reading is about 300 L/min and his evening reading about 420 L/min.",
+     "answer": 4,
+     "explanation": "Morning dips with variation of more than 20% on at least 3 days a week for 2 weeks meet Davidson's diary criterion.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 577,
+     "page": 555
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 591,
+     "page": 569
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 30-year-old woman uses a low-dose inhaled corticosteroid. In the past week she had daytime symptoms on 4 days, woke once with cough, and used salbutamol 4 times. She has not limited her activities, her PEF is 92% of her best, and she has had no exacerbation this year.",
+   "leadIn": "How should her current asthma control be classified?",
+   "options": [
+    "Controlled",
+    "Partly controlled",
+    "Uncontrolled",
+    "Mild intermittent",
+    "Acute severe"
+   ],
+   "answer": 2,
+   "explanation": "Count the partly-controlled features in that week: daytime symptoms > 2/week, **any** night waking, reliever > 2/week. **Three features in one week = uncontrolled.**",
+   "whyNot": [
+    "Controlled requires no night symptoms and reliever use ≤ 2/week.",
+    "Partly controlled means fewer than 3 such features in the week; she has 3.",
+    "",
+    "Mild intermittent means symptoms less than weekly, which is not the case.",
+    "Acute severe is an emergency grade (PEF 33–50%, tachycardia, unable to complete sentences), not a control level."
+   ],
+   "studyRef": {
+    "sectionId": "resp-asthma.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 592,
+     "page": 570
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 593,
+     "page": 571
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 40-year-old man still has symptoms most days despite beclometasone 400 µg daily. His inhaler technique and adherence are good and he has no ongoing trigger exposure.",
+   "leadIn": "What is the most appropriate next step according to the BTS/SIGN approach in Davidson?",
+   "options": [
+    "Add a LABA as an ICS/LABA combination inhaler",
+    "Replace the ICS with salmeterol alone",
+    "Start daily oral prednisolone",
+    "Start omalizumab",
+    "Stop the ICS and use salbutamol as needed"
+   ],
+   "answer": 0,
+   "explanation": "Step 3 is to add a **LABA**, normally in a **combination inhaler**. This gives better control than raising the ICS dose, and the combined device stops LABA being used alone.",
+   "whyNot": [
+    "",
+    "LABA monotherapy is linked to life-threatening attacks and asthma death.",
+    "Daily oral steroid is step 5, after add-on options fail.",
+    "Biologics are reserved for step 5 disease.",
+    "This steps down treatment in someone who is uncontrolled."
+   ],
+   "studyRef": {
+    "sectionId": "resp-asthma.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 593,
+     "page": 571
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q10",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Severity of acute presentations in asthma",
+   "leadIn": "For each patient below, choose the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Moderate exacerbation",
+    "Acute severe asthma",
+    "Life-threatening asthma",
+    "Near-fatal asthma",
+    "Pneumothorax complicating asthma",
+    "Pneumomediastinum complicating asthma",
+    "Viral-induced wheeze without asthma",
+    "Well-controlled asthma"
+   ],
+   "items": [
+    {
+     "stem": "A 23-year-old woman has a PEF of 45% of predicted, respiratory rate 28/min and pulse 116/min. She cannot finish a sentence in one breath. SpO2 is 95% on air.",
+     "answer": 1,
+     "explanation": "PEF 33–50%, RR ≥ 25, HR ≥ 110 and broken sentences, with no life-threatening feature, define acute severe asthma.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s7"
+     }
+    },
+    {
+     "stem": "A 31-year-old man is drowsy with a quiet chest on auscultation. PEF is 25% of predicted, SpO2 90% on oxygen and PaCO2 5.2 kPa.",
+     "answer": 2,
+     "explanation": "Two steps: PEF < 33%, SpO2 < 92% and a silent chest are life-threatening features; the \"normal\" PaCO2 is also life-threatening because he should be blowing it off.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s7"
+     }
+    },
+    {
+     "stem": "A 19-year-old with a severe attack deteriorates despite maximal treatment. She is intubated in the emergency department and needs high inflation pressures to ventilate.",
+     "answer": 3,
+     "explanation": "Raised PaCO2 and/or needing mechanical ventilation with raised inflation pressures defines near-fatal asthma.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s7"
+     }
+    },
+    {
+     "stem": "During an acute attack, a 27-year-old man suddenly develops right-sided chest pain. He has no breath sounds over the right hemithorax, and his trachea has shifted towards the left.",
+     "answer": 4,
+     "explanation": "Barotrauma: asymmetric breath sounds with tracheal deviation suggest a pneumothorax; a crunching sound over the heart would suggest pneumomediastinum instead.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s8"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 594,
+     "page": 572
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 139,
+     "page": 139
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 55-year-old woman started beclometasone by metered-dose inhaler 2 months ago. She now has a hoarse voice and white plaques on her palate that scrape off.",
+   "leadIn": "What is the most appropriate advice?",
+   "options": [
+    "Use a spacer and rinse her mouth after each dose",
+    "Stop the inhaled steroid permanently",
+    "Switch to daily oral prednisolone",
+    "Replace the steroid with a LABA inhaler alone",
+    "Double the inhaled steroid dose"
+   ],
+   "answer": 0,
+   "explanation": "Oral candidiasis and dysphonia are local effects of ICS. A **spacer** slows the aerosol so less drug lands in the mouth, and **rinsing after use** removes the rest.",
+   "whyNot": [
+    "",
+    "ICS is still needed for control; local side-effects can be prevented.",
+    "Oral steroid adds systemic toxicity to treat a local problem.",
+    "LABA alone is dangerous in asthma.",
+    "A higher dose would worsen local side-effects."
+   ],
+   "studyRef": {
+    "sectionId": "resp-asthma.s8"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 971,
+     "page": 953
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 970,
+     "page": 952
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 68-year-old man with asthma and heart failure takes sustained-release theophylline as a step 4 add-on. He presents with nausea, palpitations and a first generalised seizure.",
+   "leadIn": "Which investigation should be done first to confirm the likely cause?",
+   "options": [
+    "Plasma theophylline concentration",
+    "Total serum IgE",
+    "Chest X-ray",
+    "Fractional exhaled nitric oxide",
+    "Skin-prick testing"
+   ],
+   "answer": 0,
+   "explanation": "Theophylline has a **narrow therapeutic range (10–20 mg/L)**. Toxicity causes nausea, tachyarrhythmias and convulsions, and levels vary considerably with heart failure, liver disease, smoking and interacting drugs.",
+   "whyNot": [
+    "",
+    "IgE helps assess atopy, not drug toxicity.",
+    "A CXR does not explain this triad of gastrointestinal, cardiac and neurological symptoms.",
+    "FeNO measures airway inflammation.",
+    "Skin tests look for allergic triggers."
+   ],
+   "studyRef": {
+    "sectionId": "resp-asthma.s8"
+   },
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 604,
+     "page": 567
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 58,
+     "page": 36
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q13",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Drug choice in asthma",
+   "leadIn": "For each patient below, choose the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Salbutamol",
+    "Salmeterol",
+    "Budesonide/formoterol",
+    "Beclometasone",
+    "Montelukast",
+    "Ipratropium bromide",
+    "Sustained-release theophylline",
+    "Intravenous magnesium sulphate",
+    "Oral prednisolone",
+    "Intravenous hydrocortisone",
+    "Omalizumab",
+    "Mepolizumab"
+   ],
+   "items": [
+    {
+     "stem": "A 52-year-old non-atopic man has severe asthma despite high-dose ICS, a LABA and maintenance oral prednisolone. Skin-prick tests are negative, total IgE is normal and his blood eosinophil count is persistently high.",
+     "answer": 11,
+     "explanation": "Step 5 disease with eosinophilic, non-atopic inflammation: anti-IL-5 (mepolizumab). Omalizumab targets IgE in atopic disease.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s6"
+     }
+    },
+    {
+     "stem": "A 22-year-old woman with acute asthma has had high-flow oxygen, two oxygen-driven nebulisers of salbutamol with ipratropium, and prednisolone 40 mg. Thirty minutes later her PEF is 28% of predicted.",
+     "answer": 7,
+     "explanation": "Poor response with presenting PEF < 30%: IV magnesium sulphate 1.2–2.0 g over 20 minutes.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s7"
+     }
+    },
+    {
+     "stem": "A 35-year-old man with acute severe asthma is vomiting repeatedly and cannot keep tablets down.",
+     "answer": 9,
+     "explanation": "All acute severe attacks need systemic steroid; IV hydrocortisone (200 mg) is used when the oral route fails.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s7"
+     }
+    },
+    {
+     "stem": "A 26-year-old woman on budesonide wants a once-daily tablet add-on. She has exercise-induced symptoms and nasal polyps with aspirin sensitivity.",
+     "answer": 4,
+     "explanation": "A leukotriene receptor antagonist (montelukast 10 mg daily) is the oral add-on and works especially well in aspirin-sensitive and exercise-induced asthma.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 594,
+     "page": 572
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 595,
+     "page": 573
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 137,
+     "page": 137
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 28-year-old man has episodic wheeze. Baseline FEV1 is 2.10 L with FEV1/FVC 0.66. Several possible results are listed.",
+   "leadIn": "Which result best confirms asthma by Davidson's criteria?",
+   "options": [
+    "FEV1 rises to 2.55 L after salbutamol",
+    "FEV1 rises to 2.20 L after salbutamol",
+    "FEV1 rises by 4% after a 2-week steroid trial",
+    "FEV1 falls by 5% after 6 minutes of exercise",
+    "PEF varies by 8% between morning and evening"
+   ],
+   "answer": 0,
+   "explanation": "A rise of 450 mL (about 21%) clears the **≥ 12% and ≥ 200 mL** threshold and even the > 400 mL \"greater confidence\" level.",
+   "whyNot": [
+    "",
+    "A 100 mL (~5%) rise is below threshold.",
+    "A 4% steroid response is not significant.",
+    "The exercise criterion is a fall of ≥ 15%.",
+    "Diurnal PEF variation needs to exceed 20%."
+   ],
+   "studyRef": {
+    "sectionId": "resp-asthma.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 591,
+     "page": 569
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 62-year-old ex-smoker has airflow obstruction on spirometry. You need to decide between asthma and emphysema.",
+   "leadIn": "Which finding on full lung function testing most strongly favours emphysema?",
+   "options": [
+    "Markedly reduced TLCO and KCO",
+    "Raised residual volume",
+    "FEV1/FVC of 0.60",
+    "Raised KCO",
+    "Normal total lung capacity"
+   ],
+   "answer": 0,
+   "explanation": "**Gas transfer is normal in asthma** but markedly reduced in emphysema, where alveolar destruction removes capillary surface area.",
+   "whyNot": [
+    "",
+    "Residual volume can be raised in both from air trapping.",
+    "A reduced ratio occurs in any obstructive disease.",
+    "A normal or raised KCO fits asthma.",
+    "A normal TLC fits asthma; emphysema usually raises TLC, so this does not favour emphysema."
+   ],
+   "studyRef": {
+    "sectionId": "resp-asthma.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 577,
+     "page": 555
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 969,
+     "page": 951
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 22-year-old man with acute asthma is on high-flow oxygen. SpO2 is 93%, PEF 30% of predicted, and arterial PaCO2 6.4 kPa.",
+   "leadIn": "What is the most appropriate response to the blood gas result?",
+   "options": [
+    "Continue high-flow oxygen and seek urgent intensive care review",
+    "Reduce oxygen to 24% by Venturi mask",
+    "Stop nebulised salbutamol",
+    "Give IV antibiotics",
+    "Wait for a chest X-ray before treating further"
+   ],
+   "answer": 0,
+   "explanation": "A raised PaCO2 in asthma marks a **tiring patient with a near-fatal attack**; it is a warning sign, **not** a reason to cut oxygen. Escalate early because intubation may be needed.",
+   "whyNot": [
+    "",
+    "Controlled oxygen is for CO2-retaining COPD; in asthma reducing oxygen worsens hypoxia.",
+    "Bronchodilators should be intensified, not stopped.",
+    "Antibiotics are not routine in acute asthma.",
+    "CXR is only urgent if pneumothorax is suspected; treatment must not wait."
+   ],
+   "studyRef": {
+    "sectionId": "resp-asthma.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 594,
+     "page": 572
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 595,
+     "page": 573
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 972,
+     "page": 954
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 34-year-old woman is recovering on the ward after admission with acute severe asthma.",
+   "leadIn": "Which criterion should be met before she is discharged?",
+   "options": [
+    "Off nebulisers for ≥ 24 hours with PEF ≥ 75% of predicted or best",
+    "PEF ≥ 50% of predicted on the morning of discharge",
+    "SpO2 ≥ 88% on room air",
+    "Completion of 5 days of IV hydrocortisone",
+    "A normal chest X-ray"
+   ],
+   "answer": 0,
+   "explanation": "Davidson's discharge criteria: stable on discharge drugs, **nebulisers stopped for at least 24 hours**, and **PEF ≥ 75%** of predicted or personal best, plus a written plan and early follow-up.",
+   "whyNot": [
+    "",
+    "50% is still in the acute severe/moderate range.",
+    "An SpO2 of 88% would be hypoxic for an asthmatic.",
+    "Oral prednisolone is usual; IV steroid is not required.",
+    "CXR is often normal and is not a discharge criterion."
+   ],
+   "studyRef": {
+    "sectionId": "resp-asthma.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 595,
+     "page": 573
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 594,
+     "page": 572
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q18",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 24-year-old woman with acute asthma has received high-flow oxygen, two nebulisers of salbutamol 5 mg with ipratropium 500 µg, and prednisolone 40 mg orally. Thirty minutes later she is alert but her PEF is 27% of predicted and SpO2 is 94%.",
+   "leadIn": "What is the most appropriate next drug?",
+   "options": [
+    "IV magnesium sulphate 1.2–2.0 g over 20 minutes",
+    "IV co-amoxiclav",
+    "Oral montelukast",
+    "Salmeterol by inhaler",
+    "Subcutaneous omalizumab"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: grade her. PEF < 33% makes this **life-threatening** asthma. Step 2: check first-line treatment is done: oxygen, oxygen-driven SABA + ipratropium, systemic steroid. Step 3: escalate for a poor response. **IV magnesium** gives extra bronchodilation, especially with PEF < 30%; aminophylline or IV salbutamol and early ICU input are other options.",
+   "whyNot": [
+    "",
+    "Antibiotics are not routine in acute asthma.",
+    "An LTRA is a maintenance add-on, not rescue therapy.",
+    "A LABA has no role in acute rescue, and should never be used alone.",
+    "Biologics are long-term step 5 treatment, not for acute attacks."
+   ],
+   "studyRef": {
+    "sectionId": "resp-asthma.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 595,
+     "page": 573
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 570,
+     "page": 533
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q19",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 36-year-old baker has had wheeze for 9 months. It is worst late in the working week and improves when he is on holiday. Spirometry in clinic today is borderline.",
+   "leadIn": "Which test is best to confirm the suspected diagnosis?",
+   "options": [
+    "Serial PEF ≥ 4 times daily for ≥ 3 weeks, including time away from work",
+    "A single spirometry test on a Monday morning",
+    "Chest X-ray",
+    "Total serum IgE",
+    "High-resolution CT of the chest"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: new adult asthma that improves away from work suggests **occupational asthma** (flour dust in a baker). Step 2: show the link objectively. **Serial peak flows** at least 4 times a day for at least 3 weeks, at work and away from it, show the work-related pattern.",
+   "whyNot": [
+    "",
+    "One reading cannot show the pattern linked to work.",
+    "CXR is usually normal in asthma.",
+    "Total IgE shows atopy, not a link to the workplace.",
+    "HRCT looks for bronchiectasis, not occupational triggers."
+   ],
+   "studyRef": {
+    "sectionId": "resp-asthma.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 635,
+     "page": 613
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 636,
+     "page": 614
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q20",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 33-year-old man on an ICS/LABA inhaler has had worsening asthma for 4 days. His PEF has fallen each day and is now 55% of his best. He wakes every night, and his morning symptoms last until midday. He can talk in full sentences, his pulse is 96/min and his respiratory rate is 18/min.",
+   "leadIn": "What is the most appropriate management?",
+   "options": [
+    "A short rescue course of oral prednisolone 30–60 mg daily",
+    "Double the inhaled steroid dose",
+    "Add montelukast",
+    "Start omalizumab",
+    "Oral amoxicillin"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: exclude acute severe asthma: he has no severe features. Step 2: recognise the rescue-course triggers: PEF falling to **< 60% of best**, new night waking, morning symptoms until midday. Step 3: Davidson notes that **doubling ICS does not prevent** an exacerbation, so give a short course of **prednisolone 30–60 mg**.",
+   "whyNot": [
+    "",
+    "Doubling ICS has been shown not to prevent an impending exacerbation.",
+    "An LTRA is a slow-acting maintenance add-on.",
+    "Biologics are for persistent step 5 disease, not a single exacerbation.",
+    "Most exacerbations are viral; antibiotics are not indicated."
+   ],
+   "studyRef": {
+    "sectionId": "resp-asthma.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 594,
+     "page": 572
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q21",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Precipitants of asthma",
+   "leadIn": "For each patient below, choose the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Beta-blocker eye drops",
+    "Aspirin or other NSAID",
+    "House-dust mite",
+    "Cat dander",
+    "Viral respiratory infection",
+    "Exercise in cold air",
+    "Isocyanates",
+    "Flour dust",
+    "Thunderstorm pollen surge",
+    "Betel nut chewing",
+    "Prostaglandin F2α",
+    "Latex"
+   ],
+   "items": [
+    {
+     "stem": "A 67-year-old man with mild asthma was started on timolol drops for open-angle glaucoma 3 weeks ago. His asthma has been much worse since.",
+     "answer": 0,
+     "explanation": "Topical beta-blockers are absorbed systemically and can provoke bronchospasm.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s2"
+     }
+    },
+    {
+     "stem": "A 22-year-old cross-country runner gets chest tightness about 10 minutes after finishing winter training runs. She is fine while actually running.",
+     "answer": 5,
+     "explanation": "Wheeze that comes after exertion, made worse by cold dry air, is exercise-induced bronchoconstriction.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s2"
+     }
+    },
+    {
+     "stem": "A 31-year-old woman with asthma has a postpartum haemorrhage. Shortly after a prostaglandin uterotonic is injected she becomes acutely wheezy.",
+     "answer": 10,
+     "explanation": "Two steps: identify the drug as a prostaglandin used for uterine atony, then recall that prostaglandin F2α can induce bronchospasm and must be used with great caution in asthma.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s2"
+     }
+    },
+    {
+     "stem": "A 29-year-old theatre nurse has developed itchy hands under her gloves and, more recently, wheeze during shifts that settles on days off.",
+     "answer": 11,
+     "explanation": "Glove-related skin reactions plus work-related wheeze in a nurse point to latex sensitisation.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 591,
+     "page": 569
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 592,
+     "page": 570
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 636,
+     "page": 614
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q22",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Next step in long-term asthma management",
+   "leadIn": "For each patient below, choose the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Continue salbutamol as needed only",
+    "Start low-dose inhaled corticosteroid",
+    "Add a LABA as a combination inhaler",
+    "Stop the LABA and increase the ICS dose",
+    "Trial of a fourth drug (LTRA, LAMA or SR theophylline)",
+    "Lowest-dose daily oral prednisolone with specialist care",
+    "Reduce the ICS dose by 25–50%",
+    "Check adherence and inhaler technique first",
+    "Start a LABA on its own",
+    "Rescue course of oral prednisolone"
+   ],
+   "items": [
+    {
+     "stem": "A 24-year-old man uses salbutamol 4 times a week and is woken by asthma about once a week. He takes no other treatment.",
+     "answer": 1,
+     "explanation": "Reliever use or symptoms ≥ 3 times a week, or weekly night waking, are indications for regular ICS (step 2).",
+     "studyRef": {
+      "sectionId": "resp-asthma.s6"
+     }
+    },
+    {
+     "stem": "A 45-year-old woman has been well controlled for 4 months on beclometasone 800 µg daily with salmeterol. She has had no exacerbations.",
+     "answer": 6,
+     "explanation": "Once control is stable, step down by cutting the steroid dose by about 25–50% every 3 months.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s6"
+     }
+    },
+    {
+     "stem": "A 38-year-old man on ICS/LABA reports poor control. His repeat prescriptions were collected only every 3 months for a monthly inhaler, and he fires the inhaler after he has finished breathing in.",
+     "answer": 7,
+     "explanation": "Two steps: the records show under-use and the description shows poor technique. Fix adherence and technique before any step-up.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s6"
+     }
+    },
+    {
+     "stem": "A 50-year-old woman had a LABA added to her low-dose ICS 8 weeks ago. Her adherence and technique are good, but her symptoms and peak flows are no better at all.",
+     "answer": 3,
+     "explanation": "No response to a LABA: stop it and consider increasing the ICS dose.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 593,
+     "page": 571
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 594,
+     "page": 572
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 49-year-old woman with asthma, chronic rhinosinusitis and nasal polyps becomes severely wheezy within an hour of taking aspirin.",
+   "leadIn": "Which mechanism best explains her reaction?",
+   "options": [
+    "Cyclo-oxygenase inhibition diverting arachidonic acid to cysteinyl leukotriene production",
+    "IgE antibodies against aspirin triggering mast cell degranulation",
+    "Blockade of airway β2-adrenoceptors",
+    "Direct stimulation of muscarinic receptors",
+    "Water loss from the airway lining fluid"
+   ],
+   "answer": 0,
+   "explanation": "With cyclo-oxygenase blocked, arachidonic acid is shunted down the **lipoxygenase pathway**, increasing bronchoconstricting **cysteinyl leukotrienes**. That is why leukotriene antagonists work well in this group.",
+   "whyNot": [
+    "",
+    "The reaction is pharmacological, not an IgE allergy to aspirin.",
+    "This is how beta-blockers trigger asthma.",
+    "This is how cholinergic agents and methacholine act.",
+    "This is how exercise triggers bronchospasm."
+   ],
+   "studyRef": {
+    "sectionId": "resp-asthma.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 590,
+     "page": 568
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 137,
+     "page": 137
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q24",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 31-year-old non-smoker has had 4 months of dry cough at night and after going out into cold air. She has no wheeze or breathlessness. Chest X-ray and spirometry are normal. A methacholine challenge is positive, and the cough settles with an inhaled corticosteroid.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Cough-variant asthma",
+    "Bronchiectasis",
+    "Chronic obstructive pulmonary disease",
+    "Viral-induced wheeze",
+    "Vocal cord dysfunction"
+   ],
+   "answer": 0,
+   "explanation": "When **cough is the dominant symptom** without wheeze or breathlessness, asthma is easily missed. Airway hyper-responsiveness and a steroid response confirm cough-variant asthma.",
+   "whyNot": [
+    "",
+    "Bronchiectasis causes a chronic productive cough.",
+    "COPD needs fixed obstruction, usually in a smoker.",
+    "Viral wheeze is wheeze with colds, not a months-long cough with hyper-responsiveness.",
+    "Vocal cord dysfunction is an asthma mimic that would not respond to ICS."
+   ],
+   "studyRef": {
+    "sectionId": "resp-asthma.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 590,
+     "page": 568
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 591,
+     "page": 569
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q25",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Complications of asthma and its treatment",
+   "leadIn": "For each patient below, choose the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Hypokalaemia from β2-agonist",
+    "Oral candidiasis from inhaled steroid",
+    "Theophylline toxicity",
+    "Steroid-induced osteoporosis",
+    "Cushing's syndrome from ICS–ritonavir interaction",
+    "Allergic bronchopulmonary aspergillosis",
+    "Pneumothorax",
+    "Pneumomediastinum",
+    "Neuropsychiatric effect of leukotriene antagonist",
+    "Acute angle-closure glaucoma from nebulised antimuscarinic"
+   ],
+   "items": [
+    {
+     "stem": "A 38-year-old man with HIV takes a ritonavir-boosted regimen and fluticasone for asthma. Over 3 months he develops a round face, purple striae and proximal weakness.",
+     "answer": 4,
+     "explanation": "Ritonavir blocks CYP3A4, so inhaled fluticasone accumulates and causes iatrogenic Cushing's syndrome.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s8"
+     }
+    },
+    {
+     "stem": "A 26-year-old woman has had salbutamol nebulisers every 30 minutes for an acute attack. She now feels weak and has palpitations, and her serum potassium is 2.9 mmol/L.",
+     "answer": 0,
+     "explanation": "Repeated β2-agonist drives potassium into cells (steroids add to the loss). Monitor and replace K+.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s8"
+     }
+    },
+    {
+     "stem": "A 74-year-old woman admitted with acute asthma is given nebulised ipratropium through a face mask. Hours later she has a painful red eye, blurred vision and haloes around lights.",
+     "answer": 9,
+     "explanation": "Nebulised antimuscarinic reaching the eye can precipitate acute angle-closure glaucoma; shield the eyes.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s8"
+     }
+    },
+    {
+     "stem": "A 40-year-old man with long-standing asthma has fevers and coughs up bronchial casts. CXR shows shifting infiltrates and CT shows proximal bronchiectasis. Total IgE is 1500 kU/L and eosinophils 1.2 × 10⁹/L.",
+     "answer": 5,
+     "explanation": "Two steps: the casts, flitting infiltrates and proximal bronchiectasis suggest an asthma-plus syndrome, and very high IgE with eosinophilia confirms ABPA.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s8"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 692,
+     "page": 670
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 595,
+     "page": 573
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 603,
+     "page": 566
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 618,
+     "page": 596
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 570,
+     "page": 533
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q26",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 29-year-old woman with severe asthma takes maintenance prednisolone 10 mg daily. She is admitted in established labour.",
+   "leadIn": "What is the most appropriate steroid management during labour?",
+   "options": [
+    "Hydrocortisone 100 mg 3–4 times daily",
+    "Stop prednisolone until after delivery",
+    "Double the inhaled steroid dose only",
+    "Give no extra steroid",
+    "Give a single dose of oral prednisolone 5 mg"
+   ],
+   "answer": 0,
+   "explanation": "Women taking **more than 7.5 mg/day** of prednisolone need **hydrocortisone 100 mg 3–4 times daily** in labour to cover the stress response.",
+   "whyNot": [
+    "",
+    "Stopping long-term steroid risks adrenal insufficiency.",
+    "Inhaled steroid gives no systemic stress cover.",
+    "Her dose exceeds the 7.5 mg/day threshold for cover.",
+    "This dose is less than her usual maintenance and gives no stress cover."
+   ],
+   "studyRef": {
+    "sectionId": "resp-asthma.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 592,
+     "page": 570
+    }
+   ]
+  },
+  {
+   "id": "resp-asthma.q27",
+   "kind": "emq",
+   "pool": "mock",
+   "difficulty": 2,
+   "theme": "Causes of wheeze and breathlessness",
+   "leadIn": "For each patient below, choose the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Asthma",
+    "Chronic obstructive pulmonary disease",
+    "Heart failure (\"cardiac asthma\")",
+    "Vocal cord dysfunction",
+    "Inhaled foreign body",
+    "Eosinophilic granulomatosis with polyangiitis",
+    "Allergic bronchopulmonary aspergillosis",
+    "Bronchiectasis",
+    "Pulmonary embolism",
+    "Viral-induced wheeze"
+   ],
+   "items": [
+    {
+     "stem": "A 71-year-old man with previous myocardial infarction has 3 weeks of breathlessness lying flat, waking at night gasping, and wheeze. He has ankle oedema and bibasal crackles.",
+     "answer": 2,
+     "explanation": "Orthopnoea, paroxysmal nocturnal dyspnoea, oedema and crackles in a man with ischaemic heart disease: heart failure can cause wheeze (\"cardiac asthma\").",
+     "studyRef": {
+      "sectionId": "resp-asthma.s4"
+     }
+    },
+    {
+     "stem": "A 44-year-old woman developed asthma last year. She now has a vasculitic rash on her legs and a blood eosinophil count of 4.0 × 10⁹/L.",
+     "answer": 5,
+     "explanation": "Asthma plus marked eosinophilia plus a vasculitic rash is eosinophilic granulomatosis with polyangiitis (formerly Churg–Strauss).",
+     "studyRef": {
+      "sectionId": "resp-asthma.s4"
+     }
+    },
+    {
+     "stem": "A 52-year-old man has had a wheeze heard only over the right lower zone since choking on a peanut at a party 2 weeks ago.",
+     "answer": 4,
+     "explanation": "Localised (unilateral) wheeze after a choking episode suggests an inhaled foreign body, not asthma.",
+     "studyRef": {
+      "sectionId": "resp-asthma.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 136,
+     "page": 136
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 590,
+     "page": 568
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 116,
+     "page": 116
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "resp-asthma.o1",
+   "sectionId": "resp-asthma.s1",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 590,
+    "page": 568,
+    "figure": "Fig. 17.18"
+   },
+   "identify": "Biphasic peak-flow response to allergen: early (type I) dip from pre-formed mast cell mediators, then a late-phase dip hours later from inflammatory cell recruitment."
+  },
+  {
+   "id": "resp-asthma.o2",
+   "sectionId": "resp-asthma.s2",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 592,
+    "page": 570,
+    "figure": "Fig. 17.21"
+   },
+   "identify": "Exercise-induced asthma: FEV1 rises briefly at the end of exercise, then falls sharply and recovers gradually."
+  },
+  {
+   "id": "resp-asthma.o3",
+   "sectionId": "resp-asthma.s3",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 636,
+    "page": 614,
+    "figure": "Fig. 17.61"
+   },
+   "identify": "Occupational asthma: peak flows fall on working days and recover, with less diurnal variation, during time away from work."
+  },
+  {
+   "id": "resp-asthma.o4",
+   "sectionId": "resp-asthma.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 591,
+    "page": 569,
+    "figure": "Fig. 17.19"
+   },
+   "identify": "Positive reversibility test: FEV1 rises from 1.0 to 2.5 L 20 minutes after a β2-agonist (≥ 12% and ≥ 200 mL)."
+  },
+  {
+   "id": "resp-asthma.o5",
+   "sectionId": "resp-asthma.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 591,
+    "page": 569,
+    "figure": "Fig. 17.20"
+   },
+   "identify": "Asthma peak-flow diary: marked morning dipping (> 20% diurnal variation) that improves after glucocorticoids are started."
+  },
+  {
+   "id": "resp-asthma.o6",
+   "sectionId": "resp-asthma.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 590,
+    "page": 568,
+    "figure": "Fig. 17.17"
+   },
+   "identify": "Bronchial challenge: % fall in FEV1 against rising histamine dose; more severe asthma reaches a 20% fall (PC20) at a lower concentration."
+  },
+  {
+   "id": "resp-asthma.o7",
+   "sectionId": "resp-asthma.s5",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 960,
+    "page": 942,
+    "figure": "Fig. 28.12"
+   },
+   "identify": "Volume–time spirograms: airflow limitation (essentially only FEV1 reduced, so the FEV1/FVC ratio falls) versus a restrictive pattern (FEV1 and FVC both reduced)."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:48:03.333Z",
+  "contentHash": "b36edb3209a06a207529591a078f03790c924114ffe12daadd0d596ed4eac4ce"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:48:03.340Z",
+  "contentHash": "b36edb3209a06a207529591a078f03790c924114ffe12daadd0d596ed4eac4ce",
+  "checkerVersion": "source-check-v1"
+ }
+}

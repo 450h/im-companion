@@ -1,0 +1,3562 @@
+{
+ "topicId": "id-meningoencephalitis",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "id-meningoencephalitis.s1",
+   "title": "Bacterial meningitis: causative organisms",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Most bacterial meningitis is **part of a bacteraemia**. The organisms usually live harmlessly in the **upper airway**, are passed on by **close airborne contact**, and invade through the **nasopharynx**. Less often, infection spreads **directly** from a neighbouring focus: the **middle ear, a sinus, a skull fracture** or a congenital meningeal defect.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1140,
+       "page": 1118
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1141,
+       "page": 1119
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Neurology",
+       "pdfPage": 806,
+       "page": 769
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Likely organism by age (Davidson Box 25.63)",
+     "columns": [
+      "Age group",
+      "Common",
+      "Less common"
+     ],
+     "rows": [
+      [
+       "Neonate",
+       "Gram-negative bacilli (_E. coli_, _Proteus_); group B streptococcus",
+       "_Listeria monocytogenes_"
+      ],
+      [
+       "Pre-school child",
+       "_H. influenzae_, _N. meningitidis_, _S. pneumoniae_",
+       "_M. tuberculosis_"
+      ],
+      [
+       "Older child and adult",
+       "_N. meningitidis_, _S. pneumoniae_",
+       "_Listeria_, _M. tuberculosis_, _Staph. aureus_ (skull fracture), _H. influenzae_"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1141,
+       "page": 1119,
+       "table": "Box 25.63"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Host clues that shift the likely organism",
+     "items": [
+      "**Over 50 years:** pneumococcus and meningococcus still lead, but **_Listeria_** and **Gram-negative bacilli** join the list.",
+      "**_Listeria_:** immunosuppression (glucocorticoids, transplant), **diabetes, alcohol excess, pregnancy**, old age, malignancy, cirrhosis; outbreaks from contaminated dairy. It also causes **rhombencephalitis** (brainstem encephalitis) and neonatal meningitis.",
+      "**Pneumococcus:** pneumonia, **otitis media**, older age, **alcoholism**, **hyposplenism**. Gives very purulent CSF and high mortality in older adults.",
+      "**Meningococcus:** mostly under 30 years, with **petechiae or purpura**; risk rises with **asplenia**, **terminal complement (C5–9) deficiency** and HIV.",
+      "**Staphylococci:** recent **neurosurgery**, CSF shunts and other devices, endocarditis or skin infection.",
+      "**Gram-negative rods:** more common in **healthcare-associated** meningitis.",
+      "**_Streptococcus suis_:** a rare zoonosis after contact with **pigs**."
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 921,
+       "page": 921
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious diseases",
+       "pdfPage": 439,
+       "page": 439
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious diseases",
+       "pdfPage": 440,
+       "page": 440
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1141,
+       "page": 1119
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Approximate share of adult cases (Pocket Medicine)",
+     "columns": [
+      "Organism",
+      "Share of cases"
+     ],
+     "rows": [
+      [
+       "_S. pneumoniae_",
+       "30–60%"
+      ],
+      [
+       "_N. meningitidis_",
+       "10–35%"
+      ],
+      [
+       "_L. monocytogenes_",
+       "5–10%"
+      ],
+      [
+       "Gram-negative rods",
+       "1–10%"
+      ],
+      [
+       "Staphylococci",
+       "≈5%"
+      ],
+      [
+       "_H. influenzae_",
+       "<5%"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Infectious diseases",
+       "pdfPage": 439,
+       "page": 439
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious diseases",
+       "pdfPage": 440,
+       "page": 440
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Meningococcus essentials",
+     "items": [
+      "_N. meningitidis_ is a **Gram-negative diplococcus**.",
+      "Of 12 serogroups, six (**A, B, C, W, X, Y**) cause major outbreaks.",
+      "**Group A** causes **epidemics** in the African **meningitis belt** (Senegal to Ethiopia). **Groups B and C** dominate in Europe and North America and are mostly **sporadic**.",
+      "About **5–20%** of people carry it in the nasopharynx without symptoms."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 567,
+       "page": 545
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Paediatrics",
+       "pdfPage": 163,
+       "page": 163
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Geography matters. In Western Europe the **meningococcus is second only to the pneumococcus**. _H. influenzae_ remains common in the USA, and in India **Hib and pneumococcus** lead, especially in children. Where Hib vaccine is routine, Hib meningitis has become rare.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1141,
+       "page": 1119
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 567,
+       "page": 545
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Recurrent** bacterial meningitis means the subarachnoid space is open to the outside: an old or recent **skull fracture** or occult spina bifida. The usual organism is the **pneumococcus**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 889,
+       "page": 869
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Group B strep, _Listeria_, _Staph. aureus_ or Gram-negative bacilli in an **adult** should make you look for an **underlying illness, immunosuppression or a CSF leak**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 567,
+       "page": 545
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.s2",
+   "title": "Bacterial meningitis: clinical presentation",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Meningism** is the triad of **headache, photophobia and neck stiffness**. **Kernig's sign:** with the hip flexed, extending the knee causes **hamstring spasm** and resistance. **Brudzinski's sign:** passive **neck flexion** makes the hips and knees flex. Meningism is **not specific** to meningitis: it also occurs in **subarachnoid haemorrhage**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1140,
+       "page": 1118
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Paediatrics",
+       "pdfPage": 163,
+       "page": 163
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Typical picture",
+     "items": [
+      "Onset over **minutes to hours**, with **rigors, high fever**, severe headache, **photophobia and vomiting**. The patient is irritable and keeps still.",
+      "Within a few hours, **neck stiffness** and Kernig's sign usually develop.",
+      "Davidson's usual presenting four: **headache, drowsiness, fever, neck stiffness**. Severe cases become **comatose** and later develop focal signs.",
+      "**90%** of patients with **meningococcal meningitis** have at least **two** of: fever, neck stiffness, altered consciousness, rash.",
+      "In one large series, 95% had at least two of headache, fever, neck stiffness and altered mental state. Seizures occurred in about a quarter."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 888,
+       "page": 868
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 889,
+       "page": 869
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1141,
+       "page": 1119
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious diseases",
+       "pdfPage": 440,
+       "page": 440
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "How good are the bedside meningeal signs?",
+     "columns": [
+      "Sign",
+      "Sensitivity",
+      "Specificity"
+     ],
+     "rows": [
+      [
+       "Neck (nuchal) rigidity",
+       "≈30%",
+       "≈68%"
+      ],
+      [
+       "Kernig's sign",
+       "≈5%",
+       "≈95%"
+      ],
+      [
+       "Brudzinski's sign",
+       "≈5%",
+       "≈95%"
+      ],
+      [
+       "Jolt sign (headache worse on rapid head turning)",
+       "≈64%",
+       "≈43%"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Infectious diseases",
+       "pdfPage": 440,
+       "page": 440
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Meningococcal sepsis (Davidson Box 25.64)",
+     "items": [
+      "A **non-blanching petechial or purpuric rash** reflects **DIC** and bleeding into the skin. The rash can also be morbilliform, and other bacteria rarely cause it.",
+      "Complications: **shock**, intravascular coagulation, **renal failure**, **peripheral gangrene**, septic or reactive **arthritis** and **pericarditis**.",
+      "With sepsis, the picture can change fast, with sudden obtundation from **cerebral oedema**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1141,
+       "page": 1119
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Paediatrics",
+       "pdfPage": 163,
+       "page": 163
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Pathology and complications",
+     "items": [
+      "The pia-arachnoid fills with layered **pus**, which can organise into **adhesions**. These block CSF flow (**hydrocephalus**) or damage the **basal cranial nerves**.",
+      "**Obliterative endarteritis** of leptomeningeal arteries can cause **cerebral infarction**.",
+      "**Hearing loss** is a frequent sequel. Others: seizures, brain abscess, subdural empyema, DIC, brain damage."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1141,
+       "page": 1119
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 921,
+       "page": 921
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 922,
+       "page": 922
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Clinical clues to the cause",
+     "columns": [
+      "Clue",
+      "Think of"
+     ],
+     "rows": [
+      [
+       "Petechial or purpuric rash",
+       "Meningococcus"
+      ],
+      [
+       "Skull fracture, ear disease, congenital CNS defect",
+       "Pneumococcus"
+      ],
+      [
+       "Work in drains or canals, myalgia, conjunctivitis, jaundice",
+       "Leptospirosis"
+      ],
+      [
+       "Recent international travel with fever and cerebral signs",
+       "Malaria"
+      ],
+      [
+       "HIV or other immunocompromise",
+       "Opportunistic infection"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 889,
+       "page": 869
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Davidson's safety net for headache: almost every patient with bacterial meningitis has at least one of **meningism, fever >38 °C, signs of shock** (tachycardia, hypotension, raised lactate) or a **rash, which need not be petechial**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Acute medicine",
+       "pdfPage": 207,
+       "page": 185
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Uncomplicated meningitis classically **spares consciousness**. **Progressive drowsiness, lateralising signs or cranial nerve palsies** suggest a complication (venous sinus thrombosis, cerebral oedema, hydrocephalus) or another diagnosis (**abscess, encephalitis**). Presentation is **atypical** in the elderly, immunosuppressed, alcoholic and pregnant. **Infants** show only hypotonia, poor feeding, lethargy, hypothermia or a **bulging fontanelle**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 889,
+       "page": 869
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Neurology",
+       "pdfPage": 806,
+       "page": 769
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Acute medicine",
+       "pdfPage": 207,
+       "page": 185
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Paediatrics",
+       "pdfPage": 163,
+       "page": 163
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious diseases",
+       "pdfPage": 440,
+       "page": 440
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The signs are **insensitive**: a negative Kernig or Brudzinski sign does **not** exclude meningitis. Step-Up calls the jolt test the most sensitive and specific sign, but Pocket Medicine quotes only ≈64% sensitivity and ≈43% specificity.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Infectious diseases",
+       "pdfPage": 440,
+       "page": 440
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 923,
+       "page": 923
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Neurology",
+      "pdfPage": 889,
+      "page": 869,
+      "figure": "Fig. 26.49"
+     },
+     "note": "Look at: purpuric lesions of meningococcal septicaemia with meningitis."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "stepup6",
+      "chapter": "Infectious diseases",
+      "pdfPage": 923,
+      "page": 923,
+      "figure": "FIGURE 10-3"
+     },
+     "note": "Look at: how Kernig's and Brudzinski's signs are elicited."
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.s3",
+   "title": "Bacterial meningitis: diagnosis",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Order of events (Davidson Fig. 25.34)",
+     "items": [
+      "**Resuscitate and stabilise.**",
+      "Take **blood cultures** (two sets), blood for **PCR** and a **throat swab**.",
+      "Give **empirical antibiotics** at once, then arrange critical care.",
+      "If the patient is **drowsy, has focal signs or seizures, is immunosuppressed, or has had recent neurosurgery or head injury**, do a **CT first** to exclude a mass lesion before LP, because of the risk of **coning**.",
+      "Otherwise go straight to **LP**. CSF culture yield is unlikely to fall much if the LP is done within about 4 h of antibiotics."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1141,
+       "page": 1119,
+       "figure": "Fig. 25.34"
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious diseases",
+       "pdfPage": 440,
+       "page": 440
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "When LP must wait or is unnecessary",
+     "items": [
+      "Clinical evidence of **raised ICP** (papilloedema), **depressed consciousness** or **focal signs**: image first. A **normal scan does not exclude raised ICP**, and clinical signs of raised pressure still contraindicate LP.",
+      "**Bleeding risk:** full anticoagulation, thrombocytopenia or DIC (risk of epidural haematoma).",
+      "**Obvious meningococcal disease with a petechial rash:** give IV antibiotics and take blood cultures. LP adds nothing, and K&C Essentials advises against it because of coning."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1099,
+       "page": 1077
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 890,
+       "page": 870
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Neurology",
+       "pdfPage": 808,
+       "page": 771
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "CSF patterns (Davidson Box 25.6)",
+     "columns": [
+      "Feature",
+      "Normal",
+      "Bacterial",
+      "Viral",
+      "Tuberculous"
+     ],
+     "rows": [
+      [
+       "Appearance",
+       "Clear",
+       "Cloudy (turbid)",
+       "Clear",
+       "Clear or cloudy"
+      ],
+      [
+       "White cells (×10⁶/L)",
+       "0–4",
+       "1000–5000, **polymorphs**",
+       "10–2000, lymphocytes",
+       "50–5000, lymphocytes"
+      ],
+      [
+       "Glucose",
+       ">50–60% of blood",
+       "**Low**",
+       "Normal",
+       "**Low**"
+      ],
+      [
+       "Protein",
+       "<0.45 g/L",
+       "Raised",
+       "Normal or raised",
+       "Raised"
+      ],
+      [
+       "Microbiology",
+       "Sterile",
+       "Organisms on Gram stain or culture",
+       "Sterile or virus detected",
+       "ZN/auramine stain or TB culture"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1100,
+       "page": 1078,
+       "table": "Box 25.6"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Microbiology",
+     "items": [
+      "**Gram stain:** Gram-**positive** diplococci = **pneumococcus**; Gram-**negative** diplococci = **meningococcus**. Sensitivity ranges from 30% to 90%.",
+      "**Culture** is 80–90% sensitive if the sample is taken **before antibiotics**.",
+      "**PCR** on blood and CSF detects bacterial DNA. It is fast, **stays positive after antibiotics** and **types the meningococcal serogroup**.",
+      "Meningococci can also be seen in an **aspirate from a petechia**. A missing rash does not exclude meningococcal disease.",
+      "In at-risk patients add **Ziehl–Neelsen or auramine** (TB) and **Indian ink** (_Cryptococcus_). Always check **syphilis serology**.",
+      "Send a **paired blood glucose** with the CSF."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 890,
+       "page": 870
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious diseases",
+       "pdfPage": 441,
+       "page": 441
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1142,
+       "page": 1120
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Paediatrics",
+       "pdfPage": 164,
+       "page": 164
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 568,
+       "page": 546
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Neurology",
+       "pdfPage": 808,
+       "page": 771
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Pocket Medicine's **rule of 2s**: CSF white cells **>2000/mm³**, glucose **<20 mg/dL** or protein **>200 mg/dL** gives over 98% specificity for bacterial meningitis. Repeat the LP only if there is **no response after 48 h** of appropriate antibiotics, or if a shunt is present.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Infectious diseases",
+       "pdfPage": 441,
+       "page": 441
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Partially treated** bacterial meningitis can give a **lymphocytic** CSF that looks viral. Always ask whether antibiotics were given before the LP.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1140,
+       "page": 1118
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Cell-count cut-offs differ between books (e.g. bacterial polymorphs 1000–5000 ×10⁶/L in Davidson, 200–3000/mm³ in K&C Essentials). Learn the **pattern**: neutrophils, low glucose, high protein, raised pressure. Davidson's text and K&C both describe CSF pressure as **raised** in bacterial meningitis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1100,
+       "page": 1078
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Neurology",
+       "pdfPage": 809,
+       "page": 772
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1141,
+       "page": 1119
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 890,
+       "page": 870
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.s4",
+   "title": "Bacterial meningitis: management and prevention",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Untreated bacterial meningitis kills about **80%**, and mortality is still about **15%** with optimal care, so **minutes count**. **Never delay antibiotics** for a CT or LP: the organism can often still be found in CSF hours later, and delay raises mortality.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1142,
+       "page": 1120
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 890,
+       "page": 870
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 927,
+       "page": 927
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Neurology",
+       "pdfPage": 808,
+       "page": 771
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Before hospital",
+     "items": [
+      "Davidson: give **parenteral benzylpenicillin** immediately (IV preferred) and admit. The only contraindication is **penicillin anaphylaxis**.",
+      "Doses for a non-blanching rash (IM or IV): **<1 year 300 mg; 1–9 years 600 mg; ≥10 years and adults 1200 mg**. Transfer must not be delayed."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1142,
+       "page": 1120
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Paediatrics",
+       "pdfPage": 163,
+       "page": 163
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Paediatrics",
+       "pdfPage": 164,
+       "page": 164
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Empirical therapy, cause unknown (Davidson Box 25.65)",
+     "columns": [
+      "Situation",
+      "Regimen"
+     ],
+     "rows": [
+      [
+       "Adult 18–50 years (with or without rash)",
+       "**Cefotaxime** 2 g IV 4 times daily or **ceftriaxone** 2 g IV twice daily"
+      ],
+      [
+       "Penicillin-resistant pneumococcus suspected",
+       "As above **plus vancomycin** 1 g IV twice daily or rifampicin 600 mg IV twice daily"
+      ],
+      [
+       "Age >50 years or _Listeria_ suspected (brainstem signs, immunosuppression, diabetes, alcohol)",
+       "As above **plus ampicillin** 2 g IV 6 times daily (or co-trimoxazole)"
+      ],
+      [
+       "Clear β-lactam anaphylaxis",
+       "**Chloramphenicol** 25 mg/kg IV 4 times daily **plus vancomycin**"
+      ],
+      [
+       "Adjunct",
+       "**Dexamethasone** 0.15 mg/kg 4 times daily for 2–4 days"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1142,
+       "page": 1120,
+       "table": "Box 25.65"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Organism known (Davidson Box 25.66)",
+     "columns": [
+      "Organism",
+      "Regimen of choice"
+     ],
+     "rows": [
+      [
+       "_N. meningitidis_",
+       "**Benzylpenicillin** 2.4 g IV 6 times daily for **5–7 days**"
+      ],
+      [
+       "_S. pneumoniae_ (β-lactam sensitive)",
+       "Cefotaxime or ceftriaxone for **10–14 days**"
+      ],
+      [
+       "_S. pneumoniae_ (β-lactam resistant)",
+       "As above **plus vancomycin or rifampicin**"
+      ],
+      [
+       "_H. influenzae_",
+       "Cefotaxime or ceftriaxone for 10–14 days"
+      ],
+      [
+       "_L. monocytogenes_",
+       "**Ampicillin** 2 g IV 6 times daily **plus gentamicin** 5 mg/kg IV daily"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1142,
+       "page": 1120,
+       "table": "Box 25.66"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Adjunctive dexamethasone",
+     "items": [
+      "Give it **with or just before the first antibiotic dose**.",
+      "It reduces **hearing loss and neurological sequelae** where penicillin resistance is low. Its value is unclear where resistance or untreated HIV is common.",
+      "Benefit is greatest in **pneumococcal** meningitis. Pocket Medicine's regimen is 10 mg IV 6-hourly for 4 days. **Avoid it in cryptococcal meningitis.**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1142,
+       "page": 1120
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 889,
+       "page": 869
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious diseases",
+       "pdfPage": 442,
+       "page": 442
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Meningococcal disease: extra points",
+     "items": [
+      "Mortality **doubles** when the patient presents with **sepsis** rather than meningitis.",
+      "Poor prognosis: **hypotensive shock**, a **rapidly evolving rash**, bleeding tendency, **multi-organ failure**, **age >60**.",
+      "Cardiac, respiratory or renal involvement, or a threatened airway, needs **intensive care**. **Early intubation** protects the airway and may prevent ARDS.",
+      "Septicaemia also needs IV fluids and inotropes."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1142,
+       "page": 1120
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Neurology",
+       "pdfPage": 808,
+       "page": 771
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Who gets chemoprophylaxis after meningococcal disease (Davidson Box 25.67)",
+     "columns": [
+      "Give prophylaxis",
+      "Not needed"
+     ],
+     "rows": [
+      [
+       "Household contacts who ate or slept in the home in the **7 days before onset**",
+       "Casual contacts at school or work without exposure to oral secretions"
+      ],
+      [
+       "Child-care and nursery contacts",
+       "Contacts of a contact (indirect contact only)"
+      ],
+      [
+       "Anyone exposed to the patient's **oral secretions** (kissing, shared toothbrush or utensils, mouth-to-mouth, unprotected intubation)",
+       "Health-care workers without direct exposure to oral secretions"
+      ],
+      [
+       "Air passengers seated **next to** the patient for **>8 h**",
+       ""
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1143,
+       "page": 1121,
+       "table": "Box 25.67"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Prophylaxis and public health",
+     "items": [
+      "Contacts: **oral rifampicin for 2 days** (600 mg twice daily in adults) or, in adults, **one dose of ciprofloxacin** (500 mg). One IM dose of ceftriaxone 250 mg is another option.",
+      "If the **index case** was not treated with ceftriaxone, they also need nasopharyngeal clearance before discharge.",
+      "Use **droplet precautions** until meningococcus is excluded.",
+      "Meningitis is **notifiable** to public health.",
+      "Treat a local source such as a sinus surgically, and repair a depressed skull fracture or dural tear when needed.",
+      "**Vaccines:** Hib and pneumococcal conjugate in infancy, MenC (and MenB in the UK), and quadrivalent ACWY for events such as the Hajj. Asplenic patients need pneumococcal, meningococcal and Hib vaccines."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1142,
+       "page": 1120
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious diseases",
+       "pdfPage": 442,
+       "page": 442
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 890,
+       "page": 870
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Neurology",
+       "pdfPage": 807,
+       "page": 770
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 927,
+       "page": 927
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**First antibiotic: books differ.** Davidson gives **benzylpenicillin** immediately in suspected meningitis. Kumar & Clark starts a **third-generation cephalosporin** at first contact because of rising penicillin resistance, then switches to benzylpenicillin once sensitivity is confirmed. Both agree that hospital empirical therapy is **cefotaxime or ceftriaxone**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1142,
+       "page": 1120
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 889,
+       "page": 869
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Group B vaccine:** Davidson says vaccines cover most meningococcal serogroups **but not group B**, while Kumar & Clark reports that a **MenB** vaccine is now used in UK infants. **Dexamethasone dose:** follow Davidson (0.15 mg/kg 4 times daily). K&C Essentials prints a different single dose.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1142,
+       "page": 1120
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 890,
+       "page": 870
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Neurology",
+       "pdfPage": 808,
+       "page": 771
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.s5",
+   "title": "Acute viral encephalitis: causes and presentation",
+   "objectiveIdx": [
+    4,
+    5
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Encephalitis** is inflammation of the **brain parenchyma**. Unlike meningitis, it makes **brain function abnormal**: altered mental state, behaviour change, motor or sensory deficits and seizures. The two often coexist as **meningo-encephalitis**.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Neurology",
+       "pdfPage": 808,
+       "page": 771
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 928,
+       "page": 928
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 891,
+       "page": 871
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Causes",
+     "columns": [
+      "Group",
+      "Examples and key points"
+     ],
+     "rows": [
+      [
+       "**Herpes simplex** (usually HSV-1)",
+       "Commonest serious sporadic cause in Europe. Probably reaches the brain via the **olfactory nerves**. Causes **haemorrhagic necrotising temporal lobe** inflammation. Untreated mortality 70–80%."
+      ],
+      [
+       "Varicella zoster",
+       "Important cause, all ages but favours the **elderly**; may have a vesicular rash."
+      ],
+      [
+       "Other UK viruses",
+       "Enteroviruses (ECHO, Coxsackie), **mumps**, adenovirus, HHV-6 and 7"
+      ],
+      [
+       "Arboviruses (mosquito or tick)",
+       "**Japanese encephalitis** (spread across Asia to Australia), **West Nile** (outbreaks in Romania, Israel, New York), **tick-borne encephalitis** (vaccine available)"
+      ],
+      [
+       "Immunocompromised / HIV",
+       "HIV itself (sometimes acute at seroconversion), **CMV**, **Toxoplasma** (advanced AIDS), HSV"
+      ],
+      [
+       "Other",
+       "Rabies; non-infective **autoimmune or paraneoplastic** encephalitis (e.g. anti-NMDA receptor)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1143,
+       "page": 1121
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 270,
+       "page": 248
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 891,
+       "page": 871
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Neurology",
+       "pdfPage": 809,
+       "page": 772
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious diseases",
+       "pdfPage": 443,
+       "page": 443
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1144,
+       "page": 1122
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "A **specific cause** is found in fewer than 20% of cases, and only a minority of patients recall a recent viral illness.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Infectious diseases",
+       "pdfPage": 443,
+       "page": 443
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1143,
+       "page": 1121
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Clinical features",
+     "items": [
+      "Often a non-specific **prodrome** (fever, headache, malaise, myalgia), then deterioration over hours to days.",
+      "**Fever** (about 90%) and **meningism** are usual.",
+      "Early **personality and behaviour change** progresses to **drowsiness, then coma**, which can come on early and fast.",
+      "**Seizures** (focal or generalised) are very common.",
+      "**Focal deficits:** **aphasia** or speech disturbance (typical of HSV), **hemiparesis**, visual field defects, cranial nerve palsies.",
+      "HSV starts in the **temporal lobes**, often asymmetrically, giving **temporal lobe epilepsy** and altered consciousness."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1144,
+       "page": 1122
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 891,
+       "page": 871
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 929,
+       "page": 929
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 270,
+       "page": 248
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Pathology:** inflammation of cortex, white matter, basal ganglia and brainstem, with inclusion bodies in neurons and glia, perivascular infiltrates, neuronal loss and **cerebral oedema**. The pattern depends on the virus: **HSV hits the temporal lobes**, while **CMV** affects the tissue around the ventricles (**ventriculitis**).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1144,
+       "page": 1122
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Brainstem encephalitis",
+     "items": [
+      "Presents with **ataxia, dysarthria, diplopia** or other cranial nerve palsies.",
+      "CSF is lymphocytic with normal glucose, and a viral cause is presumed.",
+      "**_Listeria_** gives a similar picture (rhombencephalitis), often with **polymorphs** in the CSF, and needs **ampicillin**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1144,
+       "page": 1122
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1141,
+       "page": 1119
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In **HIV**, Toxoplasma, CMV and HSV cause severe encephalitis, and **multiple brain abscesses are usually toxoplasmosis**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 892,
+       "page": 872
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 929,
+       "page": 929
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Mollaret's meningitis** is recurrent, self-resolving lymphocytic meningitis, now linked to **HSV-2**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1143,
+       "page": 1121
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious diseases",
+       "pdfPage": 442,
+       "page": 442
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Fever plus confusion is not always encephalitis.** Consider sepsis, UTI or pneumonia, brain abscess, subdural empyema, neuroleptic malignant syndrome, delirium tremens, metabolic upset, thyroid storm and, after travel, **cerebral malaria**.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 929,
+       "page": 929
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Neurology",
+       "pdfPage": 806,
+       "page": 769
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.s6",
+   "title": "Acute viral encephalitis: investigations and management",
+   "objectiveIdx": [
+    6,
+    7
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Investigations",
+     "items": [
+      "**Imaging first:** CT may show **low-density temporal lobe** lesions, but **MRI** is more sensitive early and is the imaging of choice. HSV gives **frontotemporal T2 high signal** and swelling. West Nile and Powassan virus can cause **thalamic** high signal.",
+      "**LP** once imaging has excluded a mass lesion.",
+      "**CSF:** **lymphocytosis** (polymorphs may dominate early), **normal glucose**, normal or raised protein. It is **normal in up to 10%**. **Red cells** in a non-traumatic tap point to **HSV**. West Nile virus can cause a persistent neutrophilic CSF.",
+      "**CSF PCR** is the key test (≈95% sensitivity and specificity for HSV; also VZV, CMV, EBV). **Serology** adds little for HSV.",
+      "**EEG** is abnormal early, especially in HSV: **periodic slow-wave (sharp-and-slow) complexes over the temporal lobes**.",
+      "**Brain biopsy** is now rarely needed."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1144,
+       "page": 1122
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 930,
+       "page": 930
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious diseases",
+       "pdfPage": 444,
+       "page": 444
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 891,
+       "page": 871
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 270,
+       "page": 248
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**HSV PCR can be falsely negative in the first 48 h** of symptoms. A negative early PCR does not rule out HSV encephalitis, and treatment must **never wait** for virology.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 891,
+       "page": 871
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1144,
+       "page": 1122
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Management",
+     "items": [
+      "**IV aciclovir 10 mg/kg 8-hourly for 14–21 days**, started **immediately in every suspected case**, before results arrive.",
+      "With aciclovir, HSV encephalitis mortality falls from about **70% to about 10%**.",
+      "**Supportive care:** airway and ventilation if needed, **antiepileptics** for seizures, **dexamethasone** for raised ICP. Occasionally **decompressive craniectomy** is needed to prevent coning.",
+      "**Aciclovir-resistant HSV** (immunocompromised hosts): **foscarnet**. **CMV** encephalitis: ganciclovir or foscarnet.",
+      "Most other viral encephalitides have **no specific antiviral**.",
+      "If CSF is unrevealing and there is no response, test for **autoimmune encephalitis**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1144,
+       "page": 1122
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Neurology",
+       "pdfPage": 810,
+       "page": 773
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 891,
+       "page": 871
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 270,
+       "page": 248
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Infectious diseases",
+       "pdfPage": 930,
+       "page": 930
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious diseases",
+       "pdfPage": 444,
+       "page": 444
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Prognosis:** **coma at presentation** predicts a poor outcome whether or not aciclovir is given. Survivors often have **memory loss, personality change or epilepsy**.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Neurology",
+       "pdfPage": 810,
+       "page": 773
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Neurology",
+       "pdfPage": 891,
+       "page": 871
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1144,
+       "page": 1122
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Davidson's quoted mortality for **untreated** HSV encephalitis is 70% in the neurology chapter and 80% in the infection chapter. Either way, the exam point is **very high, and cut to about 10% by early aciclovir**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Neurology",
+       "pdfPage": 1144,
+       "page": 1122
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 270,
+       "page": 248
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "id-meningoencephalitis.c1",
+   "sectionId": "id-meningoencephalitis.s1",
+   "front": "Two commonest causes of bacterial meningitis in adults?",
+   "back": "**_Streptococcus pneumoniae_** and **_Neisseria meningitidis_**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1141,
+     "page": 1119
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Neurology",
+     "pdfPage": 807,
+     "page": 770
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.c2",
+   "sectionId": "id-meningoencephalitis.s1",
+   "front": "Which patients need _Listeria_ cover in meningitis?",
+   "back": "Age **>50**, **pregnancy**, immunosuppression (incl. steroids), **diabetes**, **alcohol excess**, brainstem signs",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1142,
+     "page": 1120
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Neurology",
+     "pdfPage": 808,
+     "page": 771
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.c3",
+   "sectionId": "id-meningoencephalitis.s1",
+   "front": "Recurrent bacterial meningitis: usual organism and cause?",
+   "back": "**Pneumococcus**, via a skull fracture or other defect giving access to the subarachnoid space",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Neurology",
+     "pdfPage": 889,
+     "page": 869
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.c4",
+   "sectionId": "id-meningoencephalitis.s2",
+   "front": "Kernig's sign?",
+   "back": "With the hip flexed, extending the knee causes **hamstring spasm** and resistance",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1140,
+     "page": 1118
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.c5",
+   "sectionId": "id-meningoencephalitis.s2",
+   "front": "Brudzinski's sign?",
+   "back": "Passive **neck flexion** makes the **hips and knees flex**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1140,
+     "page": 1118
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.c6",
+   "sectionId": "id-meningoencephalitis.s2",
+   "front": "Meningococcal meningitis: what share have ≥2 of fever, neck stiffness, altered consciousness, rash?",
+   "back": "**90%**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1141,
+     "page": 1119
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.c7",
+   "sectionId": "id-meningoencephalitis.s3",
+   "front": "Davidson's indications for CT before LP in suspected meningitis?",
+   "back": "**Drowsy, focal signs or seizures, immunosuppressed, recent neurosurgery or head injury**. Never delay antibiotics for the scan.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1141,
+     "page": 1119
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.c8",
+   "sectionId": "id-meningoencephalitis.s3",
+   "front": "Classic CSF in bacterial meningitis?",
+   "back": "**Turbid**, many **polymorphs**, **low glucose**, **high protein**, organisms on Gram stain",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1100,
+     "page": 1078
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.c9",
+   "sectionId": "id-meningoencephalitis.s3",
+   "front": "Lymphocytic CSF in an acutely ill patient who had oral antibiotics: think of?",
+   "back": "**Partially treated bacterial meningitis**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1140,
+     "page": 1118
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.c10",
+   "sectionId": "id-meningoencephalitis.s4",
+   "front": "Empirical antibiotic for bacterial meningitis, adult 18–50 (Davidson)?",
+   "back": "**Cefotaxime 2 g IV 4×/day** or **ceftriaxone 2 g IV 2×/day**; add **vancomycin** if resistant pneumococcus is possible",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1142,
+     "page": 1120
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.c11",
+   "sectionId": "id-meningoencephalitis.s4",
+   "front": "Adjunctive steroid in bacterial meningitis (Davidson)?",
+   "back": "**Dexamethasone 0.15 mg/kg 4×/day for 2–4 days**, with or before the first antibiotic dose; reduces **hearing loss**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1142,
+     "page": 1120
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Neurology",
+     "pdfPage": 889,
+     "page": 869
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.c12",
+   "sectionId": "id-meningoencephalitis.s4",
+   "front": "Chemoprophylaxis for close contacts of meningococcal disease?",
+   "back": "**Rifampicin for 2 days**, or **single-dose ciprofloxacin** in adults",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1142,
+     "page": 1120
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.c13",
+   "sectionId": "id-meningoencephalitis.s5",
+   "front": "Which lobes does HSV encephalitis target, and how does the virus get there?",
+   "back": "**Temporal lobes**, probably via the **olfactory nerves**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1143,
+     "page": 1121
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1144,
+     "page": 1122
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.c14",
+   "sectionId": "id-meningoencephalitis.s5",
+   "front": "Brainstem encephalitis with polymorphs in the CSF: which organism, and what treatment?",
+   "back": "**_Listeria monocytogenes_**, treated with **ampicillin**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1144,
+     "page": 1122
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.c15",
+   "sectionId": "id-meningoencephalitis.s6",
+   "front": "Treatment of suspected HSV encephalitis?",
+   "back": "**IV aciclovir 10 mg/kg 8-hourly for 14–21 days**, started immediately",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1144,
+     "page": 1122
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Neurology",
+     "pdfPage": 810,
+     "page": 773
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.c16",
+   "sectionId": "id-meningoencephalitis.s6",
+   "front": "Main limitation of CSF HSV PCR?",
+   "back": "It can be **falsely negative in the first 48 h** of symptoms",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Neurology",
+     "pdfPage": 891,
+     "page": 871
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "id-meningoencephalitis.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 71-year-old man with type 2 diabetes who takes prednisolone for polymyalgia rheumatica has had fever, headache and neck stiffness for 12 hours. He has no rash. His team starts IV ceftriaxone and adds IV ampicillin.",
+   "leadIn": "Which organism is the ampicillin mainly meant to cover?",
+   "options": [
+    "_Neisseria meningitidis_",
+    "_Streptococcus pneumoniae_",
+    "_Listeria monocytogenes_",
+    "_Haemophilus influenzae_",
+    "_Staphylococcus aureus_"
+   ],
+   "answer": 2,
+   "explanation": "Age over 50, diabetes and glucocorticoids are all risk factors for **_Listeria_**, which cephalosporins do **not** cover. That is why Davidson adds **ampicillin** for this group.",
+   "whyNot": [
+    "Meningococcus is covered by ceftriaxone, and he has no rash.",
+    "Pneumococcus is covered by ceftriaxone; vancomycin, not ampicillin, is added for resistance.",
+    "",
+    "_H. influenzae_ is covered by third-generation cephalosporins.",
+    "_Staph. aureus_ follows neurosurgery, devices or skull fracture, and ampicillin is not the drug for it."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1142,
+     "page": 1120
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious diseases",
+     "pdfPage": 439,
+     "page": 439
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 34-year-old man is admitted with his third episode of bacterial meningitis in four years. He had a base-of-skull fracture in a road accident six years ago and often notices clear fluid dripping from his nose when he leans forward.",
+   "leadIn": "Which organism is most likely?",
+   "options": [
+    "_Neisseria meningitidis_",
+    "_Streptococcus pneumoniae_",
+    "_Listeria monocytogenes_",
+    "_Escherichia coli_",
+    "Group B streptococcus"
+   ],
+   "answer": 1,
+   "explanation": "**Recurrent** meningitis implies a route into the subarachnoid space. Here it is an old **skull fracture** with **CSF rhinorrhoea**. The organism is usually the **pneumococcus**, a nasopharyngeal commensal.",
+   "whyNot": [
+    "Meningococcus is linked to complement deficiency and asplenia, not to a dural leak after a skull fracture.",
+    "",
+    "_Listeria_ needs impaired cell-mediated immunity, pregnancy or old age.",
+    "_E. coli_ is a neonatal or healthcare-associated organism.",
+    "Group B strep mainly causes neonatal meningitis."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Neurology",
+     "pdfPage": 889,
+     "page": 869
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1141,
+     "page": 1119
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious diseases",
+     "pdfPage": 439,
+     "page": 439
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious diseases",
+     "pdfPage": 440,
+     "page": 440
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 19-year-old student has fever, a severe headache and vomiting that started 8 hours ago. The examining doctor notes that Kernig's sign is negative.",
+   "leadIn": "How should the negative Kernig's sign be interpreted?",
+   "options": [
+    "It rules out bacterial meningitis",
+    "It makes subarachnoid haemorrhage the likely diagnosis",
+    "It does not exclude meningitis because the sign is insensitive",
+    "It shows that the meningitis is viral rather than bacterial",
+    "It means an LP can safely be omitted"
+   ],
+   "answer": 2,
+   "explanation": "Kernig's sign is **specific (≈95%) but very insensitive (≈5%)**. A negative result cannot exclude meningitis, so management stays driven by the overall clinical picture.",
+   "whyNot": [
+    "An insensitive sign can never rule a diagnosis out.",
+    "A negative Kernig's sign says nothing in favour of SAH; meningism occurs in both.",
+    "",
+    "The sign does not separate viral from bacterial causes.",
+    "The need for CSF depends on the clinical suspicion, not on one negative sign."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s2"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Infectious diseases",
+     "pdfPage": 440,
+     "page": 440
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1140,
+     "page": 1118
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 58-year-old woman recovered from pneumococcal meningitis treated without steroids. Three months later she attends clinic for follow-up.",
+   "leadIn": "Which long-term complication is she most likely to have?",
+   "options": [
+    "Sensorineural hearing loss",
+    "Optic atrophy",
+    "Peripheral neuropathy",
+    "Parkinsonism",
+    "Myasthenic weakness"
+   ],
+   "answer": 0,
+   "explanation": "**Hearing loss** is a frequent sequel of bacterial meningitis. Adjunctive **dexamethasone** is given to reduce hearing loss and other neurological sequelae.",
+   "whyNot": [
+    "",
+    "Optic atrophy is not a typical sequel of bacterial meningitis.",
+    "Meningitis does not cause peripheral neuropathy.",
+    "Parkinsonism is not a recognised sequel.",
+    "Meningitis does not affect the neuromuscular junction."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1141,
+     "page": 1119
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1142,
+     "page": 1120
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 62-year-old kidney-transplant recipient on tacrolimus has had fever, headache and neck stiffness for a day. His GCS is 13 and there are no focal signs. Blood cultures have been taken.",
+   "leadIn": "What is the best next step?",
+   "options": [
+    "LP now, with antibiotics once the CSF result is back",
+    "CT head first, then antibiotics if the scan is normal",
+    "Empirical IV antibiotics now, then CT head before any LP",
+    "LP now, with CT only if the CSF is blood-stained",
+    "MRI brain, then antibiotics once a mass lesion is excluded"
+   ],
+   "answer": 2,
+   "explanation": "He is **immunosuppressed and drowsy**, so Davidson advises **CT before LP** because of the risk of coning. Antibiotics must **not wait** for the scan, so give them straight after the blood cultures.",
+   "whyNot": [
+    "Antibiotics should never wait for CSF results, and LP before imaging is unsafe here.",
+    "This delays antibiotics, which raises mortality.",
+    "",
+    "Doing an LP before imaging in a drowsy, immunosuppressed patient risks coning.",
+    "Waiting for MRI before treatment is a dangerous delay."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1141,
+     "page": 1119
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 927,
+     "page": 927
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 66-year-old man with alcohol dependence has fever and neck stiffness. His CSF is turbid with 2400 white cells ×10⁶/L (90% neutrophils), CSF glucose 30% of the blood value and protein 2.1 g/L. The Gram stain shows Gram-positive diplococci.",
+   "leadIn": "Which organism is most likely?",
+   "options": [
+    "_Neisseria meningitidis_",
+    "_Streptococcus pneumoniae_",
+    "_Listeria monocytogenes_",
+    "_Haemophilus influenzae_",
+    "_Mycobacterium tuberculosis_"
+   ],
+   "answer": 1,
+   "explanation": "The CSF is **bacterial**: neutrophils, low glucose, high protein. **Gram-positive diplococci** identify the **pneumococcus**, which fits his age and alcohol use.",
+   "whyNot": [
+    "Meningococci are Gram-negative diplococci.",
+    "",
+    "_Listeria_ is a Gram-positive bacillus, not a diplococcus.",
+    "Gram-positive diplococci point to the pneumococcus, not to _H. influenzae_.",
+    "TB gives a lymphocytic CSF and needs ZN or auramine staining."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Neurology",
+     "pdfPage": 890,
+     "page": 870
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1100,
+     "page": 1078
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1141,
+     "page": 1119
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 281,
+     "page": 259
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A GP is called to see an 8-year-old girl with fever, drowsiness and a spreading non-blanching rash on her legs. The ambulance is on its way.",
+   "leadIn": "What should the GP do?",
+   "options": [
+    "Give oral amoxicillin and review in 4 hours",
+    "Give benzylpenicillin 600 mg IM or IV and not delay transfer",
+    "Send her to hospital without antibiotics so cultures can be taken first",
+    "Give a single oral dose of ciprofloxacin",
+    "Give benzylpenicillin 1200 mg IM and wait 30 minutes to watch for a reaction"
+   ],
+   "answer": 1,
+   "explanation": "Suspected meningococcal disease needs **immediate parenteral benzylpenicillin** before transfer. For a child aged **1–9 years the dose is 600 mg**, and it must not hold up the ambulance.",
+   "whyNot": [
+    "Oral treatment and waiting are dangerous in suspected meningococcal sepsis.",
+    "",
+    "Antibiotics take priority; culture yield is a secondary concern.",
+    "Single-dose ciprofloxacin is prophylaxis for contacts, not treatment.",
+    "1200 mg is the dose from age 10, and waiting delays transfer."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s4"
+   },
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "chapter": "Paediatrics",
+     "pdfPage": 164,
+     "page": 164
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1142,
+     "page": 1120
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 19-year-old university student is admitted with meningococcal meningitis. Public health asks the team to identify contacts in the 7 days before his illness began.",
+   "leadIn": "Which contact should be offered chemoprophylaxis?",
+   "options": [
+    "A classmate who sat in the same lecture hall",
+    "His girlfriend, whom he kissed two days before he fell ill",
+    "A nurse who took his observations on the ward",
+    "A friend of his flatmate who has not met him",
+    "A colleague who shares an office with him at his part-time job"
+   ],
+   "answer": 1,
+   "explanation": "Prophylaxis goes to **close contacts**, including anyone exposed to his **oral secretions** (kissing) in the 7 days before onset. Casual, indirect and routine health-care contacts are excluded.",
+   "whyNot": [
+    "Casual contact in a classroom does not qualify.",
+    "",
+    "Health-care workers qualify only after direct exposure to oral secretions.",
+    "Contact with a contact is indirect and does not qualify.",
+    "Workplace contact without exposure to secretions is casual."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1143,
+     "page": 1121
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 38-year-old woman has had fever for 3 days. Her partner reports odd behaviour and episodes in which she smells burning rubber. Today she has trouble finding words and has a focal seizure.",
+   "leadIn": "Which virus is most likely?",
+   "options": [
+    "Herpes simplex virus type 1",
+    "Enterovirus",
+    "Mumps virus",
+    "JC virus",
+    "Cytomegalovirus"
+   ],
+   "answer": 0,
+   "explanation": "Fever with **behaviour change, olfactory hallucinations, dysphasia and seizures** localises to the **temporal lobes**, the hallmark of **HSV-1** encephalitis, the commonest serious sporadic cause.",
+   "whyNot": [
+    "",
+    "Enteroviruses are the commonest cause of viral (aseptic) meningitis, not of focal temporal lobe encephalitis.",
+    "Mumps causes viral meningitis mainly where vaccination is not used, usually with parotitis; it does not give this temporal lobe picture.",
+    "JC virus causes progressive multifocal leukoencephalopathy in severe immunosuppression.",
+    "CMV affects the immunocompromised and involves the tissue around the ventricles."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 270,
+     "page": 248
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Neurology",
+     "pdfPage": 891,
+     "page": 871
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1144,
+     "page": 1122
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Neurology",
+     "pdfPage": 892,
+     "page": 872
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious diseases",
+     "pdfPage": 442,
+     "page": 442
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1140,
+     "page": 1118
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 3,
+   "stem": "A woman who is 30 weeks pregnant has 2 days of fever, unsteadiness, double vision and slurred speech. MRI shows brainstem signal change. Her CSF has a raised white cell count, mostly neutrophils.",
+   "leadIn": "Which organism is most likely?",
+   "options": [
+    "Herpes simplex virus type 1",
+    "_Listeria monocytogenes_",
+    "_Neisseria meningitidis_",
+    "West Nile virus",
+    "_Cryptococcus neoformans_"
+   ],
+   "answer": 1,
+   "explanation": "This is **brainstem encephalitis** (ataxia, diplopia, dysarthria). In **pregnancy**, with **polymorphs** in the CSF, **_Listeria_ rhombencephalitis** is the key diagnosis, and it needs **ampicillin**.",
+   "whyNot": [
+    "HSV targets the temporal lobes, not the brainstem.",
+    "",
+    "Meningococcus causes meningitis or sepsis, not brainstem encephalitis.",
+    "West Nile is an arbovirus in endemic areas and often affects the thalamus.",
+    "Cryptococcus gives a subacute meningitis in the immunosuppressed."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1144,
+     "page": 1122
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1141,
+     "page": 1119
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious diseases",
+     "pdfPage": 444,
+     "page": 444
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1143,
+     "page": 1121
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 45-year-old man has had fever and confusion for 24 hours. MRI shows swelling of the right temporal lobe. He was started on IV aciclovir on admission. His first CSF HSV PCR, taken 20 hours after symptoms began, is negative.",
+   "leadIn": "What is the best next step?",
+   "options": [
+    "Stop aciclovir, because PCR has excluded HSV",
+    "Continue IV aciclovir and repeat the CSF PCR later",
+    "Switch to foscarnet",
+    "Stop aciclovir and start dexamethasone alone",
+    "Arrange urgent brain biopsy"
+   ],
+   "answer": 1,
+   "explanation": "HSV PCR can be **falsely negative in the first 48 h**. With a typical temporal lobe picture, **aciclovir must continue**, and the PCR can be repeated.",
+   "whyNot": [
+    "An early negative PCR does not exclude HSV.",
+    "",
+    "Foscarnet is for aciclovir-resistant HSV, not for a negative test.",
+    "Steroids treat raised ICP but do not replace antiviral therapy.",
+    "Brain biopsy is rarely needed now that MRI and PCR exist."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Neurology",
+     "pdfPage": 891,
+     "page": 871
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1144,
+     "page": 1122
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 270,
+     "page": 248
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 52-year-old woman with normal renal function has suspected herpes simplex encephalitis.",
+   "leadIn": "Which regimen is recommended?",
+   "options": [
+    "Oral aciclovir for 7 days",
+    "IV aciclovir 10 mg/kg 8-hourly for 14–21 days",
+    "IV ganciclovir for 14–21 days",
+    "IV foscarnet as first-line therapy",
+    "IV aciclovir 10 mg/kg 8-hourly for 5 days"
+   ],
+   "answer": 1,
+   "explanation": "HSV encephalitis needs **IV aciclovir 10 mg/kg three times daily for 2–3 weeks**, which cuts mortality from about 70% to about 10%.",
+   "whyNot": [
+    "Oral therapy and short courses are inadequate for encephalitis.",
+    "",
+    "Ganciclovir is used for CMV encephalitis.",
+    "Foscarnet is kept for aciclovir-resistant HSV.",
+    "Five days is too short; the course is 14–21 days."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1144,
+     "page": 1122
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Neurology",
+     "pdfPage": 810,
+     "page": 773
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 930,
+     "page": 930
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 270,
+     "page": 248
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 5-day-old baby born after prolonged rupture of membranes has become floppy and feeds poorly. Her temperature is low and her fontanelle bulges.",
+   "leadIn": "Which organism is the most likely cause of her meningitis?",
+   "options": [
+    "Group B streptococcus",
+    "_Neisseria meningitidis_",
+    "_Haemophilus influenzae_ type b",
+    "_Streptococcus pneumoniae_",
+    "_Staphylococcus aureus_"
+   ],
+   "answer": 0,
+   "explanation": "In neonates, **group B streptococcus** (picked up from the mother's genital tract at birth) is the leading cause, along with Gram-negative bacilli and _Listeria_. Neonates present non-specifically.",
+   "whyNot": [
+    "",
+    "Meningococcus is a cause after the neonatal period.",
+    "Hib affects pre-school children and is rare where vaccination is routine.",
+    "Pneumococcus is mainly a cause in older children and adults.",
+    "_Staph. aureus_ follows neurosurgery, devices or skull fracture."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s1"
+   },
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "chapter": "Paediatrics",
+     "pdfPage": 163,
+     "page": 163
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1141,
+     "page": 1119
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 567,
+     "page": 545
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 921,
+     "page": 921
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 50-year-old woman has a sudden, severe occipital headache that reached its peak within a minute while she was lifting. She is afebrile, and her neck is stiff.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Bacterial meningitis",
+    "Viral meningitis",
+    "Subarachnoid haemorrhage",
+    "Herpes simplex encephalitis",
+    "Migraine"
+   ],
+   "answer": 2,
+   "explanation": "**Meningism is not specific to meningitis**: blood in the subarachnoid space irritates the meninges too. An abrupt, peak-at-onset headache **without fever** points to **subarachnoid haemorrhage**.",
+   "whyNot": [
+    "Bacterial meningitis comes with fever and evolves over minutes to hours.",
+    "Viral meningitis usually comes with fever and irritability.",
+    "",
+    "Encephalitis gives fever, altered behaviour and seizures.",
+    "Migraine does not cause neck stiffness of sudden onset like this."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1140,
+     "page": 1118
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Neurology",
+     "pdfPage": 889,
+     "page": 869
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Acute medicine",
+     "pdfPage": 207,
+     "page": 185
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Neurology",
+     "pdfPage": 888,
+     "page": 868
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 27-year-old man has a 1-day history of high fever, severe headache and neck stiffness. Two days earlier his GP prescribed oral amoxicillin for a sore throat. CSF shows 300 white cells ×10⁶/L, mostly lymphocytes, a mildly reduced glucose and raised protein.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Viral meningitis",
+    "Partially treated bacterial meningitis",
+    "Tuberculous meningitis",
+    "Cryptococcal meningitis",
+    "Subarachnoid haemorrhage"
+   ],
+   "answer": 1,
+   "explanation": "Prior antibiotics can shift the CSF towards **lymphocytes** in **bacterial** meningitis. The acute course, the low glucose and the recent amoxicillin all point to **partially treated bacterial meningitis**.",
+   "whyNot": [
+    "Viral meningitis usually has a normal glucose and no history of prior antibiotics.",
+    "",
+    "TB meningitis develops over 2–8 weeks, not 1 day.",
+    "Cryptococcal meningitis is subacute and occurs in the immunosuppressed.",
+    "SAH presents with sudden headache and a blood-stained or xanthochromic CSF."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1140,
+     "page": 1118
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1143,
+     "page": 1121
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1100,
+     "page": 1078
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 40-year-old man is being admitted with suspected acute bacterial meningitis.",
+   "leadIn": "Which statement about adjunctive dexamethasone is correct?",
+   "options": [
+    "Start it with or just before the first antibiotic dose",
+    "Start it only once CSF culture has grown an organism",
+    "It is recommended in cryptococcal meningitis",
+    "Its main proven benefit is a shorter duration of fever",
+    "It removes the need for vancomycin when resistant pneumococcus is suspected"
+   ],
+   "answer": 0,
+   "explanation": "Dexamethasone is given **with or before the first antibiotic dose**. It reduces **hearing loss and neurological sequelae**, with the greatest benefit in **pneumococcal** meningitis.",
+   "whyNot": [
+    "",
+    "Waiting for culture loses the benefit; it is started empirically.",
+    "Steroids should be avoided in cryptococcal meningitis.",
+    "The benefit is fewer neurological sequelae, not less fever.",
+    "Steroids do not treat resistant organisms."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Neurology",
+     "pdfPage": 889,
+     "page": 869
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1142,
+     "page": 1120
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious diseases",
+     "pdfPage": 442,
+     "page": 442
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 30-year-old woman has fever, headache and neck stiffness.",
+   "leadIn": "Which additional finding most suggests encephalitis rather than meningitis alone?",
+   "options": [
+    "Photophobia",
+    "Positive Kernig's sign",
+    "Personality change with dysphasia",
+    "Vomiting",
+    "Temperature of 39 °C"
+   ],
+   "answer": 2,
+   "explanation": "Encephalitis involves the **brain parenchyma**, so it causes **altered behaviour, speech disturbance, focal deficits and seizures**. Meningitis alone leaves cerebral function intact.",
+   "whyNot": [
+    "Photophobia is part of meningism.",
+    "Kernig's sign reflects meningeal irritation.",
+    "",
+    "Vomiting is common in meningitis.",
+    "Fever occurs in both."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s5"
+   },
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "chapter": "Neurology",
+     "pdfPage": 808,
+     "page": 771
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Neurology",
+     "pdfPage": 891,
+     "page": 871
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 928,
+     "page": 928
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q18",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "Three patients are admitted with meningococcal disease on the same night.",
+   "leadIn": "Which feature indicates the worst prognosis?",
+   "options": [
+    "Age 19 years",
+    "Neck stiffness with a GCS of 15",
+    "A rapidly spreading purpuric rash with hypotension",
+    "Headache for 12 hours before admission",
+    "Gram-negative diplococci on CSF Gram stain"
+   ],
+   "answer": 2,
+   "explanation": "Davidson's adverse features are **hypotensive shock, a rapidly developing rash**, bleeding tendency, multi-organ failure and age >60. A **septicaemic** presentation **doubles mortality**.",
+   "whyNot": [
+    "Young age is not an adverse feature; age >60 is.",
+    "An alert patient with meningitis alone does better than one with sepsis.",
+    "",
+    "The duration of headache is not a listed prognostic marker.",
+    "This only confirms the organism."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1142,
+     "page": 1120
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q19",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 74-year-old woman presents with fever, confusion and neck stiffness. No organism is known yet, and she has no drug allergy.",
+   "leadIn": "Which empirical regimen is most appropriate?",
+   "options": [
+    "Benzylpenicillin alone",
+    "Ceftriaxone alone",
+    "Ceftriaxone plus ampicillin",
+    "Ampicillin plus gentamicin alone",
+    "Chloramphenicol plus vancomycin"
+   ],
+   "answer": 2,
+   "explanation": "Over 50, Davidson adds **ampicillin** to cefotaxime or ceftriaxone to cover **_Listeria_**.",
+   "whyNot": [
+    "Benzylpenicillin is Davidson's targeted therapy once meningococcus is confirmed; empirical hospital treatment uses a third-generation cephalosporin.",
+    "Ceftriaxone does not cover _Listeria_.",
+    "",
+    "This is targeted _Listeria_ therapy and misses pneumococcus and meningococcus.",
+    "This is reserved for β-lactam anaphylaxis."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1142,
+     "page": 1120
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q20",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 36-year-old man with untreated HIV (CD4 count 60 cells/µL) has fever, headache and left-sided weakness for a week. Imaging shows several ring-enhancing lesions.",
+   "leadIn": "What is the most likely cause?",
+   "options": [
+    "_Toxoplasma gondii_",
+    "Herpes simplex virus type 1",
+    "_Listeria monocytogenes_",
+    "_Streptococcus pneumoniae_",
+    "JC virus"
+   ],
+   "answer": 0,
+   "explanation": "In HIV, **multiple brain abscesses are usually due to toxoplasmosis**, especially with a **CD4 count below 200**.",
+   "whyNot": [
+    "",
+    "HSV causes temporal lobe encephalitis, not multiple abscesses.",
+    "_Listeria_ causes meningitis or rhombencephalitis.",
+    "Pneumococcus causes meningitis rather than multiple abscesses.",
+    "JC virus causes progressive multifocal leukoencephalopathy, not multiple brain abscesses."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Neurology",
+     "pdfPage": 892,
+     "page": 872
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 929,
+     "page": 929
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1141,
+     "page": 1119
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q21",
+   "kind": "emq",
+   "pool": "worked",
+   "difficulty": 2,
+   "theme": "Interpreting CSF in suspected CNS infection",
+   "leadIn": "For each patient below, choose the single most likely answer from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Acute bacterial meningitis",
+    "Viral meningitis",
+    "Tuberculous meningitis",
+    "Partially treated bacterial meningitis",
+    "Herpes simplex encephalitis",
+    "Subarachnoid haemorrhage",
+    "Cryptococcal meningitis",
+    "Brain abscess",
+    "Normal CSF",
+    "Multiple sclerosis"
+   ],
+   "items": [
+    {
+     "stem": "A 48-year-old man has 10 hours of rigors, headache and vomiting. His CSF is turbid with 3500 white cells ×10⁶/L, almost all polymorphs, glucose 20% of the blood value and protein 2.8 g/L.",
+     "answer": 0,
+     "explanation": "Step 1: a **short history with rigors** suggests a pyogenic process. Step 2: **turbid CSF, polymorphs, very low glucose and high protein** is the textbook bacterial pattern.",
+     "studyRef": {
+      "sectionId": "id-meningoencephalitis.s3"
+     }
+    },
+    {
+     "stem": "A 35-year-old woman born in an endemic area has had headache, low-grade fever and lassitude for 5 weeks, and now has a third nerve palsy. Her CSF is clear but forms a fine clot on standing. It contains 300 cells ×10⁶/L, mostly lymphocytes, glucose 30% of the blood value and protein 3 g/L.",
+     "answer": 2,
+     "explanation": "Step 1: the **weeks-long course** and **cranial nerve palsy** point to chronic basal meningitis. Step 2: **lymphocytes with low glucose and high protein** (and a \"spider web\" clot) fit **TB**.",
+     "studyRef": {
+      "sectionId": "id-meningoencephalitis.s3"
+     }
+    },
+    {
+     "stem": "A 21-year-old man has headache, fever and photophobia for 1 day. He is alert with no focal signs and has had no antibiotics. His CSF is clear with 150 lymphocytes ×10⁶/L and normal glucose and protein.",
+     "answer": 1,
+     "explanation": "Step 1: an alert young adult with no focal signs and **no prior antibiotics**. Step 2: **lymphocytes with normal glucose** = **viral meningitis**, which is benign and self-limiting.",
+     "studyRef": {
+      "sectionId": "id-meningoencephalitis.s3"
+     }
+    },
+    {
+     "stem": "A 42-year-old woman has 3 days of fever, confusion, smelling odd smells and a generalised seizure. The LP was atraumatic. Her CSF has 80 lymphocytes ×10⁶/L, many red cells, normal glucose and mildly raised protein.",
+     "answer": 4,
+     "explanation": "Step 1: **confusion, olfactory hallucinations and seizures** mean parenchymal (temporal lobe) disease, so this is encephalitis, not meningitis. Step 2: **lymphocytes, normal glucose and red cells in a non-traumatic tap** point to **HSV**, the haemorrhagic necrotising encephalitis.",
+     "studyRef": {
+      "sectionId": "id-meningoencephalitis.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1100,
+     "page": 1078
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1143,
+     "page": 1121
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 930,
+     "page": 930
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 270,
+     "page": 248
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1140,
+     "page": 1118
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q22",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 1,
+   "stem": "A 45-year-old man shares a house with his 17-year-old son, who was admitted yesterday with meningococcal septicaemia. The father is well.",
+   "leadIn": "What should be offered to the father?",
+   "options": [
+    "Nothing unless he develops symptoms",
+    "A single oral dose of ciprofloxacin",
+    "Oral amoxicillin for 7 days",
+    "IM benzylpenicillin 1200 mg",
+    "Admission for observation and blood cultures"
+   ],
+   "answer": 1,
+   "explanation": "Step 1: he is a **household contact** in the 7 days before onset, so he qualifies as a close contact. Step 2: Davidson's options are **rifampicin for 2 days** or, in adults, **one dose of ciprofloxacin**, to clear nasopharyngeal carriage.",
+   "whyNot": [
+    "Close contacts should receive prophylaxis even when well.",
+    "",
+    "Amoxicillin is not one of the recommended prophylactic agents (rifampicin, ciprofloxacin or ceftriaxone).",
+    "Benzylpenicillin is emergency treatment for suspected disease, not prophylaxis.",
+    "A well contact needs prophylaxis, not admission."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1142,
+     "page": 1120
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1143,
+     "page": 1121
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious diseases",
+     "pdfPage": 442,
+     "page": 442
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Paediatrics",
+     "pdfPage": 164,
+     "page": 164
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q23",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Organisms causing meningitis",
+   "leadIn": "For each patient below, choose the single most likely answer from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "_Neisseria meningitidis_",
+    "_Streptococcus pneumoniae_",
+    "_Listeria monocytogenes_",
+    "_Treponema pallidum_",
+    "Group B streptococcus",
+    "Enterovirus",
+    "_Staphylococcus aureus_",
+    "_Mycobacterium tuberculosis_",
+    "_Cryptococcus neoformans_",
+    "_Streptococcus suis_",
+    "_Leptospira interrogans_"
+   ],
+   "items": [
+    {
+     "stem": "A 52-year-old pig farmer develops fever, severe headache and neck stiffness a week after handling sick pigs. The CSF grows a streptococcus that is not the pneumococcus.",
+     "answer": 9,
+     "explanation": "**Pig contact** plus a non-pneumococcal streptococcus points to **_Streptococcus suis_**, a rare zoonotic cause of meningitis.",
+     "studyRef": {
+      "sectionId": "id-meningoencephalitis.s1"
+     }
+    },
+    {
+     "stem": "A 60-year-old woman develops fever, headache and neck stiffness 10 days after a craniotomy. Her wound is red and discharging.",
+     "answer": 6,
+     "explanation": "Meningitis after **neurosurgery** with a wound infection suggests **staphylococci**, most likely _Staph. aureus_.",
+     "studyRef": {
+      "sectionId": "id-meningoencephalitis.s1"
+     }
+    },
+    {
+     "stem": "A 22-year-old man has his second episode of meningitis with a petechial rash. Tests show he lacks a terminal complement component (C7).",
+     "answer": 0,
+     "explanation": "Two steps: a **petechial rash** suggests meningococcus, and **terminal complement (C5–9) deficiency** explains recurrent **meningococcal** disease.",
+     "studyRef": {
+      "sectionId": "id-meningoencephalitis.s1"
+     }
+    },
+    {
+     "stem": "A 33-year-old man who works in sewers has fever, severe myalgia, red eyes and jaundice, followed by headache and neck stiffness.",
+     "answer": 10,
+     "explanation": "Occupational **water exposure** with **myalgia, conjunctival suffusion and jaundice** is the clue to **leptospirosis**, a spirochaete that can cause meningitis.",
+     "studyRef": {
+      "sectionId": "id-meningoencephalitis.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1141,
+     "page": 1119
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious diseases",
+     "pdfPage": 439,
+     "page": 439
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious diseases",
+     "pdfPage": 440,
+     "page": 440
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Neurology",
+     "pdfPage": 889,
+     "page": 869
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1143,
+     "page": 1121
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 921,
+     "page": 921
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q24",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "Five adults are being assessed for suspected bacterial meningitis.",
+   "leadIn": "Which one should have a CT head before LP, according to Davidson?",
+   "options": [
+    "A 25-year-old woman who is alert, with fever and neck stiffness",
+    "A 30-year-old man with photophobia and a GCS of 15",
+    "A 45-year-old woman on chemotherapy for lymphoma who is alert with no focal signs",
+    "A 28-year-old man with a positive Kernig's sign",
+    "A 22-year-old woman who has vomited three times"
+   ],
+   "answer": 2,
+   "explanation": "Davidson lists **immunosuppression** among the reasons for CT before LP, along with drowsiness, focal signs, seizures, recent neurosurgery and head injury. Chemotherapy makes her immunosuppressed even though she is alert.",
+   "whyNot": [
+    "Alert, immunocompetent and without focal signs: proceed to LP.",
+    "Photophobia is part of meningism, not a CT indication.",
+    "",
+    "Kernig's sign reflects meningeal irritation, not mass effect.",
+    "Vomiting alone is not on the list."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1141,
+     "page": 1119
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious diseases",
+     "pdfPage": 440,
+     "page": 440
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q25",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 38-year-old man with meningitis has a CSF culture growing _Streptococcus pneumoniae_ that is fully sensitive to β-lactams.",
+   "leadIn": "Which regimen of choice does Davidson give?",
+   "options": [
+    "Benzylpenicillin IV for 5–7 days",
+    "Cefotaxime or ceftriaxone IV for 10–14 days",
+    "Ampicillin plus gentamicin IV",
+    "Vancomycin alone IV",
+    "Chloramphenicol IV"
+   ],
+   "answer": 1,
+   "explanation": "Davidson's choice for **sensitive pneumococcus** is **cefotaxime 2 g four times daily or ceftriaxone 2 g twice daily for 10–14 days**.",
+   "whyNot": [
+    "A 5–7 day benzylpenicillin course is the meningococcal regimen.",
+    "",
+    "This combination is the _Listeria_ regimen.",
+    "Vancomycin is added for resistant strains, not used alone.",
+    "Chloramphenicol is for β-lactam anaphylaxis."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1142,
+     "page": 1120
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q26",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A 20-year-old woman with meningococcal meningitis was started on ceftriaxone. Culture confirms a penicillin-sensitive _N. meningitidis_.",
+   "leadIn": "Which regimen of choice does Davidson give for the confirmed organism?",
+   "options": [
+    "Benzylpenicillin 2.4 g IV 6 times daily for 5–7 days",
+    "Ceftriaxone 2 g IV twice daily for 21 days",
+    "Ampicillin plus gentamicin for 14 days",
+    "Oral ciprofloxacin as a single dose",
+    "Vancomycin plus rifampicin for 14 days"
+   ],
+   "answer": 0,
+   "explanation": "For **meningococcus**, Davidson's regimen of choice is **benzylpenicillin 2.4 g IV 6 times daily for 5–7 days**. Kumar likewise switches to benzylpenicillin once sensitivity is confirmed.",
+   "whyNot": [
+    "",
+    "Three weeks is far longer than needed.",
+    "That is the _Listeria_ regimen.",
+    "A single dose of ciprofloxacin is prophylaxis for contacts.",
+    "This is an alternative for resistant pneumococcus."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1142,
+     "page": 1120
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Neurology",
+     "pdfPage": 889,
+     "page": 869
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q27",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 35-year-old woman with suspected bacterial meningitis had anaphylaxis to cefuroxime in the past.",
+   "leadIn": "Which empirical regimen is appropriate?",
+   "options": [
+    "Ceftriaxone with antihistamine cover",
+    "Benzylpenicillin",
+    "Chloramphenicol plus vancomycin",
+    "Meropenem",
+    "Ampicillin plus co-trimoxazole"
+   ],
+   "answer": 2,
+   "explanation": "For a **clear history of β-lactam anaphylaxis**, Davidson recommends **chloramphenicol 25 mg/kg IV four times daily plus vancomycin**.",
+   "whyNot": [
+    "Antihistamines do not make a β-lactam safe after anaphylaxis.",
+    "She has β-lactam anaphylaxis, and benzylpenicillin is a β-lactam.",
+    "",
+    "Meropenem is also a β-lactam.",
+    "Ampicillin is a β-lactam."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1142,
+     "page": 1120
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q28",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 41-year-old man has suspected HSV encephalitis. MRI is booked.",
+   "leadIn": "Which EEG finding is typical early in HSV encephalitis?",
+   "options": [
+    "Generalised 3 Hz spike-and-wave",
+    "Periodic slow-wave complexes over the temporal lobes",
+    "Normal EEG in most cases",
+    "Triphasic waves over both frontal lobes",
+    "Burst suppression"
+   ],
+   "answer": 1,
+   "explanation": "Davidson notes that the EEG is **abnormal early**, especially in HSV, with **periodic slow-wave activity over the temporal lobes**. This matches the temporal lobe focus of the virus.",
+   "whyNot": [
+    "3 Hz spike-and-wave is the pattern of absence epilepsy.",
+    "",
+    "The EEG is usually abnormal early.",
+    "Triphasic waves suggest metabolic encephalopathy.",
+    "Burst suppression reflects severe diffuse cortical depression."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1144,
+     "page": 1122
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious diseases",
+     "pdfPage": 444,
+     "page": 444
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q29",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A lung-transplant recipient being treated for HSV encephalitis keeps deteriorating despite full-dose IV aciclovir. Testing shows an aciclovir-resistant virus.",
+   "leadIn": "Which drug is the treatment of choice?",
+   "options": [
+    "Foscarnet",
+    "Oral valaciclovir",
+    "Oseltamivir",
+    "Ribavirin",
+    "Higher-dose oral aciclovir"
+   ],
+   "answer": 0,
+   "explanation": "Aciclovir resistance occurs occasionally in **immunocompromised hosts**, and **foscarnet** is then the treatment of choice.",
+   "whyNot": [
+    "",
+    "Valaciclovir is a prodrug of aciclovir and shares the resistance.",
+    "Oseltamivir treats influenza.",
+    "Ribavirin is not used for HSV.",
+    "Oral aciclovir cannot overcome resistance."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 270,
+     "page": 248
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q30",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 3,
+   "stem": "A 39-year-old man with advanced HIV has subacute confusion. MRI shows enhancement lining the lateral ventricles.",
+   "leadIn": "Which virus is most likely?",
+   "options": [
+    "Herpes simplex virus type 1",
+    "Cytomegalovirus",
+    "West Nile virus",
+    "Varicella zoster virus",
+    "Mumps virus"
+   ],
+   "answer": 1,
+   "explanation": "**Cytomegalovirus** characteristically affects the tissue next to the ventricles (**ventriculitis**), whereas HSV targets the temporal lobes. Treatment is ganciclovir or foscarnet.",
+   "whyNot": [
+    "HSV mainly affects the temporal lobes.",
+    "",
+    "West Nile virus classically affects the thalamus.",
+    "VZV encephalitis is not characterised by ventriculitis.",
+    "Mumps causes meningitis mainly where vaccination is not used; it does not cause ventriculitis in HIV."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1144,
+     "page": 1122
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 930,
+     "page": 930
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious diseases",
+     "pdfPage": 444,
+     "page": 444
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1140,
+     "page": 1118
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q31",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 9-year-old boy who survived pneumococcal meningitis develops progressive headache and vomiting weeks later. Scanning shows dilated ventricles, and he has a sixth nerve palsy.",
+   "leadIn": "Which mechanism best explains these late complications?",
+   "options": [
+    "Organisation of the basal exudate into adhesions",
+    "Direct viral invasion of the temporal lobes",
+    "Demyelination of periventricular white matter",
+    "Septic emboli from infective endocarditis",
+    "Drug toxicity from the antibiotics"
+   ],
+   "answer": 0,
+   "explanation": "The purulent exudate can organise into **adhesions** that **block CSF flow** (hydrocephalus) and damage the **cranial nerves at the base of the brain**.",
+   "whyNot": [
+    "",
+    "Temporal lobe invasion is the mechanism of HSV encephalitis.",
+    "Demyelination is not the mechanism of post-meningitic hydrocephalus.",
+    "Nothing suggests endocarditis here.",
+    "Cephalosporins do not cause hydrocephalus."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1141,
+     "page": 1119
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q32",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 1,
+   "stem": "Each dry season, health workers in the Sahel see large epidemics of meningococcal meningitis.",
+   "leadIn": "Which serogroup classically causes these epidemics?",
+   "options": [
+    "Group A",
+    "Group B",
+    "Group C",
+    "Group W",
+    "Group Y"
+   ],
+   "answer": 0,
+   "explanation": "**Group A** meningococcus causes **epidemics** in the African **meningitis belt** from Senegal to Ethiopia. Groups B and C dominate as sporadic disease in Europe and North America.",
+   "whyNot": [
+    "",
+    "Group B is mainly sporadic in Europe and North America.",
+    "Group C is mainly sporadic in Europe and North America.",
+    "Group W can cause epidemics but is not the classic epidemic serogroup.",
+    "Group Y can cause epidemics but is not the classic epidemic serogroup."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 567,
+     "page": 545
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1140,
+     "page": 1118
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q33",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 55-year-old man in a US hospital has meningitis. His CSF white cell count is 2600/mm³ (88% neutrophils), glucose 15 mg/dL and protein 260 mg/dL.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Viral meningitis",
+    "Acute bacterial meningitis",
+    "Tuberculous meningitis",
+    "Cryptococcal meningitis",
+    "Subarachnoid haemorrhage"
+   ],
+   "answer": 1,
+   "explanation": "He meets the **rule of 2s** (white cells >2000, glucose <20 mg/dL, protein >200 mg/dL), which is over **98% specific** for **bacterial** meningitis.",
+   "whyNot": [
+    "Viral meningitis gives lymphocytes and a normal glucose.",
+    "",
+    "TB gives a lymphocytic CSF.",
+    "Cryptococcal CSF resembles tuberculous CSF, which is lymphocytic.",
+    "SAH gives a blood-stained or xanthochromic CSF."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s3"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Infectious diseases",
+     "pdfPage": 441,
+     "page": 441
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1100,
+     "page": 1078
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1143,
+     "page": 1121
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q34",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 67-year-old man with confirmed HSV encephalitis was already in coma when he reached hospital. IV aciclovir was started within an hour.",
+   "leadIn": "Which statement about his outlook is correct?",
+   "options": [
+    "Coma at presentation predicts a poor outcome despite treatment",
+    "Starting aciclovir within an hour guarantees full recovery",
+    "Untreated, HSV encephalitis has a mortality of about 10%",
+    "Long-term epilepsy after HSV encephalitis is rare",
+    "His prognosis is the same as that of an alert patient"
+   ],
+   "answer": 0,
+   "explanation": "**Coma at presentation** carries a **poor prognosis whether or not aciclovir is given**. Survivors often have memory loss, personality change or epilepsy.",
+   "whyNot": [
+    "",
+    "Early treatment improves outcome but guarantees nothing.",
+    "About 10% is the mortality **with** aciclovir; untreated mortality is 70–80%.",
+    "Epilepsy is a recognised long-term sequel.",
+    "Coma is a marker of a worse outcome."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s6"
+   },
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "chapter": "Neurology",
+     "pdfPage": 810,
+     "page": 773
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Neurology",
+     "pdfPage": 891,
+     "page": 871
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1144,
+     "page": 1122
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 270,
+     "page": 248
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q35",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 24-year-old woman with meningococcal meningitis has recovered after 7 days of IV benzylpenicillin and is ready to go home.",
+   "leadIn": "What else does she need before discharge?",
+   "options": [
+    "No further treatment",
+    "Rifampicin or ciprofloxacin to clear nasopharyngeal carriage",
+    "Six months of oral penicillin V",
+    "A repeat LP to confirm sterile CSF",
+    "Two more weeks of IV ceftriaxone"
+   ],
+   "answer": 1,
+   "explanation": "Davidson advises that an **index case not treated with ceftriaxone** gets the same course as contacts (rifampicin or ciprofloxacin) to clear **nasopharyngeal carriage** before discharge.",
+   "whyNot": [
+    "Without clearance she may still carry and spread the organism.",
+    "",
+    "Long-term penicillin is not part of the standard plan.",
+    "A repeat LP is only needed if she failed to respond.",
+    "Treatment is already complete; ceftriaxone would only have been an alternative from the start."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1142,
+     "page": 1120
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious diseases",
+     "pdfPage": 441,
+     "page": 441
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q36",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 28-year-old aid worker developed fever, confusion and seizures after 3 months in rural South-East Asia, where she was bitten by mosquitoes daily. She had no animal bites.",
+   "leadIn": "Which cause of encephalitis is most likely?",
+   "options": [
+    "Japanese encephalitis virus",
+    "Tick-borne encephalitis virus",
+    "Rabies virus",
+    "Herpes simplex virus type 2",
+    "Mumps virus"
+   ],
+   "answer": 0,
+   "explanation": "**Japanese encephalitis** is a **mosquito-borne** arbovirus that has spread across Asia. Travel to rural South-East Asia with heavy mosquito exposure is the key clue.",
+   "whyNot": [
+    "",
+    "Tick-borne encephalitis is spread by ticks in Central Europe and the Far East.",
+    "Rabies needs an animal bite or lick, which she denies.",
+    "HSV-2 causes meningitis or myelitis rather than travel-related encephalitis.",
+    "Mumps is not linked to mosquito exposure."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1143,
+     "page": 1121
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Neurology",
+     "pdfPage": 809,
+     "page": 772
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Infectious diseases",
+     "pdfPage": 929,
+     "page": 929
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1144,
+     "page": 1122
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 270,
+     "page": 248
+    }
+   ]
+  },
+  {
+   "id": "id-meningoencephalitis.q37",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 1,
+   "stem": "A 33-year-old man has fever, confusion and temporal lobe changes on MRI.",
+   "leadIn": "Which test best confirms herpes simplex encephalitis?",
+   "options": [
+    "Serum HSV IgG",
+    "CSF HSV PCR",
+    "EEG",
+    "CT head",
+    "Brain biopsy"
+   ],
+   "answer": 1,
+   "explanation": "**CSF HSV PCR** is the diagnostic test, with about **95% sensitivity and specificity**. Serology is of limited value.",
+   "whyNot": [
+    "Serum IgG only shows past infection.",
+    "",
+    "The EEG supports the diagnosis but does not confirm it.",
+    "CT is less sensitive than MRI and does not identify the virus.",
+    "Biopsy is now rarely needed."
+   ],
+   "studyRef": {
+    "sectionId": "id-meningoencephalitis.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 270,
+     "page": 248
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious diseases",
+     "pdfPage": 444,
+     "page": 444
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Neurology",
+     "pdfPage": 1144,
+     "page": 1122
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Neurology",
+     "pdfPage": 891,
+     "page": 871
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "id-meningoencephalitis.o1",
+   "sectionId": "id-meningoencephalitis.s2",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Neurology",
+    "pdfPage": 889,
+    "page": 869,
+    "figure": "Fig. 26.49"
+   },
+   "identify": "Purpuric, non-blanching lesions of **meningococcal septicaemia** in a patient with meningitis. Give IV antibiotics at once; LP is not needed to start treatment."
+  },
+  {
+   "id": "id-meningoencephalitis.o2",
+   "sectionId": "id-meningoencephalitis.s2",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Infectious disease",
+    "pdfPage": 568,
+    "page": 546,
+    "figure": "Fig. 20.21"
+   },
+   "identify": "Purpuric rash of **invasive meningococcal infection**, a sign of DIC and bleeding into the skin."
+  },
+  {
+   "id": "id-meningoencephalitis.o3",
+   "sectionId": "id-meningoencephalitis.s2",
+   "cite": {
+    "book": "stepup6",
+    "chapter": "Infectious diseases",
+    "pdfPage": 923,
+    "page": 923,
+    "figure": "FIGURE 10-3"
+   },
+   "identify": "**Kernig's sign** (knee cannot be extended with the hip flexed) and **Brudzinski's sign** (neck flexion makes the hips and knees flex): signs of meningeal irritation, both with very poor sensitivity."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:28:53.482Z",
+  "contentHash": "7fcd261c8c871f426fa30e59af4114cef9ab276c6e6ecfdbd0dab8f2143b9da0"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:28:53.495Z",
+  "contentHash": "7fcd261c8c871f426fa30e59af4114cef9ab276c6e6ecfdbd0dab8f2143b9da0",
+  "checkerVersion": "source-check-v1"
+ }
+}

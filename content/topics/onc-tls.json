@@ -1,0 +1,2488 @@
+{
+ "topicId": "onc-tls",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "onc-tls.s1",
+   "title": "Definition and the biochemical pattern",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Tumour lysis syndrome (TLS)** is an oncological emergency. A large mass of tumour cells is destroyed abruptly, usually by the **first course of anticancer treatment**, and the cells empty their contents into the bloodstream. The result is a cluster of metabolic disturbances that can injure the kidneys and the heart.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1350,
+       "page": 1328
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 139,
+       "page": 118
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 294,
+       "page": 257
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2545,
+       "page": 2545
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "The TLS tetrad: three highs, one low",
+     "columns": [
+      "Serum value",
+      "Direction",
+      "Where it comes from"
+     ],
+     "rows": [
+      [
+       "Potassium",
+       "**High**",
+       "Mainly intracellular ion, freed when cells burst"
+      ],
+      [
+       "Phosphate",
+       "**High**",
+       "Mainly intracellular ion, freed when cells burst"
+      ],
+      [
+       "Uric acid",
+       "**High**",
+       "Breakdown of released nucleic acids and purines"
+      ],
+      [
+       "Calcium",
+       "**Low**",
+       "Secondary: bound and sequestered by the excess phosphate"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1350,
+       "page": 1328
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 889,
+       "page": 889
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 798,
+       "page": 798
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Mnemonic **PUKE Calcium**: **P**hosphate, **U**rate and **K**+ are **E**levated, and **Calcium** is the only value that falls.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 798,
+       "page": 798
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "TLS belongs on the list of **chemotherapy complications**, alongside infection from immunosuppression, neurotoxicity, cardiotoxicity, infertility and second cancers.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 194,
+       "page": 194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.s2",
+   "title": "Causes, risk factors and triggers",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "TLS needs a tumour that is **bulky, fast-growing and chemosensitive**, so that treatment kills many cells at once. The classic culprits are **high-grade lymphomas (especially Burkitt)**, the **acute leukaemias** (ALL, AML, CML in blast crisis) and **germ cell tumours**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1350,
+       "page": 1328
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 416,
+       "page": 416
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2545,
+       "page": 2545
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 295,
+       "page": 258
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Who is at high risk?",
+     "columns": [
+      "Risk factor",
+      "Examples / comment"
+     ],
+     "rows": [
+      [
+       "Tumour type",
+       "Acute leukaemias, high-grade lymphomas (Burkitt)"
+      ],
+      [
+       "Tumour bulk",
+       "Bulky disease; a high pre-treatment **LDH** reflects bulk"
+      ],
+      [
+       "Baseline urate",
+       "Raised uric acid before treatment"
+      ],
+      [
+       "Kidneys",
+       "Pre-existing renal impairment"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "washington36",
+       "pdfPage": 2545,
+       "page": 2545
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1350,
+       "page": 1328
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 416,
+       "page": 416
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Triggers and timing",
+     "items": [
+      "Typically a **first-dose / first-cycle** effect, especially in lymphoproliferative and other haematological cancers.",
+      "Even **corticosteroids alone** can provoke it, because they too can cause rapid death of malignant cells.",
+      "**Venetoclax** is specifically linked to TLS when it is started and needs close surveillance.",
+      "It can occur **spontaneously**, before any treatment, especially in leukaemia (rare).",
+      "In acute leukaemia, TLS sits beside leukostasis and DIC as a disease complication and is a recognised cause of acute kidney failure."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1405,
+       "page": 1392
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 449,
+       "page": 427
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 798,
+       "page": 798
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2545,
+       "page": 2545
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 361,
+       "page": 361
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 412,
+       "page": 388
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Burkitt lymphoma** is the highest-risk scenario: the patient must be metabolically stable before therapy, everyone gets TLS prophylaxis (rasburicase if available), and potassium and phosphate are checked very often for **at least 72 hours**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 428,
+       "page": 404
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 373,
+       "page": 373
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Solid tumours: Pocket Medicine calls TLS **very rare** with solid tumours, but Davidson includes bulky, chemosensitive **germ cell tumours**, and Step-Up adds any solid cancer with a very high tumour burden. Follow Davidson: think of TLS whenever a bulky, chemosensitive tumour is first treated.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1350,
+       "page": 1328
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 416,
+       "page": 416
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 888,
+       "page": 888
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.s3",
+   "title": "Pathogenesis and clinical features",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "When many cells die within a short time, their contents flood the extracellular fluid. **Potassium and phosphate** are mostly intracellular, so their plasma levels jump. **Nucleic acids and purines** are broken down to **uric acid**. The surplus phosphate then **binds calcium**, so hypocalcaemia follows.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1350,
+       "page": 1328
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 889,
+       "page": 889
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 798,
+       "page": 798
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Mechanism of each abnormality",
+     "items": [
+      "**Hyperkalaemia**: K+ shifts from cells into plasma, the same mechanism as in rhabdomyolysis and severe haemolysis.",
+      "**Hyperphosphataemia**: phosphate moves from cells into plasma. It is made worse by phosphate-containing preparations or unwarranted vitamin D.",
+      "**Hyperuricaemia**: increased purine turnover. Serum urate can climb to **4–5 times** the upper limit of normal.",
+      "**Hypocalcaemia**: secondary to the high phosphate, which sequesters calcium."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 384,
+       "page": 362
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 391,
+       "page": 369
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1405,
+       "page": 1392
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1036,
+       "page": 1014
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 139,
+       "page": 118
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 502,
+       "page": 502
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**How the kidneys fail:** the large filtered urate load **crystallises in the tubules and interstitium**, giving an obstructive crystal uropathy (_hyperuricaemic_ or _urate nephropathy_). High phosphate adds **calcium phosphate deposits** in the tubules. The result is acute kidney injury.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1350,
+       "page": 1328
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 139,
+       "page": 118
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1405,
+       "page": 1392
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 295,
+       "page": 258
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 194,
+       "page": 194
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Clinical features",
+     "columns": [
+      "Driver",
+      "What the patient shows"
+     ],
+     "rows": [
+      [
+       "Hyperkalaemia",
+       "Cardiac arrhythmia, syncope, sudden death"
+      ],
+      [
+       "Hypocalcaemia",
+       "Perioral paraesthesia, cramps, tetany (Trousseau and Chvostek signs), seizures, prolonged QT"
+      ],
+      [
+       "Acute kidney injury",
+       "Rising creatinine, oliguria, uraemia"
+      ],
+      [
+       "Mixed electrolyte upset",
+       "Fatigue, nausea, vomiting, heart failure"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1350,
+       "page": 1328
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 502,
+       "page": 502
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 139,
+       "page": 118
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2540,
+       "page": 2540
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Hyperkalaemia is the main danger** in TLS: it is the abnormality that kills quickly through arrhythmia.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1405,
+       "page": 1392
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2547,
+       "page": 2547
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Severe hyperuricaemia during chemotherapy **seldom causes gout**. Its real risk is **acute kidney injury**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1036,
+       "page": 1014
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.s4",
+   "title": "Investigations and monitoring",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Before treatment: assess the risk",
+     "items": [
+      "Assess TLS risk and start prevention **before induction chemotherapy** for acute leukaemia.",
+      "**LDH** correlates with tumour bulk and flags higher risk. It is also part of lymphoma staging.",
+      "**Baseline serum uric acid**, particularly in lymphomas that carry a TLS risk.",
+      "Routine biochemistry (renal function, electrolytes) for organ damage and evidence of early lysis."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 978,
+       "page": 956
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1350,
+       "page": 1328
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 423,
+       "page": 399
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 409,
+       "page": 385
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "After treatment starts: monitor closely",
+     "items": [
+      "Check **potassium, phosphate, calcium, uric acid and creatinine** regularly for **48–72 hours** in at-risk patients.",
+      "A **rising potassium** may be the earliest biochemical sign.",
+      "In Burkitt lymphoma, keep monitoring potassium and phosphate very frequently for **at least 72 hours**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1350,
+       "page": 1328
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 194,
+       "page": 194
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 428,
+       "page": 404
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "ECG clues",
+     "columns": [
+      "Abnormality",
+      "ECG finding"
+     ],
+     "rows": [
+      [
+       "Hyperkalaemia",
+       "Tall peaked T waves, flattened or absent P waves, broad QRS. Record an ECG for any K+ above 6 mmol/L"
+      ],
+      [
+       "Hypocalcaemia",
+       "Prolonged QT interval"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 274,
+       "page": 274
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 889,
+       "page": 889
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 502,
+       "page": 502
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "If AKI develops: is it urate nephropathy?",
+     "items": [
+      "**Urine microscopy** for uric acid crystals plus a **serum urate**.",
+      "A **urine uric acid : urine creatinine ratio above 1** supports acute uric acid nephropathy."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 434,
+       "page": 412
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 1185,
+       "page": 1185
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "After **rasburicase**, the measured urate may be **undetectable**. That is the drug working, not proof that TLS is over. Keep watching potassium, phosphate, calcium and renal function.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1405,
+       "page": 1392
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.s5",
+   "title": "Prevention and management",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Hydration is the cornerstone** of both prevention and treatment. IV fluid dilutes the extracellular fluid, which eases the electrolyte disturbance, and expands circulating volume, which improves glomerular filtration and lets the kidney excrete potassium. In **high-risk patients start it 24 hours before treatment** and keep urine output high throughout. Diuretics are often added to keep the urine flowing. Kumar & Clark Essentials quotes about **4–5 L/day IV**. Urine output targets vary between manuals (about 80–100 mL/h, or at least 100 mL/m²/h).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1350,
+       "page": 1328
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 139,
+       "page": 118
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1405,
+       "page": 1392
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 295,
+       "page": 258
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 416,
+       "page": 416
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2547,
+       "page": 2547
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Urate-lowering drugs",
+     "columns": [
+      "Feature",
+      "Allopurinol",
+      "Rasburicase"
+     ],
+     "rows": [
+      [
+       "Mechanism",
+       "Xanthine oxidase inhibitor: **stops new uric acid forming**",
+       "Recombinant urate oxidase: **converts existing uric acid to soluble allantoin**"
+      ],
+      [
+       "Main role",
+       "Prophylaxis in lower-risk patients, with IV fluids",
+       "Prophylaxis in high-risk patients (e.g. Burkitt, high baseline urate) and treatment of established TLS"
+      ],
+      [
+       "Effect on urate",
+       "Blocks new urate formation; does not remove urate already present",
+       "Breaks down urate already present; level may become undetectable"
+      ],
+      [
+       "Key caution",
+       "Dose adjusted for renal function",
+       "**Contraindicated in G6PD deficiency** (haemolytic anaemia)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 139,
+       "page": 118
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1405,
+       "page": 1392
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 416,
+       "page": 416
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 432,
+       "page": 432
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2547,
+       "page": 2547
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Treating each abnormality",
+     "items": [
+      "**Hyperkalaemia** (the immediate threat): treat aggressively. IV **calcium gluconate** stabilises the myocardium and **insulin with dextrose** shifts K+ into cells. K+ of 6.5 mmol/L or more needs urgent treatment whatever the ECG shows.",
+      "**Hyperphosphataemia**: IV normal saline promotes phosphate excretion, and **phosphate binders** can be given.",
+      "**Hypocalcaemia**: give calcium **only if symptomatic** (or to protect the heart in hyperkalaemia). Calcium given while phosphate is high risks metastatic calcification.",
+      "**Protect the kidneys**: avoid IV contrast and NSAIDs."
+     ],
+     "cites": [
+      {
+       "book": "washington36",
+       "pdfPage": 2547,
+       "page": 2547
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 274,
+       "page": 274
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 391,
+       "page": 369
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 416,
+       "page": 416
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Dialysis",
+     "items": [
+      "Consider **haemodialysis early** if standard measures fail, before renal injury becomes irreversible.",
+      "Indications: oliguria or uraemia, or persistent hyperkalaemia, hyperphosphataemia or a high calcium × phosphate product despite hydration.",
+      "TLS refractory to conventional therapy is a recognised indication for **urgent dialysis**. Involve the renal team early."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1350,
+       "page": 1328
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 139,
+       "page": 118
+      },
+      {
+       "book": "washington36",
+       "pdfPage": 2547,
+       "page": 2547
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 300,
+       "page": 300
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Rasburicase role differs between sources. Davidson's oncology chapter offers it **when other measures fail**, while its leukaemia section and Kumar & Clark give it **prophylactically to high-risk patients** and to treat established TLS. For exams: lower risk = allopurinol + fluids; high risk or established TLS = rasburicase + fluids (unless G6PD deficient).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1350,
+       "page": 1328
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 139,
+       "page": 118
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Do **not alkalinise the urine** when phosphate is high: an alkaline urine increases calcium phosphate precipitation in the tubules.",
+     "cites": [
+      {
+       "book": "washington36",
+       "pdfPage": 1185,
+       "page": 1185
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Asymptomatic hyperuricaemia is usually left alone, but **in cancer patients about to be treated it is lowered** to prevent TLS.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 336,
+       "page": 299
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "onc-tls.c1",
+   "sectionId": "onc-tls.s1",
+   "front": "TLS biochemistry: which four serum values change, and in which direction?",
+   "back": "**High** potassium, phosphate and uric acid; **low** calcium (\"PUKE Calcium\").",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 798,
+     "page": 798
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.c2",
+   "sectionId": "onc-tls.s1",
+   "front": "Why is calcium low in TLS?",
+   "back": "It is secondary: released phosphate binds and sequesters calcium.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 139,
+     "page": 118
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 798,
+     "page": 798
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.c3",
+   "sectionId": "onc-tls.s2",
+   "front": "Which tumours classically cause TLS?",
+   "back": "Bulky, chemosensitive tumours: high-grade lymphoma (especially Burkitt), acute leukaemias and germ cell tumours.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 416,
+     "page": 416
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.c4",
+   "sectionId": "onc-tls.s2",
+   "front": "Name two non-cytotoxic drug triggers of TLS.",
+   "back": "Corticosteroids alone, and venetoclax at the start of treatment.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1405,
+     "page": 1392
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2545,
+     "page": 2545
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.c5",
+   "sectionId": "onc-tls.s2",
+   "front": "Pre-treatment risk factors for TLS (besides tumour type)?",
+   "back": "Bulky disease, high LDH, high baseline uric acid and pre-existing renal impairment.",
+   "cites": [
+    {
+     "book": "washington36",
+     "pdfPage": 2545,
+     "page": 2545
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.c6",
+   "sectionId": "onc-tls.s3",
+   "front": "How does TLS cause acute kidney injury?",
+   "back": "Urate (and calcium phosphate) crystals precipitate in the renal tubules, causing an obstructive crystal nephropathy.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 295,
+     "page": 258
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.c7",
+   "sectionId": "onc-tls.s3",
+   "front": "Which TLS abnormality is the main immediate danger?",
+   "back": "Hyperkalaemia, through cardiac arrhythmia and sudden death.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1405,
+     "page": 1392
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2547,
+     "page": 2547
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.c8",
+   "sectionId": "onc-tls.s3",
+   "front": "Where does the uric acid in TLS come from?",
+   "back": "Breakdown of nucleic acids and purines released from the dying cells.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.c9",
+   "sectionId": "onc-tls.s4",
+   "front": "Earliest biochemical marker of TLS?",
+   "back": "A rising serum potassium.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.c10",
+   "sectionId": "onc-tls.s4",
+   "front": "How long should at-risk patients have biochemistry monitored after treatment?",
+   "back": "Regularly for 48–72 hours (Davidson); at least 72 hours in Burkitt lymphoma (Kumar & Clark).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 428,
+     "page": 404
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.c11",
+   "sectionId": "onc-tls.s4",
+   "front": "Prolonged QT in a patient with TLS points to which abnormality?",
+   "back": "Hypocalcaemia.",
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 889,
+     "page": 889
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.c12",
+   "sectionId": "onc-tls.s5",
+   "front": "Single most important measure to prevent TLS?",
+   "back": "Aggressive IV hydration, started 24 h before treatment in high-risk patients.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2547,
+     "page": 2547
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.c13",
+   "sectionId": "onc-tls.s5",
+   "front": "Allopurinol vs rasburicase: mechanism?",
+   "back": "Allopurinol inhibits xanthine oxidase (prevents urate formation). Rasburicase is urate oxidase (converts existing urate to soluble allantoin).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1405,
+     "page": 1392
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.c14",
+   "sectionId": "onc-tls.s5",
+   "front": "Key contraindication to rasburicase?",
+   "back": "G6PD deficiency: it causes haemolytic anaemia.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 416,
+     "page": 416
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 432,
+     "page": 432
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.c15",
+   "sectionId": "onc-tls.s5",
+   "front": "When should calcium be given in TLS?",
+   "back": "Only for symptomatic hypocalcaemia or hyperkalaemia; otherwise it risks metastatic calcification while phosphate is high.",
+   "cites": [
+    {
+     "book": "washington36",
+     "pdfPage": 2547,
+     "page": 2547
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 416,
+     "page": 416
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.c16",
+   "sectionId": "onc-tls.s5",
+   "front": "When is dialysis needed in TLS?",
+   "back": "When hydration and drugs fail: oliguria/uraemia, or persistent hyperkalaemia, hyperphosphataemia or high Ca × PO4 product. Start early, before damage is irreversible.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 139,
+     "page": 118
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2547,
+     "page": 2547
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "onc-tls.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 24-year-old man with a large mediastinal mass from high-grade lymphoma receives his first cycle of chemotherapy. Thirty-six hours later he is nauseated and complains of muscle cramps. His urine output has fallen.",
+   "leadIn": "Which pattern of serum results is most likely?",
+   "options": [
+    "Potassium high, phosphate low, urate high, calcium high",
+    "Potassium low, phosphate high, urate high, calcium low",
+    "Potassium high, phosphate high, urate high, calcium low",
+    "Potassium high, phosphate high, urate low, calcium high",
+    "Potassium low, phosphate low, urate low, calcium low"
+   ],
+   "answer": 2,
+   "explanation": "Bulky high-grade lymphoma after the **first cycle** of chemotherapy is the classic setting for tumour lysis syndrome. Lysed cells release potassium, phosphate and purines (which become urate), so all three rise. Calcium **falls** because phosphate binds it: three highs, one low.",
+   "whyNot": [
+    "Phosphate rises in TLS because it is released from cells, and calcium falls rather than rises.",
+    "Potassium is released from lysed cells, so it rises, not falls.",
+    "",
+    "Urate rises from nucleic acid breakdown, and calcium falls, not rises.",
+    "Only calcium falls in TLS; the other three rise."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 798,
+     "page": 798
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A medical student is reviewing the biochemistry of a patient who developed tumour lysis syndrome after induction chemotherapy for acute leukaemia.",
+   "leadIn": "Which abnormality arises because a substance released from the cells binds it, rather than from direct release?",
+   "options": [
+    "Hyperkalaemia",
+    "Hyperphosphataemia",
+    "Hyperuricaemia",
+    "Hypocalcaemia",
+    "Raised lactate dehydrogenase"
+   ],
+   "answer": 3,
+   "explanation": "Hypocalcaemia is the only **secondary** abnormality in the tetrad: the large phosphate load released from the cells complexes with calcium and lowers its serum level.",
+   "whyNot": [
+    "Potassium is an intracellular ion released directly when cells burst.",
+    "Phosphate is released directly from the cells; it is the cause of the low calcium, not a consequence of binding.",
+    "Urate comes from breakdown of released nucleic acids and purines, not from binding.",
+    "",
+    "LDH is a pre-treatment marker of tumour bulk; it is not lowered or raised by another ion binding to it."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 139,
+     "page": 118
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 889,
+     "page": 889
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "Five patients are about to start anticancer treatment this week.",
+   "leadIn": "Which patient is at the highest risk of tumour lysis syndrome?",
+   "options": [
+    "A 63-year-old woman starting adjuvant chemotherapy after excision of a small breast cancer",
+    "A 15-year-old boy with Burkitt lymphoma, a bulky abdominal mass and a very high LDH",
+    "A 75-year-old man starting treatment for a slow-growing, localised prostate cancer",
+    "A 50-year-old woman having a basal cell carcinoma excised from her cheek",
+    "A 40-year-old man starting radioiodine after thyroidectomy for a small thyroid cancer"
+   ],
+   "answer": 1,
+   "explanation": "TLS needs a **bulky, rapidly proliferating, chemosensitive** tumour. Burkitt lymphoma is the classic high-risk tumour, and a very high LDH reflects a large tumour burden.",
+   "whyNot": [
+    "After excision the residual tumour burden is tiny, and TLS is very rare with solid tumours.",
+    "",
+    "A slow-growing, localised tumour has neither the bulk nor the turnover needed.",
+    "Local excision of a small skin cancer does not release a large cell mass into the circulation.",
+    "A small residual thyroid cancer is low-burden and slow-growing."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s2"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 416,
+     "page": 416
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2545,
+     "page": 2545
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 19-year-old man with newly diagnosed acute lymphoblastic leukaemia and a very high white cell count is started on high-dose oral prednisolone alone while his cytogenetics are awaited. Two days later: K+ 6.3 mmol/L, phosphate high, urate high, corrected calcium low, creatinine rising. A repeat sample with prompt processing gives the same results.",
+   "leadIn": "What is the most likely explanation?",
+   "options": [
+    "Artefactual hyperkalaemia from release of potassium by leucocytes in the sample",
+    "Acute gout caused by the high white cell count",
+    "Tumour lysis syndrome triggered by the corticosteroid",
+    "Prerenal acute kidney injury from steroid-induced diuresis",
+    "Acute phosphate nephropathy from bowel preparation"
+   ],
+   "answer": 2,
+   "explanation": "**Steroids alone** can kill enough lymphoblasts to cause TLS. The full pattern of high K+, phosphate and urate with low calcium and rising creatinine confirms a true lysis syndrome rather than a sampling artefact.",
+   "whyNot": [
+    "Leucocytosis can falsely raise potassium, but a promptly processed repeat confirmed it, and artefact does not explain high phosphate, high urate, low calcium and rising creatinine.",
+    "Hyperuricaemia from cell turnover rarely causes gout, and gout does not explain the electrolyte pattern.",
+    "",
+    "Prerenal AKI does not produce this combination of high phosphate, high urate and low calcium.",
+    "There is no history of oral phosphate bowel preparation."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1405,
+     "page": 1392
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 798,
+     "page": 798
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 384,
+     "page": 362
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1036,
+     "page": 1014
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 45-year-old woman with acute myeloid leukaemia develops acute kidney injury 48 hours after her first dose of induction chemotherapy. Serum urate is markedly raised.",
+   "leadIn": "What is the main mechanism of her kidney injury?",
+   "options": [
+    "Immune-complex deposition in the glomeruli",
+    "Uric acid crystal precipitation within the renal tubules",
+    "Renal vein thrombosis",
+    "Hypercalcaemia-induced renal vasoconstriction",
+    "Papillary necrosis"
+   ],
+   "answer": 1,
+   "explanation": "In TLS the filtered urate load is so high that **uric acid crystallises in the tubules**, causing an obstructive crystal nephropathy. Calcium phosphate deposition can add to it.",
+   "whyNot": [
+    "Glomerular immune-complex disease is not how TLS damages the kidney.",
+    "",
+    "Venous thrombosis is not the mechanism in TLS.",
+    "Calcium is low, not high, in TLS.",
+    "Papillary necrosis is not a feature of tumour lysis."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1405,
+     "page": 1392
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 295,
+     "page": 258
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "Two days after starting chemotherapy for bulky lymphoma, a 33-year-old man reports tingling around his mouth and painful hand cramps. Inflating a blood pressure cuff on his arm makes his wrist and fingers flex into spasm.",
+   "leadIn": "Which electrolyte disturbance directly produces these signs?",
+   "options": [
+    "Hyperkalaemia",
+    "Hyperuricaemia",
+    "Hypocalcaemia",
+    "Hyperphosphataemia",
+    "Hyponatraemia"
+   ],
+   "answer": 2,
+   "explanation": "Perioral paraesthesia, cramps and **Trousseau's sign** are features of neuromuscular irritability from **hypocalcaemia**. In TLS the calcium falls because of the phosphate load.",
+   "whyNot": [
+    "Hyperkalaemia causes arrhythmias, not tetany.",
+    "Urate causes kidney injury, not tetany.",
+    "",
+    "High phosphate is the upstream cause, but the signs come directly from the low calcium.",
+    "Hyponatraemia is not part of the TLS pattern and does not cause Trousseau's sign."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s3"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 502,
+     "page": 502
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 28-year-old man with a bulky germ cell tumour is being monitored after his first cycle of chemotherapy because he is at high risk of tumour lysis syndrome.",
+   "leadIn": "Which result may be the earliest biochemical sign that TLS is developing?",
+   "options": [
+    "A fall in serum calcium",
+    "A rise in serum creatinine",
+    "A rise in serum potassium",
+    "A rise in serum LDH",
+    "Uric acid crystals in the urine"
+   ],
+   "answer": 2,
+   "explanation": "Davidson notes that a **rising potassium** may be the earliest biochemical marker, so potassium is checked closely for 48–72 hours after treatment.",
+   "whyNot": [
+    "Calcium falls only after phosphate has risen, so it is a later change.",
+    "Creatinine rises once crystal nephropathy has developed, which is later.",
+    "",
+    "LDH is used before treatment to estimate tumour bulk, not as the earliest marker of lysis.",
+    "Crystalluria reflects established urate nephropathy rather than the earliest change."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 52-year-old woman with newly diagnosed high-grade lymphoma is being worked up before chemotherapy. The team wants a blood test that reflects tumour bulk and helps estimate her TLS risk.",
+   "leadIn": "Which test is most useful for this purpose?",
+   "options": [
+    "Serum alkaline phosphatase",
+    "Serum lactate dehydrogenase",
+    "C-reactive protein",
+    "Serum ferritin",
+    "Serum troponin"
+   ],
+   "answer": 1,
+   "explanation": "Pre-treatment **LDH** correlates with tumour bulk and flags increased TLS risk. It is also used in lymphoma staging. A baseline uric acid is useful too.",
+   "whyNot": [
+    "ALP reflects bone or liver involvement, not overall tumour bulk for TLS risk.",
+    "",
+    "CRP is a non-specific inflammatory marker and does not estimate TLS risk.",
+    "Ferritin is not used to assess tumour bulk or TLS risk.",
+    "Troponin assesses myocardial injury, not tumour burden."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 409,
+     "page": 385
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 21-year-old woman with T-lymphoblastic leukaemia and a high white cell count is due to start induction chemotherapy tomorrow.",
+   "leadIn": "Which is the single most important measure to prevent tumour lysis syndrome?",
+   "options": [
+    "Prophylactic IV calcium gluconate",
+    "Fluid restriction to avoid overload",
+    "Aggressive IV hydration started before treatment",
+    "Prophylactic haemodialysis before chemotherapy",
+    "Urinary alkalinisation with sodium bicarbonate"
+   ],
+   "answer": 2,
+   "explanation": "**Hydration** dilutes the released ions and increases renal blood flow and filtration, so potassium, phosphate and urate are excreted. In high-risk patients it starts 24 hours before treatment.",
+   "whyNot": [
+    "Calcium is given only for symptomatic hypocalcaemia or hyperkalaemia, not as prophylaxis.",
+    "Restricting fluid would reduce urine flow and encourage crystal deposition.",
+    "",
+    "Dialysis is reserved for failure of standard measures, not routine prevention.",
+    "Alkalinisation is avoided when phosphate is high because it promotes calcium phosphate precipitation."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2547,
+     "page": 2547
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 1185,
+     "page": 1185
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 30-year-old man with high-risk lymphoma is about to start chemotherapy. His urate is moderately raised. A screening test shows he has G6PD deficiency.",
+   "leadIn": "Which urate-lowering plan is most appropriate?",
+   "options": [
+    "Rasburicase with IV hydration",
+    "Allopurinol with IV hydration",
+    "Urinary alkalinisation alone",
+    "Fluid restriction with a loop diuretic",
+    "Oral phosphate supplements"
+   ],
+   "answer": 1,
+   "explanation": "Rasburicase is **contraindicated in G6PD deficiency** because it causes haemolysis. The safe option is **allopurinol**, which blocks urate formation, combined with vigorous hydration.",
+   "whyNot": [
+    "Rasburicase can cause haemolytic anaemia in G6PD deficiency.",
+    "",
+    "Alkalinisation does not lower urate production and risks calcium phosphate precipitation.",
+    "Fluid restriction lowers urine flow, the opposite of what is needed.",
+    "Phosphate supplements worsen hyperphosphataemia."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s5"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 416,
+     "page": 416
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 432,
+     "page": 432
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 391,
+     "page": 369
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 1185,
+     "page": 1185
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 29-year-old man with a testicular germ cell tumour and bulky retroperitoneal nodes starts chemotherapy. On day 2: K+ 6.4 mmol/L, phosphate high, corrected calcium low, urate high, creatinine double baseline. Creatine kinase is normal and he has had no bowel preparation.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Rhabdomyolysis",
+    "Tumour lysis syndrome",
+    "Hypercalcaemia of malignancy",
+    "Acute phosphate nephropathy",
+    "Contrast-induced nephropathy"
+   ],
+   "answer": 1,
+   "explanation": "Germ cell tumours are bulky and chemosensitive, and the **three highs, one low** pattern after the first cycle is diagnostic of TLS. A normal CK argues against muscle breakdown.",
+   "whyNot": [
+    "Rhabdomyolysis also shifts potassium out of cells, but the CK is normal.",
+    "",
+    "His calcium is low, not high.",
+    "Phosphate nephropathy follows oral phosphate bowel preparation, which he has not had.",
+    "No contrast is mentioned, and contrast does not cause hyperuricaemia or hypocalcaemia."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 384,
+     "page": 362
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1405,
+     "page": 1392
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 60-year-old man develops hyperkalaemia 24 hours after chemotherapy for acute leukaemia. A repeat sample confirms it.",
+   "leadIn": "What is the main mechanism of his hyperkalaemia?",
+   "options": [
+    "Aldosterone deficiency",
+    "Shift of potassium from lysed cells into the plasma",
+    "Increased dietary potassium",
+    "Haemolysis of the blood sample",
+    "Metabolic alkalosis"
+   ],
+   "answer": 1,
+   "explanation": "In TLS the hyperkalaemia is a **redistribution** problem: intracellular K+ floods into plasma when cells burst, the same mechanism as rhabdomyolysis and severe haemolysis. Reduced excretion from AKI can add to it.",
+   "whyNot": [
+    "There is no reason for aldosterone deficiency here.",
+    "",
+    "Diet does not explain an abrupt rise after chemotherapy.",
+    "The repeat sample confirmed the result, so this is not artefactual.",
+    "Alkalosis moves potassium into cells, lowering it."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 384,
+     "page": 362
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "On the second day of chemotherapy for Burkitt lymphoma, a 17-year-old boy has a brief generalised seizure. His ECG shows a prolonged QT interval with normal T waves.",
+   "leadIn": "Which substance released from the tumour cells is ultimately responsible for his QT prolongation?",
+   "options": [
+    "Potassium",
+    "Uric acid",
+    "Phosphate",
+    "Lactate dehydrogenase",
+    "Purines"
+   ],
+   "answer": 2,
+   "explanation": "Two steps: a prolonged QT with seizures points to **hypocalcaemia**, and in TLS hypocalcaemia is caused by the **phosphate** load, which binds calcium.",
+   "whyNot": [
+    "Potassium excess causes peaked T waves and broad QRS, not a long QT.",
+    "Urate causes kidney injury, not QT prolongation.",
+    "",
+    "LDH is a marker of tumour bulk with no electrical effect.",
+    "Purines become urate, which does not lower calcium."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s3"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 889,
+     "page": 889
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 502,
+     "page": 502
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 274,
+     "page": 274
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 55-year-old man with acute leukaemia develops acute kidney injury two days after induction chemotherapy. The team suspects urate nephropathy.",
+   "leadIn": "Which investigations best support this cause?",
+   "options": [
+    "Complement C3 and C4",
+    "Anti-GBM antibodies",
+    "Urine microscopy for crystals and serum urate",
+    "24-hour urine oxalate",
+    "CT angiography of the renal arteries"
+   ],
+   "answer": 2,
+   "explanation": "For suspected urate crystal nephropathy after tumour lysis, look for **uric acid crystals on urine microscopy** and a raised **serum urate**.",
+   "whyNot": [
+    "Complement levels help with cholesterol emboli or thrombotic microangiopathy, not urate nephropathy.",
+    "Anti-GBM antibodies look for anti-GBM disease.",
+    "",
+    "Urine oxalate investigates oxalate nephropathy, not urate.",
+    "CT angiography looks for vascular causes of AKI."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 434,
+     "page": 412
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "A 48-year-old woman develops AKI on day 3 of chemotherapy for high-grade lymphoma. The team wants a urine test that points specifically to acute uric acid nephropathy.",
+   "leadIn": "Which urine finding best supports this diagnosis?",
+   "options": [
+    "Fractional sodium excretion below 1% with a bland sediment",
+    "Dysmorphic red cells and red cell casts",
+    "Protein excretion above 3.5 g/day",
+    "Urine uric acid to creatinine ratio above 1",
+    "Calcium oxalate crystals"
+   ],
+   "answer": 3,
+   "explanation": "In acute uric acid nephropathy the urine **urate:creatinine ratio is above 1**, and uric acid crystals may be seen in the sediment.",
+   "whyNot": [
+    "A low FENa with bland urine suggests prerenal AKI.",
+    "Dysmorphic red cells and casts suggest glomerulonephritis.",
+    "Nephrotic-range proteinuria points to glomerular disease.",
+    "",
+    "Oxalate crystals point to oxalate nephropathy, not urate."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s4"
+   },
+   "cites": [
+    {
+     "book": "washington36",
+     "pdfPage": 1185,
+     "page": 1185
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 434,
+     "page": 412
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A patient with tumour lysis syndrome has a serum K+ of 6.9 mmol/L. His ECG shows tall peaked T waves and a widening QRS.",
+   "leadIn": "Which treatment most rapidly protects his heart?",
+   "options": [
+    "IV rasburicase",
+    "Oral phosphate binder",
+    "IV calcium gluconate",
+    "Oral allopurinol",
+    "IV sodium bicarbonate to alkalinise the urine"
+   ],
+   "answer": 2,
+   "explanation": "Hyperkalaemia is the immediate threat in TLS. **IV calcium gluconate stabilises the myocardium**; insulin with dextrose then shifts K+ into cells. Calcium is appropriate here despite the high phosphate because hyperkalaemia is present.",
+   "whyNot": [
+    "Rasburicase lowers urate; it does nothing for potassium.",
+    "Binders treat phosphate, not potassium.",
+    "",
+    "Allopurinol only prevents new urate formation; it does nothing for potassium.",
+    "Urinary alkalinisation is avoided with high phosphate and does not protect the heart."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s5"
+   },
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "pdfPage": 274,
+     "page": 274
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2547,
+     "page": 2547
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 1185,
+     "page": 1185
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "On day 2 of treatment for acute leukaemia, a 35-year-old woman has a low corrected calcium and a very high phosphate. She has no paraesthesia, cramps or tetany. K+ is 5.2 mmol/L and the ECG is normal.",
+   "leadIn": "What is the most appropriate approach to her calcium?",
+   "options": [
+    "Give IV calcium gluconate to normalise the calcium",
+    "Start high-dose vitamin D",
+    "Treat the phosphate (IV saline, phosphate binder) and withhold calcium while she is asymptomatic",
+    "Give oral phosphate to rebalance the calcium-phosphate product",
+    "Alkalinise the urine with sodium bicarbonate"
+   ],
+   "answer": 2,
+   "explanation": "Calcium is reserved for **symptomatic** hypocalcaemia or hyperkalaemia, because adding calcium to a high phosphate risks **metastatic calcification**. Lowering phosphate corrects the cause.",
+   "whyNot": [
+    "Routine IV calcium with high phosphate risks calcium phosphate deposition.",
+    "Unwarranted vitamin D aggravates hyperphosphataemia.",
+    "",
+    "Extra phosphate would worsen both the hyperphosphataemia and the hypocalcaemia.",
+    "Alkalinisation with high phosphate increases calcium phosphate precipitation."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s5"
+   },
+   "cites": [
+    {
+     "book": "washington36",
+     "pdfPage": 2547,
+     "page": 2547
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 416,
+     "page": 416
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 391,
+     "page": 369
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q18",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A man with TLS has had vigorous IV fluids, diuretics and rasburicase for 24 hours. He has passed 150 mL of urine in 12 hours, K+ remains 7.0 mmol/L, and phosphate keeps rising.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Add allopurinol",
+    "Repeat the rasburicase dose",
+    "Arrange urgent haemodialysis",
+    "Restrict IV fluids",
+    "Start urinary alkalinisation"
+   ],
+   "answer": 2,
+   "explanation": "Oliguria with **refractory hyperkalaemia and rising phosphate** despite standard therapy is an indication for **early haemodialysis**, before kidney injury becomes irreversible.",
+   "whyNot": [
+    "Allopurinol only prevents new urate formation and will not fix the potassium.",
+    "Urate is not the problem now; potassium and phosphate are.",
+    "",
+    "Fluid restriction does not treat refractory hyperkalaemia.",
+    "Alkalinisation is avoided with high phosphate."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 139,
+     "page": 118
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2547,
+     "page": 2547
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 1185,
+     "page": 1185
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q19",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 16-year-old boy has newly diagnosed Burkitt lymphoma with a large abdominal mass. Before treatment: LDH very high, urate raised, creatinine mildly raised. G6PD screen is normal. Chemotherapy is planned within 24 hours.",
+   "leadIn": "Which prophylactic plan is most appropriate?",
+   "options": [
+    "No prophylaxis; check electrolytes once after the first cycle",
+    "Encourage oral fluids and start allopurinol after chemotherapy",
+    "IV hydration started before treatment plus rasburicase",
+    "Elective haemodialysis before chemotherapy",
+    "Fluid restriction to protect the impaired kidneys"
+   ],
+   "answer": 2,
+   "explanation": "**Step 1 – grade the risk.** Burkitt lymphoma, a bulky mass, high LDH, raised baseline urate and renal impairment all put him at **high risk**.\n**Step 2 – hydrate.** High-risk patients start vigorous IV fluids **before** treatment (Davidson: 24 h ahead) to keep urine output high.\n**Step 3 – choose the urate drug.** Urate is already high, so a drug that only blocks new production is not enough. **Rasburicase** breaks down existing urate, and his normal G6PD makes it safe.\n**Step 4 – monitor** K+ and phosphate very frequently for at least 72 hours.",
+   "whyNot": [
+    "High-risk patients need prophylaxis and frequent monitoring, not a single check.",
+    "Oral fluids are inadequate, and prophylaxis must start before chemotherapy, not after.",
+    "",
+    "Dialysis is for failure of standard measures, not prevention.",
+    "Restricting fluid reduces urine flow and promotes crystal nephropathy."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 428,
+     "page": 404
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 139,
+     "page": 118
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2547,
+     "page": 2547
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q20",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "Thirty hours after starting chemotherapy for AML, a 58-year-old woman feels weak. Results: K+ 6.8 mmol/L, phosphate 2.6 mmol/L, corrected calcium 1.9 mmol/L, urate markedly raised, creatinine 190 µmol/L. She has no tetany.",
+   "leadIn": "Which abnormality poses the most immediate threat to her life?",
+   "options": [
+    "Hyperuricaemia",
+    "Hyperphosphataemia",
+    "Hypocalcaemia",
+    "Hyperkalaemia",
+    "Raised creatinine"
+   ],
+   "answer": 3,
+   "explanation": "**Step 1 – recognise TLS:** three highs (K+, phosphate, urate) and one low (calcium) after induction for a leukaemia.\n**Step 2 – rank the dangers.** Urate and phosphate harm the kidneys over hours to days. Her hypocalcaemia is asymptomatic. **Potassium** can cause a fatal arrhythmia at any moment.\n**Step 3 – act:** ECG, IV calcium gluconate if ECG changes, insulin-dextrose, and continued hydration.",
+   "whyNot": [
+    "Urate drives kidney injury, which is serious but slower.",
+    "Phosphate matters mainly through calcium binding and tubular deposition, not sudden death.",
+    "Her low calcium is asymptomatic and is treated only if symptoms develop.",
+    "",
+    "The creatinine reflects AKI, which is dangerous mainly because it impairs potassium excretion."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1405,
+     "page": 1392
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2547,
+     "page": 2547
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 274,
+     "page": 274
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q21",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 39-year-old man with bulky high-grade lymphoma has just finished his first day of chemotherapy. He is at high risk of TLS.",
+   "leadIn": "Which monitoring plan is most appropriate?",
+   "options": [
+    "Serum urate once at 24 hours",
+    "Serum K+, phosphate, calcium, urate and creatinine regularly for 48–72 hours",
+    "Full blood count weekly",
+    "Serum LDH daily for two weeks",
+    "Serum calcium only, until the next cycle"
+   ],
+   "answer": 1,
+   "explanation": "**Step 1 – timing:** TLS develops in the first days after treatment, so watch closely for **48–72 hours** (at least 72 h in Burkitt).\n**Step 2 – what to measure:** each element of the tetrad (K+, phosphate, calcium, urate) plus **renal function**, because AKI both results from and worsens TLS.\n**Step 3 – the earliest clue** is often a rising potassium.",
+   "whyNot": [
+    "A single urate misses the potassium rise, which is often the earliest and most dangerous change.",
+    "",
+    "The blood count does not detect the metabolic changes of TLS.",
+    "LDH is a pre-treatment marker of bulk, not a monitoring test for lysis.",
+    "Calcium alone misses hyperkalaemia and renal failure."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 194,
+     "page": 194
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 428,
+     "page": 404
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q22",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 68-year-old man with chronic lymphocytic leukaemia and bulky nodes is starting venetoclax.",
+   "leadIn": "Which complication requires particularly close laboratory surveillance as this drug is started?",
+   "options": [
+    "Cardiotoxicity",
+    "Tumour lysis syndrome",
+    "Infertility",
+    "Peripheral neurotoxicity",
+    "Secondary malignancy"
+   ],
+   "answer": 1,
+   "explanation": "**Venetoclax** is specifically associated with TLS at initiation, so electrolytes and renal function are monitored closely.",
+   "whyNot": [
+    "Cardiotoxicity is linked with other agents and is not the early laboratory concern here.",
+    "",
+    "Infertility is a late effect and not monitored with blood chemistry at the start.",
+    "Neurotoxicity is not the specific early risk of this drug.",
+    "Second cancers are a long-term risk, not an early laboratory emergency."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s2"
+   },
+   "cites": [
+    {
+     "book": "washington36",
+     "pdfPage": 2545,
+     "page": 2545
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 194,
+     "page": 194
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A patient with early TLS and a rising phosphate is constipated on day 2 of treatment. Several remedies are suggested.",
+   "leadIn": "Which would most aggravate his hyperphosphataemia?",
+   "options": [
+    "IV normal saline",
+    "An oral phosphate binder",
+    "A phosphate-containing enema",
+    "Haemodialysis",
+    "Rasburicase"
+   ],
+   "answer": 2,
+   "explanation": "Hyperphosphataemia in TLS comes from cellular release and is **made worse by phosphate-containing preparations** (and unwarranted vitamin D).",
+   "whyNot": [
+    "Saline promotes phosphate excretion.",
+    "Binders lower phosphate absorption.",
+    "",
+    "Dialysis removes phosphate.",
+    "Rasburicase acts on urate and does not add phosphate."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 391,
+     "page": 369
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q24",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A pharmacology tutor asks how rasburicase lowers serum urate in tumour lysis syndrome.",
+   "leadIn": "What is its mechanism of action?",
+   "options": [
+    "Inhibits xanthine oxidase",
+    "Oxidises uric acid to soluble allantoin",
+    "Blocks tubular reabsorption of urate",
+    "Binds uric acid in the gut",
+    "Inhibits de novo purine synthesis"
+   ],
+   "answer": 1,
+   "explanation": "Rasburicase is a **recombinant urate oxidase**: it converts existing uric acid to **allantoin**, which is far more soluble. Allopurinol, by contrast, inhibits xanthine oxidase.",
+   "whyNot": [
+    "That is allopurinol's mechanism.",
+    "",
+    "Rasburicase is an enzyme, not a uricosuric.",
+    "It is given IV and acts in the circulation, not in the gut.",
+    "It degrades urate already formed; it does not block purine synthesis."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1405,
+     "page": 1392
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2783,
+     "page": 2783
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 139,
+     "page": 118
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q25",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 3,
+   "stem": "A 26-year-old with high-risk lymphoma received rasburicase yesterday. Today his serum urate is reported as undetectable. K+ is 5.8 mmol/L and creatinine is unchanged.",
+   "leadIn": "What is the best interpretation?",
+   "options": [
+    "Laboratory error; repeat the urate before acting",
+    "TLS has resolved, so monitoring can stop",
+    "An expected drug effect; continue monitoring electrolytes and renal function",
+    "Haemolysis from undiagnosed G6PD deficiency",
+    "Haemolysed sample causing falsely low urate"
+   ],
+   "answer": 2,
+   "explanation": "Rasburicase oxidises urate so effectively that levels can become **undetectable**. That does not mean the lysis has stopped: his potassium is still raised, so keep monitoring K+, phosphate, calcium and creatinine.",
+   "whyNot": [
+    "An undetectable urate after rasburicase is expected, not an error.",
+    "Potassium is still high; TLS has not resolved.",
+    "",
+    "Haemolysis would cause anaemia; it does not explain the undetectable urate.",
+    "In-vitro haemolysis raises potassium; it does not make urate vanish."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1405,
+     "page": 1392
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q26",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 50-year-old man starting chemotherapy for acute leukaemia develops a very high serum urate.",
+   "leadIn": "What is the main clinical risk of this hyperuricaemia?",
+   "options": [
+    "Acute gouty monoarthritis",
+    "Tophaceous gout",
+    "Acute kidney injury",
+    "Pseudogout",
+    "Chronic urate nephropathy"
+   ],
+   "answer": 2,
+   "explanation": "Hyperuricaemia from increased purine turnover during chemotherapy **seldom causes gout**; the danger is urate crystal deposition in the tubules causing **acute kidney injury**.",
+   "whyNot": [
+    "Gout is seldom triggered by treatment-related hyperuricaemia.",
+    "Tophi take years of hyperuricaemia to form.",
+    "",
+    "Pseudogout is due to calcium pyrophosphate, not urate.",
+    "The injury in TLS is acute, not chronic."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1036,
+     "page": 1014
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q27",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A woman with established TLS and AKI complains of bone pain on day 3 of chemotherapy. The team considers analgesia.",
+   "leadIn": "Which drug should be avoided?",
+   "options": [
+    "Paracetamol",
+    "Ibuprofen",
+    "IV normal saline",
+    "Allopurinol",
+    "Insulin with dextrose"
+   ],
+   "answer": 1,
+   "explanation": "In TLS, **NSAIDs and IV contrast** are avoided because they add further insult to kidneys already injured by crystal nephropathy.",
+   "whyNot": [
+    "Paracetamol is not singled out as harmful to the kidney here.",
+    "",
+    "Saline is part of TLS treatment.",
+    "Allopurinol is used to prevent further urate formation.",
+    "Insulin-dextrose is a treatment for hyperkalaemia."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s5"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 416,
+     "page": 416
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q28",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Tumour lysis syndrome: choosing the intervention",
+   "leadIn": "Pick the single best next intervention for each patient below. An option can be chosen for one patient, several patients, or none.",
+   "options": [
+    "IV normal saline hydration alone",
+    "Oral allopurinol",
+    "IV rasburicase",
+    "IV calcium gluconate",
+    "Insulin with dextrose infusion",
+    "Oral phosphate binder",
+    "Haemodialysis",
+    "Urinary alkalinisation with sodium bicarbonate",
+    "Oral vitamin D",
+    "Fluid restriction"
+   ],
+   "items": [
+    {
+     "stem": "A 70-year-old man with lymphoma, a low TLS risk and a normal baseline urate is starting chemotherapy. IV fluids are already running. The team wants an oral drug to stop new uric acid from being made.",
+     "answer": 1,
+     "explanation": "Allopurinol inhibits xanthine oxidase and prevents urate formation. With fluids, it is the standard prophylaxis for lower-risk patients.",
+     "studyRef": {
+      "sectionId": "onc-tls.s5"
+     }
+    },
+    {
+     "stem": "On day 1 after induction for ALL, a 22-year-old has K+ 7.1 mmol/L. The ECG shows absent P waves and a broad QRS.",
+     "answer": 3,
+     "explanation": "With ECG changes of hyperkalaemia, the first priority is myocardial protection with IV calcium gluconate, followed by insulin-dextrose.",
+     "studyRef": {
+      "sectionId": "onc-tls.s5"
+     }
+    },
+    {
+     "stem": "Despite 36 hours of IV fluids, diuretics and a urate-lowering drug, a 47-year-old with TLS is oliguric, K+ stays above 6.5 mmol/L and the calcium × phosphate product keeps climbing.",
+     "answer": 6,
+     "explanation": "Persistent hyperkalaemia and hyperphosphataemia with falling urine output despite standard measures needs early dialysis.",
+     "studyRef": {
+      "sectionId": "onc-tls.s5"
+     }
+    },
+    {
+     "stem": "A 14-year-old with Burkitt lymphoma has a markedly raised urate and bulky disease before treatment. G6PD activity is normal and IV fluids have been started. The team wants to lower the urate that is already present.",
+     "answer": 2,
+     "explanation": "Two steps: urate already present needs an enzyme that breaks it down, not one that blocks new production; with normal G6PD, rasburicase is safe and is the drug of choice in high-risk patients.",
+     "studyRef": {
+      "sectionId": "onc-tls.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 139,
+     "page": 118
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 274,
+     "page": 274
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2547,
+     "page": 2547
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 428,
+     "page": 404
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 416,
+     "page": 416
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q29",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 1,
+   "stem": "A cancer centre audits which patients develop tumour lysis syndrome during their first course of treatment.",
+   "leadIn": "Which tumour is most classically associated with TLS?",
+   "options": [
+    "Localised prostate adenocarcinoma",
+    "Early-stage breast carcinoma",
+    "Burkitt lymphoma",
+    "Papillary thyroid carcinoma",
+    "Basal cell carcinoma"
+   ],
+   "answer": 2,
+   "explanation": "TLS is most common when treating **high-grade lymphomas (especially Burkitt)** and acute leukaemias: fast-growing, bulky, chemosensitive tumours.",
+   "whyNot": [
+    "A localised, slow-growing solid tumour has too little turnover.",
+    "Early breast cancer has a small burden; TLS is very rare with solid tumours.",
+    "",
+    "A slow-growing solid tumour with low burden.",
+    "A small, locally invasive skin cancer that is not treated with intensive chemotherapy."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s2"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 416,
+     "page": 416
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q30",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 34-year-old woman with bulky acute lymphoblastic leukaemia is judged to be at high risk of tumour lysis syndrome. Induction chemotherapy is planned.",
+   "leadIn": "When should IV hydration begin?",
+   "options": [
+    "About 24 hours before chemotherapy starts",
+    "Only once serum potassium starts to rise",
+    "Three days after chemotherapy",
+    "Only after rasburicase has been given",
+    "After the full course is completed"
+   ],
+   "answer": 0,
+   "explanation": "Davidson advises starting hydration **24 hours before treatment** in high-risk patients and maintaining a good urine output throughout.",
+   "whyNot": [
+    "",
+    "Waiting for hyperkalaemia means prevention has already failed.",
+    "TLS occurs in the first 48–72 hours, so this is too late.",
+    "Hydration is the cornerstone and is not delayed for drug therapy.",
+    "Hydration is needed during treatment, when lysis happens."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q31",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 61-year-old man develops AKI after the first dose of chemotherapy for acute leukaemia. Urine microscopy shows crystals.",
+   "leadIn": "Which type of crystal is most likely?",
+   "options": [
+    "Calcium oxalate",
+    "Uric acid",
+    "Cystine",
+    "Sulphonamide",
+    "Cholesterol"
+   ],
+   "answer": 1,
+   "explanation": "**Uric acid crystals** form from tumour lysis, typically as a **first-dose effect** of chemotherapy in haematological malignancy.",
+   "whyNot": [
+    "Oxalate crystals follow fat malabsorption or ethylene glycol.",
+    "",
+    "Cystine crystals reflect an inherited tubular disorder, not chemotherapy.",
+    "Sulphonamide crystals follow sulphonamide drugs.",
+    "Cholesterol emboli are not urinary crystals of tumour lysis."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 449,
+     "page": 427
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 434,
+     "page": 412
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 453,
+     "page": 431
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q32",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 1,
+   "stem": "A 44-year-old woman develops tumour lysis syndrome after chemotherapy for high-grade lymphoma.",
+   "leadIn": "Which serum value is expected to be low?",
+   "options": [
+    "Potassium",
+    "Phosphate",
+    "Uric acid",
+    "Calcium",
+    "Creatinine"
+   ],
+   "answer": 3,
+   "explanation": "Remember **PUKE Calcium**: phosphate, urate and K+ are elevated; **calcium is low** because phosphate binds it.",
+   "whyNot": [
+    "Potassium is released from cells and rises.",
+    "Phosphate is released from cells and rises.",
+    "Urate rises from nucleic acid breakdown.",
+    "",
+    "Creatinine rises if AKI develops."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s1"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "pdfPage": 798,
+     "page": 798
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    }
+   ]
+  },
+  {
+   "id": "onc-tls.q33",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 57-year-old man with TLS has a markedly raised serum phosphate and is asymptomatic. He is passing urine and his potassium is controlled.",
+   "leadIn": "Which measure does Davidson recommend to promote phosphate excretion?",
+   "options": [
+    "Oral vitamin D",
+    "IV normal saline",
+    "IV calcium gluconate",
+    "Urinary alkalinisation with sodium bicarbonate",
+    "Oral phosphate-containing laxative"
+   ],
+   "answer": 1,
+   "explanation": "Davidson treats hyperphosphataemia from tumour lysis with **IV normal saline**, which increases phosphate excretion. Phosphate binders are another option.",
+   "whyNot": [
+    "Vitamin D increases phosphate absorption and aggravates the problem.",
+    "",
+    "Calcium is given only for symptomatic hypocalcaemia or hyperkalaemia; with high phosphate it risks metastatic calcification.",
+    "Alkalinisation increases calcium phosphate precipitation when phosphate is high.",
+    "Phosphate-containing preparations worsen hyperphosphataemia."
+   ],
+   "studyRef": {
+    "sectionId": "onc-tls.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 391,
+     "page": 369
+    },
+    {
+     "book": "washington36",
+     "pdfPage": 2547,
+     "page": 2547
+    }
+   ]
+  }
+ ],
+ "ospe": [],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:30:26.323Z",
+  "contentHash": "89d038df779eb0a5d6c25598c53233b3970651186afc00e8f99fd528eae0de2d"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:30:26.374Z",
+  "contentHash": "89d038df779eb0a5d6c25598c53233b3970651186afc00e8f99fd528eae0de2d",
+  "checkerVersion": "source-check-v1"
+ }
+}

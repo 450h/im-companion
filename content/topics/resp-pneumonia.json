@@ -1,0 +1,3718 @@
+{
+ "topicId": "resp-pneumonia",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "resp-pneumonia.s1",
+   "title": "Definitions and classification",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Davidson defines pneumonia as an **acute respiratory illness** with **newly appeared shadowing on chest imaging**, which may be segmental, lobar or multilobar. Kumar describes it as **inflammation of the lung substance**, usually bacterial and occasionally viral or fungal, typically presenting with acute cough, purulent sputum, breathlessness and fever plus clinical or radiological **consolidation**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 604,
+       "page": 582
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 981,
+       "page": 963
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "A practical bedside definition: **compatible symptoms** (fever, cough, purulent sputum, dyspnoea) **plus a new infiltrate** on chest imaging. No new shadow, no pneumonia.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 418,
+       "page": 418
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Classification by setting (setting predicts the organism)",
+     "columns": [
+      "Category",
+      "Definition",
+      "Usual organisms"
+     ],
+     "rows": [
+      [
+       "Community-acquired (CAP)",
+       "Acquired outside hospital",
+       "**Strep. pneumoniae** commonest; atypicals; viruses"
+      ],
+      [
+       "Hospital-acquired (HAP, nosocomial)",
+       "New pneumonia **≥ 2 days (48 h) after admission**",
+       "Early onset (within 4–5 days): CAP-like. Late onset: Gram-negatives, Staph. aureus incl. MRSA, anaerobes"
+      ],
+      [
+       "Ventilator-associated (VAP)",
+       "HAP in a **mechanically ventilated** ICU patient (≥ 48 h after intubation)",
+       "Often multidrug-resistant Gram-negatives, e.g. _Acinetobacter baumannii_"
+      ],
+      [
+       "Health-care-associated (HCAP)",
+       "≥ 2 days in hospital in the past **90 days**, haemodialysis, IV antibiotics, or nursing/long-term care residence",
+       "Higher risk of resistant organisms"
+      ],
+      [
+       "Aspiration",
+       "Inhaled oropharyngeal or gastric material",
+       "Mixed oral **anaerobes and aerobes**"
+      ],
+      [
+       "Immunocompromised host",
+       "Drug- or disease-induced (especially HIV)",
+       "Usual organisms **plus opportunists**: Pneumocystis, fungi, mycobacteria, Nocardia, P. aeruginosa"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 604,
+       "page": 582
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 607,
+       "page": 585
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 608,
+       "page": 586
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 609,
+       "page": 587
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 418,
+       "page": 418
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 985,
+       "page": 967
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other terms you must be able to define",
+     "items": [
+      "**Lobar pneumonia**: uniform consolidation of one or more whole lobes, often with pleural inflammation.",
+      "**Bronchopneumonia**: patchy alveolar consolidation centred on inflamed bronchi and bronchioles, frequently in **both lower lobes**.",
+      "**Atypical pneumonia**: caused by organisms that do not grow on routine culture and are not seen on Gram stain; they **do not respond to penicillins** but do respond to macrolides, tetracyclines and fluoroquinolones.",
+      "**Aspiration pneumonitis**: chemical lung injury from inhaled gastric contents **without infection**; secondary bacterial infection may follow within 24–72 h.",
+      "**Lung abscess**: localised suppuration with a **cavity** on CXR or CT, often with a **fluid level** (always an air–liquid interface).",
+      "**Empyema**: pus in the pleural space."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 604,
+       "page": 582
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 112,
+       "page": 112
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 418,
+       "page": 418
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 984,
+       "page": 966
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**HAP definition differs between books.** Davidson: a new pneumonia at least **2 days after admission**, with HCAP (healthcare contact in the last **90 days**) kept as a separate category. Kumar and K&C Essentials stretch HAP to include anyone in a healthcare setting (including nursing homes) in the last **3 months**. Use Davidson’s wording in the exam.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 607,
+       "page": 585
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 985,
+       "page": 967
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 574,
+       "page": 537
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.s2",
+   "title": "Aetiology: organisms and clinical clues",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Streptococcus pneumoniae** is the single commonest cause of CAP (35–80% of UK cases in K&C Essentials). Spread is mostly by **droplets**. In 30–50% of cases no organism is ever identified, and about 20% are **mixed infections** (Kumar). US data in Pocket Medicine find no pathogen in 50–60% and a virus alone in about a quarter.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 604,
+       "page": 582
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 982,
+       "page": 964
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 571,
+       "page": 534
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 418,
+       "page": 418
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "CAP organisms (Davidson)",
+     "items": [
+      "**Bacteria**: Strep. pneumoniae, Mycoplasma pneumoniae, Legionella pneumophila, Chlamydia pneumoniae, Haemophilus influenzae, Staph. aureus, Chlamydia psittaci, Coxiella burnetii (Q fever), Klebsiella pneumoniae.",
+      "**Viruses**: influenza and parainfluenza, measles, herpes simplex, varicella, adenovirus, CMV, **coronaviruses** (SARS-CoV, MERS-CoV)."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 604,
+       "page": 582
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Clinical clue → likely organism",
+     "columns": [
+      "Clue",
+      "Think of"
+     ],
+     "rows": [
+      [
+       "Young adult; headache and malaise for days before chest symptoms; few chest signs",
+       "**Mycoplasma pneumoniae**"
+      ],
+      [
+       "Older patient with COPD or other chronic lung disease",
+       "**H. influenzae** (also Moraxella catarrhalis)"
+      ],
+      [
+       "Hotel or institutional stay, contaminated water/cooling towers/air-conditioning; hyponatraemia, lymphopenia",
+       "**Legionella pneumophila**"
+      ],
+      [
+       "Recent influenza; IV drug use or central line (staphylococcal septicaemia)",
+       "**Staph. aureus**"
+      ],
+      [
+       "Alcohol misuse; severe bacteraemic illness",
+       "**Klebsiella pneumoniae**"
+      ],
+      [
+       "Contact with birds, especially parrots",
+       "**Chlamydia psittaci**"
+      ],
+      [
+       "Farm animals, abattoir or hide workers",
+       "**Coxiella burnetii** (Q fever)"
+      ],
+      [
+       "Cystic fibrosis or bronchiectasis",
+       "**Pseudomonas aeruginosa**"
+      ],
+      [
+       "Herpes labialis, rust-coloured sputum",
+       "**Strep. pneumoniae**"
+      ],
+      [
+       "Recent travel to the Middle East",
+       "**MERS coronavirus**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 605,
+       "page": 583
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 571,
+       "page": 534
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 574,
+       "page": 537
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 576,
+       "page": 539
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 418,
+       "page": 418
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 112,
+       "page": 112
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Factors that predispose to pneumonia",
+     "items": [
+      "Smoking, alcohol, recent URTI or **influenza**, old age (and Kumar adds age < 16).",
+      "**Pre-existing lung disease**: COPD, bronchiectasis, cystic fibrosis, an obstructing lesion.",
+      "Immune impairment: **glucocorticoids** and other immunosuppressants, **HIV**, diabetes, CKD, malnutrition.",
+      "IV drug use; indoor air pollution."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 604,
+       "page": 582
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 982,
+       "page": 964
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Hospital-acquired pneumonia: organisms and risk factors",
+     "items": [
+      "**Organisms**: Gram-negative bacilli (Pseudomonas, E. coli, Klebsiella, Enterobacter, Acinetobacter) and **Staph. aureus including MRSA**; IV antibiotics within the last 90 days raise the risk of multidrug resistance.",
+      "**Weakened defences**: steroids, diabetes, malignancy, poor post-operative cough, bulbar or vocal cord palsy.",
+      "**Aspiration**: reduced consciousness, immobility, dysphagia (especially after **stroke**), nasogastric tubes.",
+      "**Organisms carried into the airway**: endotracheal tubes, tracheostomy, contaminated nebulisers or ventilators.",
+      "**Bacteraemia**: abdominal sepsis, infected IV cannula, septic emboli."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 607,
+       "page": 585
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 608,
+       "page": 586
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 985,
+       "page": 967
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 418,
+       "page": 418
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Aspiration and the immunocompromised host",
+     "items": [
+      "Aspiration and suppurative pneumonia: mixed oral flora, e.g. **Prevotella, Fusobacterium, Bacteroides fragilis**. An abscess in a previously **healthy lung** suggests **Staph. aureus or Klebsiella**.",
+      "Inhaled **gastric acid** (classically during anaesthesia, especially in pregnancy) causes a destructive chemical pneumonia: **Mendelson’s syndrome**.",
+      "Immunocompromised: consider Gram-negatives (especially **P. aeruginosa**), viruses, fungi, mycobacteria and **Nocardia**; infection is often polymicrobial, and pneumonia is the leading cause of death in this group.",
+      "**Pneumocystis jirovecii**: long-term steroids, methotrexate or monoclonal antibodies, transplant anti-rejection drugs, HIV with a low CD4 count."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 608,
+       "page": 586
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 609,
+       "page": 587
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 985,
+       "page": 967
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 112,
+       "page": 112
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Atypical organisms: “**Legions of psittaci MCQs**” = **Legion**ella, Chlamydia **psittaci**, **M**ycoplasma, **C**hlamydophila pneumoniae, **Q** fever (Coxiella).",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 112,
+       "page": 112
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Legionella** is likely when **3 of 4** are present: a viral-type prodrome; dry cough, confusion or diarrhoea; **lymphopenia** without a big leucocytosis; **hyponatraemia**. The exam patient has just come back from a hotel holiday.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 576,
+       "page": 539
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 112,
+       "page": 112
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Where aspirated material lands depends on posture and bronchial anatomy. Davidson: **dependent segments**, e.g. the **apical segment of the lower lobe** when supine. Kumar: **right middle lobe** and the apical/posterior segments of the **right lower lobe**. K&C Essentials: the **posterior segment of the right lower lobe**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 608,
+       "page": 586
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 985,
+       "page": 967
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 576,
+       "page": 539
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.s3",
+   "title": "Clinical features and severity (CURB-65)",
+   "objectiveIdx": [
+    2,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Symptoms",
+     "items": [
+      "Systemic upset dominates: **fever, rigors**, malaise, loss of appetite, headache, sometimes **delirium**.",
+      "Cough is at first **short, painful and dry**, later producing **mucopurulent** sputum; **rust-coloured** sputum suggests pneumococcus; occasional haemoptysis.",
+      "**Pleuritic pain**, which may be referred to the **shoulder or anterior abdominal wall**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 604,
+       "page": 582
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 605,
+       "page": 583
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Examination",
+     "items": [
+      "Start with **respiratory rate, pulse, BP and mental state**: these drive the severity judgement.",
+      "Consolidation: **dull percussion**, **bronchial breathing** (as loud in expiration as inspiration), **whispering pectoriloquy** and coarse **crackles**.",
+      "The lung passes through exudation, **red then grey hepatisation**, and resolution.",
+      "Herpes labialis points to pneumococcus."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 605,
+       "page": 583
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 111,
+       "page": 111
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Extrapulmonary clues (Kumar)",
+     "columns": [
+      "Feature",
+      "Most typical of"
+     ],
+     "rows": [
+      [
+       "Myalgia, arthralgia, malaise",
+       "Legionella, Mycoplasma"
+      ],
+      [
+       "Myocarditis, pericarditis",
+       "Mycoplasma"
+      ],
+      [
+       "Headache, hepatitis",
+       "Legionella"
+      ],
+      [
+       "Labial herpes simplex",
+       "Pneumococcus"
+      ],
+      [
+       "Erythema multiforme, erythema nodosum",
+       "Mycoplasma"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 982,
+       "page": 964
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Older patients often present **atypically**, with **delirium** or recurrent **falls** rather than cough or breathlessness, and may not mount a fever. Absent fever in the elderly is itself listed as a marker of severe CAP.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 608,
+       "page": 586
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 982,
+       "page": 964
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 571,
+       "page": 534
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "CURB-65 (Davidson, hospital): 1 point each",
+     "columns": [
+      "Letter",
+      "Criterion"
+     ],
+     "rows": [
+      [
+       "C",
+       "**Confusion**: mental test score ≤ 8, or new disorientation in person, place or time"
+      ],
+      [
+       "U",
+       "**Urea > 7 mmol/L**"
+      ],
+      [
+       "R",
+       "**Respiratory rate > 30/min**"
+      ],
+      [
+       "B",
+       "**BP**: systolic < 90 mmHg or diastolic < 60 mmHg"
+      ],
+      [
+       "65",
+       "**Age > 65 years**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 605,
+       "page": 583
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "What the score means (Davidson)",
+     "columns": [
+      "Score",
+      "Action"
+     ],
+     "rows": [
+      [
+       "0–1",
+       "Likely suitable for **home treatment**"
+      ],
+      [
+       "2",
+       "**Hospital-supervised** treatment: short-stay admission or supervised outpatient care"
+      ],
+      [
+       "≥ 3",
+       "Manage in hospital as **severe pneumonia**; assess for **ICU**, especially at **4–5**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 605,
+       "page": 583
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Respiratory medicine",
+      "pdfPage": 605,
+      "page": 583,
+      "figure": "Fig. 17.32"
+     },
+     "note": "Look at: the hospital CURB-65 algorithm — five features on the left, three management boxes by score on the right."
+    },
+    {
+     "type": "bullets",
+     "title": "Other markers of severe CAP",
+     "items": [
+      "More than one lobe involved on CXR.",
+      "**PaO2 < 8 kPa** or a rising PaCO2.",
+      "Albumin **< 35 g/L**; **hyponatraemia**.",
+      "WCC **< 4 or > 20 × 10⁹/L**.",
+      "**Positive blood culture**.",
+      "Comorbidities; absence of fever in the elderly."
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 572,
+       "page": 535
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 573,
+       "page": 536
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 982,
+       "page": 964
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 606,
+       "page": 584
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**CRB-65** drops the urea and is used in the community where a blood result is not available. Mortality rises with the score: under 5% at 1, about 15% at 3, over 25% at 4–5.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 982,
+       "page": 964
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 111,
+       "page": 111
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Cut-offs differ by source.** Davidson: RR **> 30**, diastolic **< 60**, age **> 65**, confusion = mental test score **≤ 8**. Zero to Finals (NICE): RR **≥ 30**, diastolic **≤ 60**, age **≥ 65**. Kumar: confusion = AMT **< 10**. Kumar also says a score of 3+ “often needs ITU”, whereas Davidson says treat as severe and assess for ICU especially at 4–5. Follow Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 605,
+       "page": 583
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 111,
+       "page": 111
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 982,
+       "page": 964
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 572,
+       "page": 535
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.s4",
+   "title": "Investigations",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Investigations aim to **confirm the diagnosis**, **grade severity** and **detect complications**. Mild CAP treated at home needs **no microbiology** and no routine CXR unless it fails to improve. Every admitted patient needs at least a **CXR, FBC, U&E and CRP**; moderate–severe cases add **sputum and blood cultures** (before antibiotics) and **urinary Legionella and pneumococcal antigens**. Offer an **HIV test** to everyone with pneumonia.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 605,
+       "page": 583
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 982,
+       "page": 964
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 983,
+       "page": 965
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 112,
+       "page": 112
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Blood tests in CAP (Davidson)",
+     "columns": [
+      "Test",
+      "Finding and meaning"
+     ],
+     "rows": [
+      [
+       "FBC",
+       "WCC **> 20 or < 4 × 10⁹/L** = severity marker; neutrophils **> 15 × 10⁹/L** suggest a bacterial cause; haemolytic anaemia occasionally with Mycoplasma"
+      ],
+      [
+       "U&E",
+       "**Urea > 7 mmol/L** and **hyponatraemia** = severity markers"
+      ],
+      [
+       "LFT",
+       "Deranged if a basal pneumonia inflames the liver; **low albumin** = severity marker"
+      ],
+      [
+       "ESR/CRP",
+       "Raised but non-specific"
+      ],
+      [
+       "Blood culture",
+       "**Bacteraemia** = severity marker"
+      ],
+      [
+       "Cold agglutinins",
+       "Positive in about **50% of Mycoplasma**"
+      ],
+      [
+       "ABG",
+       "When **SaO2 < 93%** or clinically severe: ventilatory failure, acidosis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 606,
+       "page": 584
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Bloods that hint at the organism",
+     "columns": [
+      "Organism",
+      "Typical pattern"
+     ],
+     "rows": [
+      [
+       "Strep. pneumoniae",
+       "Neutrophil leucocytosis; very high inflammatory markers"
+      ],
+      [
+       "Mycoplasma",
+       "WCC usually **normal**; if anaemic check **Coombs test** and **cold agglutinins** (haemolysis)"
+      ],
+      [
+       "Legionella",
+       "**Lymphopenia** without marked leucocytosis, **hyponatraemia**, low albumin, raised transaminases"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 983,
+       "page": 965
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 572,
+       "page": 535
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 573,
+       "page": 536
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Microbiology",
+     "items": [
+      "**Sputum** Gram stain and culture; a good sample has < 10 squamous cells per low-power field, and bacterial pneumonia gives a purulent sample.",
+      "**Blood cultures** before antibiotics in moderate–severe CAP.",
+      "**Urinary antigens**: pneumococcal (sensitivity about 70%, specificity > 90%); Legionella antigen detects only **serogroup 1**, so a negative test does not exclude Legionella.",
+      "**Oropharyngeal PCR** for Mycoplasma and other atypicals.",
+      "**Serology**: Mycoplasma IgM, or a **four-fold rise** in titre between an early and a 10–14-day sample."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 606,
+       "page": 584
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 983,
+       "page": 965
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 419,
+       "page": 419
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 573,
+       "page": 536
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Chest X-ray",
+     "items": [
+      "**Lobar pneumonia**: patchy opacity becoming uniform lobar consolidation, often with an **air bronchogram**.",
+      "**Bronchopneumonia**: patchy, segmental shadowing.",
+      "**Staph. aureus**: multilobar shadowing, **cavitation, pneumatoceles**, abscesses.",
+      "**Right middle lobe** pneumonia: opacity below the horizontal fissure and loss of the **right heart border**.",
+      "CXR changes can **lag behind** the clinical picture: if the first film is normal but CAP is suspected, repeat it after 2–3 days.",
+      "A CXR some weeks later (about **6 weeks**) checks for an underlying **bronchial carcinoma**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 606,
+       "page": 584
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 982,
+       "page": 964
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 572,
+       "page": 535
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Respiratory medicine",
+      "pdfPage": 604,
+      "page": 582,
+      "figure": "Fig. 17.31"
+     },
+     "note": "Look at: sputum Gram stain — Gram-positive diplococci (Strep. pneumoniae)."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Respiratory medicine",
+      "pdfPage": 606,
+      "page": 584,
+      "figure": "Fig. 17.33"
+     },
+     "note": "Look at: right middle lobe consolidation — opacity under the horizontal fissure, lost right heart border; lateral view shows the anterior middle lobe."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kcEssentials",
+      "chapter": "Respiratory disease",
+      "pdfPage": 573,
+      "page": 536,
+      "figure": "Fig. 11.5"
+     },
+     "note": "Look at: left lower zone lobar pneumonia — ill-defined opacity with no volume loss (trachea and mediastinum central)."
+    },
+    {
+     "type": "bullets",
+     "title": "HAP and the immunocompromised",
+     "items": [
+      "Suspect **HAP** with purulent sputum or secretions, new infiltrates, an unexplained rise in oxygen need, core temperature **> 38.3°C**, and leucocytosis or leucopenia.",
+      "Unlike CAP, **seek microbiological proof** in HAP: in ventilated patients use BAL, protected brush specimens or endotracheal aspirates.",
+      "Immunocompromised HRCT: **focal unilateral** opacity favours bacteria, mycobacteria or Nocardia; **bilateral** opacity favours Pneumocystis, fungi or viruses; a **halo sign** suggests aspergillosis; effusions point to pyogenic bacteria and are **uncommon in Pneumocystis**.",
+      "**Pneumocystis** CXR: diffuse bilateral shadowing starting **perihilar** and spreading out like a **butterfly**; confirm by immunofluorescence on **induced sputum or BAL**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 607,
+       "page": 585
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 608,
+       "page": 586
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 609,
+       "page": 587
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 985,
+       "page": 967
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Differential diagnosis",
+     "items": [
+      "Pulmonary infarction/embolism; pulmonary oedema (can be unilateral); pulmonary haemorrhage.",
+      "Pulmonary or pleural **tuberculosis**.",
+      "Pulmonary eosinophilia; hypersensitivity pneumonitis; cryptogenic organising pneumonia.",
+      "Malignancy, e.g. bronchial or bronchoalveolar cell carcinoma."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 605,
+       "page": 583
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 573,
+       "page": 536
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Procalcitonin** rises in bacterial but not viral pneumonia. **CRP lags**: it can be modest on arrival and peak a day or two later even while the patient improves, whereas the WCC changes faster. Immunocompromised patients may not raise their markers at all.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 419,
+       "page": 419
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 113,
+       "page": 113
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Symptoms lasting **more than 2–3 weeks**, especially with **weight loss or night sweats**, should make you think of TB or fungal infection rather than ordinary CAP.",
+     "cites": [
+      {
+       "book": "washington36",
+       "chapter": "Infectious diseases",
+       "pdfPage": 1359,
+       "page": 1359
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.s5",
+   "title": "Management",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The three pillars are **oxygen, fluid balance and antibiotics**, with nutritional support in severe or prolonged illness. The first antibiotic dose should be given **promptly**: Kumar says within **1 hour** of recognising high-risk features, without waiting for results.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 605,
+       "page": 583
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 983,
+       "page": 965
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Supportive care",
+     "items": [
+      "**Oxygen** to keep **PaO2 ≥ 8 kPa (60 mmHg)** or **SaO2 ≥ 92%**; high concentrations (≥ 35%) unless the patient has **hypercapnic COPD**. Consider **CPAP** in HDU/ICU if hypoxia persists.",
+      "**IV fluids** if severe, elderly or vomiting; antihypertensives may need to be paused.",
+      "**Analgesia** for pleuritic pain (paracetamol, co-codamol, NSAIDs; opiates only with great care).",
+      "**Physiotherapy** is not routine; it helps only if pain makes the patient suppress cough.",
+      "Admitted patients: **LMWH thromboprophylaxis** and **TED stockings** unless contraindicated."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 605,
+       "page": 583
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 606,
+       "page": 584
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 983,
+       "page": 965
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Empirical CAP antibiotics (Davidson Box 17.40, adapted from BTS)",
+     "columns": [
+      "Situation",
+      "Regimen"
+     ],
+     "rows": [
+      [
+       "Uncomplicated CAP",
+       "**Oral amoxicillin 500 mg three times daily**"
+      ],
+      [
+       "Penicillin allergy",
+       "Oral **clarithromycin** 500 mg twice daily (or erythromycin)"
+      ],
+      [
+       "Staphylococcus suspected or cultured",
+       "IV **flucloxacillin** 1–2 g four times daily **plus** IV clarithromycin"
+      ],
+      [
+       "Mycoplasma or Legionella suspected",
+       "**Clarithromycin** (or erythromycin), adding IV **rifampicin** in severe cases"
+      ],
+      [
+       "Severe CAP",
+       "IV **clarithromycin plus** IV co-amoxiclav **or** ceftriaxone **or** cefuroxime (alternative: IV amoxicillin plus flucloxacillin)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 607,
+       "page": 585
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Route and duration",
+     "items": [
+      "**5 days** is enough for most uncomplicated pneumonia; **Legionella, staphylococcal and Klebsiella** pneumonia need longer.",
+      "Oral treatment is adequate unless the illness is severe, consciousness is impaired, the swallow is lost, or absorption is unreliable.",
+      "Switch IV to oral once the patient has been **afebrile for 24 h**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 606,
+       "page": 584
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 983,
+       "page": 965
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 575,
+       "page": 538
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Specific organisms",
+     "columns": [
+      "Organism",
+      "Treatment"
+     ],
+     "rows": [
+      [
+       "Mycoplasma",
+       "Macrolide (clarithromycin, erythromycin or azithromycin) for 7–10 days"
+      ],
+      [
+       "Legionella",
+       "Clarithromycin, ciprofloxacin or rifampicin for **14–21 days**"
+      ],
+      [
+       "Staph. aureus",
+       "**IV flucloxacillin**"
+      ],
+      [
+       "H. influenzae",
+       "Oral amoxicillin"
+      ],
+      [
+       "Chlamydia",
+       "Macrolide or tetracycline"
+      ],
+      [
+       "Pseudomonas",
+       "IV ceftazidime, ciprofloxacin or tobramycin"
+      ],
+      [
+       "Pneumocystis",
+       "**High-dose co-trimoxazole**, plus corticosteroids if HIV-positive"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 574,
+       "page": 537
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 576,
+       "page": 539
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 607,
+       "page": 585
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 985,
+       "page": 967
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Other settings (Davidson)",
+     "columns": [
+      "Setting",
+      "Empirical choice"
+     ],
+     "rows": [
+      [
+       "Early-onset HAP, no recent antibiotics",
+       "**Co-amoxiclav or cefuroxime**"
+      ],
+      [
+       "HAP after recent antibiotics",
+       "**Piperacillin–tazobactam** or a 3rd-generation cephalosporin"
+      ],
+      [
+       "Late-onset HAP",
+       "Antipseudomonal cover (**meropenem**, antipseudomonal cephalosporin or piperacillin–tazobactam) **plus MRSA cover** (vancomycin or linezolid). _A. baumannii_: usually carbapenem-sensitive; colistin if resistant"
+      ],
+      [
+       "Aspiration pneumonia",
+       "**Amoxicillin plus metronidazole**"
+      ],
+      [
+       "Immunocompromised, bacterial picture (neutropenia, rapid onset)",
+       "Start broad cover at once: 3rd-generation cephalosporin or quinolone **plus** antistaphylococcal agent, or antipseudomonal penicillin **plus** aminoglycoside"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 608,
+       "page": 586
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 609,
+       "page": 587
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Refer to ITU (Davidson Box 17.39)",
+     "items": [
+      "CURB-65 **4–5** and not responding quickly.",
+      "Persistent hypoxia: **PaO2 < 8 kPa** despite high-flow oxygen.",
+      "**Progressive hypercapnia** or **severe acidosis**.",
+      "**Circulatory shock**.",
+      "**Falling conscious level**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 606,
+       "page": 584
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Prognosis and follow-up.** Fever can last several days and the CXR may take **weeks to months** to clear, especially in the elderly. A repeat CXR before discharge is unnecessary if recovery is good; arrange review at about **6 weeks**, with a CXR if symptoms or signs persist or malignancy is suspected. Mortality: **< 1%** in non-severe adult CAP, **5–10%** in hospital, up to **50%** in severe disease; HAP about **30%**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 607,
+       "page": 585
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 608,
+       "page": 586
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Aspiration pneumonia regimen differs.** Davidson: **amoxicillin + metronidazole**, noting that co-amoxiclav covers the same organisms but raises the risk of **C. difficile**. Kumar: co-amoxiclav for mild–moderate disease. K&C Essentials: always include metronidazole. Davidson is the exam answer.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 609,
+       "page": 587
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 985,
+       "page": 967
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 576,
+       "page": 539
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Course length varies.** Davidson: **5 days** for uncomplicated pneumonia. Zero to Finals: 5 days for mild, 7–10 days of dual therapy for moderate–severe. K&C Essentials: 7–10 days in total. Pocket Medicine: CAP 5–7 days, HAP/VAP 7 days, empyema/abscess 2–6 weeks.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 606,
+       "page": 584
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 113,
+       "page": 113
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 575,
+       "page": 538
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 420,
+       "page": 420
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "US books use different empirical regimens: ward CAP = **ceftriaxone + azithromycin** or a respiratory fluoroquinolone; HAP/VAP = piperacillin–tazobactam, cefepime or a carbapenem **plus** vancomycin or linezolid. Also: **daptomycin is inactive in the lung**, avoid quinolones if **TB** is possible, and steroids are **not routine** in CAP (avoid in influenza).",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 420,
+       "page": 420
+      },
+      {
+       "book": "washington36",
+       "chapter": "Infectious diseases",
+       "pdfPage": 1361,
+       "page": 1361
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.s6",
+   "title": "Complications, slow resolution and lung abscess",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Complications of pneumonia (Davidson Box 17.41)",
+     "items": [
+      "**Parapneumonic effusion** (common) and **empyema**.",
+      "**Lobar collapse** from retained sputum.",
+      "**DVT and pulmonary embolism**.",
+      "**Pneumothorax**, particularly with **Staph. aureus**.",
+      "Suppurative pneumonia and **lung abscess**; ectopic abscesses (Staph. aureus).",
+      "**ARDS**, renal failure, multi-organ failure.",
+      "Hepatitis, pericarditis, myocarditis, meningoencephalitis.",
+      "Arrhythmias such as **AF**; fever due to drug hypersensitivity."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 607,
+       "page": 585
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 113,
+       "page": 113
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Parapneumonic effusions** complicate roughly one-third to one-half of CAP and are usually simple exudates. Suspect **empyema** when fever and inflammatory markers stay high despite the right antibiotics. Aspirate any more-than-trivial effusion under **ultrasound guidance** and send it for Gram stain, culture, protein, glucose and LDH (Light’s criteria), with **pH** as well. An empyema needs **urgent drainage**, a longer antibiotic course, and sometimes thoracic surgery.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 983,
+       "page": 965
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 984,
+       "page": 966
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 606,
+       "page": 584
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 419,
+       "page": 419
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 420,
+       "page": 420
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Why is the pneumonia not resolving?",
+     "columns": [
+      "Category",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Wrong or inadequate antibiotic",
+       "Resistance (MRSA, Pseudomonas), wrong dose or duration, poor adherence, malabsorption"
+      ],
+      [
+       "Complication",
+       "Parapneumonic effusion, empyema, lung abscess"
+      ],
+      [
+       "Underlying lesion",
+       "Obstructing bronchial tumour, bronchiectasis, TB, recurrent aspiration"
+      ],
+      [
+       "Wrong diagnosis",
+       "PE, cryptogenic organising pneumonia, eosinophilic pneumonia, pulmonary haemorrhage, heart failure"
+      ],
+      [
+       "Not enough time",
+       "Improvement can take **≥ 72 h**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 983,
+       "page": 965
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 419,
+       "page": 419
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 607,
+       "page": 585
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 420,
+       "page": 420
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Lung abscess and suppurative pneumonia",
+     "items": [
+      "**Causes**: aspiration, Staph. aureus or Klebsiella pneumonia, inadequately treated CAP, bronchial obstruction (tumour, **foreign body**), septic emboli, TB, infarction, spread from an amoebic liver abscess.",
+      "**Risk factors** for aspiration: poor dentition, alcohol, sedation, seizures, stroke, bulbar palsy.",
+      "**Features**: large volumes of sputum, often **foul-smelling** and blood-stained (a sudden gush if the abscess ruptures into a bronchus), **high swinging fever**, pleural rub, weight loss; **clubbing** can appear within **10–14 days**.",
+      "**Imaging**: cavity with an **air–fluid level**; CT; **bronchoscopy** to exclude carcinoma or a foreign body.",
+      "**Treatment**: prolonged antibiotics (**4–6 weeks** in some); physiotherapy; surgery if no response; remove any obstructing lesion. Pulmonary actinomycosis needs **6–12 months** of penicillin."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 984,
+       "page": 966
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 985,
+       "page": 967
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 577,
+       "page": 540
+      },
+      {
+       "book": "washington36",
+       "chapter": "Infectious diseases",
+       "pdfPage": 1363,
+       "page": 1363
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 609,
+       "page": 587
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 608,
+       "page": 586
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Named abscess syndromes: **PVL-producing CA-MRSA** → rapidly progressive necrotising pneumonia. **Lemierre’s syndrome** (Fusobacterium necrophorum) → sore throat, then internal jugular thrombosis and septic lung abscesses. **IV drug users** → blood-borne abscesses with **tricuspid** endocarditis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 608,
+       "page": 586
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 609,
+       "page": 587
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Staph. aureus** pneumonia: patchy consolidation breaking down into abscesses seen as **cysts** on CXR; pneumothorax, effusion and empyema are common, and mortality exceeds **25%**.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Respiratory disease",
+       "pdfPage": 576,
+       "page": 539
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.s7",
+   "title": "Prevention",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Community-acquired pneumonia",
+     "items": [
+      "**Stop smoking**: smoking is an independent risk factor for CAP.",
+      "**Influenza and pneumococcal vaccines** for those at highest risk: age **over 65**, chronic lung, heart, liver or kidney disease, diabetes, immunosuppression.",
+      "Unvaccinated older patients admitted with CAP should get the **pneumococcal vaccine before discharge** (Kumar).",
+      "**Legionella** usually has to be **notified** so the source can be traced.",
+      "In poorer settings, protect children by tackling **malnutrition and indoor air pollution** and immunising against **measles, pertussis and Hib**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 607,
+       "page": 585
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Respiratory disease",
+       "pdfPage": 983,
+       "page": 965
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Pneumococcal vaccines",
+     "columns": [
+      "Vaccine",
+      "Content",
+      "Immunology"
+     ],
+     "rows": [
+      [
+       "Polysaccharide (PPV)",
+       "Purified capsular polysaccharide, **23 serotypes**",
+       "Weak T-cell activation: short-lived antibody, **no lasting memory**"
+      ],
+      [
+       "Conjugate (PCV)",
+       "Capsular polysaccharide linked to protein, **13 serotypes** (Davidson)",
+       "Protein conjugation recruits **T-cell help** and memory (same principle as Hib vaccine)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Principles of infectious disease",
+       "pdfPage": 136,
+       "page": 114
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Principles of infectious disease",
+       "pdfPage": 137,
+       "page": 115
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "US practice (Pocket Medicine): pneumococcal vaccine for everyone **> 65** and for 19–64-year-olds with heart failure, lung disease, cirrhosis, diabetes, alcohol use, smoking or immunosuppression (including asplenia and HIV), as **PCV20 alone** or **PCV15 followed by PPSV23** a year later. Inactivated influenza vaccine is advised for everyone over **6 months**.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 421,
+       "page": 421
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Hospital-acquired pneumonia (mortality about 30%, so prevention matters)",
+     "items": [
+      "**Hand hygiene** and clean equipment.",
+      "Reduce **aspiration** risk.",
+      "**Limit PPI** stress-ulcer prophylaxis.",
+      "Oral decontamination with **2% chlorhexidine**.",
+      "**Selective digestive decontamination** in some ICUs when ventilation is expected to exceed **48 h**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 608,
+       "page": 586
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Specific prophylaxis",
+     "items": [
+      "HIV with a **low CD4 count**: oral **co-trimoxazole** against Pneumocystis.",
+      "Influenza: **droplet precautions** for inpatients; high-risk contacts can receive **oseltamivir for 7 days** or a single dose of baloxavir."
+     ],
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "chapter": "Respiratory",
+       "pdfPage": 112,
+       "page": 112
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 421,
+       "page": 421
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 422,
+       "page": 422
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.s8",
+   "title": "Pneumonia in the COVID-19 era",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**SARS-CoV-2** was identified in **Wuhan in December 2019** and causes **COVID-19**. Its case fatality (about 1–5% in Kumar) is lower than SARS-CoV, but it is **far more transmissible**. Earlier coronavirus pneumonias were **SARS** (2002–03: more than 8000 cases, about 800 deaths) and **MERS** (from 2012, camel source, about **35% mortality**, with large outbreaks **inside healthcare settings**).",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Infectious disease",
+       "pdfPage": 543,
+       "page": 521
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 271,
+       "page": 249
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "COVID-19: what to know",
+     "items": [
+      "Spread **person to person** by respiratory particles, including from **asymptomatic** people; incubation up to **14 days** (median 4–5).",
+      "Of symptomatic patients about **81%** mild–moderate, **14%** severe (hypoxic), **5%** critical (ARDS, shock, multi-organ failure).",
+      "Features: fever, cough, dyspnoea, myalgia, GI upset, **loss of smell or taste**.",
+      "Severe-disease risk: age **≥ 65**, cardiovascular disease, diabetes, stroke, lung disease, CKD, **obesity**."
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 422,
+       "page": 422
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Hospital practice for a patient with pneumonia",
+     "items": [
+      "Take a **travel and contact history**: unusual pathogens (e.g. MERS after the Middle East) change the plan.",
+      "Test with **RT-PCR** on a nasopharyngeal, lower-tract or anterior nasal sample; rapid antigen tests are **less sensitive**.",
+      "CXR typically shows **bilateral, peripheral** opacities but may be normal early; use **CT** if in doubt.",
+      "Isolate: the coronavirus model is an **airborne infection isolation room** with **contact plus airborne precautions** and **PPE** for staff.",
+      "Laboratory clues to **MERS-CoV** (Davidson): **lymphopenia, thrombocytopenia and a raised LDH**, with rapid progression to respiratory failure and ARDS; confirm by PCR."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Respiratory medicine",
+       "pdfPage": 605,
+       "page": 583
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 422,
+       "page": 422
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Infectious disease",
+       "pdfPage": 271,
+       "page": 249
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "COVID-19 treatment by severity (Pocket Medicine, US NIH)",
+     "columns": [
+      "Situation",
+      "Treatment"
+     ],
+     "rows": [
+      [
+       "Not in hospital, high risk",
+       "Monoclonal antibodies, **nirmatrelvir–ritonavir (Paxlovid)** or molnupiravir"
+      ],
+      [
+       "In hospital, needs oxygen",
+       "**Dexamethasone** ± **remdesivir**"
+      ],
+      [
+       "Rapidly rising O2 need, ventilated or ECMO",
+       "Dexamethasone **plus** anti-IL-6 (**tocilizumab**) or a JAK inhibitor (**baricitinib**)"
+      ],
+      [
+       "All admitted patients",
+       "**Anticoagulation** (prophylactic or treatment dose) because thrombosis is common"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 422,
+       "page": 422
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Spike-protein vaccines** are highly effective at reducing severity even when infection occurs; follow local isolation and quarantine guidance.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 423,
+       "page": 423
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Steroids are **not routine** in bacterial CAP and should be **avoided in influenza**, yet **dexamethasone** is standard for hospitalised COVID-19 needing oxygen. Davidson has no COVID-specific section, so these points come from Pocket Medicine.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 420,
+       "page": 420
+      },
+      {
+       "book": "pocket8",
+       "chapter": "Infectious disease",
+       "pdfPage": 422,
+       "page": 422
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "resp-pneumonia.c1",
+   "sectionId": "resp-pneumonia.s1",
+   "front": "Davidson’s definition of pneumonia?",
+   "back": "An acute respiratory illness with **newly developed radiological shadowing** (segmental, lobar or multilobar).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 604,
+     "page": 582
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.c2",
+   "sectionId": "resp-pneumonia.s1",
+   "front": "Hospital-acquired pneumonia: time criterion (Davidson)?",
+   "back": "A new pneumonia **at least 2 days after admission**; in ventilated ICU patients it is called **VAP**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 607,
+     "page": 585
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.c3",
+   "sectionId": "resp-pneumonia.s2",
+   "front": "Commonest cause of community-acquired pneumonia?",
+   "back": "**Streptococcus pneumoniae**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 604,
+     "page": 582
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Respiratory disease",
+     "pdfPage": 571,
+     "page": 534
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.c4",
+   "sectionId": "resp-pneumonia.s2",
+   "front": "Five atypical pneumonia organisms (“Legions of psittaci MCQs”)?",
+   "back": "Legionella, Chlamydia psittaci, Mycoplasma, Chlamydophila pneumoniae, Q fever (Coxiella).",
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "chapter": "Respiratory",
+     "pdfPage": 112,
+     "page": 112
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.c5",
+   "sectionId": "resp-pneumonia.s2",
+   "front": "Severe pneumonia after influenza with cavities/cysts on CXR and pneumothorax: organism?",
+   "back": "**Staphylococcus aureus**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 605,
+     "page": 583
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Respiratory disease",
+     "pdfPage": 576,
+     "page": 539
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.c6",
+   "sectionId": "resp-pneumonia.s3",
+   "front": "CURB-65 criteria (Davidson)?",
+   "back": "Confusion (MTS ≤ 8/new disorientation); Urea > 7 mmol/L; RR > 30/min; BP systolic < 90 or diastolic < 60; Age > 65.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 605,
+     "page": 583
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.c7",
+   "sectionId": "resp-pneumonia.s3",
+   "front": "CURB-65 score → action (Davidson)?",
+   "back": "0–1 home; 2 hospital-supervised; ≥ 3 severe pneumonia in hospital, assess for ICU especially at 4–5.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 605,
+     "page": 583
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.c8",
+   "sectionId": "resp-pneumonia.s3",
+   "front": "How may an older patient with pneumonia present?",
+   "back": "Atypically: **delirium** or recurrent **falls**, often without cough, breathlessness or fever.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 608,
+     "page": 586
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Respiratory disease",
+     "pdfPage": 982,
+     "page": 964
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.c9",
+   "sectionId": "resp-pneumonia.s4",
+   "front": "When is an ABG indicated in CAP?",
+   "back": "When **SaO2 < 93%** or the clinical features are severe.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 606,
+     "page": 584
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.c10",
+   "sectionId": "resp-pneumonia.s4",
+   "front": "Cold agglutinins are positive in what proportion of Mycoplasma pneumonia?",
+   "back": "About **50%**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 606,
+     "page": 584
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Respiratory disease",
+     "pdfPage": 573,
+     "page": 536
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.c11",
+   "sectionId": "resp-pneumonia.s5",
+   "front": "First-line oral antibiotic for uncomplicated CAP (Davidson)?",
+   "back": "**Amoxicillin 500 mg three times daily**; clarithromycin if penicillin-allergic.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 607,
+     "page": 585
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.c12",
+   "sectionId": "resp-pneumonia.s5",
+   "front": "Davidson regimen for severe CAP?",
+   "back": "IV **clarithromycin plus** IV co-amoxiclav, ceftriaxone or cefuroxime.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 607,
+     "page": 585
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.c13",
+   "sectionId": "resp-pneumonia.s5",
+   "front": "Davidson regimen for aspiration pneumonia, and why not co-amoxiclav?",
+   "back": "**Amoxicillin + metronidazole**; co-amoxiclav raises **C. difficile** risk.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 609,
+     "page": 587
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.c14",
+   "sectionId": "resp-pneumonia.s6",
+   "front": "Commonest complication of pneumonia?",
+   "back": "**Parapneumonic effusion**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 607,
+     "page": 585
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.c15",
+   "sectionId": "resp-pneumonia.s6",
+   "front": "Radiological hallmark of a lung abscess?",
+   "back": "A **cavity with an air–fluid level**.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Respiratory disease",
+     "pdfPage": 984,
+     "page": 966
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 609,
+     "page": 587
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.c16",
+   "sectionId": "resp-pneumonia.s7",
+   "front": "Serotypes in the pneumococcal polysaccharide vs conjugate vaccine (Davidson)?",
+   "back": "PPV **23**; PCV **13** (conjugate gives T-cell memory).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Principles of infectious disease",
+     "pdfPage": 137,
+     "page": 115
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.c17",
+   "sectionId": "resp-pneumonia.s8",
+   "front": "Hospitalised COVID-19 patient needing oxygen: treatment?",
+   "back": "**Dexamethasone ± remdesivir**.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "resp-pneumonia.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 72-year-old man had a hip fracture fixed 6 days ago. He is breathing spontaneously on the orthopaedic ward when he develops a temperature of 38.6°C, purulent sputum and a new right basal infiltrate on chest X-ray.",
+   "leadIn": "How is this pneumonia best classified?",
+   "options": [
+    "Community-acquired pneumonia",
+    "Hospital-acquired pneumonia",
+    "Ventilator-associated pneumonia",
+    "Aspiration pneumonitis",
+    "Pneumonia in the immunocompromised host"
+   ],
+   "answer": 1,
+   "explanation": "A new pneumonia starting **at least 2 days after admission** is **hospital-acquired** (nosocomial). At day 6 it is also **late-onset**, so Gram-negatives and Staph. aureus are more likely.",
+   "whyNot": [
+    "He has been in hospital for 6 days, so the infection was acquired in hospital.",
+    "",
+    "VAP needs mechanical ventilation; he is breathing on his own.",
+    "Pneumonitis is a sterile chemical injury after inhaling gastric contents; nothing suggests aspiration, and he has purulent sputum.",
+    "Nothing in the history suggests immunosuppression."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 607,
+     "page": 585
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 418,
+     "page": 418
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 79-year-old woman with heart failure has a fever and cough. Her chest X-ray shows patchy, poorly defined alveolar shadowing scattered through both lower zones, centred on the small airways, with no single lobe uniformly opacified.",
+   "leadIn": "Which term best describes this pattern?",
+   "options": [
+    "Lobar pneumonia",
+    "Bronchopneumonia",
+    "Lung abscess",
+    "Empyema",
+    "Pulmonary infarction"
+   ],
+   "answer": 1,
+   "explanation": "**Bronchopneumonia** is patchy alveolar consolidation linked to bronchial and bronchiolar inflammation, often in **both lower lobes**. Lobar pneumonia is homogeneous consolidation of a whole lobe.",
+   "whyNot": [
+    "Lobar pneumonia gives uniform consolidation of one or more whole lobes, not scattered patches.",
+    "",
+    "An abscess is a localised cavity, often with a fluid level.",
+    "Empyema is pus in the pleural space, not alveolar shadowing.",
+    "Infarction is a differential diagnosis of pneumonia, not a name for patchy consolidation centred on inflamed small airways."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 604,
+     "page": 582
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Respiratory disease",
+     "pdfPage": 982,
+     "page": 964
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q3",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Organisms causing pneumonia",
+   "leadIn": "Choose the single best option for each patient. An option may fit several patients, or none.",
+   "options": [
+    "Pneumococcus",
+    "Mycoplasma (M. pneumoniae)",
+    "Legionella pneumophila",
+    "Staph. aureus",
+    "Klebsiella spp.",
+    "Moraxella catarrhalis",
+    "Chlamydophila pneumoniae",
+    "Influenza A virus",
+    "Pneumocystis jirovecii",
+    "MERS coronavirus"
+   ],
+   "items": [
+    {
+     "stem": "A 34-year-old man returns from a week in a large air-conditioned hotel. He has a dry cough, diarrhoea and confusion. Sodium is 126 mmol/L and he is lymphopenic without a marked leucocytosis.",
+     "answer": 2,
+     "explanation": "Hotel water systems, diarrhoea, confusion, **hyponatraemia** and **lymphopenia** point to **Legionella**. Confirm with a urinary antigen.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s2"
+     }
+    },
+    {
+     "stem": "A 21-year-old student had headache and malaise for 4 days before a dry cough began. The chest signs are scanty, yet the X-ray shows extensive shadowing. Target lesions appear on his palms.",
+     "answer": 1,
+     "explanation": "**Mycoplasma**: young adult, a prodrome before chest symptoms, a CXR worse than the signs, and **erythema multiforme**.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s2"
+     }
+    },
+    {
+     "stem": "A 47-year-old man who drinks heavily is admitted very unwell with bacteraemia and dense upper-lobe consolidation.",
+     "answer": 4,
+     "explanation": "**Klebsiella** is specifically linked with **alcohol misuse** and a severe bacteraemic illness.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s2"
+     }
+    },
+    {
+     "stem": "A 30-year-old woman is recovering from influenza when she becomes severely unwell with pneumonia. Her chest X-ray shows several thin-walled cystic spaces, and she then develops sudden pleuritic pain from a pneumothorax.",
+     "answer": 3,
+     "explanation": "Two steps: **post-influenza** pneumonia suggests **Staph. aureus**, and **pneumatoceles/cysts** with a **pneumothorax** confirm it.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 605,
+     "page": 583
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Respiratory disease",
+     "pdfPage": 574,
+     "page": 537
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Respiratory disease",
+     "pdfPage": 576,
+     "page": 539
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Respiratory",
+     "pdfPage": 112,
+     "page": 112
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 418,
+     "page": 418
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q4",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Severity assessment and place of care in community-acquired pneumonia",
+   "leadIn": "Choose the single best option for each patient. An option may fit several patients, or none.",
+   "options": [
+    "Treat at home with oral antibiotics",
+    "Short hospital stay or hospital-supervised outpatient care",
+    "Admit and manage as severe pneumonia",
+    "Urgent assessment for ICU admission",
+    "No antibiotics and no follow-up",
+    "Respiratory clinic referral in 6 weeks only",
+    "Same-day bronchoscopy",
+    "Hospice referral"
+   ],
+   "items": [
+    {
+     "stem": "A 40-year-old woman with right lower lobe pneumonia is alert and orientated. RR 22/min, BP 124/80 mmHg, urea 5.1 mmol/L. Use the Davidson CURB-65 criteria.",
+     "answer": 0,
+     "explanation": "CURB-65 = **0**, so she is likely suitable for **home treatment**.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s3"
+     }
+    },
+    {
+     "stem": "A 71-year-old man with CAP is alert. RR 24/min, BP 132/78 mmHg, urea 9.4 mmol/L.",
+     "answer": 1,
+     "explanation": "Age > 65 and urea > 7 give a score of **2**: **hospital-supervised** treatment (short stay or supervised outpatient).",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s3"
+     }
+    },
+    {
+     "stem": "A 69-year-old woman with CAP scores 7 on a mental test. RR 26/min, BP 118/72 mmHg, urea 8.3 mmol/L.",
+     "answer": 2,
+     "explanation": "Confusion (MTS ≤ 8), urea > 7 and age > 65 give **3**: manage in hospital as **severe pneumonia**.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s3"
+     }
+    },
+    {
+     "stem": "A 78-year-old man is newly disorientated. RR 34/min, BP 86/50 mmHg, urea 12 mmol/L.",
+     "answer": 3,
+     "explanation": "All five criteria are met (score **5**), so assess him for **ICU**; a score of 4–5 is the strongest trigger.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 605,
+     "page": 583
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 56-year-old man is admitted with community-acquired pneumonia. Blood tests show: WCC 3.1 × 10⁹/L, CRP 120 mg/L, sodium 138 mmol/L, ALT slightly raised, neutrophils 2.2 × 10⁹/L.",
+   "leadIn": "Which result is a recognised marker of severity?",
+   "options": [
+    "White cell count 3.1 × 10⁹/L",
+    "CRP 120 mg/L",
+    "Sodium 138 mmol/L",
+    "Slightly raised ALT",
+    "Neutrophils 2.2 × 10⁹/L"
+   ],
+   "answer": 0,
+   "explanation": "Davidson lists a **WCC < 4 or > 20 × 10⁹/L** as a severity marker. Other markers include urea > 7, hyponatraemia, low albumin and bacteraemia.",
+   "whyNot": [
+    "",
+    "CRP is raised but non-specific; it is not a listed severity criterion.",
+    "This sodium is normal; **hyponatraemia** would be the severity marker.",
+    "Mildly abnormal LFTs occur when a basal pneumonia inflames the liver; it is low albumin that marks severity.",
+    "The neutrophil count matters for cause (> 15 suggests bacteria), not as a stand-alone severity criterion."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 606,
+     "page": 584
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 58-year-old man with a 40 pack-year smoking history is treated for right upper lobe pneumonia. He recovers well clinically and is ready to go home.",
+   "leadIn": "What is the most appropriate imaging plan?",
+   "options": [
+    "Repeat chest X-ray before discharge",
+    "Clinical review with a chest X-ray at about 6 weeks",
+    "CT chest on the day of discharge",
+    "No further imaging at any stage",
+    "Daily chest X-rays until the shadowing has gone"
+   ],
+   "answer": 1,
+   "explanation": "A CXR need not be repeated before discharge if recovery is good, because shadowing may take weeks to months to clear. Review at **about 6 weeks**, with a CXR when malignancy is a concern (a heavy smoker); persistent shadowing suggests an **obstructing bronchial carcinoma**.",
+   "whyNot": [
+    "Not needed when recovery is satisfactory; the film will still be abnormal.",
+    "",
+    "Not routine; the first step is the 6-week review and CXR.",
+    "He is a heavy smoker, so an underlying tumour must be excluded.",
+    "Radiological clearing lags behind clinical recovery; daily films add nothing."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 607,
+     "page": 585
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Respiratory disease",
+     "pdfPage": 572,
+     "page": 535
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q7",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Antibiotic choice in pneumonia (Davidson)",
+   "leadIn": "Choose the single best option for each patient. An option may fit several patients, or none.",
+   "options": [
+    "Oral amoxicillin",
+    "Oral clarithromycin",
+    "IV co-amoxiclav plus IV clarithromycin",
+    "IV flucloxacillin plus IV clarithromycin",
+    "Clarithromycin plus IV rifampicin",
+    "Amoxicillin plus metronidazole",
+    "Meropenem plus vancomycin",
+    "High-dose co-trimoxazole",
+    "Cefuroxime",
+    "IV ceftazidime alone"
+   ],
+   "items": [
+    {
+     "stem": "A 30-year-old woman with CURB-65 0 pneumonia had anaphylaxis to penicillin as a child.",
+     "answer": 1,
+     "explanation": "Uncomplicated CAP with **penicillin allergy**: oral **clarithromycin** (or erythromycin).",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s5"
+     }
+    },
+    {
+     "stem": "A 67-year-old man with CURB-65 4 pneumonia. No drug allergies. No organism is known yet.",
+     "answer": 2,
+     "explanation": "**Severe CAP**: IV clarithromycin **plus** a β-lactam such as IV co-amoxiclav.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s5"
+     }
+    },
+    {
+     "stem": "A 76-year-old woman who had a stroke a month ago coughs during meals. She now has right lower lobe consolidation.",
+     "answer": 5,
+     "explanation": "Post-stroke **dysphagia** means **aspiration**: Davidson gives **amoxicillin + metronidazole**.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s5"
+     }
+    },
+    {
+     "stem": "A man has been ventilated on ICU for 9 days and has had several antibiotic courses. He develops new infiltrates and purulent secretions; his unit has a high rate of MRSA.",
+     "answer": 6,
+     "explanation": "**Late-onset HAP/VAP** needs antipseudomonal cover (**meropenem**) plus **MRSA** cover (**vancomycin** or linezolid).",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s5"
+     }
+    },
+    {
+     "stem": "A 41-year-old man is in ICU with severe pneumonia; his urinary Legionella antigen is positive.",
+     "answer": 4,
+     "explanation": "Severe **Legionella**: clarithromycin **plus IV rifampicin**.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 607,
+     "page": 585
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 608,
+     "page": 586
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 609,
+     "page": 587
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 64-year-old woman is on day 5 of IV antibiotics for CAP. Her fever had settled but now swings to 39°C and her CRP is rising again. Chest X-ray shows a new moderate right pleural effusion.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Ultrasound-guided pleural aspiration",
+    "Switch to oral antibiotics",
+    "Bronchoscopy",
+    "Chest physiotherapy",
+    "Stop antibiotics and repeat the X-ray in 6 weeks"
+   ],
+   "answer": 0,
+   "explanation": "Persistent or recurrent fever with rising markers on appropriate antibiotics suggests **empyema**. Aspirate the effusion **under ultrasound** and send it for Gram stain, culture, protein, glucose, LDH and pH; an empyema needs **urgent drainage**.",
+   "whyNot": [
+    "",
+    "She is getting worse, so this is no time to step down.",
+    "Bronchoscopy looks for an obstructing lesion; the problem here is the new effusion.",
+    "Physiotherapy does not treat a pleural collection.",
+    "She has a probable empyema that needs diagnosis and drainage now."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Respiratory disease",
+     "pdfPage": 983,
+     "page": 965
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 606,
+     "page": 584
+    },
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 419,
+     "page": 419
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 48-year-old man with alcohol dependence vomited while heavily intoxicated two weeks ago. He now coughs up large amounts of foul-smelling sputum, has a high swinging fever and early finger clubbing. Chest X-ray shows a thick-walled cavity with an air–fluid level in the right lower lobe.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Lung abscess",
+    "Empyema",
+    "Bronchiectasis",
+    "Pulmonary tuberculosis",
+    "Mendelson’s syndrome"
+   ],
+   "answer": 0,
+   "explanation": "Aspiration while drunk, **foul sputum**, swinging fever, **rapid clubbing** and a **cavity with a fluid level** in the lung: a **lung abscess** from mixed oral anaerobes.",
+   "whyNot": [
+    "",
+    "Empyema is pus in the pleural space; the cavity here lies within the lung.",
+    "Bronchiectasis is chronic airway dilatation over years, not one new cavity with a fluid level after a single event.",
+    "TB cavitates too, but the aspiration history, foul sputum and short course favour an anaerobic abscess.",
+    "Mendelson’s syndrome is the acute chemical pneumonitis right after acid aspiration, not a cavity two weeks later."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 608,
+     "page": 586
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 609,
+     "page": 587
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Respiratory disease",
+     "pdfPage": 984,
+     "page": 966
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A medical student asks why the pneumococcal conjugate vaccine gives longer-lasting protection than the polysaccharide vaccine.",
+   "leadIn": "What is the best explanation?",
+   "options": [
+    "The protein carrier recruits T-cell help, generating immunological memory",
+    "It contains more serotypes than the polysaccharide vaccine",
+    "It is a live attenuated vaccine",
+    "It is given by a different route that boosts mucosal immunity",
+    "It contains whole killed pneumococci"
+   ],
+   "answer": 0,
+   "explanation": "Polysaccharide alone gives a weak T-cell response, so antibody is short-lived and there is **no memory**. Linking it to a **protein** (as in PCV and Hib vaccine) brings in **T-cell help** and memory.",
+   "whyNot": [
+    "",
+    "The opposite: the polysaccharide vaccine covers 23 serotypes and the conjugate 13 (Davidson).",
+    "Both pneumococcal vaccines are made from capsular polysaccharide; neither is live.",
+    "The route is not why memory develops; the protein conjugate is.",
+    "Both use purified capsular polysaccharide, not whole organisms."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Principles of infectious disease",
+     "pdfPage": 136,
+     "page": 114
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Principles of infectious disease",
+     "pdfPage": 137,
+     "page": 115
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "An ICU team reviews its policy to reduce ventilator-associated and other hospital-acquired pneumonia.",
+   "leadIn": "Which measure is recommended?",
+   "options": [
+    "Oral decontamination with 2% chlorhexidine",
+    "Routine proton pump inhibitor for every patient",
+    "Prophylactic vancomycin for all ventilated patients",
+    "Nasogastric tubes for all elderly patients",
+    "Deeper sedation to suppress coughing"
+   ],
+   "answer": 0,
+   "explanation": "HAP mortality is around 30%, so prevention matters: hand hygiene, clean equipment, less aspiration, **fewer PPIs**, **2% chlorhexidine** mouth care, and sometimes selective digestive decontamination if ventilation will exceed 48 h.",
+   "whyNot": [
+    "",
+    "Stress-ulcer prophylaxis with PPIs should be **limited**, not given to everyone.",
+    "Blanket antibiotic prophylaxis is not a listed measure and drives resistance.",
+    "Nasogastric intubation **increases** aspiration risk.",
+    "Reduced consciousness and cough reflex **predispose** to HAP."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 607,
+     "page": 585
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 608,
+     "page": 586
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 66-year-old man is admitted with COVID-19 pneumonia confirmed by RT-PCR. He needs 4 L/min of oxygen to keep his saturation in range but is not ventilated.",
+   "leadIn": "Which treatment is indicated?",
+   "options": [
+    "Dexamethasone, with or without remdesivir",
+    "Oral oseltamivir",
+    "High-dose co-trimoxazole",
+    "Molnupiravir alone",
+    "Oral amoxicillin"
+   ],
+   "answer": 0,
+   "explanation": "Hospitalised COVID-19 needing **supplemental oxygen**: **dexamethasone ± remdesivir** (Pocket Medicine). Anticoagulation is also given because thrombosis is common.",
+   "whyNot": [
+    "",
+    "Oseltamivir treats influenza, not SARS-CoV-2.",
+    "Co-trimoxazole treats Pneumocystis pneumonia.",
+    "Molnupiravir is an option for high-risk patients **not** in hospital.",
+    "Amoxicillin treats bacterial CAP and does not act on the virus."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s8"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 52-year-old engineer flew back from Saudi Arabia 5 days ago. He has fever, myalgia, dry cough and diarrhoea, and develops worsening hypoxia. Bloods show lymphopenia, thrombocytopenia and a raised LDH.",
+   "leadIn": "Where should he be nursed while the diagnosis is confirmed?",
+   "options": [
+    "Airborne infection isolation room with contact and airborne precautions",
+    "Open ward bay with standard precautions",
+    "Bay shared with other pneumonia patients",
+    "Side room with droplet precautions only, no respirator",
+    "Home isolation with telephone follow-up"
+   ],
+   "answer": 0,
+   "explanation": "Travel to the Middle East plus severe pneumonia, lymphopenia, thrombocytopenia and raised LDH suggests **MERS-CoV**. Davidson’s model: an **airborne infection isolation room** with **contact plus airborne** precautions and **PPE** for staff; confirm by PCR.",
+   "whyNot": [
+    "",
+    "MERS has spread person to person inside hospitals; standard precautions are not enough.",
+    "Cohorting an unconfirmed case with other patients risks spreading the infection.",
+    "Davidson specifies airborne as well as contact precautions.",
+    "He is hypoxic and deteriorating, so he needs hospital care."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 271,
+     "page": 249
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 605,
+     "page": 583
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Infectious disease",
+     "pdfPage": 543,
+     "page": 521
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q14",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Investigations in suspected pneumonia",
+   "leadIn": "Choose the single best option for each patient. An option may fit several patients, or none.",
+   "options": [
+    "Urinary Legionella antigen",
+    "Urinary pneumococcal antigen",
+    "Cold agglutinin titre",
+    "HIV test",
+    "Arterial blood gas",
+    "Ultrasound-guided pleural aspiration",
+    "Bronchoalveolar lavage with immunofluorescence",
+    "Chest X-ray at about 6 weeks",
+    "Blood cultures",
+    "Nasopharyngeal RT-PCR for SARS-CoV-2"
+   ],
+   "items": [
+    {
+     "stem": "A 24-year-old man with pneumonia becomes anaemic during admission and his direct Coombs test is positive. Which test best supports the likely organism?",
+     "answer": 2,
+     "explanation": "Haemolysis in a young adult with pneumonia suggests **Mycoplasma**; **cold agglutinins** are positive in about half of cases.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s4"
+     }
+    },
+    {
+     "stem": "A 35-year-old man with oral candida and weight loss has a dry cough, desaturates when he walks, and has bilateral perihilar shadowing. Which test will confirm the cause of the pneumonia?",
+     "answer": 6,
+     "explanation": "Probable **Pneumocystis** pneumonia (likely HIV). Confirm with **immunofluorescence on induced sputum or BAL**.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s4"
+     }
+    },
+    {
+     "stem": "A 70-year-old woman with COPD and CAP has SaO2 89% on air and is drowsy. What is the most urgent test before setting her oxygen?",
+     "answer": 4,
+     "explanation": "**ABG** when SaO2 < 93% or the illness is severe, to look for **hypercapnia** and acidosis; COPD makes CO2 retention a real risk.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s4"
+     }
+    },
+    {
+     "stem": "A 29-year-old man is admitted with lobar pneumonia. He has no known risk factors. Which test should every adult with pneumonia be offered?",
+     "answer": 3,
+     "explanation": "Kumar: offer an **HIV test** to all pneumonia patients.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 606,
+     "page": 584
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Respiratory disease",
+     "pdfPage": 983,
+     "page": 965
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Respiratory disease",
+     "pdfPage": 985,
+     "page": 967
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 45-year-old woman has a 3-day history of fever and productive cough. You examine the right lower zone of her chest.",
+   "leadIn": "Which combination of signs indicates consolidation?",
+   "options": [
+    "Dull percussion, bronchial breathing and whispering pectoriloquy",
+    "Stony dull percussion with absent breath sounds",
+    "Hyper-resonant percussion with absent breath sounds",
+    "Resonant percussion with widespread expiratory wheeze",
+    "Dull percussion with reduced breath sounds and the trachea pulled towards that side"
+   ],
+   "answer": 0,
+   "explanation": "Consolidated lung conducts sound well: **dullness**, **bronchial breathing**, **whispering pectoriloquy** and crackles.",
+   "whyNot": [
+    "",
+    "Stony dullness with absent breath sounds is typical of a **pleural effusion**.",
+    "Hyper-resonance with absent breath sounds suggests a **pneumothorax**.",
+    "Resonance with wheeze suggests airway narrowing (asthma or COPD), not consolidation.",
+    "Tracheal pull towards the side suggests **lobar collapse**, e.g. from retained sputum."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 605,
+     "page": 583
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Respiratory",
+     "pdfPage": 111,
+     "page": 111
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 569,
+     "page": 547
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 70-year-old man has been on a surgical ward for 10 days after a laparotomy and received two antibiotic courses. He develops a new pneumonia.",
+   "leadIn": "Which organisms are most likely?",
+   "options": [
+    "Gram-negative bacilli such as Pseudomonas aeruginosa",
+    "Mycoplasma pneumoniae",
+    "Chlamydia psittaci",
+    "Coxiella burnetii",
+    "Chlamydophila pneumoniae"
+   ],
+   "answer": 0,
+   "explanation": "**Late-onset HAP** (after 4–5 days) is mainly due to **Gram-negatives** (E. coli, Pseudomonas, Klebsiella, Acinetobacter), Staph. aureus including MRSA, and anaerobes.",
+   "whyNot": [
+    "",
+    "Mycoplasma is a community organism of young adults.",
+    "Psittacosis follows contact with birds.",
+    "Q fever follows exposure to farm animals.",
+    "A community-acquired atypical organism."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 608,
+     "page": 586
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Respiratory disease",
+     "pdfPage": 985,
+     "page": 967
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 50-year-old woman with acute myeloid leukaemia is neutropenic after chemotherapy. She has fever and a cough. HRCT shows a nodule surrounded by a rim of ground-glass attenuation.",
+   "leadIn": "Which infection does this sign suggest?",
+   "options": [
+    "Invasive aspergillosis",
+    "Pneumocystis pneumonia",
+    "Pneumococcal lobar pneumonia",
+    "Cytomegalovirus pneumonitis",
+    "Legionella pneumonia"
+   ],
+   "answer": 0,
+   "explanation": "A **halo sign** (intermediate attenuation around a nodule) in an immunocompromised host suggests **aspergillosis**.",
+   "whyNot": [
+    "",
+    "Pneumocystis gives diffuse bilateral (perihilar) shadowing, not a haloed nodule.",
+    "Pyogenic bacteria give focal consolidation, often with effusion.",
+    "Viruses tend to give bilateral opacities.",
+    "Legionella gives consolidation, not a haloed nodule."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 609,
+     "page": 587
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q18",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "Two adults are admitted with community-acquired pneumonia. You want the feature that favours Legionella over pneumococcus.",
+   "leadIn": "Which feature favours Legionella?",
+   "options": [
+    "Hyponatraemia with lymphopenia",
+    "Herpes labialis",
+    "Rust-coloured sputum",
+    "Neutrophil count of 22 × 10⁹/L",
+    "Gram-positive diplococci in sputum"
+   ],
+   "answer": 0,
+   "explanation": "**Legionella**: lymphopenia without marked leucocytosis, **hyponatraemia**, low albumin and raised transaminases. The other options all point to pneumococcus.",
+   "whyNot": [
+    "",
+    "Labial herpes suggests **pneumococcus**.",
+    "Rusty sputum suggests **pneumococcus**.",
+    "A marked neutrophilia fits **pneumococcus**.",
+    "Gram-positive diplococci are **Strep. pneumoniae**; Legionella is not seen on Gram stain."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Respiratory disease",
+     "pdfPage": 983,
+     "page": 965
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 604,
+     "page": 582
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 605,
+     "page": 583
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Respiratory disease",
+     "pdfPage": 576,
+     "page": 539
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 112,
+     "page": 112
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q19",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 66-year-old man with pneumonia is fully orientated. RR 30/min, BP 104/60 mmHg, urea 7.4 mmol/L.",
+   "leadIn": "What is his CURB-65 score using the Davidson criteria?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "answer": 1,
+   "explanation": "Score each item against Davidson’s cut-offs. **Step 1** Confusion: none = 0. **Step 2** Urea 7.4 > 7 = 1. **Step 3** RR must be **> 30**; 30 = 0. **Step 4** BP: systolic 104 is not < 90 and diastolic 60 is not **< 60** = 0. **Step 5** Age 66 > 65 = 1. Total **2**, so hospital-supervised treatment. With the NICE version in Zero to Finals (RR ≥ 30, diastolic ≤ 60) he would score 4; know which version your exam uses.",
+   "whyNot": [
+    "Urea and age each score a point, so 1 is too low.",
+    "",
+    "3 would need RR or BP to count, but neither crosses Davidson’s cut-off.",
+    "4 is the score with the NICE thresholds (≥ 30 and ≤ 60), not Davidson’s.",
+    "He is not confused, so 5 is impossible."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 605,
+     "page": 583
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Respiratory",
+     "pdfPage": 111,
+     "page": 111
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q20",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "An 81-year-old woman with Parkinson’s disease and an unsafe swallow develops right lower lobe pneumonia after a choking episode at lunch. She had Clostridioides difficile colitis last year.",
+   "leadIn": "Which empirical regimen is most appropriate (Davidson)?",
+   "options": [
+    "Amoxicillin plus metronidazole",
+    "Co-amoxiclav",
+    "Clarithromycin alone",
+    "Flucloxacillin alone",
+    "Meropenem plus vancomycin"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1**: choking with an unsafe swallow = **aspiration pneumonia**. **Step 2**: the organisms are mixed oral **anaerobes and aerobes**, so anaerobic cover is needed. **Step 3**: Davidson’s choice is **amoxicillin + metronidazole**; co-amoxiclav has a suitable spectrum but **raises C. difficile risk**, which matters here. Kumar would use co-amoxiclav, but Davidson is the reference.",
+   "whyNot": [
+    "",
+    "The right spectrum, but Davidson warns of C. difficile risk, and she has already had it.",
+    "No reliable anaerobic cover.",
+    "Covers Staph. aureus only, not oral anaerobes.",
+    "Far too broad for community aspiration; keep it for late-onset HAP."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 608,
+     "page": 586
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 609,
+     "page": 587
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Respiratory disease",
+     "pdfPage": 985,
+     "page": 967
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q21",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 38-year-old woman on methotrexate and long-term prednisolone for rheumatoid arthritis has a high fever, a dry cough and breathlessness. Her saturation falls sharply when she walks. Chest X-ray shows bilateral perihilar shadowing spreading outwards.",
+   "leadIn": "What is the first-line treatment for the most likely infection?",
+   "options": [
+    "High-dose co-trimoxazole",
+    "Oral amoxicillin",
+    "IV flucloxacillin",
+    "Oral oseltamivir",
+    "IV ceftazidime"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1**: risk factors are **long-term steroids plus methotrexate**. **Step 2**: dry cough, **desaturation on exertion** and **perihilar butterfly** shadowing suggest **Pneumocystis jirovecii**. **Step 3**: confirm by immunofluorescence on induced sputum/BAL, and treat with **high-dose co-trimoxazole** (adding steroids only if HIV-positive).",
+   "whyNot": [
+    "",
+    "Amoxicillin does not cover Pneumocystis.",
+    "For Staph. aureus, not Pneumocystis.",
+    "For influenza; this picture is Pneumocystis.",
+    "An antipseudomonal agent; it does not treat Pneumocystis."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Respiratory disease",
+     "pdfPage": 985,
+     "page": 967
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q22",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Complications of pneumonia",
+   "leadIn": "Choose the single best option for each patient. An option may fit several patients, or none.",
+   "options": [
+    "Parapneumonic effusion",
+    "Empyema",
+    "Lung abscess",
+    "Pneumothorax",
+    "Lobar collapse from retained sputum",
+    "Pulmonary embolism",
+    "Acute respiratory distress syndrome",
+    "Myocarditis",
+    "Atrial fibrillation",
+    "Drug fever"
+   ],
+   "items": [
+    {
+     "stem": "On day 7 of treatment a 60-year-old man’s fever, which had settled, returns with a swinging pattern and his CRP rises. Pleural aspiration yields frank pus.",
+     "answer": 1,
+     "explanation": "Pus in the pleural space is **empyema**; the clue is fever and markers rising again despite antibiotics. It needs urgent drainage.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s6"
+     }
+    },
+    {
+     "stem": "A 74-year-old woman with pneumonia after abdominal surgery cannot cough because of pain. She suddenly becomes more breathless; the trachea has moved towards the affected side and the X-ray shows a dense opacity with volume loss.",
+     "answer": 4,
+     "explanation": "Two steps: a weak cough from pain lets **sputum be retained**, and volume loss with tracheal shift towards the lesion means **lobar collapse**.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s6"
+     }
+    },
+    {
+     "stem": "A 28-year-old with post-influenza staphylococcal pneumonia develops sudden pleuritic pain and breathlessness; one side is hyper-resonant with absent breath sounds.",
+     "answer": 3,
+     "explanation": "**Pneumothorax** is a recognised complication, especially with **Staph. aureus**.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s6"
+     }
+    },
+    {
+     "stem": "A 77-year-old man improving on day 4 of treatment for CAP develops palpitations; his pulse is irregularly irregular at 140/min.",
+     "answer": 8,
+     "explanation": "**Arrhythmias**, especially **AF**, are listed complications of pneumonia.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 607,
+     "page": 585
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Respiratory disease",
+     "pdfPage": 983,
+     "page": 965
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Respiratory disease",
+     "pdfPage": 576,
+     "page": 539
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 569,
+     "page": 547
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q23",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Pneumonia in special settings: organisms",
+   "leadIn": "Choose the single best option for each patient. An option may fit several patients, or none.",
+   "options": [
+    "Pneumocystis jirovecii",
+    "Aspergillus fumigatus",
+    "Pseudomonas aeruginosa",
+    "Acinetobacter baumannii",
+    "Fusobacterium necrophorum",
+    "PVL-producing Staphylococcus aureus",
+    "Mixed oral anaerobes",
+    "Nocardia asteroides",
+    "MERS coronavirus",
+    "Actinomyces israelii"
+   ],
+   "items": [
+    {
+     "stem": "A 19-year-old had a sore throat last week. He now has a painful, swollen neck, rigors and haemoptysis; CT shows internal jugular vein thrombosis and several cavitating lung nodules.",
+     "answer": 4,
+     "explanation": "Sore throat → jugular thrombosis → septic lung abscesses = **Lemierre’s syndrome**, usually **Fusobacterium necrophorum**.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s6"
+     }
+    },
+    {
+     "stem": "A fit 24-year-old rugby player whose teammates have had recurrent boils develops a rapidly progressive necrotising pneumonia with haemoptysis.",
+     "answer": 5,
+     "explanation": "Skin infections spreading through a team plus **necrotising pneumonia** suggest **PVL-producing CA-MRSA**.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s6"
+     }
+    },
+    {
+     "stem": "After 12 days of ventilation on ICU, a patient’s secretions grow a multidrug-resistant Gram-negative organism; the microbiologist advises a carbapenem, or colistin if it is resistant to that.",
+     "answer": 3,
+     "explanation": "**Acinetobacter baumannii** is a classic MDR cause of VAP; usually carbapenem-sensitive, otherwise colistin.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s2"
+     }
+    },
+    {
+     "stem": "A 55-year-old man with very poor dental hygiene has months of low-grade fever and weight loss from a chronic suppurative lung infection. The organism grows very slowly and needs 6–12 months of penicillin.",
+     "answer": 9,
+     "explanation": "**Actinomycosis** (mostly A. israelii): chronic suppuration, poor teeth, slow growth, long penicillin course.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s6"
+     }
+    },
+    {
+     "stem": "A 60-year-old diabetic man has just returned from Riyadh with fever, myalgia, dry cough and diarrhoea. He has lymphopenia, thrombocytopenia and a raised LDH, and is deteriorating towards respiratory failure.",
+     "answer": 8,
+     "explanation": "Middle East travel with this laboratory pattern and rapid deterioration points to **MERS-CoV**; isolate and confirm by PCR.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s8"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 608,
+     "page": 586
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 609,
+     "page": 587
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Infectious disease",
+     "pdfPage": 271,
+     "page": 249
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Respiratory disease",
+     "pdfPage": 985,
+     "page": 967
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q24",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A 52-year-old woman with uncomplicated pneumococcal CAP is improving on oral amoxicillin.",
+   "leadIn": "According to Davidson, what is an adequate total course length?",
+   "options": [
+    "3 days",
+    "5 days",
+    "14 days",
+    "21 days",
+    "6 weeks"
+   ],
+   "answer": 1,
+   "explanation": "Davidson: **5 days** suffices for most uncomplicated pneumonia; Legionella, staphylococcal and Klebsiella infections need longer.",
+   "whyNot": [
+    "Shorter than any source recommends.",
+    "",
+    "Closer to the Legionella course (14–21 days in K&C Essentials).",
+    "Again a Legionella-type duration, not routine CAP.",
+    "The sort of length used for some lung abscesses (4–6 weeks)."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 606,
+     "page": 584
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Respiratory disease",
+     "pdfPage": 576,
+     "page": 539
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 609,
+     "page": 587
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q25",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 62-year-old man returns from a conference at a large hotel and is diagnosed with Legionella pneumonia on urinary antigen testing.",
+   "leadIn": "Which additional step is most important for public health?",
+   "options": [
+    "Notify the health authority so the source can be investigated",
+    "Nurse him in an airborne isolation room",
+    "Give prophylactic clarithromycin to his family",
+    "Vaccinate his household against Legionella",
+    "Screen his contacts with chest X-rays"
+   ],
+   "answer": 0,
+   "explanation": "Legionella comes from **contaminated water systems**, so a case usually has to be **notified** so the source can be found and dealt with.",
+   "whyNot": [
+    "",
+    "Legionella is caught by inhaling aerosols from contaminated water, so the priority is the source, not isolating him.",
+    "Contacts do not catch it from him; prophylaxis is not indicated.",
+    "The sources offer no vaccine against Legionella; prevention means finding and treating the contaminated water source.",
+    "Screening contacts misses the point: the danger is the shared water source."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 607,
+     "page": 585
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Respiratory disease",
+     "pdfPage": 576,
+     "page": 539
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q26",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Empirical antibiotics for pneumonia",
+   "leadIn": "Choose the single best option for each patient. An option may fit several patients, or none.",
+   "options": [
+    "Oral amoxicillin",
+    "Oral clarithromycin",
+    "IV co-amoxiclav plus IV clarithromycin",
+    "IV flucloxacillin plus IV clarithromycin",
+    "Piperacillin–tazobactam",
+    "Cefuroxime",
+    "Meropenem plus linezolid",
+    "Amoxicillin plus metronidazole",
+    "High-dose co-trimoxazole",
+    "Oral doxycycline"
+   ],
+   "items": [
+    {
+     "stem": "A 58-year-old woman develops pneumonia on day 3 after an elective knee replacement. She has had no antibiotics in recent months.",
+     "answer": 5,
+     "explanation": "**Early-onset HAP** with no recent antibiotics: **co-amoxiclav or cefuroxime** (Davidson).",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s5"
+     }
+    },
+    {
+     "stem": "A 63-year-old man develops pneumonia on day 3 of an admission for heart failure; he finished a course of antibiotics for a urinary infection last week.",
+     "answer": 4,
+     "explanation": "Early HAP **after recent antibiotics**: **piperacillin–tazobactam** or a 3rd-generation cephalosporin.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s5"
+     }
+    },
+    {
+     "stem": "A 26-year-old man with CURB-65 0 pneumonia and no allergies is going home.",
+     "answer": 0,
+     "explanation": "Uncomplicated CAP: **oral amoxicillin 500 mg three times daily**.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s5"
+     }
+    },
+    {
+     "stem": "A kidney transplant recipient on anti-rejection drugs has a high fever, dry cough, rapid desaturation on exertion and bilateral perihilar shadowing.",
+     "answer": 8,
+     "explanation": "Two steps: transplant immunosuppression plus this picture = **Pneumocystis**, which is treated with **high-dose co-trimoxazole**.",
+     "studyRef": {
+      "sectionId": "resp-pneumonia.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 607,
+     "page": 585
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 608,
+     "page": 586
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Respiratory disease",
+     "pdfPage": 985,
+     "page": 967
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q27",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 59-year-old man with CAP is on the ward receiving IV antibiotics and high-concentration oxygen.",
+   "leadIn": "Which finding is an indication for ITU referral?",
+   "options": [
+    "PaO2 6.9 kPa despite high-concentration oxygen",
+    "CURB-65 score of 2",
+    "Temperature of 39.5°C",
+    "White cell count 18 × 10⁹/L",
+    "Pleuritic chest pain"
+   ],
+   "answer": 0,
+   "explanation": "Davidson Box 17.39: **persistent hypoxia (PaO2 < 8 kPa) despite high-concentration oxygen**, progressive hypercapnia, severe acidosis, shock, falling consciousness, or CURB-65 4–5 not responding quickly.",
+   "whyNot": [
+    "",
+    "A score of 2 means hospital-supervised care, not ITU.",
+    "Fever alone is not an ITU criterion.",
+    "Severity needs a WCC < 4 or > 20, and even that is not an ITU criterion on its own.",
+    "Treat with analgesia; it is not an ITU indication."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Respiratory medicine",
+     "pdfPage": 606,
+     "page": 584
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q28",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 44-year-old abattoir worker develops a flu-like illness with high fever, headache and a dry cough. Chest X-ray shows patchy consolidation.",
+   "leadIn": "Which organism is most likely?",
+   "options": [
+    "Coxiella burnetii",
+    "Chlamydia psittaci",
+    "Legionella pneumophila",
+    "Mycoplasma pneumoniae",
+    "Staphylococcus aureus"
+   ],
+   "answer": 0,
+   "explanation": "**Q fever** (Coxiella burnetii) is linked with farm animals and **abattoir or hide workers**.",
+   "whyNot": [
+    "",
+    "Psittacosis follows contact with birds such as parrots.",
+    "Legionella comes from contaminated water systems in hotels and institutions.",
+    "Mycoplasma affects young people and has no occupational link.",
+    "Staph. aureus pneumonia follows influenza or staphylococcal septicaemia."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s2"
+   },
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "chapter": "Respiratory disease",
+     "pdfPage": 571,
+     "page": 534
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Respiratory",
+     "pdfPage": 112,
+     "page": 112
+    }
+   ]
+  },
+  {
+   "id": "resp-pneumonia.q29",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 3,
+   "stem": "A 70-year-old woman in hospital with COVID-19 pneumonia is already receiving dexamethasone. Over 12 hours her oxygen requirement climbs rapidly, but she is not yet intubated.",
+   "leadIn": "Which addition is recommended?",
+   "options": [
+    "An anti-IL-6 agent such as tocilizumab",
+    "Oral oseltamivir",
+    "Stopping dexamethasone",
+    "High-dose co-trimoxazole",
+    "Molnupiravir as for an outpatient"
+   ],
+   "answer": 0,
+   "explanation": "Pocket Medicine: rapidly rising oxygen needs (or ventilation/ECMO) → **dexamethasone plus an anti-IL-6 agent (tocilizumab)** or a JAK inhibitor (baricitinib), with anticoagulation.",
+   "whyNot": [
+    "",
+    "Oseltamivir is for influenza.",
+    "Dexamethasone is the cornerstone for hypoxic inpatients; stopping it is wrong.",
+    "For Pneumocystis, not COVID-19.",
+    "Molnupiravir is for high-risk patients who are not in hospital."
+   ],
+   "studyRef": {
+    "sectionId": "resp-pneumonia.s8"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "chapter": "Infectious disease",
+     "pdfPage": 422,
+     "page": 422
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "resp-pneumonia.o1",
+   "sectionId": "resp-pneumonia.s4",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Respiratory medicine",
+    "pdfPage": 604,
+    "page": 582,
+    "figure": "Fig. 17.31"
+   },
+   "identify": "Sputum Gram stain: **Gram-positive diplococci** = **Streptococcus pneumoniae**, the commonest cause of CAP."
+  },
+  {
+   "id": "resp-pneumonia.o2",
+   "sectionId": "resp-pneumonia.s4",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Respiratory medicine",
+    "pdfPage": 606,
+    "page": 584,
+    "figure": "Fig. 17.33"
+   },
+   "identify": "**Right middle lobe pneumonia**: opacity below the horizontal fissure with loss of the right heart border on the PA film; anterior consolidation on the lateral film."
+  },
+  {
+   "id": "resp-pneumonia.o3",
+   "sectionId": "resp-pneumonia.s4",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Respiratory disease",
+    "pdfPage": 982,
+    "page": 964,
+    "figure": "Fig. 28.28"
+   },
+   "identify": "**Lobar pneumonia**: dense, uniform consolidation confined to one lobe."
+  },
+  {
+   "id": "resp-pneumonia.o4",
+   "sectionId": "resp-pneumonia.s4",
+   "cite": {
+    "book": "kcEssentials",
+    "chapter": "Respiratory disease",
+    "pdfPage": 573,
+    "page": 536,
+    "figure": "Fig. 11.5"
+   },
+   "identify": "**Left lower zone lobar pneumonia**: ill-defined opacity with **no volume loss** (trachea and mediastinum central), as alveoli are filled with fluid."
+  },
+  {
+   "id": "resp-pneumonia.o5",
+   "sectionId": "resp-pneumonia.s3",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Respiratory medicine",
+    "pdfPage": 605,
+    "page": 583,
+    "figure": "Fig. 17.32"
+   },
+   "identify": "**CURB-65 algorithm**: name the five criteria and the action for scores 0–1, 2 and ≥ 3."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:44:45.882Z",
+  "contentHash": "27f7bcc600cb958a9add0763aff80684de46373809cdbc6bdf1e555be50ecded"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:44:45.890Z",
+  "contentHash": "27f7bcc600cb958a9add0763aff80684de46373809cdbc6bdf1e555be50ecded",
+  "checkerVersion": "source-check-v1"
+ }
+}

@@ -1,0 +1,3153 @@
+{
+ "topicId": "onc-febrile-neutropenia",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "onc-febrile-neutropenia.s1",
+   "title": "Definition and thresholds",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Neutropenia** is a neutrophil count below about **1.5 × 10⁹/L**; the normal range shifts with age and ethnicity. Below **0.5 × 10⁹/L** the count is regarded as **critically low (severe)** and the risk of life-threatening bacterial infection climbs steeply.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 947,
+       "page": 925,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 267,
+       "page": 230,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 425,
+       "page": 425,
+       "chapter": "Hematology and oncology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "How neutropenic fever is defined",
+     "columns": [
+      "Source",
+      "Temperature",
+      "Neutrophil count"
+     ],
+     "rows": [
+      [
+       "Davidson, oncology chapter (primary)",
+       "≥ 38°C lasting **more than 1 hour**",
+       "< 0.5 × 10⁹/L, **or < 1.0 × 10⁹/L if the nadir is expected to drop below 0.5 within 24 h**"
+      ],
+      [
+       "Davidson, infectious disease chapter",
+       "One axillary reading > 38.5°C, **or three readings > 38.0°C within 12 h**",
+       "< 0.5 × 10⁹/L (risk rises progressively once below 1.0)"
+      ],
+      [
+       "NCCN (Pocket Medicine, First Aid)",
+       "One oral reading ≥ 38.3°C (101°F), or ≥ 38.0°C (100.4°F) for ≥ 1 h",
+       "ANC < 500/µL, or < 1000/µL with a predicted nadir < 500/µL"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 246,
+       "page": 224,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 412,
+       "page": 412,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 426,
+       "page": 426,
+       "chapter": "Hematology and oncology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Why it is an emergency",
+     "items": [
+      "Left untreated it progresses to **sepsis with a high mortality** — it is an oncological emergency.",
+      "It is the **commonest reason a cancer patient comes to the emergency department**; think of it in **anyone unwell within a month of chemotherapy**.",
+      "Kumar & Clark Essentials: suspect neutropenic sepsis when neutrophils are < 1 × 10⁹/L and the patient has fever **or** new confusion, tachycardia, hypotension, breathlessness or hypothermia."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 137,
+       "page": 116,
+       "chapter": "Malignant disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 245,
+       "page": 208,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 294,
+       "page": 257,
+       "chapter": "Malignant disease"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**ANC = total white cell count × % neutrophils** (segmented forms plus bands). A normal total WCC can hide a dangerously low ANC — always read the differential.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 425,
+       "page": 425,
+       "chapter": "Hematology and oncology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1024,
+       "page": 1024,
+       "chapter": "Infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The books use **different temperature rules**. Davidson (oncology) wants ≥ 38°C for over an hour; Davidson (infectious disease) accepts one axillary reading > 38.5°C or three > 38.0°C in 12 h; the US (NCCN) rule accepts a **single oral 38.3°C**. Also remember the **\"expected nadir\" rule**: a count of 0.8 × 10⁹/L still qualifies if it is expected to fall below 0.5 × 10⁹/L within 24 h.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 246,
+       "page": 224,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 412,
+       "page": 412,
+       "chapter": "Oncology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.s2",
+   "title": "Aetiology and causative organisms",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "In cancer patients neutropenia is **usually caused by chemotherapy**. It can also follow **radiotherapy to large volumes of marrow**, or be part of a **pancytopenia from malignant marrow infiltration**. After chemotherapy the count bottoms out (the **nadir**) at roughly **7–10 days**, which is when fever typically appears.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 426,
+       "page": 426,
+       "chapter": "Hematology and oncology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Causes of neutropenia in general",
+     "columns": [
+      "Group",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Infection",
+       "Viral; bacterial (e.g. _Salmonella_, overwhelming sepsis); protozoal (e.g. malaria)"
+      ],
+      [
+       "Drugs",
+       "Cytotoxic chemotherapy; idiosyncratic reactions (see list below) — **isolated agranulocytosis is usually drug-induced**"
+      ],
+      [
+       "Marrow failure or infiltration",
+       "Leukaemia, lymphoma, myelodysplasia, metastatic cancer, aplastic anaemia, B12/folate deficiency"
+      ],
+      [
+       "Immune / peripheral destruction",
+       "Connective tissue disease (e.g. SLE), hypersplenism, **Felty syndrome** (rheumatoid arthritis + splenomegaly + neutropenia), AIDS"
+      ],
+      [
+       "Other",
+       "Alcohol; congenital (**Kostmann syndrome**); constitutional (benign ethnic) neutropenia in people of African, Afro-Caribbean or Middle Eastern descent"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 948,
+       "page": 926,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 267,
+       "page": 230,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 426,
+       "page": 426,
+       "chapter": "Hematology and oncology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1024,
+       "page": 1024,
+       "chapter": "Infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Drugs that can cause neutropenia (Davidson Box 23.10)",
+     "items": [
+      "Antithyroid: **carbimazole, propylthiouracil**",
+      "Anticonvulsants: phenytoin, sodium valproate, carbamazepine",
+      "Antibiotics: sulphonamides, penicillins, cephalosporins",
+      "Cardiovascular: captopril, enalapril, nifedipine; procainamide, quinidine",
+      "Others: gold, penicillamine; amitriptyline, mianserin; dapsone; cimetidine; zidovudine"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 948,
+       "page": 926,
+       "chapter": "Haematology and transfusion medicine"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Organisms in neutropenic fever",
+     "columns": [
+      "Group",
+      "Examples",
+      "Usual portal / clue"
+     ],
+     "rows": [
+      [
+       "Gram-positive cocci (**commonest overall**, Davidson)",
+       "_Staphylococcus aureus_, _Staph. epidermidis_",
+       "Skin flora entering via cannulae and central lines"
+      ],
+      [
+       "Gram-negative bacilli",
+       "_E. coli_, _Klebsiella_, **_Pseudomonas aeruginosa_**, _Proteus_",
+       "Gut flora crossing chemotherapy-damaged mucosa; cause **rapid deterioration**"
+      ],
+      [
+       "Fungi",
+       "_Candida_, _Aspergillus_",
+       "Prolonged neutropenia plus broad-spectrum antibiotics"
+      ],
+      [
+       "Viruses",
+       "Herpesviruses",
+       "Severe neutropenia"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 246,
+       "page": 224,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 979,
+       "page": 957,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 519,
+       "page": 497,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 246,
+       "page": 209,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 426,
+       "page": 426,
+       "chapter": "Hematology and oncology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 413,
+       "page": 413,
+       "chapter": "Oncology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Davidson says **Gram-positives are the commonest pathogens** (line-related). Pocket Medicine describes the classic mechanism as gut flora, especially Gram-negative rods such as _Pseudomonas_, seeding the blood, but notes that Gram-positives now account for 60–70% of the organisms identified. Reconcile them: Gram-positives are most frequent, but **Gram-negatives kill fastest**, so every empirical regimen must cover _Pseudomonas_.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 246,
+       "page": 224,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 979,
+       "page": 957,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 412,
+       "page": 412,
+       "chapter": "Oncology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.s3",
+   "title": "Pathogenesis and risk factors",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Neutrophils are the front-line defence against bacteria and fungi. Without them, a bacteraemia is not contained and the patient can become **septicaemic and shocked within hours** unless antibiotics start immediately. The risk of sepsis depends on **how deep and how long** the neutropenia is, plus extra risk factors such as **IV cannulae and urinary catheters**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 947,
+       "page": 925,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 267,
+       "page": 230,
+       "chapter": "Haematological disease"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Several defences fail at once in a cancer patient",
+     "items": [
+      "**Chemotherapy** — fewer and poorly functioning neutrophils; myelosuppression is **dose-related**, and intensive curative regimens accept a small risk of fatal infection",
+      "**Mucositis** — the damaged gut lining lets **Gram-negative bowel organisms** into the blood",
+      "**Central lines and cannulae** — breach the skin and admit **staphylococci**",
+      "**The malignancy itself** — T- and B-cell defects",
+      "**Glucocorticoids** — impaired T-cell function and phagocytosis",
+      "**Obstruction** — of lymphatics, biliary tree, bowel or urinary tract"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 246,
+       "page": 224,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 979,
+       "page": 957,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 132,
+       "page": 111,
+       "chapter": "Malignant disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 412,
+       "page": 412,
+       "chapter": "Oncology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Typical infection patterns",
+     "items": [
+      "Transient bacteraemia from **gut bacterial translocation**, cellulitis and pneumonia are the commonest infections",
+      "Most infections arise from the patient’s own **enteric flora** — the rationale for a low-contamination neutropenic diet",
+      "**Prolonged neutropenia plus antibiotic exposure** selects for fungal superinfection"
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 1024,
+       "page": 1024,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 137,
+       "page": 116,
+       "chapter": "Malignant disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 413,
+       "page": 413,
+       "chapter": "Oncology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Think of **two portals of entry**: the **gut** (mucositis → Gram-negatives such as _E. coli_ and _Pseudomonas_) and the **skin** (lines → _Staph. aureus_ and _Staph. epidermidis_).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 979,
+       "page": 957,
+       "chapter": "Haematology and transfusion medicine"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.s4",
+   "title": "Clinical features and examination",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Patients usually present with **high fever** and feel **non-specifically unwell**; examination rarely finds the source. **Fever is the first and often the only sign** of infection. There may be a sore throat, perianal pain or skin inflammation, and non-specific symptoms such as nausea, diarrhoea, drowsiness or breathlessness. **Tachycardia, hypotension or oliguria** mean systemic illness and need urgent admission and resuscitation.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 947,
+       "page": 925,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 137,
+       "page": 116,
+       "chapter": "Malignant disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 138,
+       "page": 117,
+       "chapter": "Malignant disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1024,
+       "page": 1024,
+       "chapter": "Infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Fever may be absent.** Elderly patients and those on **antipyretics or glucocorticoids** may not mount a fever; **hypothermia or simple clinical deterioration** can be the first sign. Kumar & Clark: treat any fever after chemotherapy as possible neutropenic sepsis.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 138,
+       "page": 117,
+       "chapter": "Malignant disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 117,
+       "page": 96,
+       "chapter": "Malignant disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 245,
+       "page": 208,
+       "chapter": "Haematological disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "With no neutrophils the inflammatory response is weak, so **signs are blunted**: little neck stiffness in meningitis, a near-normal chest X-ray in pneumonia, no leucocytosis. **No neutrophils on a Gram stain does not exclude infection.**",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 246,
+       "page": 224,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 413,
+       "page": 413,
+       "chapter": "Oncology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Focused examination",
+     "items": [
+      "Skin, including the **nail folds**; disseminated infection may show as skin lesions",
+      "Mouth and oropharynx (thrush, erythema, ulcers), sinuses and ears",
+      "Chest",
+      "**Central line, cannula and surgical wound sites**",
+      "Perianal area — **inspect only**",
+      "Abdomen — right lower quadrant pain suggests typhlitis"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 246,
+       "page": 224,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 413,
+       "page": 413,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 245,
+       "page": 208,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 412,
+       "page": 412,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 414,
+       "page": 414,
+       "chapter": "Oncology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Avoid digital rectal examination** in neutropenic patients, along with rectal thermometers, enemas and suppositories (risk of bacteraemia and bleeding).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 246,
+       "page": 224,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 413,
+       "page": 413,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1024,
+       "page": 1024,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 427,
+       "page": 427,
+       "chapter": "Hematology and oncology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Chronic or autoimmune neutropenia behaves differently: **recurrent sinusitis, stomatitis, gingivitis and perirectal infections** rather than acute sepsis.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 426,
+       "page": 426,
+       "chapter": "Hematology and oncology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.s5",
+   "title": "Investigations and risk stratification",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The **full blood count with differential** is the critical test. Take the infection screen, then **start antibiotics without waiting for results**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 137,
+       "page": 116,
+       "chapter": "Malignant disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 138,
+       "page": 117,
+       "chapter": "Malignant disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327,
+       "chapter": "Oncology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Initial work-up",
+     "columns": [
+      "Test",
+      "Detail"
+     ],
+     "rows": [
+      [
+       "Blood cultures",
+       "From a **peripheral vein and through each lumen of any central line**"
+      ],
+      [
+       "Other cultures",
+       "Urine; sputum; stool if diarrhoea (including _C. difficile_); throat, line-site and wound swabs"
+      ],
+      [
+       "Blood tests",
+       "FBC and differential, CRP, urea, creatinine and electrolytes, liver tests, clotting"
+      ],
+      [
+       "Imaging",
+       "**Chest X-ray for everyone**; chest CT if respiratory symptoms; abdominal imaging for right lower quadrant pain; sinus or CNS CT if localising features"
+      ],
+      [
+       "Fungal and viral markers",
+       "Serum **galactomannan** and _Aspergillus_ PCR; **(1,3)-β-D-glucan** (does **not** detect mucoraceous moulds); cryptococcal antigen; CMV PCR; bronchoalveolar lavage for _Pneumocystis jirovecii_"
+      ],
+      [
+       "Resuscitation monitoring",
+       "Urine output, Glasgow Coma Scale, central venous pressure"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 246,
+       "page": 224,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 413,
+       "page": 413,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 245,
+       "page": 208,
+       "chapter": "Haematological disease"
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 427,
+       "page": 427,
+       "chapter": "Hematology and oncology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 138,
+       "page": 117,
+       "chapter": "Malignant disease"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Cultures are often negative.** Adjust antibiotics if they grow something; if fever persists, look for an **occult source or abscess with CT**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 138,
+       "page": 117,
+       "chapter": "Malignant disease"
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 427,
+       "page": 427,
+       "chapter": "Hematology and oncology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Features that predict lower risk",
+     "items": [
+      "Onset as an outpatient, ECOG 0–1, age < 60, **solid tumour**, no symptoms, no major comorbidity, no previous fungal infection",
+      "**MASCC risk index ≥ 21**",
+      "Temperature < 39°C; no tachypnoea, hypotension, confusion or dehydration",
+      "Kumar & Clark: **no tachycardia, hypotension, hypoxia or mucositis**, and myelosuppression expected to be **short**"
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 413,
+       "page": 413,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 138,
+       "page": 117,
+       "chapter": "Malignant disease"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 948,
+      "page": 926,
+      "chapter": "Haematology and transfusion medicine",
+      "figure": "Fig. 23.12"
+     },
+     "note": "Look at: panel A (neutrophil) beside the other white cells in panels B–E; Box 23.9 alongside lists the causes of neutropenia."
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.s6",
+   "title": "Complications",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "What goes wrong",
+     "items": [
+      "**Septic shock and multi-organ failure** — **hypotension is an adverse prognostic sign** that can progress to circulatory collapse",
+      "Death — untreated neutropenic sepsis has a **high mortality**",
+      "**Neutropenic enterocolitis (typhlitis)** — inflammation of the caecum: right lower quadrant pain, watery or bloody diarrhoea, caecal wall thickening on imaging",
+      "**Invasive fungal infection** (_Candida_, _Aspergillus_) — after prolonged neutropenia and antibiotics; suspect when fever persists",
+      "**_Pneumocystis jirovecii_ pneumonia** — a particular risk in acute lymphoblastic leukaemia, hence co-trimoxazole prophylaxis during chemotherapy",
+      "Treatment toxicity — **amphotericin B deoxycholate is nephrotoxic**; lipid formulations are much less toxic"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 246,
+       "page": 224,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 412,
+       "page": 412,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 413,
+       "page": 413,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 979,
+       "page": 957,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 148,
+       "page": 126,
+       "chapter": "Principles of infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In aplastic anaemia, neutrophils < 0.5 × 10⁹/L (with platelets < 20 × 10⁹/L and reticulocytes < 40 × 10⁹/L) mark a **poor prognosis**; patients die of **infection or haemorrhage**.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 246,
+       "page": 209,
+       "chapter": "Haematological disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Right lower quadrant pain in a neutropenic patient is **not automatically appendicitis** — think **typhlitis** and image the abdomen.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 246,
+       "page": 224,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 412,
+       "page": 412,
+       "chapter": "Oncology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.s7",
+   "title": "Management and prevention",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Treat as an **emergency**: take cultures, then give **broad-spectrum IV antibiotics within 1 hour** of arrival (Kumar & Clark: hospitals need protocols for this). Choose according to **local policy and resistance patterns**, and discuss every case with the oncology team and microbiology.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 138,
+       "page": 117,
+       "chapter": "Malignant disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1024,
+       "page": 1024,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 245,
+       "page": 208,
+       "chapter": "Haematological disease"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Supportive care",
+     "items": [
+      "IV fluid resuscitation, monitoring urine output, GCS and CVP",
+      "Early critical-care referral; inotropes, ventilation or haemofiltration if needed",
+      "Broaden Gram-negative and add Gram-positive cover if the patient deteriorates or stays febrile"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 138,
+       "page": 117,
+       "chapter": "Malignant disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1350,
+       "page": 1328,
+       "chapter": "Oncology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Empirical antibiotics",
+     "columns": [
+      "Source",
+      "First line",
+      "Add when"
+     ],
+     "rows": [
+      [
+       "**Davidson, oncology**",
+       "**Piperacillin–tazobactam or meropenem** monotherapy, ± gentamicin",
+       "**Metronidazole** if anaerobes suspected; **teicoplanin** if Gram-positive infection suspected (e.g. central line)"
+      ],
+      [
+       "Davidson, infectious disease",
+       "IV piperacillin–tazobactam is the commonest regimen",
+       "Routine aminoglycoside **not** supported by trial data"
+      ],
+      [
+       "Davidson, leukaemia",
+       "Gentamicin + piperacillin–tazobactam, or meropenem alone (must cover _E. coli_, _Pseudomonas_, _Klebsiella_)",
+       "Vancomycin or teicoplanin for Gram-positive infection"
+      ],
+      [
+       "Kumar & Clark",
+       "Ceftazidime or piperacillin–tazobactam with gentamicin, or meropenem alone",
+       "Vancomycin for staphylococci, especially with lines"
+      ],
+      [
+       "US texts (Pocket, First Aid)",
+       "Antipseudomonal monotherapy: cefepime, piperacillin–tazobactam, a carbapenem or ceftazidime",
+       "Vancomycin only for hypotension, pneumonia, line or soft-tissue infection, Gram-positive blood cultures, or mucositis on quinolone prophylaxis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 246,
+       "page": 224,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 979,
+       "page": 957,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 138,
+       "page": 117,
+       "chapter": "Malignant disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 414,
+       "page": 414,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 427,
+       "page": 427,
+       "chapter": "Hematology and oncology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Gentamicin:** Davidson’s oncology and leukaemia sections list it as an option, but the infectious disease chapter says **routinely adding an aminoglycoside is not supported by trials**. In an MCQ, monotherapy with piperacillin–tazobactam or meropenem is the safe first-line answer.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 246,
+       "page": 224,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 979,
+       "page": 957,
+       "chapter": "Haematology and transfusion medicine"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "If the fever does not settle",
+     "items": [
+      "At **36–48 h** without response: review antibiotics with microbiology and **consider antifungal cover** (Davidson, oncology)",
+      "Fever persisting **3–5 days**: add **empirical antifungal** — caspofungin, liposomal amphotericin B or voriconazole (Davidson)",
+      "**Pre-emptive** alternative: azole prophylaxis in high-risk patients, treating only when galactomannan or fungal PCR turns positive",
+      "Kumar & Clark’s opportunist cover: liposomal amphotericin B or voriconazole (_Candida_, _Aspergillus_); **high-dose co-trimoxazole** (_Pneumocystis_); **clarithromycin** (_Mycoplasma_, _Legionella_); anti-TB therapy",
+      "Lipid (liposomal) amphotericin B is used because it is **far less nephrotoxic** than amphotericin B deoxycholate"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1350,
+       "page": 1328,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 246,
+       "page": 224,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 979,
+       "page": 957,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 138,
+       "page": 117,
+       "chapter": "Malignant disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 148,
+       "page": 126,
+       "chapter": "Principles of infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Antifungal timing differs between books**: Davidson 3–5 days (with review at 36–48 h), First Aid 72 h, Pocket Medicine ≥ 4 days, Step-Up 4–7 days. Davidson’s 3–5 days is the reference answer.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 246,
+       "page": 224,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 427,
+       "page": 427,
+       "chapter": "Hematology and oncology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 414,
+       "page": 414,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1024,
+       "page": 1024,
+       "chapter": "Infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Low-risk patients and duration",
+     "items": [
+      "Selected **low-risk** patients (see risk features) can avoid or shorten admission with **oral co-amoxiclav plus ciprofloxacin**; avoid a quinolone regimen if already on quinolone prophylaxis",
+      "Known source: a full standard course (e.g. 14 days for bacteraemia)",
+      "No source found: continue until **afebrile and neutrophils > 0.5 × 10⁹/L** (Pocket Medicine); Kumar & Clark Essentials switches to oral after 48 h apyrexial, 10–14 days in total"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 138,
+       "page": 117,
+       "chapter": "Malignant disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 414,
+       "page": 414,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 245,
+       "page": 208,
+       "chapter": "Haematological disease"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**G-CSF is not given routinely** to every neutropenic patient, nor routinely in established neutropenic fever; its use follows guidelines (Davidson, First Aid). Step-Up’s “consider G-CSF” for persistent fever is the minority view.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1350,
+       "page": 1328,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 427,
+       "page": 427,
+       "chapter": "Hematology and oncology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1024,
+       "page": 1024,
+       "chapter": "Infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Prevention",
+     "items": [
+      "**Fluoroquinolone prophylaxis** (e.g. ciprofloxacin) in intermediate- or high-risk patients — reduces mortality",
+      "**Primary G-CSF prophylaxis** when the regimen’s febrile neutropenia risk is **> 20%** or the patient is high-risk (age, comorbidity); **secondary** after a previous episode; not in AML; it lowers febrile neutropenia rates but has **not been shown to reduce mortality**",
+      "Antifungal (posaconazole, fluconazole, micafungin) and antiviral (aciclovir, valaciclovir) prophylaxis in blood cancers; **co-trimoxazole** against _Pneumocystis_ in ALL",
+      "**Neutropenic diet**: avoid raw vegetables, unpeeled fruit, raw or rare meat, fish, undercooked eggs, salad-bar and deli food, soft blue-mould cheeses and well water; cooked, canned and pasteurised food is safe",
+      "Neutropenic precautions: hand hygiene, HEPA-filtered room, no plants or fresh flowers, no rectal procedures"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 132,
+       "page": 111,
+       "chapter": "Malignant disease"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 413,
+       "page": 413,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 979,
+       "page": 957,
+       "chapter": "Haematology and transfusion medicine"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 137,
+       "page": 116,
+       "chapter": "Malignant disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 138,
+       "page": 117,
+       "chapter": "Malignant disease"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 1024,
+       "page": 1024,
+       "chapter": "Infectious disease"
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "alt": "Algorithm: fever or unwell within a month of chemotherapy, then FBC and cultures, then IV antibiotics within 1 hour, review at 36–48 hours, and add an antifungal if fever persists for 3–5 days.",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 330\" role=\"img\" aria-label=\"Febrile neutropenia first-hour algorithm\"><g font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\" fill=\"#1f2937\"><rect x=\"60\" y=\"10\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#fde68a\" stroke=\"#92400e\"/><text x=\"210\" y=\"34\">Fever or unwell ≤ 1 month after chemotherapy</text><line x1=\"210\" y1=\"50\" x2=\"210\" y2=\"70\" stroke=\"#374151\" stroke-width=\"2\"/><polygon points=\"204,66 216,66 210,76\" fill=\"#374151\"/><rect x=\"60\" y=\"76\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#e0f2fe\" stroke=\"#0369a1\"/><text x=\"210\" y=\"100\">FBC + cultures (peripheral and every line lumen), CXR</text><line x1=\"210\" y1=\"116\" x2=\"210\" y2=\"136\" stroke=\"#374151\" stroke-width=\"2\"/><polygon points=\"204,132 216,132 210,142\" fill=\"#374151\"/><rect x=\"60\" y=\"142\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#fecaca\" stroke=\"#991b1b\"/><text x=\"210\" y=\"166\">IV piperacillin–tazobactam or meropenem within 1 h</text><line x1=\"210\" y1=\"182\" x2=\"210\" y2=\"202\" stroke=\"#374151\" stroke-width=\"2\"/><polygon points=\"204,198 216,198 210,208\" fill=\"#374151\"/><rect x=\"60\" y=\"208\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#e0f2fe\" stroke=\"#0369a1\"/><text x=\"210\" y=\"232\">No response at 36–48 h: review with microbiology</text><line x1=\"210\" y1=\"248\" x2=\"210\" y2=\"268\" stroke=\"#374151\" stroke-width=\"2\"/><polygon points=\"204,264 216,264 210,274\" fill=\"#374151\"/><rect x=\"60\" y=\"274\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#ddd6fe\" stroke=\"#5b21b6\"/><text x=\"210\" y=\"298\">Fever 3–5 days: add empirical antifungal</text></g></svg>",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1350,
+       "page": 1328,
+       "chapter": "Oncology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 246,
+       "page": 224,
+       "chapter": "Infectious disease"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 138,
+       "page": 117,
+       "chapter": "Malignant disease"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "onc-febrile-neutropenia.c1",
+   "sectionId": "onc-febrile-neutropenia.s1",
+   "front": "Davidson (oncology) definition of neutropenic fever?",
+   "back": "Temperature ≥ 38°C for **more than 1 hour** with neutrophils **< 0.5 × 10⁹/L**, or < 1.0 × 10⁹/L if expected to fall below 0.5 within 24 h",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327,
+     "chapter": "Oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.c2",
+   "sectionId": "onc-febrile-neutropenia.s1",
+   "front": "Davidson (infectious disease) temperature rule for neutropenic fever?",
+   "back": "One **axillary** reading > 38.5°C, or **three** readings > 38.0°C within 12 hours (with neutrophils < 0.5 × 10⁹/L)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 246,
+     "page": 224,
+     "chapter": "Infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.c3",
+   "sectionId": "onc-febrile-neutropenia.s1",
+   "front": "NCCN fever criterion used by US texts?",
+   "back": "A single oral temperature ≥ 38.3°C (101°F), or ≥ 38.0°C (100.4°F) sustained for ≥ 1 hour",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 412,
+     "page": 412,
+     "chapter": "Oncology"
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 426,
+     "page": 426,
+     "chapter": "Hematology and oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.c4",
+   "sectionId": "onc-febrile-neutropenia.s1",
+   "front": "Neutropenia cut-off, and the \"severe\" cut-off?",
+   "back": "Neutropenia < 1.5 × 10⁹/L; **severe / critically low < 0.5 × 10⁹/L**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 947,
+     "page": 925,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 267,
+     "page": 230,
+     "chapter": "Haematological disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.c5",
+   "sectionId": "onc-febrile-neutropenia.s2",
+   "front": "Commonest cause of neutropenia in a cancer patient, and when does fever usually occur?",
+   "back": "**Chemotherapy**; at the nadir, about **7–10 days** after treatment",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327,
+     "chapter": "Oncology"
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 426,
+     "page": 426,
+     "chapter": "Hematology and oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.c6",
+   "sectionId": "onc-febrile-neutropenia.s2",
+   "front": "Commonest pathogens in neutropenic fever (Davidson)?",
+   "back": "**Gram-positive cocci** (_Staph. aureus_, _Staph. epidermidis_), especially with indwelling lines",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 246,
+     "page": 224,
+     "chapter": "Infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 979,
+     "page": 957,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.c7",
+   "sectionId": "onc-febrile-neutropenia.s2",
+   "front": "Two antithyroid drugs that can cause neutropenia?",
+   "back": "Carbimazole and propylthiouracil",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 948,
+     "page": 926,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.c8",
+   "sectionId": "onc-febrile-neutropenia.s3",
+   "front": "How do gut Gram-negatives reach the blood after chemotherapy?",
+   "back": "Chemotherapy-induced **mucositis** breaks the gut mucosal barrier",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 979,
+     "page": 957,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.c9",
+   "sectionId": "onc-febrile-neutropenia.s3",
+   "front": "What determines the risk of sepsis in a neutropenic patient?",
+   "back": "The **severity and duration** of neutropenia, plus extra risk factors such as IV cannulae and urinary catheters",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327,
+     "chapter": "Oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.c10",
+   "sectionId": "onc-febrile-neutropenia.s4",
+   "front": "Who may have neutropenic sepsis without a fever?",
+   "back": "The elderly and patients on **antipyretics or glucocorticoids**; hypothermia or deterioration may be the first sign",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 138,
+     "page": 117,
+     "chapter": "Malignant disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.c11",
+   "sectionId": "onc-febrile-neutropenia.s4",
+   "front": "Which examination should be avoided in a neutropenic patient?",
+   "back": "**Digital rectal examination** (inspect the perianal area only)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 246,
+     "page": 224,
+     "chapter": "Infectious disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 413,
+     "page": 413,
+     "chapter": "Oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.c12",
+   "sectionId": "onc-febrile-neutropenia.s5",
+   "front": "Where should blood cultures be taken from?",
+   "back": "A **peripheral vein and every lumen of any central line**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327,
+     "chapter": "Oncology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 413,
+     "page": 413,
+     "chapter": "Oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.c13",
+   "sectionId": "onc-febrile-neutropenia.s5",
+   "front": "Which fungal marker misses mucoraceous moulds?",
+   "back": "(1,3)-β-D-glucan; galactomannan and _Aspergillus_ PCR are used for aspergillosis",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 246,
+     "page": 224,
+     "chapter": "Infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.c14",
+   "sectionId": "onc-febrile-neutropenia.s6",
+   "front": "Typhlitis (neutropenic enterocolitis): features?",
+   "back": "Right lower quadrant pain, watery or bloody diarrhoea, **caecal wall thickening** on imaging",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 412,
+     "page": 412,
+     "chapter": "Oncology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 246,
+     "page": 224,
+     "chapter": "Infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.c15",
+   "sectionId": "onc-febrile-neutropenia.s6",
+   "front": "Adverse prognostic sign at presentation?",
+   "back": "**Hypotension** — may progress to circulatory collapse and multi-organ failure",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327,
+     "chapter": "Oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.c16",
+   "sectionId": "onc-febrile-neutropenia.s7",
+   "front": "Target time to first antibiotic dose?",
+   "back": "**Within 1 hour** of arrival in the emergency department",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 138,
+     "page": 117,
+     "chapter": "Malignant disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.c17",
+   "sectionId": "onc-febrile-neutropenia.s7",
+   "front": "Davidson first-line empirical therapy?",
+   "back": "**Piperacillin–tazobactam or meropenem** monotherapy (± gentamicin per local policy); add metronidazole for anaerobes, teicoplanin for Gram-positives/lines",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327,
+     "chapter": "Oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.c18",
+   "sectionId": "onc-febrile-neutropenia.s7",
+   "front": "When is an empirical antifungal added (Davidson)?",
+   "back": "If fever persists **3–5 days** despite antibiotics (review at 36–48 h): e.g. caspofungin, liposomal amphotericin B, voriconazole",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 246,
+     "page": 224,
+     "chapter": "Infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 979,
+     "page": 957,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327,
+     "chapter": "Oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.c19",
+   "sectionId": "onc-febrile-neutropenia.s7",
+   "front": "Oral regimen for selected low-risk patients?",
+   "back": "**Co-amoxiclav plus ciprofloxacin**",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 138,
+     "page": 117,
+     "chapter": "Malignant disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 414,
+     "page": 414,
+     "chapter": "Oncology"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "onc-febrile-neutropenia.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 61-year-old woman is 9 days into a cycle of docetaxel for breast cancer. Her temperature is 38.1°C at 14:00 and 38.2°C at 15:20. Her neutrophil count is 0.4 × 10⁹/L.",
+   "leadIn": "Using Davidson’s oncology definition, which combination makes this neutropenic fever?",
+   "options": [
+    "Temperature ≥ 37.5°C on one reading with neutrophils < 1.5 × 10⁹/L",
+    "Temperature > 39°C on one reading with neutrophils < 2.0 × 10⁹/L",
+    "Temperature ≥ 38°C for over 24 hours with neutrophils < 0.1 × 10⁹/L",
+    "Temperature ≥ 38°C for over 1 hour with neutrophils < 0.5 × 10⁹/L",
+    "Temperature ≥ 38°C for over 1 hour with lymphocytes < 1.0 × 10⁹/L"
+   ],
+   "answer": 3,
+   "explanation": "Davidson defines neutropenic fever as **≥ 38°C lasting more than 1 hour** with neutrophils **< 0.5 × 10⁹/L** (or < 1.0 if expected to fall below 0.5 within 24 h). She has been above 38°C for over an hour with a count of 0.4.",
+   "whyNot": [
+    "37.5°C is not a threshold, and < 1.5 × 10⁹/L defines neutropenia, not the febrile-neutropenia count.",
+    "No book requires 39°C, and 2.0 × 10⁹/L is not neutropenic.",
+    "Waiting 24 hours would be dangerous; the duration needed is 1 hour and the count is < 0.5.",
+    "",
+    "The definition uses neutrophils, not lymphocytes."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327,
+     "chapter": "Oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 50-year-old man with lymphoma is 6 days after chemotherapy. His temperature has been 38.2°C for 2 hours. His neutrophil count is 0.8 × 10⁹/L, and the haematology team expect it to drop below 0.5 × 10⁹/L within the next day.",
+   "leadIn": "How should this episode be classified?",
+   "options": [
+    "Not neutropenic fever, because the count is above 0.5 × 10⁹/L",
+    "Not neutropenic fever, because the temperature is below 38.5°C",
+    "Neutropenic fever only once a source of infection is found",
+    "Neutropenic fever only if the count stays low for over 7 days",
+    "Neutropenic fever, to be treated as an emergency"
+   ],
+   "answer": 4,
+   "explanation": "Davidson’s definition includes a count **< 1.0 × 10⁹/L when the nadir is expected to fall below 0.5 × 10⁹/L within 24 hours**. With a sustained temperature ≥ 38°C, this is neutropenic fever and needs immediate antibiotics.",
+   "whyNot": [
+    "The \"expected nadir\" rule extends the definition to counts below 1.0 × 10⁹/L that are expected to fall below 0.5 × 10⁹/L within 24 hours.",
+    "38.5°C is only one alternative (single axillary reading); ≥ 38°C for over 1 hour also qualifies.",
+    "A source is rarely found; treatment must not wait for one.",
+    "Duration of neutropenia affects risk, not whether the episode is defined as neutropenic fever.",
+    ""
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327,
+     "chapter": "Oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 44-year-old man with acute myeloid leukaemia has a tunnelled central venous catheter. On day 11 of induction chemotherapy he develops a fever of 38.6°C. The skin around the exit site is red, and blood cultures drawn through the line grow Gram-positive cocci in clusters.",
+   "leadIn": "Which organism is most likely?",
+   "options": [
+    "_Staphylococcus epidermidis_",
+    "_Pseudomonas aeruginosa_",
+    "_Escherichia coli_",
+    "_Aspergillus fumigatus_",
+    "_Candida albicans_"
+   ],
+   "answer": 0,
+   "explanation": "Gram-positive skin organisms — _Staph. aureus_ and _Staph. epidermidis_ — are the commonest cause of severe neutropenic sepsis and enter **via cannulae and central lines**. Gram-positive cocci in clusters from a line fits staphylococci.",
+   "whyNot": [
+    "",
+    "A Gram-negative rod from the gut; it would not appear as Gram-positive cocci.",
+    "A Gram-negative rod that enters through damaged gut mucosa.",
+    "A mould; it does not grow as cocci in blood cultures and causes later, persistent fever.",
+    "A yeast; it is not a Gram-positive coccus in clusters."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 979,
+     "page": 957,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 246,
+     "page": 224,
+     "chapter": "Infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 34-year-old woman with Graves’ disease presents with a sore throat and a temperature of 38.8°C. Her neutrophil count is 0.2 × 10⁹/L; haemoglobin and platelets are normal. Her medicines are carbimazole (started 6 weeks ago), propranolol, a combined oral contraceptive, omeprazole and occasional paracetamol.",
+   "leadIn": "Which medicine is most likely to have caused her neutropenia?",
+   "options": [
+    "Propranolol",
+    "Combined oral contraceptive",
+    "Omeprazole",
+    "Carbimazole",
+    "Paracetamol"
+   ],
+   "answer": 3,
+   "explanation": "Antithyroid drugs (**carbimazole, propylthiouracil**) are classic causes of drug-induced neutropenia; an isolated agranulocytosis is usually a drug reaction. Sore throat with fever is a typical presentation.",
+   "whyNot": [
+    "Beta-blockers are not on the list of drugs that cause neutropenia.",
+    "Oral contraceptives are not a recognised cause.",
+    "Omeprazole is not listed; the H₂ blocker cimetidine is.",
+    "",
+    "Paracetamol is not a recognised cause of agranulocytosis."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 948,
+     "page": 926,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 1024,
+     "page": 1024,
+     "chapter": "Infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 947,
+     "page": 925,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 58-year-old man is 10 days after chemotherapy for diffuse large B-cell lymphoma. He has painful mouth ulcers and diarrhoea, and a fever of 38.7°C. He has no central line. Blood cultures grow _Escherichia coli_.",
+   "leadIn": "Which mechanism best explains how this organism entered his bloodstream?",
+   "options": [
+    "Contamination of an IV cannula by skin flora",
+    "Glucocorticoid-induced loss of T-cell function",
+    "Chemotherapy-induced mucositis breaching the gut lining",
+    "Hypersplenism destroying circulating neutrophils",
+    "Aspiration of oral secretions into the lungs"
+   ],
+   "answer": 2,
+   "explanation": "Chemotherapy damages rapidly dividing mucosa. **Mucositis** opens the gut barrier, so **Gram-negative bowel organisms** such as _E. coli_ enter the blood. His mouth ulcers and diarrhoea show the mucosal damage.",
+   "whyNot": [
+    "Skin flora via cannulae are typically staphylococci, not _E. coli_.",
+    "Steroids impair T cells and phagocytosis but do not explain a gut organism entering the blood.",
+    "",
+    "Hypersplenism is a cause of neutropenia, not a portal of entry.",
+    "Aspiration causes pneumonia; _E. coli_ bacteraemia with gut symptoms points to the bowel."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 979,
+     "page": 957,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 246,
+     "page": 224,
+     "chapter": "Infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "Two patients with breast cancer develop neutropenia after the same chemotherapy regimen. One has a neutrophil count of 0.1 × 10⁹/L expected to last 10 days and a urinary catheter; the other has 0.9 × 10⁹/L expected to recover in 2 days.",
+   "leadIn": "Which factor best explains why the first patient has the higher risk of sepsis?",
+   "options": [
+    "Her greater depth and duration of neutropenia, plus a catheter",
+    "Her lower haemoglobin concentration",
+    "Her higher platelet count",
+    "The histological grade of her tumour",
+    "The time of day the chemotherapy was given"
+   ],
+   "answer": 0,
+   "explanation": "Sepsis risk relates to the **severity and duration of neutropenia** and to added risk factors such as **IV cannulae and bladder catheters**.",
+   "whyNot": [
+    "",
+    "Anaemia does not determine bacterial infection risk here.",
+    "Platelets affect bleeding risk, not infection risk.",
+    "Tumour grade does not directly set the infection risk of neutropenia.",
+    "Timing of administration is irrelevant."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327,
+     "chapter": "Oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 78-year-old man is 8 days after carboplatin for lung cancer and is taking dexamethasone. His daughter says he has become confused today. Temperature 35.6°C, pulse 114/min, BP 92/58 mmHg.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Rewarm him and recheck the temperature in 4 hours before deciding",
+    "Take blood cultures and give IV broad-spectrum antibiotics within the hour",
+    "Stop dexamethasone and observe for steroid-induced delirium",
+    "Arrange a CT head before starting any treatment",
+    "Wait for blood culture results before choosing an antibiotic"
+   ],
+   "answer": 1,
+   "explanation": "Fever may be **absent** in elderly patients and those on **steroids**; **hypothermia or clinical deterioration** can be the first sign. Tachycardia and hypotension after recent chemotherapy mean presumed neutropenic sepsis: cultures, then IV antibiotics within 1 hour.",
+   "whyNot": [
+    "Delaying for a fever wastes the critical first hour; hypothermia can itself signal sepsis.",
+    "",
+    "Steroids may mask fever; stopping them does not treat the likely sepsis.",
+    "Imaging must not delay antibiotics in a hypotensive post-chemotherapy patient.",
+    "Cultures are often negative; antibiotics are started without waiting."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 138,
+     "page": 117,
+     "chapter": "Malignant disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 137,
+     "page": 116,
+     "chapter": "Malignant disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 39-year-old woman receiving chemotherapy for acute lymphoblastic leukaemia has a fever of 38.4°C and complains of perianal pain. Her neutrophil count is 0.1 × 10⁹/L.",
+   "leadIn": "Which part of the examination should be avoided?",
+   "options": [
+    "Inspection of the perianal skin",
+    "Inspection of the central line exit site",
+    "Examination of the oropharynx",
+    "Inspection of the finger and toe nail folds",
+    "Digital rectal examination"
+   ],
+   "answer": 4,
+   "explanation": "In neutropenic patients **digital rectal examination is avoided**; the perianal area is inspected instead. Rectal thermometers, enemas and suppositories are also avoided.",
+   "whyNot": [
+    "Inspecting the perianal area is recommended.",
+    "Line sites are a key source and must be examined.",
+    "The mouth and pharynx should be checked for thrush and ulcers.",
+    "Davidson specifically advises close inspection around the nails.",
+    ""
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 246,
+     "page": 224,
+     "chapter": "Infectious disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 413,
+     "page": 413,
+     "chapter": "Oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 47-year-old woman with a PICC line is admitted with neutropenic fever 8 days after chemotherapy for breast cancer.",
+   "leadIn": "Which blood culture strategy is most appropriate?",
+   "options": [
+    "A peripheral sample plus a sample from each lumen of the line",
+    "A sample from the line only",
+    "A peripheral sample only, after removing the line",
+    "A single sample once the temperature exceeds 39°C",
+    "A single sample after the first antibiotic dose"
+   ],
+   "answer": 0,
+   "explanation": "Cultures should be taken from **both a peripheral vein and the central line** (each lumen), then antibiotics started without waiting for results.",
+   "whyNot": [
+    "",
+    "A line-only sample cannot separate line colonisation from bacteraemia.",
+    "The line is not removed routinely before culturing.",
+    "There is no 39°C threshold; delaying cultures delays antibiotics.",
+    "Cultures should be taken before antibiotics to maximise yield."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327,
+     "chapter": "Oncology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 413,
+     "page": 413,
+     "chapter": "Oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 45-year-old man with a germ-cell tumour develops a fever of 38.4°C at home 9 days after chemotherapy. He has no significant comorbidities. On examination he has painful oral mucositis; pulse 88/min, BP 126/78 mmHg, SpO₂ 98%.",
+   "leadIn": "Which feature argues most strongly against managing him as low risk with oral antibiotics?",
+   "options": [
+    "His age of 45",
+    "His solid tumour",
+    "Onset of fever at home",
+    "His oral mucositis",
+    "His temperature of 38.4°C"
+   ],
+   "answer": 3,
+   "explanation": "Kumar & Clark’s low-risk criteria require **no tachycardia, hypotension, hypoxia or mucositis** and a short expected neutropenia. Mucositis also means poor oral absorption and a breached gut barrier.",
+   "whyNot": [
+    "Age < 60 is a lower-risk feature.",
+    "A solid tumour is a lower-risk feature.",
+    "Outpatient onset is a lower-risk feature.",
+    "",
+    "A temperature below 39°C is a lower-risk feature."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 138,
+     "page": 117,
+     "chapter": "Malignant disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 413,
+     "page": 413,
+     "chapter": "Oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 26-year-old man is 12 days into induction chemotherapy for acute myeloid leukaemia. He has right lower quadrant pain, watery diarrhoea streaked with blood and a fever of 38.9°C. Neutrophils are 0.1 × 10⁹/L. CT shows thickening of the caecal wall.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Acute appendicitis",
+    "Neutropenic enterocolitis (typhlitis)",
+    "_Clostridioides difficile_ colitis",
+    "Ischaemic colitis",
+    "Crohn’s disease"
+   ],
+   "answer": 1,
+   "explanation": "**Typhlitis** is inflammation of the caecum specific to neutropenia: right lower quadrant pain, watery or bloody diarrhoea and **caecal wall thickening**.",
+   "whyNot": [
+    "Appendicitis is possible, but profound neutropenia plus caecal wall thickening points to typhlitis.",
+    "",
+    "_C. difficile_ causes diffuse colitis; localised caecal thickening in neutropenia suggests typhlitis.",
+    "Ischaemic colitis affects older patients and watershed areas, not the caecum in neutropenia.",
+    "A new presentation during induction chemotherapy with caecal thickening is not typical of Crohn’s disease."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s6"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 412,
+     "page": 412,
+     "chapter": "Oncology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 246,
+     "page": 224,
+     "chapter": "Infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 9-year-old boy receiving chemotherapy for acute lymphoblastic leukaemia develops a dry cough, fever and hypoxia. Bronchoalveolar lavage shows _Pneumocystis jirovecii_.",
+   "leadIn": "Which prophylactic agent is given during ALL chemotherapy to prevent this infection?",
+   "options": [
+    "Fluconazole",
+    "Aciclovir",
+    "Co-trimoxazole",
+    "Ciprofloxacin",
+    "Itraconazole"
+   ],
+   "answer": 2,
+   "explanation": "Patients with ALL are prone to **_Pneumocystis_ pneumonia**, so **co-trimoxazole prophylaxis** is given throughout chemotherapy; treatment is with high-dose co-trimoxazole.",
+   "whyNot": [
+    "Fluconazole prevents _Candida_, not _Pneumocystis_.",
+    "Aciclovir prevents herpesvirus reactivation.",
+    "",
+    "Ciprofloxacin is antibacterial prophylaxis.",
+    "Itraconazole is used against _Aspergillus_, not _Pneumocystis_."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 979,
+     "page": 957,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 55-year-old man with colon cancer is admitted 10 days after chemotherapy with a temperature of 38.6°C for 2 hours and neutrophils of 0.3 × 10⁹/L. Pulse 104/min, BP 112/70 mmHg. He has no allergies.",
+   "leadIn": "Which empirical antibiotic is most appropriate as first line?",
+   "options": [
+    "Oral amoxicillin",
+    "IV vancomycin alone",
+    "IV fluconazole",
+    "IV piperacillin–tazobactam",
+    "Oral clarithromycin"
+   ],
+   "answer": 3,
+   "explanation": "Davidson’s first-line empirical therapy is **piperacillin–tazobactam or meropenem**, giving broad cover including _Pseudomonas_ and enteric Gram-negatives, started IV within an hour.",
+   "whyNot": [
+    "Oral amoxicillin lacks antipseudomonal cover and is too narrow for an admitted, tachycardic patient.",
+    "Vancomycin covers only Gram-positives; Gram-negatives must be covered from the start.",
+    "An antifungal is not first-line; it is added for persistent fever.",
+    "",
+    "Clarithromycin covers atypical organisms only."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327,
+     "chapter": "Oncology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 246,
+     "page": 224,
+     "chapter": "Infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 62-year-old woman with neutropenic fever needs an empirical antifungal. The team chooses liposomal amphotericin B rather than conventional amphotericin B deoxycholate.",
+   "leadIn": "What is the main reason for this choice?",
+   "options": [
+    "It is much less nephrotoxic",
+    "It is absorbed well by mouth",
+    "It also covers Gram-negative bacteria",
+    "It is cheaper",
+    "It does not need IV access"
+   ],
+   "answer": 0,
+   "explanation": "Lipid formulations of amphotericin B have similar efficacy but **far fewer adverse effects**; amphotericin B deoxycholate commonly causes **nephrotoxicity**. Lipid forms are used as empirical therapy in neutropenic fever.",
+   "whyNot": [
+    "",
+    "Both forms are given intravenously.",
+    "Amphotericin has no antibacterial activity.",
+    "Cost is not the reason given; the lipid formulation is chosen because its adverse effects, including nephrotoxicity, are much less frequent.",
+    "It is an IV drug."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 148,
+     "page": 126,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 30-year-old man of Afro-Caribbean descent has a neutrophil count of 1.2 × 10⁹/L on a routine pre-employment blood test. He is well, has had no recurrent infections, and his haemoglobin, platelets and blood film are otherwise normal.",
+   "leadIn": "What is the most likely explanation?",
+   "options": [
+    "Kostmann syndrome",
+    "Acute leukaemia",
+    "Constitutional (ethnic) neutropenia",
+    "Aplastic anaemia",
+    "Drug-induced agranulocytosis"
+   ],
+   "answer": 2,
+   "explanation": "Davidson lists **constitutional neutropenia** in people of Afro-Caribbean and Middle Eastern descent; the normal neutrophil range varies with ethnicity. A well man with a mild isolated low count fits.",
+   "whyNot": [
+    "Kostmann syndrome is a congenital, severe neutropenia with infections from childhood.",
+    "Leukaemia would usually affect other lineages or show blasts.",
+    "",
+    "Aplastic anaemia causes pancytopenia.",
+    "He takes no drugs, and agranulocytosis means a very low count."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 948,
+     "page": 926,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 267,
+     "page": 230,
+     "chapter": "Haematological disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 52-year-old woman receives her first cycle of adjuvant chemotherapy for breast cancer.",
+   "leadIn": "When is neutropenic fever most likely to develop after this cycle?",
+   "options": [
+    "Days 1–2",
+    "Days 7–10",
+    "Days 21–28",
+    "Days 35–42",
+    "After day 60"
+   ],
+   "answer": 1,
+   "explanation": "Chemotherapy-induced neutropenic fever usually occurs at the **neutrophil nadir, about 7–10 days** after treatment.",
+   "whyNot": [
+    "The count has not yet fallen in the first days.",
+    "",
+    "By 3–4 weeks the count has usually recovered, ready for the next cycle.",
+    "This is well after the usual nadir.",
+    "Long after the nadir."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s2"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "pdfPage": 426,
+     "page": 426,
+     "chapter": "Hematology and oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q17",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 66-year-old man with myeloma has a neutrophil count of 0.3 × 10⁹/L. His axillary temperatures are 38.1°C at 08:00, 38.2°C at 13:00 and 38.1°C at 18:00. He feels well.",
+   "leadIn": "Under Davidson’s infectious disease definition, how should this be interpreted?",
+   "options": [
+    "Not neutropenic fever, because no single reading exceeds 39°C",
+    "Not neutropenic fever, because he feels well",
+    "Not neutropenic fever, because the readings were 5 hours apart",
+    "Neutropenic fever only if CRP is raised",
+    "Neutropenic fever, because there are three readings above 38.0°C within 12 hours"
+   ],
+   "answer": 4,
+   "explanation": "Davidson’s infectious disease chapter accepts **one axillary reading > 38.5°C or three readings > 38.0°C over 12 hours** with neutrophils < 0.5 × 10⁹/L.",
+   "whyNot": [
+    "No definition requires 39°C.",
+    "Patients are often only non-specifically unwell; feeling well does not exclude it.",
+    "Three readings spread across 12 hours is exactly the criterion.",
+    "CRP is not part of the definition.",
+    ""
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 246,
+     "page": 224,
+     "chapter": "Infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q18",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 57-year-old woman with neutropenic fever after chemotherapy for ovarian cancer deteriorates rapidly over a few hours with hypotension. Her mucositis is severe.",
+   "leadIn": "Which organism must the empirical regimen always cover from the outset?",
+   "options": [
+    "_Pseudomonas aeruginosa_",
+    "Meticillin-resistant _Staph. aureus_",
+    "_Aspergillus fumigatus_",
+    "_Candida albicans_",
+    "_Pneumocystis jirovecii_"
+   ],
+   "answer": 0,
+   "explanation": "Gut-derived Gram-negatives (_E. coli_, _Klebsiella_, **_Pseudomonas_**) cause **rapid deterioration** and must be covered by the initial empirical regimen (hence piperacillin–tazobactam, meropenem or ceftazidime).",
+   "whyNot": [
+    "",
+    "Gram-positive or MRSA cover is added for specific indications such as line infection.",
+    "Antifungal cover is added for persistent fever, not from the outset.",
+    "Antifungals are added later if fever persists.",
+    "_Pneumocystis_ is covered by prophylaxis or treated when found, not by the initial empirical regimen."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 979,
+     "page": 957,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 138,
+     "page": 117,
+     "chapter": "Malignant disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 414,
+     "page": 414,
+     "chapter": "Oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q19",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 41-year-old man with acute leukaemia has been on piperacillin–tazobactam for neutropenic fever for 24 hours. The skin around his Hickman line exit site is now red, tender and discharging pus.",
+   "leadIn": "Which addition to his treatment is most appropriate?",
+   "options": [
+    "Metronidazole",
+    "Gentamicin",
+    "Teicoplanin",
+    "Fluconazole",
+    "Aciclovir"
+   ],
+   "answer": 2,
+   "explanation": "Suspected **Gram-positive (line-related) infection** calls for **teicoplanin or vancomycin** on top of the antipseudomonal backbone.",
+   "whyNot": [
+    "Metronidazole is added for suspected anaerobic infection.",
+    "Gentamicin broadens Gram-negative cover; it does not treat staphylococcal line infection well.",
+    "",
+    "An antifungal is not indicated for an acute purulent exit-site infection.",
+    "Aciclovir treats herpesviruses."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327,
+     "chapter": "Oncology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 979,
+     "page": 957,
+     "chapter": "Haematology and transfusion medicine"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q20",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A foundation doctor asks about granulocyte colony-stimulating factor (G-CSF) for a patient admitted with neutropenic fever.",
+   "leadIn": "Which statement is most accurate?",
+   "options": [
+    "It should be given to every patient with neutropenia",
+    "It has been shown to reduce mortality in febrile neutropenia",
+    "It is not used routinely in established neutropenic fever; its use follows guidelines",
+    "It is the preferred primary prophylaxis in acute myeloid leukaemia",
+    "It can replace antibiotics in low-risk patients"
+   ],
+   "answer": 2,
+   "explanation": "Davidson: **G-CSF is not used routinely** for all neutropenic patients; guidelines govern its use. First Aid agrees it is not routinely indicated in established neutropenic fever. Its main role is **primary prophylaxis** (regimen risk > 20%) or **secondary prophylaxis** after a previous episode.",
+   "whyNot": [
+    "Routine use for all patients is explicitly not recommended.",
+    "It reduces febrile neutropenia rates but has not been shown to reduce mortality.",
+    "",
+    "Colony-stimulating factors are not used in AML.",
+    "Nothing replaces prompt antibiotics."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328,
+     "chapter": "Oncology"
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 427,
+     "page": 427,
+     "chapter": "Hematology and oncology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 413,
+     "page": 413,
+     "chapter": "Oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q21",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 59-year-old woman remains febrile on day 5 of piperacillin–tazobactam for neutropenic fever after AML induction. CT chest shows nodules. The team wants a blood test for invasive aspergillosis.",
+   "leadIn": "Which test is most appropriate?",
+   "options": [
+    "Cryptococcal antigen",
+    "Serum galactomannan",
+    "CMV PCR",
+    "_Legionella_ urinary antigen",
+    "Antistreptolysin O titre"
+   ],
+   "answer": 1,
+   "explanation": "**Galactomannan** (and _Aspergillus_ PCR) detects _Aspergillus_ in blood; a positive result can trigger pre-emptive antifungal therapy.",
+   "whyNot": [
+    "Cryptococcal antigen detects _Cryptococcus neoformans_.",
+    "",
+    "CMV PCR detects cytomegalovirus.",
+    "Urinary antigen detects _Legionella pneumophila_ type 1.",
+    "ASO is for streptococcal infection and antibody tests are rarely useful in immunocompromised patients."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 246,
+     "page": 224,
+     "chapter": "Infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q22",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A 63-year-old man is being discharged between chemotherapy cycles and is given advice on a neutropenic diet.",
+   "leadIn": "Which food should he avoid?",
+   "options": [
+    "Canned fruit",
+    "Well-done meat",
+    "Hard-boiled eggs",
+    "Pasteurised yoghurt",
+    "Soft blue-mould cheese"
+   ],
+   "answer": 4,
+   "explanation": "Kumar & Clark’s neutropenic diet avoids foods likely to carry bacteria or fungi, including **soft blue-mould cheeses**, raw vegetables, rare meat, fish, undercooked eggs, deli and salad-bar food.",
+   "whyNot": [
+    "Canned fruit is listed as safe.",
+    "Well-done meat is safe.",
+    "Hard-boiled eggs with no runny yolk are safe.",
+    "Pasteurised dairy is safe.",
+    ""
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 138,
+     "page": 117,
+     "chapter": "Malignant disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q23",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 48-year-old woman with breast cancer is 8 days after her third cycle of chemotherapy. She has felt shivery for 2 hours. Temperature 38.4°C for 90 minutes, pulse 108/min, BP 100/64 mmHg. She has an implanted port. Neutrophils 0.2 × 10⁹/L.",
+   "leadIn": "What is the most appropriate immediate management?",
+   "options": [
+    "Oral co-amoxiclav and ciprofloxacin at home",
+    "Wait for blood culture results, then start a targeted antibiotic",
+    "Blood cultures from a peripheral vein and the port, then IV piperacillin–tazobactam within 1 hour",
+    "IV vancomycin as monotherapy",
+    "G-CSF injection and review in 24 hours"
+   ],
+   "answer": 2,
+   "explanation": "**Step 1 — recognise it:** ≥ 38°C for over an hour with neutrophils < 0.5 × 10⁹/L is neutropenic fever (Davidson), an emergency. **Step 2 — assess risk:** tachycardia and borderline BP mean she is not low risk, so she needs admission and IV treatment. **Step 3 — investigate quickly:** cultures from a peripheral vein **and the port**, urine, CXR. **Step 4 — treat within the hour:** broad-spectrum IV antibiotics covering _Pseudomonas_ — piperacillin–tazobactam or meropenem — without waiting for results.",
+   "whyNot": [
+    "Oral treatment is only for low-risk patients without tachycardia or hypotension.",
+    "Cultures are often negative and the delay can be fatal.",
+    "",
+    "Vancomycin alone misses the Gram-negatives that cause rapid deterioration.",
+    "G-CSF is not routine in established neutropenic fever and does not replace antibiotics."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327,
+     "chapter": "Oncology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 138,
+     "page": 117,
+     "chapter": "Malignant disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q24",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 52-year-old man with a testicular germ-cell tumour phones the chemotherapy unit 9 days after treatment with a temperature of 38.3°C sustained for an hour. In clinic: pulse 84/min, BP 128/80 mmHg, SpO₂ 98% on air, no mouth ulcers. Neutrophils 0.4 × 10⁹/L, expected to recover within a few days. The unit has an established febrile neutropenia service.",
+   "leadIn": "What is the most appropriate management after cultures?",
+   "options": [
+    "Oral co-amoxiclav plus ciprofloxacin with close follow-up",
+    "IV meropenem and vancomycin in intensive care",
+    "No antibiotics; repeat blood count in 48 hours",
+    "Oral fluconazole",
+    "IV liposomal amphotericin B"
+   ],
+   "answer": 0,
+   "explanation": "**Step 1 — confirm:** he has neutropenic fever. **Step 2 — stratify:** solid tumour, outpatient onset, age < 60, no tachycardia, hypotension, hypoxia or mucositis, short expected neutropenia → **low risk**. **Step 3 — choose:** in experienced units low-risk patients can avoid or shorten admission with **oral co-amoxiclav plus ciprofloxacin**. **Step 4 — safety-net:** he still needs cultures and close review; if he deteriorates, admit for IV therapy.",
+   "whyNot": [
+    "",
+    "Intensive care and dual IV therapy are excessive for a stable, low-risk patient.",
+    "Neutropenic fever always needs antibiotics.",
+    "An antifungal is not first-line.",
+    "Antifungals are reserved for persistent fever."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 138,
+     "page": 117,
+     "chapter": "Malignant disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 413,
+     "page": 413,
+     "chapter": "Oncology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 414,
+     "page": 414,
+     "chapter": "Oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q25",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 36-year-old woman with AML has had neutropenic fever for 5 days. She has received piperacillin–tazobactam since admission and teicoplanin since day 2. Blood cultures are negative. She is still febrile at 38.8°C. CT chest shows several nodules, and serum galactomannan is positive.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Add gentamicin",
+    "Stop all antibiotics to allow a diagnostic window",
+    "Start G-CSF and continue the current regimen unchanged",
+    "Add an antifungal such as voriconazole or liposomal amphotericin B",
+    "Switch to oral co-amoxiclav and ciprofloxacin"
+   ],
+   "answer": 3,
+   "explanation": "**Step 1 — note the time course:** fever persisting **3–5 days** despite broad-spectrum antibacterials is Davidson’s trigger for antifungal therapy (review starts at 36–48 h). **Step 2 — look for evidence:** CT nodules and a **positive galactomannan** point to invasive _Aspergillus_. **Step 3 — act:** add **liposomal amphotericin B, voriconazole or caspofungin**. Lipid amphotericin is preferred over the deoxycholate form because it is less nephrotoxic.",
+   "whyNot": [
+    "More Gram-negative cover will not treat a fungal infection.",
+    "Stopping treatment in persistent neutropenic fever is dangerous.",
+    "G-CSF is not routine and does nothing for the established fungal infection.",
+    "",
+    "Oral step-down is for patients who are improving and low risk."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 979,
+     "page": 957,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 246,
+     "page": 224,
+     "chapter": "Infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327,
+     "chapter": "Oncology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 148,
+     "page": 126,
+     "chapter": "Principles of infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q26",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Antimicrobial choices in neutropenic patients",
+   "leadIn": "For each patient below, choose the most appropriate antimicrobial to start or add. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "IV piperacillin–tazobactam",
+    "IV meropenem",
+    "IV teicoplanin",
+    "IV metronidazole",
+    "IV caspofungin",
+    "IV liposomal amphotericin B",
+    "High-dose co-trimoxazole",
+    "Oral co-amoxiclav plus ciprofloxacin",
+    "Clarithromycin",
+    "Oral fluconazole",
+    "IV gentamicin"
+   ],
+   "items": [
+    {
+     "stem": "A 46-year-old woman with breast cancer, 9 days after chemotherapy, has a temperature of 38.2°C for 2 hours and neutrophils of 0.4 × 10⁹/L. She is well, with normal observations and no mucositis; recovery is expected within days. The unit runs a febrile neutropenia service.",
+     "answer": 7,
+     "explanation": "Low-risk features (no tachycardia, hypotension, hypoxia or mucositis; short neutropenia) allow **oral co-amoxiclav plus ciprofloxacin** in experienced units.",
+     "studyRef": {
+      "sectionId": "onc-febrile-neutropenia.s7"
+     }
+    },
+    {
+     "stem": "A 12-year-old boy on chemotherapy for acute lymphoblastic leukaemia stopped taking his prophylactic tablets. He now has fever, a dry cough and falling oxygen saturation; bronchoalveolar lavage identifies _Pneumocystis jirovecii_.",
+     "answer": 6,
+     "explanation": "ALL with missed co-trimoxazole prophylaxis and _Pneumocystis_ on BAL → treat with **high-dose co-trimoxazole**.",
+     "studyRef": {
+      "sectionId": "onc-febrile-neutropenia.s6"
+     }
+    },
+    {
+     "stem": "A 60-year-old man on piperacillin–tazobactam for neutropenic fever is still febrile on day 3. He now has a fluctuant, foul-smelling perianal collection, and the team suspects anaerobic infection.",
+     "answer": 3,
+     "explanation": "Davidson: add **metronidazole** when anaerobic infection is suspected.",
+     "studyRef": {
+      "sectionId": "onc-febrile-neutropenia.s7"
+     }
+    },
+    {
+     "stem": "A 55-year-old woman with lymphoma remains febrile despite broad-spectrum antibiotics. She has a new cough, diarrhoea and confusion; a urinary antigen test is positive for _Legionella pneumophila_ serogroup 1.",
+     "answer": 8,
+     "explanation": "Two steps: positive urinary antigen → _Legionella_ → Kumar & Clark’s opportunist cover lists **clarithromycin** for _Mycoplasma_ and _Legionella_.",
+     "studyRef": {
+      "sectionId": "onc-febrile-neutropenia.s7"
+     }
+    },
+    {
+     "stem": "A 33-year-old man with AML on piperacillin–tazobactam develops redness, tenderness and pus at his tunnelled central line exit site; blood cultures from the line grow Gram-positive cocci.",
+     "answer": 2,
+     "explanation": "Suspected **Gram-positive, line-related** infection → add **teicoplanin** (or vancomycin).",
+     "studyRef": {
+      "sectionId": "onc-febrile-neutropenia.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 138,
+     "page": 117,
+     "chapter": "Malignant disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327,
+     "chapter": "Oncology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 979,
+     "page": 957,
+     "chapter": "Haematology and transfusion medicine"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 246,
+     "page": 224,
+     "chapter": "Infectious disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q27",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 67-year-old woman with small cell lung cancer received carboplatin and etoposide 10 days ago. She presents with nausea, drowsiness and breathlessness. Temperature 36.9°C, pulse 112/min, BP 96/60 mmHg.",
+   "leadIn": "Which investigation is most important to request first?",
+   "options": [
+    "Serum calcium",
+    "CT head",
+    "Full blood count",
+    "Troponin",
+    "D-dimer"
+   ],
+   "answer": 2,
+   "explanation": "Neutropenic sepsis is the commonest reason a cancer patient attends the emergency department and must be considered in anyone unwell within a month of chemotherapy. Fever may be absent and symptoms non-specific; the **full blood count is the critical test**. Tachycardia and hypotension demand urgent resuscitation.",
+   "whyNot": [
+    "Hypercalcaemia can cause drowsiness, but tachycardia and hypotension 10 days after chemotherapy make neutropenic sepsis the first thing to exclude.",
+    "Imaging is secondary and must not delay antibiotics.",
+    "",
+    "There is no chest pain to suggest a coronary event.",
+    "PE is possible but the timing after chemotherapy makes neutropenic sepsis the priority."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 137,
+     "page": 116,
+     "chapter": "Malignant disease"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 138,
+     "page": 117,
+     "chapter": "Malignant disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q28",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 64-year-old woman with long-standing seropositive rheumatoid arthritis has recurrent chest infections. Examination shows splenomegaly. Her neutrophil count is 0.9 × 10⁹/L.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Kostmann syndrome",
+    "Felty syndrome",
+    "Aplastic anaemia",
+    "Systemic lupus erythematosus",
+    "Constitutional neutropenia"
+   ],
+   "answer": 1,
+   "explanation": "**Felty syndrome** is the triad of rheumatoid arthritis, splenomegaly and neutropenia.",
+   "whyNot": [
+    "Kostmann syndrome is congenital and presents in childhood.",
+    "",
+    "Aplastic anaemia causes pancytopenia without splenomegaly.",
+    "SLE can cause neutropenia but does not fit long-standing RA with splenomegaly.",
+    "Constitutional neutropenia is benign and not linked with RA or splenomegaly."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s2"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "pdfPage": 426,
+     "page": 426,
+     "chapter": "Hematology and oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q29",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 3,
+   "stem": "A registrar is writing a neutropenic fever protocol for a stable patient with no line and no suspected focus. She asks whether gentamicin should routinely be added to IV piperacillin–tazobactam.",
+   "leadIn": "Which statement best reflects Davidson’s infectious disease chapter?",
+   "options": [
+    "Gentamicin must always be added to cover _Pseudomonas_",
+    "Gentamicin should replace piperacillin–tazobactam",
+    "Trial data do not support routinely adding an aminoglycoside",
+    "An aminoglycoside should be added only after 5 days of fever",
+    "Gentamicin is contraindicated in every neutropenic patient"
+   ],
+   "answer": 2,
+   "explanation": "Davidson’s infectious disease chapter states that piperacillin–tazobactam IV is the commonest regimen and that **routinely adding an aminoglycoside is not supported by trial data**. The oncology chapter still allows gentamicin by local policy.",
+   "whyNot": [
+    "Piperacillin–tazobactam already covers _Pseudomonas_.",
+    "Gentamicin alone is not a first-line regimen.",
+    "",
+    "Persistent fever at 3–5 days prompts antifungal therapy, not an aminoglycoside.",
+    "It remains an option under local policy; it is not contraindicated."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 246,
+     "page": 224,
+     "chapter": "Infectious disease"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327,
+     "chapter": "Oncology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 138,
+     "page": 117,
+     "chapter": "Malignant disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q30",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 29-year-old man with AML is 13 days into induction chemotherapy. He has a fever of 38.7°C and new right lower quadrant pain and tenderness. Neutrophils are 0.1 × 10⁹/L.",
+   "leadIn": "Which investigation is most appropriate next?",
+   "options": [
+    "Colonoscopy",
+    "Barium enema",
+    "Digital rectal examination",
+    "CT of the abdomen",
+    "Diagnostic laparoscopy"
+   ],
+   "answer": 3,
+   "explanation": "Right lower quadrant pain in neutropenia raises **typhlitis**; Davidson recommends **abdominal imaging**, which shows caecal wall thickening.",
+   "whyNot": [
+    "Endoscopy is invasive and not the first test in profound neutropenia.",
+    "Contrast enemas are not the investigation of choice and involve rectal instrumentation.",
+    "Rectal examination is avoided in neutropenic patients.",
+    "",
+    "Surgery is not the first step; imaging comes first."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 246,
+     "page": 224,
+     "chapter": "Infectious disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 412,
+     "page": 412,
+     "chapter": "Oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q31",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 70-year-old man with lymphoma has been on IV antibiotics for neutropenic fever for 4 days. No source was found and cultures are negative. He has been afebrile for 24 hours, but his neutrophil count is still 0.2 × 10⁹/L.",
+   "leadIn": "According to Pocket Medicine, what is the most appropriate plan?",
+   "options": [
+    "Stop antibiotics now that he is afebrile",
+    "Continue antibiotics until he is afebrile and neutrophils exceed 0.5 × 10⁹/L",
+    "Stop antibiotics once the CRP is normal, whatever the neutrophil count",
+    "Continue IV antibiotics for 6 weeks",
+    "Replace antibiotics with G-CSF"
+   ],
+   "answer": 1,
+   "explanation": "With **no source**, antibiotics continue until the patient is **afebrile and the ANC exceeds 500/µL** (0.5 × 10⁹/L). A known source gets a full standard course (e.g. 14 days for bacteraemia).",
+   "whyNot": [
+    "He is still profoundly neutropenic; stopping risks relapse of sepsis.",
+    "",
+    "CRP is not the stopping rule.",
+    "Six weeks is far longer than needed without a deep-seated source.",
+    "G-CSF is not a substitute for antibiotics."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s7"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 414,
+     "page": 414,
+     "chapter": "Oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q32",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 45-year-old woman on chemotherapy for ovarian cancer has neutrophils of 0.3 × 10⁹/L. Her first and only oral temperature reading is 38.4°C.",
+   "leadIn": "Under the NCCN definition used in US texts, how should this be interpreted?",
+   "options": [
+    "Neutropenic fever, because a single oral reading ≥ 38.3°C qualifies",
+    "Not neutropenic fever until a second reading is taken 1 hour later",
+    "Not neutropenic fever until the temperature reaches 39°C",
+    "Not neutropenic fever, because the count is above 0.1 × 10⁹/L",
+    "Neutropenic fever only if blood cultures are positive"
+   ],
+   "answer": 0,
+   "explanation": "NCCN (Pocket Medicine, First Aid): a **single oral temperature ≥ 38.3°C**, or ≥ 38.0°C sustained for ≥ 1 hour, with ANC < 500/µL. Davidson’s oncology definition instead needs ≥ 38°C for over an hour.",
+   "whyNot": [
+    "",
+    "The sustained-1-hour rule applies to readings of 38.0–38.2°C, not to 38.3°C or above.",
+    "No definition requires 39°C.",
+    "The threshold is < 0.5 × 10⁹/L (500/µL).",
+    "Cultures are often negative and are not part of the definition."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s1"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 412,
+     "page": 412,
+     "chapter": "Oncology"
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 426,
+     "page": 426,
+     "chapter": "Hematology and oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q33",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 72-year-old man is admitted with neutropenic fever 9 days after chemotherapy for bladder cancer. He has a temperature of 39.0°C, a sore throat, mild diarrhoea and neutrophils of 0.4 × 10⁹/L. His BP is 84/50 mmHg despite an initial fluid bolus.",
+   "leadIn": "Which finding carries the worst prognosis?",
+   "options": [
+    "Temperature of 39.0°C",
+    "Sore throat",
+    "Mild diarrhoea",
+    "Hypotension",
+    "Neutrophil count of 0.4 × 10⁹/L"
+   ],
+   "answer": 3,
+   "explanation": "Davidson: **hypotension is an adverse prognostic feature** and can progress to circulatory collapse and organ failure. It calls for resuscitation, early critical care and inotropes.",
+   "whyNot": [
+    "High fever is typical and not in itself prognostic.",
+    "A sore throat is a common local symptom.",
+    "Non-specific gut symptoms are common.",
+    "",
+    "The count defines the condition; hypotension marks the dangerous course."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327,
+     "chapter": "Oncology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 138,
+     "page": 117,
+     "chapter": "Malignant disease"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q34",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 58-year-old woman with acute lymphoblastic leukaemia on steroid-containing induction is classed as high risk for neutropenic infection. The team considers antibacterial prophylaxis.",
+   "leadIn": "Which prophylaxis has been shown to reduce mortality in this setting?",
+   "options": [
+    "G-CSF",
+    "Oral vancomycin",
+    "A fluoroquinolone such as ciprofloxacin",
+    "IV meropenem",
+    "IV immunoglobulin"
+   ],
+   "answer": 2,
+   "explanation": "Pocket Medicine notes that **fluoroquinolone prophylaxis** in intermediate- or high-risk neutropenia (especially ALL on steroids) **reduces mortality**; Kumar & Clark also lists ciprofloxacin prophylaxis.",
+   "whyNot": [
+    "G-CSF lowers febrile neutropenia rates but has not been shown to reduce mortality.",
+    "Oral vancomycin is for _C. difficile_, not prophylaxis.",
+    "",
+    "Carbapenems are for treatment, not prophylaxis.",
+    "IVIG is used only rarely in neutropenia and has no shown mortality benefit as prophylaxis."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s7"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 413,
+     "page": 413,
+     "chapter": "Oncology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 132,
+     "page": 111,
+     "chapter": "Malignant disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 414,
+     "page": 414,
+     "chapter": "Oncology"
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 426,
+     "page": 426,
+     "chapter": "Hematology and oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q35",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 61-year-old man with lymphoma has neutropenic fever. He develops a cough and his oxygen saturation falls to 91% on air, but his chest X-ray is reported as normal.",
+   "leadIn": "What is the most appropriate next investigation?",
+   "options": [
+    "Repeat chest X-ray in 1 week",
+    "CT of the chest",
+    "Sputum Gram stain, treating only if neutrophils are seen",
+    "Spirometry",
+    "Ventilation–perfusion scan"
+   ],
+   "answer": 1,
+   "explanation": "Neutropenia blunts the inflammatory response, so the **chest X-ray may look normal** in pneumonia. Davidson advises **chest CT in addition to CXR** when there are respiratory symptoms; it can also reveal fungal nodules.",
+   "whyNot": [
+    "Waiting a week risks missing a rapidly progressive infection.",
+    "",
+    "Absence of neutrophils on Gram stain does not exclude infection in neutropenia.",
+    "Spirometry does not identify infection.",
+    "A V/Q scan looks for PE; infection must be looked for first in this setting."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 246,
+     "page": 224,
+     "chapter": "Infectious disease"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 413,
+     "page": 413,
+     "chapter": "Oncology"
+    }
+   ]
+  },
+  {
+   "id": "onc-febrile-neutropenia.q36",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 49-year-old woman with breast cancer has been on piperacillin–tazobactam for neutropenic fever for 48 hours. She remains febrile at 38.6°C, haemodynamically stable, and cultures are negative.",
+   "leadIn": "According to Davidson’s oncology chapter, what should happen now?",
+   "options": [
+    "Stop all antibiotics",
+    "Switch to oral co-amoxiclav and ciprofloxacin",
+    "Review antibiotics with microbiology advice and consider antifungal cover",
+    "Start G-CSF routinely",
+    "Continue the same regimen unchanged for 14 days"
+   ],
+   "answer": 2,
+   "explanation": "Davidson’s oncology chapter: when fever has **not responded by 36–48 hours**, the regimen is **reconsidered with the microbiologists** and **antifungal cover (liposomal amphotericin B) is considered**.",
+   "whyNot": [
+    "Stopping in persistent neutropenic fever is dangerous.",
+    "Oral step-down is for low-risk or improving patients.",
+    "",
+    "G-CSF is not routine.",
+    "A non-responding regimen should be reviewed, not left unchanged."
+   ],
+   "studyRef": {
+    "sectionId": "onc-febrile-neutropenia.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327,
+     "chapter": "Oncology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328,
+     "chapter": "Oncology"
+    }
+   ]
+  }
+ ],
+ "ospe": [],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:30:35.091Z",
+  "contentHash": "5e1cc36fa8937fc21308418b21f5e5e2d1cbc024b444ad5ea6cccd4bfd92eeb0"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:30:35.112Z",
+  "contentHash": "5e1cc36fa8937fc21308418b21f5e5e2d1cbc024b444ad5ea6cccd4bfd92eeb0",
+  "checkerVersion": "source-check-v1"
+ }
+}

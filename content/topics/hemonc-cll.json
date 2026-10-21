@@ -1,0 +1,2938 @@
+{
+ "topicId": "hemonc-cll",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "hemonc-cll.s1",
+   "title": "Definition and epidemiology",
+   "objectiveIdx": [
+    0,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Chronic lymphocytic leukaemia (CLL)** is a _clonal_ disorder of **small, mature-looking B lymphocytes**. The cells look normal but are **functionally incompetent**: they do not transform or make antibody when they meet antigen. Because the clone keeps growing without doing useful work, a large mass of immunologically useless cells builds up in blood, marrow, nodes, spleen and liver. It is an **indolent, incurable** disease of older people.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 417,
+       "page": 393
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 299,
+       "page": 262
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 432,
+       "page": 432
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Chronic vs acute leukaemia:** in a chronic leukaemia the malignant clone can still differentiate, so _mature_ cells pile up. In an acute leukaemia primitive **blasts** accumulate and quickly cause marrow failure.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 977,
+       "page": 955
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "CLL and small lymphocytic lymphoma (SLL): one disease",
+     "items": [
+      "The tumour cells of CLL and SLL cannot be told apart, and both are treated the same way; the WHO classification counts them as **one entity at different stages**.",
+      "**CLL**: leukaemic picture, with the clone in blood above **5 × 10^9/L (5000/µL)**.",
+      "**SLL**: mainly nodal (localised) disease, with fewer than 5 × 10^9/L clonal cells in blood but lymphadenopathy ± splenomegaly.",
+      "**Monoclonal B lymphocytosis (MBL)**: a CLL-type clone that falls short of the CLL criteria (no qualifying count, no nodal disease); managed by observation."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 417,
+       "page": 393
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 374,
+       "page": 374
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 890,
+       "page": 890
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Epidemiology at a glance",
+     "columns": [
+      "Feature",
+      "Figure",
+      "Source note"
+     ],
+     "rows": [
+      [
+       "Frequency",
+       "Commonest leukaemia — about **30%** of all cases",
+       "Davidson 30%; Kumar, Pocket and Step-Up also call it the commonest"
+      ],
+      [
+       "Sex",
+       "Male : female **2 : 1**",
+       "All sources agree"
+      ],
+      [
+       "Age",
+       "Median **65–70 years** at presentation; rises steeply with age",
+       "Kumar ~70, Pocket 71, First Aid 65"
+      ],
+      [
+       "Geography",
+       "Strikingly **rare in Chinese** and related populations",
+       "Most marked geographical variation of any leukaemia"
+      ],
+      [
+       "All leukaemias",
+       "About **10 per 100 000** per year",
+       "CLL is the largest single group"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 416,
+       "page": 392
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 374,
+       "page": 374
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 432,
+       "page": 432
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 890,
+       "page": 890
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Exam age clue for leukaemia type: **ALL** under 13 years, **AML** 13–40, **CML** 40–60, **CLL** over 60.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 434,
+       "page": 434
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Quoted median ages differ between books (65 to 71 years). Use **Davidson’s 65–70 years** and remember that CLL is the leukaemia of older adults.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 416,
+       "page": 392
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 374,
+       "page": 374
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 432,
+       "page": 432
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.s2",
+   "title": "Aetiology and pathogenesis",
+   "objectiveIdx": [
+    2,
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "For most leukaemias **no cause is found**. General leukaemia risk factors are **ionising radiation**, **cytotoxic drugs** (especially alkylating agents) and industrial **benzene**, **retroviruses** (HTLV-1), **genetic factors** (identical twin of an affected patient, Down’s syndrome) and **immune deficiency** such as hypogammaglobulinaemia. None of these is specific to CLL.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 977,
+       "page": 955
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 295,
+       "page": 258
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "In Davidson’s risk-factor box, radiation and alkylating agents are tied mainly to **myeloid** leukaemia and HTLV-1 to **adult T-cell** leukaemia/lymphoma. Do not pick them as a recognised cause of CLL.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 977,
+       "page": 955
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Monoclonal B lymphocytosis — the precursor state",
+     "items": [
+      "Almost every case of CLL is preceded by **MBL**: a circulating clonal B-cell population **below 5 × 10^9/L**.",
+      "MBL is common — present in about **12% of healthy people** — and most never progress.",
+      "Its relation to CLL mirrors that of **MGUS to myeloma**.",
+      "**High-count MBL** (clone above 0.5 × 10^9/L) should be separated from low-count MBL: review **at least yearly** for progression and infection risk."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 417,
+       "page": 393
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 374,
+       "page": 374
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "How the disease produces its effects",
+     "items": [
+      "**Failed maturation:** the clonal cells do not become antibody-secreting plasma cells → **hypogammaglobulinaemia** and infections.",
+      "**Marrow crowding:** infiltration displaces normal haematopoiesis → anaemia, neutropenia, thrombocytopenia.",
+      "**Low growth fraction:** neoplasms of mature cells divide slowly, so the course runs over many years.",
+      "**B-cell receptor (BCR) signalling:** CLL cells depend on abnormal, persistent BCR pathway signals; **Bruton’s tyrosine kinase (BTK)** and **PI3 kinase** are links in that pathway.",
+      "**Blocked apoptosis:** the anti-apoptotic protein **BCL-2** is abnormally active in CLL cells.",
+      "**Recurrent mutations:** TP53, NOTCH1, MYD88 and SF3B1; spliceosome mutations are thought to play a key role."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 982,
+       "page": 960
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 405,
+       "page": 381
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 890,
+       "page": 890
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 375,
+       "page": 375
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Pathway targets and the drugs that hit them",
+     "columns": [
+      "Target",
+      "Role in CLL",
+      "Drug"
+     ],
+     "rows": [
+      [
+       "Bruton’s tyrosine kinase",
+       "BCR pathway kinase",
+       "**Ibrutinib** (oral)"
+      ],
+      [
+       "PI3 kinase",
+       "BCR pathway kinase",
+       "**Idelalisib**"
+      ],
+      [
+       "BCL-2",
+       "Anti-apoptotic protein",
+       "**Venetoclax**"
+      ],
+      [
+       "CD20",
+       "B-cell surface antigen",
+       "**Rituximab**, obinutuzumab (antibodies)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 982,
+       "page": 960
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 405,
+       "page": 381
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 418,
+       "page": 394
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Think **MBL : CLL = MGUS : myeloma** — a common, mostly harmless clone that is the soil from which the malignancy grows.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 417,
+       "page": 393
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.s3",
+   "title": "Clinical features",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Onset is **insidious**. In about **70%** of patients CLL is found _by chance_ when a full blood count done for another reason shows a lymphocytosis. Symptoms, when they come, reflect **immune failure**, **marrow failure** and **lymphoid enlargement**; systemic symptoms usually appear later in the course.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 417,
+       "page": 393
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 374,
+       "page": 374
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 299,
+       "page": 262
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Symptoms and signs with their mechanism",
+     "columns": [
+      "Feature",
+      "Mechanism / detail"
+     ],
+     "rows": [
+      [
+       "Recurrent infections (chest, skin)",
+       "Low immunoglobulins and functional leucopenia, ± neutropenia"
+      ],
+      [
+       "Fatigue, pallor, anaemia",
+       "Marrow infiltration or **autoimmune haemolysis**"
+      ],
+      [
+       "Bruising, bleeding",
+       "Thrombocytopenia (marrow failure or immune)"
+      ],
+      [
+       "Painless lymphadenopathy",
+       "In about **80%**; often cervical; one area or generalised"
+      ],
+      [
+       "Hepatosplenomegaly",
+       "In about **50%**; spleen may be massive → left upper quadrant discomfort"
+      ],
+      [
+       "B symptoms (night sweats, weight loss, fever)",
+       "In **10–20%**; mostly later in the disease"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 417,
+       "page": 393
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 374,
+       "page": 374
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 891,
+       "page": 891
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 299,
+       "page": 262
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 432,
+       "page": 432
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Classic exam picture: an **older adult** with a **raised lymphocyte count**, small **painless nodes** and perhaps a palpable spleen, often with a history of **repeated chest or skin infections**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 891,
+       "page": 891
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Hairy cell leukaemia** also gives cytopenias and splenomegaly, but **lymphadenopathy is rare**. **Prolymphocytic leukaemia** gives **massive splenomegaly with little lymphadenopathy**. Prominent nodes favour CLL.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 436,
+       "page": 436
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 982,
+       "page": 960
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.s4",
+   "title": "Investigations and diagnosis",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The diagnosis is made on **peripheral blood**: a **mature lymphocytosis above 5 × 10^9/L** with typical morphology **plus** a characteristic **immunophenotype** on flow cytometry. A bone marrow examination is **not needed** to diagnose CLL.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 375,
+       "page": 375
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 300,
+       "page": 263
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Work-up of suspected CLL",
+     "columns": [
+      "Test",
+      "Typical finding / purpose"
+     ],
+     "rows": [
+      [
+       "FBC",
+       "Raised WCC (often 50–200 × 10^9/L, can be far higher) with lymphocytosis; Hb and platelets normal or low"
+      ],
+      [
+       "Blood film",
+       "Small, mature, normal-looking lymphocytes; **smudge cells**; no blasts"
+      ],
+      [
+       "Flow cytometry (most accurate test)",
+       "Monoclonal B cells: **CD19, CD20, CD23** plus the aberrant T-cell marker **CD5**; one light chain only (**kappa or lambda**); dim surface Ig"
+      ],
+      [
+       "Reticulocytes + direct Coombs (DAT)",
+       "Screen for **autoimmune haemolysis**"
+      ],
+      [
+       "Serum immunoglobulins",
+       "**Hypogammaglobulinaemia** is common and worsens with time"
+      ],
+      [
+       "FISH / TP53 analysis",
+       "**17p deletion or TP53 mutation** — essential before any treatment because it changes drug choice"
+      ],
+      [
+       "Bone marrow aspirate/trephine",
+       "Not required; helps in difficult cases, for prognosis (diffuse infiltration is adverse) and to judge response"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 982,
+       "page": 960
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 417,
+       "page": 393
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 375,
+       "page": 375
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 433,
+       "page": 433
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 891,
+       "page": 891
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Smudge (smear) cells** are fragile CLL lymphocytes squashed while the film is being spread. They are an artefact, but a classic visual clue to CLL.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 300,
+       "page": 263
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 433,
+       "page": 433
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 417,
+       "page": 393
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "TP53 mutation is present in **under 10%** at diagnosis but in about **30% at relapse**, so a normal result at diagnosis does not hold for ever; Davidson advises testing **every patient before therapy starts**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 982,
+       "page": 960
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Differential diagnosis of a lymphocytosis",
+     "items": [
+      "**Infection**: viral, or bacterial such as _Bordetella pertussis_ (polyclonal on flow).",
+      "**Lymphoproliferative disease**: CLL, lymphoma.",
+      "**After splenectomy**.",
+      "Immunophenotyping is what separates a **reactive** lymphocytosis from a clonal one."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 948,
+       "page": 926
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 300,
+       "page": 263
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A CLL-phenotype clone **below 5 × 10^9/L** without nodal disease is **monoclonal B lymphocytosis**, not CLL. (First Aid prints a B-cell threshold of “>500/mm³”; Davidson, Kumar and Pocket all use **5 × 10^9/L = 5000/µL** — use that.)",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 981,
+       "page": 959
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 374,
+       "page": 374
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 433,
+       "page": 433
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "An **M protein** does not prove myeloma: about **5%** of CLL patients have a monoclonal gammopathy, and MGUS, lymphoma, Waldenström’s and amyloidosis can all produce one.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 374,
+       "page": 374
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 441,
+       "page": 441
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Lab contrast: **CLL = lymphocytosis** (B cells); **CML = granulocytosis** (neutrophils, myelocytes, eosinophils, basophils).",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 435,
+       "page": 435
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "fa2ck11",
+      "pdfPage": 433,
+      "page": 433,
+      "figure": "FIGURE 2.7-16"
+     },
+     "note": "Look at: sheets of small mature lymphocytes with **smudge cells** (arrowed) — the classic CLL blood film."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 417,
+      "page": 393,
+      "figure": "Fig. 17.11"
+     },
+     "note": "Look at: FISH nuclei — panel A (green 17p probe, red 11q probe) shows the 17p (TP53) deletion with normal 11q; panel B shows three chromosome 12 signals (trisomy 12)."
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.s5",
+   "title": "Staging systems and risk groups",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "CLL is staged **clinically** — from examination of node areas, liver and spleen, plus the blood count. Stage predicts survival and guides when to treat. Davidson uses an **A/B/C clinical staging** (the Binet scheme); Kumar also gives the **Rai** system.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 982,
+       "page": 960
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 417,
+       "page": 393
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 434,
+       "page": 434
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Davidson / Binet clinical staging",
+     "columns": [
+      "Stage",
+      "Criteria",
+      "Share of patients",
+      "Usual approach"
+     ],
+     "rows": [
+      [
+       "A",
+       "No anaemia or thrombocytopenia; **fewer than 3** lymphoid areas enlarged",
+       "60%",
+       "Watch and wait"
+      ],
+      [
+       "B",
+       "No anaemia or thrombocytopenia; **3 or more** areas enlarged",
+       "30%",
+       "Treat if progressive"
+      ],
+      [
+       "C",
+       "**Anaemia and/or thrombocytopenia**, whatever the number of areas",
+       "10%",
+       "Treat in most cases"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 982,
+       "page": 960
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 417,
+       "page": 393
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Rai staging (lymphocytosis present at every stage)",
+     "columns": [
+      "Rai stage",
+      "Added feature",
+      "Risk group"
+     ],
+     "rows": [
+      [
+       "0",
+       "Lymphocytosis only",
+       "Low"
+      ],
+      [
+       "I",
+       "Lymphadenopathy",
+       "Intermediate"
+      ],
+      [
+       "II",
+       "Splenomegaly ± lymphadenopathy",
+       "Intermediate"
+      ],
+      [
+       "III",
+       "Anaemia (± organomegaly)",
+       "High"
+      ],
+      [
+       "IV",
+       "Thrombocytopenia (± anaemia, organomegaly)",
+       "High"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 417,
+       "page": 393
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "For Binet, the **five lymphoid areas** are cervical, axillary and inguinal nodes, **spleen** and **liver**. Cytopenias automatically make it stage C (Rai III/IV).",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 417,
+       "page": 393
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Biological prognostic markers",
+     "columns": [
+      "Favourable",
+      "Neutral",
+      "Adverse"
+     ],
+     "rows": [
+      [
+       "Isolated **del 13q14**",
+       "Trisomy 12",
+       "**del 17p / TP53 mutation** (powerful marker; poor response to chemo-immunotherapy)"
+      ],
+      [
+       "**Mutated IGHV** (median survival > 20 years)",
+       "",
+       "**del 11q** (ATM gene); rapid course"
+      ],
+      [
+       "",
+       "",
+       "**Unmutated IGHV** (median ~8 years); ZAP70 expression tracks this"
+      ],
+      [
+       "",
+       "",
+       "High **CD38**; **NOTCH1** or **SF3B1** mutation; diffuse marrow infiltration"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 417,
+       "page": 393
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 375,
+       "page": 375
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 300,
+       "page": 263
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 982,
+       "page": 960
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 418,
+       "page": 394
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Advanced stage (**Rai III/IV, Binet C**) counts as **active disease** and is an indication to treat. Among treatment triggers, **thrombocytopenia carries the worst prognosis**.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 375,
+       "page": 375
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 433,
+       "page": 433
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Do not mix the systems: **splenomegaly** is a defining feature of Rai II, but in Binet the spleen is just **one of five areas**. Anaemia means Rai III but Binet C.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 417,
+       "page": 393
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.s6",
+   "title": "Prognosis and management",
+   "objectiveIdx": [
+    7
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "CLL is the **least aggressive leukaemia**. Median survival is about **10 years**, and most **stage A** patients have a **normal life expectancy**; many die of something else. About **30% never need treatment**. Outlook depends on stage, age, pace (lymphocyte doubling time) and especially **TP53 status**; advanced disease more often kills through progression or infection. With chemotherapy plus rituximab about **90% are alive at 4 years**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 417,
+       "page": 393
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 982,
+       "page": 960
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 890,
+       "page": 890
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "When to treat (otherwise watch and wait)",
+     "items": [
+      "**Marrow failure** — worsening anaemia or thrombocytopenia not caused by autoimmunity.",
+      "**Massive or progressive** lymphadenopathy or splenomegaly.",
+      "**Systemic symptoms**: weight loss, night sweats, fever.",
+      "**Rapidly rising lymphocyte count** — Kumar: doubling in **under 6 months**.",
+      "**Autoimmune haemolysis or thrombocytopenia** responding poorly to steroids.",
+      "Recurrent infections; advanced stage (**Rai III/IV, Binet C**). Davidson notes that those treated are mainly **progressive stage A** and **stages B and C**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 982,
+       "page": 960
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 418,
+       "page": 394
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 375,
+       "page": 375
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 433,
+       "page": 433
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Early, stable disease:** no specific treatment. Explain the indolent nature of CLL and reassure — the word “leukaemia” frightens patients — and repeat the blood count every **3–6 months**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 982,
+       "page": 960
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 433,
+       "page": 433
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Specific treatment (Davidson 24e framework)",
+     "columns": [
+      "Patient group",
+      "Treatment"
+     ],
+     "rows": [
+      [
+       "Fit, under 70, **TP53 intact**",
+       "**FCR**: fludarabine + cyclophosphamide + rituximab (anti-CD20)"
+      ],
+      [
+       "Older or less fit",
+       "Anti-CD20 antibody + gentler chemotherapy: **bendamustine** or oral **chlorambucil**; **obinutuzumab + chlorambucil** beats rituximab + chlorambucil"
+      ],
+      [
+       "**TP53 mutated / del 17p** (any stage)",
+       "BCR-pathway inhibitor: **ibrutinib** (BTK) or **idelalisib** (PI3K); **venetoclax** (BCL-2) second line"
+      ],
+      [
+       "Relapsed disease",
+       "Switch to a drug with a different mechanism"
+      ],
+      [
+       "Fit, high-risk",
+       "Non-myeloablative **allogeneic stem cell transplant** — the only potentially curative option"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 982,
+       "page": 960
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 418,
+       "page": 394
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 375,
+       "page": 375
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Supportive care",
+     "items": [
+      "Transfusion for symptomatic anaemia or thrombocytopenia; erythropoietin may cut transfusion needs.",
+      "**Glucocorticoids** for autoimmune haemolysis or ITP (also for some marrow failure).",
+      "Treat infections promptly; prophylaxis during chemotherapy — antibacterial, antiviral (HSV/VZV), anti-_Pneumocystis_, antifungal.",
+      "**Immunoglobulin replacement** for hypogammaglobulinaemia with recurrent infections.",
+      "Vaccinate against **pneumococcus, Hib and influenza**; **avoid live vaccines**.",
+      "**Radiotherapy** for bulky or obstructing nodes or a painful spleen; **splenectomy** for autoimmune cytopenias, hypersplenism or massive splenomegaly.",
+      "**Allopurinol** to prevent hyperuricaemia when treatment starts."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 982,
+       "page": 960
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 418,
+       "page": 394
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 376,
+       "page": 376
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 300\" role=\"img\" aria-label=\"CLL treatment decision\"><rect x=\"160\" y=\"10\" width=\"200\" height=\"36\" rx=\"6\" fill=\"#e8eef7\" stroke=\"#345\"/><text x=\"260\" y=\"33\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\">CLL diagnosed</text><line x1=\"260\" y1=\"46\" x2=\"260\" y2=\"70\" stroke=\"#345\" stroke-width=\"2\"/><rect x=\"130\" y=\"70\" width=\"260\" height=\"40\" rx=\"6\" fill=\"#fff\" stroke=\"#345\"/><text x=\"260\" y=\"88\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\">Active disease? (cytopenias, B symptoms,</text><text x=\"260\" y=\"103\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\">bulky/progressive nodes, doubling &lt; 6 mo)</text><line x1=\"130\" y1=\"90\" x2=\"70\" y2=\"90\" stroke=\"#345\" stroke-width=\"2\"/><line x1=\"70\" y1=\"90\" x2=\"70\" y2=\"140\" stroke=\"#345\" stroke-width=\"2\"/><text x=\"100\" y=\"84\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">No</text><rect x=\"10\" y=\"140\" width=\"120\" height=\"40\" rx=\"6\" fill=\"#eef7ee\" stroke=\"#345\"/><text x=\"70\" y=\"158\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\">Watch and wait</text><text x=\"70\" y=\"173\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">FBC 3–6 monthly</text><line x1=\"260\" y1=\"110\" x2=\"260\" y2=\"140\" stroke=\"#345\" stroke-width=\"2\"/><text x=\"272\" y=\"130\" font-size=\"11\" font-family=\"sans-serif\">Yes</text><rect x=\"170\" y=\"140\" width=\"180\" height=\"36\" rx=\"6\" fill=\"#fff\" stroke=\"#345\"/><text x=\"260\" y=\"163\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\">Test for del 17p / TP53</text><line x1=\"210\" y1=\"176\" x2=\"120\" y2=\"220\" stroke=\"#345\" stroke-width=\"2\"/><line x1=\"310\" y1=\"176\" x2=\"400\" y2=\"220\" stroke=\"#345\" stroke-width=\"2\"/><text x=\"150\" y=\"196\" font-size=\"11\" font-family=\"sans-serif\">Intact</text><text x=\"345\" y=\"196\" font-size=\"11\" font-family=\"sans-serif\">Mutated</text><rect x=\"10\" y=\"220\" width=\"250\" height=\"70\" rx=\"6\" fill=\"#f7f1e8\" stroke=\"#345\"/><text x=\"135\" y=\"242\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\">Fit, &lt; 70: FCR</text><text x=\"135\" y=\"262\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\">Older/unfit: anti-CD20 +</text><text x=\"135\" y=\"279\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\">chlorambucil or bendamustine</text><rect x=\"290\" y=\"220\" width=\"220\" height=\"70\" rx=\"6\" fill=\"#f7e8e8\" stroke=\"#345\"/><text x=\"400\" y=\"245\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\">Ibrutinib (BTK) or</text><text x=\"400\" y=\"263\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\">idelalisib (PI3K);</text><text x=\"400\" y=\"281\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\">venetoclax second line</text></svg>",
+     "alt": "Algorithm: CLL with no active disease is observed; active disease is tested for del 17p/TP53 — intact goes to FCR (fit, under 70) or anti-CD20 plus chlorambucil or bendamustine (older/unfit); mutated goes to ibrutinib or idelalisib, with venetoclax second line.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 982,
+       "page": 960
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 418,
+       "page": 394
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Ibrutinib** is oral and usually well tolerated, but it raises the risk of **atrial fibrillation**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 418,
+       "page": 394
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Sources disagree on first line. **Davidson 24e** (our authority) gives **FCR** for fit, TP53-intact patients under 70; Kumar still calls FCR first line for the young and fit. Newer US quick sources (Pocket Medicine, First Aid) prefer **BTK inhibitors or venetoclax-based** regimens even without TP53 loss. In exams, follow Davidson unless the question says otherwise — and remember that **TP53 loss steers treatment away from chemo-immunotherapy** in every source.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 982,
+       "page": 960
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 418,
+       "page": 394
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 375,
+       "page": 375
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 433,
+       "page": 433
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.s7",
+   "title": "Complications and transformation",
+   "objectiveIdx": [
+    8
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Complications of CLL",
+     "columns": [
+      "Complication",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "**Richter’s transformation**",
+       "Change to a high-grade lymphoma, usually **diffuse large B-cell lymphoma** (Hodgkin-like also occurs); poor prognosis"
+      ],
+      [
+       "**Warm autoimmune haemolytic anaemia**",
+       "In about **10%**; IgG, active at 37 °C; strongly **DAT-positive**; treat with steroids"
+      ],
+      [
+       "**Immune thrombocytopenia (ITP)**",
+       "In about **1–2%**; steroids"
+      ],
+      [
+       "**Pure red cell aplasia**",
+       "Anaemia with no erythroid precursors in the marrow; immunosuppression or chemotherapy"
+      ],
+      [
+       "**Infection**",
+       "Acquired **hypogammaglobulinaemia** ± neutropenia; frequent chest and skin infections"
+      ],
+      [
+       "**Marrow failure**",
+       "In about 13%, from infiltration"
+      ],
+      [
+       "**Monoclonal gammopathy**",
+       "In about 5%"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 418,
+       "page": 394
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 374,
+       "page": 374
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 325,
+       "page": 325
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 376,
+       "page": 352
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 397,
+       "page": 373
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 255,
+       "page": 218
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Richter’s transformation:** roughly **one case in two** arises from a new clone that is **unrelated to the original CLL**; such lymphomas behave like de novo DLBCL and respond similarly. **Clonally related** transformations do worse.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 418,
+       "page": 394
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Frequency of Richter’s: **Davidson calls it rare**; Kumar gives **5–10%** and Pocket Medicine about **5%**. If asked for a figure, “around 5%, uncommon” fits all sources.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 982,
+       "page": 960
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 418,
+       "page": 394
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 374,
+       "page": 374
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Fludarabine** — part of FCR — is itself a drug cause of warm autoimmune haemolysis. New haemolysis during treatment may be due to the drug **or** to the CLL.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 968,
+       "page": 946
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Related chronic B-cell disorders to tell apart",
+     "columns": [
+      "Disorder",
+      "Distinguishing features"
+     ],
+     "rows": [
+      [
+       "Prolymphocytic leukaemia",
+       "CLL variant; older men; **massive splenomegaly**, little lymphadenopathy; WCC often > 400 × 10^9/L; large cells with a **prominent nucleolus**; very poor prognosis"
+      ],
+      [
+       "Hairy cell leukaemia",
+       "Middle-aged men; splenomegaly, pancytopenia with **monocytopenia**; nodes uncommon; **CD25, CD103**, **BRAF** mutation; cladribine gives long remissions"
+      ],
+      [
+       "Monoclonal B lymphocytosis",
+       "CLL-type clone < 5 × 10^9/L, no nodal disease; observe"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 982,
+       "page": 960
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 436,
+       "page": 436
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 417,
+       "page": 393
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 968,
+      "page": 946,
+      "figure": "Fig. 23.19"
+     },
+     "note": "Look at: classification of haemolysis — CLL and fludarabine both appear among the secondary causes of warm autoimmune haemolysis."
+    },
+    {
+     "type": "pearl",
+     "text": "CLL autoimmunity is **warm (IgG)**, not cold. Pair a CLL patient with **spherocytes and a strongly positive DAT** → warm AIHA.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 376,
+       "page": 352
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 255,
+       "page": 218
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "hemonc-cll.c1",
+   "sectionId": "hemonc-cll.s1",
+   "front": "What is CLL in one line?",
+   "back": "A clonal expansion of small, mature-looking but functionally useless B lymphocytes.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 417,
+     "page": 393
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.c2",
+   "sectionId": "hemonc-cll.s1",
+   "front": "CLL vs SLL — what separates them?",
+   "back": "Same disease: CLL if the blood clone exceeds 5 × 10^9/L; SLL if mainly nodal with a lower blood count.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 417,
+     "page": 393
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 374,
+     "page": 374
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.c3",
+   "sectionId": "hemonc-cll.s1",
+   "front": "CLL epidemiology: share of leukaemias, sex ratio, median age?",
+   "back": "About 30% of leukaemias (commonest); M:F 2:1; median age 65–70 years.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.c4",
+   "sectionId": "hemonc-cll.s1",
+   "front": "Which population has strikingly little CLL?",
+   "back": "Chinese and related populations.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 976,
+     "page": 954
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.c5",
+   "sectionId": "hemonc-cll.s2",
+   "front": "What is monoclonal B lymphocytosis (MBL)?",
+   "back": "A CLL-type clone below 5 × 10^9/L; found in ~12% of healthy people; precedes nearly all CLL (like MGUS before myeloma).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 417,
+     "page": 393
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.c6",
+   "sectionId": "hemonc-cll.s2",
+   "front": "Drug targets: ibrutinib, idelalisib, venetoclax?",
+   "back": "Ibrutinib → BTK; idelalisib → PI3 kinase; venetoclax → BCL-2.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 418,
+     "page": 394
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.c7",
+   "sectionId": "hemonc-cll.s3",
+   "front": "How is most CLL discovered?",
+   "back": "Incidentally — about 70% on a routine full blood count.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.c8",
+   "sectionId": "hemonc-cll.s4",
+   "front": "Classic CLL immunophenotype?",
+   "back": "Monoclonal B cells CD19+, CD20+, CD23+ with aberrant CD5; single light chain (kappa or lambda).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 375,
+     "page": 375
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.c9",
+   "sectionId": "hemonc-cll.s4",
+   "front": "Lymphocyte threshold for diagnosing CLL?",
+   "back": "Clonal mature lymphocytosis > 5 × 10^9/L (5000/µL).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 374,
+     "page": 374
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.c10",
+   "sectionId": "hemonc-cll.s4",
+   "front": "What are smudge cells?",
+   "back": "Fragile CLL lymphocytes crushed while the film is made — an artefact but a classic CLL clue.",
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 300,
+     "page": 263
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 433,
+     "page": 433
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.c11",
+   "sectionId": "hemonc-cll.s4",
+   "front": "Which test must be done before starting CLL treatment and why?",
+   "back": "FISH/mutation analysis for del 17p / TP53 — it decides between chemo-immunotherapy and BCR/BCL-2 inhibitors.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 417,
+     "page": 393
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.c12",
+   "sectionId": "hemonc-cll.s5",
+   "front": "Davidson/Binet stage C means?",
+   "back": "Anaemia and/or thrombocytopenia, regardless of how many lymphoid areas are enlarged (10% of patients).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.c13",
+   "sectionId": "hemonc-cll.s5",
+   "front": "Rai stage II is defined by?",
+   "back": "Lymphocytosis plus splenomegaly, with or without lymphadenopathy (intermediate risk).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 417,
+     "page": 393
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.c14",
+   "sectionId": "hemonc-cll.s5",
+   "front": "Favourable vs adverse cytogenetics in CLL?",
+   "back": "Favourable: isolated del 13q, mutated IGHV. Adverse: del 11q (ATM), del 17p (TP53), unmutated IGHV.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 417,
+     "page": 393
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 375,
+     "page": 375
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.c15",
+   "sectionId": "hemonc-cll.s6",
+   "front": "First-line treatment for a fit, TP53-intact CLL patient under 70 (Davidson)?",
+   "back": "FCR — fludarabine, cyclophosphamide, rituximab.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.c16",
+   "sectionId": "hemonc-cll.s6",
+   "front": "Key cardiac side-effect of ibrutinib?",
+   "back": "Atrial fibrillation.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 418,
+     "page": 394
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.c17",
+   "sectionId": "hemonc-cll.s6",
+   "front": "Vaccines in CLL?",
+   "back": "Give pneumococcal, Hib and influenza; avoid live vaccines.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 418,
+     "page": 394
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.c18",
+   "sectionId": "hemonc-cll.s7",
+   "front": "What is Richter’s transformation?",
+   "back": "CLL turning into a high-grade lymphoma, usually DLBCL; uncommon (~5–10%) with poor prognosis.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 418,
+     "page": 394
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 374,
+     "page": 374
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.c19",
+   "sectionId": "hemonc-cll.s7",
+   "front": "Type of AIHA seen in CLL?",
+   "back": "Warm (IgG) AIHA with a strongly positive DAT; about 10% of patients.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 376,
+     "page": 352
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 374,
+     "page": 374
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 255,
+     "page": 218
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "hemonc-cll.q1",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "theme": "Defining CLL and its neighbours",
+   "leadIn": "Match each patient below with the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Acute lymphoblastic leukaemia",
+    "Acute myeloid leukaemia",
+    "Chronic myeloid leukaemia",
+    "Chronic lymphocytic leukaemia",
+    "Small lymphocytic lymphoma",
+    "Monoclonal B lymphocytosis",
+    "Hairy cell leukaemia",
+    "Prolymphocytic leukaemia",
+    "Reactive lymphocytosis",
+    "Diffuse large B-cell lymphoma"
+   ],
+   "items": [
+    {
+     "stem": "A 66-year-old woman has rubbery, painless nodes in the neck and both axillae. Node biopsy shows a diffuse infiltrate of small lymphocytes that are CD5+ and CD23+. Her blood contains a matching clonal B-cell population of 1.2 × 10^9/L.",
+     "answer": 4,
+     "explanation": "The same cells as CLL, but the disease is mainly nodal and the blood clone is below 5 × 10^9/L — that is small lymphocytic lymphoma, the nodal form of the same disease.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s1"
+     }
+    },
+    {
+     "stem": "A well 58-year-old man has a pre-operative blood count with lymphocytes of 4.1 × 10^9/L. Flow cytometry finds a CD5+, CD23+ monoclonal B-cell population of 2.0 × 10^9/L. He has no nodes, no organomegaly, and normal haemoglobin and platelets.",
+     "answer": 5,
+     "explanation": "A CLL-phenotype clone below 5 × 10^9/L with no nodal disease does not meet the criteria for CLL or SLL: this is monoclonal B lymphocytosis, managed by observation.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 417,
+     "page": 393
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 374,
+     "page": 374
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 74-year-old man with CLL diagnosed 6 years ago has had three episodes of pneumonia this year. His neutrophil count is normal on each occasion and he has not received any treatment for CLL.",
+   "leadIn": "Which mechanism best explains his susceptibility to infection?",
+   "options": [
+    "Failure of the clonal B cells to mature into antibody-secreting plasma cells",
+    "Loss of CD4 T cells caused by HTLV-1 infection",
+    "Splenic sequestration of neutrophils",
+    "Complement deficiency from liver infiltration",
+    "Hyperviscosity from a large IgM paraprotein"
+   ],
+   "answer": 0,
+   "explanation": "CLL cells look mature but never become plasma cells, so normal antibody production falls (hypogammaglobulinaemia). With a normal neutrophil count, low immunoglobulins are the leading reason for recurrent bacterial chest infections.",
+   "whyNot": [
+    "",
+    "HTLV-1 causes adult T-cell leukaemia/lymphoma, not CLL, and nothing suggests it here.",
+    "Sequestration would lower the neutrophil count, which is normal.",
+    "Complement deficiency is not a recognised CLL mechanism in our sources.",
+    "Only about 5% of CLL patients have a monoclonal gammopathy, and hyperviscosity does not explain repeated pneumonia."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cll.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 890,
+     "page": 890
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 433,
+     "page": 433
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 74,
+     "page": 59
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 977,
+     "page": 955
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 374,
+     "page": 374
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 69-year-old woman with CLL carrying a 17p deletion starts an oral drug that blocks a kinase in the B-cell receptor signalling pathway. Two months later she develops palpitations and an irregularly irregular pulse.",
+   "leadIn": "Which molecular target does her drug inhibit?",
+   "options": [
+    "Bruton’s tyrosine kinase",
+    "PI3 kinase",
+    "BCL-2",
+    "CD20",
+    "BCR-ABL tyrosine kinase"
+   ],
+   "answer": 0,
+   "explanation": "An oral BCR-pathway kinase inhibitor used in TP53-disrupted CLL that causes atrial fibrillation is ibrutinib, which blocks Bruton’s tyrosine kinase.",
+   "whyNot": [
+    "",
+    "Idelalisib blocks PI3 kinase, but atrial fibrillation is the recognised hazard of ibrutinib.",
+    "BCL-2 is an anti-apoptotic protein targeted by venetoclax, not a signalling kinase.",
+    "CD20 is a surface antigen targeted by antibodies such as rituximab, not a signalling kinase.",
+    "BCR-ABL is the target of imatinib in CML."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cll.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 418,
+     "page": 394
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q4",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Presentations of chronic B-cell disorders",
+   "leadIn": "Match each patient below with the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Chronic lymphocytic leukaemia",
+    "Hairy cell leukaemia",
+    "Prolymphocytic leukaemia",
+    "Chronic myeloid leukaemia",
+    "Monoclonal B lymphocytosis",
+    "Small lymphocytic lymphoma",
+    "Richter’s transformation",
+    "Reactive lymphocytosis from pertussis",
+    "Lymphocytosis after splenectomy",
+    "Acute myeloid leukaemia"
+   ],
+   "items": [
+    {
+     "stem": "A 70-year-old woman has had two chest infections and a cellulitis this year. She has painless nodes in both sides of the neck and a palpable spleen tip. WCC is 48 × 10^9/L, 90% small mature lymphocytes.",
+     "answer": 0,
+     "explanation": "Older patient, recurrent infections, painless nodes, splenomegaly and a mature lymphocytosis well above 5 × 10^9/L: CLL.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s3"
+     }
+    },
+    {
+     "stem": "A 52-year-old man has fatigue and recurrent infections. His spleen reaches the umbilicus but there are no palpable nodes. He has pancytopenia with a very low monocyte count, and the film shows lymphoid cells with fine cytoplasmic projections.",
+     "answer": 1,
+     "explanation": "Like CLL it causes splenomegaly and infections, but nodes are rare, monocytes are low and the cells have hair-like projections: hairy cell leukaemia.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 891,
+     "page": 891
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 436,
+     "page": 436
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 68-year-old man has a lymphocyte count of 22 × 10^9/L on a routine blood count. The film shows small mature lymphocytes and many smudge cells. Haemoglobin and platelets are normal and he has no lymphadenopathy.",
+   "leadIn": "Which test will confirm the diagnosis?",
+   "options": [
+    "Flow cytometric immunophenotyping of the blood",
+    "Bone marrow trephine biopsy",
+    "Excision biopsy of a lymph node",
+    "CT of chest, abdomen and pelvis",
+    "Serum protein electrophoresis"
+   ],
+   "answer": 0,
+   "explanation": "CLL is diagnosed on blood: a mature lymphocytosis above 5 × 10^9/L plus a monoclonal B-cell immunophenotype (CD5, CD19, CD23, one light chain). Flow cytometry is the most accurate test.",
+   "whyNot": [
+    "",
+    "Marrow examination is not needed to diagnose CLL; it is kept for difficult cases, prognosis and monitoring.",
+    "There are no nodes to biopsy, and the blood already holds the diagnostic cells.",
+    "CLL is staged clinically; imaging does not establish clonality.",
+    "An M protein is found in only about 5% and does not define CLL."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cll.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 433,
+     "page": 433
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 375,
+     "page": 375
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 374,
+     "page": 374
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 71-year-old woman has a lymphocytosis of 15 × 10^9/L. Flow cytometry is sent to distinguish CLL from other lymphoid disorders.",
+   "leadIn": "Which immunophenotype is most typical of CLL?",
+   "options": [
+    "CD19+, CD23+, CD5+ B cells restricted to one light chain",
+    "CD19+, CD25+, CD103+ B cells",
+    "CD19+ B cells, CD5− and CD23−, with both kappa and lambda light chains",
+    "CD34+ blasts expressing myeloperoxidase",
+    "CD138+ plasma cells with a single light chain"
+   ],
+   "answer": 0,
+   "explanation": "CLL cells are monoclonal B cells (single kappa or lambda light chain) carrying CD19 and CD23 plus the aberrant T-cell antigen CD5.",
+   "whyNot": [
+    "",
+    "CD25 and CD103 are the markers of hairy cell leukaemia.",
+    "A mixed kappa/lambda population is polyclonal, which points to a reactive lymphocytosis.",
+    "CD34 with myeloperoxidase describes myeloid blasts (AML).",
+    "CD138+ clonal plasma cells point to a plasma-cell disorder such as myeloma."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cll.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 375,
+     "page": 375
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 441,
+     "page": 441
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q7",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Clinical staging of CLL",
+   "leadIn": "Stage each patient using the system named in the stem. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Rai stage 0",
+    "Rai stage I",
+    "Rai stage II",
+    "Rai stage III",
+    "Rai stage IV",
+    "Binet stage A",
+    "Binet stage B",
+    "Binet stage C"
+   ],
+   "items": [
+    {
+     "stem": "Using the Rai system: a 64-year-old man with CLL has palpable cervical and axillary nodes and a spleen 4 cm below the costal margin. Hb 135 g/L, platelets 210 × 10^9/L.",
+     "answer": 2,
+     "explanation": "Lymphocytosis plus splenomegaly (with or without nodes) and no cytopenia is Rai stage II.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s5"
+     }
+    },
+    {
+     "stem": "Using the Binet (Davidson clinical) system: a 77-year-old woman with CLL has a single enlarged inguinal node area. Hb is 95 g/L with a negative DAT and platelets are 85 × 10^9/L.",
+     "answer": 7,
+     "explanation": "Two steps: she has only one lymphoid area, which might suggest stage A, but anaemia or thrombocytopenia places her in stage C whatever the node count.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 417,
+     "page": 393
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 61-year-old fit man with CLL has progressive stage B disease with drenching night sweats and weight loss. FISH shows no 17p deletion and TP53 is unmutated. He has no other illnesses.",
+   "leadIn": "According to Davidson, what is the most appropriate initial treatment?",
+   "options": [
+    "Fludarabine, cyclophosphamide and rituximab",
+    "Continued observation with 3-monthly blood counts",
+    "Imatinib",
+    "Upfront myeloablative allogeneic stem cell transplant",
+    "Radiotherapy to involved node areas alone"
+   ],
+   "answer": 0,
+   "explanation": "He needs treatment (B symptoms, progressive stage B). Fit, under 70 and TP53 intact: FCR is standard first-line care in Davidson.",
+   "whyNot": [
+    "",
+    "Systemic symptoms with progressive disease are an indication to treat, so watching is no longer appropriate.",
+    "Imatinib targets BCR-ABL in CML and has no role in CLL.",
+    "Transplant is only occasionally considered, with non-myeloablative conditioning, for fit high-risk patients.",
+    "Radiotherapy is for local problems from bulky nodes or spleen, not systemic disease with B symptoms."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cll.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 418,
+     "page": 394
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 75-year-old woman is found to have CLL on a routine blood count. She has one small cervical node, normal haemoglobin and platelets, and no symptoms. She is very anxious about having “leukaemia”.",
+   "leadIn": "What is the most appropriate management?",
+   "options": [
+    "Explain the indolent course and monitor the blood count every few months",
+    "Start fludarabine, cyclophosphamide and rituximab",
+    "Start obinutuzumab with chlorambucil",
+    "Start prophylactic immunoglobulin replacement",
+    "Refer for splenectomy"
+   ],
+   "answer": 0,
+   "explanation": "Stage A without progression needs no specific treatment and life expectancy is usually normal. Clear information, reassurance and periodic counts are the right approach.",
+   "whyNot": [
+    "",
+    "FCR is for active disease in fit patients; she has none of the triggers for treatment.",
+    "This regimen is for older patients who need treatment, which she does not yet.",
+    "Immunoglobulin replacement is for hypogammaglobulinaemia with recurrent infections.",
+    "Splenectomy is for autoimmune cytopenias, hypersplenism or massive splenomegaly."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cll.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 433,
+     "page": 433
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q10",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Complications in established CLL",
+   "leadIn": "Match each patient below with the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Richter’s transformation",
+    "Warm autoimmune haemolytic anaemia",
+    "Cold agglutinin disease",
+    "Immune thrombocytopenia",
+    "Pure red cell aplasia",
+    "Infection due to hypogammaglobulinaemia",
+    "Hypersplenism",
+    "Marrow failure from infiltration",
+    "Prolymphocytic leukaemia",
+    "Tumour lysis with hyperuricaemia"
+   ],
+   "items": [
+    {
+     "stem": "A 71-year-old man has had stable stage A CLL for 5 years. Over 6 weeks one neck node grows rapidly to 6 cm and he develops fevers and weight loss. Biopsy shows sheets of large B cells.",
+     "answer": 0,
+     "explanation": "Rapid growth of one node with B symptoms and large-cell histology in long-standing CLL means transformation to a high-grade (DLBCL-type) lymphoma: Richter’s transformation.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s7"
+     }
+    },
+    {
+     "stem": "A 68-year-old woman with CLL becomes jaundiced; her haemoglobin falls from 128 to 78 g/L in 3 weeks. Reticulocytes are high, the film shows spherocytes and the DAT is strongly positive for IgG.",
+     "answer": 1,
+     "explanation": "IgG-positive DAT with spherocytes and a brisk reticulocytosis is warm autoimmune haemolysis, the typical autoimmune complication of CLL.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 418,
+     "page": 394
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 376,
+     "page": 352
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 374,
+     "page": 374
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 255,
+     "page": 218
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q11",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Investigations in CLL",
+   "leadIn": "Match each patient below with the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Full blood count",
+    "Peripheral blood film",
+    "Flow cytometric immunophenotyping",
+    "FISH for 17p deletion / TP53 mutation analysis",
+    "Direct antiglobulin (Coombs) test",
+    "Reticulocyte count",
+    "Serum immunoglobulin levels",
+    "Bone marrow aspirate and trephine",
+    "Lymph node excision biopsy",
+    "Serum protein electrophoresis",
+    "Bone marrow test for the Philadelphia chromosome",
+    "CT of chest, abdomen and pelvis"
+   ],
+   "items": [
+    {
+     "stem": "A 67-year-old man has a lymphocyte count of 18 × 10^9/L and smudge cells on his film. His GP asks which test will show whether the lymphocytes are a single clone and confirm the diagnosis.",
+     "answer": 2,
+     "explanation": "Clonality and the CD5/CD19/CD23 phenotype are shown by flow cytometry, the most accurate test for CLL.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s4"
+     }
+    },
+    {
+     "stem": "A 72-year-old woman with Binet stage C CLL is about to start treatment. Her haematologist needs the one result that decides between chemo-immunotherapy and a BTK inhibitor.",
+     "answer": 3,
+     "explanation": "Del 17p / TP53 mutation predicts poor response to chemo-immunotherapy and directs therapy to ibrutinib-type drugs, so it must be checked before treatment starts.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s4"
+     }
+    },
+    {
+     "stem": "A 70-year-old man with CLL has had four sinus and chest infections in a year despite a normal neutrophil count. His team wants to know whether immunoglobulin replacement could help.",
+     "answer": 6,
+     "explanation": "Hypogammaglobulinaemia is common and progressive in CLL; measuring serum immunoglobulins shows whether replacement is justified.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s4"
+     }
+    },
+    {
+     "stem": "A 65-year-old woman with CLL develops jaundice and a falling haemoglobin. Which test shows antibody coating her red cells?",
+     "answer": 4,
+     "explanation": "The direct antiglobulin test detects IgG (or complement) on red cells, confirming autoimmune haemolysis, a known CLL complication.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 417,
+     "page": 393
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 433,
+     "page": 433
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q12",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Management decisions in CLL",
+   "leadIn": "Match each patient below with the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Observation with periodic blood counts",
+    "Fludarabine, cyclophosphamide and rituximab",
+    "Obinutuzumab with chlorambucil",
+    "Ibrutinib",
+    "Venetoclax",
+    "Glucocorticoids",
+    "Immunoglobulin replacement",
+    "Radiotherapy to the nodal mass",
+    "Splenectomy",
+    "Non-myeloablative allogeneic stem cell transplant",
+    "Allopurinol",
+    "Imatinib"
+   ],
+   "items": [
+    {
+     "stem": "An 81-year-old woman with heart failure and chronic kidney disease has progressive Binet stage C CLL. TP53 is intact. She is judged too frail for FCR.",
+     "answer": 2,
+     "explanation": "Older, less fit patients get an anti-CD20 antibody with gentle chemotherapy; obinutuzumab plus chlorambucil gives better responses than rituximab plus chlorambucil.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s6"
+     }
+    },
+    {
+     "stem": "A 63-year-old man with CLL now has progressive lymphadenopathy and falling platelets. FISH shows a 17p deletion.",
+     "answer": 3,
+     "explanation": "Two steps: he needs treatment (progression, cytopenia), and del 17p means poor response to chemo-immunotherapy, so a BTK inhibitor (ibrutinib) is chosen.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s6"
+     }
+    },
+    {
+     "stem": "A 70-year-old man with stable, otherwise untreated CLL develops warm autoimmune haemolysis with a haemoglobin of 80 g/L.",
+     "answer": 5,
+     "explanation": "First-line treatment of haemolysis in CLL is with steroids; chemotherapy is added if it responds poorly.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s6"
+     }
+    },
+    {
+     "stem": "A 66-year-old woman with 17p-deleted CLL progresses after a year on ibrutinib. Her team chooses an oral drug that blocks an anti-apoptotic protein.",
+     "answer": 4,
+     "explanation": "Venetoclax inhibits BCL-2 and is the second-line option after a BTK inhibitor in TP53-disrupted disease.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 418,
+     "page": 394
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 375,
+     "page": 375
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q13",
+   "kind": "emq",
+   "pool": "worked",
+   "difficulty": 2,
+   "theme": "Causes of a raised lymphocyte count",
+   "leadIn": "Match each patient below with the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Chronic lymphocytic leukaemia",
+    "Monoclonal B lymphocytosis",
+    "Small lymphocytic lymphoma",
+    "Prolymphocytic leukaemia",
+    "Hairy cell leukaemia",
+    "Reactive lymphocytosis from pertussis",
+    "Lymphocytosis after splenectomy",
+    "Chronic myeloid leukaemia",
+    "Acute lymphoblastic leukaemia",
+    "Diffuse large B-cell lymphoma"
+   ],
+   "items": [
+    {
+     "stem": "A 45-year-old woman has had 3 weeks of coughing fits ending in a whoop. Lymphocytes are 9 × 10^9/L; flow cytometry shows a mixed (polyclonal) population of B and T cells.",
+     "answer": 5,
+     "explanation": "Step 1: the lymphocytosis is polyclonal, so it is reactive, not a clonal neoplasm. Step 2: a paroxysmal whooping cough points to Bordetella pertussis, a classic bacterial cause of lymphocytosis.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s4"
+     }
+    },
+    {
+     "stem": "A 76-year-old man has a spleen filling the left abdomen but almost no palpable nodes. WCC is 450 × 10^9/L; most cells are large lymphocytes with a prominent nucleolus.",
+     "answer": 3,
+     "explanation": "Step 1: a B-cell picture in an older man resembles CLL. Step 2: massive spleen, little lymphadenopathy, WCC above 400 and nucleolated large cells are the hallmarks of prolymphocytic leukaemia, a CLL variant with a very poor prognosis.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s7"
+     }
+    },
+    {
+     "stem": "A 62-year-old woman has lymphocytes of 3.8 × 10^9/L. Flow cytometry shows a CD5+, CD23+ monoclonal B-cell clone of 1.1 × 10^9/L. Examination is normal.",
+     "answer": 1,
+     "explanation": "Step 1: the phenotype is that of CLL. Step 2: the clone is below 5 × 10^9/L and there is no nodal disease, so the CLL and SLL criteria are not met. Step 3: this is monoclonal B lymphocytosis; at above 0.5 × 10^9/L it counts as high-count MBL and deserves at least yearly review.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 948,
+     "page": 926
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 417,
+     "page": 393
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q14",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 66-year-old fit man with CLL has cervical, axillary and inguinal nodes. Hb is 92 g/L (DAT negative, reticulocytes low) and platelets are 80 × 10^9/L. FISH shows a 17p deletion.",
+   "leadIn": "What is the most appropriate first-line treatment?",
+   "options": [
+    "Fludarabine, cyclophosphamide and rituximab",
+    "Chlorambucil alone",
+    "Ibrutinib",
+    "Observation with 3-monthly blood counts",
+    "Splenectomy"
+   ],
+   "answer": 2,
+   "explanation": "Step 1 — stage: anaemia and thrombocytopenia make this stage C. Step 2 — the cytopenias are not autoimmune (DAT negative, low reticulocytes), so this is marrow failure, an indication to treat. Step 3 — the 17p deletion (TP53 loss) predicts a poor response to chemo-immunotherapy, so a B-cell receptor pathway inhibitor is used: ibrutinib, the oral BTK inhibitor (watch for atrial fibrillation).",
+   "whyNot": [
+    "FCR is standard only for fit patients without TP53 disruption; 17p-deleted disease responds poorly to it.",
+    "Chemotherapy is again ineffective with TP53 loss, and chlorambucil is a gentle option for the unfit.",
+    "",
+    "Marrow failure with stage C disease needs treatment now.",
+    "Splenectomy is for autoimmune cytopenias or hypersplenism, not marrow infiltration."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cll.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 418,
+     "page": 394
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q15",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Prognostic markers in CLL",
+   "leadIn": "Match each patient below with the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Deletion 17p / TP53 mutation",
+    "Deletion 11q (ATM)",
+    "Isolated deletion 13q14",
+    "Trisomy 12",
+    "Mutated IGHV genes",
+    "Unmutated IGHV genes",
+    "High ZAP70 expression",
+    "High CD38 expression",
+    "Diffuse bone marrow infiltration",
+    "NOTCH1 mutation"
+   ],
+   "items": [
+    {
+     "stem": "A 64-year-old man with newly diagnosed CLL has a FISH abnormality that, if he needs treatment, makes ibrutinib rather than fludarabine-based chemo-immunotherapy the preferred choice.",
+     "answer": 0,
+     "explanation": "Two steps: the abnormality that redirects first-line therapy from FCR to a BTK inhibitor is TP53 disruption; on FISH this is loss of 17p, where TP53 sits. These patients respond poorly to chemo-immunotherapy, so ibrutinib is offered.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s5"
+     }
+    },
+    {
+     "stem": "A 58-year-old woman with CLL has FISH showing loss of the region carrying the ATM tumour suppressor gene. Her disease is expected to evolve quickly.",
+     "answer": 1,
+     "explanation": "ATM lies on 11q; del 11q is an adverse marker linked to a rapidly evolving course.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s5"
+     }
+    },
+    {
+     "stem": "A 59-year-old man with stage A CLL has a molecular result associated with a median survival of more than 20 years.",
+     "answer": 4,
+     "explanation": "Somatically mutated IGHV predicts an indolent course (median survival > 20 years versus about 8 years when unmutated).",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s5"
+     }
+    },
+    {
+     "stem": "A 70-year-old woman with CLL has FISH using a chromosome 12 centromere probe that shows three signals per nucleus. Her haematologist calls this finding prognostically neutral.",
+     "answer": 3,
+     "explanation": "Three chromosome 12 signals means trisomy 12, regarded as a neutral marker.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 417,
+     "page": 393
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 375,
+     "page": 375
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 418,
+     "page": 394
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q16",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Causes of cytopenias in CLL",
+   "leadIn": "Match each patient below with the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Hypogammaglobulinaemia",
+    "Marrow infiltration by CLL",
+    "Warm autoimmune haemolysis",
+    "Immune thrombocytopenia",
+    "Hypersplenism",
+    "Pure red cell aplasia",
+    "Richter’s transformation",
+    "Fludarabine-induced haemolysis",
+    "Cold agglutinin disease",
+    "Iron deficiency"
+   ],
+   "items": [
+    {
+     "stem": "A 69-year-old man with CLL has a haemoglobin of 70 g/L with an almost absent reticulocyte count. The DAT is negative. His marrow shows a modest lymphocytic infiltrate, normal white cell and platelet precursors, but no red cell precursors at all.",
+     "answer": 5,
+     "explanation": "Two steps: low reticulocytes mean under-production, not haemolysis; selective absence of erythroid precursors with other lines intact is pure red cell aplasia, which is associated with CLL.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s7"
+     }
+    },
+    {
+     "stem": "A 72-year-old woman with stable CLL presents with bruising. Her platelet count is 12 × 10^9/L; haemoglobin, neutrophils and spleen size are unchanged from last year.",
+     "answer": 3,
+     "explanation": "An isolated, sudden fall in platelets with other lines intact and no marrow failure suggests immune thrombocytopenia; CLL is a recognised secondary cause of ITP.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s7"
+     }
+    },
+    {
+     "stem": "A 75-year-old man with CLL has a spleen extending into the pelvis and falling counts of all three cell lines. DAT is negative and marrow infiltration is only moderate. His counts recover after splenectomy.",
+     "answer": 4,
+     "explanation": "Pooling and destruction of cells in a massive spleen (hypersplenism) lowers all counts and is one reason for splenectomy in CLL.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s6"
+     }
+    },
+    {
+     "stem": "A 74-year-old man with CLL has a haemoglobin of 88 g/L and platelets of 60 × 10^9/L, both falling steadily over a year. Reticulocytes are low and the DAT is negative. His spleen is only just palpable, and a trephine shows the marrow diffusely replaced by small lymphocytes.",
+     "answer": 1,
+     "explanation": "Two steps: low reticulocytes with a negative DAT mean under-production, not haemolysis; two lines falling together with a marrow packed by CLL cells (rather than a selective loss of red cell precursors) is marrow failure from infiltration, which is treated with chemotherapy (and transfusion when needed).",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 325,
+     "page": 325
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 397,
+     "page": 373
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 272,
+     "page": 235
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 374,
+     "page": 374
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 418,
+     "page": 394
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q17",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 69-year-old man has stage A CLL under observation. Over the past 4 months his lymphocyte count has risen from 20 to 45 × 10^9/L. He feels well.",
+   "leadIn": "Which finding in this situation is an indication to start treatment?",
+   "options": [
+    "The lymphocyte count has more than doubled in under 6 months",
+    "The lymphocyte count is above 5 × 10^9/L",
+    "Smudge cells are present on the film",
+    "FISH shows an isolated 13q deletion",
+    "A single 1.5 cm cervical node is palpable"
+   ],
+   "answer": 0,
+   "explanation": "A rapidly rising lymphocyte count — doubling in less than 6 months — marks progressive disease and is an indication for treatment.",
+   "whyNot": [
+    "",
+    "This is only the diagnostic threshold and does not by itself require treatment.",
+    "Smudge cells are a film artefact, not a marker of activity.",
+    "Isolated del 13q is a favourable marker.",
+    "A small single node fits stage A and is not a reason to treat."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cll.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 418,
+     "page": 394
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q18",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 72-year-old woman has been on ibrutinib for 3 months for TP53-mutated CLL. She now has palpitations and breathlessness on exertion; her pulse is irregularly irregular at 130/min.",
+   "leadIn": "What is the most likely explanation?",
+   "options": [
+    "Atrial fibrillation provoked by the drug",
+    "Richter’s transformation",
+    "Warm autoimmune haemolysis",
+    "Hypogammaglobulinaemia",
+    "Pneumocystis pneumonia"
+   ],
+   "answer": 0,
+   "explanation": "Ibrutinib is usually well tolerated but raises the risk of atrial fibrillation, which fits an irregularly irregular tachycardia.",
+   "whyNot": [
+    "",
+    "Richter’s presents with rapid node growth and systemic symptoms, not an arrhythmia.",
+    "Haemolysis may cause breathlessness but not an irregularly irregular pulse.",
+    "Low immunoglobulins cause infections, not arrhythmia.",
+    "Pneumocystis causes breathlessness and hypoxia, but not an irregularly irregular pulse."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cll.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 418,
+     "page": 394
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q19",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A 67-year-old man with CLL is planning travel and asks which vaccines he can safely have.",
+   "leadIn": "Which vaccine type should he avoid?",
+   "options": [
+    "Live attenuated vaccines",
+    "Pneumococcal vaccine",
+    "Haemophilus influenzae type b vaccine",
+    "Inactivated influenza vaccine",
+    "Tetanus toxoid"
+   ],
+   "answer": 0,
+   "explanation": "Immunosuppressed CLL patients should not receive live vaccines; pneumococcal, Hib and influenza vaccination are recommended.",
+   "whyNot": [
+    "",
+    "Pneumococcal vaccination is specifically recommended in CLL.",
+    "Hib vaccination is specifically recommended in CLL.",
+    "Influenza vaccination is recommended; the inactivated vaccine is not live.",
+    "A toxoid is not a live vaccine, so it carries no risk of vaccine-strain infection."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cll.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 418,
+     "page": 394
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q20",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Chronic haematological malignancies",
+   "leadIn": "Match each patient below with the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Chronic lymphocytic leukaemia",
+    "Chronic myeloid leukaemia",
+    "Hairy cell leukaemia",
+    "Prolymphocytic leukaemia",
+    "Monoclonal B lymphocytosis",
+    "Small lymphocytic lymphoma",
+    "Richter’s transformation",
+    "Acute myeloid leukaemia",
+    "Myelodysplastic syndrome",
+    "Multiple myeloma"
+   ],
+   "items": [
+    {
+     "stem": "A 55-year-old man has a spleen palpable 12 cm below the costal margin. WCC is 180 × 10^9/L with neutrophils and myelocytes predominating, a basophilia and fewer than 10% blasts.",
+     "answer": 1,
+     "explanation": "A granulocytosis with the full range of precursors, basophilia and few blasts is chronic myeloid leukaemia — the opposite of the lymphocytosis of CLL.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s4"
+     }
+    },
+    {
+     "stem": "A 68-year-old woman has lymphocytes of 40 × 10^9/L, small and mature with smudge cells, that are CD5+ and CD23+. Electrophoresis shows a small monoclonal band; there are no bone lesions and calcium is normal.",
+     "answer": 0,
+     "explanation": "Two steps: the blood picture and phenotype are CLL; the small M band does not mean myeloma because about 5% of CLL patients have a monoclonal gammopathy.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s4"
+     }
+    },
+    {
+     "stem": "A 50-year-old man has pancytopenia with marked monocytopenia and splenomegaly but no lymphadenopathy. Flow cytometry shows B cells expressing CD25 and CD103, and a BRAF mutation is found.",
+     "answer": 2,
+     "explanation": "CD25 and CD103 positivity, a BRAF mutation, monocytopenia and splenomegaly without nodes describe hairy cell leukaemia.",
+     "studyRef": {
+      "sectionId": "hemonc-cll.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 981,
+     "page": 959
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 435,
+     "page": 435
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 441,
+     "page": 441
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 374,
+     "page": 374
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q21",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 70-year-old woman is newly diagnosed with CLL. She has enlarged nodes in the neck only, Hb 140 g/L and platelets 220 × 10^9/L. She asks what the future holds.",
+   "leadIn": "Which statement best describes her outlook?",
+   "options": [
+    "She will probably have a normal life expectancy and may never need treatment",
+    "She needs FCR now to prevent progression",
+    "Her median survival is about 2 years",
+    "Chlorambucil can cure her disease",
+    "Her CLL will inevitably transform into high-grade lymphoma"
+   ],
+   "answer": 0,
+   "explanation": "This is clinical stage A. Most stage A patients have a normal life expectancy, and about 30% of all CLL patients never need treatment.",
+   "whyNot": [
+    "",
+    "Early-stage disease is managed expectantly; early treatment is not given.",
+    "Median survival in CLL overall is about 10 years, and longer in stage A.",
+    "Chlorambucil is palliative; CLL is incurable without allogeneic transplant.",
+    "Richter’s transformation is uncommon (about 5–10%)."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cll.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 417,
+     "page": 393
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 418,
+     "page": 394
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 300,
+     "page": 263
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 375,
+     "page": 375
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q22",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 74-year-old man has had CLL for 8 years. Over 2 months he has developed a rapidly growing abdominal mass, fevers and weight loss. Biopsy of the mass shows sheets of large B cells.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Richter’s transformation",
+    "Prolymphocytic leukaemia",
+    "Hairy cell leukaemia",
+    "Monoclonal B lymphocytosis",
+    "Pure red cell aplasia"
+   ],
+   "answer": 0,
+   "explanation": "Rapid nodal growth with systemic symptoms and large B cells on biopsy in long-standing CLL is Richter’s transformation, usually to diffuse large B-cell lymphoma.",
+   "whyNot": [
+    "",
+    "PLL shows a very high count of nucleolated prolymphocytes with massive splenomegaly, not a large-cell nodal mass.",
+    "Hairy cell leukaemia is a separate disorder with splenomegaly, pancytopenia and few nodes.",
+    "MBL is a small clone without nodal disease.",
+    "Pure red cell aplasia causes isolated anaemia, not a mass."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cll.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 418,
+     "page": 394
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 982,
+     "page": 960
+    }
+   ]
+  },
+  {
+   "id": "hemonc-cll.q23",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 60-year-old woman is referred with an incidental lymphocytosis. She asks whether she was exposed to something that caused it.",
+   "leadIn": "Which statement about the aetiology of CLL is most accurate?",
+   "options": [
+    "No specific cause is identified in most patients",
+    "It is caused mainly by previous alkylating chemotherapy",
+    "It is caused by HTLV-1 infection",
+    "It usually follows atomic-bomb radiation exposure",
+    "It is a direct result of Down’s syndrome"
+   ],
+   "answer": 0,
+   "explanation": "The cause of leukaemia is unknown in most patients and our sources give no CLL-specific environmental cause. Nearly all CLL arises from a pre-existing monoclonal B lymphocytosis.",
+   "whyNot": [
+    "",
+    "Alkylating agents are linked mainly to myeloid leukaemia after a latent period.",
+    "HTLV-1 causes adult T-cell leukaemia/lymphoma.",
+    "Radiation after the atomic bombings was linked to myeloid leukaemia.",
+    "Down’s syndrome is listed only as a general leukaemia risk factor, not a recognised cause of CLL."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-cll.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 977,
+     "page": 955
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 295,
+     "page": 258
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 417,
+     "page": 393
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "hemonc-cll.o1",
+   "sectionId": "hemonc-cll.s4",
+   "cite": {
+    "book": "fa2ck11",
+    "pdfPage": 433,
+    "page": 433,
+    "figure": "FIGURE 2.7-16"
+   },
+   "identify": "Blood film: many small mature lymphocytes with **smudge cells** → chronic lymphocytic leukaemia."
+  },
+  {
+   "id": "hemonc-cll.o2",
+   "sectionId": "hemonc-cll.s5",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 417,
+    "page": 393,
+    "figure": "Fig. 17.11"
+   },
+   "identify": "FISH panel A (green 17p probe, red 11q probe): 17p signal lost while 11q is normal → **17p (TP53) deletion**, the adverse marker that steers treatment away from chemo-immunotherapy."
+  },
+  {
+   "id": "hemonc-cll.o3",
+   "sectionId": "hemonc-cll.s5",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 417,
+    "page": 393,
+    "figure": "Fig. 17.11"
+   },
+   "identify": "FISH panel B: three chromosome 12 centromere signals → **trisomy 12**, a neutral prognostic finding in CLL."
+  },
+  {
+   "id": "hemonc-cll.o4",
+   "sectionId": "hemonc-cll.s7",
+   "cite": {
+    "book": "fa2ck11",
+    "pdfPage": 436,
+    "page": 436,
+    "figure": "FIGURE 2.7-17"
+   },
+   "identify": "Lymphoid cells with hair-like cytoplasmic projections → **hairy cell leukaemia**, the main CLL look-alike (splenomegaly, few nodes)."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:34:35.236Z",
+  "contentHash": "99837852d5b947cb1c0ef5ed16b368a1996c7bea580143b9dd786d7faf46ac26"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:34:35.243Z",
+  "contentHash": "99837852d5b947cb1c0ef5ed16b368a1996c7bea580143b9dd786d7faf46ac26",
+  "checkerVersion": "source-check-v1"
+ }
+}

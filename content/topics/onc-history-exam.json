@@ -1,0 +1,2915 @@
+{
+ "topicId": "onc-history-exam",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "onc-history-exam.s1",
+   "title": "Framing the cancer history: setting, risk factors and family history",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Shape the history to **where the patient is in the cancer journey**. While the diagnosis is being worked out, chase the clues to the primary site and gauge fitness. During treatment, focus on side-effects and whether the patient can tolerate more. At every stage, ask with empathy how the patient is coping. Treatment planning later rests on three things: **the tumour type, its extent (stage), and the patient's general condition and comorbidities**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 117,
+       "page": 96
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1343,
+       "page": 1321
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Risk factors and exposures to ask about",
+     "items": [
+      "**Smoking**: the single biggest cause of lung cancer, and roughly 80% of lung cancers are considered preventable",
+      "**Occupation and industry**: asbestos, chemicals, dyes, dusts; heavy **benzene** exposure in suspected leukaemia",
+      "**Viruses**: hepatitis viruses, HIV, HPV, EBV",
+      "**Obesity** and air pollution",
+      "**Missed screening**: breast, cervical or bowel screening not attended",
+      "**Previous cancer treatment**: earlier chemotherapy can cause a therapy-related leukaemia or myelodysplasia"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 117,
+       "page": 96
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1343,
+       "page": 1321
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 360,
+       "page": 334
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 108,
+       "page": 108
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Inherited predisposition (5–10% of all cancers)",
+     "columns": [
+      "Gene",
+      "Syndrome or main cancer"
+     ],
+     "rows": [
+      [
+       "BRCA1 / BRCA2",
+       "Familial breast and ovarian cancer"
+      ],
+      [
+       "APC",
+       "Familial adenomatous polyposis (colon)"
+      ],
+      [
+       "MSH2 / MLH1",
+       "Hereditary non-polyposis colorectal cancer (HNPCC)"
+      ],
+      [
+       "TP53",
+       "Li–Fraumeni syndrome"
+      ],
+      [
+       "RB1",
+       "Retinoblastoma"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1343,
+       "page": 1321
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Breast cancer risk history",
+     "items": [
+      "Breast or ovarian cancer in relatives, and **the age at which they were affected**",
+      "Previous breast cancer or atypical hyperplasia on a past biopsy",
+      "Hormonal exposure: early menarche, late menopause, late first pregnancy, postmenopausal oestrogen",
+      "Obesity, heavy alcohol intake, and previous **mantle (neck and chest) radiotherapy**"
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 842,
+       "page": 763
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 843,
+       "page": 764
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Cancer is mainly a disease of older people.** About half of cancers arise in the 15% of the population aged over 65 (Kumar: over-65s make up about 65% of registrations). Symptoms are easily put down to \"just age\". When choosing treatment, **comorbidity and the patient's wishes count for more than age in years**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 119,
+       "page": 98
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A negative risk history does not exclude cancer: **about three-quarters of women with breast cancer have no identifiable risk factor**. In men, a one-sided breast swelling can be malignant, and male breast cancer often presents at a locally advanced stage.",
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 843,
+       "page": 764
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.s2",
+   "title": "Symptoms: local, systemic and paraneoplastic clues",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Early cancer is usually **silent**. As it grows it causes **local** symptoms (a mass, invasion, obstruction or bleeding), then **distant** ones from metastases or from **non-metastatic** hormonal and immune effects. Cancer symptoms typically **keep progressing** and fail to settle with simple measures such as antibiotics. Many patients first report something vague (\"not feeling right\", tiredness, weight loss, aches), so a full **review of systems** is how you find the system that points to the primary.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1345,
+       "page": 1323
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 125,
+       "page": 104
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 117,
+       "page": 96
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Local symptoms and the primaries they suggest",
+     "columns": [
+      "Symptom",
+      "Primary sites to consider"
+     ],
+     "rows": [
+      [
+       "Bleeding (haemoptysis, haematemesis, haematuria, abnormal vaginal bleeding)",
+       "Bronchus, stomach, colon, bladder, kidney, endometrium"
+      ],
+      [
+       "Progressive (mechanical) dysphagia, early satiety",
+       "Oesophagus, stomach, bronchus"
+      ],
+      [
+       "Altered bowel habit, rectal bleeding, tenesmus, worsening constipation",
+       "Colon and rectum (constipation also with ovarian cancer)"
+      ],
+      [
+       "Cough, stridor, recurrent chest infection",
+       "Bronchus, thyroid"
+      ],
+      [
+       "Abdominal swelling or bloating (ascites)",
+       "Ovary, stomach, pancreas"
+      ],
+      [
+       "Painless haematuria",
+       "Urinary tract"
+      ],
+      [
+       "Postmenopausal, intermenstrual or postcoital bleeding",
+       "Endometrium, cervix"
+      ],
+      [
+       "Bone pain, back pain or a fracture after trivial injury",
+       "Primary sarcoma, or metastasis from breast, prostate, bronchus, thyroid or kidney"
+      ],
+      [
+       "Non-healing mouth ulcer, hoarse voice",
+       "Mouth and throat"
+      ],
+      [
+       "Changing mole or skin ulcer",
+       "Skin (melanoma and other skin cancers)"
+      ],
+      [
+       "Obstructive urinary symptoms",
+       "Prostate"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1346,
+       "page": 1324
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 117,
+       "page": 96
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Systemic symptoms",
+     "items": [
+      "**Weight loss**: losing more than 10% of body weight without explanation always needs a cause found. The differential also includes thyrotoxicosis and chronic inflammatory or infective disease",
+      "**Fever** can itself be the presenting feature of Hodgkin and non-Hodgkin lymphoma, leukaemia, renal cancer and liver cancer",
+      "**Lymphoma B symptoms**: fever, drenching night sweats, or loss of more than 10% of weight over 6 months",
+      "**Recurrent infections** may be the first clue to leukaemia (neutropenia), myeloma (low normal immunoglobulins) or lymphoma",
+      "Anorexia, malaise and fatigue. Systemic symptoms usually mean **advanced disease**, except in some paraneoplastic and ectopic hormone syndromes"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1345,
+       "page": 1323
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 125,
+       "page": 104
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 383,
+       "page": 357
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 360,
+       "page": 334
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 359,
+       "page": 333
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Paraneoplastic (non-metastatic) clues",
+     "columns": [
+      "Feature",
+      "Classic tumour links"
+     ],
+     "rows": [
+      [
+       "Hypercalcaemia",
+       "Myeloma, breast, kidney; also lymphoma"
+      ],
+      [
+       "SIADH (hyponatraemia), ectopic ACTH, Lambert–Eaton syndrome",
+       "Small cell lung cancer"
+      ],
+      [
+       "Hypertrophic pulmonary osteoarthropathy (clubbing with painful wrists)",
+       "Lung cancer (Kumar: non-small cell)"
+      ],
+      [
+       "Acanthosis nigricans",
+       "Stomach (also oesophagus)"
+      ],
+      [
+       "Dermatomyositis",
+       "Lung, stomach and upper GI tract"
+      ],
+      [
+       "Migratory superficial thrombophlebitis (Trousseau's syndrome)",
+       "Pancreatic adenocarcinoma"
+      ],
+      [
+       "Prothrombotic state, DVT or PE",
+       "Pancreas, stomach, breast, ovary and other GI cancers"
+      ],
+      [
+       "Erythrocytosis",
+       "Renal cell carcinoma, hepatocellular carcinoma, cerebellar haemangioblastoma"
+      ],
+      [
+       "Thrombocytosis",
+       "Ovarian cancer"
+      ],
+      [
+       "Membranous nephropathy",
+       "Lung, stomach, colon"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 126,
+       "page": 105
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 125,
+       "page": 104
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**A clot can be the first sign of cancer.** About 18% of patients with recurrent pulmonary emboli turn out to have an underlying malignancy. Always ask about past DVT or PE. Surgery, chemotherapy, hormone therapy, radiotherapy and central venous lines all add to the cancer's own clotting tendency.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 125,
+       "page": 104
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Exam keyword patterns: **smoker + haemoptysis + clubbing** → bronchial carcinoma; **anaemia + occult blood in stool + progressive constipation** → colon cancer; **long fever + nodes + hepatosplenomegaly** → lymphoma; **progressive dysphagia** → oesophageal cancer; **obstructive jaundice + cachexia** → cancer of the pancreatic head.",
+     "cites": [
+      {
+       "book": "allam25",
+       "pdfPage": 62,
+       "page": 61
+      },
+      {
+       "book": "allam25",
+       "pdfPage": 81,
+       "page": 80
+      },
+      {
+       "book": "allam25",
+       "pdfPage": 80,
+       "page": 79
+      },
+      {
+       "book": "allam25",
+       "pdfPage": 45,
+       "page": 44
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Hypercalcaemia of malignancy causes vague symptoms (drowsiness, confusion, nausea, constipation, thirst and polyuria) that are easily mistaken for the effects of the cancer itself. Check the calcium, corrected for albumin.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 127,
+      "page": 106,
+      "figure": "Fig. 6.7"
+     },
+     "note": "Look at: wasting of the small hand muscles from a paraneoplastic peripheral neuropathy."
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.s3",
+   "title": "Performance status, staging, treatment history and the patient's view",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "ECOG performance status",
+     "columns": [
+      "Grade",
+      "What the patient can do"
+     ],
+     "rows": [
+      [
+       "0",
+       "Fully active with no restriction (Davidson: and without needing analgesics)"
+      ],
+      [
+       "1",
+       "Cannot do strenuous activity but walks about and can do light or desk work (Davidson: also fully active patients who need analgesics to be so)"
+      ],
+      [
+       "2",
+       "Walks about and manages all self-care but cannot work; **up and about for more than half of waking hours**"
+      ],
+      [
+       "3",
+       "Only limited self-care; **in bed or a chair for more than half of waking hours**"
+      ],
+      [
+       "4",
+       "Completely disabled, no self-care, confined to bed or chair"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1344,
+       "page": 1322
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 128,
+       "page": 107
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Performance status is a major **prognostic** factor for all tumour types and strongly shapes how aggressive treatment can be. Karnofsky is an alternative scale. Talley applies ECOG to haematological malignancy too, to judge whether further treatment is practical.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1344,
+       "page": 1322
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 128,
+       "page": 107
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 383,
+       "page": 357
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The cut-off differs between books. **Davidson (primary authority):** outcomes are worse with ECOG **3–4** than with 0–2 in almost all cancers. **Kumar:** response and survival fall sharply from ECOG **2** upwards. Both agree that a higher grade means a worse outlook. If asked for Davidson's dividing line, give 0–2 versus 3–4.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1344,
+       "page": 1322
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 128,
+       "page": 107
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Staging language you will be asked to use",
+     "items": [
+      "**TNM (UICC)**: T = size or depth of the primary (TX, T0, T1–T4); N = regional nodes (NX, N0, N1–N3); M = distant metastasis (MX, M0, M1)",
+      "Colon cancer may be staged with the **Dukes** system instead",
+      "Lymphoma (Ann Arbor): add **\"a\"** if B symptoms are absent and **\"b\"** if they are present"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1344,
+       "page": 1322
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 383,
+       "page": 357
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Treatment history and toxicity",
+     "items": [
+      "Previous surgery, chemotherapy, radiotherapy or bone marrow transplant, and how each affected daily life",
+      "Chemotherapy side-effects: nausea and vomiting, mouth ulcers (mucositis), anorexia, diarrhoea, peripheral neuropathy, fever",
+      "Late effects of treatment that was given with curative intent"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 117,
+       "page": 96
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 359,
+       "page": 333
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 118,
+       "page": 97
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "The patient's perspective",
+     "items": [
+      "When the diagnosis was made and what the patient understands about it",
+      "What treatment has been offered, and whether they know if the aim is **cure or palliation**",
+      "What outcome they expect, and how they feel about further treatment",
+      "Who supports them: family, friends, social networks, faith"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 118,
+       "page": 97
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "After the bedside: typical work-up",
+     "items": [
+      "**CT** of chest, abdomen and pelvis for local extent; **FDG PET–CT** for metabolically active disease, staging and response",
+      "**MRI** for brain and pelvis (rectal, cervical and prostate staging); contrast CT head for brain metastases; **technetium bone scan** for bony metastases",
+      "**Tissue biopsy** is generally needed before any treatment",
+      "**Tumour markers** (e.g. PSA prostate, CA125 ovary, CEA GI, CA19-9 pancreas, AFP liver and germ cell, beta-hCG germ cell and choriocarcinoma) are mainly for **serial monitoring**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1345,
+       "page": 1323
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 117,
+       "page": 96
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 127,
+       "page": 106
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 125,
+       "page": 104
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Fever in a patient on chemotherapy means neutropenic sepsis until proven otherwise**: it is a medical emergency. At the bedside, fever with tachycardia and hypotension should trigger the same thought.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 117,
+       "page": 96
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 118,
+       "page": 97
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A normal tumour marker does not rule cancer out, and a raised one needs histological confirmation because many benign conditions raise these markers.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 125,
+       "page": 104
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 1345,
+      "page": 1323,
+      "figure": "Fig. 33.5"
+     },
+     "note": "Look at: an FDG-avid axillary lesion on PET–CT that disappears after chemotherapy, showing treatment response."
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.s4",
+   "title": "General examination and the lymph nodes",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Head-to-toe survey of the cancer patient",
+     "items": [
+      "**General**: cachexia, dehydration, Cushingoid look (ectopic ACTH), skin changes",
+      "**Observations**: hypoxia and fast breathing suggest lung collapse or effusion; fever, tachycardia and low BP suggest neutropenic sepsis",
+      "**Hands**: clubbing, tar staining, pallor, **tylosis** of the palms, small-muscle wasting or neuropathy; **tender wrists with clubbing** = hypertrophic pulmonary osteoarthropathy",
+      "**Face**: conjunctival pallor, jaundice, **Horner's syndrome**, oral mucositis",
+      "**Lymph nodes**, breasts, chest, heart (SVC obstruction, atrial fibrillation, pericardial effusion) and abdomen",
+      "**Skeleton**: focal tenderness over spine, pelvis and long bones; localised back tenderness suggests metastasis",
+      "**Neurology**: focal deficits, sensory level; **calves** for venous thrombosis"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1336,
+       "page": 1314
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 118,
+       "page": 97
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Describing a lymph node",
+     "columns": [
+      "Feature",
+      "Interpretation"
+     ],
+     "rows": [
+      [
+       "Site",
+       "Localised (look at the drainage area) or generalised"
+      ],
+      [
+       "Size",
+       "More than 1 cm is usually abnormal"
+      ],
+      [
+       "Consistency",
+       "Hard = carcinoma; rubbery = lymphoma; soft may be normal"
+      ],
+      [
+       "Tenderness",
+       "Favours infection or inflammation"
+      ],
+      [
+       "Fixation",
+       "Fixed to deep tissue favours carcinoma"
+      ],
+      [
+       "Overlying skin",
+       "Red and inflamed = infection; tethered = carcinoma"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 365,
+       "page": 339
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "How much each sign shifts the odds of serious disease (LR+)",
+     "columns": [
+      "Finding",
+      "LR+"
+     ],
+     "rows": [
+      [
+       "Node fixed to deep tissue",
+       "13.0"
+      ],
+      [
+       "Node area greater than 9 cm²",
+       "8.4"
+      ],
+      [
+       "Hard texture",
+       "3.3"
+      ],
+      [
+       "Supraclavicular site",
+       "3.1"
+      ],
+      [
+       "Weight loss",
+       "2.3"
+      ],
+      [
+       "Age over 40",
+       "2.25"
+      ],
+      [
+       "Tender node (argues against)",
+       "0.61"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 366,
+       "page": 340
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Technique",
+     "items": [
+      "**Neck**: sit the patient up and stand behind. Feel the submental, submandibular, jugular chain, posterior triangle, occipital, postauricular and preauricular groups, then the **supraclavicular fossae** from the front",
+      "**Axilla**: five groups (central, lateral, pectoral, infraclavicular, subscapular). Rest the patient's relaxed arm on your forearm and feel high in the axilla with the opposite hand",
+      "Then epitrochlear, inguinal, femoral and popliteal nodes",
+      "When a node is enlarged, **examine the region it drains** for the cause"
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 367,
+       "page": 341
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 368,
+       "page": 342
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1337,
+       "page": 1315
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 365,
+       "page": 339
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 366,
+       "page": 340
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Where the node is, and what it suggests",
+     "columns": [
+      "Node",
+      "Think of"
+     ],
+     "rows": [
+      [
+       "Left supraclavicular (Virchow's node; Troisier's sign)",
+       "Abdominal cancer, especially stomach; also chest or pelvis"
+      ],
+      [
+       "Right supraclavicular",
+       "Lung or oesophageal cancer"
+      ],
+      [
+       "Cervical",
+       "Head and neck or oropharyngeal cancer; lymphoma"
+      ],
+      [
+       "Epitrochlear",
+       "Usually pathological: local infection, non-Hodgkin lymphoma, rarely syphilis"
+      ],
+      [
+       "Inguinal",
+       "Occasionally involved in ovarian cancer"
+      ],
+      [
+       "Supraclavicular in lung cancer",
+       "Often the first nodes found to be enlarged"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 366,
+       "page": 340
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 125,
+       "page": 104
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 108,
+       "page": 108
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1337,
+       "page": 1315
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 365,
+       "page": 339
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 195,
+       "page": 195
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Hodgkin versus non-Hodgkin lymphoma at the bedside",
+     "columns": [
+      "Feature",
+      "Hodgkin",
+      "Non-Hodgkin"
+     ],
+     "rows": [
+      [
+       "Nodes",
+       "Discrete, rubbery, painless; often one group on one side (neck, axilla, groin)",
+       "More often several sites at once"
+      ],
+      [
+       "Stage at presentation",
+       "Usually stage I or II",
+       "Usually stage III or IV"
+      ],
+      [
+       "Other sites",
+       "Waldeyer's ring rarely involved; organ infiltration uncommon",
+       "Waldeyer's ring and extranodal disease more common"
+      ],
+      [
+       "Clue",
+       "Some patients get node pain after alcohol",
+       "—"
+      ],
+      [
+       "Diagnosis",
+       "Node biopsy showing Reed–Sternberg cells",
+       "Node biopsy (often the only way to tell the two apart)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 383,
+       "page": 357
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 384,
+       "page": 358
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 367,
+       "page": 341
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 195,
+       "page": 195
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 196,
+       "page": 196
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Myeloma at the bedside (CRAB)**: anaemia, bruising or purpura, infection, bone tenderness or pathological fractures, cord compression, confusion from hypercalcaemia, and signs of chronic kidney disease.",
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 384,
+       "page": 358
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Not every neck or groin lump is a node.** Think of lipoma (soft, often large), abscess (hot, tender, fluctuant), sebaceous cyst (in the skin), thyroid nodule, and reactive nodes after vaccination or cellulitis.",
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 359,
+       "page": 333
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "talley8",
+      "pdfPage": 368,
+      "page": 342,
+      "figure": "FIGURE 21.11"
+     },
+     "note": "Look at: the cervical and supraclavicular node groups, in the order you palpate them."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "talley8",
+      "pdfPage": 367,
+      "page": 341,
+      "figure": "FIGURE 21.9"
+     },
+     "note": "Look at: the five axillary node groups (central, lateral, pectoral, infraclavicular, subscapular)."
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.s5",
+   "title": "Regional examination: breast, chest, abdomen and skin",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Breast examination",
+     "items": [
+      "Always offer a **chaperone**",
+      "**Inspect sitting**: arms by the side, then raised, then hands pressed on the hips. Look for nipple retraction, a rash or ulcer of the nipple (Paget's), unilateral dilated veins, dimpling, **peau d'orange**, tethering and axillary masses",
+      "**Palpate lying flat** with the pads of the middle three fingers in **vertical strips** covering clavicle to bra line and sternum to mid-axillary line. Check behind the nipple, then re-examine sitting up",
+      "Examine the axillary and supraclavicular nodes"
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 843,
+       "page": 764
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 844,
+       "page": 765
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Breast lump: features that point which way",
+     "columns": [
+      "Suggests carcinoma",
+      "Suggests a benign cause"
+     ],
+     "rows": [
+      [
+       "Very firm or hard, irregular or ill-defined edge",
+       "Firm, smooth, very mobile lump in a young woman (fibroadenoma)"
+      ],
+      [
+       "Fixed to skin or chest wall; skin dimpling",
+       "Multiple nodules (benign cystic disease)"
+      ],
+      [
+       "Nipple retraction or scaling; bloody discharge",
+       "Discharge from both sides or many ducts"
+      ],
+      [
+       "Palpable draining nodes",
+       "Lump varying with the menstrual cycle"
+      ],
+      [
+       "Usually painless (inflammatory cancer can be tender)",
+       "—"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 845,
+       "page": 766
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 842,
+       "page": 763
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Nipple discharge**: worrying discharge is clear or bloodstained, comes **spontaneously** and from a **single duct**. Discharge from both breasts or several ducts, coloured (yellow, green or white), or only seen when squeezed is usually physiological. Record any lump by **clock-face position and distance from the areola**.",
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 842,
+       "page": 763
+      },
+      {
+       "book": "talley8",
+       "pdfPage": 845,
+       "page": 766
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Clinical breast examination misses a lot: it is only just over **50% sensitive** for carcinoma (specificity up to 90%; LR+ 14.1, LR− 0.47). A normal examination does not exclude cancer in a woman with a lump or a worrying history.",
+     "cites": [
+      {
+       "book": "talley8",
+       "pdfPage": 843,
+       "page": 764
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Chest and lung-cancer signs",
+     "items": [
+      "**Large pleural effusion**: fast breathing, reduced expansion, trachea and apex pushed away, **stony dull** note, absent breath sounds and reduced vocal resonance, crackles above the fluid",
+      "Stridor, consolidation or lobar collapse",
+      "**Hoarse voice** = recurrent laryngeal nerve palsy; **weak diaphragm** = phrenic nerve palsy",
+      "**Horner's syndrome** (partial ptosis, small pupil, loss of sweating) = apical (Pancoast) tumour on the sympathetic chain"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1337,
+       "page": 1315
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 125,
+       "page": 104
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 109,
+       "page": 109
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1336,
+       "page": 1314
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Abdomen",
+     "items": [
+      "Scars from past surgery; an **everted umbilicus** suggests ascites",
+      "A hard nodule at the umbilicus = **Sister Mary Joseph nodule** (metastasis, often ovarian or gastric)",
+      "**Smooth** liver enlargement: primary liver cancer (or heart failure). **Firm, knobbly** liver: metastases",
+      "Other masses, flank and **shifting dullness**, inguinal nodes",
+      "Rectal and vaginal examination for rectal or adnexal masses; ovarian deposits from gut cancer are **Krukenberg tumours**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1337,
+       "page": 1315
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 125,
+       "page": 104
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Skin lesions that should raise suspicion",
+     "items": [
+      "**A**symmetry (irregular shape)",
+      "**B**leeding, and an irregular **B**order",
+      "**C**olour that is uneven or changing",
+      "**D**iameter over 6 mm, or growing",
+      "New itch or pain in an existing mole",
+      "Tumour infiltrating the skin: dermal nodules, peau d'orange, ulceration"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1337,
+       "page": 1315
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 125,
+       "page": 104
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "talley8",
+      "pdfPage": 844,
+      "page": 765,
+      "figure": "FIGURE 41.2"
+     },
+     "note": "Look at: right breast carcinoma with the breast pulled up, skin dimpling and nipple retraction."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 1336,
+      "page": 1314,
+      "figure": "Clinical examination spread"
+     },
+     "note": "Look at: the examination map with photos of ectopic ACTH Cushing's, clubbing in lung cancer, SVC obstruction, skin tethering above the nipple and ovarian ascites."
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.s6",
+   "title": "Oncological emergencies and metastatic signs at the bedside",
+   "objectiveIdx": [
+    0,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Superior vena cava obstruction (SVCO)",
+     "columns": [
+      "Symptoms",
+      "Signs"
+     ],
+     "rows": [
+      [
+       "Breathlessness (63%)",
+       "Distended neck veins (66%)"
+      ],
+      [
+       "Facial swelling or head fullness (50%)",
+       "Distended chest-wall veins (54%)"
+      ],
+      [
+       "Cough (24%)",
+       "Facial oedema (46%), facial plethora, cyanosis, arm oedema"
+      ],
+      [
+       "Headache from cerebral oedema, worse on bending, stooping or lying down",
+       "Raised but **non-pulsatile** JVP; **Pemberton's sign** (face congests and turns blue when the arms are raised)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1348,
+       "page": 1326
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1337,
+       "page": 1315
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 109,
+       "page": 109
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Malignant spinal cord compression** (thoracic spine most often) begins with **back pain, typically worse on coughing or lying flat**. Sensory change below the level and weakness distal to the block follow, and **sphincter disturbance** (urinary retention, faecal incontinence) comes **late**. Ask about back pain in every cancer patient, and confirm suspected compression with urgent MRI.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1348,
+       "page": 1326
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Where is the compression?",
+     "columns": [
+      "Feature",
+      "Spinal cord",
+      "Conus medullaris",
+      "Cauda equina"
+     ],
+     "rows": [
+      [
+       "Weakness",
+       "Symmetrical, profound",
+       "Symmetrical, variable",
+       "Asymmetrical, may be mild"
+      ],
+      [
+       "Reflexes",
+       "Knee and ankle brisk (or absent); extensor plantars",
+       "Knee brisk, ankle reduced; extensor plantars",
+       "Knee and ankle reduced; flexor plantars"
+      ],
+      [
+       "Sensory loss",
+       "Symmetrical with a sensory level",
+       "Symmetrical, saddle area",
+       "Asymmetrical, radicular"
+      ],
+      [
+       "Sphincters",
+       "Lost late",
+       "Lost early",
+       "Often spared"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1348,
+       "page": 1326
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other emergencies to recognise",
+     "items": [
+      "**Pericardial effusion**: tachycardia, falling BP, rising JVP, muffled heart sounds, **Kussmaul's sign**",
+      "**Hypercalcaemia**: drowsiness, delirium, nausea and vomiting, constipation, polyuria, polydipsia, dehydration",
+      "**Brain metastases**: headache (40–50%), focal deficit (20–40%), cognitive change (35%), seizures (10–20%), papilloedema (under 10%). Commonest primaries: **lung (48%)**, breast (15%), melanoma (9%)"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1337,
+       "page": 1315
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1350,
+       "page": 1328
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Metastatic signs by site",
+     "columns": [
+      "Site",
+      "What you find"
+     ],
+     "rows": [
+      [
+       "Lung",
+       "Pleuritic pain, breathlessness, lymphangitis"
+      ],
+      [
+       "Liver",
+       "Right upper quadrant pain, jaundice, raised liver enzymes, knobbly hepatomegaly"
+      ],
+      [
+       "Brain",
+       "Raised intracranial pressure, focal deficit, seizures"
+      ],
+      [
+       "Bone",
+       "Pain, fracture, cord compression, hypercalcaemia"
+      ],
+      [
+       "Pleura / peritoneum",
+       "Effusion / ascites and Krukenberg tumours"
+      ],
+      [
+       "Adrenal",
+       "Adrenal insufficiency (Addison's)"
+      ],
+      [
+       "Central nodes",
+       "Mediastinal → SVCO; porta hepatis → obstructive jaundice; para-aortic → back pain"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 125,
+       "page": 104
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1337,
+       "page": 1315
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Lambert–Eaton syndrome (small cell lung cancer, antibodies to presynaptic calcium channels)** causes proximal weakness that mimics myasthenia. Zero to Finals describes the weakness as worse with prolonged use. **Davidson (primary authority)** says it **improves with exercise**, and the EMG response increases after effort. That improvement is the classic feature that separates it from myasthenia.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1348,
+       "page": 1326
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 109,
+       "page": 109
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "onc-history-exam.c1",
+   "sectionId": "onc-history-exam.s1",
+   "front": "Three pieces of information needed to plan cancer management?",
+   "back": "Tumour type, disease extent (stage), and the patient's general condition and comorbidity.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1343,
+     "page": 1321
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.c2",
+   "sectionId": "onc-history-exam.s1",
+   "front": "What proportion of cancers arise from inherited predisposition syndromes?",
+   "back": "5–10%, e.g. BRCA1/2, APC, MSH2/MLH1, TP53 (Li–Fraumeni), RB1.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1343,
+     "page": 1321
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.c3",
+   "sectionId": "onc-history-exam.s1",
+   "front": "Occupational exposure to ask about in suspected leukaemia?",
+   "back": "Heavy benzene exposure. Also ask about previous chemotherapy (therapy-related leukaemia or myelodysplasia).",
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 360,
+     "page": 334
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.c4",
+   "sectionId": "onc-history-exam.s2",
+   "front": "Lymphoma B symptoms?",
+   "back": "Fever, night sweats, and weight loss of more than 10% in 6 months.",
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 383,
+     "page": 357
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 195,
+     "page": 195
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.c5",
+   "sectionId": "onc-history-exam.s2",
+   "front": "Bone pain or a fracture after trivial injury: which primaries metastasise to bone?",
+   "back": "Breast, prostate, bronchus, thyroid and kidney (or a primary sarcoma).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1346,
+     "page": 1324
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.c6",
+   "sectionId": "onc-history-exam.s2",
+   "front": "Migratory superficial thrombophlebitis (Trousseau's syndrome) suggests which cancer?",
+   "back": "Pancreatic adenocarcinoma.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 126,
+     "page": 105
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 125,
+     "page": 104
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.c7",
+   "sectionId": "onc-history-exam.s2",
+   "front": "Paraneoplastic syndromes typical of small cell lung cancer?",
+   "back": "SIADH, ectopic ACTH and Lambert–Eaton myasthenic syndrome.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 126,
+     "page": 105
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.c8",
+   "sectionId": "onc-history-exam.s3",
+   "front": "ECOG 2 versus ECOG 3?",
+   "back": "ECOG 2: self-caring, cannot work, up for more than half of waking hours. ECOG 3: limited self-care, in bed or chair for more than half of waking hours.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1344,
+     "page": 1322
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.c9",
+   "sectionId": "onc-history-exam.s3",
+   "front": "Fever in a patient on chemotherapy?",
+   "back": "Neutropenic sepsis until proven otherwise: a medical emergency.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 117,
+     "page": 96
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.c10",
+   "sectionId": "onc-history-exam.s4",
+   "front": "Hard versus rubbery lymph node?",
+   "back": "Hard suggests carcinoma; rubbery suggests lymphoma.",
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 365,
+     "page": 339
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.c11",
+   "sectionId": "onc-history-exam.s4",
+   "front": "Single sign with the highest LR+ for serious lymphadenopathy?",
+   "back": "A node fixed to deep tissue (LR+ 13.0).",
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 366,
+     "page": 340
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.c12",
+   "sectionId": "onc-history-exam.s4",
+   "front": "Hard left supraclavicular node (Troisier's sign): where is the primary?",
+   "back": "Usually abdominal, especially stomach; also chest or pelvis.",
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 366,
+     "page": 340
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.c13",
+   "sectionId": "onc-history-exam.s5",
+   "front": "Features of pathological nipple discharge?",
+   "back": "Clear or bloodstained, spontaneous, from a single duct.",
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 842,
+     "page": 763
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.c14",
+   "sectionId": "onc-history-exam.s5",
+   "front": "Hard nodule at the umbilicus in a woman with ascites?",
+   "back": "Sister Mary Joseph nodule: an umbilical metastasis, often ovarian or gastric.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1337,
+     "page": 1315
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 125,
+     "page": 104
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.c15",
+   "sectionId": "onc-history-exam.s6",
+   "front": "Earliest symptom of malignant spinal cord compression?",
+   "back": "Back pain, especially on coughing or lying flat. Sphincter disturbance comes late.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1348,
+     "page": 1326
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.c16",
+   "sectionId": "onc-history-exam.s6",
+   "front": "JVP in superior vena cava obstruction?",
+   "back": "Raised but non-pulsatile.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1337,
+     "page": 1315
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.c17",
+   "sectionId": "onc-history-exam.s6",
+   "front": "Three commonest primaries for brain metastases?",
+   "back": "Lung (48%), breast (15%), melanoma (9%).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "onc-history-exam.q1",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the best option from the list above. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Risk factors and exposures in the cancer history",
+   "options": [
+    "Cigarette smoking",
+    "Asbestos exposure",
+    "Occupational benzene exposure",
+    "Previous chemotherapy for another cancer",
+    "Inherited BRCA1 or BRCA2 mutation",
+    "Inherited APC mutation",
+    "Inherited TP53 mutation",
+    "Human papillomavirus infection",
+    "Chronic hepatitis B infection",
+    "Mantle-field radiotherapy in the past"
+   ],
+   "items": [
+    {
+     "stem": "A 34-year-old woman asks about her own cancer risk. Her mother developed ovarian cancer at 46, and a maternal aunt had breast cancer at 38.",
+     "answer": 4,
+     "explanation": "Breast and ovarian cancer at young ages on the same side of the family points to an inherited BRCA1/2 mutation. Always ask the age at which relatives were affected.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s1"
+     }
+    },
+    {
+     "stem": "A 63-year-old man who worked for 30 years cleaning tanks at a petrochemical refinery presents with bruising and fatigue. His blood film shows blasts. He has never had cancer treatment.",
+     "answer": 2,
+     "explanation": "Heavy benzene exposure is the occupational history to take in suspected leukaemia. He has had no previous chemotherapy, so a therapy-related cause is unlikely.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s1"
+     }
+    },
+    {
+     "stem": "A 41-year-old woman has a new breast lump. At 19 she had Hodgkin lymphoma, treated with radiotherapy fields covering her neck, mediastinum and axillae. She has no family history of cancer.",
+     "answer": 9,
+     "explanation": "Two steps: radiotherapy to the neck, mediastinum and axillae for Hodgkin lymphoma is mantle-field treatment, and earlier mantle radiation is a recognised breast cancer risk factor.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1343,
+     "page": 1321
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 360,
+     "page": 334
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 842,
+     "page": 763
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q2",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the best option from the list above. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Presenting symptom pointing to the primary site",
+   "options": [
+    "Carcinoma of the bronchus",
+    "Carcinoma of the oesophagus",
+    "Gastric carcinoma",
+    "Carcinoma of the head of the pancreas",
+    "Colorectal carcinoma",
+    "Ovarian carcinoma",
+    "Endometrial carcinoma",
+    "Bladder carcinoma",
+    "Prostate carcinoma",
+    "Renal cell carcinoma",
+    "Hodgkin lymphoma",
+    "Thyroid carcinoma"
+   ],
+   "items": [
+    {
+     "stem": "A 69-year-old man with years of heartburn first found that meat stuck on swallowing. Over 3 months, soft food and now liquids also stick, and he has lost 8 kg.",
+     "answer": 1,
+     "explanation": "Progressive mechanical dysphagia (solids first, then liquids) with weight loss is the classic history of oesophageal cancer.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s2"
+     }
+    },
+    {
+     "stem": "A 58-year-old woman has had 5 months of bloating, vague lower abdominal discomfort and increasing constipation. She has shifting dullness on examination.",
+     "answer": 5,
+     "explanation": "Abdominal bloating and discomfort with ascites and worsening constipation in a postmenopausal woman suggests ovarian cancer (ascites with constipation points to the ovary rather than the stomach).",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s2"
+     }
+    },
+    {
+     "stem": "A 66-year-old man has deepening painless jaundice, itch and marked weight loss. Over the last month, tender red cords have appeared in the veins of one arm, and then of the other leg.",
+     "answer": 3,
+     "explanation": "Two clues: painless obstructive jaundice with cachexia points to the pancreatic head, and migratory superficial thrombophlebitis (Trousseau's syndrome) is classically linked to pancreatic adenocarcinoma.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s2"
+     }
+    },
+    {
+     "stem": "A 61-year-old woman whose periods stopped 3 years ago has had two episodes of vaginal bleeding this month.",
+     "answer": 6,
+     "explanation": "Postmenopausal bleeding must be assumed to come from the endometrium (or cervix) until proven otherwise.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 117,
+     "page": 96
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1346,
+     "page": 1324
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 126,
+     "page": 105
+    },
+    {
+     "book": "allam25",
+     "pdfPage": 80,
+     "page": 79
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 125,
+     "page": 104
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 64-year-old man with metastatic colon cancer washes and dresses himself, but he gave up his job as a delivery driver because he tires quickly. He is up and about for most of the day, though he naps for an hour after lunch.",
+   "leadIn": "What is his ECOG performance status?",
+   "options": [
+    "ECOG 0",
+    "ECOG 1",
+    "ECOG 2",
+    "ECOG 3",
+    "ECOG 4"
+   ],
+   "answer": 2,
+   "explanation": "He is fully self-caring but **cannot work**, and he is up for more than half of his waking hours. That is ECOG 2.",
+   "whyNot": [
+    "ECOG 0 is fully active with no restriction, and he has stopped working.",
+    "ECOG 1 patients can still do light or desk work, and he cannot work at all.",
+    "",
+    "ECOG 3 means only limited self-care and more than half the day in bed or a chair.",
+    "ECOG 4 is complete disability with no self-care."
+   ],
+   "studyRef": {
+    "sectionId": "onc-history-exam.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1344,
+     "page": 1322
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 128,
+     "page": 107
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 52-year-old woman is receiving chemotherapy for breast cancer. Nine days after her last cycle she reports shivers. Temperature 38.5 °C, pulse 116/min, BP 94/60 mmHg. She has mild mouth ulcers.",
+   "leadIn": "Which diagnosis must be assumed first?",
+   "options": [
+    "Neutropenic sepsis",
+    "Chemotherapy-induced mucositis alone",
+    "Tumour-related fever",
+    "Hypercalcaemia of malignancy",
+    "Disease progression in the liver"
+   ],
+   "answer": 0,
+   "explanation": "Fever in a patient on chemotherapy is **neutropenic sepsis until proven otherwise**, and tachycardia with hypotension makes it an emergency.",
+   "whyNot": [
+    "",
+    "Mouth ulcers are a common chemotherapy toxicity, but they do not explain fever with low blood pressure.",
+    "Tumour fever is a diagnosis of exclusion and must never be assumed while on chemotherapy.",
+    "Hypercalcaemia causes drowsiness, thirst and constipation, not rigors and fever.",
+    "Liver metastases cause pain and jaundice; they do not explain an acute febrile illness with hypotension."
+   ],
+   "studyRef": {
+    "sectionId": "onc-history-exam.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 117,
+     "page": 96
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 118,
+     "page": 97
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q5",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the best option from the list above. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Interpreting a palpable lump or node",
+   "options": [
+    "Reactive node from local infection",
+    "Hodgkin lymphoma",
+    "Non-Hodgkin lymphoma",
+    "Metastatic gastric carcinoma",
+    "Metastatic head and neck squamous carcinoma",
+    "Metastatic breast carcinoma",
+    "Lipoma",
+    "Sebaceous cyst",
+    "Thyroid nodule"
+   ],
+   "items": [
+    {
+     "stem": "A 23-year-old student has a 2-month history of painless, rubbery, discrete nodes in one side of the neck only. The nodes ache after she drinks wine.",
+     "answer": 1,
+     "explanation": "Discrete, rubbery, painless nodes in a single group on one side, plus pain after alcohol, are classic for Hodgkin lymphoma.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s4"
+     }
+    },
+    {
+     "stem": "A 64-year-old man has epigastric discomfort, poor appetite and 9 kg weight loss. There is a hard, fixed node above the left clavicle.",
+     "answer": 3,
+     "explanation": "A hard left supraclavicular node (Troisier's sign) with upper GI symptoms points to a gastric primary.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s4"
+     }
+    },
+    {
+     "stem": "A 19-year-old has a tender, warm 2 cm node in the right groin. There is an infected cut on the sole of the right foot.",
+     "answer": 0,
+     "explanation": "Tender nodes point to infection, and examining the drainage area finds the cause.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s4"
+     }
+    },
+    {
+     "stem": "A 59-year-old heavy smoker and drinker has had a hoarse voice for 2 months. There is a hard, non-tender node high in the anterior neck that is tethered to the skin.",
+     "answer": 4,
+     "explanation": "Hard, tethered cervical nodes with hoarseness in a smoker and drinker suggest a head and neck squamous carcinoma.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 365,
+     "page": 339
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 366,
+     "page": 340
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 368,
+     "page": 342
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 383,
+     "page": 357
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 195,
+     "page": 195
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 47-year-old woman has noticed a lump in her left breast. She asks which other feature would make cancer more likely.",
+   "leadIn": "Which additional finding most raises concern for carcinoma?",
+   "options": [
+    "Milky discharge expressed from several ducts of both nipples",
+    "Spontaneous bloodstained discharge from a single duct",
+    "Tenderness that comes and goes with her menstrual cycle",
+    "Several small nodules in both breasts",
+    "A smooth lump that slips easily under the fingers"
+   ],
+   "answer": 1,
+   "explanation": "Pathological discharge is **spontaneous, clear or bloodstained and from one duct**. A history of bloody discharge is one of Talley's malignant features.",
+   "whyNot": [
+    "Discharge from both sides and many ducts, only on expression, is usually physiological.",
+    "",
+    "Variation with the menstrual cycle favours a benign cause.",
+    "Multiple nodules suggest benign cystic disease.",
+    "A smooth, very mobile lump favours a fibroadenoma."
+   ],
+   "studyRef": {
+    "sectionId": "onc-history-exam.s5"
+   },
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 842,
+     "page": 763
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 845,
+     "page": 766
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 63-year-old woman has a distended abdomen with shifting dullness. A hard, non-tender nodule sits in the umbilicus.",
+   "leadIn": "What is this umbilical sign called?",
+   "options": [
+    "Sister Mary Joseph nodule",
+    "Virchow's node",
+    "Krukenberg tumour",
+    "Troisier's sign",
+    "Trousseau's sign of malignancy"
+   ],
+   "answer": 0,
+   "explanation": "A hard umbilical nodule is a **Sister Mary Joseph nodule**, a metastasis most often from ovarian or gastric cancer.",
+   "whyNot": [
+    "",
+    "Virchow's node is in the left supraclavicular fossa.",
+    "A Krukenberg tumour is an ovarian metastasis, felt on pelvic examination or seen on imaging, not at the umbilicus.",
+    "Troisier's sign is an enlarged left supraclavicular node.",
+    "Trousseau's syndrome is migratory superficial thrombophlebitis."
+   ],
+   "studyRef": {
+    "sectionId": "onc-history-exam.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1337,
+     "page": 1315
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 125,
+     "page": 104
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q8",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the best option from the list above. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Bedside recognition of oncological emergencies",
+   "options": [
+    "Superior vena cava obstruction",
+    "Malignant spinal cord compression",
+    "Cauda equina compression",
+    "Hypercalcaemia of malignancy",
+    "Brain metastases with raised intracranial pressure",
+    "Malignant pericardial effusion",
+    "Large malignant pleural effusion",
+    "Neutropenic sepsis",
+    "Lambert–Eaton myasthenic syndrome",
+    "Syndrome of inappropriate ADH secretion"
+   ],
+   "items": [
+    {
+     "stem": "A 67-year-old woman with breast cancer has had 2 weeks of mid-back pain, worst when she coughs or lies flat. Her legs are now weak, with brisk reflexes, extensor plantars and reduced sensation below the umbilicus.",
+     "answer": 1,
+     "explanation": "Back pain worse on coughing and lying flat, then symmetrical weakness, upper motor neuron signs and a sensory level, is cord compression.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s6"
+     }
+    },
+    {
+     "stem": "A 58-year-old smoker has a puffy face and a headache that is worse when he bends to tie his shoes. His neck veins are distended and do not pulsate, and there are dilated veins over his upper chest.",
+     "answer": 0,
+     "explanation": "Facial swelling, headache on stooping, a raised non-pulsatile JVP and chest-wall collaterals are SVCO.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s6"
+     }
+    },
+    {
+     "stem": "A 70-year-old man with myeloma becomes drowsy and muddled over a week. He is very thirsty, passing large volumes of urine and has not opened his bowels for 5 days.",
+     "answer": 3,
+     "explanation": "Two steps: myeloma is a leading cause of malignant hypercalcaemia, and drowsiness, confusion, polyuria, thirst and constipation are its features.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s6"
+     }
+    },
+    {
+     "stem": "A 49-year-old woman with lung cancer is breathless. Pulse 124/min, BP falling over an hour, heart sounds faint, and her JVP rises further when she breathes in.",
+     "answer": 5,
+     "explanation": "Tachycardia, falling BP, rising JVP, muffled heart sounds and Kussmaul's sign suggest a pericardial effusion compressing the heart.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1348,
+     "page": 1326
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1337,
+     "page": 1315
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q9",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the best option from the list above. Any option can be the answer for several patients, or for none.",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "theme": "Non-metastatic clues to an occult cancer",
+   "options": [
+    "Small cell lung carcinoma",
+    "Non-small cell lung carcinoma",
+    "Gastric adenocarcinoma",
+    "Pancreatic adenocarcinoma",
+    "Renal cell carcinoma",
+    "Ovarian carcinoma",
+    "Multiple myeloma",
+    "Hodgkin lymphoma",
+    "Prostate carcinoma",
+    "Medullary thyroid carcinoma"
+   ],
+   "items": [
+    {
+     "stem": "A 61-year-old smoker has hyponatraemia and proximal leg weakness. His grip strength gets stronger over a few seconds of sustained effort.",
+     "answer": 0,
+     "explanation": "Lambert–Eaton syndrome (weakness that improves with effort) and SIADH both point to small cell lung cancer.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s2"
+     }
+    },
+    {
+     "stem": "A 56-year-old man has new dark, velvety thickening of the skin in both armpits, along with early satiety and 7 kg weight loss.",
+     "answer": 2,
+     "explanation": "Acanthosis nigricans in an adult with upper GI symptoms suggests gastric cancer.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s2"
+     }
+    },
+    {
+     "stem": "A 66-year-old ex-smoker has painful, swollen wrists and finger clubbing. A chest X-ray shows a peripheral lung mass. His sodium is normal.",
+     "answer": 1,
+     "explanation": "Clubbing with tender wrists is hypertrophic pulmonary osteoarthropathy, which Kumar links to non-small cell lung cancer.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s2"
+     }
+    },
+    {
+     "stem": "A 57-year-old man has a haemoglobin well above the normal range, intermittent fevers and one episode of visible haematuria. He is a non-smoker.",
+     "answer": 4,
+     "explanation": "Two steps: erythrocytosis is a paraneoplastic effect of renal cell carcinoma, and fever and haematuria also fit a renal primary.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s2"
+     }
+    },
+    {
+     "stem": "A 60-year-old woman has bloating and a persistently raised platelet count with no iron deficiency or infection.",
+     "answer": 5,
+     "explanation": "Thrombocytosis is linked to ovarian cancer, and bloating fits ascites.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 126,
+     "page": 105
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1345,
+     "page": 1323
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1348,
+     "page": 1326
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 52-year-old man has a 2 cm node in the neck. You are deciding how worried to be.",
+   "leadIn": "Which single finding most increases the likelihood of a serious cause?",
+   "options": [
+    "The node is fixed to the underlying tissue",
+    "The node is hard",
+    "The node is in the supraclavicular fossa",
+    "He is over 40 years of age",
+    "He has lost some weight"
+   ],
+   "answer": 0,
+   "explanation": "Fixation has the highest positive likelihood ratio (LR+ 13.0) in Talley's list. Hard texture is 3.3, supraclavicular site 3.1, weight loss 2.3 and age over 40 is 2.25.",
+   "whyNot": [
+    "",
+    "Hardness helps (LR+ 3.3) but much less than fixation.",
+    "Supraclavicular site matters (LR+ 3.1) but is weaker than fixation.",
+    "Age over 40 has an LR+ of only 2.25.",
+    "Weight loss has an LR+ of only 2.3."
+   ],
+   "studyRef": {
+    "sectionId": "onc-history-exam.s4"
+   },
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 366,
+     "page": 340
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "A 71-year-old man with prostate cancer has low back pain and leg weakness that is worse on the left. Knee and ankle reflexes are reduced, plantars are flexor, sensory loss follows a patchy root pattern, and he passes urine normally.",
+   "leadIn": "Where is the compression most likely to be?",
+   "options": [
+    "Thoracic spinal cord",
+    "Conus medullaris",
+    "Cauda equina",
+    "Cervical spinal cord",
+    "Motor cortex from a brain metastasis"
+   ],
+   "answer": 2,
+   "explanation": "Asymmetrical weakness, reduced reflexes with flexor plantars, radicular sensory loss and spared sphincters fit **cauda equina** compression (Davidson Box 33.10).",
+   "whyNot": [
+    "Cord compression gives symmetrical profound weakness, brisk reflexes, extensor plantars and a sensory level.",
+    "The conus gives early sphincter loss, saddle anaesthesia and extensor plantars.",
+    "",
+    "A cervical cord lesion would give upper motor neuron signs, with arm involvement.",
+    "A cortical lesion gives upper motor neuron signs, not lower motor neuron signs with root-pattern sensory loss."
+   ],
+   "studyRef": {
+    "sectionId": "onc-history-exam.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1348,
+     "page": 1326
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 59-year-old woman has a first seizure after 3 weeks of morning headaches. MRI shows several brain lesions. She has no known cancer.",
+   "leadIn": "Which primary site is statistically most likely?",
+   "options": [
+    "Lung",
+    "Breast",
+    "Melanoma",
+    "Colon",
+    "Unknown primary"
+   ],
+   "answer": 0,
+   "explanation": "Lung is the commonest source of brain metastases (48%), ahead of breast (15%) and melanoma (9%).",
+   "whyNot": [
+    "",
+    "Breast is second, at about 15%.",
+    "Melanoma is third, at about 9%.",
+    "Colon accounts for about 5%.",
+    "An unknown primary accounts for about 11%."
+   ],
+   "studyRef": {
+    "sectionId": "onc-history-exam.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 62-year-old man with a mediastinal mass has facial swelling and breathlessness. You examine his neck.",
+   "leadIn": "Which jugular venous finding is characteristic?",
+   "options": [
+    "Raised JVP with no visible pulsation",
+    "Prominent v waves",
+    "Rise of the JVP on inspiration (Kussmaul's sign)",
+    "Cannon a waves",
+    "Normal JVP that rises only with abdominal pressure"
+   ],
+   "answer": 0,
+   "explanation": "In SVCO the veins are distended but obstructed, so the JVP is **raised but non-pulsatile**.",
+   "whyNot": [
+    "",
+    "Large v waves suggest tricuspid regurgitation.",
+    "Kussmaul's sign is listed for malignant pericardial effusion, not SVCO.",
+    "Cannon waves occur with atrioventricular dissociation.",
+    "SVCO raises the JVP at rest."
+   ],
+   "studyRef": {
+    "sectionId": "onc-history-exam.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1337,
+     "page": 1315
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q14",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 74-year-old woman with metastatic lung cancer needs help to wash. She spends most of the day in bed or in her armchair and gets up only to use the toilet and for meals.",
+   "leadIn": "What is her ECOG performance status, and what does it imply?",
+   "options": [
+    "ECOG 1, outlook similar to a fit patient",
+    "ECOG 2, outlook similar to a fit patient",
+    "ECOG 3, worse outlook than grades 0–2",
+    "ECOG 4, completely disabled",
+    "ECOG 0, fully active"
+   ],
+   "answer": 2,
+   "explanation": "Step 1: can she self-care? Only partly, since she needs help to wash. Step 2: how much of the day is spent in bed or a chair? More than half. Together these define **ECOG 3**. Step 3: Davidson notes that outcomes for ECOG 3–4 are worse than for 0–2 in almost all cancers, which strongly shapes how aggressive treatment should be.",
+   "whyNot": [
+    "ECOG 1 patients can still do light work.",
+    "ECOG 2 patients are fully self-caring and up for more than half the day.",
+    "",
+    "ECOG 4 means no self-care at all, totally confined to bed or chair.",
+    "ECOG 0 is fully active with no restriction."
+   ],
+   "studyRef": {
+    "sectionId": "onc-history-exam.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1344,
+     "page": 1322
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 128,
+     "page": 107
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q15",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 45-year-old woman has found a 2.5 cm mass in her right breast, above and lateral to the nipple. It is hard with an irregular edge and does not move over the chest wall. The skin over it dimples when she raises her arms, and there is a firm node in the right axilla. It is not tender.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Breast carcinoma",
+    "Fibroadenoma",
+    "Benign cystic breast disease",
+    "Breast abscess",
+    "Lipoma"
+   ],
+   "answer": 0,
+   "explanation": "Work through Talley's malignant features one at a time: very firm or hard, irregular margin, fixed, skin dimpling, and palpable draining nodes. All are present, so carcinoma is the answer. Being painless does not argue against it, because most breast cancers are not tender. Record the lump by clock-face position and distance from the areola.",
+   "whyNot": [
+    "",
+    "A fibroadenoma is smooth and very mobile, typically in a younger woman.",
+    "Benign cystic disease usually gives multiple nodules, often varying with the cycle.",
+    "An abscess is hot, red and tender, often during breastfeeding.",
+    "A lipoma is soft and does not tether the skin or spread to nodes."
+   ],
+   "studyRef": {
+    "sectionId": "onc-history-exam.s5"
+   },
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 845,
+     "page": 766
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 843,
+     "page": 764
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q16",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 29-year-old man has rubbery nodes in the left neck and axilla. Over 6 months he has had evening fevers, sweats that soak his sheets, and he has lost 9 kg from a starting weight of 78 kg.",
+   "leadIn": "How are these symptoms recorded when the lymphoma is staged?",
+   "options": [
+    "Suffix \"b\" added to the Ann Arbor stage",
+    "Suffix \"a\" added to the Ann Arbor stage",
+    "Automatically stage IV disease",
+    "T4 in the TNM system",
+    "M1 in the TNM system"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: check whether these are B symptoms. Fever and drenching night sweats count, and 9 kg of 78 kg is about 11.5%, which is over the 10% threshold. Step 2: in Ann Arbor staging, the presence of B symptoms adds the suffix \"b\". The suffix \"a\" means none are present. B symptoms describe the disease, not its anatomical extent, so they do not change the stage number.",
+   "whyNot": [
+    "",
+    "\"a\" is used when B symptoms are absent.",
+    "Systemic symptoms do not set the stage number; anatomical spread does.",
+    "TNM is not the staging system for lymphoma, and T describes primary tumour size or depth.",
+    "M1 describes distant metastasis in solid tumours."
+   ],
+   "studyRef": {
+    "sectionId": "onc-history-exam.s3"
+   },
+   "cites": [
+    {
+     "book": "talley8",
+     "pdfPage": 383,
+     "page": 357
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q17",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the best option from the list above. Any option can be the answer for several patients, or for none.",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "What the examination sign indicates",
+   "options": [
+    "Hypertrophic pulmonary osteoarthropathy",
+    "Horner's syndrome from an apical lung tumour",
+    "Recurrent laryngeal nerve palsy",
+    "Superior vena cava obstruction",
+    "Large malignant pleural effusion",
+    "Malignant ascites",
+    "Liver metastases",
+    "Umbilical (Sister Mary Joseph) metastasis",
+    "Ectopic ACTH syndrome",
+    "Paraneoplastic peripheral neuropathy",
+    "Tylosis"
+   ],
+   "items": [
+    {
+     "stem": "A 63-year-old smoker has a drooping left upper eyelid, a small left pupil and a dry left side of the face. He has pain along the inner left arm.",
+     "answer": 1,
+     "explanation": "Partial ptosis, miosis and anhidrosis are Horner's syndrome. With arm pain in a smoker, think of a Pancoast tumour invading the sympathetic chain.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s5"
+     }
+    },
+    {
+     "stem": "A 70-year-old man with weight loss has had a weak, breathy voice for 6 weeks. His chest X-ray shows a left hilar mass.",
+     "answer": 2,
+     "explanation": "A hoarse voice in lung cancer suggests the tumour has involved the recurrent laryngeal nerve.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s5"
+     }
+    },
+    {
+     "stem": "A 66-year-old man treated for colon cancer 2 years ago now has a hard, irregular, knobbly liver edge felt 4 cm below the costal margin.",
+     "answer": 6,
+     "explanation": "A firm, knobbly liver suggests metastases. A smooth enlargement is more typical of primary liver cancer or heart failure.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s5"
+     }
+    },
+    {
+     "stem": "A 58-year-old heavy smoker has developed a rounded face, thin skin, proximal weakness, ankle swelling and a low potassium over 6 weeks. His chest X-ray shows a central mass.",
+     "answer": 8,
+     "explanation": "Two steps: rapid Cushingoid features with hypokalaemia suggest ACTH excess, and a central mass in a smoker suggests small cell lung cancer making ectopic ACTH.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s4"
+     }
+    },
+    {
+     "stem": "A 72-year-old woman has reduced expansion on the right, a stony dull percussion note at the right base, absent breath sounds there, and her trachea is pushed to the left.",
+     "answer": 4,
+     "explanation": "Stony dullness with absent breath sounds and the trachea pushed away describes a large pleural effusion.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1337,
+     "page": 1315
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1336,
+     "page": 1314
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 109,
+     "page": 109
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q18",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the best option from the list above. Any option can be the answer for several patients, or for none.",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Site of metastatic spread suggested by the presentation",
+   "options": [
+    "Bone metastases",
+    "Brain metastases",
+    "Liver metastases",
+    "Lung metastases with lymphangitis",
+    "Pleural metastases",
+    "Peritoneal metastases",
+    "Adrenal metastases",
+    "Para-aortic nodal metastases",
+    "Porta hepatis nodal metastases",
+    "Mediastinal nodal metastases"
+   ],
+   "items": [
+    {
+     "stem": "A 74-year-old man with prostate cancer has dull pelvic pain for weeks and then breaks his femur stepping off a kerb.",
+     "answer": 0,
+     "explanation": "Bone pain with a fracture after trivial injury suggests bone metastases; prostate is a classic bone-seeking primary.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s6"
+     }
+    },
+    {
+     "stem": "A 55-year-old woman with gastric cancer develops a tense, distended abdomen with shifting dullness. A scan shows solid masses in both ovaries.",
+     "answer": 5,
+     "explanation": "Ascites with ovarian deposits (Krukenberg tumours) means peritoneal spread.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s6"
+     }
+    },
+    {
+     "stem": "A 64-year-old man with lung cancer feels dizzy when he stands up and is increasingly tired. His skin has darkened, his sodium is low and his potassium is high.",
+     "answer": 6,
+     "explanation": "Two steps: postural hypotension, pigmentation, low sodium and high potassium are adrenal insufficiency, which in lung cancer suggests adrenal metastases.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s6"
+     }
+    },
+    {
+     "stem": "A 60-year-old man treated for colon cancer becomes jaundiced. Imaging shows enlarged nodes at the liver hilum compressing the bile duct, and the liver tissue itself looks normal.",
+     "answer": 8,
+     "explanation": "Nodes at the porta hepatis cause obstructive jaundice even when the liver itself is spared.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s6"
+     }
+    },
+    {
+     "stem": "A 48-year-old woman had a melanoma removed 2 years ago. She now has morning headaches, vomiting and new weakness of the left hand.",
+     "answer": 1,
+     "explanation": "Raised intracranial pressure with a focal deficit suggests brain metastases; melanoma is the third commonest source.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 125,
+     "page": 104
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1346,
+     "page": 1324
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1350,
+     "page": 1328
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q19",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 50-year-old woman with vague abdominal discomfort is found to have a mildly raised CA125. Pelvic examination and ultrasound are normal. She asks what the result means.",
+   "leadIn": "What is the main use of serum tumour markers?",
+   "options": [
+    "Serial monitoring of the response to treatment",
+    "Confirming a cancer diagnosis without biopsy",
+    "Excluding cancer when the level is normal",
+    "Choosing between chemotherapy regimens",
+    "Screening the general population"
+   ],
+   "answer": 0,
+   "explanation": "Markers are most useful for **following the response to treatment over time**. A raised level needs histological confirmation, because many benign conditions raise markers, and a normal level does not exclude cancer.",
+   "whyNot": [
+    "",
+    "Histology is still needed. Benign conditions raise markers too.",
+    "A normal level does not rule out cancer.",
+    "Regimen choice depends on histology and stage, not on a marker level.",
+    "Most markers are not sensitive or specific enough to be used alone, and Kumar names serial monitoring, not screening, as their most useful role."
+   ],
+   "studyRef": {
+    "sectionId": "onc-history-exam.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 125,
+     "page": 104
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 127,
+     "page": 106
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1345,
+     "page": 1323
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q20",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A medical student taking a family history from a 38-year-old with colon cancer asks how often cancers arise from an inherited syndrome.",
+   "leadIn": "What proportion of all cancers is attributed to inherited cancer predisposition syndromes?",
+   "options": [
+    "1–2%",
+    "5–10%",
+    "20–25%",
+    "40–50%",
+    "About 75%"
+   ],
+   "answer": 1,
+   "explanation": "Inherited predisposition syndromes account for **5–10%** of cancers, which is why a careful family history matters.",
+   "whyNot": [
+    "Too low.",
+    "",
+    "Too high; most cancers are sporadic.",
+    "Far too high.",
+    "Far too high. Three-quarters is the share of breast cancer patients with no known risk factor, a different statistic."
+   ],
+   "studyRef": {
+    "sectionId": "onc-history-exam.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1343,
+     "page": 1321
+    },
+    {
+     "book": "talley8",
+     "pdfPage": 843,
+     "page": 764
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q21",
+   "kind": "emq",
+   "leadIn": "Match each patient below with the best option from the list above. Any option can be the answer for several patients, or for none.",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Choosing the next investigation after the bedside assessment",
+   "options": [
+    "CT of chest, abdomen and pelvis",
+    "FDG PET–CT",
+    "Urgent MRI of the whole spine",
+    "MRI of the brain",
+    "Technetium bone scan",
+    "Upper GI endoscopy",
+    "Colonoscopy",
+    "Excision biopsy of a lymph node",
+    "Serum PSA",
+    "Serum AFP and beta-hCG",
+    "Mammography"
+   ],
+   "items": [
+    {
+     "stem": "A 65-year-old man with lung cancer has back pain worse on lying flat, and new leg weakness with a sensory level.",
+     "answer": 2,
+     "explanation": "Suspected cord compression is confirmed with an urgent MRI scan.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s6"
+     }
+    },
+    {
+     "stem": "A 27-year-old man has a painless, hard swelling of one testis.",
+     "answer": 9,
+     "explanation": "AFP and beta-hCG are the markers for germ cell tumours of the testis.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s3"
+     }
+    },
+    {
+     "stem": "A 24-year-old woman has rubbery cervical nodes, night sweats and weight loss.",
+     "answer": 7,
+     "explanation": "Lymphoma is suspected, and node biopsy is the key diagnostic test (Reed–Sternberg cells in Hodgkin lymphoma).",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s4"
+     }
+    },
+    {
+     "stem": "A 60-year-old man has 6 weeks of difficulty swallowing and has lost weight.",
+     "answer": 5,
+     "explanation": "Dysphagia at any age is a red flag for urgent upper GI endoscopy.",
+     "studyRef": {
+      "sectionId": "onc-history-exam.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1348,
+     "page": 1326
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 127,
+     "page": 106
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 195,
+     "page": 195
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 96,
+     "page": 96
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 196,
+     "page": 196
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q22",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 63-year-old man has had two unprovoked DVTs this year. He now has tender red cords in superficial veins, first on the left forearm and then on the right thigh. He has lost weight.",
+   "leadIn": "Which underlying cancer is classically associated with this picture?",
+   "options": [
+    "Pancreatic adenocarcinoma",
+    "Prostate carcinoma",
+    "Papillary thyroid carcinoma",
+    "Bladder carcinoma",
+    "Testicular germ cell tumour"
+   ],
+   "answer": 0,
+   "explanation": "Migratory superficial thrombophlebitis (Trousseau's syndrome) is the classic paraneoplastic link to **pancreatic adenocarcinoma**. Recurrent venous thrombosis is also a known first presentation of cancer.",
+   "whyNot": [
+    "",
+    "Prostate cancer typically presents with urinary symptoms or bone metastases.",
+    "Thyroid cancer presents with a neck swelling.",
+    "Bladder cancer presents with painless haematuria.",
+    "Testicular tumours present with a scrotal mass in young men."
+   ],
+   "studyRef": {
+    "sectionId": "onc-history-exam.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 126,
+     "page": 105
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 125,
+     "page": 104
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    }
+   ]
+  },
+  {
+   "id": "onc-history-exam.q23",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "An 82-year-old woman has had months of tiredness and weight loss that her family put down to old age. She is found to have a colon cancer. She lives independently and has no major illnesses.",
+   "leadIn": "Which factor should weigh most in deciding how to treat her?",
+   "options": [
+    "Her comorbidity, fitness and own wishes",
+    "Her age in years",
+    "Her serum CEA level",
+    "The length of time her symptoms were present",
+    "Her family's preference"
+   ],
+   "answer": 0,
+   "explanation": "Davidson stresses that **comorbidity and patient choice** matter more than chronological age, and performance status strongly predicts outcome. Symptoms in older people are often wrongly blamed on age.",
+   "whyNot": [
+    "",
+    "Chronological age alone should not decide treatment.",
+    "CEA is a monitoring marker and does not decide fitness for treatment.",
+    "Symptom duration does not decide fitness for treatment.",
+    "The patient's own choice, not the family's, is what matters."
+   ],
+   "studyRef": {
+    "sectionId": "onc-history-exam.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1344,
+     "page": 1322
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "onc-history-exam.o1",
+   "sectionId": "onc-history-exam.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 1336,
+    "page": 1314,
+    "figure": "Clinical examination spread"
+   },
+   "identify": "Finger clubbing from lung cancer, a Cushingoid face from ectopic ACTH, and facial and chest-wall venous congestion from SVC obstruction by a mediastinal mass."
+  },
+  {
+   "id": "onc-history-exam.o2",
+   "sectionId": "onc-history-exam.s3",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 1345,
+    "page": 1323,
+    "figure": "Fig. 33.5"
+   },
+   "identify": "FDG PET–CT: a hot (FDG-avid) left axillary lesion before chemotherapy that disappears afterwards, i.e. metabolic response to treatment."
+  },
+  {
+   "id": "onc-history-exam.o3",
+   "sectionId": "onc-history-exam.s4",
+   "cite": {
+    "book": "talley8",
+    "pdfPage": 384,
+    "page": 358,
+    "figure": "FIGURE 22.15"
+   },
+   "identify": "Visible cervical lymph node enlargement in lymphoma. Describe site, size, consistency (rubbery), tenderness and fixation."
+  },
+  {
+   "id": "onc-history-exam.o4",
+   "sectionId": "onc-history-exam.s4",
+   "cite": {
+    "book": "talley8",
+    "pdfPage": 385,
+    "page": 359,
+    "figure": "FIGURE 22.17"
+   },
+   "identify": "Chest CT with bulky anterior mediastinal lymphadenopathy, typical of lymphoma, which can cause SVC obstruction."
+  },
+  {
+   "id": "onc-history-exam.o5",
+   "sectionId": "onc-history-exam.s5",
+   "cite": {
+    "book": "talley8",
+    "pdfPage": 844,
+    "page": 765,
+    "figure": "FIGURE 41.2"
+   },
+   "identify": "Breast carcinoma: the affected breast is pulled up, with skin dimpling and nipple retraction."
+  },
+  {
+   "id": "onc-history-exam.o6",
+   "sectionId": "onc-history-exam.s2",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 127,
+    "page": 106,
+    "figure": "Fig. 6.7"
+   },
+   "identify": "Wasting of the small muscles of the hand from a paraneoplastic peripheral neuropathy."
+  },
+  {
+   "id": "onc-history-exam.o7",
+   "sectionId": "onc-history-exam.s2",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 127,
+    "page": 106,
+    "figure": "Fig. 6.8"
+   },
+   "identify": "Dermatomal vesicular rash: herpes zoster reactivated by cancer-related immunosuppression."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:34:41.496Z",
+  "contentHash": "a6308f045f120c304d145166399b4ae54940f8f6e8e77f1583beab394c9ded70"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:34:41.503Z",
+  "contentHash": "a6308f045f120c304d145166399b4ae54940f8f6e8e77f1583beab394c9ded70",
+  "checkerVersion": "source-check-v1"
+ }
+}

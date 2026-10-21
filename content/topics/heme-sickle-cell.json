@@ -1,0 +1,3620 @@
+{
+ "topicId": "heme-sickle-cell",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "heme-sickle-cell.s1",
+   "title": "Definition, genetics and epidemiology",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Sickle cell disease is an **inherited haemoglobinopathy**. One amino-acid change in the β-globin chain produces **haemoglobin S (HbS)**, which distorts red cells into rigid, fragile sickle shapes. The result is a lifelong **haemolytic anaemia** with recurrent episodes of small-vessel blockage, called \"crises\".",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 973,
+       "page": 951
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 189,
+       "page": 189
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Molecular basis",
+     "items": [
+      "A single-base change (adenine → thymine) in the β-globin gene on **chromosome 11** alters codon 6",
+      "**Valine replaces glutamic acid at position 6** of the β chain: a neutral residue takes the place of a negatively charged one",
+      "The charge change alters how the haemoglobin migrates, which is the basis of diagnosis by **Hb electrophoresis**",
+      "Compare HbC: the same position 6, but **lysine** replaces glutamic acid"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 973,
+       "page": 951
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 368,
+       "page": 344
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Hematology",
+       "pdfPage": 823,
+       "page": 823
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 250,
+       "page": 213
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 189,
+       "page": 189
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Autosomal recessive inheritance",
+     "columns": [
+      "Genotype",
+      "Name",
+      "Haemoglobin made",
+      "Usual picture"
+     ],
+     "rows": [
+      [
+       "HbSS (homozygote)",
+       "Sickle cell anaemia / disease",
+       "Only abnormal β chains: HbS, no HbA",
+       "Chronic haemolysis, crises, organ damage"
+      ],
+      [
+       "HbAS (heterozygote)",
+       "Sickle cell trait",
+       "A mixture of HbA and HbS",
+       "Usually symptom-free (see trait section)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 973,
+       "page": 951
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 189,
+       "page": 189
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Epidemiology",
+     "items": [
+      "Heterozygote (carrier) rate is **over 20% in tropical Africa**; about **8%** of Black Americans carry the trait",
+      "Also found in India, the Middle East and around the Mediterranean",
+      "The distribution mirrors **falciparum malaria**: carriers are less likely to die of falciparum malaria in early childhood, a **balanced polymorphism** that keeps the gene common",
+      "Homozygotes get **no extra** malaria protection"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 973,
+       "page": 951
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 251,
+       "page": 214
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 372,
+       "page": 348
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Haematology",
+      "pdfPage": 973,
+      "page": 951,
+      "figure": "Fig. 23.21"
+     },
+     "note": "Look at: world map of haemoglobinopathies. Sickle-cell anaemia clusters in tropical Africa, overlapping the malaria belt."
+    },
+    {
+     "type": "pearl",
+     "text": "β-chain disorders appear only **after about 6 months of age**. Until then most haemoglobin is fetal HbF (α2γ2), which has no β chains and does not sickle.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 973,
+       "page": 951
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 251,
+       "page": 214
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Zero to Finals says HbF is replaced by HbA at around 6 weeks, but Davidson's and Kumar & Clark place the onset of β-chain disease **after about 6 months**. Use 6 months in the exam.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 973,
+       "page": 951
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 251,
+       "page": 214
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 189,
+       "page": 189
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.s2",
+   "title": "Pathogenesis of sickling",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "When HbS loses its oxygen it becomes insoluble and **polymerises into rigid pseudocrystals (\"tactoids\")**. These stretch the membrane into the sickle shape. At first, re-oxygenation reverses the change. After many cycles the membrane loses its flexibility and the cell stays **irreversibly sickled**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 974,
+       "page": 952
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 251,
+       "page": 214
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 368,
+       "page": 344
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 973,
+       "page": 951
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Why cells become irreversibly sickled",
+     "items": [
+      "Potassium escapes through the calcium-activated **Gardos channel**, and water follows",
+      "The cell becomes dehydrated and dense, which concentrates HbS. The higher the HbS concentration, the faster tactoids form",
+      "These dense cells stay sickled even when oxygen returns"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 368,
+       "page": 344
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 974,
+       "page": 952
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Two consequences of sickling",
+     "columns": [
+      "Consequence",
+      "Mechanism",
+      "Result"
+     ],
+     "rows": [
+      [
+       "Haemolysis",
+       "Rigid cells are removed early (shortened red cell survival)",
+       "Chronic anaemia, jaundice, reticulocytosis, pigment gallstones"
+      ],
+      [
+       "Vaso-occlusion",
+       "Sickled cells plug the microcirculation; endothelial adhesion molecules such as VCAM-1 may help trap them",
+       "Tissue infarction: painful crises and chronic organ damage"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 369,
+       "page": 345
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 251,
+       "page": 214
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 974,
+       "page": 952
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 252,
+       "page": 215
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Precipitants of sickling",
+     "items": [
+      "Hypoxia (e.g. altitude, unpressurised flight)",
+      "Infection and fever",
+      "Dehydration",
+      "Acidosis",
+      "Cold",
+      "Often no trigger is found. Mnemonic: **\"HIDe in the COLD\"**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 974,
+       "page": 952
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 369,
+       "page": 345
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pediatrics",
+       "pdfPage": 796,
+       "page": 796
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 251,
+       "page": 214
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pediatrics",
+       "pdfPage": 795,
+       "page": 795
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 254,
+       "page": 217
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Other haemoglobins modify polymerisation",
+     "columns": [
+      "Haemoglobin",
+      "Effect on HbS polymers",
+      "Clinical meaning"
+     ],
+     "rows": [
+      [
+       "HbF",
+       "Strongly **inhibits** polymerisation",
+       "High HbF means a milder course with few crises. This is why hydroxycarbamide (which raises HbF) works"
+      ],
+      [
+       "HbC",
+       "Joins polymers **more readily** than HbA",
+       "HbSC gives real (if milder) disease, unlike HbAS"
+      ],
+      [
+       "HbA",
+       "Joins polymers less readily",
+       "Trait cells sickle only under extreme hypoxia"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 974,
+       "page": 952
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 372,
+       "page": 348
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "HbS **releases oxygen to the tissues more easily** than HbA. Patients therefore tolerate a steady-state Hb of 60–80 g/L with few anaemic symptoms outside crises.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 369,
+       "page": 345
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 252,
+       "page": 215
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.s3",
+   "title": "Sickle syndromes and sickle cell trait",
+   "objectiveIdx": [
+    2,
+    9
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Sickle syndromes",
+     "columns": [
+      "Genotype",
+      "Severity",
+      "Key features"
+     ],
+     "rows": [
+      [
+       "HbSS",
+       "Most severe",
+       "Full picture: haemolysis, crises and multi-organ damage"
+      ],
+      [
+       "HbS/β-thalassaemia",
+       "Like HbSS (can be just as severe)",
+       "HbS co-inherited with a β-thalassaemia gene"
+      ],
+      [
+       "HbSC",
+       "Intermediate, milder than SS",
+       "Fewer crises, but more **retinopathy** and **thrombosis**, and more problems in pregnancy"
+      ],
+      [
+       "HbAS (trait)",
+       "Usually no symptoms",
+       "Normal blood count and film; see below"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 369,
+       "page": 345
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 372,
+       "page": 348
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 251,
+       "page": 214
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Sickle cell trait (HbAS)**: one normal β gene, so the cells contain both HbA and HbS. Carriers are not anaemic, have a **normal blood count and film** and a normal life expectancy, and need no treatment. Sickling happens only with **extreme hypoxia**, such as flying in an unpressurised aircraft.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 254,
+       "page": 217
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 372,
+       "page": 348
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Hematology",
+       "pdfPage": 823,
+       "page": 823
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pediatrics",
+       "pdfPage": 797,
+       "page": 797
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Sickle cell trait: points to remember",
+     "items": [
+      "Protects young children from dying of **falciparum malaria**, but a carrier still needs antimalarial prophylaxis when travelling",
+      "Renal medulla: cannot concentrate urine (**isosthenuria / hyposthenuria**), haematuria from papillary necrosis, more UTIs",
+      "Davidson's: more **unexplained non-visible haematuria**",
+      "Davidson's: once thought harmless, the trait may carry a **higher risk of sudden and cardiovascular death**",
+      "Diagnosis is by a positive sickle test or by **Hb electrophoresis**. Screening allows genetic counselling"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 973,
+       "page": 951
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology",
+       "pdfPage": 433,
+       "page": 411
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 372,
+       "page": 348
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pediatrics",
+       "pdfPage": 796,
+       "page": 796
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Hematology",
+       "pdfPage": 823,
+       "page": 823
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "If **both partners carry the trait**, each pregnancy has a **25%** chance of sickle cell anaemia. Test the partner of any carrier and offer prenatal diagnosis.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 372,
+       "page": 348
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Sickle trait **cannot be seen on a blood count**. β-thalassaemia trait shows a low MCV and MCH, but sickle trait gives normal indices. The lab needs a specific haemoglobinopathy request.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 372,
+       "page": 348
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The books differ on the trait. Kumar & Clark and the quick sources call it symptom-free outside extreme hypoxia, while Davidson's warns of a possible higher risk of sudden and cardiovascular death. Follow Davidson's.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 973,
+       "page": 951
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 372,
+       "page": 348
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 254,
+       "page": 217
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.s4",
+   "title": "Clinical features and types of crisis",
+   "objectiveIdx": [
+    3,
+    4,
+    5
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Severity varies widely: some patients have few symptoms, while others have frequent crises and a shortened life. Between crises, chronic haemolysis causes **pallor, jaundice, pigment gallstones**, a high-output circulation with a **flow murmur**, and delayed growth and puberty.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 252,
+       "page": 215
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Hematology",
+       "pdfPage": 824,
+       "page": 824
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pediatrics",
+       "pdfPage": 795,
+       "page": 795
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Childhood clues",
+     "items": [
+      "**Dactylitis** (hand–foot syndrome): painful swelling of the hands and feet in infancy (usually from 4–6 months), often the first sign",
+      "The spleen is enlarged in early childhood. Repeated infarcts then shrink it to a fibrotic remnant (**autosplenectomy**), and it is no longer palpable by about 4 years",
+      "Children are short but catch up in height by adulthood. They stay underweight, and puberty is often delayed"
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "chapter": "Hematology",
+       "pdfPage": 825,
+       "page": 825
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 369,
+       "page": 345
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 370,
+       "page": 346
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Types of sickle crisis",
+     "columns": [
+      "Crisis",
+      "Mechanism",
+      "Clinical picture",
+      "Reticulocytes"
+     ],
+     "rows": [
+      [
+       "**Painful vaso-occlusive** (commonest)",
+       "Small vessels in active marrow are blocked",
+       "Severe bone pain: hands and feet in children; femur, humerus, ribs, pelvis and spine in adults. Fever, tachycardia, sweating. Usually settles in 2–7 days",
+       "High (baseline)"
+      ],
+      [
+       "**Acute (sickle) chest syndrome**",
+       "Infection, fat emboli from infarcted marrow, or pulmonary infarction",
+       "Chest pain, dyspnoea, fever, hypoxia and a **new infiltrate on CXR**. Often follows a painful crisis and can kill within hours",
+       "High"
+      ],
+      [
+       "**Sequestration**",
+       "Venous outflow from an organ thromboses and blood pools",
+       "Children: spleen enlarges rapidly, causing severe anaemia and shock. Adults: liver, with capsular pain",
+       "High"
+      ],
+      [
+       "**Aplastic**",
+       "Parvovirus B19 halts red cell production",
+       "Profound anaemia that may cause heart failure. Self-limiting, usually within about a week",
+       "**Low**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 974,
+       "page": 952
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 369,
+       "page": 345
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Hematology",
+       "pdfPage": 825,
+       "page": 825
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 190,
+       "page": 190
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pediatrics",
+       "pdfPage": 796,
+       "page": 796
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Causes of an acute fall in Hb from baseline",
+     "items": [
+      "Splenic (or hepatic) sequestration",
+      "Marrow aplasia, mostly from parvovirus (erythrovirus) B19",
+      "Extra haemolysis from drugs, acute infection or co-existing **G6PD deficiency**"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 370,
+       "page": 346
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 252,
+       "page": 215
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 272\" font-family=\"sans-serif\" font-size=\"13\"><rect x=\"170\" y=\"8\" width=\"220\" height=\"36\" rx=\"6\" fill=\"#e8eef7\" stroke=\"#34558b\"/><text x=\"280\" y=\"31\" text-anchor=\"middle\">Acute fall in Hb from baseline</text><line x1=\"280\" y1=\"44\" x2=\"280\" y2=\"76\" stroke=\"#34558b\" stroke-width=\"2\"/><rect x=\"185\" y=\"76\" width=\"190\" height=\"36\" rx=\"6\" fill=\"#fff4e0\" stroke=\"#b07a1a\"/><text x=\"280\" y=\"99\" text-anchor=\"middle\">Check reticulocyte count</text><line x1=\"250\" y1=\"112\" x2=\"125\" y2=\"150\" stroke=\"#34558b\" stroke-width=\"2\"/><line x1=\"310\" y1=\"112\" x2=\"425\" y2=\"150\" stroke=\"#34558b\" stroke-width=\"2\"/><text x=\"160\" y=\"132\" font-weight=\"bold\">Low</text><text x=\"378\" y=\"132\" font-weight=\"bold\">High</text><rect x=\"15\" y=\"150\" width=\"225\" height=\"54\" rx=\"6\" fill=\"#fde8e8\" stroke=\"#a33\"/><text x=\"127\" y=\"172\" text-anchor=\"middle\" font-weight=\"bold\">Aplastic crisis</text><text x=\"127\" y=\"192\" text-anchor=\"middle\">Parvovirus B19: top-up transfusion</text><rect x=\"315\" y=\"150\" width=\"225\" height=\"36\" rx=\"6\" fill=\"#fff4e0\" stroke=\"#b07a1a\"/><text x=\"427\" y=\"173\" text-anchor=\"middle\">Spleen or liver rapidly enlarging?</text><line x1=\"400\" y1=\"186\" x2=\"330\" y2=\"216\" stroke=\"#34558b\" stroke-width=\"2\"/><line x1=\"455\" y1=\"186\" x2=\"480\" y2=\"216\" stroke=\"#34558b\" stroke-width=\"2\"/><rect x=\"245\" y=\"216\" width=\"165\" height=\"50\" rx=\"6\" fill=\"#e9f5ea\" stroke=\"#2f7a3a\"/><text x=\"327\" y=\"237\" text-anchor=\"middle\" font-weight=\"bold\">Yes: sequestration</text><text x=\"327\" y=\"256\" text-anchor=\"middle\">spleen (child), liver (adult)</text><rect x=\"418\" y=\"216\" width=\"137\" height=\"50\" rx=\"6\" fill=\"#e9f5ea\" stroke=\"#2f7a3a\"/><text x=\"486\" y=\"237\" text-anchor=\"middle\" font-weight=\"bold\">No: haemolysis</text><text x=\"486\" y=\"256\" text-anchor=\"middle\">drugs, infection, G6PD</text></svg>",
+     "alt": "Algorithm for an acute fall in haemoglobin in sickle cell disease: a low reticulocyte count means aplastic crisis; a high count with a rapidly enlarging spleen or liver means sequestration; otherwise consider extra haemolysis from drugs, infection or G6PD deficiency.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 370,
+       "page": 346
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pediatrics",
+       "pdfPage": 796,
+       "page": 796
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other acute vaso-occlusive events",
+     "items": [
+      "**Stroke**: the single most devastating complication, mainly in children",
+      "**Priapism**: painful, unwanted erection. Most episodes last 30 min–3 h and settle; one lasting **more than 3 hours** is an emergency",
+      "**Mesenteric sickling** can mimic an acute abdomen",
+      "Triggers include infection, dehydration, cold and major life stress, but crises can also be spontaneous"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 974,
+       "page": 952
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Hematology",
+       "pdfPage": 825,
+       "page": 825
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pediatrics",
+       "pdfPage": 795,
+       "page": 795
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 189,
+       "page": 189
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "fa2ck11",
+      "chapter": "Pediatrics",
+      "pdfPage": 795,
+      "page": 795,
+      "figure": "FIGURE 2.12-23"
+     },
+     "note": "Look at: CXR in acute chest syndrome. Bilateral lower and mid-zone opacities with mild cardiomegaly."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "chapter": "Haematology",
+      "pdfPage": 974,
+      "page": 952,
+      "figure": "Fig. 23.22"
+     },
+     "note": "Look at: body map of sickle complications (stroke, retinopathy, chest syndrome, dactylitis, priapism, leg ulcers, papillary necrosis)."
+    },
+    {
+     "type": "pitfall",
+     "text": "Aplastic crisis is the **only crisis with a low reticulocyte count**. Splenic sequestration also drops the Hb, but the marrow still responds (high retics) and the spleen is large and tender.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pediatrics",
+       "pdfPage": 796,
+       "page": 796
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 370,
+       "page": 346
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Splenic sequestration happens in **children**, whose spleens are still intact. After repeated infarction the adult spleen no longer works, so in adults sequestration affects the **liver**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 974,
+       "page": 952
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 370,
+       "page": 346
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Hematology",
+       "pdfPage": 826,
+       "page": 826
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.s5",
+   "title": "Investigations",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Key tests",
+     "columns": [
+      "Test",
+      "Finding",
+      "Use / note"
+     ],
+     "rows": [
+      [
+       "FBC + reticulocytes",
+       "Compensated anaemia, Hb usually **60–80 g/L**, with reticulocytosis (about 10–20%)",
+       "Baseline; repeat daily during a crisis"
+      ],
+      [
+       "Blood film",
+       "**Sickle cells, target cells** and features of hyposplenism (e.g. Howell–Jolly bodies) from early childhood",
+       "Sickle cells are seen even outside a crisis"
+      ],
+      [
+       "Bilirubin",
+       "Raised indirect (unconjugated) bilirubin",
+       "Evidence of haemolysis"
+      ],
+      [
+       "Sickle solubility test (sodium dithionite)",
+       "HbS gives a **turbid** solution; HbA stays clear",
+       "Rapid screen in ED or before surgery. **Cannot tell trait from disease**"
+      ],
+      [
+       "**Hb electrophoresis**",
+       "HbSS: **no HbA**, HbF 2–20%, the rest HbS",
+       "Definitive test; both parents show trait"
+      ],
+      [
+       "Transcranial Doppler (children)",
+       "High flow velocity in large intracranial arteries",
+       "Identifies high stroke risk: offer transfusion or hydroxycarbamide"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 974,
+       "page": 952
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 252,
+       "page": 215
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 253,
+       "page": 216
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pediatrics",
+       "pdfPage": 796,
+       "page": 796
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 254,
+       "page": 217
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Screening",
+     "items": [
+      "Newborn heel-prick test (around day 5) or cord blood",
+      "Antenatal testing of at-risk women, with partner testing and prenatal diagnosis for at-risk couples",
+      "Pre-operative testing of people from high-prevalence areas"
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 253,
+       "page": 216
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 189,
+       "page": 189
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 372,
+       "page": 348
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Work-up in an acute painful crisis",
+     "items": [
+      "All patients: FBC, reticulocytes, U&E, repeated daily",
+      "As indicated: LFTs, blood and urine cultures, CXR, ABG if SpO2 < 95%, abdominal ultrasound",
+      "Examine the **chest daily** for acute chest syndrome and the **abdomen** for an enlarging liver or spleen (sequestration)"
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 254,
+       "page": 217
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Haematology",
+      "pdfPage": 369,
+      "page": 345,
+      "figure": "Fig. 16.22"
+     },
+     "note": "Look at: blood film with crescent-shaped sickle cells (arrowed) and target cells."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "chapter": "Haematology",
+      "pdfPage": 371,
+      "page": 347,
+      "figure": "Fig. 16.23"
+     },
+     "note": "Look at: electrophoresis patterns. Trait shows both HbA and HbS bands; sickle cell anaemia shows HbS and HbF with no HbA band."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "fa2ck11",
+      "chapter": "Pediatrics",
+      "pdfPage": 796,
+      "page": 796,
+      "figure": "FIGURE 2.12-24"
+     },
+     "note": "Look at: (A) sickle cells; (B) Howell–Jolly bodies, a sign of functional hyposplenism."
+    },
+    {
+     "type": "pitfall",
+     "text": "A positive **solubility (dithionite) test** only shows that HbS is present. It is positive in both trait and disease, so **electrophoresis is always needed** to confirm the diagnosis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 370,
+       "page": 346
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "First Aid frames it as: best initial test is FBC with film (reticulocytes, indirect bilirubin, sickle cells); most accurate test is **Hb electrophoresis**.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "chapter": "Pediatrics",
+       "pdfPage": 796,
+       "page": 796
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.s6",
+   "title": "Complications and prognosis",
+   "objectiveIdx": [
+    7
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Chronic complications by system",
+     "columns": [
+      "System",
+      "Complications"
+     ],
+     "rows": [
+      [
+       "CNS",
+       "**Stroke or silent stroke in 10–15% of children**; TIA, fits, cerebral haemorrhage. Typical lesion: distal internal carotid or proximal middle cerebral artery. Silent MRI infarcts are linked to poor school performance"
+      ],
+      [
+       "Lung",
+       "Acute chest syndrome; **pulmonary hypertension** (an independent predictor of death, driven by vasculopathy, repeated chest crises, thromboembolism and nitric oxide loss from haemolysis); chronic lung disease"
+      ],
+      [
+       "Spleen / infection",
+       "Functional asplenia: pneumococcus, Haemophilus, meningococcus; osteomyelitis (Staph. aureus, Salmonella)"
+      ],
+      [
+       "Bone",
+       "Avascular necrosis of hips and shoulders, vertebral collapse, short bones of the hands and feet, osteoporosis"
+      ],
+      [
+       "Kidney",
+       "Sickle nephropathy (see pearl), papillary necrosis, haematuria, CKD"
+      ],
+      [
+       "Liver / biliary",
+       "Pigment gallstones, hepatomegaly, hepatic sequestration"
+      ],
+      [
+       "Eye",
+       "Background and proliferative retinopathy, vitreous haemorrhage, retinal detachment: yearly eye checks"
+      ],
+      [
+       "Heart",
+       "Cardiomegaly, high-output failure, arrhythmias, iron-overload cardiomyopathy"
+      ],
+      [
+       "Skin / genital",
+       "Leg ulcers over the malleoli; recurrent priapism leading to impotence"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 974,
+       "page": 952
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 369,
+       "page": 345
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 370,
+       "page": 346
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 252,
+       "page": 215
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pediatrics",
+       "pdfPage": 796,
+       "page": 796
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Hematology",
+       "pdfPage": 824,
+       "page": 824
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Sickle nephropathy**: the vasa recta of the medulla are hypoxic and hypertonic, so cells sickle there. The **earliest sign is loss of concentrating ability with polyuria**. Distal RTA and impaired K+ excretion are also typical, and papillary necrosis can occur. Response to erythropoietin is poor.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Nephrology",
+       "pdfPage": 433,
+       "page": 411
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pediatrics",
+       "pdfPage": 795,
+       "page": 795
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Pregnancy",
+     "items": [
+      "More painful crises, infections and severe anaemia in the mother",
+      "Placental failure: **pre-eclampsia** and **intrauterine growth restriction**",
+      "Higher risk of thrombosis, miscarriage and fetal death"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 370,
+       "page": 346
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Prognosis (Davidson's)**: even with standard care, about **15% die by age 20** and **50% by age 40**. In Africa, few children with sickle-cell anaemia reach adulthood without medical care. Davidson's names **sickle chest syndrome** as the commonest cause of death in adults.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 974,
+       "page": 952
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Osteomyelitis: **Salmonella** is the classic association, but **Staph. aureus** is still the commonest cause overall, with Salmonella second.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "chapter": "Pediatrics",
+       "pdfPage": 796,
+       "page": 796
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 370,
+       "page": 346
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Hematology",
+       "pdfPage": 826,
+       "page": 826
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Prognosis figures differ. Step-Up quotes a US median survival of about 58 years, with acute chest syndrome and multi-organ failure as the main causes of death. Kumar & Clark adds pulmonary hypertension and chronic lung disease as leading killers. Use Davidson's figures (15% by 20, 50% by 40; chest syndrome).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Hematology",
+       "pdfPage": 823,
+       "page": 823
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 369,
+       "page": 345
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.s7",
+   "title": "Management",
+   "objectiveIdx": [
+    8
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Long-term care for every patient",
+     "items": [
+      "**Daily folic acid** (chronic haemolysis)",
+      "Manage the hyposplenic state: **life-long penicillin V 500 mg twice daily** (a macrolide if allergic)",
+      "Vaccines: pneumococcal (re-immunise at least every 5 years), Haemophilus influenzae type b, meningococcal, and **annual influenza**",
+      "Carry an alert card or bracelet; teach the risk of overwhelming sepsis",
+      "Avoid precipitants (stay hydrated and warm, avoid high altitude) and treat fever promptly, with a low threshold for antibiotics"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 970,
+       "page": 948
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 371,
+       "page": 347
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Hematology",
+       "pdfPage": 827,
+       "page": 827
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pediatrics",
+       "pdfPage": 797,
+       "page": 797
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 190,
+       "page": 190
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Acute painful (vaso-occlusive) crisis",
+     "columns": [
+      "Element",
+      "Detail"
+     ],
+     "rows": [
+      [
+       "Fluids",
+       "**Aggressive rehydration**: oral about 60 mL/kg/24 h, IV or NG if intake is inadequate"
+      ],
+      [
+       "Analgesia",
+       "Usually opioids. **Morphine 0.1 mg/kg IV/SC every 20 min** until controlled, then 0.05–0.1 mg/kg every 2–4 h, or PCA. Add paracetamol or an NSAID (avoid NSAIDs in renal impairment); give routine laxatives"
+      ],
+      [
+       "Oxygen and antibiotics",
+       "Davidson's gives both. Kumar & Clark gives them only when indicated (e.g. O2 if SpO2 < 95%)"
+      ],
+      [
+       "Prevent chest syndrome",
+       "**Incentive spirometry**; examine the chest daily"
+      ],
+      [
+       "Monitoring",
+       "Pain, sedation, vital signs and SpO2 every 30 min until stable"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 254,
+       "page": 217
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 370,
+       "page": 346
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 371,
+       "page": 347
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 190,
+       "page": 190
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Acute chest syndrome",
+     "items": [
+      "Start analgesia, **high-flow oxygen** and antibiotics (**cefotaxime + clarithromycin**) at once, covering pneumococcus, Mycoplasma and Chlamydia",
+      "Hydration and incentive spirometry; bronchodilators may help",
+      "**Exchange transfusion** if not improving",
+      "CPAP/NIV or intubation if ventilation fails"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 369,
+       "page": 345
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 254,
+       "page": 217
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pediatrics",
+       "pdfPage": 797,
+       "page": 797
+      },
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 190,
+       "page": 190
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Transfusion: when and how",
+     "columns": [
+      "Situation",
+      "Approach"
+     ],
+     "rows": [
+      [
+       "Steady-state anaemia, minor surgery, uncomplicated painful crisis",
+       "**Do not transfuse**"
+      ],
+      [
+       "Splenic sequestration, aplastic crisis",
+       "**Simple top-up** transfusion"
+      ],
+      [
+       "Life-threatening crisis (e.g. worsening chest syndrome); preparing for surgery",
+       "**Exchange transfusion** (venesect and transfuse at the same time)"
+      ],
+      [
+       "Stroke, high-risk transcranial Doppler, recurrent chest syndrome",
+       "**Regular transfusion programme** keeping HbS **below 30%**"
+      ],
+      [
+       "Blood choice",
+       "Match for Rh and Kell, ideally fully genotyped, to limit alloimmunisation; CMV-negative in pregnancy"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 371,
+       "page": 347
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 253,
+       "page": 216
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Disease-modifying and curative treatment",
+     "items": [
+      "**Hydroxycarbamide (hydroxyurea)**: raises HbF and cuts pain episodes, chest syndrome and transfusion need. Davidson's uses it for recurrent severe crises; Kumar & Clark offers it to almost all patients from 12 months",
+      "Hydroxycarbamide is teratogenic and myelosuppressive, so **monitor the blood count** (neutropenia)",
+      "**Allogeneic stem cell transplant from an HLA-matched sibling** is potentially curative. The best candidates are young patients with severe complications (stroke, recurrent chest syndrome, refractory pain)"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 371,
+       "page": 347
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pediatrics",
+       "pdfPage": 797,
+       "page": 797
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 254,
+       "page": 217
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other emergencies and admission triggers",
+     "items": [
+      "Splenic sequestration: fluid resuscitation and transfusion; consider splenectomy after recurrent episodes",
+      "Priapism: a urological emergency, treated by **aspirating blood** from the penis",
+      "Admit for: pain not controlled by non-opioids, chest syndrome or pneumonia, splenic or hepatic sequestration, CNS deficit, mesenteric sickling, cholecystitis, arrhythmia, papillary necrosis, hyphaema or retinal detachment, priapism"
+     ],
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "chapter": "Haematology",
+       "pdfPage": 190,
+       "page": 190
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 371,
+       "page": 347
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 253,
+       "page": 216
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Pregnancy in sickle-cell disease (Davidson's Box 23.39)",
+     "columns": [
+      "Issue",
+      "Action"
+     ],
+     "rows": [
+      [
+       "Folic acid",
+       "High dose, **5 mg daily**, before and throughout pregnancy"
+      ],
+      [
+       "Hydroxycarbamide",
+       "**Stop 3 months before conception**"
+      ],
+      [
+       "ACE inhibitors",
+       "Stop before conception"
+      ],
+      [
+       "Before conception",
+       "Counsel, update vaccines, test the partner, exclude pulmonary hypertension"
+      ],
+      [
+       "Aspirin",
+       "**75 mg throughout** pregnancy (placental failure risk)"
+      ],
+      [
+       "Thromboprophylaxis",
+       "LMWH for at least 10 days after vaginal delivery, 6 weeks after caesarean"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 975,
+       "page": 953
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Oxygen and antibiotics in a painful crisis: Davidson's gives them routinely with fluids and analgesia, while Kumar & Clark gives them only if specifically indicated. Follow Davidson's.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 370,
+       "page": 346
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Penicillin prophylaxis: US sources (Step-Up, First Aid) stop it at age 5. Davidson's gives it **life-long** for the hyposplenic state, and Kumar & Clark Essentials lists daily penicillin as routine care with no age cut-off. Follow Davidson's.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 970,
+       "page": 948
+      },
+      {
+       "book": "davidson24",
+       "chapter": "Haematology",
+       "pdfPage": 975,
+       "page": 953
+      },
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 253,
+       "page": 216
+      },
+      {
+       "book": "stepup6",
+       "chapter": "Hematology",
+       "pdfPage": 827,
+       "page": 827
+      },
+      {
+       "book": "fa2ck11",
+       "chapter": "Pediatrics",
+       "pdfPage": 797,
+       "page": 797
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Transfuse for a clinical indication, **not for a number**: steady-state Hb of 60–80 g/L is normal for HbSS and is not treated with blood.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "chapter": "Haematological disease",
+       "pdfPage": 253,
+       "page": 216
+      },
+      {
+       "book": "kumar10",
+       "chapter": "Haematology",
+       "pdfPage": 371,
+       "page": 347
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "heme-sickle-cell.c1",
+   "sectionId": "heme-sickle-cell.s1",
+   "front": "Molecular defect producing HbS?",
+   "back": "Point mutation (A→T) giving **valine instead of glutamic acid at position 6** of the β-globin chain",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 973,
+     "page": 951
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 368,
+     "page": 344
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.c2",
+   "sectionId": "heme-sickle-cell.s1",
+   "front": "Why does sickle cell disease not show before about 6 months of age?",
+   "back": "Infants make mostly **HbF (α2γ2)**, which has no β chains and does not sickle",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 973,
+     "page": 951
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Haematological disease",
+     "pdfPage": 251,
+     "page": 214
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.c3",
+   "sectionId": "heme-sickle-cell.s1",
+   "front": "Why is the sickle gene common where falciparum malaria is endemic?",
+   "back": "Heterozygotes (HbAS) are protected from dying of falciparum malaria in childhood: a **balanced polymorphism**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 973,
+     "page": 951
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 372,
+     "page": 348
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.c4",
+   "sectionId": "heme-sickle-cell.s2",
+   "front": "How does a sickle cell become irreversibly sickled?",
+   "back": "K+ and water leave via the calcium-activated **Gardos channel**, giving a dense, dehydrated cell that stays sickled when re-oxygenated",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 368,
+     "page": 344
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.c5",
+   "sectionId": "heme-sickle-cell.s2",
+   "front": "Which haemoglobin strongly inhibits HbS polymerisation?",
+   "back": "**HbF**. A high HbF means a milder course; HbC, by contrast, joins polymers more readily than HbA",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 974,
+     "page": 952
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.c6",
+   "sectionId": "heme-sickle-cell.s2",
+   "front": "Precipitants of sickling?",
+   "back": "Hypoxia, infection, dehydration, acidosis, cold (\"HIDe in the COLD\")",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 974,
+     "page": 952
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 369,
+     "page": 345
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pediatrics",
+     "pdfPage": 796,
+     "page": 796
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.c7",
+   "sectionId": "heme-sickle-cell.s3",
+   "front": "HbSC disease vs HbSS?",
+   "back": "Milder, with fewer crises, but **more retinopathy and thrombosis**, including complications in pregnancy",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 372,
+     "page": 348
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.c8",
+   "sectionId": "heme-sickle-cell.s3",
+   "front": "Blood count and film in sickle cell trait?",
+   "back": "**Normal**. Symptoms only with extreme hypoxia; diagnose with a sickle test or electrophoresis",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 372,
+     "page": 348
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Haematological disease",
+     "pdfPage": 254,
+     "page": 217
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.c9",
+   "sectionId": "heme-sickle-cell.s3",
+   "front": "Both parents have sickle trait. Risk per pregnancy of sickle cell anaemia?",
+   "back": "**25%** (autosomal recessive)",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 372,
+     "page": 348
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 973,
+     "page": 951
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.c10",
+   "sectionId": "heme-sickle-cell.s4",
+   "front": "Commonest type of sickle crisis, and where is the pain in adults?",
+   "back": "**Painful vaso-occlusive crisis**: femur, humerus, ribs, pelvis, vertebrae (hands and feet in children)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 974,
+     "page": 952
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.c11",
+   "sectionId": "heme-sickle-cell.s4",
+   "front": "Reticulocyte count in aplastic crisis, and the usual cause?",
+   "back": "**Low** (unlike every other crisis); **parvovirus B19**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 370,
+     "page": 346
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.c12",
+   "sectionId": "heme-sickle-cell.s4",
+   "front": "Acute chest syndrome: definition and causes?",
+   "back": "Fever and/or respiratory symptoms with a **new CXR infiltrate**; caused by infection, marrow fat embolism or pulmonary infarction",
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 369,
+     "page": 345
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Haematological disease",
+     "pdfPage": 252,
+     "page": 215
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Haematology",
+     "pdfPage": 190,
+     "page": 190
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.c13",
+   "sectionId": "heme-sickle-cell.s5",
+   "front": "Limitation of the sickle solubility (dithionite) test?",
+   "back": "Detects HbS but **cannot distinguish trait from disease**; confirm with Hb electrophoresis",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 370,
+     "page": 346
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.c14",
+   "sectionId": "heme-sickle-cell.s5",
+   "front": "Hb electrophoresis in HbSS (Davidson's)?",
+   "back": "No HbA, HbF 2–20%, mostly HbS",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.c15",
+   "sectionId": "heme-sickle-cell.s6",
+   "front": "Stroke in children with SCD: frequency and screening test?",
+   "back": "Stroke or silent stroke in **10–15%**; screen with **transcranial Doppler** (high velocity = high risk)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 974,
+     "page": 952
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.c16",
+   "sectionId": "heme-sickle-cell.s6",
+   "front": "Earliest renal abnormality in sickle nephropathy?",
+   "back": "**Loss of urine concentrating ability with polyuria** (sickling in the hypoxic, hypertonic vasa recta)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology",
+     "pdfPage": 433,
+     "page": 411
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.c17",
+   "sectionId": "heme-sickle-cell.s6",
+   "front": "Prognosis of HbSS with standard care (Davidson's)?",
+   "back": "About **15% dead by 20** and **50% by 40**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.c18",
+   "sectionId": "heme-sickle-cell.s7",
+   "front": "Infection prophylaxis for hyposplenism (Davidson's)?",
+   "back": "Life-long **penicillin V 500 mg twice daily**, pneumococcal vaccine at least 5-yearly, annual influenza vaccine, alert card",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 970,
+     "page": 948
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.c19",
+   "sectionId": "heme-sickle-cell.s7",
+   "front": "Target HbS level on a regular transfusion programme (e.g. after stroke)?",
+   "back": "**Below 30%**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.c20",
+   "sectionId": "heme-sickle-cell.s7",
+   "front": "Pregnancy: hydroxycarbamide and aspirin advice?",
+   "back": "Stop hydroxycarbamide **3 months before conception**; aspirin **75 mg** throughout; folic acid 5 mg daily",
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "heme-sickle-cell.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A medical student is reviewing the molecular basis of haemoglobin S for a genetics tutorial.",
+   "leadIn": "Which change produces haemoglobin S?",
+   "options": [
+    "Lysine replaces glutamic acid at position 6 of the β chain",
+    "Valine replaces glutamic acid at position 6 of the β chain",
+    "Deletion of two of the four α-globin genes",
+    "Reduced synthesis of structurally normal β chains",
+    "Valine replaces glutamic acid at position 6 of the α chain"
+   ],
+   "answer": 1,
+   "explanation": "HbS comes from a single-base change (A→T) in the β-globin gene, which puts **valine in place of glutamic acid at position 6 of the β chain**. The β chain is affected, so the disease appears only once HbF falls.",
+   "whyNot": [
+    "This is HbC: the same position, but lysine is the substituted amino acid.",
+    "",
+    "Gene deletion is how α-thalassaemia arises, a quantitative defect.",
+    "Reduced production of normal chains is β-thalassaemia, not a structural variant.",
+    "The sickle mutation affects the β chain, not the α chain."
+   ],
+   "studyRef": {
+    "sectionId": "heme-sickle-cell.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 973,
+     "page": 951
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 368,
+     "page": 344
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Haematological disease",
+     "pdfPage": 250,
+     "page": 213
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A couple of West African origin, both known carriers of sickle trait, ask why their baby, who has HbSS on newborn screening, is completely well at 3 months of age.",
+   "leadIn": "What is the best explanation?",
+   "options": [
+    "The infant still makes mainly fetal haemoglobin, which lacks β chains",
+    "Maternal antibodies prevent sickling in early infancy",
+    "The neonatal spleen removes sickled cells efficiently",
+    "HbS does not polymerise until red cells mature in adulthood",
+    "Neonatal blood has a higher oxygen tension than adult blood"
+   ],
+   "answer": 0,
+   "explanation": "HbF is α2γ2 and contains **no β chains**. Defects of the β chain therefore stay hidden until HbF has fallen to adult levels, at **about 6 months**. Dactylitis often follows from about 4–6 months.",
+   "whyNot": [
+    "",
+    "Maternal antibodies have no role in preventing HbS polymerisation.",
+    "The infant spleen is large and still working, but this does not stop sickling. Splenic sequestration is in fact a crisis of young children.",
+    "HbS polymerises on deoxygenation at any age once it is the main haemoglobin.",
+    "There is no protective rise in oxygen tension in infancy; the protection comes from HbF."
+   ],
+   "studyRef": {
+    "sectionId": "heme-sickle-cell.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 973,
+     "page": 951
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Haematological disease",
+     "pdfPage": 251,
+     "page": 214
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Hematology",
+     "pdfPage": 825,
+     "page": 825
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A haematology lecturer shows a film of dense sickle cells that stay sickled even after the sample is oxygenated.",
+   "leadIn": "Which process mainly explains why these cells stay sickled?",
+   "options": [
+    "Loss of potassium and water through the calcium-activated Gardos channel",
+    "Complement-mediated damage to the membrane",
+    "Oxidation of haemoglobin to form Heinz bodies",
+    "Loss of membrane spectrin from an inherited defect",
+    "Antibody coating of the red cells"
+   ],
+   "answer": 0,
+   "explanation": "Repeated sickling lets **K+ and water escape via the Gardos channel**. The dehydrated, dense cell concentrates HbS and loses membrane flexibility, so it no longer unsickles when oxygenated.",
+   "whyNot": [
+    "",
+    "Complement-mediated lysis is the mechanism in PNH, not sickling.",
+    "Heinz bodies come from oxidant damage in G6PD deficiency.",
+    "Inherited cytoskeletal defects cause hereditary spherocytosis.",
+    "Antibody coating is the mechanism of autoimmune haemolysis."
+   ],
+   "studyRef": {
+    "sectionId": "heme-sickle-cell.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 368,
+     "page": 344
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 974,
+     "page": 952
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "Two brothers both have HbSS. The younger has had three admissions in his life; the older has several painful crises a year and has had chest syndrome.",
+   "leadIn": "Which laboratory feature best explains the younger brother's milder course?",
+   "options": [
+    "A higher HbF percentage",
+    "A higher reticulocyte count",
+    "A lower steady-state haemoglobin",
+    "A higher proportion of HbS",
+    "Co-existing G6PD deficiency"
+   ],
+   "answer": 0,
+   "explanation": "**HbF strongly inhibits HbS polymerisation**, so patients with a high HbF have few crises. This is why hydroxycarbamide, which raises HbF, helps.",
+   "whyNot": [
+    "",
+    "A higher reticulocyte count reflects more haemolysis, not milder disease.",
+    "A lower Hb does not protect against sickling.",
+    "More HbS per cell makes tactoids form more easily, which worsens disease.",
+    "G6PD deficiency adds haemolysis and can cause an acute fall in Hb."
+   ],
+   "studyRef": {
+    "sectionId": "heme-sickle-cell.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 974,
+     "page": 952
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 29-year-old woman of Ghanaian origin, 30 weeks pregnant, has had only two painful crises in her life. She has proliferative retinopathy and now has a deep vein thrombosis. Electrophoresis shows HbS and HbC bands with no HbA.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "HbSC disease",
+    "Sickle cell anaemia (HbSS)",
+    "Sickle cell trait (HbAS)",
+    "HbS/β-thalassaemia",
+    "HbC trait"
+   ],
+   "answer": 0,
+   "explanation": "HbS plus HbC with no HbA is **HbSC disease**. It is milder, with fewer crises, but brings **more retinopathy and thrombosis**, especially in pregnancy.",
+   "whyNot": [
+    "",
+    "HbSS shows no HbC band and usually has many more crises.",
+    "Trait has an HbA band and no retinopathy or thrombosis risk of this kind.",
+    "S/β-thalassaemia behaves like HbSS and has no HbC band.",
+    "HbC trait has HbA and is clinically silent."
+   ],
+   "studyRef": {
+    "sectionId": "heme-sickle-cell.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 372,
+     "page": 348
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A fit 22-year-old Nigerian student has a positive sickle solubility test before a dental procedure. He has never been unwell, and electrophoresis shows both HbA and HbS.",
+   "leadIn": "Which finding is most likely on his full blood count and film?",
+   "options": [
+    "Normal haemoglobin, indices and film",
+    "Hb 70 g/L with a reticulocytosis",
+    "Low MCV and MCH with target cells",
+    "Sickle cells and Howell–Jolly bodies",
+    "Spherocytes with a raised MCHC"
+   ],
+   "answer": 0,
+   "explanation": "This is **sickle cell trait (HbAS)**. The count and film are **normal**, unlike thalassaemia trait. Symptoms arise only with extreme hypoxia.",
+   "whyNot": [
+    "",
+    "Compensated anaemia at 60–80 g/L with reticulocytosis is HbSS.",
+    "Low MCV and MCH suggest thalassaemia trait, not sickle trait.",
+    "Sickle cells and hyposplenic features are found in HbSS.",
+    "Spherocytes suggest hereditary spherocytosis or immune haemolysis."
+   ],
+   "studyRef": {
+    "sectionId": "heme-sickle-cell.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 372,
+     "page": 348
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Haematological disease",
+     "pdfPage": 254,
+     "page": 217
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q7",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Acute presentations in sickle cell disease",
+   "leadIn": "For each patient below, choose the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Painful vaso-occlusive crisis (dactylitis)",
+    "Acute chest syndrome",
+    "Splenic sequestration crisis",
+    "Hepatic sequestration crisis",
+    "Aplastic crisis",
+    "Priapism",
+    "Acute ischaemic stroke",
+    "Mesenteric sickling",
+    "Acute cholecystitis",
+    "Osteomyelitis",
+    "Avascular necrosis of the femoral head",
+    "Pulmonary embolism"
+   ],
+   "items": [
+    {
+     "stem": "A 9-month-old boy with HbSS is irritable and won't use his hands. Both hands and feet are swollen, warm and tender over their backs. Temperature 38.0 °C.",
+     "answer": 0,
+     "explanation": "Painful swelling of the hands and feet in infancy is **dactylitis**, the vaso-occlusive crisis of small bones in a young child and often the first sign of the disease.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s4"
+     }
+    },
+    {
+     "stem": "A 24-year-old man admitted with a femoral pain crisis develops pleuritic chest pain and breathlessness on day 2. SpO2 is 89% on air, and a new left lower zone infiltrate is seen on the chest film.",
+     "answer": 1,
+     "explanation": "Chest pain, hypoxia and a **new CXR infiltrate**, arising after a bone crisis (marrow fat embolism), is **acute chest syndrome**. It can kill within hours.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s4"
+     }
+    },
+    {
+     "stem": "A 19-year-old man with HbSS has had a painful erection for 4 hours that has not settled with fluids or emptying his bladder.",
+     "answer": 5,
+     "explanation": "Vaso-occlusion in the corpora causes **priapism**. Lasting more than 3 hours makes it an emergency, and recurrent episodes risk impotence.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 974,
+     "page": 952
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 369,
+     "page": 345
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Hematology",
+     "pdfPage": 825,
+     "page": 825
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pediatrics",
+     "pdfPage": 795,
+     "page": 795
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q8",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Choosing an investigation in sickle cell disease",
+   "leadIn": "For each situation below, choose the most appropriate investigation from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Sickle solubility (dithionite) test",
+    "Haemoglobin electrophoresis",
+    "Transcranial Doppler ultrasound",
+    "Reticulocyte count",
+    "Peripheral blood film",
+    "Chest X-ray",
+    "MRI brain",
+    "Arterial blood gas",
+    "Abdominal ultrasound",
+    "Serum ferritin",
+    "Direct antiglobulin test",
+    "Bone marrow aspirate"
+   ],
+   "items": [
+    {
+     "stem": "A 30-year-old man from Sierra Leone needs an emergency appendicectomy tonight. His sickle status is unknown and theatre wants a rapid screen for HbS.",
+     "answer": 0,
+     "explanation": "The **solubility test** gives a quick yes/no for HbS before surgery or in the ED. It cannot separate trait from disease, so electrophoresis must follow.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s5"
+     }
+    },
+    {
+     "stem": "The test above is positive. The surgical team now needs to know whether he has sickle cell trait or sickle cell disease.",
+     "answer": 1,
+     "explanation": "Two steps: the screen is positive in both trait and disease, so you need a test that quantifies each haemoglobin. That is **Hb electrophoresis** (HbSS: no HbA, HbF 2–20%, mostly HbS).",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s5"
+     }
+    },
+    {
+     "stem": "A well 6-year-old girl with HbSS attends routine clinic. Her parents ask how her risk of stroke can be assessed.",
+     "answer": 2,
+     "explanation": "**Transcranial Doppler** measures flow velocity in the large intracranial arteries. A high velocity means high stroke risk and prompts a transfusion programme or hydroxycarbamide.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s5"
+     }
+    },
+    {
+     "stem": "A 7-year-old with HbSS has a haemoglobin of 45 g/L (baseline 75 g/L) a week after a febrile illness with a rash. The spleen is not palpable.",
+     "answer": 3,
+     "explanation": "Distinguish aplastic crisis from sequestration or extra haemolysis with the **reticulocyte count**. Low reticulocytes after a viral illness point to parvovirus B19 aplasia.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 974,
+     "page": 952
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 370,
+     "page": 346
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Haematological disease",
+     "pdfPage": 253,
+     "page": 216
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q9",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Chronic complications of sickle cell disease",
+   "leadIn": "For each patient below, choose the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Sickle nephropathy (urine concentrating defect)",
+    "Renal papillary necrosis",
+    "Pigment gallstones",
+    "Avascular necrosis of the femoral head",
+    "Proliferative sickle retinopathy",
+    "Chronic leg ulcer",
+    "Pulmonary hypertension",
+    "Osteomyelitis",
+    "Silent cerebral infarction",
+    "Iron-overload cardiomyopathy",
+    "Vertebral collapse",
+    "Acute chest syndrome"
+   ],
+   "items": [
+    {
+     "stem": "A 14-year-old boy with HbSS still wets the bed and drinks large volumes. Early-morning urine osmolality is low despite overnight fluid restriction. Creatinine is normal.",
+     "answer": 0,
+     "explanation": "Sickling in the hypoxic, hypertonic vasa recta first causes **loss of concentrating ability and polyuria**, the earliest sign of sickle nephropathy.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s6"
+     }
+    },
+    {
+     "stem": "A 10-year-old girl with HbSS and no history of stroke has falling school grades. MRI shows small deep white-matter infarcts, and neurological examination is normal.",
+     "answer": 8,
+     "explanation": "Infarcts seen on MRI without any clinical event are **silent infarcts**. They are common in children with SCD and linked to poor educational attainment.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s6"
+     }
+    },
+    {
+     "stem": "A 34-year-old woman with HbSS has had recurrent right upper quadrant pain after fatty meals. Ultrasound shows multiple small dark stones.",
+     "answer": 2,
+     "explanation": "Chronic haemolysis raises the bilirubin load, which forms **pigment gallstones**. These can cause biliary colic and cholecystitis.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s6"
+     }
+    },
+    {
+     "stem": "A 38-year-old man with HbSS has worsening exertional breathlessness. Echo shows a raised pulmonary artery pressure with right ventricular dilatation; he has had several chest crises.",
+     "answer": 6,
+     "explanation": "**Pulmonary hypertension** follows vasculopathy, repeated chest crises, thromboembolism and nitric oxide loss from haemolysis. It is an independent predictor of death and should prompt therapy to lower HbS.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology",
+     "pdfPage": 433,
+     "page": 411
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 369,
+     "page": 345
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 370,
+     "page": 346
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 974,
+     "page": 952
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q10",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 3,
+   "theme": "Transfusion decisions in sickle cell disease",
+   "leadIn": "For each patient below, choose the most appropriate blood-product strategy from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "No transfusion",
+    "Simple top-up transfusion",
+    "Emergency exchange transfusion",
+    "Regular transfusion programme keeping HbS below 30%",
+    "Hydroxycarbamide alone",
+    "Allogeneic stem cell transplant",
+    "Platelet transfusion",
+    "Fresh frozen plasma",
+    "Iron chelation alone",
+    "Intravenous immunoglobulin"
+   ],
+   "items": [
+    {
+     "stem": "A 26-year-old woman with HbSS, steady-state Hb 72 g/L, is admitted with a typical rib and back pain crisis. She is not hypoxic and her chest is clear. Her Hb today is 70 g/L.",
+     "answer": 0,
+     "explanation": "Steady-state anaemia and an **uncomplicated painful crisis** are not indications for blood. Treat with fluids and analgesia.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s7"
+     }
+    },
+    {
+     "stem": "A 3-year-old boy with HbSS is pale and drowsy with a left upper quadrant mass that has grown over 6 hours. Hb is 38 g/L and reticulocytes are high.",
+     "answer": 1,
+     "explanation": "Acute **splenic sequestration** needs volume replacement and a **simple top-up** transfusion.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s7"
+     }
+    },
+    {
+     "stem": "A 22-year-old man with acute chest syndrome is on high-flow oxygen, cefotaxime and clarithromycin, but over 12 hours his SpO2 falls and both lungs become involved.",
+     "answer": 2,
+     "explanation": "Acute chest syndrome that is **not improving** is life-threatening. **Exchange transfusion** (venesect and transfuse at the same time) replaces HbS with HbA quickly.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s7"
+     }
+    },
+    {
+     "stem": "An 8-year-old girl with HbSS recovered from a left middle cerebral artery stroke last month.",
+     "answer": 3,
+     "explanation": "After stroke (secondary prevention), a **regular transfusion programme** suppresses HbS production and keeps HbS below 30%.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 371,
+     "page": 347
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Haematological disease",
+     "pdfPage": 253,
+     "page": 216
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 369,
+     "page": 345
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q11",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Haemoglobin genotypes",
+   "leadIn": "For each person below, choose the most likely haemoglobin genotype from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "HbAA (normal)",
+    "HbAS (sickle cell trait)",
+    "HbSS (sickle cell anaemia)",
+    "HbSC disease",
+    "HbS/β-thalassaemia",
+    "β-thalassaemia trait",
+    "β-thalassaemia major",
+    "HbC trait",
+    "HbE trait",
+    "α-thalassaemia trait"
+   ],
+   "items": [
+    {
+     "stem": "A 2-year-old has had episodes of swollen hands. Hb is 68 g/L with high reticulocytes. Electrophoresis shows no HbA, about 10% HbF and the rest HbS. Both parents show HbA and HbS.",
+     "answer": 2,
+     "explanation": "No HbA, HbF 2–20% and predominant HbS, with both parents carriers, is **HbSS**.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s5"
+     }
+    },
+    {
+     "stem": "A pregnant 25-year-old from Jamaica has a normal FBC and film. A specifically requested haemoglobinopathy screen shows HbA and HbS bands.",
+     "answer": 1,
+     "explanation": "Both HbA and HbS with a normal count and film is **sickle cell trait**. It is invisible on the FBC, so it needs a specific request.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s3"
+     }
+    },
+    {
+     "stem": "A 30-year-old man has severe disease like HbSS, with frequent crises. His mother has HbA and HbS; his father has a low MCV and MCH with no HbS.",
+     "answer": 4,
+     "explanation": "Two steps: he inherited HbS from his mother. His father's microcytosis without HbS suggests β-thalassaemia trait. Together these give **HbS/β-thalassaemia**, which behaves clinically like HbSS.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s3"
+     }
+    },
+    {
+     "stem": "A healthy 40-year-old man has microcytosis with a low MCH. He has had no response to iron and his ferritin is normal. Electrophoresis shows a raised HbA2 and no HbS.",
+     "answer": 5,
+     "explanation": "Microcytosis that does not respond to iron, with a **raised HbA2** and no variant band, fits **β-thalassaemia trait**. That is the contrast with sickle trait, which has normal indices.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 973,
+     "page": 951
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 372,
+     "page": 348
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Haematological disease",
+     "pdfPage": 250,
+     "page": 213
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q12",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "theme": "Mechanisms behind clinical features",
+   "leadIn": "For each observation below, choose the mechanism that best explains it. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Inhibition of HbS polymerisation by HbF",
+    "Easier release of oxygen to the tissues by HbS",
+    "Sickling in the hypoxic, hypertonic vasa recta",
+    "Fat embolism from infarcted bone marrow",
+    "Venous outflow thrombosis causing organ pooling",
+    "Parvovirus destruction of erythroid progenitors",
+    "Functional asplenia after repeated infarction",
+    "Potassium loss through the Gardos channel",
+    "Autoimmune red cell destruction",
+    "Iron deposition in the myocardium"
+   ],
+   "items": [
+    {
+     "stem": "A 25-year-old man with HbSS and an Hb of 70 g/L plays five-a-side football weekly without breathlessness.",
+     "answer": 1,
+     "explanation": "HbS **gives up oxygen to the tissues more readily** than HbA, so patients tolerate 60–80 g/L well.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s2"
+     }
+    },
+    {
+     "stem": "A 12-year-old with HbSS has had far fewer crises since starting a daily oral cytotoxic tablet two years ago.",
+     "answer": 0,
+     "explanation": "Hydroxycarbamide **raises HbF**, which inhibits polymerisation and reduces crises and chest syndrome.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s7"
+     }
+    },
+    {
+     "stem": "A 20-year-old with sickle trait passes large volumes of dilute urine and cannot concentrate it on a water-deprivation test.",
+     "answer": 2,
+     "explanation": "Even trait cells sickle in the **hypoxic, hypertonic medulla**, damaging the vasa recta and the concentrating mechanism (isosthenuria).",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s3"
+     }
+    },
+    {
+     "stem": "A 4-year-old with HbSS develops pneumococcal meningitis despite having had a large spleen as a toddler. The spleen can no longer be felt.",
+     "answer": 6,
+     "explanation": "Repeated splenic infarcts cause **functional asplenia (autosplenectomy)**, which leaves the child open to encapsulated organisms.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology",
+     "pdfPage": 433,
+     "page": 411
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Hematology",
+     "pdfPage": 825,
+     "page": 825
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Haematological disease",
+     "pdfPage": 252,
+     "page": 215
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pediatrics",
+     "pdfPage": 795,
+     "page": 795
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Hematology",
+     "pdfPage": 823,
+     "page": 823
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A clinical tutor asks which complication Davidson's names as the leading killer of adults with sickle-cell disease.",
+   "leadIn": "Which is the best answer?",
+   "options": [
+    "Sickle chest syndrome",
+    "Ischaemic stroke",
+    "Splenic sequestration",
+    "End-stage renal disease",
+    "Pneumococcal septicaemia"
+   ],
+   "answer": 0,
+   "explanation": "Davidson's names **sickle chest syndrome** as the commonest cause of death in adults. Stroke is the most devastating complication but mainly affects children.",
+   "whyNot": [
+    "",
+    "Stroke is the most devastating complication but occurs mainly in children.",
+    "Splenic sequestration is a crisis of young children, before autosplenectomy.",
+    "Only a minority develop ESRD.",
+    "Overwhelming sepsis is a risk, especially in children, but is not named as the leading adult cause."
+   ],
+   "studyRef": {
+    "sectionId": "heme-sickle-cell.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 974,
+     "page": 952
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 369,
+     "page": 345
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 7-year-old boy with HbSS has a high flow velocity in the middle cerebral artery on routine transcranial Doppler. He is neurologically normal.",
+   "leadIn": "What is the most appropriate management?",
+   "options": [
+    "Start a regular transfusion programme to keep HbS below 30%",
+    "Start low-dose aspirin",
+    "Repeat the Doppler in 5 years",
+    "Start warfarin",
+    "Arrange elective splenectomy"
+   ],
+   "answer": 0,
+   "explanation": "High Doppler velocity means a **high stroke risk**. Primary prevention is a **regular transfusion programme** (or hydroxycarbamide), keeping HbS below 30%.",
+   "whyNot": [
+    "",
+    "Antiplatelet therapy is not the strategy for preventing sickle stroke in these sources.",
+    "Waiting ignores a high immediate risk.",
+    "Anticoagulation does not address the sickle vasculopathy.",
+    "Splenectomy is for recurrent sequestration, not stroke prevention."
+   ],
+   "studyRef": {
+    "sectionId": "heme-sickle-cell.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 974,
+     "page": 952
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 371,
+     "page": 347
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q15",
+   "kind": "emq",
+   "pool": "worked",
+   "difficulty": 3,
+   "theme": "Causes of an acute fall in haemoglobin in sickle cell disease",
+   "leadIn": "For each patient below, choose the single best option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Aplastic crisis (parvovirus B19)",
+    "Splenic sequestration",
+    "Hepatic sequestration",
+    "Haemolysis from co-existing G6PD deficiency",
+    "Iron deficiency",
+    "Folate deficiency",
+    "Gastrointestinal blood loss",
+    "Hypersplenism from portal hypertension",
+    "Anaemia of chronic kidney disease",
+    "Autoimmune haemolytic anaemia"
+   ],
+   "items": [
+    {
+     "stem": "An 8-year-old girl with HbSS is breathless and pale a week after a febrile viral illness. Hb is 42 g/L (baseline 78 g/L), reticulocytes are almost absent, and there is no organomegaly.",
+     "answer": 0,
+     "explanation": "Step 1: a big Hb drop. Step 2: the reticulocytes are **low**, unlike every other crisis, so the marrow has stopped. Step 3: a recent viral illness fits **parvovirus B19**, which invades erythroid progenitors. This is an aplastic crisis; give a top-up transfusion until the marrow recovers.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s4"
+     }
+    },
+    {
+     "stem": "A 2-year-old boy with HbSS becomes suddenly pale and cold with a fast pulse. His spleen, previously just palpable, now reaches the umbilicus. Hb 35 g/L; reticulocytes high.",
+     "answer": 1,
+     "explanation": "Step 1: shock with a rapidly enlarging spleen. Step 2: a high reticulocyte count shows the marrow is working, so the blood has pooled rather than not been made. Step 3: his age (spleen still intact) fits **splenic sequestration**. Resuscitate and give a top-up transfusion.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s4"
+     }
+    },
+    {
+     "stem": "A 27-year-old Nigerian man with HbSS develops dark urine and a fall in Hb from 80 to 55 g/L, two days after starting an oxidant antimalarial drug. Reticulocytes are high, and the spleen and liver are not enlarged.",
+     "answer": 3,
+     "explanation": "Step 1: the fall comes with a working marrow (high retics) and no organ enlargement, so it is not aplasia or sequestration. Step 2: an oxidant drug trigger points to extra haemolysis from **co-existing G6PD deficiency**, a recognised cause of an acute Hb fall in sickle patients.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 370,
+     "page": 346
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Haematological disease",
+     "pdfPage": 252,
+     "page": 215
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pediatrics",
+     "pdfPage": 796,
+     "page": 796
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 970,
+     "page": 948
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Haematology",
+     "pdfPage": 190,
+     "page": 190
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q16",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 23-year-old man with HbSS arrives with 6 hours of severe pain in his thighs and lower back, unrelieved by paracetamol and ibuprofen at home. He weighs 70 kg and is opioid-naive. SpO2 is 97% on air, and his chest and abdomen are normal.",
+   "leadIn": "Which analgesic plan is most appropriate?",
+   "options": [
+    "Morphine 0.1 mg/kg IV or SC every 20 minutes until the pain is controlled",
+    "Continue oral paracetamol and ibuprofen only",
+    "Single intramuscular dose of codeine",
+    "Wait for an exchange transfusion to relieve the pain",
+    "Oral tramadol once daily"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: pain not controlled by non-opioids means **admission**. Step 2: strong opioids are needed, and **morphine is the drug of choice**: 0.1 mg/kg IV/SC every 20 min until controlled, then 2–4-hourly or by PCA. Step 3: add paracetamol or an NSAID, laxatives, fluids, oxygen and antibiotics (Davidson's), and incentive spirometry.",
+   "whyNot": [
+    "",
+    "Non-opioids have already failed, which is itself an admission criterion.",
+    "A single weak opioid dose will not control a sickle crisis; titrated morphine is recommended.",
+    "Transfusion is not indicated for an uncomplicated painful crisis.",
+    "A once-daily weak opioid is too slow and too weak for a severe crisis."
+   ],
+   "studyRef": {
+    "sectionId": "heme-sickle-cell.s7"
+   },
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "chapter": "Haematological disease",
+     "pdfPage": 254,
+     "page": 217
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 370,
+     "page": 346
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 371,
+     "page": 347
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Haematological disease",
+     "pdfPage": 253,
+     "page": 216
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q17",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Drug therapy in sickle cell disease",
+   "leadIn": "For each patient below, choose the most appropriate drug from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Phenoxymethylpenicillin (penicillin V)",
+    "Hydroxycarbamide",
+    "Folic acid 5 mg daily",
+    "Aspirin 75 mg daily",
+    "Low-molecular-weight heparin",
+    "Morphine",
+    "Cefotaxime plus clarithromycin",
+    "Desferrioxamine",
+    "Warfarin",
+    "Ciprofloxacin",
+    "Prednisolone",
+    "Erythropoietin"
+   ],
+   "items": [
+    {
+     "stem": "A 17-year-old with HbSS has had five admissions with painful crises and two episodes of acute chest syndrome this year. A drug is needed to reduce future events.",
+     "answer": 1,
+     "explanation": "**Hydroxycarbamide** raises HbF and reduces painful crises, chest syndrome and transfusion need. Monitor the blood count for neutropenia.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s7"
+     }
+    },
+    {
+     "stem": "A 21-year-old with HbSS has a fever, cough, hypoxia and a new right lower zone infiltrate.",
+     "answer": 6,
+     "explanation": "Acute chest syndrome needs immediate antibiotics covering pneumococcus and atypical organisms: **cefotaxime plus clarithromycin**.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s7"
+     }
+    },
+    {
+     "stem": "A 26-year-old woman with HbSS is 12 weeks pregnant. Which drug should she take throughout pregnancy to reduce the risk of placental failure?",
+     "answer": 3,
+     "explanation": "Davidson's Box 23.39: **aspirin 75 mg** throughout pregnancy, because pre-eclampsia and growth restriction are more common.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s7"
+     }
+    },
+    {
+     "stem": "A 19-year-old with HbSS moves to an adult clinic. He asks which daily tablet will protect him against overwhelming pneumococcal sepsis.",
+     "answer": 0,
+     "explanation": "Hyposplenism needs life-long **penicillin V 500 mg twice daily** (a macrolide if allergic), plus vaccines.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 970,
+     "page": 948
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 369,
+     "page": 345
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 371,
+     "page": 347
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q18",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Genetic risk in sickle cell families",
+   "leadIn": "For each question below, choose the correct probability from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "0%",
+    "12.5%",
+    "25%",
+    "33%",
+    "50%",
+    "67%",
+    "75%",
+    "100%"
+   ],
+   "items": [
+    {
+     "stem": "Both partners have sickle cell trait (HbAS). What is the chance that their next child has sickle cell anaemia?",
+     "answer": 2,
+     "explanation": "AS × AS gives ¼ AA, ½ AS and ¼ SS, so the risk is **25%** for each pregnancy.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s3"
+     }
+    },
+    {
+     "stem": "A man with HbSS and a woman with normal haemoglobin (HbAA) have a child. What is the chance that the child has sickle cell trait?",
+     "answer": 7,
+     "explanation": "Every child receives an S from the father and an A from the mother, so all are **AS (100%)**, and none has the disease.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s3"
+     }
+    },
+    {
+     "stem": "A man with HbSS and a woman with sickle trait have a child. What is the chance that the child has sickle cell anaemia?",
+     "answer": 4,
+     "explanation": "SS × AS: the father always passes S, and the mother passes S half the time, so **50%** of children are SS.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s3"
+     }
+    },
+    {
+     "stem": "Two carriers have an unaffected (not HbSS) child. What is the chance that this child is a carrier?",
+     "answer": 5,
+     "explanation": "Two steps: of AS × AS offspring, SS is excluded. That leaves AA (1 part) and AS (2 parts), so the chance of being a carrier is **2/3 (67%)**.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 973,
+     "page": 951
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 372,
+     "page": 348
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q19",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 19-year-old with HbSS is moving from paediatric to adult care. He was told as a child that he could stop daily penicillin after the age of 5, but his paediatrician kept it going. He asks whether he can stop now.",
+   "leadIn": "According to Davidson's, what is the best advice?",
+   "options": [
+    "Continue penicillin V 500 mg twice daily for life",
+    "Stop penicillin now, as protection is needed only under 5 years",
+    "Switch to antibiotics only during crises",
+    "Stop penicillin once pneumococcal vaccination is complete",
+    "Replace penicillin with monthly intramuscular immunoglobulin"
+   ],
+   "answer": 0,
+   "explanation": "All patients with sickle-cell disease are functionally hyposplenic. Davidson's advises **life-long penicillin V 500 mg twice daily** with pneumococcal re-immunisation at least 5-yearly and annual influenza vaccine. US sources limiting it to under-5s are the exam trap.",
+   "whyNot": [
+    "",
+    "This is the US approach (Step-Up, First Aid); Davidson's takes precedence.",
+    "Overwhelming sepsis can strike at any time, not only during crises.",
+    "Vaccines supplement penicillin but do not replace it.",
+    "Immunoglobulin is not part of hyposplenism prophylaxis."
+   ],
+   "studyRef": {
+    "sectionId": "heme-sickle-cell.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 970,
+     "page": 948
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    },
+    {
+     "book": "stepup6",
+     "chapter": "Hematology",
+     "pdfPage": 827,
+     "page": 827
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pediatrics",
+     "pdfPage": 797,
+     "page": 797
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q20",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 27-year-old woman with HbSS wants to start a family. She takes hydroxycarbamide for recurrent crises and ramipril for microalbuminuria.",
+   "leadIn": "Which piece of pre-conception advice is correct?",
+   "options": [
+    "Stop hydroxycarbamide 3 months before trying to conceive",
+    "Continue hydroxycarbamide throughout pregnancy to prevent crises",
+    "Take folic acid 400 micrograms daily",
+    "Continue ramipril to protect her kidneys",
+    "Avoid aspirin in pregnancy because of bleeding risk"
+   ],
+   "answer": 0,
+   "explanation": "Davidson's Box 23.39: **stop hydroxycarbamide 3 months before conception** (it is teratogenic), stop ACE inhibitors, take **folic acid 5 mg** daily, and give aspirin 75 mg throughout pregnancy.",
+   "whyNot": [
+    "",
+    "Hydroxycarbamide is teratogenic and must be stopped before conception.",
+    "The high dose, 5 mg daily, is recommended in SCD.",
+    "ACE inhibitors should be stopped before conception.",
+    "Aspirin 75 mg is recommended throughout pregnancy to reduce placental failure."
+   ],
+   "studyRef": {
+    "sectionId": "heme-sickle-cell.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pediatrics",
+     "pdfPage": 797,
+     "page": 797
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q21",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 16-year-old with HbSS presents with a fever of 39 °C, cough and pleuritic chest pain. SpO2 is 90% on air and a new right middle zone opacity is seen.",
+   "leadIn": "Which antibiotic regimen is most appropriate?",
+   "options": [
+    "Cefotaxime plus clarithromycin",
+    "Oral amoxicillin alone",
+    "Flucloxacillin alone",
+    "Metronidazole alone",
+    "Oral nitrofurantoin"
+   ],
+   "answer": 0,
+   "explanation": "This is **acute chest syndrome**. Start antibiotics covering pneumococcus and atypical organisms (Mycoplasma, Chlamydia) at once, e.g. **cefotaxime plus clarithromycin**, with high-flow O2 and analgesia. Exchange transfuse if not improving.",
+   "whyNot": [
+    "",
+    "Oral amoxicillin alone misses atypical organisms and is not enough for a life-threatening syndrome.",
+    "Flucloxacillin covers staphylococci but not pneumococcus reliably or atypicals.",
+    "Metronidazole covers anaerobes only.",
+    "Nitrofurantoin is a urinary antiseptic."
+   ],
+   "studyRef": {
+    "sectionId": "heme-sickle-cell.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 369,
+     "page": 345
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Haematological disease",
+     "pdfPage": 254,
+     "page": 217
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pediatrics",
+     "pdfPage": 795,
+     "page": 795
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q22",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Infections in sickle cell disease",
+   "leadIn": "For each patient below, choose the most likely organism from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Staphylococcus aureus",
+    "Salmonella species",
+    "Streptococcus pneumoniae",
+    "Parvovirus B19",
+    "Mycoplasma pneumoniae",
+    "Haemophilus influenzae type b",
+    "Neisseria meningitidis",
+    "Escherichia coli",
+    "Plasmodium falciparum",
+    "Pseudomonas aeruginosa"
+   ],
+   "items": [
+    {
+     "stem": "A 9-year-old with HbSS has 5 days of fever and a hot, very tender distal femur. MRI shows marrow oedema with a subperiosteal collection. Which organism is statistically the most common cause?",
+     "answer": 0,
+     "explanation": "Salmonella is the classic association, but **Staph. aureus is still the most common cause** of osteomyelitis in SCD, with Salmonella second.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s6"
+     }
+    },
+    {
+     "stem": "A 5-year-old with HbSS who has not taken his penicillin for months becomes septic within hours, with purpura and hypotension. Gram-positive diplococci grow in the blood culture.",
+     "answer": 2,
+     "explanation": "Functional asplenia leaves patients exposed to encapsulated bacteria. Gram-positive diplococci are **Strep. pneumoniae**, which is why penicillin and pneumococcal vaccination matter.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s6"
+     }
+    },
+    {
+     "stem": "A 6-year-old with HbSS has a profound anaemia with almost no reticulocytes, a week after a mild febrile illness.",
+     "answer": 3,
+     "explanation": "A low-reticulocyte crisis is aplasia, caused by **parvovirus B19** infecting erythroid progenitors.",
+     "studyRef": {
+      "sectionId": "heme-sickle-cell.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "chapter": "Pediatrics",
+     "pdfPage": 796,
+     "page": 796
+    },
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 370,
+     "page": 346
+    },
+    {
+     "book": "kcEssentials",
+     "chapter": "Haematological disease",
+     "pdfPage": 252,
+     "page": 215
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q23",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 26-year-old woman of Ghanaian origin attends antenatal booking. Her full blood count is normal (MCV 88 fL, MCH 30 pg). The midwife says this rules out a haemoglobinopathy.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Request haemoglobin electrophoresis or a specific sickle screen",
+    "Reassure her that sickle trait has been excluded",
+    "Check serum ferritin",
+    "Repeat the full blood count at 28 weeks",
+    "Refer for chorionic villus sampling straight away"
+   ],
+   "answer": 0,
+   "explanation": "**Sickle trait cannot be detected on a blood count**: indices and film are normal, unlike β-thalassaemia trait. The lab needs a specific request (electrophoresis or sickle test). If she is a carrier, test her partner.",
+   "whyNot": [
+    "",
+    "A normal FBC does not exclude sickle trait.",
+    "Ferritin assesses iron stores, not haemoglobin variants.",
+    "A repeat FBC will be normal again in trait.",
+    "Fetal testing is offered only once both parents are known carriers."
+   ],
+   "studyRef": {
+    "sectionId": "heme-sickle-cell.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 372,
+     "page": 348
+    },
+    {
+     "book": "zerotofinals",
+     "chapter": "Haematology",
+     "pdfPage": 189,
+     "page": 189
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q24",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 16-year-old boy with HbSS has a normal creatinine and no proteinuria, but his mother notes he passes large volumes of urine day and night.",
+   "leadIn": "Which renal abnormality is the earliest to develop in sickle nephropathy?",
+   "options": [
+    "Loss of urine concentrating ability",
+    "Nephrotic-range proteinuria",
+    "Hypokalaemia from potassium wasting",
+    "Visible haematuria from renal stones",
+    "Fall in GFR from glomerulosclerosis"
+   ],
+   "answer": 0,
+   "explanation": "Red cells sickle in the hypoxic, hypertonic vasa recta. The **earliest change is loss of concentrating ability with polyuria**. Distal RTA and impaired potassium excretion (a tendency to high, not low, K+) are also typical, papillary necrosis can occur, and a minority reach ESRD.",
+   "whyNot": [
+    "",
+    "Heavy proteinuria is not the earliest change.",
+    "Potassium excretion is impaired, so hyperkalaemia is the tendency, not hypokalaemia.",
+    "Haematuria in SCD is usually from papillary necrosis or infarction, and it is not the first change.",
+    "A fall in GFR is late, occurring in a minority."
+   ],
+   "studyRef": {
+    "sectionId": "heme-sickle-cell.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "chapter": "Nephrology",
+     "pdfPage": 433,
+     "page": 411
+    },
+    {
+     "book": "fa2ck11",
+     "chapter": "Pediatrics",
+     "pdfPage": 795,
+     "page": 795
+    }
+   ]
+  },
+  {
+   "id": "heme-sickle-cell.q25",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 30-year-old man with HbSS needs a regular exchange transfusion programme after a stroke. The blood bank asks how to reduce his risk of red cell alloimmunisation.",
+   "leadIn": "Which blood-matching policy is most appropriate?",
+   "options": [
+    "Match for Rh and Kell antigens, ideally with full genotyping",
+    "Match for ABO and RhD only",
+    "Match for HLA class I antigens",
+    "Use any ABO-compatible blood that has been irradiated",
+    "Use group O RhD-negative blood for every transfusion"
+   ],
+   "answer": 0,
+   "explanation": "Donor–recipient ethnic mismatch makes alloantibodies common. Red cells should be **matched for Rh and Kell**, and ideally patients are **fully genotyped** before their first transfusion.",
+   "whyNot": [
+    "",
+    "ABO/RhD matching alone leaves a high risk of alloimmunisation to other Rh and Kell antigens.",
+    "HLA matching is for platelets or transplant, not red cell alloimmunisation.",
+    "Irradiation prevents transfusion-associated GvHD, not alloimmunisation.",
+    "O-negative blood does not address Kell or other Rh antigens."
+   ],
+   "studyRef": {
+    "sectionId": "heme-sickle-cell.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "chapter": "Haematology",
+     "pdfPage": 371,
+     "page": 347
+    },
+    {
+     "book": "davidson24",
+     "chapter": "Haematology",
+     "pdfPage": 975,
+     "page": 953
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "heme-sickle-cell.o1",
+   "sectionId": "heme-sickle-cell.s5",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Haematology",
+    "pdfPage": 369,
+    "page": 345,
+    "figure": "Fig. 16.22"
+   },
+   "identify": "Blood film: crescent-shaped **sickle cells** (arrowed) and **target cells**. Diagnosis: sickle cell anaemia (HbSS)."
+  },
+  {
+   "id": "heme-sickle-cell.o2",
+   "sectionId": "heme-sickle-cell.s5",
+   "cite": {
+    "book": "kcEssentials",
+    "chapter": "Haematological disease",
+    "pdfPage": 252,
+    "page": 215,
+    "figure": "Fig. 5.3"
+   },
+   "identify": "Film: sickle cells (arrowed) plus target (\"Mexican hat\") cells. Diagnosis: sickle cell disease."
+  },
+  {
+   "id": "heme-sickle-cell.o3",
+   "sectionId": "heme-sickle-cell.s5",
+   "cite": {
+    "book": "fa2ck11",
+    "chapter": "Pediatrics",
+    "pdfPage": 796,
+    "page": 796,
+    "figure": "FIGURE 2.12-24"
+   },
+   "identify": "(A) Sickle-shaped red cells; (B) **Howell–Jolly bodies**, a sign of functional hyposplenism or asplenia."
+  },
+  {
+   "id": "heme-sickle-cell.o4",
+   "sectionId": "heme-sickle-cell.s5",
+   "cite": {
+    "book": "kumar10",
+    "chapter": "Haematology",
+    "pdfPage": 371,
+    "page": 347,
+    "figure": "Fig. 16.23"
+   },
+   "identify": "Hb electrophoresis: **trait** shows both HbA and HbS bands; **sickle cell anaemia** shows HbS and HbF with **no HbA** band; β-thalassaemia major is mainly HbF."
+  },
+  {
+   "id": "heme-sickle-cell.o5",
+   "sectionId": "heme-sickle-cell.s4",
+   "cite": {
+    "book": "fa2ck11",
+    "chapter": "Pediatrics",
+    "pdfPage": 795,
+    "page": 795,
+    "figure": "FIGURE 2.12-23"
+   },
+   "identify": "CXR: bilateral lower and mid-zone opacities with mild cardiomegaly in a young sickle patient with chest pain. This is **acute chest syndrome**."
+  },
+  {
+   "id": "heme-sickle-cell.o6",
+   "sectionId": "heme-sickle-cell.s4",
+   "cite": {
+    "book": "davidson24",
+    "chapter": "Haematology",
+    "pdfPage": 974,
+    "page": 952,
+    "figure": "Fig. 23.22"
+   },
+   "identify": "Composite figure: the film shows sickle cells and a **nucleated red cell**; the electrophoresis gel separates HbA, HbS, HbC and HbF; the body map lists the organ complications."
+  },
+  {
+   "id": "heme-sickle-cell.o7",
+   "sectionId": "heme-sickle-cell.s5",
+   "cite": {
+    "book": "stepup6",
+    "chapter": "Hematology",
+    "pdfPage": 827,
+    "page": 827,
+    "figure": "FIGURE 9-7"
+   },
+   "identify": "Peripheral smear: numerous elongated, crescent-shaped **sickled red cells**. Diagnosis: sickle cell disease."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:33:06.632Z",
+  "contentHash": "a4bd0284df6eb8945735d3ca7ac5085dbd670584225928b4b693365ff970c51e"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:33:06.639Z",
+  "contentHash": "a4bd0284df6eb8945735d3ca7ac5085dbd670584225928b4b693365ff970c51e",
+  "checkerVersion": "source-check-v1"
+ }
+}

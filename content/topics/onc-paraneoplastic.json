@@ -1,0 +1,2867 @@
+{
+ "topicId": "onc-paraneoplastic",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "onc-paraneoplastic.s1",
+   "title": "Definition and why paraneoplastic syndromes matter",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "A **paraneoplastic syndrome** is a clinical disturbance caused by a cancer **indirectly**, that is, not by the bulk of the primary tumour pressing on or invading tissue and **not by metastases**. The effect is carried by something the tumour makes (a hormone, peptide or cytokine) or by the immune response the tumour provokes. Each syndrome tends to track with particular tumour types, and it may **settle once the cancer is treated**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 125,
+       "page": 104
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 290,
+       "page": 253
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "For the nervous system the definition is the same idea: neurological dysfunction in a patient with a systemic malignancy when imaging and CSF show **no cerebral metastasis** to explain it.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1132,
+       "page": 1110
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Why examiners care",
+     "items": [
+      "Weight loss, sweats, fever and fatigue usually signal **advanced** cancer, but paraneoplastic and ectopic hormone syndromes are the exception: they can flag a **small, early** tumour.",
+      "A metabolic upset (e.g. hyponatraemia, hypercalcaemia, hypokalaemic Cushing's) may be the **first presentation** of a cancer.",
+      "Neurological paraneoplastic disease **comes before** the cancer is found in about **half** of cases.",
+      "A venous thrombosis may be the first clue to an occult cancer."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 125,
+       "page": 104
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1133,
+       "page": 1111
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1346,
+       "page": 1324
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Apart from **finger clubbing**, non-metastatic manifestations of lung cancer are individually **rare**; vague malaise, lethargy and weight loss are far more common.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 592,
+       "page": 555
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Do not label a feature \"paraneoplastic\" if it is explained by local spread or metastasis. Hypercalcaemia from **bone metastases** (~20% of malignant hypercalcaemia) is a metastatic effect; hypercalcaemia from **PTHrP** (~80%) is paraneoplastic.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.s2",
+   "title": "Pathogenesis: how a tumour acts at a distance",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three routes by which a tumour causes paraneoplastic disease\">\n<defs><marker id=\"a\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#555\"/></marker></defs>\n<rect x=\"240\" y=\"10\" width=\"160\" height=\"50\" rx=\"8\" fill=\"#fde2e2\" stroke=\"#b33\" stroke-width=\"2\"/>\n<text x=\"320\" y=\"32\" text-anchor=\"middle\" font-size=\"14\" font-family=\"sans-serif\" font-weight=\"bold\">Primary tumour</text>\n<text x=\"320\" y=\"50\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">(no metastasis needed)</text>\n<line x1=\"270\" y1=\"60\" x2=\"110\" y2=\"120\" stroke=\"#555\" stroke-width=\"2\" marker-end=\"url(#a)\"/>\n<line x1=\"320\" y1=\"60\" x2=\"320\" y2=\"120\" stroke=\"#555\" stroke-width=\"2\" marker-end=\"url(#a)\"/>\n<line x1=\"370\" y1=\"60\" x2=\"530\" y2=\"120\" stroke=\"#555\" stroke-width=\"2\" marker-end=\"url(#a)\"/>\n<rect x=\"10\" y=\"122\" width=\"200\" height=\"60\" rx=\"6\" fill=\"#e3effd\" stroke=\"#3a6ea5\"/>\n<text x=\"110\" y=\"145\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\" font-weight=\"bold\">1. Ectopic hormones</text>\n<text x=\"110\" y=\"165\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">ACTH, ADH, PTHrP, EPO, FGF-23</text>\n<rect x=\"220\" y=\"122\" width=\"200\" height=\"60\" rx=\"6\" fill=\"#e6f5e6\" stroke=\"#3a7d3a\"/>\n<text x=\"320\" y=\"145\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\" font-weight=\"bold\">2. Immune cross-reaction</text>\n<text x=\"320\" y=\"165\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">onconeural antibodies, T cells</text>\n<rect x=\"430\" y=\"122\" width=\"200\" height=\"60\" rx=\"6\" fill=\"#fff4dc\" stroke=\"#a87b16\"/>\n<text x=\"530\" y=\"145\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\" font-weight=\"bold\">3. Cytokines / procoagulants</text>\n<text x=\"530\" y=\"165\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">TNF, tissue factor</text>\n<line x1=\"110\" y1=\"182\" x2=\"110\" y2=\"222\" stroke=\"#555\" stroke-width=\"2\" marker-end=\"url(#a)\"/>\n<line x1=\"320\" y1=\"182\" x2=\"320\" y2=\"222\" stroke=\"#555\" stroke-width=\"2\" marker-end=\"url(#a)\"/>\n<line x1=\"530\" y1=\"182\" x2=\"530\" y2=\"222\" stroke=\"#555\" stroke-width=\"2\" marker-end=\"url(#a)\"/>\n<text x=\"110\" y=\"240\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">Cushing's, hyponatraemia,</text>\n<text x=\"110\" y=\"256\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">hypercalcaemia, polycythaemia,</text>\n<text x=\"110\" y=\"272\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">osteomalacia</text>\n<text x=\"320\" y=\"240\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">LEMS, cerebellar degeneration,</text>\n<text x=\"320\" y=\"256\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">encephalomyelitis, neuropathy,</text>\n<text x=\"320\" y=\"272\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">membranous GN</text>\n<text x=\"530\" y=\"240\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">cachexia, fever,</text>\n<text x=\"530\" y=\"256\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">Trousseau's, DVT/PE, DIC</text>\n</svg>",
+     "alt": "Diagram: a tumour acts at a distance by three routes: ectopic hormones (endocrine syndromes), immune cross-reaction via onconeural antibodies (neurological and renal syndromes), and cytokines or procoagulants (cachexia, fever, thrombosis).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1132,
+       "page": 1110
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1346,
+       "page": 1324
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 125,
+       "page": 104
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "The main mechanisms",
+     "columns": [
+      "Mechanism",
+      "What happens",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Ectopic hormone secretion",
+       "Tumour cells make a hormone or hormone-like peptide that normal tissue of that origin does not secrete",
+       "ACTH and ADH (SCLC), PTHrP (squamous NSCLC, breast, kidney), EPO, FGF-23, insulin"
+      ],
+      [
+       "Immune cross-reactivity",
+       "Tumour expresses antigens shared with nerve or muscle; antibodies and lymphocytes attack the normal tissue",
+       "Anti-Hu, anti-Yo, anti-VGCC (LEMS); biopsy shows lymphocytic infiltrate"
+      ],
+      [
+       "Cytokine release",
+       "TNF and other mediators plus anorexia",
+       "Cachexia, fever"
+      ],
+      [
+       "Procoagulant activity",
+       "Tissue factor, cancer procoagulant and cytokines activate clotting; inhibitors fall and fibrinolysis is impaired",
+       "DVT/PE, migratory thrombophlebitis, DIC"
+      ],
+      [
+       "Immune skewing / immune complexes",
+       "Th2-biased immunity or subepithelial IgG deposits in glomeruli",
+       "Minimal change (Hodgkin, thymoma); membranous nephropathy (carcinomas)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1132,
+       "page": 1110
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 125,
+       "page": 104
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1346,
+       "page": 1324
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1381,
+       "page": 1368
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Onconeural immunity.** In most paraneoplastic neurological disease the tumour produces antigens that are also present in parts of the nervous system. The resulting antibodies (found in serum and/or CSF) mark the syndrome, and affected neural tissue shows **lymphocytic infiltration**. Encephalomyelitis reflects **perivascular inflammation** with selective neuronal loss.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1132,
+       "page": 1110
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Small cell lung cancer** comes from neuroendocrine (Kulchitsky) cells, which explains its habit of secreting polypeptide hormones; about 10% of small cell tumours produce an ectopic hormone syndrome.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 592,
+       "page": 555
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Ectopic ACTH** escapes the cortisol negative feedback that a pituitary adenoma partly keeps, so ACTH and cortisol run **higher** than in Cushing's disease. The very high ACTH causes **pigmentation**, and the cortisol excess overwhelms renal 11β-HSD2 so cortisol acts on mineralocorticoid receptors, giving **hypokalaemic alkalosis**. Onset with a malignant tumour is rapid and often with cachexia, so the classic Cushingoid habitus is less common.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 689,
+       "page": 667
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Mechanisms of hypercalcaemia in cancer",
+     "columns": [
+      "Mechanism",
+      "Share",
+      "Typical tumours"
+     ],
+     "rows": [
+      [
+       "PTHrP (humoral): binds the PTH receptor, increases osteoclastic resorption and renal tubular Ca reabsorption",
+       "~80%",
+       "Squamous carcinomas (lung, head and neck), breast, kidney, bladder"
+      ],
+      [
+       "Direct bone destruction by metastases / local osteolysis",
+       "~20%",
+       "Breast, myeloma"
+      ],
+      [
+       "Cytokine-driven osteoclast activation",
+       "Minor",
+       "Haematological malignancy"
+      ],
+      [
+       "Raised 1,25-(OH)₂ vitamin D",
+       "Rare",
+       "Some lymphomas"
+      ],
+      [
+       "True ectopic PTH",
+       "Rare",
+       "—"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 500,
+       "page": 500
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 216,
+       "page": 216
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Kumar's text describes LEMS as tumour antigens cross-reacting with **acetylcholine receptors**, but its own table and Davidson's give the target as **presynaptic voltage-gated calcium channels (VGCC)**. Follow Davidson: **anti-VGCC = LEMS**; anti-AChR = myasthenia gravis (thymoma).",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 125,
+       "page": 104
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 126,
+       "page": 105
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1165,
+       "page": 1143
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1133,
+       "page": 1111
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Cancer also suppresses immunity, so latent infections such as **herpes zoster** and **TB** can reactivate.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 125,
+       "page": 104
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.s3",
+   "title": "Endocrine and metabolic syndromes",
+   "objectiveIdx": [
+    2,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Ectopic hormones and their tumours (Davidson)",
+     "columns": [
+      "Hormone",
+      "Result",
+      "Classic tumours"
+     ],
+     "rows": [
+      [
+       "ACTH",
+       "Cushing's syndrome (often hypokalaemia, pigmentation)",
+       "SCLC; also carcinoid, islet cell tumours, medullary thyroid cancer, phaeochromocytoma"
+      ],
+      [
+       "ADH (vasopressin)",
+       "SIADH: euvolaemic hyponatraemia",
+       "SCLC"
+      ],
+      [
+       "PTHrP",
+       "Hypercalcaemia",
+       "Squamous NSCLC, breast, kidney"
+      ],
+      [
+       "Erythropoietin",
+       "Polycythaemia / erythrocytosis",
+       "Kidney (RCC), hepatoma (HCC), cerebellar haemangioblastoma, uterine fibroids"
+      ],
+      [
+       "FGF-23",
+       "Hypophosphataemic osteomalacia",
+       "Mesenchymal tumours"
+      ],
+      [
+       "hCG-like",
+       "Gynaecomastia",
+       "Lung carcinoma"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 489,
+       "page": 489
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 593,
+       "page": 556
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 623,
+       "page": 601
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Hypercalcaemia of malignancy",
+     "items": [
+      "The **commonest metabolic complication** of cancer, affecting up to **20%** of patients.",
+      "Highest incidence in **myeloma and breast cancer** (~40%), intermediate in NSCLC, **uncommon** in SCLC, colon and prostate cancer.",
+      "Symptoms are vague and mimic the cancer: drowsiness, delirium, nausea/vomiting, constipation, polyuria, polydipsia, dehydration.",
+      "Diagnose on **albumin-adjusted** total calcium: hypoalbuminaemia is common in cancer, so the raw total underestimates ionised calcium.",
+      "With a **low PTH**, check PTHrP and vitamin D metabolites and look for the cancer (CT, mammogram, serum/urine protein electrophoresis).",
+      "New hypercalcaemia often means **tumour progression**, so restage."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 501,
+       "page": 501
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Severe hypercalcaemia: Davidson Box 33.13",
+     "columns": [
+      "Step",
+      "Detail"
+     ],
+     "rows": [
+      [
+       "Rehydrate",
+       "IV 0.9% saline 2–4 L/day (improves renal function and calcium excretion)"
+      ],
+      [
+       "Bisphosphonate",
+       "Zoledronic acid 4 mg IV or pamidronate 60–90 mg IV; normalises calcium within ~5 days, lasts up to 4 weeks, can be repeated every 3–4 weeks"
+      ],
+      [
+       "Life-threatening",
+       "Add calcitonin for the first 24–48 h (fast onset)"
+      ],
+      [
+       "Refractory to zoledronic acid",
+       "Denosumab 60 mg SC"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "SIADH from a tumour",
+     "items": [
+      "Seen in roughly **10% of SCLC** patients and usually with small cell histology.",
+      "Biochemistry: serum osmolality **<280 mOsm/kg**, urine osmolality **>100 mOsm/kg** with no physiological ADH trigger, euvolaemia, urine Na often **≥40 mmol/L**.",
+      "Treat the cause; **fluid restriction** first; hypertonic saline for severe or symptomatic hyponatraemia; vaptans (tolvaptan, conivaptan) or demeclocycline in selected cases.",
+      "Correct **slowly** to avoid osmotic demyelination."
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 196,
+       "page": 196
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 623,
+       "page": 601
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 224,
+       "page": 224
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Biochemical localisation of ACTH-dependent Cushing's",
+     "columns": [
+      "Source",
+      "ACTH",
+      "High-dose dexamethasone (8 mg)",
+      "CRH test"
+     ],
+     "rows": [
+      [
+       "Pituitary (Cushing's disease)",
+       "High",
+       "Cortisol suppresses by >50%",
+       "Rise"
+      ],
+      [
+       "Ectopic ACTH tumour",
+       "High (often very high)",
+       "No suppression",
+       "No response"
+      ],
+      [
+       "Adrenal tumour",
+       "Low",
+       "No suppression",
+       "No response"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 494,
+       "page": 494
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 689,
+       "page": 667
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Histology trap: **SIADH and ectopic ACTH = small cell**; **PTHrP hypercalcaemia = squamous cell**. SCLC is actually an **uncommon** cause of hypercalcaemia. The hormone is PTH-**related** peptide, not PTH itself; serum PTH is suppressed.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 387,
+       "page": 387
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 197,
+       "page": 197
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 501,
+       "page": 501
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Kumar's table lists renal, breast, myeloma and **lymphoma** for hypercalcaemia; Davidson stresses **myeloma and breast** (~40% each) and attributes PTHrP to squamous lung, breast and kidney. Know both lists, but quote Davidson's percentages.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 126,
+       "page": 105
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.s4",
+   "title": "Neurological syndromes and onconeural antibodies",
+   "objectiveIdx": [
+    2,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Neurological paraneoplastic syndromes are classically linked to **lung cancer** of either main type (SCLC or NSCLC); cancers of the pancreas, breast, prostate and ovary and lymphoma are also implicated, and Davidson's neurology chapter highlights **SCLC, ovarian tumours and lymphoma**. They usually evolve over a few months and may affect any level from cortex to muscle.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1132,
+       "page": 1110
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1133,
+       "page": 1111
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Key syndromes",
+     "columns": [
+      "Syndrome",
+      "Clinical clue",
+      "Tumour",
+      "Antibody"
+     ],
+     "rows": [
+      [
+       "Lambert–Eaton myasthenic syndrome",
+       "Proximal weakness that **improves with exercise**; absent reflexes return after sustained contraction; dry mouth and other autonomic signs",
+       "SCLC (cancer in ~60%)",
+       "Anti-VGCC (P/Q type)"
+      ],
+      [
+       "Subacute cerebellar degeneration",
+       "Rapid-onset ataxia; scan may show cerebellar atrophy",
+       "Breast, ovary (anti-Yo); SCLC (anti-Hu); lymphoma (anti-Tr)",
+       "Anti-Yo, anti-Hu, anti-Tr"
+      ],
+      [
+       "Encephalomyelitis",
+       "Varied by region; CSF raised protein and lymphocytes; meningeal enhancement esp. brainstem",
+       "SCLC in ~75%",
+       "Anti-Hu"
+      ],
+      [
+       "Limbic encephalitis",
+       "Encephalitis centred on the limbic system",
+       "SCLC; testicular (anti-Ma2); ovarian/testicular teratoma (anti-NMDAR)",
+       "Anti-Hu, anti-Ma2, anti-NMDAR"
+      ],
+      [
+       "Sensory / sensorimotor neuropathy",
+       "Subacute sensory loss; small-muscle wasting of the hands",
+       "SCLC, lymphoma",
+       "Anti-Hu, anti-CV2"
+      ],
+      [
+       "Opsoclonus–myoclonus",
+       "Chaotic eye movements, jerks",
+       "Breast/ovary; SCLC; neuroblastoma in children",
+       "Anti-Ri (breast); anti-Hu (neuroblastoma)"
+      ],
+      [
+       "Stiff person syndrome",
+       "Axial rigidity and spasms",
+       "Breast, SCLC, thymoma",
+       "Anti-amphiphysin, anti-GAD"
+      ],
+      [
+       "Retinopathy",
+       "Blurring, episodic visual loss, poor colour vision",
+       "SCLC",
+       "Anti-recoverin"
+      ],
+      [
+       "Myasthenia gravis / neuromyotonia",
+       "Fatigable weakness / muscle hyperactivity",
+       "Thymoma (± SCLC for neuromyotonia)",
+       "Anti-AChR / anti-VGKC"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1133,
+       "page": 1111
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1348,
+       "page": 1326
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1165,
+       "page": 1143
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Lambert–Eaton: diagnosis and treatment",
+     "items": [
+      "Antibodies to **presynaptic VGCC** reduce acetylcholine release at the neuromuscular junction and autonomic terminals.",
+      "First test: **anti-P/Q VGCC antibodies**. Most accurate: **EMG/repetitive stimulation** — a low-amplitude compound muscle action potential that **increments** to near-normal after exercise or 20–50 Hz stimulation (myasthenia shows a decrement).",
+      "**CT chest** (± PET) to find the SCLC.",
+      "Treat the tumour; **3,4-diaminopyridine** (amifampridine) boosts ACh release; pyridostigmine; IVIG/immunosuppression if persistent."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1348,
+       "page": 1326
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1165,
+       "page": 1143
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 556,
+       "page": 556
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Work-up and treatment of CNS syndromes",
+     "items": [
+      "A **characteristic antibody** with a compatible picture can be diagnostic; antibodies are not fully specific and a **negative result does not exclude** the diagnosis.",
+      "CSF: raised protein, lymphocytes and **oligoclonal bands**.",
+      "The tumour may be **tiny**: CT chest/abdomen or **PET** may be needed.",
+      "Treat the primary tumour; this occasionally improves the syndrome. **IVIG** may help a little."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1133,
+       "page": 1111
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Think paraneoplastic for **any unusual, progressive neurological syndrome** developing over weeks to months, especially in a smoker.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1133,
+       "page": 1111
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "LEMS vs myasthenia: LEMS starts in the **limbs** (proximal legs), **improves** with effort, has **reduced/absent reflexes** and autonomic features. Squamous cell, large cell and carcinoid lung tumours are **not** the LEMS tumours — it is **small cell**.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 834,
+       "page": 797
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 556,
+       "page": 556
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 197,
+       "page": 197
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Anti-Yo: Kumar's table links it to lung and lymphoma, but Davidson ties **anti-Yo to breast and ovarian** cancer (gynaecological), and **anti-Tr to lymphoma**. Use Davidson's pairing.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 126,
+       "page": 105
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1133,
+       "page": 1111
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 127,
+      "page": 106,
+      "figure": "Fig. 6.7"
+     },
+     "note": "Look at: wasting of the small hand muscles in paraneoplastic peripheral neuropathy."
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.s5",
+   "title": "Haematological, skin, musculoskeletal and renal syndromes",
+   "objectiveIdx": [
+    2,
+    1
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Haematological",
+     "items": [
+      "**Prothrombotic state**: ovary, pancreas, GI tract (Davidson); DVT/PE especially with pancreas, stomach and breast (Kumar).",
+      "**Trousseau's syndrome** = migratory superficial thrombophlebitis appearing at different sites over a short period; think **pancreatic** cancer (it develops in about 10% of pancreatic cancers).",
+      "About **18%** of patients with recurrent PE have an underlying cancer.",
+      "Lung cancer: thrombophlebitis migrans, non-bacterial thrombotic endocarditis, DIC, TTP, haemolytic anaemia.",
+      "Erythrocytosis: RCC, HCC, cerebellar haemangioblastoma. Thrombocytosis: ovarian cancer.",
+      "All inpatients with active cancer are high VTE risk and get prophylaxis (e.g. SC LMWH) unless contraindicated."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 125,
+       "page": 104
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 126,
+       "page": 105
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 151,
+       "page": 151
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 365,
+       "page": 365
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 996,
+       "page": 978
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Cutaneous markers of internal cancer",
+     "columns": [
+      "Skin sign",
+      "Description",
+      "Tumour"
+     ],
+     "rows": [
+      [
+       "Acanthosis nigricans",
+       "Velvety, thickened, hyperpigmented flexural skin; may precede cancer by years",
+       "Gastric (and other GI adenocarcinoma); also oesophagus"
+      ],
+      [
+       "Tripe (velvet) palms",
+       "Thickened, furrowed palms",
+       "Gastric, lung"
+      ],
+      [
+       "Tylosis",
+       "Thickened palms and soles",
+       "Oesophageal carcinoma"
+      ],
+      [
+       "Necrolytic migratory erythema",
+       "Burning, spreading annular erythema",
+       "Glucagonoma"
+      ],
+      [
+       "Erythema gyratum repens",
+       "Rapidly shifting concentric rings",
+       "Lung, breast"
+      ],
+      [
+       "Acquired ichthyosis",
+       "Dry, flaking skin",
+       "Lymphoma"
+      ],
+      [
+       "Dermatomyositis",
+       "Heliotrope/photosensitive rash with proximal myopathy",
+       "Stomach, lung (also breast, GI)"
+      ],
+      [
+       "Paraneoplastic pemphigus",
+       "Painful oral erosions plus polymorphic rash",
+       "Lymphoproliferative neoplasm"
+      ],
+      [
+       "Pruritus",
+       "Itch without rash",
+       "Lymphoma, leukaemia, CNS tumours"
+      ],
+      [
+       "Vitiligo",
+       "Depigmentation",
+       "Melanoma"
+      ],
+      [
+       "Dermatitis herpetiformis",
+       "Itchy vesicles (coeliac disease)",
+       "GI lymphoma, years later"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 707,
+       "page": 685
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 708,
+       "page": 686
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1348,
+       "page": 1326
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 176,
+       "page": 176
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Acanthosis nigricans** is usually due to insulin resistance/diabetes, obesity, PCOS or Cushing's. When none of these explains it, think of an underlying **GI adenocarcinoma, especially gastric**; it may appear years before the cancer.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 176,
+       "page": 176
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 855,
+       "page": 818
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1348,
+       "page": 1326
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "fa2ck11",
+      "pdfPage": 175,
+      "page": 175,
+      "figure": "FIGURE 2.2-34"
+     },
+     "note": "Look at: velvety dark-brown axillary skin thickening — acanthosis nigricans."
+    },
+    {
+     "type": "bullets",
+     "title": "Musculoskeletal",
+     "items": [
+      "**Clubbing**: the commonest non-metastatic sign of lung cancer (NSCLC).",
+      "**Hypertrophic pulmonary osteoarthropathy (HPOA)**: painful periostitis of the distal tibia, fibula, radius and ulna, with tenderness and sometimes shin oedema; X-ray shows **subperiosteal new bone**. Mostly lung cancer (NSCLC) but seen with other tumours.",
+      "**Dermatomyositis/polymyositis** may be the first sign of cancer."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 622,
+       "page": 600
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 623,
+       "page": 601
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 126,
+       "page": 105
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 592,
+       "page": 555
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 387,
+       "page": 387
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1348,
+       "page": 1326
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Renal",
+     "items": [
+      "**Membranous nephropathy** (often nephrotic) with solid carcinomas — lung, stomach, colon; subepithelial IgG1/IgG2 deposits.",
+      "**Minimal change disease** with Hodgkin lymphoma or thymoma (Th2 skew, possibly IL-13).",
+      "**Amyloidosis** with nephrotic syndrome in myeloma.",
+      "Nephrotic syndrome is listed among lung cancer's non-metastatic effects."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 126,
+       "page": 105
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1381,
+       "page": 1368
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 623,
+       "page": 601
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Sources disagree on **HPOA** histology (adenocarcinoma in one, adeno and squamous in another, NSCLC in Kumar). Safe exam answer: HPOA and clubbing are **NSCLC**, not small cell. Dermatomyositis tumours also vary by source: Davidson oncology gives **stomach and lung**, its neurology table **lung and breast**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 622,
+       "page": 600
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 126,
+       "page": 105
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 387,
+       "page": 387
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 197,
+       "page": 197
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1133,
+       "page": 1111
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.s6",
+   "title": "Tumour-by-tumour associations: exam map",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Lung cancer by histology",
+     "columns": [
+      "Histology",
+      "Paraneoplastic associations"
+     ],
+     "rows": [
+      [
+       "Small cell (SCLC)",
+       "SIADH, ectopic ACTH, LEMS, most neurological syndromes (anti-Hu encephalomyelitis, cerebellar degeneration, sensory neuropathy, retinopathy)"
+      ],
+      [
+       "Squamous cell",
+       "PTHrP hypercalcaemia"
+      ],
+      [
+       "Adenocarcinoma",
+       "Hypercoagulability, DIC; HPOA"
+      ],
+      [
+       "NSCLC in general",
+       "Clubbing, HPOA"
+      ],
+      [
+       "Any type",
+       "Neurological syndromes can occur with any histology; gynaecomastia, nephrotic syndrome, dermatomyositis, eosinophilia"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 623,
+       "page": 601
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 387,
+       "page": 387
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 388,
+       "page": 388
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 197,
+       "page": 197
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 126,
+       "page": 105
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Abdominal solid tumours",
+     "columns": [
+      "Tumour",
+      "Associations"
+     ],
+     "rows": [
+      [
+       "Renal cell carcinoma",
+       "EPO (polycythaemia), PTHrP (hypercalcaemia), renin (hypertension), cortisol, gonadotrophins; fever, anaemia, thrombocytosis, cachexia"
+      ],
+      [
+       "Hepatocellular carcinoma",
+       "Erythrocytosis, thrombocytosis, hypercalcaemia, hypoglycaemia, hypercholesterolaemia"
+      ],
+      [
+       "Pancreatic adenocarcinoma",
+       "Trousseau's migratory thrombophlebitis (~10%), new-onset atypical diabetes (~25%)"
+      ],
+      [
+       "Gastric carcinoma",
+       "Acanthosis nigricans, Trousseau's, dermatomyositis (all rare)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 728,
+       "page": 728
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 991,
+       "page": 991
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 319,
+       "page": 319
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 402,
+       "page": 402
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 365,
+       "page": 365
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 826,
+       "page": 804
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Other tumours",
+     "columns": [
+      "Tumour",
+      "Associations"
+     ],
+     "rows": [
+      [
+       "Breast / ovary",
+       "Anti-Yo cerebellar degeneration, anti-Ri opsoclonus; breast: hypercalcaemia; ovary: prothrombotic state, thrombocytosis"
+      ],
+      [
+       "Ovarian / testicular teratoma",
+       "Anti-NMDAR limbic encephalitis"
+      ],
+      [
+       "Thymoma",
+       "Myasthenia gravis, neuromyotonia, minimal change disease"
+      ],
+      [
+       "Lymphoma",
+       "Fever, pruritus, anti-Tr cerebellar degeneration, minimal change disease (Hodgkin)"
+      ],
+      [
+       "Myeloma",
+       "Hypercalcaemia (~40%), amyloid with nephrotic syndrome"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1133,
+       "page": 1111
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 126,
+       "page": 105
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1381,
+       "page": 1368
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1348,
+       "page": 1326
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Quick recall: **small cell secretes** (SIADH, ACTH, plus most onconeural syndromes); **squamous raises calcium** (PTHrP). Davidson's erythropoietin producers are kidney, liver (hepatoma), cerebellar haemangioblastoma and uterine fibroids.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1347,
+       "page": 1325
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1349,
+       "page": 1327
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A paraneoplastic syndrome does not imply metastatic disease: the tumour may be **small and curable**, so a full search (CT ± PET) is justified.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1133,
+       "page": 1111
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 125,
+       "page": 104
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "onc-paraneoplastic.c1",
+   "sectionId": "onc-paraneoplastic.s1",
+   "front": "What defines a paraneoplastic syndrome?",
+   "back": "A remote effect of a cancer not caused by local tumour invasion or metastasis — mediated by tumour products (hormones, cytokines) or an anti-tumour immune response.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 125,
+     "page": 104
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 290,
+     "page": 253
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.c2",
+   "sectionId": "onc-paraneoplastic.s2",
+   "front": "Main mechanism of most paraneoplastic neurological disease?",
+   "back": "Tumour antigens provoke antibodies (and lymphocytes) that cross-react with neural tissue; biopsy shows lymphocytic infiltrate.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1132,
+     "page": 1110
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.c3",
+   "sectionId": "onc-paraneoplastic.s2",
+   "front": "Proportion of malignant hypercalcaemia caused by PTHrP vs bone metastases?",
+   "back": "PTHrP ~80%; direct bone invasion ~20%; ectopic PTH rare.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.c4",
+   "sectionId": "onc-paraneoplastic.s3",
+   "front": "Which lung cancer histology causes SIADH and ectopic ACTH?",
+   "back": "Small cell lung cancer.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 623,
+     "page": 601
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.c5",
+   "sectionId": "onc-paraneoplastic.s3",
+   "front": "Which lung cancer histology classically causes PTHrP hypercalcaemia?",
+   "back": "Squamous cell carcinoma (NSCLC).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 197,
+     "page": 197
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.c6",
+   "sectionId": "onc-paraneoplastic.s3",
+   "front": "Which cancers have the highest incidence of hypercalcaemia (Davidson)?",
+   "back": "Myeloma and breast (~40%); uncommon in SCLC, colon, prostate.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.c7",
+   "sectionId": "onc-paraneoplastic.s3",
+   "front": "Tumours that secrete erythropoietin (Davidson Box 33.9)?",
+   "back": "Kidney, hepatoma, cerebellar haemangioblastoma, uterine fibroids.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.c8",
+   "sectionId": "onc-paraneoplastic.s3",
+   "front": "First-line drug therapy for severe hypercalcaemia of malignancy after IV saline?",
+   "back": "IV bisphosphonate: zoledronic acid 4 mg or pamidronate 60–90 mg (denosumab if refractory).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.c9",
+   "sectionId": "onc-paraneoplastic.s4",
+   "front": "LEMS: antibody target and tumour?",
+   "back": "Presynaptic voltage-gated calcium channels; small cell lung cancer (cancer in ~60%).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1165,
+     "page": 1143
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.c10",
+   "sectionId": "onc-paraneoplastic.s4",
+   "front": "LEMS EMG finding?",
+   "back": "Low-amplitude CMAP that increments to near-normal after exercise / high-rate (20–50 Hz) stimulation.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1348,
+     "page": 1326
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1165,
+     "page": 1143
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.c11",
+   "sectionId": "onc-paraneoplastic.s4",
+   "front": "Anti-Yo antibody: syndrome and tumours?",
+   "back": "Cerebellar degeneration; breast and ovarian cancer (Davidson).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1133,
+     "page": 1111
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.c12",
+   "sectionId": "onc-paraneoplastic.s5",
+   "front": "Trousseau's syndrome?",
+   "back": "Migratory superficial thrombophlebitis signalling occult cancer, classically pancreatic.",
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 151,
+     "page": 151
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 125,
+     "page": 104
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.c13",
+   "sectionId": "onc-paraneoplastic.s5",
+   "front": "Acanthosis nigricans as a paraneoplastic sign — which cancer?",
+   "back": "Gastric (GI) adenocarcinoma; may precede the cancer by years.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1348,
+     "page": 1326
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 176,
+     "page": 176
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.c14",
+   "sectionId": "onc-paraneoplastic.s5",
+   "front": "HPOA: features?",
+   "back": "Painful periostitis of distal tibia/fibula/radius/ulna with subperiosteal new bone on X-ray; mostly lung cancer (NSCLC).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 622,
+     "page": 600
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 623,
+     "page": 601
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 126,
+     "page": 105
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.c15",
+   "sectionId": "onc-paraneoplastic.s6",
+   "front": "Renal cell carcinoma ectopic products?",
+   "back": "EPO, PTHrP, renin, cortisol, gonadotrophins.",
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 728,
+     "page": 728
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "onc-paraneoplastic.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 66-year-old ex-smoker has a 2 cm lung mass. Which of his findings is best described as a **paraneoplastic** manifestation rather than a local or metastatic effect?",
+   "leadIn": "Choose the single best answer.",
+   "options": [
+    "Hoarse voice from recurrent laryngeal nerve palsy",
+    "Serum sodium of 121 mmol/L with concentrated urine",
+    "Right-sided ptosis and miosis",
+    "Headache with a ring-enhancing lesion on brain MRI",
+    "Swollen face and distended neck veins"
+   ],
+   "answer": 1,
+   "explanation": "Hyponatraemia from ectopic ADH (SIADH) is caused by a tumour product acting at a distance — the definition of a paraneoplastic syndrome. The other options are due to direct invasion, compression or metastasis.",
+   "whyNot": [
+    "Recurrent laryngeal nerve palsy is local invasion of the nerve.",
+    "",
+    "Horner's syndrome is local invasion of the sympathetic chain (apical tumour).",
+    "A ring-enhancing brain lesion is a metastasis.",
+    "SVC obstruction is local compression."
+   ],
+   "studyRef": {
+    "sectionId": "onc-paraneoplastic.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 125,
+     "page": 104
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 623,
+     "page": 601
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 622,
+     "page": 600
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 58-year-old woman develops progressive unsteadiness and slurred speech over 6 weeks. MRI brain shows no mass. A chest CT and mammogram are normal. Antibody screening is positive for anti-Yo.",
+   "leadIn": "Which statement about her condition is most accurate?",
+   "options": [
+    "The normal imaging excludes an underlying malignancy",
+    "The neurological disorder commonly precedes detection of the tumour",
+    "It is caused by cerebellar metastases too small to be seen",
+    "It usually indicates widespread disseminated cancer",
+    "A negative antibody test would have excluded the diagnosis"
+   ],
+   "answer": 1,
+   "explanation": "Paraneoplastic neurological syndromes precede the cancer in about half of cases, and the culprit tumour (here likely breast or ovary) may be tiny — so continue searching, e.g. with pelvic imaging or PET.",
+   "whyNot": [
+    "The causative tumour can be very small; further imaging (CT abdomen/pelvis, PET) is needed.",
+    "",
+    "By definition there are no cerebral metastases in paraneoplastic neurological disease.",
+    "Paraneoplastic syndromes can flag early, curable tumours.",
+    "Antibodies are not completely specific or sensitive; a negative result does not exclude the diagnosis."
+   ],
+   "studyRef": {
+    "sectionId": "onc-paraneoplastic.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1133,
+     "page": 1111
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1132,
+     "page": 1110
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q3",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Mechanisms of paraneoplastic disease",
+   "leadIn": "For each clinical scenario, choose the mechanism most responsible. Any option can be picked for several items, or for none.",
+   "options": [
+    "Ectopic ACTH secretion",
+    "Ectopic ADH secretion",
+    "PTH-related peptide secretion",
+    "Direct bone destruction by metastases",
+    "Antibodies to presynaptic calcium channels",
+    "Antibodies to postsynaptic acetylcholine receptors",
+    "Tissue factor–driven coagulation activation",
+    "TNF release with anorexia",
+    "Erythropoietin secretion",
+    "FGF-23 secretion"
+   ],
+   "items": [
+    {
+     "stem": "A 61-year-old man with a squamous cell lung carcinoma is confused and constipated. Adjusted calcium is 3.4 mmol/L, PTH is suppressed, and an isotope bone scan is normal.",
+     "answer": 2,
+     "explanation": "Squamous lung cancer with high calcium, low PTH and no bone metastases = humoral hypercalcaemia due to PTHrP (~80% of malignant hypercalcaemia).",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s2"
+     }
+    },
+    {
+     "stem": "A 70-year-old woman with known pancreatic cancer develops tender red cords on her left forearm and then her right thigh over 2 weeks.",
+     "answer": 6,
+     "explanation": "Migratory thrombophlebitis (Trousseau's) reflects tumour activation of coagulation via tissue factor and cancer procoagulant.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s2"
+     }
+    },
+    {
+     "stem": "A 55-year-old smoker has weakness climbing stairs that eases after repeated effort, a dry mouth and absent knee jerks that appear after he contracts his quadriceps.",
+     "answer": 4,
+     "explanation": "LEMS: antibodies to presynaptic voltage-gated calcium channels reduce ACh release; reflexes return after sustained contraction.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s2"
+     }
+    },
+    {
+     "stem": "A 63-year-old man with SCLC has rapidly worsening proximal weakness, hypertension, serum K⁺ 2.6 mmol/L, metabolic alkalosis and new skin darkening, but no striae or central obesity.",
+     "answer": 0,
+     "explanation": "Ectopic ACTH: very high ACTH causes pigmentation, and cortisol overwhelms 11β-HSD2 causing hypokalaemic alkalosis; onset is too fast for classic Cushingoid features.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1346,
+     "page": 1324
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1165,
+     "page": 1143
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q4",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Ectopic hormone syndromes",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be picked for several items, or for none.",
+   "options": [
+    "Small cell lung carcinoma",
+    "Squamous cell lung carcinoma",
+    "Renal cell carcinoma",
+    "Hepatocellular carcinoma",
+    "Mesenchymal (phosphaturic) tumour",
+    "Multiple myeloma",
+    "Uterine fibroids",
+    "Pituitary corticotroph adenoma",
+    "Adrenal adenoma",
+    "Pancreatic adenocarcinoma"
+   ],
+   "items": [
+    {
+     "stem": "A 47-year-old woman has bone pain, proximal weakness and a low serum phosphate with inappropriate urinary phosphate loss. MRI of the thigh shows a small soft-tissue mass.",
+     "answer": 4,
+     "explanation": "FGF-23 secreted by mesenchymal tumours causes phosphate wasting and hypophosphataemic osteomalacia.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s3"
+     }
+    },
+    {
+     "stem": "A 58-year-old man with flank discomfort and microscopic haematuria has haemoglobin 192 g/L, normal oxygen saturation and a raised erythropoietin.",
+     "answer": 2,
+     "explanation": "Secondary polycythaemia with high EPO and a renal clue suggests RCC.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s3"
+     }
+    },
+    {
+     "stem": "A 67-year-old smoker has serum sodium 118 mmol/L, serum osmolality 252 mOsm/kg, urine osmolality 520 mOsm/kg and is clinically euvolaemic. CXR shows a central mass with mediastinal nodes.",
+     "answer": 0,
+     "explanation": "SIADH with a central mass and bulky nodes points to small cell lung cancer.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 224,
+     "page": 224
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 196,
+     "page": 196
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q5",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Onconeural antibodies",
+   "leadIn": "For each patient, choose the antibody most likely to be found. Any option can be picked for several items, or for none.",
+   "options": [
+    "Anti-Hu",
+    "Anti-Yo",
+    "Anti-Ri",
+    "Anti-Tr",
+    "Anti-NMDAR",
+    "Anti-Ma2",
+    "Anti-VGCC",
+    "Anti-AChR",
+    "Anti-recoverin",
+    "Anti-amphiphysin"
+   ],
+   "items": [
+    {
+     "stem": "A 24-year-old woman develops psychosis, seizures and orofacial dyskinesias over 3 weeks. Pelvic ultrasound shows an ovarian cystic mass containing fat and calcification.",
+     "answer": 4,
+     "explanation": "Ovarian teratoma with limbic encephalitis = anti-NMDAR.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s4"
+     }
+    },
+    {
+     "stem": "A 64-year-old smoker has 2 months of patchy blurring, episodes of visual loss and poor colour vision. Fundi are normal but the electroretinogram is abnormal.",
+     "answer": 8,
+     "explanation": "Paraneoplastic retinopathy with SCLC is linked with anti-recoverin.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s4"
+     }
+    },
+    {
+     "stem": "A 39-year-old man with Hodgkin lymphoma develops a rapidly progressive ataxia of gait and limbs.",
+     "answer": 3,
+     "explanation": "Cerebellar degeneration with lymphoma = anti-Tr (Davidson).",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1133,
+     "page": 1111
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q6",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Skin and vascular markers of internal cancer",
+   "leadIn": "For each paraneoplastic sign, choose the most likely underlying tumour. Any option can be picked for several items, or for none.",
+   "options": [
+    "Gastric adenocarcinoma",
+    "Oesophageal carcinoma",
+    "Pancreatic adenocarcinoma",
+    "Glucagonoma",
+    "Lymphoma",
+    "Malignant melanoma",
+    "Ovarian carcinoma",
+    "Lung carcinoma",
+    "Prostate carcinoma",
+    "Thymoma"
+   ],
+   "items": [
+    {
+     "stem": "A thin 60-year-old man with early satiety develops dark, velvety thickening of the axillae and neck over 3 months.",
+     "answer": 0,
+     "explanation": "Rapid-onset acanthosis nigricans in a non-obese adult suggests gastric adenocarcinoma.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s5"
+     }
+    },
+    {
+     "stem": "A 52-year-old woman has new diabetes, weight loss and a burning, spreading annular red rash around the groin and buttocks.",
+     "answer": 3,
+     "explanation": "Necrolytic migratory erythema plus diabetes = glucagonoma.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s5"
+     }
+    },
+    {
+     "stem": "A 45-year-old man has had thickened palms and soles since childhood, like his father; he now has progressive dysphagia.",
+     "answer": 1,
+     "explanation": "Tylosis is associated with oesophageal carcinoma.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 707,
+     "page": 685
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1348,
+     "page": 1326
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 176,
+     "page": 176
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 59-year-old man has fever, weight loss and a haemoglobin of 188 g/L. Serum calcium is raised, and he has new hypertension. Ultrasound shows a 6 cm solid renal mass.",
+   "leadIn": "Which tumour product best explains his raised haemoglobin?",
+   "options": [
+    "Renin",
+    "PTH-related peptide",
+    "Erythropoietin",
+    "Gonadotrophin",
+    "Interleukin-6"
+   ],
+   "answer": 2,
+   "explanation": "Renal cell carcinoma can secrete EPO (erythrocytosis), PTHrP (hypercalcaemia) and renin (hypertension). The raised haemoglobin is the EPO effect.",
+   "whyNot": [
+    "Renin explains the hypertension, not erythrocytosis.",
+    "PTHrP explains the hypercalcaemia.",
+    "",
+    "Gonadotrophins cause feminisation or virilisation.",
+    "Cytokines contribute to fever and anaemia rather than a raised haemoglobin."
+   ],
+   "studyRef": {
+    "sectionId": "onc-paraneoplastic.s6"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 728,
+     "page": 728
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 64-year-old man who smokes heavily presents with painful swollen wrists and ankles. His fingers are clubbed, and X-rays of the forearms show new bone laid down beneath the periosteum.",
+   "leadIn": "Which lung tumour type is most likely?",
+   "options": [
+    "Small cell carcinoma",
+    "Non-small cell carcinoma",
+    "Bronchial carcinoid",
+    "Mesothelioma",
+    "Pulmonary lymphoma"
+   ],
+   "answer": 1,
+   "explanation": "Clubbing with hypertrophic pulmonary osteoarthropathy (painful periostitis with subperiosteal new bone) is classically associated with non-small cell lung cancer.",
+   "whyNot": [
+    "SCLC is the endocrine and neurological tumour; HPOA is linked to NSCLC.",
+    "",
+    "Carcinoid is associated with carcinoid syndrome and ectopic ACTH rather than HPOA.",
+    "Mesothelioma is not the classic HPOA association in these sources.",
+    "Lymphoma is not linked to HPOA in these sources."
+   ],
+   "studyRef": {
+    "sectionId": "onc-paraneoplastic.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 622,
+     "page": 600
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 126,
+     "page": 105
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 387,
+     "page": 387
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q9",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Paraneoplastic syndromes: tumour associations",
+   "leadIn": "For each paraneoplastic presentation, choose the most likely tumour. Any option can be picked for several items, or for none.",
+   "options": [
+    "Small cell lung carcinoma",
+    "Squamous cell lung carcinoma",
+    "Lung adenocarcinoma",
+    "Breast carcinoma",
+    "Ovarian teratoma",
+    "Thymoma",
+    "Hodgkin lymphoma",
+    "Renal cell carcinoma",
+    "Hepatocellular carcinoma",
+    "Pancreatic adenocarcinoma",
+    "Gastric adenocarcinoma",
+    "Neuroblastoma"
+   ],
+   "items": [
+    {
+     "stem": "A 3-year-old boy develops rapid, chaotic multidirectional eye movements and jerking of his limbs. Anti-Hu antibodies are found.",
+     "answer": 11,
+     "explanation": "Opsoclonus–myoclonus in a child = neuroblastoma (anti-Hu).",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s4"
+     }
+    },
+    {
+     "stem": "A 34-year-old woman has fluctuating double vision and ptosis worse in the evening. Anti-AChR antibodies are positive and CT shows an anterior mediastinal mass.",
+     "answer": 5,
+     "explanation": "Myasthenia gravis with an anterior mediastinal mass = thymoma.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s4"
+     }
+    },
+    {
+     "stem": "A 71-year-old man with cirrhosis has a haemoglobin of 185 g/L, fasting glucose of 2.6 mmol/L and a rising alpha-fetoprotein.",
+     "answer": 8,
+     "explanation": "HCC can cause erythrocytosis and hypoglycaemia as paraneoplastic effects.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s6"
+     }
+    },
+    {
+     "stem": "A 62-year-old woman with a fixed breast lump develops gait ataxia; anti-Yo antibodies are positive.",
+     "answer": 3,
+     "explanation": "Anti-Yo cerebellar degeneration is linked with breast and ovarian cancer (Davidson).",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1133,
+     "page": 1111
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 319,
+     "page": 319
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 73-year-old woman with metastatic breast cancer is drowsy and vomiting. Total calcium is 2.95 mmol/L and albumin 24 g/L.",
+   "leadIn": "What is the most important next interpretive step?",
+   "options": [
+    "Accept the calcium as mildly raised and recheck in a week",
+    "Calculate the albumin-adjusted calcium",
+    "Measure serum PTH before any treatment",
+    "Measure 24-hour urinary calcium",
+    "Request a skeletal survey"
+   ],
+   "answer": 1,
+   "explanation": "Hypoalbuminaemia is common in cancer and makes the total calcium underestimate ionised calcium. Adjusting for albumin shows this hypercalcaemia is more severe than it looks.",
+   "whyNot": [
+    "With albumin of 24 g/L the true (adjusted) calcium is much higher; she is symptomatic.",
+    "",
+    "PTH helps the cause, but correcting for albumin comes first and treatment should not wait.",
+    "Urinary calcium does not define severity here.",
+    "Imaging does not determine the severity of hypercalcaemia."
+   ],
+   "studyRef": {
+    "sectionId": "onc-paraneoplastic.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 1,
+   "stem": "A medical student is asked what distinguishes paraneoplastic syndromes from other systemic features of cancer.",
+   "leadIn": "Which statement is correct?",
+   "options": [
+    "They only occur with metastatic disease",
+    "They may be the first clue to an early, small tumour",
+    "They are always caused by hormone secretion",
+    "They never improve with treatment of the cancer",
+    "They are confined to small cell lung cancer"
+   ],
+   "answer": 1,
+   "explanation": "Unlike weight loss and fatigue (usually advanced disease), paraneoplastic and ectopic endocrine syndromes can reveal an early tumour, and they may reverse with treatment of the cancer.",
+   "whyNot": [
+    "They are not due to metastases by definition.",
+    "",
+    "Immune, cytokine and procoagulant mechanisms also operate.",
+    "They may improve or resolve once the tumour is treated.",
+    "Many tumours cause them: breast, ovary, kidney, pancreas, lymphoma and others."
+   ],
+   "studyRef": {
+    "sectionId": "onc-paraneoplastic.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 125,
+     "page": 104
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 60-year-old woman has 3 months of difficulty standing from a chair. Grip strength increases over the first few seconds of repeated testing. Reflexes are absent at rest. She reports a dry mouth and constipation.",
+   "leadIn": "Which investigation result would best confirm the diagnosis?",
+   "options": [
+    "Decremental response on 3 Hz repetitive nerve stimulation",
+    "Incremental CMAP response after brief maximal exercise",
+    "Elevated creatine kinase with myopathic EMG",
+    "Oligoclonal bands confined to the CSF",
+    "Positive anti-acetylcholine receptor antibodies"
+   ],
+   "answer": 1,
+   "explanation": "LEMS: low-amplitude CMAP that increases toward normal after exercise or high-frequency stimulation (post-tetanic potentiation). Look for SCLC next.",
+   "whyNot": [
+    "A decrement is typical of myasthenia gravis.",
+    "",
+    "CK is normal in LEMS; this pattern suggests myositis.",
+    "Oligoclonal bands support CNS inflammation, not a neuromuscular junction disorder.",
+    "Anti-AChR is myasthenia gravis; LEMS has anti-VGCC."
+   ],
+   "studyRef": {
+    "sectionId": "onc-paraneoplastic.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1348,
+     "page": 1326
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1165,
+     "page": 1143
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 556,
+     "page": 556
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 52-year-old man has recurrent pulmonary emboli despite adequate anticoagulation, together with crops of tender superficial venous cords appearing at different sites. He has lost 6 kg.",
+   "leadIn": "Which occult cancer is classically associated with this picture?",
+   "options": [
+    "Prostate carcinoma",
+    "Pancreatic adenocarcinoma",
+    "Thyroid carcinoma",
+    "Testicular seminoma",
+    "Basal cell carcinoma"
+   ],
+   "answer": 1,
+   "explanation": "Migratory superficial thrombophlebitis (Trousseau's syndrome) plus VTE classically flags pancreatic adenocarcinoma; cancer coagulopathy is also common with gastric and breast cancer.",
+   "whyNot": [
+    "Prostate cancer is not the classic Trousseau association.",
+    "",
+    "Thyroid cancer is not a classic cause.",
+    "Seminoma is not a classic cause.",
+    "Basal cell carcinoma does not cause systemic paraneoplastic disease."
+   ],
+   "studyRef": {
+    "sectionId": "onc-paraneoplastic.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 125,
+     "page": 104
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 151,
+     "page": 151
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 365,
+     "page": 365
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q14",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 66-year-old man with a 50 pack-year history has 4 weeks of weakness and ankle swelling. BP 172/96 mmHg. K⁺ 2.4 mmol/L, bicarbonate 34 mmol/L, glucose 13 mmol/L. 9 a.m. cortisol is very high and plasma ACTH is markedly raised. Cortisol does not suppress after 8 mg dexamethasone, and there is no rise after CRH.",
+   "leadIn": "What is the most likely source of ACTH?",
+   "options": [
+    "Pituitary microadenoma",
+    "Adrenal adenoma",
+    "Small cell lung carcinoma",
+    "Exogenous glucocorticoid use",
+    "Squamous cell lung carcinoma"
+   ],
+   "answer": 2,
+   "explanation": "Step 1: high cortisol with **high ACTH** = ACTH-dependent (rules out adrenal and exogenous steroids). Step 2: **no suppression** on high-dose dexamethasone and **no CRH response** = ectopic rather than pituitary source. Step 3: the rapid course, severe hypokalaemic alkalosis and heavy smoking fit **SCLC**, which arises from neuroendocrine cells. Ectopic tumours lack cortisol feedback, so ACTH and cortisol run very high and overwhelm renal 11β-HSD2.",
+   "whyNot": [
+    "Cushing's disease usually suppresses by >50% with high-dose dexamethasone and responds to CRH.",
+    "An adrenal adenoma suppresses ACTH (low ACTH).",
+    "",
+    "Exogenous glucocorticoids suppress ACTH, so ACTH would be low.",
+    "Squamous cell carcinoma classically secretes PTHrP, not ACTH."
+   ],
+   "studyRef": {
+    "sectionId": "onc-paraneoplastic.s3"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 494,
+     "page": 494
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 689,
+     "page": 667
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 592,
+     "page": 555
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q15",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 69-year-old woman with known lung squamous cell carcinoma is confused and dehydrated. Adjusted calcium is 3.6 mmol/L, creatinine is mildly raised, PTH is suppressed.",
+   "leadIn": "Which is the most appropriate initial management?",
+   "options": [
+    "Oral fluids and oral bisphosphonate",
+    "IV 0.9% saline followed by IV zoledronic acid",
+    "IV furosemide alone",
+    "Denosumab as first-line agent",
+    "Urgent parathyroidectomy"
+   ],
+   "answer": 1,
+   "explanation": "Step 1: severe symptomatic hypercalcaemia with low PTH in squamous lung cancer = PTHrP-mediated. Step 2: **rehydrate with IV saline** (2–4 L/day) to restore renal calcium excretion. Step 3: give an **IV bisphosphonate** (zoledronic acid 4 mg or pamidronate 60–90 mg) to stop bone resorption; calcium normalises in ~5 days. Add calcitonin for 24–48 h if life-threatening; denosumab is for zoledronic acid–refractory cases. Then restage — hypercalcaemia often means progression.",
+   "whyNot": [
+    "Too slow and inadequate for severe, symptomatic hypercalcaemia.",
+    "",
+    "A loop diuretic alone in a dehydrated patient worsens volume depletion and is not in the Davidson protocol.",
+    "Denosumab is reserved for hypercalcaemia refractory to zoledronic acid.",
+    "PTH is suppressed; there is no parathyroid disease."
+   ],
+   "studyRef": {
+    "sectionId": "onc-paraneoplastic.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q16",
+   "kind": "emq",
+   "pool": "worked",
+   "difficulty": 2,
+   "theme": "Lung cancer histology from the paraneoplastic clue",
+   "leadIn": "For each patient with a lung mass, choose the most likely histological type. Any option can be picked for several items, or for none.",
+   "options": [
+    "Small cell carcinoma",
+    "Squamous cell carcinoma",
+    "Adenocarcinoma",
+    "Large cell carcinoma",
+    "Bronchial carcinoid",
+    "Mesothelioma",
+    "Metastatic renal cell carcinoma",
+    "Pulmonary lymphoma"
+   ],
+   "items": [
+    {
+     "stem": "A 58-year-old smoker has a biopsy-proven lung mass. He is thirsty and constipated; calcium is high and PTH low; bone scan is clear.",
+     "answer": 1,
+     "explanation": "Reasoning: high calcium + low PTH + no bone metastases = humoral (PTHrP) hypercalcaemia; among lung cancers PTHrP is the hallmark of squamous cell carcinoma (small cell rarely causes hypercalcaemia).",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s6"
+     }
+    },
+    {
+     "stem": "A 70-year-old smoker has proximal leg weakness that improves after a few contractions, absent reflexes that return after effort, and a dry mouth. CT shows a central mass with bulky mediastinal nodes.",
+     "answer": 0,
+     "explanation": "Reasoning: features of LEMS (anti-VGCC); LEMS is the classic paraneoplastic syndrome of small cell carcinoma; squamous, large cell and carcinoid tumours are not LEMS tumours.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s6"
+     }
+    },
+    {
+     "stem": "A 61-year-old non-smoking woman with a lung mass develops a swollen painful calf and, a week later, a DVT in the opposite leg despite heparin; platelets are falling and fibrinogen is low.",
+     "answer": 2,
+     "explanation": "Reasoning: recurrent thrombosis progressing to DIC (falling platelets and fibrinogen) is the hypercoagulable picture linked to adenocarcinoma.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 387,
+     "page": 387
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 197,
+     "page": 197
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 126,
+     "page": 105
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 592,
+     "page": 555
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q17",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Paraneoplastic neurological syndromes",
+   "leadIn": "For each patient, choose the most likely paraneoplastic syndrome. Any option can be picked for several items, or for none.",
+   "options": [
+    "Lambert–Eaton myasthenic syndrome",
+    "Myasthenia gravis",
+    "Subacute cerebellar degeneration",
+    "Limbic encephalitis",
+    "Encephalomyelitis",
+    "Subacute sensory neuronopathy",
+    "Opsoclonus–myoclonus",
+    "Stiff person syndrome",
+    "Paraneoplastic retinopathy",
+    "Neuromyotonia",
+    "Dermatomyositis",
+    "Spinal cord compression"
+   ],
+   "items": [
+    {
+     "stem": "A 57-year-old woman with breast cancer develops painful spasms and board-like stiffness of the back and abdominal muscles, worse when startled. Anti-amphiphysin is positive.",
+     "answer": 7,
+     "explanation": "Axial rigidity and spasms with anti-amphiphysin = stiff person syndrome (breast, SCLC).",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s4"
+     }
+    },
+    {
+     "stem": "A 62-year-old smoker has 2 months of tingling and loss of joint position sense in all four limbs, with pseudo-athetosis of the fingers; power is normal. Anti-Hu is positive.",
+     "answer": 5,
+     "explanation": "Pure sensory loss with anti-Hu = sensory neuronopathy (SCLC, lymphoma).",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s4"
+     }
+    },
+    {
+     "stem": "A 66-year-old man with SCLC has new short-term memory loss, temporal lobe seizures and personality change. MRI shows bilateral medial temporal high signal.",
+     "answer": 3,
+     "explanation": "Memory loss, seizures and medial temporal changes = limbic encephalitis (SCLC; anti-Hu).",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s4"
+     }
+    },
+    {
+     "stem": "A 48-year-old man with a thymoma has muscle twitching and cramps at rest with delayed relaxation; anti-VGKC antibodies are found.",
+     "answer": 9,
+     "explanation": "Continuous muscle activity with anti-VGKC and thymoma = neuromyotonia.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s4"
+     }
+    },
+    {
+     "stem": "A 59-year-old woman develops a violaceous rash on her upper eyelids and difficulty raising her arms over her head. She also has early satiety and weight loss.",
+     "answer": 10,
+     "explanation": "Heliotrope rash with proximal weakness = dermatomyositis, which may herald stomach (or lung) cancer.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1133,
+     "page": 1111
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1348,
+     "page": 1326
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 826,
+     "page": 804
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q18",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Haematological and renal paraneoplastic syndromes",
+   "leadIn": "For each scenario, choose the most likely underlying malignancy. Any option can be picked for several items, or for none.",
+   "options": [
+    "Pancreatic adenocarcinoma",
+    "Ovarian carcinoma",
+    "Renal cell carcinoma",
+    "Cerebellar haemangioblastoma",
+    "Multiple myeloma",
+    "Hodgkin lymphoma",
+    "Colon carcinoma",
+    "Prostate carcinoma",
+    "Chronic myeloid leukaemia",
+    "Melanoma"
+   ],
+   "items": [
+    {
+     "stem": "A 28-year-old man with drenching night sweats and cervical lymphadenopathy develops heavy proteinuria and oedema. Renal biopsy light microscopy is normal.",
+     "answer": 5,
+     "explanation": "Minimal change disease is the classic paraneoplastic glomerular lesion of Hodgkin lymphoma (Th2 skew).",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s5"
+     }
+    },
+    {
+     "stem": "A 44-year-old man has unsteady gait, nystagmus and a haemoglobin of 196 g/L with raised EPO. MRI shows a cystic posterior fossa lesion with a mural nodule.",
+     "answer": 3,
+     "explanation": "Cerebellar haemangioblastoma is a recognised EPO-secreting tumour.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s3"
+     }
+    },
+    {
+     "stem": "A 66-year-old woman has abdominal distension, ascites and a platelet count of 720 × 10⁹/L; CA-125 is raised.",
+     "answer": 1,
+     "explanation": "Paraneoplastic thrombocytosis is associated with ovarian cancer.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s5"
+     }
+    },
+    {
+     "stem": "A 72-year-old man has back pain, anaemia, hypercalcaemia and nephrotic-range proteinuria; fat-pad biopsy stains with Congo red.",
+     "answer": 4,
+     "explanation": "Myeloma causes amyloidosis presenting with nephrotic syndrome; hypercalcaemia supports it.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1381,
+     "page": 1368
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 126,
+     "page": 105
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q19",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 63-year-old man presents with 8 weeks of vertigo, diplopia, dysarthria and limb ataxia. CSF shows protein 0.9 g/L with 25 lymphocytes/µL. MRI shows meningeal enhancement around the brainstem but no mass. Serum anti-Hu is positive.",
+   "leadIn": "Which tumour should be sought first?",
+   "options": [
+    "Ovarian carcinoma",
+    "Small cell lung carcinoma",
+    "Prostate carcinoma",
+    "Renal cell carcinoma",
+    "Testicular seminoma"
+   ],
+   "answer": 1,
+   "explanation": "Paraneoplastic encephalomyelitis (raised CSF protein, lymphocytic pleocytosis, brainstem meningeal enhancement, anti-Hu) is due to SCLC in about 75% of cases.",
+   "whyNot": [
+    "Ovarian tumours are linked to anti-Yo cerebellar degeneration and anti-NMDAR teratoma.",
+    "",
+    "Prostate cancer is among the tumours linked to paraneoplastic neurological disease, but encephalomyelitis with anti-Hu is due to SCLC in about 75%.",
+    "RCC causes endocrine (EPO, PTHrP, renin) rather than anti-Hu syndromes.",
+    "Testicular tumours are linked with anti-Ma2."
+   ],
+   "studyRef": {
+    "sectionId": "onc-paraneoplastic.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1133,
+     "page": 1111
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q20",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A 64-year-old smoker with a large central lung mass has serum sodium of 119 mmol/L. He is euvolaemic, serum osmolality is low and urine osmolality is 480 mOsm/kg. He is alert with no neurological symptoms.",
+   "leadIn": "What is the first-line management of the hyponatraemia?",
+   "options": [
+    "Fluid restriction",
+    "Rapid 3% saline to normalise sodium within 24 hours",
+    "IV 0.9% saline 3 L/day",
+    "Fludrocortisone",
+    "Furosemide alone"
+   ],
+   "answer": 0,
+   "explanation": "Asymptomatic SIADH (likely SCLC) is treated first by fluid restriction alongside treatment of the cancer; correction must be slow to avoid osmotic demyelination. Hypertonic saline is for severe symptoms, vaptans/demeclocycline for selected cases.",
+   "whyNot": [
+    "",
+    "Rapid full correction risks osmotic demyelination; hypertonic saline is reserved for severe symptoms.",
+    "Isotonic saline can worsen hyponatraemia in SIADH.",
+    "Fludrocortisone is not standard SIADH treatment in these sources.",
+    "A diuretic alone is not first-line."
+   ],
+   "studyRef": {
+    "sectionId": "onc-paraneoplastic.s3"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "pdfPage": 224,
+     "page": 224
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 623,
+     "page": 601
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q21",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 3,
+   "theme": "Paraneoplastic presentations of occult cancer",
+   "leadIn": "For each patient, choose the most likely underlying tumour. Any option can be picked for several items, or for none.",
+   "options": [
+    "Small cell lung carcinoma",
+    "Squamous cell lung carcinoma",
+    "Breast carcinoma",
+    "Gastric adenocarcinoma",
+    "Oesophageal carcinoma",
+    "Pancreatic adenocarcinoma",
+    "Renal cell carcinoma",
+    "Hepatocellular carcinoma",
+    "Hodgkin lymphoma",
+    "Mesenchymal tumour",
+    "Ovarian teratoma",
+    "Thymoma"
+   ],
+   "items": [
+    {
+     "stem": "A 66-year-old man has new-onset diabetes with no obesity or family history, 8 kg weight loss and two episodes of superficial thrombophlebitis in different limbs.",
+     "answer": 5,
+     "explanation": "New atypical diabetes plus migratory thrombophlebitis is a classic presentation of pancreatic adenocarcinoma.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s6"
+     }
+    },
+    {
+     "stem": "A 56-year-old man has hypertension, polycythaemia and hypercalcaemia; he has had low-grade fevers for 2 months.",
+     "answer": 6,
+     "explanation": "EPO, renin and PTHrP together with fever point to renal cell carcinoma.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s6"
+     }
+    },
+    {
+     "stem": "A 25-year-old man has generalised itch, drenching sweats, nephrotic syndrome with normal light microscopy on renal biopsy, and a widened mediastinum.",
+     "answer": 8,
+     "explanation": "Two-step: minimal change nephrotic syndrome (Th2 skew) + pruritus + mediastinal mass in a young man = Hodgkin lymphoma.",
+     "studyRef": {
+      "sectionId": "onc-paraneoplastic.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 402,
+     "page": 402
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 365,
+     "page": 365
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 728,
+     "page": 728
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1381,
+     "page": 1368
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1348,
+     "page": 1326
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q22",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 3,
+   "stem": "A 60-year-old woman with lung cancer has hypercalcaemia. Serum PTH is suppressed, PTHrP is raised and a bone scan shows no metastases.",
+   "leadIn": "By which mechanism does PTHrP mainly raise her calcium?",
+   "options": [
+    "Increasing intestinal calcium absorption via 1α-hydroxylation alone",
+    "Acting on the PTH receptor to increase bone resorption and renal calcium reabsorption",
+    "Direct osteolysis by tumour cells within bone",
+    "Inhibiting calcitonin release",
+    "Stimulating parathyroid gland hyperplasia"
+   ],
+   "answer": 1,
+   "explanation": "PTHrP binds the PTH receptor, stimulating osteoclastic bone resorption and renal tubular calcium reabsorption; it accounts for ~80% of malignant hypercalcaemia.",
+   "whyNot": [
+    "Raised 1,25-(OH)₂D is a separate rare mechanism (some lymphomas).",
+    "",
+    "Osteolysis by metastases is the ~20% mechanism; her bone scan is clear.",
+    "Calcitonin suppression is not the mechanism.",
+    "PTH is suppressed, so the parathyroids are not hyperplastic."
+   ],
+   "studyRef": {
+    "sectionId": "onc-paraneoplastic.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1349,
+     "page": 1327
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 500,
+     "page": 500
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q23",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 68-year-old ex-smoker reports 2 months of difficulty climbing stairs and rising from chairs, a dry mouth and erectile dysfunction. Power improves with sustained effort, and ankle jerks appear only after repeated tapping. CK is normal.",
+   "leadIn": "Which investigation should follow confirmation of the neurological diagnosis?",
+   "options": [
+    "Edrophonium test",
+    "Muscle biopsy",
+    "CT of the chest",
+    "Thymectomy",
+    "Lumbar puncture"
+   ],
+   "answer": 2,
+   "explanation": "This is LEMS; about 60% of cases are paraneoplastic, mainly SCLC, so a contrast CT chest (± PET) to find the tumour is essential.",
+   "whyNot": [
+    "The edrophonium test is aimed at myasthenia gravis.",
+    "Muscle biopsy is for myopathy; CK is normal.",
+    "",
+    "Thymectomy is for thymoma/myasthenia gravis, not LEMS.",
+    "CSF does not identify the underlying tumour."
+   ],
+   "studyRef": {
+    "sectionId": "onc-paraneoplastic.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 1347,
+     "page": 1325
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1165,
+     "page": 1143
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 556,
+     "page": 556
+    }
+   ]
+  },
+  {
+   "id": "onc-paraneoplastic.q24",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 59-year-old man with a lung mass has gynaecomastia, finger clubbing and painful tender shins. CXR shows a lung mass.",
+   "leadIn": "Which hormone is most likely responsible for his gynaecomastia?",
+   "options": [
+    "ACTH",
+    "ADH",
+    "Human chorionic gonadotrophin",
+    "PTH-related peptide",
+    "Erythropoietin"
+   ],
+   "answer": 2,
+   "explanation": "Bronchial carcinoma can secrete hCG or related hormones, producing gynaecomastia; it is listed among lung cancer's non-metastatic endocrine effects.",
+   "whyNot": [
+    "ACTH causes Cushing's syndrome.",
+    "ADH causes hyponatraemia (SIADH).",
+    "",
+    "PTHrP causes hypercalcaemia.",
+    "EPO causes polycythaemia."
+   ],
+   "studyRef": {
+    "sectionId": "onc-paraneoplastic.s6"
+   },
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 593,
+     "page": 556
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 623,
+     "page": 601
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "onc-paraneoplastic.o1",
+   "sectionId": "onc-paraneoplastic.s4",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 127,
+    "page": 106,
+    "figure": "Fig. 6.7"
+   },
+   "identify": "Wasting of the small muscles of the hands → paraneoplastic peripheral neuropathy (think SCLC / anti-Hu)."
+  },
+  {
+   "id": "onc-paraneoplastic.o2",
+   "sectionId": "onc-paraneoplastic.s5",
+   "cite": {
+    "book": "fa2ck11",
+    "pdfPage": 175,
+    "page": 175,
+    "figure": "FIGURE 2.2-34"
+   },
+   "identify": "Velvety, dark-brown thickening of a skin fold (axilla) → acanthosis nigricans; in a slim adult with weight loss, look for gastric/GI adenocarcinoma."
+  },
+  {
+   "id": "onc-paraneoplastic.o3",
+   "sectionId": "onc-paraneoplastic.s2",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 127,
+    "page": 106,
+    "figure": "Fig. 6.8"
+   },
+   "identify": "Dermatomal vesicular rash → reactivated herpes zoster, a marker of cancer-associated immunosuppression (also listed among lung cancer's cutaneous features)."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:28:09.422Z",
+  "contentHash": "2e5954bddedd368c7ced80a6253b18b5a02e7a38159996ef4f911145bc4fe55f"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:28:09.464Z",
+  "contentHash": "2e5954bddedd368c7ced80a6253b18b5a02e7a38159996ef4f911145bc4fe55f",
+  "checkerVersion": "source-check-v1"
+ }
+}

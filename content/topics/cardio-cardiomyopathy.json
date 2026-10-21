@@ -1,0 +1,4355 @@
+{
+ "topicId": "cardio-cardiomyopathy",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "cardio-cardiomyopathy.s1",
+   "title": "Types of cardiomyopathy & special acquired forms",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "A **cardiomyopathy** is a disease that starts in the heart muscle itself. The types are named by what they do to the **shape and function** of the ventricles. The cause may be **inherited, infective or toxic**, and in some patients none is found.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 560,
+       "page": 538,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 514,
+       "page": 477
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "The **ESC scheme** has five groups: **hypertrophic (HCM), arrhythmogenic (ACM), dilated (DCM), restrictive (RCM)** and **unclassified**. Each group is then split into **familial (genetic)** and **non-familial** forms. Kumar & Clark Essentials adds that some myocardial diseases mainly disturb the heart's **electrical** behaviour (conduction disease, channelopathies such as long QT). Diagnosis rests mostly on **echo and cardiac MR**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1135,
+       "page": 1119,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 514,
+       "page": 477
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "The main types at a glance",
+     "columns": [
+      "Type",
+      "What the ventricle looks like",
+      "Typical clinical picture"
+     ],
+     "rows": [
+      [
+       "Dilated (DCM)",
+       "Big, poorly contracting LV (often RV too); wall thickness normal or thin",
+       "Heart failure, arrhythmia, emboli from mural thrombus"
+      ],
+      [
+       "Hypertrophic (HCM)",
+       "Inappropriate LVH, often asymmetric septal, with fibre disarray; small, vigorous cavity",
+       "Effort angina, dyspnoea and syncope; sudden death in the young"
+      ],
+      [
+       "Restrictive (RCM)",
+       "Stiff, non-dilated ventricles with large atria; systolic function near normal",
+       "Mainly right-sided congestion; mimics constrictive pericarditis"
+      ],
+      [
+       "Arrhythmogenic (ACM/ARVC)",
+       "Patches of RV muscle replaced by fibrous and fatty tissue",
+       "VT or sudden death in a young person; right heart failure later"
+      ],
+      [
+       "Obliterative",
+       "Endocardial thrombus and fibrosis gradually fill in the cavities",
+       "Heart failure and emboli, sometimes with eosinophilia"
+      ],
+      [
+       "Unclassified / acquired",
+       "Takotsubo, peripartum, tachycardia-induced",
+       "See the acquired forms below"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 561,
+       "page": 539,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 563,
+       "page": 541,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1135,
+       "page": 1119,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1139,
+       "page": 1123,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 561,
+      "page": 539,
+      "chapter": "Cardiology",
+      "figure": "Fig. 16.99"
+     },
+     "note": "Look at: the schematic of each type. Note **ASH with SAM** in HCM, the concentric and apical HCM variants, the thin-walled dilated LV, the fatty RV in ARVC and the filled-in apex in obliterative disease."
+    },
+    {
+     "type": "bullets",
+     "title": "Arrhythmogenic (right) ventricular cardiomyopathy",
+     "items": [
+      "**Autosomal dominant** disease of **desmosomal** proteins, most often **plakophilin-2**; genetic testing still misses the gene in many cases.",
+      "Patches of **RV myocardium are replaced by fibro-fatty tissue**. The LV is involved in some patients, and that carries a worse outlook.",
+      "Main problems: **ventricular arrhythmias, sudden death** and **right-sided heart failure**. The classic patient is a **young man with VT or sudden death**.",
+      "**ECG**: slightly broad QRS, **T-wave inversion in V1–V3**, **epsilon waves** at the end of the QRS, and sometimes RBBB.",
+      "First-degree relatives are screened with **MRI, 12-lead ECG and ambulatory ECG**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1137,
+       "page": 1121,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1138,
+       "page": 1122,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 517,
+       "page": 480
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 78,
+       "page": 78
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Acquired (unclassified) forms",
+     "columns": [
+      "Form",
+      "Key features"
+     ],
+     "rows": [
+      [
+       "Takotsubo (stress, apical ballooning)",
+       "Follows acute **emotional or physical stress**, commoner in **women** (typically postmenopausal). Chest pain and ECG mimic **STEMI**, with raised troponin. Angiography shows **no or minimal CAD**, and the LV apex balloons. Treat with β-blocker + ACE inhibitor until function recovers."
+      ],
+      [
+       "Peripartum",
+       "Dilated picture from **late pregnancy to 5 months after delivery**. Commoner in **obese, multiparous women over 30** and linked to **pre-eclampsia**. Nearly half recover within 6 months; about 30% recur in a later pregnancy."
+      ],
+      [
+       "Tachycardia-induced",
+       "Prolonged periods of fast SVT or VT dilate the ventricle. **Restoring sinus rhythm** (cardioversion or ablation) lets function recover."
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 563,
+       "page": 541,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1140,
+       "page": 1124,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 65,
+       "page": 65
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 563,
+      "page": 541,
+      "chapter": "Cardiology",
+      "figure": "Fig. 16.100"
+     },
+     "note": "Look at: the left ventriculogram in Takotsubo. The apex is ballooned while the base still contracts, giving the \"octopus pot\" shape."
+    },
+    {
+     "type": "pearl",
+     "text": "**HCM is the commonest cardiomyopathy.** For **DCM**, Davidson gives an incidence of about 20 and a prevalence of about 38 per 100 000 in Europe and North America, and **men** are affected more than twice as often as women.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 561,
+       "page": 539,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The books disagree on **Takotsubo recovery time**. Davidson says LV function usually recovers in **4–5 days** (sometimes weeks), while Kumar says 4–6 weeks. For the exam, quote Davidson's figure. Kumar also warns that recurrences happen.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 563,
+       "page": 541,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1140,
+       "page": 1124,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Figures for **ARVC prevalence** differ: Davidson gives about **10 per 100 000**, while Kumar quotes 1 in 1000–5000 and says the LV is involved in up to 75%. Use Davidson's figure.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1137,
+       "page": 1121,
+       "chapter": "Cardiology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.s2",
+   "title": "Dilated cardiomyopathy: causes (viral emphasis)",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "In **DCM** the LV, and often the RV, is **dilated and contracts poorly**. LV mass goes up, but the **walls are normal or thin**. As the valve rings stretch, **functional mitral and tricuspid regurgitation** appear. The label only applies when ischaemia, valve disease and hypertension do not explain the picture. Dilatation with a low EF after an MI is called **ischaemic cardiomyopathy** and is grouped separately.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 561,
+       "page": 539,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 65,
+       "page": 65
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 75,
+       "page": 75
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Causes of DCM",
+     "columns": [
+      "Group",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Genetic / familial",
+       "**At least 25%** are autosomal dominant (Pocket: over a third). Most of the genes code for cytoskeletal proteins: **dystrophin, lamin A/C, emerin**, titin. The X-linked **Duchenne and Becker** dystrophies are also linked."
+      ],
+      [
+       "Post-viral / infective",
+       "A **late autoimmune reaction to viral myocarditis**: **Coxsackie**, adenovirus, parvovirus B19 (erythrovirus), influenza, **HIV**. Also bacteria, fungi and **Chagas disease**."
+      ],
+      [
+       "Toxic",
+       "**Alcohol**, **anthracyclines** (doxorubicin; risk rises above about 550 mg/m²), trastuzumab, cocaine, radiation, and metals (cobalt, lead, mercury, arsenic)."
+      ],
+      [
+       "Pregnancy",
+       "**Peripartum** cardiomyopathy."
+      ],
+      [
+       "Rhythm",
+       "Prolonged **tachycardia**."
+      ],
+      [
+       "Endocrine / nutritional",
+       "Thyrotoxicosis, acromegaly, phaeochromocytoma, **wet beriberi** (thiamine deficiency)."
+      ],
+      [
+       "Systemic mimics",
+       "Connective tissue disease, **sarcoidosis**, **haemochromatosis**: these can look identical to DCM."
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 561,
+       "page": 539,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 563,
+       "page": 541,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1138,
+       "page": 1122,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 65,
+       "page": 65
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 75,
+       "page": 75
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Viral myocarditis: the road to DCM",
+     "items": [
+      "Viruses are the **commonest cause of myocarditis**. Davidson quotes **Coxsackie** at about 35 cases per 1000 infections and **influenza A/B** at about 25 per 1000. Kumar & Clark Essentials names Coxsackie as the commonest UK cause.",
+      "The myocarditis may appear **several weeks after** the viral illness. Glucocorticoids, immunosuppression, radiation, previous myocardial damage and **exercise** all increase susceptibility.",
+      "It presents with **fever and biventricular failure**, arrhythmias or pericarditis. Most cases settle, but **acute myocarditis can progress to DCM**.",
+      "In a substantial subgroup of DCM, the trigger is thought to be a **late autoimmune response** to an earlier viral myocarditis. A similar mechanism may explain the heart muscle disease seen in **up to 10% of patients with advanced HIV**.",
+      "In **Chagas disease** (_Trypanosoma cruzi_, South America), patients often recover from the acute illness but develop **chronic DCM 10–20 years later**, with a tendency to **heart block and ventricular arrhythmias** and apical aneurysm."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 560,
+       "page": 538,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 561,
+       "page": 539,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 514,
+       "page": 477
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1135,
+       "page": 1119,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 67,
+       "page": 67
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "How DCM presents",
+     "items": [
+      "**Breathlessness** is usually the first complaint. It is followed by progressive **biventricular failure**.",
+      "Some patients present with **embolism from mural thrombus**, an arrhythmia or **sudden death**. Chest pain is surprisingly common.",
+      "Others are found on routine tests or on **screening of relatives**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 561,
+       "page": 539,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 515,
+       "page": 478
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1138,
+       "page": 1122,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Alcohol** causes about a fifth of DCM (typically 7–8 drinks a day for more than 5 years). **Stopping drinking** can bring a dramatic improvement. Of all the DCM causes, **peripartum** cardiomyopathy has the best prognosis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 563,
+       "page": 541,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 65,
+       "page": 65
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 66,
+       "page": 66
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Call it DCM only once **coronary artery disease has been excluded**. Ischaemia is the commonest cause of a dilated, poorly contracting LV, but it is classified separately. Kumar advises angiography or CTCA for anyone at risk (generally over 40, or younger with symptoms or risk factors).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 561,
+       "page": 539,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1139,
+       "page": 1123,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 75,
+       "page": 75
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.s3",
+   "title": "Hypertrophic (obstructive) cardiomyopathy: aetiology & features",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "HCM means **inappropriate LV hypertrophy** that is not explained by abnormal loading such as hypertension or aortic stenosis. It is a **genetic** disease, usually **autosomal dominant** with **high penetrance but variable expression**. Most cases come from a **single point mutation in a sarcomeric (contractile) protein gene**; the commonest genes are **MYH7** (β-myosin heavy chain) and **MYBPC3** (myosin-binding protein C). Histology shows **myocyte disarray** and fibrosis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 561,
+       "page": 539,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1135,
+       "page": 1119,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 515,
+       "page": 478
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Genotype and phenotype",
+     "columns": [
+      "Mutated protein",
+      "Usual phenotype"
+     ],
+     "rows": [
+      [
+       "β-myosin heavy chain",
+       "**Marked** hypertrophy"
+      ],
+      [
+       "Troponin (T)",
+       "Little or even **no hypertrophy**, but marked fibre disarray, **exercise-induced hypotension** and a **high sudden-death risk**"
+      ],
+      [
+       "Myosin-binding protein C",
+       "Presents **late** (sixth decade or later), often with hypertension and arrhythmia"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1136,
+       "page": 1120,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Mechanisms",
+     "items": [
+      "**Diastolic dysfunction**: the stiff, thick LV fills poorly, which can lead to heart failure in every subtype.",
+      "**Dynamic LVOT obstruction (HOCM)**: the thick septum and **systolic anterior motion (SAM)** of the anterior mitral leaflet narrow the outflow tract. SAM also causes **mitral regurgitation**.",
+      "The obstruction gets worse with **more contractility** (exercise, inotropes, digoxin), **less preload** (standing, Valsalva, dehydration) or **less afterload** (vasodilators).",
+      "**Fibre disarray** forms the substrate for ventricular arrhythmias."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 68,
+       "page": 68
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 90,
+       "page": 90
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 70,
+       "page": 70
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Clinical features",
+     "columns": [
+      "Symptoms",
+      "Signs"
+     ],
+     "rows": [
+      [
+       "Angina on effort",
+       "**Jerky** (bifid) carotid pulse"
+      ],
+      [
+       "Dyspnoea on effort",
+       "Palpable LVH; **double apical impulse** (palpable S4)"
+      ],
+      [
+       "Syncope on effort",
+       "Ejection systolic murmur, loudest at the **left lower sternal edge / base**"
+      ],
+      [
+       "Sudden death, sometimes the first event",
+       "Apical **pansystolic murmur of MR**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1136,
+       "page": 1120,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 90,
+       "page": 90
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 91,
+       "page": 91
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Dynamic auscultation: HOCM vs aortic stenosis",
+     "columns": [
+      "Manoeuvre / sign",
+      "HOCM murmur",
+      "Aortic stenosis murmur"
+     ],
+     "rows": [
+      [
+       "Standing, Valsalva (less preload)",
+       "**Louder**",
+       "Softer"
+      ],
+      [
+       "Squatting, lying, leg raise (more venous return)",
+       "Softer",
+       "Louder"
+      ],
+      [
+       "Sustained handgrip (more afterload)",
+       "Softer",
+       "—"
+      ],
+      [
+       "Carotid pulse",
+       "Jerky / bifid",
+       "Reduced, not jerky"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1136,
+       "page": 1120,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 90,
+       "page": 90
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 91,
+       "page": 91
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 69,
+       "page": 69
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Sudden cardiac death",
+     "items": [
+      "HCM is the **commonest cause of sudden death in young athletes**. Annual sudden-death mortality is **2–3% in adults** and **4–6% in children and adolescents**, typically **during or just after vigorous exercise** (ventricular arrhythmia).",
+      "Davidson's risk factors: **prior cardiac arrest or sustained VT**; **repeated syncope**; an **adverse genotype or family history**; **hypotension on exercise**; **NSVT on Holter**; and **marked LV wall thickening**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "The onset of **AF** often causes a **sudden deterioration and pulmonary oedema** in HCM. The stiff ventricle depends on atrial contraction, and tachycardia shortens filling, so left atrial pressure rises.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1136,
+       "page": 1120,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Not all LVH is HCM. **Hypertension** is the commonest cause of LVH; aortic stenosis, **athlete's heart** and storage or infiltrative disease (**Fabry, Danon, Pompe**, amyloid) can all mimic it, and Friedreich's ataxia heart disease can resemble HCM. A **family history**, a **thickness over 15 mm**, a **small LV cavity**, an **enlarged LA** and **diastolic dysfunction** all favour HCM over athlete's heart.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 76,
+       "page": 76
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 77,
+       "page": 77
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1135,
+       "page": 1119,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 563,
+       "page": 541,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Prevalence** figures differ: Davidson gives about **100 per 100 000**, while Kumar gives 1 in 500 and Pocket 1 in 200–500. Quote Davidson in the exam. The share of patients with outflow obstruction also varies between books, so don't memorise a single percentage.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 561,
+       "page": 539,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1135,
+       "page": 1119,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 68,
+       "page": 68
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.s4",
+   "title": "Restrictive & obliterative cardiomyopathy: causes",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "In **restrictive cardiomyopathy** the ventricles are **stiff but not dilated or hypertrophied**, so filling is impaired. This raises **atrial pressures**, the atria enlarge, and **AF** follows later. **Systolic function is normal or near-normal** until late disease. RCM is rare, less common than DCM or HCM.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1139,
+       "page": 1123,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 92,
+       "page": 92
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 70,
+       "page": 70
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Causes of restrictive cardiomyopathy",
+     "columns": [
+      "Group",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Infiltrative",
+       "**Amyloidosis**, the commonest cause in the UK (AL, familial transthyretin, senile); **sarcoidosis**"
+      ],
+      [
+       "Storage",
+       "**Haemochromatosis**, glycogen storage disease, Fabry, Gaucher"
+      ],
+      [
+       "Endomyocardial",
+       "**Löffler endocarditis** (eosinophilia), **tropical endomyocardial fibrosis**, **carcinoid** (right-sided valve lesions)"
+      ],
+      [
+       "Other",
+       "Scleroderma, polymyositis, diabetes, **radiation or chemotherapy**"
+      ],
+      [
+       "Primary",
+       "Idiopathic perimyocyte fibrosis; **familial** RCM"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1139,
+       "page": 1123,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 92,
+       "page": 92
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 70,
+       "page": 70
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 71,
+       "page": 71
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Clinical picture",
+     "items": [
+      "Dyspnoea, fatigue, exercise intolerance and **embolic** events.",
+      "**Right-sided failure dominates**: peripheral oedema more than pulmonary oedema, hepatomegaly, ascites, and diuretic \"refractoriness\".",
+      "**Raised JVP** with a sharp diastolic collapse (**Friedreich sign**) and a JVP that rises on inspiration (**Kussmaul sign**). Third and fourth heart sounds may be heard."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1139,
+       "page": 1123,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 71,
+       "page": 71
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 72,
+       "page": 72
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Obliterative cardiomyopathy (a rare restrictive variant)",
+     "items": [
+      "**Endocardial thrombosis and fibrosis** gradually obliterate one or both ventricular cavities, and the mitral and tricuspid valves leak.",
+      "It causes **heart failure with pulmonary and systemic emboli**.",
+      "Associated with **eosinophilia**, for example **eosinophilic leukaemia** and **EGPA** (Churg–Strauss).",
+      "Causes up to **10% of cardiac deaths in the tropics**, with **50% mortality at 2 years**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 563,
+       "page": 541,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Amyloidosis** and **eosinophilic heart disease** produce a restrictive or obliterative picture, whereas sarcoid, haemochromatosis and alcohol tend to mimic DCM. The prognosis of primary RCM is poor: Kumar & Clark Essentials says most patients die within a year of diagnosis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 563,
+       "page": 541,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 516,
+       "page": 479
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "RCM looks clinically like **constrictive pericarditis**, so pericardial disease must be excluded before the label is used. Constriction can be treated by pericardiectomy, whereas RCM treatment is mostly symptomatic. The tests that separate the two are in the investigations section.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 516,
+       "page": 479
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 70,
+       "page": 70
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 95,
+       "page": 95
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.s5",
+   "title": "Stages of heart failure in cardiomyopathy",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Neither textbook gives a staging system specific to cardiomyopathy. The heart failure that cardiomyopathy causes is graded with the general **ACC/AHA stages A–D**, which track **structural progression**. Symptom severity is graded separately with the **NYHA classes I–IV**. A cardiomyopathy found on screening, before any symptoms, is by definition **stage B**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1091,
+       "page": 1075,
+       "chapter": "Cardiology",
+       "figure": "Fig. 30.57"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 62,
+       "page": 62
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "ACC/AHA stages and treatment emphasis",
+     "columns": [
+      "Stage",
+      "Definition",
+      "Treatment emphasis"
+     ],
+     "rows": [
+      [
+       "A",
+       "High risk (e.g. hypertension, diabetes) but **no structural disease** and no symptoms",
+       "Control risk factors; stop smoking and alcohol; ACEI/ARB in some"
+      ],
+      [
+       "B",
+       "**Structural disease** (e.g. cardiomyopathy, LVH) but **never symptomatic**",
+       "ACEI/ARB; β-blocker if MI or low EF (Kumar: selected patients)"
+      ],
+      [
+       "C",
+       "Structural disease with **previous or current symptoms**",
+       "Diuretics and salt restriction plus full HFrEF therapy: ACEI/ARB/ARNI + β-blocker, MRA, SGLT2 inhibitor, ± digoxin; ICD; CRT if bundle branch block"
+      ],
+      [
+       "D",
+       "**Refractory** symptoms needing **specialised intervention**",
+       "IV inotropes, **VAD, transplantation**, or hospice / end-of-life care (Pocket: 4-year mortality over 50%)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1091,
+       "page": 1075,
+       "chapter": "Cardiology",
+       "figure": "Fig. 30.57"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 62,
+       "page": 62
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "NYHA functional classes",
+     "columns": [
+      "Class",
+      "Limitation"
+     ],
+     "rows": [
+      [
+       "I",
+       "None during ordinary activity"
+      ],
+      [
+       "II",
+       "Slight limitation; ordinary activity brings on symptoms"
+      ],
+      [
+       "III",
+       "Marked limitation of normal activities; comfortable at rest"
+      ],
+      [
+       "IV",
+       "Symptoms with any physical activity, and possibly at rest"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 476,
+       "page": 454,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1088,
+       "page": 1072,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Keep the two systems apart. The **stage (A–D)** describes how far the structural disease has gone, while the **NYHA class (I–IV)** describes how limited the patient is now. **Device criteria are written in NYHA classes**: CRT for NYHA III–IV, and Kumar says an ICD is generally not offered in end-stage NYHA IV.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 62,
+       "page": 62
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 506,
+       "page": 484,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1092,
+       "page": 1076,
+       "chapter": "Cardiology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.s6",
+   "title": "Investigations & diagnosis",
+   "objectiveIdx": [
+    5,
+    6
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Family history and genetics",
+     "items": [
+      "Take a **family history** (and draw a **pedigree** where useful). Pocket says 20–35% of DCM is familial, and **screening relatives** increasingly picks up early, asymptomatic disease.",
+      "**DCM**: genetic testing is indicated when **more than one family member** is affected.",
+      "**HCM**: genetic testing can **confirm the diagnosis, gives prognostic information** and helps **screen relatives**, although a causative variant is found in under half. First-degree relatives have an **echo every 12–18 months as teenagers or athletes**, then **every 5 years as adults**, plus an ECG.",
+      "**ARVC**: relatives are screened with MRI, ECG and Holter."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1138,
+       "page": 1122,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 561,
+       "page": 539,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1136,
+       "page": 1120,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 66,
+       "page": 66
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 70,
+       "page": 70
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Blood tests",
+     "columns": [
+      "Test",
+      "Why"
+     ],
+     "rows": [
+      [
+       "FBC, creatinine & electrolytes, LFTs",
+       "Baseline, complications, and drug monitoring"
+      ],
+      [
+       "BNP / NT-proBNP",
+       "Raised in HF; **prognostic**; helps tell HF from other causes of breathlessness or oedema"
+      ],
+      [
+       "Troponin, CK",
+       "Raised early in **myocarditis**; also in acute HF and Takotsubo"
+      ],
+      [
+       "TFTs",
+       "Thyroid disease as a reversible cause"
+      ],
+      [
+       "Iron studies, HIV, ANA",
+       "Haemochromatosis, HIV cardiomyopathy, connective tissue disease"
+      ],
+      [
+       "Serum protein electrophoresis / immunofixation + serum free light chains",
+       "Screen for **AL amyloid** (plasma cell disorder)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1088,
+       "page": 1072,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 486,
+       "page": 464,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 560,
+       "page": 538,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 66,
+       "page": 66
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 72,
+       "page": 72
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 65,
+       "page": 65
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Chest X-ray and ECG clues",
+     "columns": [
+      "Type",
+      "Chest X-ray",
+      "ECG"
+     ],
+     "rows": [
+      [
+       "DCM",
+       "Enlarged, \"balloon-like\" heart with pulmonary congestion",
+       "Non-specific ST/T changes, sinus tachycardia, BBB, poor R-wave progression, Q waves, AF (about 20%), VEs/VT; can be normal"
+      ],
+      [
+       "HCM",
+       "May show LA enlargement from MR",
+       "LVH with **T-wave inversion**; inferolateral Q waves; **giant T inversion** in the apical variant"
+      ],
+      [
+       "RCM / amyloid",
+       "Normal-sized ventricles, **big atria**, ± congestion",
+       "**Low voltage** (despite thick walls in amyloid), pseudo-infarct Q waves, arrhythmias"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1139,
+       "page": 1123,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 76,
+       "page": 76
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 77,
+       "page": 77
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 66,
+       "page": 66
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 69,
+       "page": 69
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 72,
+       "page": 72
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "ECG clues in ARVC and cardiac sarcoid",
+     "items": [
+      "**ARVC**: T inversion in V1–V3, an **epsilon wave** just after the QRS, and sometimes RBBB.",
+      "**Cardiac sarcoid**: AV block (about 75%), RBBB and VT."
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 65,
+       "page": 65
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1137,
+       "page": 1121,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 71,
+       "page": 71
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Heart-failure CXR features",
+     "items": [
+      "**Upper-lobe venous distension** and enlarged hilar vessels.",
+      "**Kerley B lines**: short horizontal septal lines at the costophrenic angles from interstitial oedema.",
+      "Hazy alveolar shadowing spreading out from the hila, **pleural effusions** and an **enlarged cardiac silhouette**."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 486,
+       "page": 464,
+       "chapter": "Cardiology",
+       "figure": "Fig. 16.27"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1088,
+       "page": 1072,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Echo, MRI and other imaging",
+     "columns": [
+      "Test",
+      "Key findings / role"
+     ],
+     "rows": [
+      [
+       "Echo in HCM (investigation of choice)",
+       "**Asymmetric septal hypertrophy**, **SAM** of the mitral valve, small, vigorously contracting cavity; any segment ≥ 15 mm; concentric or apical patterns also occur"
+      ],
+      [
+       "Echo in DCM",
+       "**Globular** heart with dilated chambers and poor global contraction (low EF)"
+      ],
+      [
+       "Echo in RCM / amyloid",
+       "Thick walls, **biatrial enlargement**, normal-sized ventricles; amyloid looks **speckled / \"sparkling\"**, with \"tramline\" septum on M-mode"
+      ],
+      [
+       "Cardiac MRI",
+       "Patchy **late gadolinium enhancement** in HCM (diagnostic and prognostic); mid-wall fibrosis in DCM; fibrosis in amyloid or sarcoid, typically the **basal septum** in sarcoid"
+      ],
+      [
+       "Coronary angiography / CTCA",
+       "Excludes CAD before calling it DCM (anyone at risk)"
+      ],
+      [
+       "Endomyocardial biopsy",
+       "**Unusually helpful in RCM** (e.g. amyloid); not routine in DCM"
+      ],
+      [
+       "Catheter haemodynamics",
+       "Helps separate RCM from constrictive pericarditis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1136,
+       "page": 1120,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1139,
+       "page": 1123,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1140,
+       "page": 1124,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 69,
+       "page": 69
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 71,
+       "page": 71
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Stress and ambulatory testing",
+     "columns": [
+      "Test",
+      "Use"
+     ],
+     "rows": [
+      [
+       "Exercise test in HCM",
+       "A **flat or falling BP** (failure of SBP to rise, or a fall of ≥ 20 mmHg from peak) is a sudden-death risk marker"
+      ],
+      [
+       "24-hour Holter",
+       "**NSVT** points towards an ICD in HCM or advanced HF"
+      ],
+      [
+       "Dobutamine stress echo / MRI",
+       "Shows **contractile reserve** in stunned or hibernating myocardium"
+      ],
+      [
+       "Cardiopulmonary exercise test",
+       "**Peak VO2** predicts admission and death in HF; a 6-minute walk is an alternative"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1088,
+       "page": 1072,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1089,
+       "page": 1073,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1136,
+       "page": 1120,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 70,
+       "page": 70
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Restrictive cardiomyopathy vs constrictive pericarditis",
+     "columns": [
+      "Feature",
+      "Restrictive cardiomyopathy",
+      "Constrictive pericarditis"
+     ],
+     "rows": [
+      [
+       "Pericardium on CT/MRI",
+       "Normal",
+       "Usually thickened"
+      ],
+      [
+       "Tissue Doppler e′",
+       "**Low (< 8 cm/s)**",
+       "Normal or high (> 12 cm/s)"
+      ],
+      [
+       "Respiratory variation / septum",
+       "Little (< 10%)",
+       "Marked; **septal bounce**"
+      ],
+      [
+       "NT-proBNP",
+       "Typically high",
+       "Variable"
+      ],
+      [
+       "Catheter",
+       "LVEDP > RVEDP, RVSP > 55 mmHg, **concordant** LV–RV peaks",
+       "Equal pressures, **discordant** LV–RV peaks"
+      ],
+      [
+       "Biopsy",
+       "May show the cause (e.g. amyloid)",
+       "Usually normal"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 95,
+       "page": 95
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1140,
+       "page": 1124,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1136,
+      "page": 1120,
+      "chapter": "Cardiology",
+      "figure": "Fig. 30.108"
+     },
+     "note": "Look at: the short-axis HCM echo. The septum is grossly thick, the LV cavity small, and the mitral valve moves anteriorly in systole (arrow)."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1139,
+      "page": 1123,
+      "chapter": "Cardiology",
+      "figure": "Fig. 30.115"
+     },
+     "note": "Look at: the \"globular\" DCM heart with all four chambers dilated, and the M-mode showing very little LV shortening."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1140,
+      "page": 1124,
+      "chapter": "Cardiology",
+      "figure": "Fig. 30.117"
+     },
+     "note": "Look at: cardiac amyloid. Thick LV walls with a speckled septum, and reduced septal thickening giving \"tramlines\" on M-mode."
+    },
+    {
+     "type": "pearl",
+     "text": "**Amyloid clue**: thick ventricular walls on echo but **low QRS voltage** on the ECG. Work-up begins with immunofixation and **serum free light chains**, then fat-pad biopsy (AL) or a PYP scan (transthyretin).",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 70,
+       "page": 70
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 71,
+       "page": 71
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 72,
+       "page": 72
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Viral serology**: Kumar says it is not usually helpful in myocarditis, and Pocket does not recommend it in DCM. Kumar & Clark Essentials says a rise in viral titres supports the diagnosis. Davidson relies on **troponin/CK, echo and cardiac MRI**, with biopsy only occasionally.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1135,
+       "page": 1119,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 66,
+       "page": 66
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 514,
+       "page": 477
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 560,
+       "page": 538,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**HCM ECG**: Davidson says it is abnormal (Kumar & Clark Essentials: almost always), while First Aid says it may be normal. Follow Davidson: **unexplained LVH with deep T inversion** in a young person needs an echo.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 515,
+       "page": 478
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 77,
+       "page": 77
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Diagnosing RCM**: Kumar & Clark Essentials makes cardiac catheterisation the diagnostic test. Davidson instead requires **Doppler echo, CT or MRI, and endomyocardial biopsy**, and Kumar uses catheter haemodynamics mainly to help separate RCM from constrictive pericarditis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 516,
+       "page": 479
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1140,
+       "page": 1124,
+       "chapter": "Cardiology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.s7",
+   "title": "Management: medications",
+   "objectiveIdx": [
+    7
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Drug treatment: DCM and HCM",
+     "columns": [
+      "Type",
+      "Use",
+      "Avoid / caution"
+     ],
+     "rows": [
+      [
+       "DCM",
+       "Control heart failure with standard HFrEF therapy (doses and details in the table below). Rigorous **β-blocker + ACEI/ARB** therapy **reduces sudden arrhythmic death**.",
+       "See HFrEF drugs to avoid below"
+      ],
+      [
+       "HCM",
+       "**β-blocker first**; **verapamil** if needed; **disopyramide** added for obstruction; **amiodarone** for arrhythmias; mavacamten (myosin inhibitor) lowers the gradient and symptoms",
+       "**Digoxin, vasodilators** (nitrates, hydralazine), ACEI/ARB with obstruction; diuretics only cautiously; avoid dehydration and strenuous exercise"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 561,
+       "page": 539,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 91,
+       "page": 91
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 69,
+       "page": 69
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 70,
+       "page": 70
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 77,
+       "page": 77
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Drug treatment: RCM and ARVC",
+     "columns": [
+      "Type",
+      "Use",
+      "Avoid / caution"
+     ],
+     "rows": [
+      [
+       "RCM",
+       "Treat the cause: haemochromatosis (venesection or deferoxamine), sarcoid (glucocorticoids), amyloid (treat the cause); **gentle** diuresis",
+       "Vasodilators and CCBs are poorly tolerated; overdiuresis lowers output"
+      ],
+      [
+       "ARVC",
+       "**β-blockers first line**; amiodarone or sotalol for symptomatic arrhythmias; diuretics for right HF; avoid exercise",
+       "—"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 93,
+       "page": 93
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 72,
+       "page": 72
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1138,
+       "page": 1122,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 78,
+       "page": 78
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Special situations",
+     "columns": [
+      "Situation",
+      "Drug approach"
+     ],
+     "rows": [
+      [
+       "Takotsubo",
+       "β-blocker (prevents arrhythmia) + ACE inhibitor (LV dysfunction), **stopped once function recovers**"
+      ],
+      [
+       "Obliterative",
+       "**Anticoagulation and antiplatelet** therapy; diuretics for symptoms"
+      ],
+      [
+       "Peripartum",
+       "Standard HF therapy, but **no ACEI or spironolactone while still pregnant**"
+      ],
+      [
+       "Viral myocarditis",
+       "Supportive HF and arrhythmia treatment; avoid intense exertion; **no proven benefit from steroids or immunosuppression**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 560,
+       "page": 538,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 563,
+       "page": 541,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 65,
+       "page": 65
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 67,
+       "page": 67
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "HFrEF drugs: examinable details",
+     "columns": [
+      "Drug",
+      "Exam point"
+     ],
+     "rows": [
+      [
+       "β-blocker",
+       "**Bisoprolol 1.25 mg → 10 mg daily over about 12 weeks**. Reduces mortality more than ACEI (RRR **33% vs 20%**). Start low, as it can precipitate decompensation."
+      ],
+      [
+       "ACE inhibitor",
+       "Enalapril 2.5 → 10 mg bd; lisinopril 2.5 → 20 mg; ramipril 1.25 → 10 mg. **Check creatinine and K⁺ 1–2 weeks** after starting."
+      ],
+      [
+       "MRA (spironolactone, eplerenone)",
+       "Improves outcome in severe LV systolic dysfunction; **hyperkalaemia** with ACEI. Pocket: avoid if K⁺ ≥ 5 or GFR < 30."
+      ],
+      [
+       "Sacubitril–valsartan",
+       "Extra symptom and mortality benefit over ACEI in resistant HF; needs a **36-h ACEI washout**"
+      ],
+      [
+       "Ivabradine",
+       "For **sinus rhythm** with a high heart rate despite (or intolerant of) β-blockade; **useless in AF**"
+      ],
+      [
+       "Digoxin",
+       "Fewer HF admissions in NYHA III–IV, **no survival benefit**; rate control in AF"
+      ],
+      [
+       "Drugs to avoid in HFrEF",
+       "NSAIDs, **non-dihydropyridine CCBs**, thiazolidinediones"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 487,
+       "page": 465,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 488,
+       "page": 466,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 489,
+       "page": 467,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 62,
+       "page": 62
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 63,
+       "page": 63
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In HCM, drugs **relieve symptoms and syncope**, but **no drug has been shown to improve prognosis**. The protection against sudden death comes from the ICD.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 91,
+       "page": 91
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "In **HOCM, avoid digoxin and vasodilators** (including sublingual nitrate). They increase contractility or reduce preload/afterload and so **worsen outflow obstruction**; Kumar adds they may cause refractory hypotension. On **diuretics** the books differ: First Aid says contraindicated in HOCM, while Step-Up and Pocket allow careful use.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1137,
+       "page": 1121,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 77,
+       "page": 77
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 91,
+       "page": 91
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 69,
+       "page": 69
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Amiodarone vs ICD in HCM**: Kumar & Clark Essentials says amiodarone lowers sudden-death risk, and Kumar uses it when risk is lower. Davidson uses amiodarone for **arrhythmias** and an **ICD for patients with risk factors**. In exams, high-risk patients get an ICD.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1137,
+       "page": 1121,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 515,
+       "page": 478
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.s8",
+   "title": "Devices, procedures & cardiac transplantation",
+   "objectiveIdx": [
+    8,
+    9
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "ICD indications (Davidson)",
+     "columns": [
+      "Prevention",
+      "Indication"
+     ],
+     "rows": [
+      [
+       "Primary",
+       "Post-MI with **LVEF < 30%**"
+      ],
+      [
+       "Primary",
+       "Mild–moderate symptomatic HF on optimal drugs with **LVEF < 35%**"
+      ],
+      [
+       "Primary",
+       "Selected **inherited** conditions: long QT, **HCM**, **ARVC**"
+      ],
+      [
+       "Secondary",
+       "Survivors of **VF/VT arrest** without a transient or reversible cause"
+      ],
+      [
+       "Secondary",
+       "VT with haemodynamic compromise or LVEF < 35%"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 505,
+       "page": 483,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "ICD in specific cardiomyopathies",
+     "items": [
+      "**HCM**: Davidson says to **consider an ICD when clinical risk factors are present**. Kumar assesses for an ICD with **two or more** risk factors and uses amiodarone below that. Pocket calls an ICD reasonable with **one** major factor: family history of sudden death, unexplained syncope, wall ≥ 30 mm, LV aneurysm or EF < 50%.",
+      "**ARVC**: an ICD for patients at high risk of sudden death, or with refractory or life-threatening arrhythmias.",
+      "**DCM**: ICD and/or **CRT** in moderate to severe HF. An ICD is **not offered in end-stage NYHA IV** disease."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 561,
+       "page": 539,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1137,
+       "page": 1121,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1138,
+       "page": 1122,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1092,
+       "page": 1076,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 70,
+       "page": 70
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Cardiac resynchronisation therapy (biventricular pacing)",
+     "items": [
+      "Three leads: **right atrial appendage**, **RV apex**, and an **LV lead via the coronary sinus** to an epicardial vein. Pacing the septum and LV wall together re-coordinates contraction.",
+      "Davidson criteria: **NYHA III–IV**, **sinus rhythm**, **LBBB**, **LVEF ≤ 35%**. CRT improves symptoms and **reduces mortality**, and also slows progression in NYHA I–II.",
+      "It works better in sinus rhythm than in AF. Most devices are **CRT-D** (with defibrillator); **CRT-P** is used when the aim is symptom palliation."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 506,
+       "page": 484,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 489,
+       "page": 467,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1092,
+       "page": 1076,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 489,
+      "page": 467,
+      "chapter": "Cardiology",
+      "figure": "Fig. 16.30"
+     },
+     "note": "Look at: the CXR of a CRT device. Identify the RA lead in the appendage, the RV pacing/shock lead at the apex, and the LV lead running through the coronary sinus."
+    },
+    {
+     "type": "bullets",
+     "title": "Septal reduction and pacing in HOCM",
+     "items": [
+      "Used for **drug-refractory symptoms with obstruction** (Pocket: gradient ≥ 30 mmHg at rest or with provocation).",
+      "**Surgical myectomy**: partial resection of the septum; long-term symptom relief in about 90%.",
+      "**Alcohol septal ablation**: deliberate infarction of the basal septum through a catheter. Risks: **complete heart block** (10–20% need a pacemaker) and **MI**.",
+      "**Dual-chamber pacing** helps some patients with significant obstruction."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 562,
+       "page": 540,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1137,
+       "page": 1121,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 69,
+       "page": 69
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 70,
+       "page": 70
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Catheter ablation",
+     "items": [
+      "Culprit tissue is destroyed with **heat (radiofrequency)** or **freezing (cryoablation)**. It is **curative in over 90%** of AVNRT and accessory-pathway tachycardias, and serious complications (heart block, tamponade) occur in **under 1%**.",
+      "In permanent AF with poor rate control, **AV-node ablation plus a pacemaker** controls the rate.",
+      "**Tachycardia cardiomyopathy** recovers once ablation or cardioversion restores sinus rhythm. In HFrEF with AF (EF < 35%), ablation lowers death and HF admission compared with drug therapy."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 506,
+       "page": 484,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1140,
+       "page": 1124,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 63,
+       "page": 63
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Ventricular assist devices (VADs)",
+     "items": [
+      "An **LVAD** takes blood from the LV to the **aorta**; an **RVAD** from the RV to the **pulmonary artery**.",
+      "Extracorporeal pumps give short-term support; implanted pumps give long-term support.",
+      "Uses: **bridge to transplant**, **bridge to recovery** after a reversible insult such as **viral myocarditis**, and **destination therapy** when transplant is not an option. Pocket says a durable LVAD more than halves 1-year mortality compared with drugs.",
+      "Complications: **bleeding, thromboembolism, infection**, neurological and renal problems, device malfunction."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 490,
+       "page": 468,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1095,
+       "page": 1079,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 62,
+       "page": 62
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Cardiac transplantation",
+     "columns": [
+      "Aspect",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "Indications",
+       "Intractable HF, most often from **CAD or DCM**; generally **younger patients** with severe symptoms despite optimal therapy (Kumar: life expectancy < 6 months); selected RCM"
+      ],
+      [
+       "Contraindications",
+       "**High pulmonary vascular resistance** (the donor RV fails), active malignancy, severe renal or liver failure, uncontrolled infection"
+      ],
+      [
+       "Outcome",
+       "Kumar: 1-year survival **> 90%**, **75% at 5 years**. Pocket: median survival about 13 years"
+      ],
+      [
+       "Rejection",
+       "Despite ciclosporin, azathioprine and steroids; confirmed by **endomyocardial biopsy**, treated with high-dose steroids"
+      ],
+      [
+       "Allograft vasculopathy",
+       "**Accelerated coronary atherosclerosis** (chronic rejection): the main cause of late graft failure, **30–50% at 5 years**; **angina is rare** because the heart is denervated"
+      ],
+      [
+       "Other problems",
+       "Opportunistic infection (**CMV, Aspergillus**), malignancy, hypertension, hyperlipidaemia; denervation causes a **high resting heart rate** and loss of the diurnal BP rhythm"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 489,
+       "page": 467,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 490,
+       "page": 468,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1092,
+       "page": 1076,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 62,
+       "page": 62
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 516,
+       "page": 479
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Cardiac amyloid** has a worse outlook and **often recurs after heart transplantation**. In **familial (transthyretin) amyloid**, a **liver transplant** may reverse the cardiac disease.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1140,
+       "page": 1124,
+       "chapter": "Cardiology"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The **QRS cut-off for CRT** differs: Pocket uses LBBB with QRS ≥ 130 ms, First Aid ≥ 150 ms. Davidson gives no number and defines the target as **NYHA III–IV, sinus rhythm, LBBB and EF ≤ 35%**, so quote those criteria.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 506,
+       "page": 484,
+       "chapter": "Cardiology"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 63,
+       "page": 63
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 73,
+       "page": 73
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "cardio-cardiomyopathy.c1",
+   "sectionId": "cardio-cardiomyopathy.s1",
+   "front": "Which is the commonest cardiomyopathy, and its prevalence (Davidson)?",
+   "back": "Hypertrophic cardiomyopathy, about 100 per 100 000.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 561,
+     "page": 539,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.c2",
+   "sectionId": "cardio-cardiomyopathy.s1",
+   "front": "ECG hallmarks of arrhythmogenic RV cardiomyopathy?",
+   "back": "T-wave inversion in V1–V3, a slightly broad QRS with **epsilon waves** at its end, and sometimes RBBB.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1138,
+     "page": 1122,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.c3",
+   "sectionId": "cardio-cardiomyopathy.s1",
+   "front": "Takotsubo: trigger, angiogram and ventricular shape?",
+   "back": "Acute emotional or physical stress (usually a woman). Coronaries are normal or near-normal, and the LV apex balloons while the base contracts.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 563,
+     "page": 541,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1140,
+     "page": 1124,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.c4",
+   "sectionId": "cardio-cardiomyopathy.s2",
+   "front": "Two commonest viral causes of myocarditis, with Davidson's rates?",
+   "back": "**Coxsackie** (about 35 per 1000 infections) and **influenza A/B** (about 25 per 1000).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 560,
+     "page": 538,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.c5",
+   "sectionId": "cardio-cardiomyopathy.s2",
+   "front": "Chagas heart disease: organism and late cardiac picture?",
+   "back": "_Trypanosoma cruzi_. A dilated cardiomyopathy 10–20 years after the acute infection, prone to heart block and ventricular arrhythmias.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 560,
+     "page": 538,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1135,
+     "page": 1119,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.c6",
+   "sectionId": "cardio-cardiomyopathy.s2",
+   "front": "What proportion of DCM is inherited, and which proteins are typically affected?",
+   "back": "At least 25%, mostly autosomal dominant; cytoskeletal proteins such as dystrophin, lamin A/C and emerin.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 561,
+     "page": 539,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.c7",
+   "sectionId": "cardio-cardiomyopathy.s3",
+   "front": "Which HCM mutation gives little hypertrophy but a high sudden-death risk?",
+   "back": "Troponin (T) mutations: marked fibre disarray and exercise-induced hypotension despite minimal hypertrophy.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1136,
+     "page": 1120,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.c8",
+   "sectionId": "cardio-cardiomyopathy.s3",
+   "front": "Which manoeuvres make the HOCM murmur louder, and which softer?",
+   "back": "Louder: **standing, Valsalva**, inotropes, vasodilators (e.g. sublingual nitrate). Softer: **squatting**, leg raise, sustained handgrip.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1136,
+     "page": 1120,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 90,
+     "page": 90
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.c9",
+   "sectionId": "cardio-cardiomyopathy.s3",
+   "front": "Six risk factors for sudden death in HCM (Davidson)?",
+   "back": "Previous arrest or sustained VT; recurrent syncope; adverse genotype or family history; exercise-induced hypotension; NSVT on Holter; marked LV wall thickening.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.c10",
+   "sectionId": "cardio-cardiomyopathy.s4",
+   "front": "Commonest UK cause of restrictive cardiomyopathy?",
+   "back": "Amyloidosis.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1139,
+     "page": 1123,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 516,
+     "page": 479
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.c11",
+   "sectionId": "cardio-cardiomyopathy.s4",
+   "front": "Obliterative cardiomyopathy: pathology and associations?",
+   "back": "Endocardial thrombus and fibrosis obliterate the cavities; associated with eosinophilia (eosinophilic leukaemia, EGPA); 50% mortality at 2 years.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 563,
+     "page": 541,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.c12",
+   "sectionId": "cardio-cardiomyopathy.s5",
+   "front": "A relative found to have asymptomatic DCM on screening: which ACC/AHA stage?",
+   "back": "Stage B: structural heart disease that has never caused symptoms.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 62,
+     "page": 62
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1091,
+     "page": 1075,
+     "chapter": "Cardiology",
+     "figure": "Fig. 30.57"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.c13",
+   "sectionId": "cardio-cardiomyopathy.s6",
+   "front": "Classic echo + ECG combination in cardiac amyloid?",
+   "back": "Thick walls with a speckled, sparkling myocardium and biatrial enlargement on echo, but **low QRS voltage** on the ECG.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 70,
+     "page": 70
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 71,
+     "page": 71
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1140,
+     "page": 1124,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.c14",
+   "sectionId": "cardio-cardiomyopathy.s6",
+   "front": "Tissue Doppler finding that favours restrictive cardiomyopathy over constriction?",
+   "back": "Reduced mitral annular e′ (< 8 cm/s). It is normal or high in constrictive pericarditis.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 95,
+     "page": 95
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.c15",
+   "sectionId": "cardio-cardiomyopathy.s6",
+   "front": "Exercise-test finding that marks high sudden-death risk in HCM?",
+   "back": "BP fails to rise or falls (≥ 20 mmHg from peak) during exercise.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 70,
+     "page": 70
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1136,
+     "page": 1120,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.c16",
+   "sectionId": "cardio-cardiomyopathy.s7",
+   "front": "Which drugs should be avoided in HOCM, and why?",
+   "back": "Digoxin and vasodilators (e.g. nitrates, hydralazine): they increase outflow tract obstruction.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 69,
+     "page": 69
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.c17",
+   "sectionId": "cardio-cardiomyopathy.s7",
+   "front": "Bisoprolol titration in heart failure?",
+   "back": "Start 1.25 mg daily and increase gradually over about 12 weeks to 10 mg daily.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 489,
+     "page": 467,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.c18",
+   "sectionId": "cardio-cardiomyopathy.s8",
+   "front": "Davidson criteria for CRT?",
+   "back": "NYHA III–IV, sinus rhythm, LBBB and LVEF ≤ 35%; most devices are CRT-D.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 506,
+     "page": 484,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.c19",
+   "sectionId": "cardio-cardiomyopathy.s8",
+   "front": "Main cause of late heart-transplant failure, and why is angina rare?",
+   "back": "Allograft coronary vasculopathy (accelerated atherosclerosis from chronic rejection); the transplanted heart is denervated.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 489,
+     "page": 467,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1092,
+     "page": 1076,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.c20",
+   "sectionId": "cardio-cardiomyopathy.s8",
+   "front": "Key complication of alcohol septal ablation?",
+   "back": "Complete heart block needing a permanent pacemaker (also MI).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1137,
+     "page": 1121,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 70,
+     "page": 70
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "cardio-cardiomyopathy.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 61-year-old woman develops central chest pain and breathlessness the day after her husband's funeral. The ECG shows anterior ST elevation and troponin is raised. Emergency angiography shows unobstructed coronary arteries; the left ventriculogram shows a ballooned apex with a briskly contracting base.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Takotsubo cardiomyopathy",
+    "Anterior myocardial infarction",
+    "Acute viral myocarditis",
+    "Apical hypertrophic cardiomyopathy",
+    "Peripartum cardiomyopathy"
+   ],
+   "answer": 0,
+   "explanation": "An emotional trigger, a STEMI-like presentation in an older woman, **normal coronaries** and **apical ballooning** add up to Takotsubo cardiomyopathy. Davidson says LV function usually recovers within days, and treatment is a β-blocker plus ACE inhibitor until it does.",
+   "whyNot": [
+    "",
+    "An infarct of this size would need an occluded artery; the angiogram shows none.",
+    "Myocarditis usually follows a viral illness and does not cause this stress-triggered apical ballooning pattern.",
+    "Apical HCM is chronic thickening with giant T inversion, not an acute ballooned apex.",
+    "Peripartum cardiomyopathy is linked to late pregnancy or the months after delivery."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 563,
+     "page": 541,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1140,
+     "page": 1124,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 65,
+     "page": 65
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 19-year-old man collapses during a football match and is resuscitated from ventricular tachycardia. His ECG in sinus rhythm shows T-wave inversion in V1–V3 and a small deflection just after the QRS in V1. Echo shows a dilated right ventricle with regional wall-motion abnormalities and a normal left ventricle.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Arrhythmogenic right ventricular cardiomyopathy",
+    "Hypertrophic cardiomyopathy",
+    "Dilated cardiomyopathy",
+    "Restrictive cardiomyopathy",
+    "Takotsubo cardiomyopathy"
+   ],
+   "answer": 0,
+   "explanation": "A young man with **VT**, **right precordial T inversion** and an **epsilon wave**, plus an abnormal **RV** with a normal LV, has ARVC. It is a desmosomal, autosomal dominant disease with fibro-fatty replacement of the RV.",
+   "whyNot": [
+    "",
+    "HCM would show LV hypertrophy on echo, not an isolated dilated RV.",
+    "DCM mainly affects the LV, which is normal here.",
+    "RCM gives stiff, non-dilated ventricles with big atria and congestion, not RV dilatation with VT in a teenager.",
+    "Takotsubo is a stress-triggered LV apical problem in older women."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1137,
+     "page": 1121,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1138,
+     "page": 1122,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 517,
+     "page": 480
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 34-year-old man had a flu-like illness with pleuritic chest pain 4 weeks ago. He now has orthopnoea and ankle swelling. Echo shows a dilated, globally hypokinetic left ventricle (EF 25%), and CT coronary angiography is normal.",
+   "leadIn": "Which virus is most often responsible for this picture?",
+   "options": [
+    "Coxsackie B virus",
+    "Epstein–Barr virus",
+    "Hepatitis B virus",
+    "Herpes simplex virus",
+    "Rotavirus"
+   ],
+   "answer": 0,
+   "explanation": "Viral myocarditis can progress to DCM, often through a late autoimmune reaction. **Coxsackie** is the classic and commonest cause (Davidson: about 35 cases per 1000 infections; Kumar & Clark Essentials: commonest UK cause).",
+   "whyNot": [
+    "",
+    "EBV is not among the viruses the books list as main causes of myocarditis.",
+    "Hepatitis B is not among the listed cardiotropic viruses.",
+    "HSV is not a recognised common cause of myocarditis in these sources.",
+    "Rotavirus causes gastroenteritis and is not a listed cause of myocarditis."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 560,
+     "page": 538,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 561,
+     "page": 539,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 514,
+     "page": 477
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 47-year-old man who grew up in rural Bolivia presents with breathlessness and syncope. ECG shows right bundle branch block and intermittent complete heart block; echo shows a dilated left ventricle with an apical aneurysm. He recalls a febrile illness in childhood but has otherwise been well.",
+   "leadIn": "What is the most likely cause?",
+   "options": [
+    "Trypanosoma cruzi infection",
+    "Borrelia burgdorferi infection",
+    "Toxoplasma gondii infection",
+    "Coxsackie B virus infection",
+    "Schistosoma infection"
+   ],
+   "answer": 0,
+   "explanation": "**Chagas disease** is endemic in South America. Patients often recover from the acute illness and develop **chronic DCM 10–20 years later**, with **heart block**, ventricular arrhythmias and an **apical aneurysm**.",
+   "whyNot": [
+    "",
+    "Lyme carditis causes AV block during the acute illness, not a dilated, aneurysmal LV decades later.",
+    "Toxoplasma is a rare protozoal cause of myocarditis without this South American late-DCM pattern.",
+    "Coxsackie myocarditis can lead to DCM but does not explain the endemic exposure, apical aneurysm and conduction disease.",
+    "Schistosoma is listed as a parasitic cause of myocarditis but not of this classic late picture."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 560,
+     "page": 538,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1135,
+     "page": 1119,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 67,
+     "page": 67
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 17-year-old girl faints while running for a bus. She has a jerky carotid pulse and a double apical impulse. An ejection systolic murmur at the left lower sternal edge gets louder when she stands and during a Valsalva manoeuvre, and quieter when she squats.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Hypertrophic obstructive cardiomyopathy",
+    "Bicuspid aortic stenosis",
+    "Mitral valve prolapse",
+    "Ventricular septal defect",
+    "Dilated cardiomyopathy"
+   ],
+   "answer": 0,
+   "explanation": "A murmur that **increases when preload falls** (standing, Valsalva) and decreases when it rises (squatting) means **dynamic LVOT obstruction**. With a jerky pulse and a palpable S4 (double apical impulse), this is HOCM.",
+   "whyNot": [
+    "",
+    "The AS murmur softens with Valsalva, and the carotid pulse is reduced rather than jerky.",
+    "MVP also changes with standing, but it does not explain a jerky pulse, a palpable fourth heart sound and effort syncope.",
+    "A VSD murmur is pansystolic and does not behave this way with preload.",
+    "DCM gives a displaced apex and S3 with functional MR, not a dynamic outflow murmur."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1136,
+     "page": 1120,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 90,
+     "page": 90
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 91,
+     "page": 91
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 69,
+     "page": 69
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 22-year-old man is screened after his brother died suddenly at 19. His echo shows only mild septal thickening, but his blood pressure falls during an exercise test. Genetic testing finds the family mutation.",
+   "leadIn": "Which gene is most likely to be affected?",
+   "options": [
+    "Cardiac troponin T",
+    "β-myosin heavy chain",
+    "Myosin-binding protein C",
+    "Plakophilin-2",
+    "Lamin A/C"
+   ],
+   "answer": 0,
+   "explanation": "In HCM, **troponin mutations** produce little or no hypertrophy but marked fibre disarray, **exercise-induced hypotension** and a **high sudden-death risk**. That fits the minimal hypertrophy and the family history of early sudden death here.",
+   "whyNot": [
+    "",
+    "β-myosin heavy-chain mutations typically give marked hypertrophy.",
+    "Myosin-binding protein C mutations tend to present late in life, with hypertension and arrhythmia.",
+    "Plakophilin-2 is the commonest ARVC gene, which affects the RV rather than causing septal thickening.",
+    "Lamin A/C mutations are linked to familial DCM with conduction disease."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1136,
+     "page": 1120,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 72-year-old man has increasing breathlessness, ankle oedema and ascites. His JVP is raised and rises further on inspiration. ECG shows small QRS complexes in all leads. Echo shows thick ventricular walls with a speckled appearance, both atria enlarged and an ejection fraction of 55%.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Cardiac amyloidosis",
+    "Hypertrophic cardiomyopathy",
+    "Hypertensive heart disease",
+    "Dilated cardiomyopathy",
+    "Arrhythmogenic right ventricular cardiomyopathy"
+   ],
+   "answer": 0,
+   "explanation": "This is restrictive physiology (right-sided congestion, Kussmaul sign, big atria, preserved EF). **Thick walls with low ECG voltage** and a speckled myocardium point to **amyloid**, the commonest UK cause of RCM. Next comes immunofixation with free light chains, and biopsy.",
+   "whyNot": [
+    "",
+    "HCM gives high voltage and LVH patterns on ECG, not low voltage.",
+    "Hypertensive LVH causes increased voltage, and the myocardium is not speckled.",
+    "DCM gives dilated, poorly contracting ventricles with a low EF.",
+    "ARVC affects the RV with arrhythmias, not thick-walled restrictive ventricles."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1139,
+     "page": 1123,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1140,
+     "page": 1124,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 70,
+     "page": 70
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 71,
+     "page": 71
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 41-year-old woman with late-onset asthma and a very high blood eosinophil count develops breathlessness and a stroke. Echo shows the left ventricular apex filled in by thrombus and fibrous tissue, with mitral and tricuspid regurgitation.",
+   "leadIn": "Which form of cardiomyopathy is this?",
+   "options": [
+    "Obliterative (eosinophilic endomyocardial) cardiomyopathy",
+    "Dilated cardiomyopathy",
+    "Takotsubo cardiomyopathy",
+    "Apical hypertrophic cardiomyopathy",
+    "Arrhythmogenic right ventricular cardiomyopathy"
+   ],
+   "answer": 0,
+   "explanation": "**Eosinophilia** (here suggesting EGPA) with **endocardial thrombosis and fibrosis** obliterating the cavity, valve regurgitation and **systemic emboli** is obliterative cardiomyopathy. Treatment is anticoagulation, antiplatelet therapy and diuretics.",
+   "whyNot": [
+    "",
+    "DCM has a dilated, empty cavity, not one filled with fibrous tissue, and is not linked to eosinophilia.",
+    "Takotsubo is acute apical ballooning after stress, with recovery.",
+    "Apical HCM is muscle hypertrophy, not thrombus and fibrosis with eosinophilia.",
+    "ARVC is fibro-fatty RV replacement in young people, presenting with arrhythmia."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 563,
+     "page": 541,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1139,
+     "page": 1123,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 71,
+     "page": 71
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 36-year-old man is screened because his sister has familial DCM. He has never had any cardiac symptoms. Echo shows a mildly dilated left ventricle with an ejection fraction of 40%.",
+   "leadIn": "Which ACC/AHA heart-failure stage is he in?",
+   "options": [
+    "Stage A",
+    "Stage B",
+    "Stage C",
+    "Stage D",
+    "Not staged until symptoms appear"
+   ],
+   "answer": 1,
+   "explanation": "He has **structural heart disease** (a dilated, impaired LV) but has **never had symptoms**, which is stage B. Treatment emphasis is ACEI/ARB, plus a β-blocker because the EF is reduced.",
+   "whyNot": [
+    "Stage A is risk without structural disease; he already has an abnormal ventricle.",
+    "",
+    "Stage C needs current or previous HF symptoms.",
+    "Stage D means refractory symptoms needing specialised intervention.",
+    "Stages apply before symptoms; that is the point of stages A and B."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s5"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 62,
+     "page": 62
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1091,
+     "page": 1075,
+     "chapter": "Cardiology",
+     "figure": "Fig. 30.57"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1138,
+     "page": 1122,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 58-year-old woman with dilated cardiomyopathy is comfortable sitting in her chair. Walking from her bedroom to the bathroom, a few metres on the flat, makes her stop with breathlessness.",
+   "leadIn": "Which description best fits her current status?",
+   "options": [
+    "NYHA class I",
+    "NYHA class II",
+    "NYHA class III",
+    "NYHA class IV",
+    "ACC/AHA stage B"
+   ],
+   "answer": 2,
+   "explanation": "She is comfortable at rest, but **less than ordinary activity** causes symptoms: a marked limitation of normal activities, which is **NYHA III**.",
+   "whyNot": [
+    "Class I means no limitation of ordinary activity.",
+    "Class II is only a slight limitation, with symptoms on ordinary exertion such as stairs.",
+    "",
+    "Class IV means symptoms with any activity, and often at rest.",
+    "Stage B patients have never had symptoms; she is clearly symptomatic."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 476,
+     "page": 454,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1088,
+     "page": 1072,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 63-year-old man has right-sided heart failure. Echo shows both atria enlarged and normal-sized ventricles with normal systolic function. You need to decide between restrictive cardiomyopathy and constrictive pericarditis.",
+   "leadIn": "Which finding favours restrictive cardiomyopathy?",
+   "options": [
+    "Mitral annular e′ velocity below 8 cm/s on tissue Doppler",
+    "Thickened pericardium on CT",
+    "Marked respiratory variation in mitral inflow",
+    "Septal bounce in early diastole",
+    "Discordant LV and RV systolic pressure peaks with respiration"
+   ],
+   "answer": 0,
+   "explanation": "In **RCM** the muscle itself is stiff, so **myocardial relaxation velocity (e′) is low**. In constriction the myocardium is normal and e′ is preserved or high. The other options are all features of constriction.",
+   "whyNot": [
+    "",
+    "A thick pericardium points to constriction; it is normal in RCM.",
+    "Respiratory variation is marked in constriction and small in RCM.",
+    "A septal bounce is a sign of ventricular interdependence in constriction.",
+    "Discordant pressure peaks indicate constriction; RCM gives concordant peaks."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s6"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 95,
+     "page": 95
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1140,
+     "page": 1124,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 27-year-old man is assessed because his brother has hypertrophic cardiomyopathy. His ECG shows voltage criteria for left ventricular hypertrophy with deep T-wave inversion.",
+   "leadIn": "What is the investigation of choice to confirm the diagnosis?",
+   "options": [
+    "Transthoracic echocardiography",
+    "Coronary angiography",
+    "Endomyocardial biopsy",
+    "Exercise tolerance test",
+    "Serum NT-proBNP"
+   ],
+   "answer": 0,
+   "explanation": "Davidson calls **echocardiography the investigation of choice** in HCM, and it is usually diagnostic. It shows asymmetric septal hypertrophy, SAM and a small, vigorous cavity. Cardiac MRI and genetic testing add to it.",
+   "whyNot": [
+    "",
+    "Angiography looks for coronary disease; it does not show the hypertrophy pattern.",
+    "Biopsy is unusually helpful in RCM, not needed to diagnose HCM.",
+    "Exercise testing risk-stratifies (BP response) but does not make the diagnosis.",
+    "NT-proBNP is non-specific and cannot show hypertrophy."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1136,
+     "page": 1120,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 91,
+     "page": 91
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 30-year-old man with hypertrophic obstructive cardiomyopathy and a significant outflow gradient has exertional chest pain. He is already taking bisoprolol.",
+   "leadIn": "Which drug is most likely to make his condition worse?",
+   "options": [
+    "Sublingual glyceryl trinitrate",
+    "Verapamil",
+    "Disopyramide",
+    "Amiodarone",
+    "A higher dose of bisoprolol"
+   ],
+   "answer": 0,
+   "explanation": "Vasodilators such as **nitrates lower preload and afterload**, which **increases LVOT obstruction** and can cause refractory hypotension. Davidson specifically names sublingual nitrate as augmenting obstruction.",
+   "whyNot": [
+    "",
+    "Verapamil is a recommended symptomatic drug in HCM.",
+    "Disopyramide is added to reduce obstruction.",
+    "Amiodarone is used for arrhythmias in HCM.",
+    "β-blockers are first line; up-titration is appropriate."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1137,
+     "page": 1121,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 69,
+     "page": 69
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 55-year-old man with dilated cardiomyopathy (EF 30%) remains breathless. He takes ramipril, bisoprolol at target dose and spironolactone. He is in sinus rhythm at 86/min.",
+   "leadIn": "Which additional drug is most appropriate?",
+   "options": [
+    "Ivabradine",
+    "Verapamil",
+    "Digoxin",
+    "Pioglitazone",
+    "Amiodarone"
+   ],
+   "answer": 0,
+   "explanation": "Ivabradine slows the **sinus node** and reduces admissions and mortality in moderate to severe LV systolic dysfunction. It suits patients in **sinus rhythm with a high rate despite β-blockade**, and is useless in AF.",
+   "whyNot": [
+    "",
+    "Non-dihydropyridine CCBs should be avoided in HFrEF.",
+    "Digoxin reduces admissions in NYHA III–IV but has no survival effect; it is mainly for AF rate control.",
+    "Thiazolidinediones are on the list of drugs to avoid in HF.",
+    "Amiodarone is only for symptomatic arrhythmias, not as a preventive agent."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 489,
+     "page": 467,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 63,
+     "page": 63
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q15",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 49-year-old woman with HOCM has persistent symptoms despite drugs, with an outflow gradient of 70 mmHg. She is offered alcohol septal ablation.",
+   "leadIn": "Which complication is she most important to warn about?",
+   "options": [
+    "Complete heart block",
+    "Mitral stenosis",
+    "Aortic dissection",
+    "Pulmonary embolism",
+    "Constrictive pericarditis"
+   ],
+   "answer": 0,
+   "explanation": "Alcohol septal ablation deliberately infarcts the basal septum, through which the **conducting system** runs. **Complete heart block** is the characteristic complication; Pocket says 10–20% need a pacemaker. MI is the other recognised risk.",
+   "whyNot": [
+    "",
+    "The procedure does not narrow the mitral valve.",
+    "Dissection is not a listed risk of septal ablation.",
+    "PE is not a characteristic risk of this procedure.",
+    "Constriction is not a recognised complication."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s8"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1137,
+     "page": 1121,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 70,
+     "page": 70
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q16",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 52-year-old man had a heart transplant for DCM 6 years ago. Over the past year he has become progressively breathless, without chest pain. Coronary angiography shows diffuse narrowing of the graft arteries.",
+   "leadIn": "What is the most likely cause?",
+   "options": [
+    "Allograft coronary vasculopathy",
+    "Acute cellular rejection",
+    "Recurrence of dilated cardiomyopathy",
+    "Cytomegalovirus myocarditis",
+    "Constrictive pericarditis"
+   ],
+   "answer": 0,
+   "explanation": "**Accelerated graft atherosclerosis**, a form of chronic rejection, is the main cause of **late graft failure** (30–50% at 5 years). **Angina is rare because the heart is denervated**, so it presents as heart failure.",
+   "whyNot": [
+    "",
+    "Acute rejection presents with heart failure, arrhythmia or ECG changes and is confirmed by biopsy; it does not cause diffuse coronary narrowing.",
+    "Kumar describes recurrence in the graft for cardiac amyloid, not DCM, and recurrence would not explain diffuse coronary narrowing.",
+    "CMV is an opportunistic infection and would not cause diffuse angiographic narrowing.",
+    "Constriction would not explain the coronary findings."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 489,
+     "page": 467,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1092,
+     "page": 1076,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1140,
+     "page": 1124,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q17",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Types and causes of cardiomyopathy",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Dilated cardiomyopathy (familial)",
+    "Hypertrophic obstructive cardiomyopathy",
+    "Restrictive cardiomyopathy",
+    "Arrhythmogenic right ventricular cardiomyopathy",
+    "Takotsubo cardiomyopathy",
+    "Peripartum cardiomyopathy",
+    "Tachycardia-induced cardiomyopathy",
+    "Obliterative cardiomyopathy",
+    "Acute viral myocarditis",
+    "Alcoholic cardiomyopathy"
+   ],
+   "items": [
+    {
+     "stem": "A 33-year-old woman with pre-eclampsia delivered her fourth baby 6 weeks ago. She now has orthopnoea and leg swelling. Echo shows a dilated left ventricle with an EF of 30%.",
+     "answer": 5,
+     "explanation": "Onset between late pregnancy and 5 months after delivery, in a multiparous woman over 30 with pre-eclampsia, is classic for **peripartum cardiomyopathy**. Nearly half recover within 6 months.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s1"
+     }
+    },
+    {
+     "stem": "A 46-year-old man has had palpitations for several months. His ECG shows atrial flutter at 150/min, and echo shows a dilated left ventricle with an EF of 30%. Three months after successful ablation of the flutter circuit, his EF is normal.",
+     "answer": 6,
+     "explanation": "Two steps: a prolonged fast rhythm dilated the heart, and **recovery once sinus rhythm returned** confirms it. This is **tachycardia-induced** cardiomyopathy.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s1"
+     }
+    },
+    {
+     "stem": "A 24-year-old student had a sore throat and myalgia 2 weeks ago. She now has fever, chest pain and breathlessness, with a raised troponin and CK. Echo shows mild global hypokinesia, and cardiac MRI shows patchy myocardial oedema and enhancement.",
+     "answer": 8,
+     "explanation": "A recent viral illness, fever, raised troponin/CK and MRI evidence of **myocardial inflammation** indicate **acute viral myocarditis**. Treatment is supportive, avoiding intense exertion.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s2"
+     }
+    },
+    {
+     "stem": "A 54-year-old landlord drinks about 10 units a day. He has a dilated, poorly contracting left ventricle with normal coronary arteries. After a year of complete abstinence, his EF has risen from 25% to 45%.",
+     "answer": 9,
+     "explanation": "Heavy, long-standing drinking, normal coronaries and a **dramatic improvement after abstinence** are typical of **alcoholic** cardiomyopathy.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1140,
+     "page": 1124,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 65,
+     "page": 65
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 560,
+     "page": 538,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 563,
+     "page": 541,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1135,
+     "page": 1119,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q18",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Investigation findings in cardiomyopathy",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Epsilon waves with T-wave inversion in V1–V3",
+    "Low QRS voltage despite thick ventricular walls",
+    "Systolic anterior motion of the mitral valve",
+    "Globular heart with all four chambers dilated",
+    "Fall in systolic blood pressure during exercise",
+    "Apical ballooning with normal coronary arteries",
+    "Kerley B lines with upper-lobe venous diversion",
+    "Mitral annular e′ velocity below 8 cm/s",
+    "Patchy myocardial oedema on cardiac MRI",
+    "Basal septal scar with FDG uptake on PET"
+   ],
+   "items": [
+    {
+     "stem": "A 67-year-old man with known myeloma develops breathlessness and ankle oedema; echo shows thickened ventricles and enlarged atria. Which finding on his ECG and echo together is most characteristic?",
+     "answer": 1,
+     "explanation": "Two steps: myeloma means a risk of **AL amyloid**, which gives restrictive cardiomyopathy. The hallmark is **thick walls on echo with low voltage on ECG**.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s6"
+     }
+    },
+    {
+     "stem": "A 26-year-old woman whose father died suddenly at 38 has a septum of 24 mm and a murmur that gets louder on standing. Which echo finding explains both her outflow murmur and her apical pansystolic murmur?",
+     "answer": 2,
+     "explanation": "In HOCM, **SAM** of the anterior mitral leaflet narrows the outflow tract and also causes **mitral regurgitation**.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s6"
+     }
+    },
+    {
+     "stem": "A 44-year-old man has progressive exertional breathlessness, a displaced apex and a third heart sound; his coronary angiogram is normal. Which echo appearance is expected?",
+     "answer": 3,
+     "explanation": "DCM: dilated chambers with poor global contraction give a **globular** heart on the apical four-chamber view.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s6"
+     }
+    },
+    {
+     "stem": "A 19-year-old with HCM is being risk-stratified for an ICD. Which finding on formal exercise testing would most increase concern?",
+     "answer": 4,
+     "explanation": "A **flat or falling BP response** to exercise is a sudden-death risk marker in HCM and pushes towards an ICD.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 70,
+     "page": 70
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1136,
+     "page": 1120,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1139,
+     "page": 1123,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 71,
+     "page": 71
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q19",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 45-year-old man with stage D dilated cardiomyopathy is referred for heart transplantation. He has no other illness. Right heart catheterisation is performed as part of the work-up.",
+   "leadIn": "Which finding would most strongly count against conventional heart transplantation?",
+   "options": [
+    "High pulmonary vascular resistance",
+    "Age of 45 years",
+    "Previous viral myocarditis",
+    "NYHA class IV symptoms",
+    "An implanted ICD"
+   ],
+   "answer": 0,
+   "explanation": "With **high pulmonary vascular resistance**, the donor right ventricle may fail against the raised resistance; Kumar lists it as an **absolute contraindication**. The other options are typical of good transplant candidates.",
+   "whyNot": [
+    "",
+    "Transplant is generally reserved for younger patients; 45 is well within range.",
+    "DCM after myocarditis is a common indication, not a contraindication.",
+    "Severe symptoms despite optimal therapy are the reason for referral.",
+    "Many candidates already have an ICD or CRT-D."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 489,
+     "page": 467,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1092,
+     "page": 1076,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q20",
+   "kind": "emq",
+   "pool": "worked",
+   "difficulty": 2,
+   "theme": "Causes of restrictive cardiomyopathy",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "AL amyloidosis",
+    "Haemochromatosis",
+    "Sarcoidosis",
+    "Löffler eosinophilic endocarditis",
+    "Tropical endomyocardial fibrosis",
+    "Carcinoid heart disease",
+    "Radiation-induced heart disease",
+    "Fabry disease",
+    "Systemic sclerosis",
+    "Idiopathic familial restrictive cardiomyopathy"
+   ],
+   "items": [
+    {
+     "stem": "A 51-year-old man of Northern European descent has restrictive cardiac physiology. Iron studies show marked iron overload.",
+     "answer": 1,
+     "explanation": "Step 1: restrictive physiology means a stiff, infiltrated or storage-affected myocardium. Step 2: iron overload in a middle-aged Northern European man points to **haemochromatosis**. Step 3: it matters because it is treatable, by **venesection or deferoxamine**.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s4"
+     }
+    },
+    {
+     "stem": "A 34-year-old woman presents with complete heart block and runs of VT. Cardiac MRI shows scarring of the basal septum, and FDG-PET shows patchy myocardial uptake.",
+     "answer": 2,
+     "explanation": "Step 1: a young patient with **AV block plus VT** suggests an infiltrative process in the conducting tissue. Step 2: **basal septal scar** and **FDG uptake** (active inflammation) are the hallmarks of **cardiac sarcoidosis**. Step 3: treatment includes **glucocorticoids**.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s4"
+     }
+    },
+    {
+     "stem": "A 62-year-old man with liver metastases from a small-bowel tumour has episodic flushing and diarrhoea. He develops right-sided heart failure, and echo shows thickened tricuspid and pulmonary valves.",
+     "answer": 5,
+     "explanation": "Step 1: the illness causes **right-sided** valve disease and failure. Step 2: flushing, diarrhoea and liver metastases indicate carcinoid syndrome. Step 3: **carcinoid heart disease** is an endomyocardial cause of restriction, typically with TR/TS and PR/PS.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1139,
+     "page": 1123,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 71,
+     "page": 71
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 92,
+     "page": 92
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 93,
+     "page": 93
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q21",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 23-year-old man with HCM had an unexplained blackout last month. Holter monitoring shows runs of non-sustained VT, and his father died suddenly at 35. He takes bisoprolol and has no outflow gradient.",
+   "leadIn": "What is the most appropriate step to reduce his risk of sudden death?",
+   "options": [
+    "Implantable cardioverter-defibrillator",
+    "Add digoxin",
+    "Add disopyramide",
+    "Dual-chamber pacemaker",
+    "Alcohol septal ablation"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: list his risk factors (Davidson Box 16.106): **unexplained syncope**, **NSVT on Holter** and a **family history of sudden death**. That makes three. Step 2: no drug improves prognosis in HCM, so the protection comes from a device. Davidson says to consider an ICD when risk factors are present, and Kumar uses an ICD with two or more. Step 3: septal reduction and pacing treat **obstruction**, which he does not have. The answer is an **ICD**.",
+   "whyNot": [
+    "",
+    "Digoxin worsens outflow obstruction and has no role in HCM.",
+    "Disopyramide relieves symptoms of obstruction but does not prevent sudden death.",
+    "Dual-chamber pacing reduces outflow gradients in some patients; it does not treat VT/VF.",
+    "Septal ablation treats drug-refractory obstruction, which he does not have, and can itself cause arrhythmia and heart block."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s8"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1136,
+     "page": 1120,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1137,
+     "page": 1121,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 70,
+     "page": 70
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q22",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Management of cardiomyopathy",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Up-titrated β-blocker alone",
+    "Add verapamil",
+    "Add disopyramide",
+    "Surgical septal myectomy",
+    "Implantable cardioverter-defibrillator",
+    "CRT with defibrillator (CRT-D)",
+    "Complete abstinence from alcohol",
+    "Left ventricular assist device",
+    "Cardiac transplantation",
+    "β-blocker plus ACE inhibitor until LV function recovers",
+    "Anticoagulation plus diuretics",
+    "Venesection"
+   ],
+   "items": [
+    {
+     "stem": "A 64-year-old woman developed Takotsubo cardiomyopathy after a burglary at her home. Her coronaries are normal and she is stable. Which drug plan is most appropriate?",
+     "answer": 9,
+     "explanation": "Davidson: give a **β-blocker** (prevents arrhythmia) and an **ACE inhibitor** (LV dysfunction), and continue them only until function recovers, usually within days.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s7"
+     }
+    },
+    {
+     "stem": "A 58-year-old man with DCM remains NYHA class III on optimal drugs. He is in sinus rhythm with LBBB and an LVEF of 25%.",
+     "answer": 5,
+     "explanation": "NYHA III–IV, sinus rhythm, LBBB and EF ≤ 35% meet the criteria for **CRT**. Most such patients also qualify for an ICD, hence **CRT-D**.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s8"
+     }
+    },
+    {
+     "stem": "A 35-year-old woman with non-obstructive HCM still has exertional angina despite a maximally tolerated β-blocker.",
+     "answer": 1,
+     "explanation": "If symptoms persist on a β-blocker, the next step is a **non-dihydropyridine calcium antagonist such as verapamil** (Step-Up). Disopyramide is used mainly for **outflow obstruction**, which she does not have.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s7"
+     }
+    },
+    {
+     "stem": "A 29-year-old man with fulminant viral myocarditis is in cardiogenic shock despite inotropes. His cardiologists expect the myocardium to recover over the coming weeks.",
+     "answer": 7,
+     "explanation": "Two steps: the insult is **reversible**, so the aim is temporary support. Davidson describes **VADs** as short-term support after reversible insults such as viral myocarditis (bridge to recovery).",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s8"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 563,
+     "page": 541,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 506,
+     "page": 484,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 91,
+     "page": 91
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 490,
+     "page": 468,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q23",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Causes of dilated cardiomyopathy",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Coxsackie B myocarditis",
+    "HIV infection",
+    "Chagas disease",
+    "Alcohol excess",
+    "Anthracycline toxicity",
+    "Trastuzumab toxicity",
+    "X-linked muscular dystrophy",
+    "Familial lamin A/C cardiomyopathy",
+    "Peripartum cardiomyopathy",
+    "Thyrotoxicosis",
+    "Wet beriberi (thiamine deficiency)",
+    "Ischaemic heart disease"
+   ],
+   "items": [
+    {
+     "stem": "An 18-year-old man has had progressive proximal muscle weakness since early childhood and uses a wheelchair. Echo shows a dilated, poorly contracting left ventricle.",
+     "answer": 6,
+     "explanation": "Most **X-linked dystrophies (Duchenne, Becker)** are associated with cardiomyopathy through faulty dystrophin, a cytoskeletal protein.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s2"
+     }
+    },
+    {
+     "stem": "A 50-year-old woman had a high cumulative dose of doxorubicin for lymphoma 3 years ago. She now has HFrEF with normal coronary arteries.",
+     "answer": 4,
+     "explanation": "Doxorubicin is an **anthracycline**. Toxicity is dose-related (risk rises above about 550 mg/m²) and may appear years later.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s2"
+     }
+    },
+    {
+     "stem": "A 39-year-old man with untreated advanced HIV and a very low CD4 count has a dilated left ventricle. Coronary arteries, thyroid function and iron studies are normal.",
+     "answer": 1,
+     "explanation": "Up to **10% of patients with advanced HIV** develop myocardial involvement, probably through the same post-viral autoimmune mechanism proposed for DCM.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s2"
+     }
+    },
+    {
+     "stem": "A 45-year-old man has DCM. His father and sister had the same diagnosis, and his ECG shows first-degree AV block with intermittent complete heart block. He also has mild limb-girdle weakness.",
+     "answer": 7,
+     "explanation": "Two steps: several affected relatives means **familial (autosomal dominant) DCM**. Associated **conduction disease and skeletal myopathy** point to a nuclear-envelope gene, **lamin A/C**.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 561,
+     "page": 539,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 65,
+     "page": 65
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1138,
+     "page": 1122,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 75,
+     "page": 75
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q24",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 1,
+   "theme": "Heart-failure stage and functional class in cardiomyopathy",
+   "leadIn": "For each patient below, choose the stage or class that the stem asks for. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "ACC/AHA stage A",
+    "ACC/AHA stage B",
+    "ACC/AHA stage C",
+    "ACC/AHA stage D",
+    "NYHA class I",
+    "NYHA class II",
+    "NYHA class III",
+    "NYHA class IV"
+   ],
+   "items": [
+    {
+     "stem": "A 44-year-old man is found to have HCM on family screening. He has never had any symptoms. Which ACC/AHA stage applies?",
+     "answer": 1,
+     "explanation": "Structural disease without symptoms is **stage B**.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s5"
+     }
+    },
+    {
+     "stem": "A 60-year-old woman with DCM is comfortable at rest and on the flat, but gets breathless climbing two flights of stairs at a normal pace. Which NYHA class applies?",
+     "answer": 5,
+     "explanation": "Only **slight limitation**, with symptoms on ordinary activity, is **NYHA II**.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s5"
+     }
+    },
+    {
+     "stem": "A 52-year-old man with DCM is breathless at rest despite maximal drugs and a CRT-D, has repeated admissions, and is being assessed for a VAD or transplant. Which ACC/AHA stage applies?",
+     "answer": 3,
+     "explanation": "Refractory HF needing **specialised interventions** (inotropes, VAD, transplant, hospice) is **stage D**.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 62,
+     "page": 62
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1091,
+     "page": 1075,
+     "chapter": "Cardiology",
+     "figure": "Fig. 30.57"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 476,
+     "page": 454,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q25",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A 70-year-old woman with cardiac amyloid has a raised JVP. When she breathes in, the venous pressure rises instead of falling.",
+   "leadIn": "What is this sign called?",
+   "options": [
+    "Kussmaul sign",
+    "Friedreich sign",
+    "Jerky carotid pulse",
+    "Bifid (bisferious) carotid pulse",
+    "Double apical impulse"
+   ],
+   "answer": 0,
+   "explanation": "A **paradoxical rise in JVP on inspiration** is the **Kussmaul sign**, seen in restrictive cardiomyopathy and constriction. Friedreich sign is the sharp diastolic collapse of the JVP.",
+   "whyNot": [
+    "",
+    "Friedreich sign is a steep diastolic collapse of the JVP, not an inspiratory rise.",
+    "A jerky carotid pulse is an arterial sign of HOCM.",
+    "A bifid carotid pulse is also an HOCM sign.",
+    "A double apical impulse (palpable S4) is a sign of HCM."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1139,
+     "page": 1123,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 72,
+     "page": 72
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q26",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 52-year-old smoker with type 2 diabetes is found to have a dilated left ventricle with an EF of 30%. He has never had chest pain.",
+   "leadIn": "Which investigation is most important before he is labelled as having dilated cardiomyopathy?",
+   "options": [
+    "Coronary angiography or CT coronary angiography",
+    "Endomyocardial biopsy",
+    "Viral serology",
+    "Genetic testing",
+    "Cardiopulmonary exercise test"
+   ],
+   "answer": 0,
+   "explanation": "DCM is diagnosed only after **coronary artery disease is excluded**. Ischaemia is the commonest cause of a dilated, poorly contracting LV. Kumar advises angiography or CTCA for anyone at risk (over 40, or with risk factors), and this patient has several.",
+   "whyNot": [
+    "",
+    "Biopsy is not routinely indicated in DCM outside specialist care.",
+    "Viral serology is not recommended and would not exclude CAD.",
+    "Genetic testing is for patients with more than one affected relative.",
+    "CPET gives prognostic information in HF but does not establish the cause."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 561,
+     "page": 539,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1139,
+     "page": 1123,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 66,
+     "page": 66
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1089,
+     "page": 1073,
+     "chapter": "Cardiology"
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q27",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 3,
+   "theme": "Choosing investigations in cardiomyopathy",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Transthoracic echocardiography",
+    "Cardiac MRI with gadolinium",
+    "Coronary angiography or CTCA",
+    "Endomyocardial biopsy",
+    "24-hour Holter monitoring",
+    "Exercise test with blood-pressure response",
+    "Dobutamine stress echocardiography",
+    "Genetic testing of the affected family member",
+    "Serum free light chains with immunofixation",
+    "Simultaneous right and left heart catheterisation",
+    "Cardiopulmonary exercise test (peak VO2)"
+   ],
+   "items": [
+    {
+     "stem": "A 66-year-old man has LV dysfunction and known three-vessel coronary disease. Before bypass grafting, the surgeons want to know whether the poorly moving segments thicken in response to an inotrope (contractile reserve), which would predict recovery.",
+     "answer": 6,
+     "explanation": "**Dobutamine stress echo** shows **contractile reserve** in stunned or hibernating myocardium, which may recover after revascularisation. Gadolinium MRI images scar (delayed enhancement) rather than the response to an inotrope.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s6"
+     }
+    },
+    {
+     "stem": "A 71-year-old woman has thick ventricular walls on echo but low QRS voltage on ECG. Which blood test should be done first?",
+     "answer": 8,
+     "explanation": "Thick walls with low voltage suggest amyloid. Work-up starts by looking for a **plasma cell disorder** (AL) with **immunofixation and serum free light chains**, before fat-pad biopsy or a PYP scan.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s6"
+     }
+    },
+    {
+     "stem": "A 40-year-old woman has HCM. Her two teenage children and her brother want to know whether they will develop it. What should be done first to allow precise screening of the relatives?",
+     "answer": 7,
+     "explanation": "Two steps: relatives can only have targeted genetic tests once the **family mutation is known**. So first **genotype the affected person** (the index case); the relatives' echo/ECG surveillance continues alongside.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s6"
+     }
+    },
+    {
+     "stem": "A 50-year-old man with stage D DCM is being assessed for heart transplantation. Which test gives an objective prognostic measure of his exercise capacity?",
+     "answer": 10,
+     "explanation": "**Peak oxygen consumption (VO2)** on cardiopulmonary exercise testing predicts admission and death in HF; a 6-minute walk is an alternative.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1088,
+     "page": 1072,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1089,
+     "page": 1073,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 72,
+     "page": 72
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 70,
+     "page": 70
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q28",
+   "kind": "emq",
+   "pool": "mock",
+   "difficulty": 2,
+   "theme": "Sudden cardiac death in the young",
+   "leadIn": "For each patient below, choose the single most likely option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Hypertrophic cardiomyopathy",
+    "Arrhythmogenic right ventricular cardiomyopathy",
+    "Acute myocarditis",
+    "Dilated cardiomyopathy",
+    "Takotsubo cardiomyopathy",
+    "Restrictive cardiomyopathy",
+    "Chagas cardiomyopathy",
+    "Peripartum cardiomyopathy"
+   ],
+   "items": [
+    {
+     "stem": "A 20-year-old footballer collapses and dies during a match. At autopsy the interventricular septum is grossly thickened, and histology shows disorganised, disarrayed myocytes.",
+     "answer": 0,
+     "explanation": "Septal hypertrophy with **myocyte disarray** is HCM, the commonest cause of sudden death in young athletes.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s3"
+     }
+    },
+    {
+     "stem": "A 23-year-old man dies suddenly while jogging. At autopsy the right ventricular free wall is thin and largely replaced by fat and fibrous tissue.",
+     "answer": 1,
+     "explanation": "**Fibro-fatty replacement of the RV** is ARVC. First Aid calls it the second commonest cause of sudden death in the young after HOCM.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s1"
+     }
+    },
+    {
+     "stem": "An 18-year-old athlete returns to training 10 days after a flu-like illness and collapses with VF. Autopsy shows an inflammatory cell infiltrate throughout the myocardium.",
+     "answer": 2,
+     "explanation": "Davidson reports **myocarditis** as a cause of sudden unexpected death in young athletes. Exercise increases susceptibility, which is why intense exertion is avoided.",
+     "studyRef": {
+      "sectionId": "cardio-cardiomyopathy.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 560,
+     "page": 538,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1137,
+     "page": 1121,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 78,
+     "page": 78
+    }
+   ]
+  },
+  {
+   "id": "cardio-cardiomyopathy.q29",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 1,
+   "stem": "A 28-year-old man has just been diagnosed with hypertrophic cardiomyopathy caused by a β-myosin heavy-chain mutation. His wife is unaffected. He asks about the risk to each of their future children.",
+   "leadIn": "What is the risk that each child inherits the mutation?",
+   "options": [
+    "1 in 2",
+    "1 in 4",
+    "Only his sons are at risk",
+    "Only his daughters are at risk",
+    "No more than the general population"
+   ],
+   "answer": 0,
+   "explanation": "HCM is usually **autosomal dominant**, so each child of one affected parent has a **50%** chance of inheriting the mutation. Because penetrance is high but expression variable, carriers may differ in how severely they are affected.",
+   "whyNot": [
+    "",
+    "A 1 in 4 risk applies to autosomal recessive conditions with two carrier parents.",
+    "Autosomal dominant inheritance affects sons and daughters equally.",
+    "Autosomal dominant inheritance affects sons and daughters equally.",
+    "A dominant sarcomeric mutation gives each child a 50% risk."
+   ],
+   "studyRef": {
+    "sectionId": "cardio-cardiomyopathy.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 562,
+     "page": 540,
+     "chapter": "Cardiology"
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1135,
+     "page": 1119,
+     "chapter": "Cardiology"
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "cardio-cardiomyopathy.o1",
+   "sectionId": "cardio-cardiomyopathy.s1",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 561,
+    "page": 539,
+    "chapter": "Cardiology",
+    "figure": "Fig. 16.99"
+   },
+   "identify": "Schematic of the cardiomyopathy types: **asymmetric septal hypertrophy with SAM** (HOCM), concentric and apical HCM, thin-walled dilated LV (DCM), fatty RV (ARVC), obliterated apex, and stiff restrictive ventricles with big atria."
+  },
+  {
+   "id": "cardio-cardiomyopathy.o2",
+   "sectionId": "cardio-cardiomyopathy.s1",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 1138,
+    "page": 1122,
+    "chapter": "Cardiology",
+    "figure": "Fig. 30.111"
+   },
+   "identify": "ECG of **arrhythmogenic cardiomyopathy**: RBBB, T-wave inversion across the right precordial leads, and **epsilon waves** (small notches just after the QRS)."
+  },
+  {
+   "id": "cardio-cardiomyopathy.o3",
+   "sectionId": "cardio-cardiomyopathy.s1",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 563,
+    "page": 541,
+    "chapter": "Cardiology",
+    "figure": "Fig. 16.100"
+   },
+   "identify": "Left ventriculogram of **Takotsubo**: a ballooned, akinetic apex with a narrow contracting base (\"octopus pot\"); coronaries normal."
+  },
+  {
+   "id": "cardio-cardiomyopathy.o4",
+   "sectionId": "cardio-cardiomyopathy.s6",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 1136,
+    "page": 1120,
+    "chapter": "Cardiology",
+    "figure": "Fig. 30.108"
+   },
+   "identify": "Short-axis echo of **HCM**: a grossly thickened septum, a small LV cavity, and **systolic anterior motion** of the mitral valve."
+  },
+  {
+   "id": "cardio-cardiomyopathy.o5",
+   "sectionId": "cardio-cardiomyopathy.s6",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 1139,
+    "page": 1123,
+    "chapter": "Cardiology",
+    "figure": "Fig. 30.115"
+   },
+   "identify": "Echo of **DCM**: a globular heart with all four chambers dilated; M-mode shows very little LV systolic shortening."
+  },
+  {
+   "id": "cardio-cardiomyopathy.o6",
+   "sectionId": "cardio-cardiomyopathy.s6",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 1140,
+    "page": 1124,
+    "chapter": "Cardiology",
+    "figure": "Fig. 30.117"
+   },
+   "identify": "Echo of **cardiac amyloidosis**: LV thickening with a **speckled septum** and \"tramline\" reduced septal thickening on M-mode."
+  },
+  {
+   "id": "cardio-cardiomyopathy.o7",
+   "sectionId": "cardio-cardiomyopathy.s6",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 486,
+    "page": 464,
+    "chapter": "Cardiology",
+    "figure": "Fig. 16.27"
+   },
+   "identify": "CXR of **pulmonary oedema**: upper-lobe venous prominence, enlarged hila, **Kerley B lines** at the bases, alveolar shadowing and cardiomegaly."
+  },
+  {
+   "id": "cardio-cardiomyopathy.o8",
+   "sectionId": "cardio-cardiomyopathy.s8",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 489,
+    "page": 467,
+    "chapter": "Cardiology",
+    "figure": "Fig. 16.30"
+   },
+   "identify": "CXR of a **CRT-D** device: RA lead in the atrial appendage, RV pacing/shock lead at the apex, LV lead via the coronary sinus."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:44:19.497Z",
+  "contentHash": "c43f086090649b9529400c6394d11410b4d1da2df7f30d686212f2c7fd13cc41"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:44:19.505Z",
+  "contentHash": "c43f086090649b9529400c6394d11410b4d1da2df7f30d686212f2c7fd13cc41",
+  "checkerVersion": "source-check-v1"
+ }
+}

@@ -1,0 +1,2454 @@
+{
+ "topicId": "endo-pheochromocytoma",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "endo-pheochromocytoma.s1",
+   "title": "Definition and overview",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "A **phaeochromocytoma** is a rare neuro-endocrine tumour of the **chromaffin cells of the adrenal medulla** that can release catecholamines (**adrenaline and noradrenaline**). The same kind of tumour arising in **sympathetic ganglia outside the adrenal** is called a **paraganglioma**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 630,
+       "page": 608
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 70,
+       "page": 70
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "The adrenal medulla is in effect part of the sympathetic nervous system, except that it releases its catecholamines straight into the blood rather than into synapses. Phaeochromocytoma is therefore grouped with the **primary (ACTH-independent) causes of adrenal hormone excess**, alongside Conn's syndrome.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 687,
+       "page": 665
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Key numbers (Davidson)",
+     "items": [
+      "About **80%** arise in the adrenal medulla and about **20%** are extra-adrenal paragangliomas",
+      "Account for **less than 0.1%** of all hypertension (Kumar: under 1 in 1000 cases)",
+      "Secretion is unregulated and comes in **bursts**, so symptoms are typically episodic"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 630,
+       "page": 608
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 70,
+       "page": 70
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Rare but important: the tumour is **curable when found**, yet a missed one can kill through a hypertensive crisis or cardiovascular collapse.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 497,
+       "page": 497
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 630,
+       "page": 608
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Quick sources quote a **90/10** adrenal/extra-adrenal split (the old \"rule of 10s\"). Davidson gives **80/20**, so use 80/20 in the exam.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 497,
+       "page": 497
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.s2",
+   "title": "Pathology and catecholamine biochemistry",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Catecholamines are built from **tyrosine → DOPA → dopamine → noradrenaline → adrenaline**. They are broken down by **COMT and MAO** to **metanephrine and normetanephrine** and then to **vanillylmandelic acid (VMA)**. Raised metabolites in urine or plasma are what reveal over-secretion.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 629,
+       "page": 607,
+       "figure": "Fig. 21.18"
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 629,
+      "page": 607,
+      "figure": "Fig. 21.18"
+     },
+     "note": "Look at: the synthesis pathway from tyrosine and where COMT/MAO produce the metanephrines and VMA used in diagnosis."
+    },
+    {
+     "type": "table",
+     "title": "Pathological features",
+     "columns": [
+      "Feature",
+      "Detail"
+     ],
+     "rows": [
+      [
+       "Histology",
+       "Clusters of oval cells that stain for **chromogranin A**"
+      ],
+      [
+       "Malignancy",
+       "Cannot be decided from routine histology. Davidson: about **15%** show malignant behaviour; Kumar: 10%"
+      ],
+      [
+       "Multiplicity",
+       "Kumar: about 25% are multiple"
+      ],
+      [
+       "Secretion",
+       "Most make both noradrenaline and adrenaline; **large and extra-adrenal tumours make almost only noradrenaline**"
+      ],
+      [
+       "Paraganglioma sites",
+       "Mostly head and neck; also thorax, pelvis and bladder. Commonest abdominal extra-adrenal site: the **organ of Zuckerkandl** (aortic bifurcation). Often non-functioning (Davidson)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 630,
+       "page": 608
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 498,
+       "page": 498
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Extra-adrenal tumours are more often malignant** than adrenal ones.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 630,
+       "page": 608
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 498,
+       "page": 498
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Why measure metanephrines rather than catecholamines? Adrenaline lasts only **minutes** in the blood and its level swings with each burst. Its metanephrine breakdown products last longer and fluctuate less.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 70,
+       "page": 70
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The \"rule of 10s\" (10% bilateral, malignant, extra-adrenal, familial, multiple, in children) is outdated. Newer data show about 30–40% have a genetic cause and more are extra-adrenal or bilateral. Davidson gives **~15% malignant** and **~40% inherited**.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 498,
+       "page": 498
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 70,
+       "page": 70
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.s3",
+   "title": "Aetiology: inherited syndromes and genetics",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "About **40%** of phaeochromocytomas and paragangliomas have an **inherited cause**. All the main syndromes are **autosomal dominant**. **Paragangliomas** are particularly tied to **succinate dehydrogenase** mutations (SDHB, SDHC, SDHD); rarer genes include SDHA, SDHAF2, TMEM127 and MAX.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 497,
+       "page": 497
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1343,
+       "page": 1321
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Syndromes that include phaeochromocytoma",
+     "columns": [
+      "Syndrome",
+      "Gene",
+      "Other features"
+     ],
+     "rows": [
+      [
+       "MEN 2 (MEN 2a, Sipple's)",
+       "RET (gain of function, chr 10)",
+       "Medullary thyroid carcinoma + primary hyperparathyroidism + phaeochromocytoma"
+      ],
+      [
+       "MEN 3 (MEN 2b)",
+       "RET",
+       "Medullary thyroid carcinoma + phaeochromocytoma, **no hyperparathyroidism**; marfanoid habitus, mucosal neuromas (lips, tongue, gut), skeletal and dental enamel abnormalities"
+      ],
+      [
+       "von Hippel–Lindau",
+       "VHL",
+       "Haemangioblastomas (retina, CNS), renal cell carcinoma"
+      ],
+      [
+       "Neurofibromatosis type 1",
+       "NF1",
+       "Neurofibrosarcoma, optic glioma"
+      ],
+      [
+       "Familial paraganglioma",
+       "SDHB, SDHC, SDHD",
+       "Head-and-neck and other paragangliomas"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 710,
+       "page": 688
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 711,
+       "page": 689
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1343,
+       "page": 1321
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 671,
+       "page": 649
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 479,
+       "page": 479
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Clues that a tumour is inherited",
+     "items": [
+      "A **paraganglioma** rather than an adrenal tumour",
+      "**Bilateral** adrenal phaeochromocytomas",
+      "A **positive family history**",
+      "**Young age** at presentation"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 630,
+       "page": 608
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Mnemonics: MEN 2a = **\"MPH\"** (medullary carcinoma, phaeo, hyperparathyroidism); MEN 2b = **\"MMMP\"** (mucosal neuromas, medullary carcinoma, marfanoid, phaeo).",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 500,
+       "page": 500
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Anyone with **medullary thyroid carcinoma** must be **screened for phaeochromocytoma**, because familial cases belong to MEN 2. Do it **before thyroid surgery**: an unrecognised tumour can cause acute cardiovascular collapse during routine procedures.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 468,
+       "page": 468
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 711,
+       "page": 689
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 630,
+       "page": 608
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Sources disagree on how often phaeo occurs in MEN 2 (Kumar: most patients, often bilateral; quick sources ~40–50%), and on the familial rate (25% to 40%). Learn Davidson's **~40% inherited overall**. Davidson lists MEN 3 as \"as for MEN 2\", but Kumar and the quick sources state MEN 2b has **no hyperparathyroidism**; the marfanoid habitus and mucosal neuromas are the safer discriminators.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 671,
+       "page": 649
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 686,
+       "page": 649
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 479,
+       "page": 479
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 711,
+       "page": 689
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 500,
+       "page": 500
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.s4",
+   "title": "Clinical features",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Features reflect catecholamine excess and are **often, but not always, episodic**. Hypertension is usually **paroxysmal**, often with a **postural fall in BP**. Attacks bring **pallor** (sometimes flushing), **palpitations, sweating, headache** and intense anxiety (**angor animi**, a sense of impending doom).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 630,
+       "page": 608
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 497,
+       "page": 497
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Features of catecholamine excess",
+     "columns": [
+      "Type",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Cardiovascular",
+       "Paroxysmal or sustained hypertension, tachycardia/arrhythmias (including paroxysmal AF), occasionally bradycardia, orthostatic hypotension, chest pain"
+      ],
+      [
+       "Adrenergic",
+       "Sweating, tremor, pallor or flushing, anxiety/panic, headache"
+      ],
+      [
+       "GI and general",
+       "Abdominal pain, nausea/vomiting, constipation or diarrhoea, weight loss, fever"
+      ],
+      [
+       "Metabolic",
+       "Glucose intolerance/hyperglycaemia, glycosuria; hyperlipidaemia and hypokalaemia may occur"
+      ],
+      [
+       "Other",
+       "Raynaud's phenomenon, polyuria/nocturia"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 630,
+       "page": 608
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 70,
+       "page": 70
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 498,
+       "page": 498
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Ways it can present",
+     "items": [
+      "Hypertension with the triad of **paroxysmal headache, palpitations and sweating**",
+      "A **complication** of hypertension: stroke, MI, LV failure, hypertensive retinopathy, accelerated-phase hypertension",
+      "**Hypertensive crisis**, sometimes triggered by drugs (e.g. β-blockers) or abdominal manipulation",
+      "An **incidental adrenal mass** on CT/MRI, with no symptoms",
+      "Rarely, **fever of unknown origin**",
+      "In **pregnancy**: hypertension with palpitations, anxiety, sweating or headache"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 532,
+       "page": 510
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 496,
+       "page": 496
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 497,
+       "page": 497
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 471,
+       "page": 471
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1473,
+       "page": 1460
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Postural hypotension between attacks is not a paradox: **pressure natriuresis** during hypertensive surges shrinks the intravascular volume.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The classic triad is the exception, not the rule: only about **half** have paroxysmal hypertension, and **most patients lack all three** symptoms. Investigate every suspected case, because an undiagnosed tumour can cause sudden death during routine procedures.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 496,
+       "page": 496
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 630,
+       "page": 608
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.s5",
+   "title": "Investigations and diagnosis",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Biochemistry first, imaging second.** Excess secretion is confirmed by measuring **metanephrine and normetanephrine** in plasma and/or urine. The higher the level, the more likely the diagnosis. Only once the biochemistry is positive is the tumour localised.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 498,
+       "page": 498
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Biochemical tests",
+     "columns": [
+      "Test",
+      "Key points"
+     ],
+     "rows": [
+      [
+       "24-h urinary fractionated metanephrines",
+       "Sensitive and specific (~98%/98%); preferred screen in **low-risk** patients. Normal results on three collections virtually exclude the diagnosis. Measure urine creatinine to check the collection is complete"
+      ],
+      [
+       "Plasma (free) fractionated metanephrines",
+       "~97% sensitive, ~91% specific; preferred when suspicion is **high**. Draw after **30 min supine** (seated sampling raises false positives about 2.8-fold)"
+      ],
+      [
+       "Chromogranin A",
+       "Often raised; useful marker for **non-secretory or metastatic** tumours"
+      ],
+      [
+       "Random plasma catecholamines",
+       "Unreliable, because levels fluctuate"
+      ],
+      [
+       "Clonidine suppression test",
+       "Specialist centres only"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 497,
+       "page": 497
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 630,
+       "page": 608
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 497,
+       "page": 497
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 70,
+       "page": 70
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Causes of false-positive metanephrines",
+     "items": [
+      "Stress: acute or severe illness, vigorous exercise, severe pain",
+      "Drugs: **tricyclic antidepressants**, paracetamol, sympathomimetics, **labetalol** (assay interference)",
+      "Renal failure, obstructive sleep apnoea",
+      "Dietary vanilla (urine tests, Kumar)",
+      "**Repeat** a mildly raised result before acting on it"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 497,
+       "page": 497
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 630,
+       "page": 608
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Localisation",
+     "columns": [
+      "Modality",
+      "Role"
+     ],
+     "rows": [
+      [
+       "CT or MRI of abdomen (and pelvis)",
+       "First line; adrenal tumours are often large"
+      ],
+      [
+       "MIBG scintigraphy (with CT)",
+       "Noradrenaline analogue taken up by adrenergic tissue; helps adrenal tumours and when CT/MRI is negative, but **often negative in paraganglioma** (Davidson)"
+      ],
+      [
+       "68Ga-dotatate PET/CT",
+       "Somatostatin-receptor imaging; **high sensitivity for paraganglioma**"
+      ],
+      [
+       "FDG-PET",
+       "Best for **malignant/metastatic** disease"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 498,
+       "page": 498
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 497,
+       "page": 497
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 630,
+       "page": 608
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 380\" font-family=\"sans-serif\" font-size=\"13\">\n<defs><marker id=\"a\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#333\"/></marker></defs>\n<rect x=\"0\" y=\"0\" width=\"640\" height=\"380\" fill=\"#ffffff\"/>\n<rect x=\"150\" y=\"10\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#eef3fb\" stroke=\"#335\"/>\n<text x=\"300\" y=\"35\" text-anchor=\"middle\">Suspicion: paroxysms, resistant HTN, incidentaloma</text>\n<line x1=\"300\" y1=\"50\" x2=\"300\" y2=\"70\" stroke=\"#333\" marker-end=\"url(#a)\"/>\n<rect x=\"150\" y=\"72\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#eef3fb\" stroke=\"#335\"/>\n<text x=\"300\" y=\"97\" text-anchor=\"middle\">Plasma or 24-h urine metanephrines</text>\n<line x1=\"450\" y1=\"92\" x2=\"490\" y2=\"92\" stroke=\"#333\" marker-end=\"url(#a)\"/>\n<rect x=\"492\" y=\"72\" width=\"140\" height=\"40\" rx=\"6\" fill=\"#f3f3f3\" stroke=\"#555\"/>\n<text x=\"562\" y=\"90\" text-anchor=\"middle\">Normal: phaeo</text>\n<text x=\"562\" y=\"105\" text-anchor=\"middle\">very unlikely</text>\n<line x1=\"300\" y1=\"112\" x2=\"300\" y2=\"132\" stroke=\"#333\" marker-end=\"url(#a)\"/>\n<rect x=\"150\" y=\"134\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#fff6e6\" stroke=\"#a60\"/>\n<text x=\"300\" y=\"159\" text-anchor=\"middle\">Raised: exclude stress/drugs, repeat if mild</text>\n<line x1=\"300\" y1=\"174\" x2=\"300\" y2=\"194\" stroke=\"#333\" marker-end=\"url(#a)\"/>\n<rect x=\"150\" y=\"196\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#eef3fb\" stroke=\"#335\"/>\n<text x=\"300\" y=\"221\" text-anchor=\"middle\">Confirmed: CT or MRI of abdomen/pelvis</text>\n<line x1=\"300\" y1=\"236\" x2=\"300\" y2=\"256\" stroke=\"#333\" marker-end=\"url(#a)\"/>\n<rect x=\"110\" y=\"258\" width=\"380\" height=\"40\" rx=\"6\" fill=\"#eef3fb\" stroke=\"#335\"/>\n<text x=\"300\" y=\"276\" text-anchor=\"middle\">Negative or extra-adrenal: MIBG, 68Ga-dotatate PET/CT,</text>\n<text x=\"300\" y=\"291\" text-anchor=\"middle\">FDG-PET (metastatic disease)</text>\n<line x1=\"300\" y1=\"298\" x2=\"300\" y2=\"318\" stroke=\"#333\" marker-end=\"url(#a)\"/>\n<rect x=\"110\" y=\"320\" width=\"380\" height=\"40\" rx=\"6\" fill=\"#eaf6ea\" stroke=\"#363\"/>\n<text x=\"300\" y=\"345\" text-anchor=\"middle\">Genetic testing (RET, VHL, SDHx, NF1) where indicated</text>\n<text x=\"20\" y=\"375\" font-size=\"11\" fill=\"#555\">Never biopsy an adrenal mass before phaeochromocytoma is excluded.</text>\n</svg>",
+     "alt": "Algorithm: clinical suspicion or incidentaloma, then plasma or urine metanephrines; if normal phaeo very unlikely; if raised, exclude stress or drugs and repeat; once confirmed, CT or MRI; if negative or extra-adrenal, MIBG, gallium dotatate PET or FDG-PET; then genetic testing where indicated.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 498,
+       "page": 498
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Genetic testing and screening",
+     "items": [
+      "Davidson: offer genetic testing if there are **syndromic features, a family history, or onset under 50**",
+      "Kumar: test **all** confirmed cases (MEN2/RET, VHL, SDHB, SDHD); Pocket Medicine: **consider** testing in all",
+      "MEN 2/3 carriers: **annual** history, examination, calcium, calcitonin and catecholamine metabolites"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 630,
+       "page": 608
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 497,
+       "page": 497
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 711,
+       "page": 689
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 698,
+      "page": 676,
+      "figure": "Fig. 18.24"
+     },
+     "note": "Look at: CT abdomen with a large heterogeneous left adrenal phaeochromocytoma next to a normal right adrenal."
+    },
+    {
+     "type": "pearl",
+     "text": "Every **adrenal incidentaloma** needs plasma or urine metanephrines. About 85% are non-functioning adenomas, but phaeochromocytoma is among the functional causes that must be excluded.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 695,
+       "page": 673
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 498,
+       "page": 498
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Never biopsy an adrenal mass** until phaeochromocytoma has been excluded: needling it can provoke a hypertensive crisis. Likewise, exclude it before any adrenal surgery.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 696,
+       "page": 674
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 628,
+       "page": 606
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "One quick source says raised plasma **catecholamines** confirm the diagnosis. Davidson and most others rely on **metanephrines**, because catecholamines fluctuate too much to be reliable.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 685,
+       "page": 648
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 70,
+       "page": 70
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.s6",
+   "title": "Management: medical preparation and surgery",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Surgical removal** (usually laparoscopic adrenalectomy) is the definitive treatment. A functioning tumour must first be **medically prepared**, ideally for **at least 6 weeks** (Davidson), to control BP and **re-expand the contracted plasma volume**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 698,
+       "page": 676
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 499,
+       "page": 499
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 497,
+       "page": 497
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Peri-operative drug sequence",
+     "columns": [
+      "Stage",
+      "Drug/measure",
+      "Why"
+     ],
+     "rows": [
+      [
+       "1. Pre-op, first",
+       "**Phenoxybenzamine** (Davidson: 10–20 mg orally 3–4 times daily)",
+       "Non-competitive α-blocker, so it holds against very high catecholamine levels; preferred over prazosin/doxazosin"
+      ],
+      [
+       "2. Pre-op, if needed",
+       "**Propranolol** (β-blocker)",
+       "Only **after** α-blockade, for marked reflex tachycardia"
+      ],
+      [
+       "3. Pre-op",
+       "IV fluids / volume expansion",
+       "Restores plasma volume and reduces post-op hypotension"
+      ],
+      [
+       "4. Intra-op",
+       "**Sodium nitroprusside, phentolamine** (short-acting α-blocker); magnesium on standby (Kumar)",
+       "Controls surges at induction and during tumour handling"
+      ],
+      [
+       "5. Post-op",
+       "Fluids; occasionally **noradrenaline infusion**",
+       "Hypotension once catecholamine levels fall, uncommon after good preparation"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 698,
+       "page": 676
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 630,
+       "page": 608
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 497,
+       "page": 497
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Never give a β-blocker before an α-blocker.** β-blockade first leaves α-mediated vasoconstriction unopposed, so BP rises paradoxically, possibly into a crisis. Labetalol is not recommended (Kumar).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 698,
+       "page": 676
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 499,
+       "page": 499
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 630,
+       "page": 608
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Surgery and beyond",
+     "items": [
+      "Ligating the adrenal vein **early** limits catecholamine release during tumour handling",
+      "About **95%** 5-year survival for non-malignant tumours",
+      "Inoperable: **long-term combined α- and β-blockade**",
+      "Metastatic: debulking, **131I-MIBG** therapy, chemotherapy, (chemo)embolisation of liver metastases, sometimes tyrosine kinase or angiogenesis inhibitors",
+      "Follow-up: **over 10%** recur or develop a new tumour, so check catecholamine metabolites **at least yearly**"
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 499,
+       "page": 499
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 630,
+       "page": 608
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 631,
+       "page": 609
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 698,
+       "page": 676
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 686,
+       "page": 649
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Special situations",
+     "items": [
+      "**Hypertensive crisis**: IV phentolamine bolus (nicardipine or clevidipine are alternatives)",
+      "**Pregnancy**: phenoxybenzamine first, then β-blockade if tachycardic; α-blockade is essential before delivery, and resection is often deferred until the puerperium"
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 100,
+       "page": 100
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1473,
+       "page": 1460
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Sources differ on details. Preparation runs ≥ 6 weeks in Davidson but 7–14 days in a quick source. Davidson adds a β-blocker only for marked tachycardia, while others add it routinely. Kumar's phenoxybenzamine dose is 20–80 mg/day. Follow Davidson.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 697,
+       "page": 675
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 698,
+       "page": 676
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 499,
+       "page": 499
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 630,
+       "page": 608
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "endo-pheochromocytoma.c1",
+   "sectionId": "endo-pheochromocytoma.s1",
+   "front": "Phaeochromocytoma vs paraganglioma?",
+   "back": "Same chromaffin-cell catecholamine tumour: **phaeo** = adrenal medulla; **paraganglioma** = sympathetic ganglia outside the adrenal",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 630,
+     "page": 608
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.c2",
+   "sectionId": "endo-pheochromocytoma.s1",
+   "front": "Adrenal vs extra-adrenal split (Davidson)?",
+   "back": "About **80% adrenal**, **20% extra-adrenal** (paraganglioma)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.c3",
+   "sectionId": "endo-pheochromocytoma.s2",
+   "front": "Immunohistochemical marker of phaeochromocytoma cells?",
+   "back": "**Chromogranin A**. Malignancy cannot be judged on histology alone",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 630,
+     "page": 608
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.c4",
+   "sectionId": "endo-pheochromocytoma.s2",
+   "front": "Which catecholamine do large and extra-adrenal tumours mainly secrete?",
+   "back": "Almost only **noradrenaline**",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 630,
+     "page": 608
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.c5",
+   "sectionId": "endo-pheochromocytoma.s2",
+   "front": "Proportion with malignant features (Davidson)?",
+   "back": "About **15%**; extra-adrenal tumours are more often malignant",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 630,
+     "page": 608
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.c6",
+   "sectionId": "endo-pheochromocytoma.s3",
+   "front": "Proportion with an inherited cause, and the main syndromes?",
+   "back": "About **40%**: MEN 2, MEN 3, von Hippel–Lindau, NF1, SDH-related paraganglioma",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.c7",
+   "sectionId": "endo-pheochromocytoma.s3",
+   "front": "MEN 2 vs MEN 3 (2b)?",
+   "back": "Both: medullary thyroid carcinoma + phaeo (RET). MEN 2 adds **hyperparathyroidism**; MEN 3 adds **marfanoid habitus and mucosal neuromas**, with no hyperparathyroidism",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 711,
+     "page": 689
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 671,
+     "page": 649
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.c8",
+   "sectionId": "endo-pheochromocytoma.s4",
+   "front": "Classic paroxysm of phaeochromocytoma?",
+   "back": "**Headache, palpitations, sweating** with hypertension, pallor and anxiety (angor animi)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 532,
+     "page": 510
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.c9",
+   "sectionId": "endo-pheochromocytoma.s4",
+   "front": "Why postural hypotension between attacks?",
+   "back": "**Pressure natriuresis** during surges lowers intravascular volume",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.c10",
+   "sectionId": "endo-pheochromocytoma.s5",
+   "front": "First-line diagnostic test?",
+   "back": "Plasma and/or 24-h urine **metanephrines** (metanephrine + normetanephrine)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 497,
+     "page": 497
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.c11",
+   "sectionId": "endo-pheochromocytoma.s5",
+   "front": "Imaging best for paraganglioma when MIBG is negative?",
+   "back": "**68Ga-dotatate PET/CT** (high sensitivity)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.c12",
+   "sectionId": "endo-pheochromocytoma.s5",
+   "front": "Adrenal mass: what must never happen before phaeo is excluded?",
+   "back": "**Biopsy** (or surgery): risk of hypertensive crisis",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 628,
+     "page": 606
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.c13",
+   "sectionId": "endo-pheochromocytoma.s6",
+   "front": "Order of blockade before surgery?",
+   "back": "**α first** (phenoxybenzamine), then β (propranolol) only if tachycardic. β first gives unopposed α-vasoconstriction",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 698,
+     "page": 676
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.c14",
+   "sectionId": "endo-pheochromocytoma.s6",
+   "front": "Drugs for intra-operative BP surges?",
+   "back": "**Sodium nitroprusside** and short-acting **phentolamine**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 698,
+     "page": 676
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.c15",
+   "sectionId": "endo-pheochromocytoma.s6",
+   "front": "Follow-up after resection?",
+   "back": "Over 10% recur or develop a new tumour, so check catecholamine metabolites **at least annually**",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 631,
+     "page": 609
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "endo-pheochromocytoma.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 38-year-old woman has episodes of headache and sweating. Biochemistry shows a catecholamine-secreting tumour. Imaging finds the tumour beside the aortic bifurcation, with both adrenal glands normal.",
+   "leadIn": "Which term best describes this tumour?",
+   "options": [
+    "Paraganglioma",
+    "Phaeochromocytoma",
+    "Adrenocortical adenoma",
+    "Medullary thyroid carcinoma",
+    "Aldosterone-producing adenoma"
+   ],
+   "answer": 0,
+   "explanation": "A catecholamine-secreting chromaffin tumour **outside the adrenal**, arising from sympathetic ganglia, is a **paraganglioma**. \"Phaeochromocytoma\" is reserved for tumours of the adrenal medulla. The organ of Zuckerkandl at the aortic bifurcation is a classic extra-adrenal site.",
+   "whyNot": [
+    "",
+    "Strictly, this term is for tumours within the adrenal medulla; both adrenals are normal here.",
+    "Cortical adenomas arise in the adrenal cortex and do not secrete catecholamines.",
+    "Medullary thyroid carcinoma is a thyroid C-cell tumour (linked to MEN 2), not an abdominal catecholamine tumour.",
+    "An aldosterone-producing adenoma is adrenal cortical and causes Conn's syndrome, not catecholamine excess."
+   ],
+   "studyRef": {
+    "sectionId": "endo-pheochromocytoma.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 630,
+     "page": 608
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 498,
+     "page": 498
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A student is revising the epidemiology of catecholamine-secreting chromaffin-cell tumours from Davidson's.",
+   "leadIn": "Roughly what proportion of these tumours arise in the adrenal medulla?",
+   "options": [
+    "20%",
+    "50%",
+    "80%",
+    "95%",
+    "99%"
+   ],
+   "answer": 2,
+   "explanation": "Davidson puts about **80%** in the adrenal medulla (phaeochromocytomas) and about **20%** in extra-adrenal sympathetic ganglia (paragangliomas). The older 90/10 \"rule of 10s\" overstates the adrenal share.",
+   "whyNot": [
+    "20% is the extra-adrenal (paraganglioma) fraction, not the adrenal one.",
+    "Too low: the large majority are adrenal.",
+    "",
+    "Too high: about one in five is extra-adrenal.",
+    "Far too high: extra-adrenal paragangliomas are common enough to be routinely sought."
+   ],
+   "studyRef": {
+    "sectionId": "endo-pheochromocytoma.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "An adrenal tumour is removed from a hypertensive man. Histology shows clusters of oval cells. The pathologist wants an immunostain to confirm a chromaffin-cell origin.",
+   "leadIn": "Which marker is most appropriate?",
+   "options": [
+    "Calcitonin",
+    "Chromogranin A",
+    "Thyroglobulin",
+    "Alpha-fetoprotein",
+    "Prostate-specific antigen"
+   ],
+   "answer": 1,
+   "explanation": "Phaeochromocytoma cells sit in clusters that **stain for chromogranin A**, a storage-vesicle protein. The same protein is raised in plasma and serves as a tumour marker, especially in non-secretory or metastatic disease.",
+   "whyNot": [
+    "Calcitonin is the marker of medullary thyroid carcinoma (screened for in MEN 2), not of chromaffin cells.",
+    "",
+    "Thyroglobulin is a follicular thyroid product.",
+    "Alpha-fetoprotein marks hepatocellular and germ-cell tumours.",
+    "PSA marks prostatic tissue."
+   ],
+   "studyRef": {
+    "sectionId": "endo-pheochromocytoma.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 630,
+     "page": 608
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 55-year-old man has a 7 cm catecholamine-secreting tumour arising in the para-aortic sympathetic chain.",
+   "leadIn": "Which hormone is this tumour most likely to secrete predominantly?",
+   "options": [
+    "Adrenaline",
+    "Noradrenaline",
+    "Dopamine",
+    "Cortisol",
+    "Aldosterone"
+   ],
+   "answer": 1,
+   "explanation": "Most tumours secrete a mixture, but **large tumours and extra-adrenal tumours produce almost only noradrenaline**. This tumour is both large and extra-adrenal.",
+   "whyNot": [
+    "Large and extra-adrenal tumours make little adrenaline; their output is almost all noradrenaline.",
+    "",
+    "Dopamine secretion is rare.",
+    "Cortisol comes from the adrenal cortex, not chromaffin tissue.",
+    "Aldosterone is a cortical (zona glomerulosa) hormone."
+   ],
+   "studyRef": {
+    "sectionId": "endo-pheochromocytoma.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 630,
+     "page": 608
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 496,
+     "page": 496
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 29-year-old man has a neck mass that proves to be medullary thyroid carcinoma. His father had a thyroidectomy and \"adrenal surgery\" in his thirties.",
+   "leadIn": "Before thyroid surgery, which condition must be excluded first?",
+   "options": [
+    "Pituitary adenoma",
+    "Insulinoma",
+    "Phaeochromocytoma",
+    "Primary hyperaldosteronism",
+    "Gastrinoma"
+   ],
+   "answer": 2,
+   "explanation": "Familial medullary thyroid carcinoma suggests **MEN 2 (RET)**, whose other components are phaeochromocytoma and hyperparathyroidism. An unrecognised phaeochromocytoma can cause a hypertensive crisis under anaesthesia, so it must be **excluded (and treated first) before thyroidectomy**.",
+   "whyNot": [
+    "Pituitary adenomas belong to MEN 1, not MEN 2.",
+    "Insulinoma is an MEN 1 pancreatic tumour.",
+    "",
+    "Conn's syndrome is not part of MEN 2.",
+    "Gastrinoma is an MEN 1 tumour."
+   ],
+   "studyRef": {
+    "sectionId": "endo-pheochromocytoma.s3"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 468,
+     "page": 468
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 500,
+     "page": 500
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 711,
+     "page": 689
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 630,
+     "page": 608
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A family has several members with medullary thyroid carcinoma, phaeochromocytoma and hypercalcaemia from parathyroid disease. The inheritance is autosomal dominant.",
+   "leadIn": "Mutation of which gene is most likely responsible?",
+   "options": [
+    "VHL",
+    "NF1",
+    "SDHB",
+    "RET",
+    "MEN1 (menin)"
+   ],
+   "answer": 3,
+   "explanation": "MEN 2 (Sipple's syndrome) combines medullary thyroid carcinoma, primary hyperparathyroidism and phaeochromocytoma. It is caused by **gain-of-function RET proto-oncogene mutations** on chromosome 10.",
+   "whyNot": [
+    "VHL syndrome gives phaeo with haemangioblastomas and renal cell carcinoma, not MTC or hyperparathyroidism.",
+    "NF1 gives phaeo with neurofibrosarcoma and optic glioma.",
+    "SDHB mutations cause familial paraganglioma, not MTC.",
+    "",
+    "Menin mutations cause MEN 1 (parathyroid, pituitary, pancreas), which does not include MTC."
+   ],
+   "studyRef": {
+    "sectionId": "endo-pheochromocytoma.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 710,
+     "page": 688
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 711,
+     "page": 689
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1343,
+     "page": 1321
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 41-year-old man with hypertension resistant to two drugs describes sudden attacks of pounding headache, palpitations and drenching sweats lasting about 15 minutes. During attacks he looks pale and feels a sense of impending doom.",
+   "leadIn": "Which secondary cause of hypertension is most likely?",
+   "options": [
+    "Primary hyperaldosteronism",
+    "Cushing's syndrome",
+    "Phaeochromocytoma",
+    "Renal artery stenosis",
+    "Coarctation of the aorta"
+   ],
+   "answer": 2,
+   "explanation": "**Paroxysmal headache, palpitation and sweating** in a hypertensive patient is the classic prompt to look for phaeochromocytoma. Pallor and angor animi during attacks reflect a catecholamine surge.",
+   "whyNot": [
+    "Conn's gives sustained hypertension (often with hypokalaemia), not adrenergic paroxysms.",
+    "Cushing's gives cushingoid features and sustained hypertension, not episodic attacks.",
+    "",
+    "Renovascular disease causes sustained hypertension without adrenergic attacks.",
+    "Coarctation gives arm-leg BP differences and radio-femoral delay, not paroxysms."
+   ],
+   "studyRef": {
+    "sectionId": "endo-pheochromocytoma.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 532,
+     "page": 510
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 47-year-old woman with paroxysmal hypertension and biochemically confirmed phaeochromocytoma feels light-headed on standing between attacks. Lying BP is 150/95 and standing BP is 120/80.",
+   "leadIn": "What best explains her postural drop?",
+   "options": [
+    "Adrenal insufficiency from tumour destruction",
+    "Reduced plasma volume from pressure natriuresis",
+    "Diabetic autonomic neuropathy",
+    "Dopamine-induced vasodilatation",
+    "Vagally mediated bradycardia"
+   ],
+   "answer": 1,
+   "explanation": "During hypertensive surges the kidney excretes more sodium and water (**pressure natriuresis**), so intravascular volume contracts. Between surges this low volume shows up as **postural hypotension**. Pre-operative preparation therefore aims to restore plasma volume.",
+   "whyNot": [
+    "Cortical function is preserved; phaeo is a medullary tumour.",
+    "",
+    "Glucose intolerance occurs, but neuropathy is not the explanation given for this classic finding.",
+    "Dopamine secretion is rare and is not the mechanism.",
+    "Bradycardia can occur but does not explain a consistent postural fall."
+   ],
+   "studyRef": {
+    "sectionId": "endo-pheochromocytoma.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 698,
+     "page": 676
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 36-year-old man has hypertension and episodic palpitations with sweating. His GP suspects phaeochromocytoma. He takes no regular medicines.",
+   "leadIn": "What is the most appropriate first investigation?",
+   "options": [
+    "CT of the adrenal glands",
+    "Plasma or 24-hour urine metanephrines",
+    "Random plasma catecholamines",
+    "MIBG scintigraphy",
+    "CT-guided adrenal biopsy"
+   ],
+   "answer": 1,
+   "explanation": "**Biochemistry comes first.** Excess catecholamine secretion is confirmed by measuring the metabolites **metanephrine and normetanephrine** in plasma and/or urine. Imaging follows only once the biochemistry is positive.",
+   "whyNot": [
+    "Imaging before biochemistry risks finding incidental non-functioning adenomas; localise only after biochemical confirmation.",
+    "",
+    "Catecholamine levels swing with each burst and adrenaline's half-life is minutes, so random levels are unreliable.",
+    "MIBG is a localisation test used after biochemical confirmation, usually when CT/MRI is unhelpful.",
+    "Biopsy of a possible phaeochromocytoma can provoke a hypertensive crisis."
+   ],
+   "studyRef": {
+    "sectionId": "endo-pheochromocytoma.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 498,
+     "page": 498
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 70,
+     "page": 70
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 3,
+   "stem": "A 26-year-old woman with a known SDHB mutation has markedly raised plasma normetanephrine. CT of the abdomen and pelvis shows normal adrenals, and MIBG scintigraphy is negative.",
+   "leadIn": "Which imaging test is most likely to localise the tumour?",
+   "options": [
+    "Repeat CT with contrast in 12 months",
+    "68Ga-dotatate PET/CT",
+    "Adrenal vein sampling",
+    "Ultrasound of the abdomen",
+    "Bone scintigraphy"
+   ],
+   "answer": 1,
+   "explanation": "SDH mutations predispose particularly to **paragangliomas**, which are often **MIBG-negative**. **68Ga-dotatate PET/CT** (somatostatin-receptor imaging) has high sensitivity for paraganglioma. FDG-PET is the alternative, especially for metastatic disease.",
+   "whyNot": [
+    "Waiting with a biochemically active tumour is unsafe and does not localise it.",
+    "",
+    "Adrenal vein sampling is used to lateralise aldosterone excess, not to find extra-adrenal paragangliomas.",
+    "Ultrasound is less sensitive than the CT already done.",
+    "Bone scintigraphy is not a functional test for chromaffin tissue."
+   ],
+   "studyRef": {
+    "sectionId": "endo-pheochromocytoma.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 498,
+     "page": 498
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 497,
+     "page": 497
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 44-year-old woman has a confirmed 4 cm left adrenal phaeochromocytoma and is listed for laparoscopic adrenalectomy. Her BP is 170/105 mmHg.",
+   "leadIn": "Which drug should be started first to prepare her for surgery?",
+   "options": [
+    "Propranolol",
+    "Phenoxybenzamine",
+    "Labetalol",
+    "Furosemide",
+    "Doxazosin"
+   ],
+   "answer": 1,
+   "explanation": "**Phenoxybenzamine**, a **non-competitive α-blocker**, is the first-line preparation because it holds against very high catecholamine levels. It is given ideally for at least 6 weeks with volume re-expansion. A β-blocker is added only later, for tachycardia.",
+   "whyNot": [
+    "A β-blocker given first leaves α-vasoconstriction unopposed and can raise BP paradoxically.",
+    "",
+    "Labetalol is not recommended in phaeochromocytoma (Kumar) and can also interfere with metanephrine assays.",
+    "A diuretic would worsen the already contracted plasma volume, which preparation aims to restore.",
+    "Doxazosin is a competitive α-blocker; Davidson prefers phenoxybenzamine because its blockade cannot be overcome by catecholamine surges."
+   ],
+   "studyRef": {
+    "sectionId": "endo-pheochromocytoma.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 698,
+     "page": 676
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 630,
+     "page": 608
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 497,
+     "page": 497
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 50-year-old man with undiagnosed palpitations and hypertension is started on propranolol by a locum. Two hours later his BP is 240/130 mmHg. He is later found to have a phaeochromocytoma.",
+   "leadIn": "What is the mechanism of this deterioration?",
+   "options": [
+    "Unopposed α-adrenergic vasoconstriction",
+    "Rebound hypertension from stopping clonidine",
+    "Acute adrenal insufficiency",
+    "Fluid overload from sodium retention",
+    "Direct stimulation of tumour secretion by propranolol"
+   ],
+   "answer": 0,
+   "explanation": "Giving a β-blocker without prior α-blockade leaves catecholamine-driven **α-vasoconstriction unopposed**, so BP rises paradoxically. Hence the rule: **α-blockade must always come before β-blockade**. β-blockers are also listed as a trigger of paroxysms.",
+   "whyNot": [
+    "",
+    "There is no clonidine in this history.",
+    "Adrenal insufficiency causes hypotension, not a hypertensive crisis.",
+    "Phaeo patients are volume-contracted, not overloaded.",
+    "The problem is loss of vasodilator opposition, not more secretion."
+   ],
+   "studyRef": {
+    "sectionId": "endo-pheochromocytoma.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 698,
+     "page": 676
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 499,
+     "page": 499
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 496,
+     "page": 496
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q13",
+   "kind": "emq",
+   "pool": "worked",
+   "difficulty": 2,
+   "theme": "Investigating suspected phaeochromocytoma",
+   "leadIn": "For each patient below, choose the most appropriate next investigation from the list. An option can be right for more than one patient, or for none.",
+   "options": [
+    "24-hour urinary fractionated metanephrines",
+    "Plasma free metanephrines taken supine",
+    "Random plasma catecholamines",
+    "CT of abdomen and pelvis",
+    "MIBG scintigraphy",
+    "68Ga-dotatate PET/CT",
+    "FDG-PET",
+    "Serum chromogranin A",
+    "CT-guided adrenal biopsy",
+    "Clonidine suppression test",
+    "Serum calcitonin",
+    "Plasma renin and aldosterone"
+   ],
+   "items": [
+    {
+     "stem": "A 48-year-old woman with well-controlled hypertension has had occasional sweats over a few months. Her GP thinks the probability of phaeochromocytoma is low but wants to rule it out. She takes no tricyclics.",
+     "answer": 0,
+     "explanation": "Step 1: the pre-test probability is **low**. Step 2: in low-risk patients the preferred screen is **24-h urinary fractionated metanephrines**, which is very sensitive and specific with fewer false positives than plasma testing in a low-prevalence group. Step 3: a normal result makes the diagnosis very unlikely. Imaging is not done before biochemistry.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s5"
+     }
+    },
+    {
+     "stem": "A 39-year-old man has plasma normetanephrine at four times the upper limit on two occasions, taken supine and off interfering drugs.",
+     "answer": 3,
+     "explanation": "Step 1: the excess is **biochemically confirmed** (high, repeated, interference excluded). Step 2: only now is the tumour localised. Step 3: first-line localisation is **CT (or MRI) of the abdomen and pelvis**, since most tumours are adrenal and often large. Functional imaging is kept for negative or extra-adrenal cases.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s5"
+     }
+    },
+    {
+     "stem": "A 23-year-old man whose mother and uncle both had paragangliomas removed from the neck now has clearly raised plasma normetanephrine. CT of the abdomen and pelvis is normal and MIBG shows no uptake.",
+     "answer": 5,
+     "explanation": "Step 1: young age, family history and a normal adrenal CT point to an **inherited (likely SDH-related) paraganglioma**. Step 2: paragangliomas are **often MIBG-negative**, which explains the negative scan. Step 3: **68Ga-dotatate PET/CT** has high sensitivity for paraganglioma, so it is the best next test. Davidson uses FDG-PET mainly for malignant disease or to confirm that an abnormality already seen is a paraganglioma; here nothing has been seen yet.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 497,
+     "page": 497
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 498,
+     "page": 498
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q14",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Inherited syndromes with phaeochromocytoma",
+   "leadIn": "For each patient below, choose the most likely underlying condition from the list. An option can be right for more than one patient, or for none.",
+   "options": [
+    "MEN 1",
+    "MEN 2 (MEN 2a)",
+    "MEN 3 (MEN 2b)",
+    "von Hippel–Lindau syndrome",
+    "Neurofibromatosis type 1",
+    "Neurofibromatosis type 2",
+    "Succinate dehydrogenase (SDHB/SDHD) mutation",
+    "Sporadic (non-inherited) tumour",
+    "Carney complex",
+    "Li–Fraumeni syndrome"
+   ],
+   "items": [
+    {
+     "stem": "A 31-year-old woman has a thyroid nodule with raised calcitonin, a serum calcium of 2.9 mmol/L with raised PTH, and paroxysmal hypertension with raised metanephrines.",
+     "answer": 1,
+     "explanation": "Medullary thyroid carcinoma (raised calcitonin) + **primary hyperparathyroidism** + phaeochromocytoma = **MEN 2 (2a, Sipple's)**, caused by RET gain-of-function mutations.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s3"
+     }
+    },
+    {
+     "stem": "A tall, thin 19-year-old man with long limbs has small nodules on his lips and tongue. He has a calcitonin-secreting thyroid tumour and bilateral adrenal masses with raised metanephrines. His calcium is normal.",
+     "answer": 2,
+     "explanation": "Two steps: MTC + phaeo means a RET syndrome. **Marfanoid habitus, mucosal neuromas and no hyperparathyroidism** separate **MEN 3 (2b)** from MEN 2.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s3"
+     }
+    },
+    {
+     "stem": "A 27-year-old man had a cerebellar haemangioblastoma removed two years ago. Imaging now shows a renal mass suspicious for clear-cell carcinoma and a right adrenal mass with raised normetanephrine.",
+     "answer": 3,
+     "explanation": "Haemangioblastoma + renal cell carcinoma + phaeochromocytoma is the pattern of **von Hippel–Lindau syndrome** (VHL gene, autosomal dominant).",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s3"
+     }
+    },
+    {
+     "stem": "A 34-year-old woman has a carotid-body paraganglioma; her father and an aunt had similar neck tumours. Genetic testing of the RET and VHL genes is negative.",
+     "answer": 6,
+     "explanation": "Head-and-neck **paraganglioma** with an autosomal dominant family history, RET/VHL negative, points to a **succinate dehydrogenase (SDHB/SDHC/SDHD)** mutation, the genes most linked to paraganglioma.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s3"
+     }
+    },
+    {
+     "stem": "A 16-year-old with a known autosomal dominant syndrome had an optic glioma in childhood and now has paroxysmal hypertension from an adrenal tumour. Calcium and calcitonin are normal.",
+     "answer": 4,
+     "explanation": "Optic glioma plus phaeochromocytoma in an autosomal dominant syndrome is **neurofibromatosis type 1** (NF1 gene). Normal calcitonin and calcium argue against the RET syndromes.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 711,
+     "page": 689
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1343,
+     "page": 1321
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 671,
+     "page": 649
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 497,
+     "page": 497
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q15",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Drugs in the management of phaeochromocytoma",
+   "leadIn": "For each patient below, choose the most appropriate drug or measure from the list. An option can be right for more than one patient, or for none.",
+   "options": [
+    "Phenoxybenzamine",
+    "Propranolol",
+    "Phentolamine",
+    "Sodium nitroprusside infusion",
+    "Noradrenaline infusion",
+    "Labetalol",
+    "Furosemide",
+    "131I-MIBG therapy",
+    "Hydrocortisone",
+    "Amiodarone",
+    "Spironolactone",
+    "Octreotide"
+   ],
+   "items": [
+    {
+     "stem": "A 42-year-old man has just been diagnosed with a 5 cm adrenal phaeochromocytoma. Surgery is planned in 2 months. BP is 180/110 mmHg and he takes no medication.",
+     "answer": 0,
+     "explanation": "Preparation starts with the **non-competitive α-blocker phenoxybenzamine**, ideally for at least 6 weeks, to control BP and re-expand plasma volume. β-blockade must not come first.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s6"
+     }
+    },
+    {
+     "stem": "A 37-year-old woman has taken phenoxybenzamine for 3 weeks before resection of a phaeochromocytoma. BP is now 125/80 mmHg but her resting heart rate is 124/min.",
+     "answer": 1,
+     "explanation": "α-blockade is established, but **reflex tachycardia** is common. Now, and only now, a **β-blocker such as propranolol** can be added.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s6"
+     }
+    },
+    {
+     "stem": "During laparoscopic adrenalectomy, BP suddenly rises to 230/120 mmHg as the surgeon handles the tumour. The anaesthetist wants a short-acting α-blocker given as an IV bolus.",
+     "answer": 2,
+     "explanation": "Surges during induction and tumour handling are treated with the **short-acting α-antagonist phentolamine** (or nitroprusside). The request for a bolus α-blocker makes phentolamine the answer.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s6"
+     }
+    },
+    {
+     "stem": "Two hours after removal of a large phaeochromocytoma, a patient's BP is 75/40 mmHg despite 3 litres of IV crystalloid.",
+     "answer": 4,
+     "explanation": "After the tumour is removed, catecholamine levels fall abruptly, causing **post-operative hypotension**. It is treated with volume expansion and, occasionally, a **noradrenaline infusion** when fluids alone fail.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 698,
+     "page": 676
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 630,
+     "page": 608
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 100,
+     "page": 100
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q16",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Interpreting metanephrine results",
+   "leadIn": "For each patient below, choose the most likely explanation for the metanephrine result from the list. An option can be right for more than one patient, or for none.",
+   "options": [
+    "True catecholamine-secreting tumour",
+    "Tricyclic antidepressant interference",
+    "Physiological stress of acute illness",
+    "Labetalol assay interference",
+    "Dietary vanilla interference",
+    "Incomplete 24-hour urine collection",
+    "Sample taken while seated",
+    "Paracetamol interference",
+    "Obstructive sleep apnoea",
+    "Renal failure"
+   ],
+   "items": [
+    {
+     "stem": "A 52-year-old woman with long-standing depression on amitriptyline has mildly raised urinary normetanephrine checked for borderline hypertension. She has no paroxysmal symptoms and the adrenals look normal on CT.",
+     "answer": 1,
+     "explanation": "Tricyclic antidepressants are a classic cause of falsely raised metanephrines. With no symptoms and normal imaging, interference is likely. Repeat once the drug can be safely withheld.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s5"
+     }
+    },
+    {
+     "stem": "A 66-year-old man on the coronary care unit 2 days after a large myocardial infarction has a mildly raised plasma metanephrine, measured to investigate his tachycardia.",
+     "answer": 2,
+     "explanation": "Stress (acute illness, severe pain, vigorous exercise) raises metanephrines. Davidson advises **repeating** an elevated result once the stress has passed rather than diagnosing phaeo.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s5"
+     }
+    },
+    {
+     "stem": "A 45-year-old man with hypertension controlled on labetalol has raised urinary metanephrines on a routine screen for secondary hypertension. He has no symptoms.",
+     "answer": 3,
+     "explanation": "**Labetalol** interferes with the metanephrine assay and can give a false positive. Kumar also advises against using it in phaeochromocytoma.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s5"
+     }
+    },
+    {
+     "stem": "A 58-year-old woman's 24-hour urine shows low metanephrines but also an unexpectedly low total urinary creatinine for her size.",
+     "answer": 5,
+     "explanation": "Two steps: a low urinary creatinine means the **collection was incomplete**, so the metanephrine value cannot be trusted. Measuring creatinine with every 24-h collection is done to check sample adequacy.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s5"
+     }
+    },
+    {
+     "stem": "A 30-year-old food technologist with intermittent headaches has a modestly raised urinary catecholamine metabolite result. She eats vanilla desserts at work daily and takes no medicines.",
+     "answer": 4,
+     "explanation": "Kumar notes that **dietary vanilla** interferes with urinary catecholamine tests, as do many drugs. Repeat the test after avoiding the interfering food.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 497,
+     "page": 497
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 630,
+     "page": 608
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 497,
+     "page": 497
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q17",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Definitive and long-term management of phaeochromocytoma",
+   "leadIn": "For each patient below, choose the most appropriate management from the list. An option can be right for more than one patient, or for none.",
+   "options": [
+    "Laparoscopic adrenalectomy after α-blockade",
+    "Long-term combined α- and β-blockade",
+    "131I-MIBG radionuclide therapy",
+    "Chemoembolisation of hepatic metastases",
+    "α-blockade, deferring resection until after delivery",
+    "Annual measurement of catecholamine metabolites",
+    "Immediate surgery without medical preparation",
+    "Propranolol alone",
+    "CT-guided biopsy of the mass",
+    "Watchful waiting without treatment"
+   ],
+   "items": [
+    {
+     "stem": "An 88-year-old woman with severe heart failure and COPD has a confirmed adrenal phaeochromocytoma. The anaesthetist judges her unfit for any surgery.",
+     "answer": 1,
+     "explanation": "When resection is impossible, symptoms and BP are controlled with **long-term combined α- and β-blockade**, α first.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s6"
+     }
+    },
+    {
+     "stem": "A 46-year-old man has metastatic phaeochromocytoma with multiple bone deposits that take up MIBG strongly on scintigraphy.",
+     "answer": 2,
+     "explanation": "Metastatic disease that is **MIBG-avid** can be treated with **131I-MIBG radionuclide therapy**, which uses the same uptake mechanism as the diagnostic scan.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s6"
+     }
+    },
+    {
+     "stem": "A 51-year-old woman with metastatic phaeochromocytoma has disease confined to several liver deposits that are causing pain.",
+     "answer": 3,
+     "explanation": "For hepatic metastases, **(chemo)embolisation** is a recognised option in Davidson's list of treatments for metastatic phaeochromocytoma.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s6"
+     }
+    },
+    {
+     "stem": "A 29-year-old woman at 30 weeks of pregnancy is found to have a phaeochromocytoma. Her BP is 170/110 mmHg.",
+     "answer": 4,
+     "explanation": "In pregnancy, start with **phenoxybenzamine** (then β-blockade if tachycardic); α-blockade is essential before delivery. Resection is often **deferred until the puerperium**.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s6"
+     }
+    },
+    {
+     "stem": "A 40-year-old man is well 3 years after successful laparoscopic removal of a benign adrenal phaeochromocytoma and asks whether he still needs follow-up.",
+     "answer": 5,
+     "explanation": "Over 10% of tumours recur or a new one develops, so lifelong clinical review with **catecholamine metabolite measurement at least annually** is needed.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 630,
+     "page": 608
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 631,
+     "page": 609
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 698,
+     "page": 676
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1473,
+     "page": 1460
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q18",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 33-year-old woman in a hypertension clinic has plasma metanephrines drawn while sitting in the waiting area. The result is just above the reference range. She has no paroxysmal symptoms.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Repeat plasma metanephrines after 30 minutes lying supine",
+    "Proceed to CT of the adrenal glands",
+    "Start phenoxybenzamine",
+    "Arrange MIBG scintigraphy",
+    "Refer for genetic testing"
+   ],
+   "answer": 0,
+   "explanation": "Plasma metanephrines give more false positives when drawn **seated** (about 2.8-fold more). Sampling after **30 minutes supine** reduces this. A borderline result in a low-probability patient should be **repeated properly** before any imaging.",
+   "whyNot": [
+    "",
+    "Imaging before reliable biochemical confirmation risks chasing an incidental adrenal lesion.",
+    "Treatment needs a confirmed diagnosis.",
+    "MIBG is a localisation test used after biochemical confirmation.",
+    "Genetic testing follows a confirmed diagnosis."
+   ],
+   "studyRef": {
+    "sectionId": "endo-pheochromocytoma.s5"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 497,
+     "page": 497
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q19",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A medical student asks why the laboratory measures metanephrines rather than adrenaline itself when phaeochromocytoma is suspected.",
+   "leadIn": "What is the best explanation?",
+   "options": [
+    "Adrenaline has a very short half-life and fluctuates, while metanephrines are more stable",
+    "Metanephrines are secreted only by malignant tumours",
+    "Adrenaline cannot be measured in human plasma",
+    "Metanephrines are produced only outside the adrenal gland",
+    "Adrenaline is cleared entirely by the liver before reaching the blood"
+   ],
+   "answer": 0,
+   "explanation": "Adrenaline lasts only **minutes** in the circulation and its level swings with each secretory burst, so random catecholamines are unreliable. **Metanephrines**, made from catecholamines by COMT, have a **longer half-life** and fluctuate less, giving a more reliable signal.",
+   "whyNot": [
+    "",
+    "Benign and malignant tumours both raise metanephrines.",
+    "Catecholamines can be measured; they are just unreliable.",
+    "COMT metabolism to metanephrines occurs within the tumour and in tissues generally, not only outside the adrenal.",
+    "Adrenaline does reach the circulation; that is what causes the symptoms."
+   ],
+   "studyRef": {
+    "sectionId": "endo-pheochromocytoma.s2"
+   },
+   "cites": [
+    {
+     "book": "zerotofinals",
+     "pdfPage": 70,
+     "page": 70
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 629,
+     "page": 607,
+     "figure": "Fig. 21.18"
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q20",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Next step in suspected or confirmed phaeochromocytoma",
+   "leadIn": "For each patient below, choose the most appropriate next step from the list. An option can be right for more than one patient, or for none.",
+   "options": [
+    "Plasma or urine metanephrines",
+    "CT-guided biopsy of the adrenal mass",
+    "Repeat metanephrines after recovery",
+    "Genetic testing",
+    "Start propranolol",
+    "Start phenoxybenzamine",
+    "Immediate adrenalectomy",
+    "MIBG scintigraphy",
+    "Discharge without follow-up",
+    "Serum cortisol after dexamethasone only"
+   ],
+   "items": [
+    {
+     "stem": "A 61-year-old man has a 3.5 cm right adrenal mass found on CT done for renal colic. He has no symptoms and his BP is normal. A radiologist offers a biopsy.",
+     "answer": 0,
+     "explanation": "Every adrenal incidentaloma needs **metanephrines** to exclude phaeochromocytoma. Biopsy must be avoided until it has been excluded, because it can provoke a hypertensive crisis.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s5"
+     }
+    },
+    {
+     "stem": "A 34-year-old woman has biochemically confirmed phaeochromocytoma with a single adrenal tumour on CT. She has no family history and no syndromic features.",
+     "answer": 3,
+     "explanation": "Davidson recommends **genetic testing** for those presenting **under 50** (and with syndromic features or family history); Kumar tests all confirmed cases. At 34 she qualifies either way.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s5"
+     }
+    },
+    {
+     "stem": "A 70-year-old man in intensive care with severe pancreatitis has a mildly raised plasma metanephrine. He has no adrenal mass on his CT.",
+     "answer": 2,
+     "explanation": "Acute illness and severe pain cause **false-positive** metanephrines. Davidson advises **repeating** a raised result, here once he has recovered, before pursuing the diagnosis.",
+     "studyRef": {
+      "sectionId": "endo-pheochromocytoma.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 695,
+     "page": 673
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 696,
+     "page": 674
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 630,
+     "page": 608
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 498,
+     "page": 498
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q21",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 49-year-old man is admitted with a left hemiparesis. His BP is 230/125 mmHg. His wife says he has had months of spells with pounding headache, palpitations and sweating, and he has lost 6 kg. Fasting glucose is 7.8 mmol/L.",
+   "leadIn": "Which underlying diagnosis best explains the whole picture?",
+   "options": [
+    "Phaeochromocytoma",
+    "Primary hyperaldosteronism",
+    "Thyrotoxicosis",
+    "Essential hypertension",
+    "Panic disorder"
+   ],
+   "answer": 0,
+   "explanation": "Phaeochromocytoma can **first present with a complication of hypertension** such as stroke. Episodic adrenergic spells, **weight loss** and **glucose intolerance** complete the picture of catecholamine excess.",
+   "whyNot": [
+    "",
+    "Conn's gives sustained hypertension with hypokalaemia, not paroxysms with weight loss and hyperglycaemia.",
+    "Thyrotoxicosis causes weight loss and palpitations but not paroxysmal severe hypertension with pallor and headache.",
+    "Essential hypertension does not explain the episodic spells, weight loss and hyperglycaemia.",
+    "Panic attacks do not cause severe hypertension, stroke or hyperglycaemia."
+   ],
+   "studyRef": {
+    "sectionId": "endo-pheochromocytoma.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 697,
+     "page": 675
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 498,
+     "page": 498
+    }
+   ]
+  },
+  {
+   "id": "endo-pheochromocytoma.q22",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 3,
+   "stem": "A surgeon explains to trainees that during adrenalectomy for phaeochromocytoma, the adrenal vein is tied off as early as possible.",
+   "leadIn": "What is the main purpose of this step?",
+   "options": [
+    "To limit catecholamine release into the circulation during tumour handling",
+    "To prevent post-operative adrenal insufficiency",
+    "To reduce the risk of tumour seeding along the port sites",
+    "To allow intra-operative venous sampling",
+    "To prevent post-operative hypoglycaemia"
+   ],
+   "answer": 0,
+   "explanation": "**Early ligation of the venous drainage** stops catecholamines squeezed out during mobilisation from reaching the circulation, reducing intra-operative hypertensive surges.",
+   "whyNot": [
+    "",
+    "Early venous ligation is aimed at catecholamine release, not at adrenal insufficiency.",
+    "Port-site seeding is not why the vein is tied early.",
+    "Venous sampling is a diagnostic procedure for aldosteronism, not a surgical goal here.",
+    "Vein ligation does not target glucose control."
+   ],
+   "studyRef": {
+    "sectionId": "endo-pheochromocytoma.s6"
+   },
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 499,
+     "page": 499
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 698,
+     "page": 676
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "endo-pheochromocytoma.o1",
+   "sectionId": "endo-pheochromocytoma.s5",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 698,
+    "page": 676,
+    "figure": "Fig. 18.24"
+   },
+   "identify": "Abdominal CT: large **heterogeneous left adrenal mass** (phaeochromocytoma) beside a normal right adrenal limb. Next step if seen incidentally: metanephrines, never biopsy."
+  },
+  {
+   "id": "endo-pheochromocytoma.o2",
+   "sectionId": "endo-pheochromocytoma.s5",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 630,
+    "page": 608,
+    "figure": "Fig. 21.19"
+   },
+   "identify": "MRI: **massive left-sided phaeochromocytoma**. Adrenal tumours are often large at diagnosis, so localisation starts with abdominal imaging."
+  },
+  {
+   "id": "endo-pheochromocytoma.o3",
+   "sectionId": "endo-pheochromocytoma.s5",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 631,
+    "page": 609,
+    "figure": "Fig. 21.20"
+   },
+   "identify": "MIBG scan: a **solitary focus of uptake in the liver**, a metastasis from phaeochromocytoma (MIBG is taken up by adrenergic tissue)."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:32:55.309Z",
+  "contentHash": "b073efc91cfd968c2a96d359b79565b02a716041f961f9f73bfe9e4e6e201782"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:32:55.316Z",
+  "contentHash": "b073efc91cfd968c2a96d359b79565b02a716041f961f9f73bfe9e4e6e201782",
+  "checkerVersion": "source-check-v1"
+ }
+}

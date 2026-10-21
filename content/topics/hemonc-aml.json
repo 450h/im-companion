@@ -1,0 +1,3036 @@
+{
+ "topicId": "hemonc-aml",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "hemonc-aml.s1",
+   "title": "Definition, epidemiology & risk factors",
+   "objectiveIdx": [
+    0,
+    1,
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "AML is a **clonal malignancy of myeloid precursors**, meaning the red cell, granulocyte, monocyte and platelet lines. The transformed progenitors keep dividing but **fail to mature**, so **blasts** build up in the marrow, crowd out normal haematopoiesis and later spill into the blood and tissues. The result is anaemia, neutropenia and thrombocytopenia. In chronic leukaemias, by contrast, the clone still differentiates and more mature cells accumulate.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 977,
+       "page": 955
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 296,
+       "page": 259
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 361,
+       "page": 361
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Diagnostic cut-off: **leukaemic blasts >20% of marrow cells**. A dysplastic marrow with **<20%** blasts is myelodysplasia (MDS), not AML.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 978,
+       "page": 956
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 424,
+       "page": 424
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Epidemiology",
+     "columns": [
+      "Feature",
+      "Key figure"
+     ],
+     "rows": [
+      [
+       "Incidence (all leukaemias)",
+       "~10 per 100 000 per year; just under half are acute"
+      ],
+      [
+       "Sex (acute leukaemia)",
+       "Male:female about 3:2"
+      ],
+      [
+       "AML vs ALL",
+       "In adults AML is ~4× commoner than ALL; in children ALL dominates"
+      ],
+      [
+       "Age",
+       "Lowest in young adults, rising steeply after 50; median at presentation ~65 (Kumar) or 68 (US data)"
+      ],
+      [
+       "Burden",
+       "About 20 000 new cases a year in the USA"
+      ],
+      [
+       "Origin",
+       "De novo, after MDS, or therapy-related (after cytotoxics)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 977,
+       "page": 955
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 412,
+       "page": 388
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 361,
+       "page": 361
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Risk factors and predisposing conditions",
+     "items": [
+      "**Ionising radiation:** atomic-bomb survivors (Hiroshima, Nagasaki), Chernobyl, radiotherapy, fetal diagnostic X-rays.",
+      "**Previous chemotherapy (therapy-related AML):** alkylating agents such as melphalan (latency of several years) and topoisomerase II inhibitors such as etoposide.",
+      "**Chemicals and lifestyle:** industrial benzene; smoking.",
+      "**Earlier marrow disease:** MDS, myeloproliferative neoplasms (CML, polycythaemia vera, myelofibrosis, which transforms at ~8% a year), aplastic anaemia, PNH.",
+      "**Inherited:** Down syndrome (risk raised ~30-fold), Fanconi anaemia, Bloom syndrome, ataxia telangiectasia, Klinefelter syndrome, Li-Fraumeni (germline TP53), and familial CEBPA, RUNX1, GATA2 or DDX41 mutations.",
+      "**Other:** identical twin of an affected patient; immunodeficiency states."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 977,
+       "page": 955
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 411,
+       "page": 387
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 360,
+       "page": 360
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 361,
+       "page": 361
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 193,
+       "page": 193
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In most patients **no cause is found**. AML is the **commonest acute leukaemia of adults** and is chiefly a disease of later life.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 977,
+       "page": 955
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 193,
+       "page": 193
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A mutation alone does not mean leukaemia. **DNMT3A** and **ASXL1** mutations are common in the blood cells of healthy older people with normal marrows, a state called **CHIP** (clonal haemopoiesis of indeterminate potential).",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 405,
+       "page": 381
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.s2",
+   "title": "Pathogenesis & classification (WHO/FAB)",
+   "objectiveIdx": [
+    3,
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "A haemopoietic stem or progenitor cell acquires genetic damage. This is either **large chromosomal lesions** (translocations, deletions, duplications, seen on karyotype or FISH) or **point mutations** (found by sequencing), and such events become commoner with age. The resulting clone resembles myeloid precursors, proliferates rapidly and **cannot differentiate**. Tumours of such primitive cells have the highest growth fractions of any human cancer, which is why the course is so fast.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 405,
+       "page": 381
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 406,
+       "page": 382
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 976,
+       "page": 954
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 361,
+       "page": 361
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Model lesion: acute promyelocytic leukaemia (APL).** In t(15;17) the **PML** gene (chromosome 15) joins the **retinoic acid receptor-α** gene (chromosome 17). The PML-RARA protein responds poorly to retinoic acid and **blocks myeloid maturation** at the promyelocyte stage, which explains why pharmacological doses of ATRA work.",
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 296,
+       "page": 259
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 415,
+       "page": 391
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 406,
+      "page": 382,
+      "figure": "Fig. 17.1"
+     },
+     "note": "Look at: how successive mutations in a stem cell produce MDS, CML or AML (marrow blasts >20%), and how further hits drive blast transformation."
+    },
+    {
+     "type": "table",
+     "title": "WHO 2016 classification of AML (major groups)",
+     "columns": [
+      "WHO group",
+      "Examples / notes"
+     ],
+     "rows": [
+      [
+       "AML with recurrent genetic abnormalities",
+       "t(8;21) RUNX1-RUNX1T1; inv(16) CBFB-MYH11; t(15;17) PML-RARA (APL); t(9;11) MLLT3-KMT2A; t(6;9) DEK-NUP214; inv(3)/t(3;3) GATA2-MECOM; t(1;22) megakaryoblastic; mutated NPM1; biallelic CEBPA"
+      ],
+      [
+       "AML with myelodysplasia-related changes",
+       "For example, AML evolving from MDS"
+      ],
+      [
+       "Therapy-related myeloid neoplasms",
+       "After alkylating agents or topoisomerase II inhibitors"
+      ],
+      [
+       "Myeloid sarcoma",
+       "Extramedullary mass of myeloid blasts (chloroma)"
+      ],
+      [
+       "Myeloid proliferations of Down syndrome",
+       "A separate group"
+      ],
+      [
+       "AML not otherwise specified",
+       "With or without maturation, myelomonocytic, erythroleukaemia, megakaryoblastic. These groups mirror the older morphological FAB classes"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 977,
+       "page": 955
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 412,
+       "page": 388
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 361,
+       "page": 361
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "What WHO classification combines",
+     "items": [
+      "**Morphology:** blasts, granules, ± Auer rods.",
+      "**Immunophenotype:** precursor markers CD34, CD45, HLA-DR; myeloid CD13, CD33, CD117; monocytic CD11b, CD64, CD14, CD15.",
+      "**Cytochemistry:** myeloperoxidase (myeloid); non-specific esterase and lysozyme (monocytic).",
+      "**Cytogenetics and molecular genetics:** give the diagnosis and the prognosis, and increasingly select the treatment."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 977,
+       "page": 955
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 362,
+       "page": 362
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**FAB link:** APL is **FAB M3**. WHO keeps the FAB-style morphological groups only within \"AML not otherwise specified\"; genetics now defines the main categories.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 436,
+       "page": 436
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 412,
+       "page": 388
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.s3",
+   "title": "Clinical features",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Onset is quick, over weeks. Most features come from **marrow failure**, plus effects of a very high white count, tissue infiltration and substances released from dying cells.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 412,
+       "page": 388
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 431,
+       "page": 431
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 977,
+       "page": 955
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Mechanisms of symptoms and signs",
+     "columns": [
+      "Mechanism",
+      "Symptoms",
+      "Signs"
+     ],
+     "rows": [
+      [
+       "Anaemia",
+       "Fatigue, breathlessness, angina",
+       "Pallor, flow murmur"
+      ],
+      [
+       "Neutropenia",
+       "Fever, sore throat, pneumonia, mouth ulcers",
+       "Septic focus"
+      ],
+      [
+       "Thrombocytopenia ± DIC",
+       "Bruising, gum bleeding",
+       "Petechiae, purpura, fundal haemorrhage; oozing from IV sites in DIC"
+      ],
+      [
+       "Leucostasis (very high WBC)",
+       "Dyspnoea, headache, confusion, blurred vision, TIA/stroke",
+       "Hypoxia, lung infiltrates, low GCS, dilated retinal veins, papilloedema"
+      ],
+      [
+       "Tissue infiltration",
+       "Bone pain",
+       "Gum hypertrophy, violaceous skin deposits, hepatosplenomegaly, lymphadenopathy, chloroma"
+      ],
+      [
+       "Cell breakdown",
+       "Acute gout",
+       "Tumour lysis with AKI"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 412,
+       "page": 388
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 361,
+       "page": 361
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 296,
+       "page": 259
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Clues that separate AML from ALL",
+     "items": [
+      "**Favour AML:** gum hypertrophy and skin infiltration (especially monocytic subtypes), DIC (especially APL), myeloid sarcoma; leucostasis is commoner in AML.",
+      "**Favour ALL:** testicular enlargement, mediastinal mass with SVC obstruction (T-ALL), CNS disease (headache, cranial nerve palsies); bone pain is more typical of ALL.",
+      "CNS involvement in AML is mainly seen with monocytic forms."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 412,
+       "page": 388
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 361,
+       "page": 361
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 431,
+       "page": 431
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 934,
+      "page": 912,
+      "figure": "Clinical examination in blood disease"
+     },
+     "note": "Look at: swollen, overgrown gums in AML, shown beside purpura and bruising on the blood-disease examination panel."
+    },
+    {
+     "type": "pearl",
+     "text": "**Leucostasis is an emergency.** It usually appears once blasts exceed about **50 × 10^9/L** (Pocket Medicine), and the risk is high above **100 × 10^9/L** (First Aid). Think of it in any patient with a very high count who becomes hypoxic or confused.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 361,
+       "page": 361
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 432,
+       "page": 432
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "A **non-blanching rash** has a wide differential: leukaemia, meningococcal septicaemia, vasculitis, HSP, ITP and non-accidental injury. A full blood count settles it quickly.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 191,
+       "page": 191
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.s4",
+   "title": "Investigations",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Confirming the diagnosis",
+     "columns": [
+      "Test",
+      "Typical result / purpose"
+     ],
+     "rows": [
+      [
+       "FBC",
+       "Anaemia (normal or raised MCV); usually severe thrombocytopenia; WBC from ~1 to >500 × 10^9/L, but <100 in most and sometimes low"
+      ],
+      [
+       "Blood film",
+       "Blasts in >95%, though they may be scanty; **Auer rods** mean AML"
+      ],
+      [
+       "Bone marrow aspirate + trephine",
+       "Hypercellular, blasts >20% (often near 100%), reduced erythropoiesis and megakaryocytes; trephine shows architecture but takes days"
+      ],
+      [
+       "Immunophenotyping (flow cytometry)",
+       "Confirms myeloid lineage (CD13, CD33, CD117; MPO)"
+      ],
+      [
+       "Cytogenetics, FISH, molecular",
+       "t(15;17), t(8;21), inv(16), complex karyotype; FLT3 (ITD/TKD), NPM1, TP53. These set the risk group and the targeted drugs"
+      ],
+      [
+       "Coagulation screen",
+       "DIC, especially in APL: long PT and APTT, low fibrinogen, high D-dimer"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 977,
+       "page": 955
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 978,
+       "page": 956
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 412,
+       "page": 388
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 361,
+       "page": 361
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 362,
+       "page": 362
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 192,
+       "page": 192
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Work-up before treatment",
+     "items": [
+      "**Tumour lysis baseline:** urate, LDH, K, phosphate, Ca, renal and liver function.",
+      "**Heart:** ECG and echocardiogram before cardiotoxic anthracyclines.",
+      "**G6PD status** before rasburicase.",
+      "**HLA typing** of the patient and siblings for a possible allogeneic transplant.",
+      "**Viral screen:** HIV, hepatitis B and C.",
+      "**If febrile:** blood cultures and chest X-ray."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 412,
+       "page": 388
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 362,
+       "page": 362
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 296,
+       "page": 259
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Minimal residual disease (MRD)**, measured by flow cytometry or qPCR, finds leukaemic cells below the level visible under the microscope and predicts relapse. **FLT3 mutation** testing flags a poorer prognosis and a target for FLT3 inhibitors.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 410,
+       "page": 386
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 413,
+       "page": 389
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 415,
+       "page": 391
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Best first test:** FBC with film. **Definitive test:** bone marrow with flow cytometry and cytogenetics. In the UK, NICE asks for an FBC within 48 h when leukaemia is suspected. LDH is often raised but non-specific.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 431,
+       "page": 431
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 192,
+       "page": 192
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Lumbar puncture:** done in every patient with ALL, but in AML usually only if there are **CNS symptoms** (Pocket Medicine; Kumar calls it \"less critical\" in AML). Kumar & Clark Essentials also advises CSF examination for AML with a **monocytic component**, once blasts have cleared from the blood.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 412,
+       "page": 388
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 362,
+       "page": 362
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 297,
+       "page": 260
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "davidson24",
+      "pdfPage": 978,
+      "page": 956,
+      "figure": "Fig. 23.23"
+     },
+     "note": "Look at: marrow aspirate packed with large blasts that have folded nuclei and prominent nucleoli."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "fa2ck11",
+      "pdfPage": 430,
+      "page": 430,
+      "figure": "FIGURE 2.7-14"
+     },
+     "note": "Look at: the red, rod-shaped cytoplasmic inclusion (Auer rod) in a myeloblast."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "fa2ck11",
+      "pdfPage": 431,
+      "page": 431,
+      "figure": "FIGURE 2.7-15"
+     },
+     "note": "Compare: large uniform myeloblasts with prominent nucleoli (AML) vs high N:C ratio lymphoblasts (ALL)."
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.s5",
+   "title": "Risk groups & prognosis",
+   "objectiveIdx": [
+    7,
+    8
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Genetic risk groups (ELN 2017) with Davidson 5-year survival",
+     "columns": [
+      "Risk group",
+      "Genetic findings",
+      "5-year overall survival"
+     ],
+     "rows": [
+      [
+       "Favourable",
+       "inv(16)/t(16;16) CBFB-MYH11; t(8;21) RUNX1-RUNX1T1; APL with t(15;17) PML-RARA; mutated NPM1 without FLT3-ITD (or ITD-low); biallelic CEBPA",
+       "APL ~90%; t(8;21) ~65%; inv(16) ~70%"
+      ],
+      [
+       "Intermediate",
+       "Normal karyotype without NPM1/FLT3-ITD; NPM1 mutated with FLT3-ITD-high; FLT3-ITD-low; t(9;11) MLLT3-KMT2A; other changes not listed elsewhere",
+       "~48%"
+      ],
+      [
+       "Adverse",
+       "−5/del(5q), −7, −17/abn(17p), abnormal 3q/inv(3), complex or monosomal karyotype, t(6;9), t(9;22) BCR-ABL1; NPM1 wild type with FLT3-ITD-high; TP53, RUNX1 or ASXL1 mutation",
+       "~21%"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 362,
+       "page": 362
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 363,
+       "page": 363
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Other poor-prognosis features",
+     "items": [
+      "Older age (>60 years) and male sex.",
+      "Secondary AML (after MDS or MPN) or therapy-related disease.",
+      "High white count at diagnosis; raised LDH.",
+      "**FLT3-ITD**: FLT3 is a cytokine receptor on many AML blasts, and its presence predicts a worse outcome.",
+      "**MRD positivity** after induction; failure to remit."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 414,
+       "page": 390
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 432,
+       "page": 432
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 362,
+       "page": 362
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Outcome figures",
+     "columns": [
+      "Situation",
+      "Figure"
+     ],
+     "rows": [
+      [
+       "Untreated acute leukaemia",
+       "Median survival ~5 weeks (Davidson); months with supportive care"
+      ],
+      [
+       "CR with intensive therapy, age <60",
+       "~80% (70–80% in Pocket Medicine)"
+      ],
+      [
+       "CR, age >60",
+       "~40–50%"
+      ],
+      [
+       "Why induction fails (<60)",
+       "Resistant disease ~10%; treatment-related death ~10% (infection, bleeding)"
+      ],
+      [
+       "Cure, age <60",
+       "~50% of those in CR (~40% overall): 60–70% if favourable vs 10–20% if adverse cytogenetics"
+      ],
+      [
+       "APL",
+       "CR ≥90% of younger adults; cure ~90% with ATRA + arsenic trioxide in low-risk disease"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 414,
+       "page": 390
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 364,
+       "page": 364
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 298,
+       "page": 261
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "The three dominant prognostic variables in AML are **age**, **genetics** (cytogenetics plus mutations) and **MRD status** after initial therapy. Older patients do worse because of comorbidity, poor tolerance of chemotherapy and more adverse biology.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 414,
+       "page": 390
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 362,
+       "page": 362
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**High-risk APL** is defined by a **WBC >10 × 10^9/L** at diagnosis.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 364,
+       "page": 364
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Refractory disease** (no morphological CR after **two cycles**) carries almost as bad a prognosis as untreated leukaemia. Relapse soon after therapy is worse than late relapse, and long survival after relapse is rare without allogeneic transplant.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 414,
+       "page": 390
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 415,
+       "page": 391
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 979,
+       "page": 957
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.s6",
+   "title": "Management I: supportive care & emergencies",
+   "objectiveIdx": [
+    9
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Induction leaves the patient with **3–4 weeks of severe marrow hypoplasia**. Intensive, potentially curative therapy is only safe in a unit that can supply blood products, antimicrobials and specialist nursing.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 978,
+       "page": 956
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 979,
+       "page": 957
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Preparing for specific therapy",
+     "items": [
+      "Find and treat existing infection (urinary, oral candida, dental, gingival, skin).",
+      "Correct anaemia with red cells and control bleeding with platelets; correct coagulopathy.",
+      "Insert a central line (Hickman or PICC).",
+      "Start tumour lysis prophylaxis: IV fluids plus allopurinol or rasburicase.",
+      "Explain the regimen, obtain consent, consider a clinical trial; offer sperm or oocyte storage if time allows."
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 978,
+       "page": 956
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 413,
+       "page": 389
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 297,
+       "page": 260
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Blood product targets",
+     "columns": [
+      "Product",
+      "Target / use"
+     ],
+     "rows": [
+      [
+       "Red cells",
+       "Keep Hb around 80–100 g/L"
+      ],
+      [
+       "Platelets",
+       ">10 × 10^9/L if stable; >20 if septic; >50 before a procedure such as LP"
+      ],
+      [
+       "Fresh frozen plasma",
+       "Keep APTT ratio and INR <1.5"
+      ],
+      [
+       "Cryoprecipitate",
+       "Replace fibrinogen, especially in APL with DIC"
+      ],
+      [
+       "Norethisterone",
+       "Suppress menses during thrombocytopenia"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 413,
+       "page": 389
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 979,
+       "page": 957
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Infection in the neutropenic patient",
+     "columns": [
+      "Problem",
+      "Approach"
+     ],
+     "rows": [
+      [
+       "Fever >38°C for over 1 hour",
+       "Treat as sepsis: immediate IV broad-spectrum cover, e.g. aminoglycoside + piperacillin/tazobactam, or meropenem alone"
+      ],
+      [
+       "Gram-positive line infection (S. aureus, S. epidermidis)",
+       "Add vancomycin or teicoplanin"
+      ],
+      [
+       "Fever persisting 3–5 days with evidence of fungal infection",
+       "Add liposomal amphotericin B, voriconazole or caspofungin"
+      ],
+      [
+       "Oral candida / mould prophylaxis",
+       "Fluconazole; itraconazole or posaconazole in high-risk chemotherapy"
+      ],
+      [
+       "Herpes simplex or zoster reactivation",
+       "Aciclovir (high dose for zoster)"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 979,
+       "page": 957
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Tumour lysis syndrome:** cell breakdown during induction releases potassium, phosphate and nucleic acids, giving **hyperkalaemia, hyperuricaemia, hyperphosphataemia and hypocalcaemia**, with renal failure from urate crystals. Prevent it with **IV hydration (about 4–5 L/day) and allopurinol**, started before chemotherapy. Use **rasburicase** in high-risk patients; dialysis is occasionally needed.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 295,
+       "page": 258
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 194,
+       "page": 194
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Leucostasis:** lower the count quickly with **hydroxycarbamide (hydroxyurea) ± leukapheresis**, then start definitive therapy.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 432,
+       "page": 432
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 979,
+       "page": 957
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Gram-positive skin organisms entering through lines are the commonest cause of severe neutropenic sepsis. **Gram-negative gut organisms** (E. coli, Pseudomonas, Klebsiella) cause the fastest deterioration, so empirical cover must include them.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 979,
+       "page": 957
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Rasburicase is contraindicated in G6PD deficiency**, so check G6PD status before giving it.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 432,
+       "page": 432
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 362,
+       "page": 362
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.s7",
+   "title": "Management II: chemotherapy, transplantation & APL",
+   "objectiveIdx": [
+    9
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**First decision: is the patient fit for intensive therapy?** Very elderly or comorbid patients may be better served by supportive care or low-intensity treatment (low-dose cytarabine, azacitidine). Low-intensity treatment induces remission in **<20%**. Pocket Medicine counts as unfit those often aged ≥75, with ECOG ≥3 or with severe cardiopulmonary disease.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 978,
+       "page": 956
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 363,
+       "page": 363
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 415,
+       "page": 391
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Phases of curative treatment",
+     "columns": [
+      "Phase",
+      "Aim",
+      "In AML"
+     ],
+     "rows": [
+      [
+       "Induction",
+       "**Complete remission (CR)**: normal counts (neutrophils >1, platelets >100 × 10^9/L, no transfusion need) and marrow blasts <5%",
+       "\"7+3\": cytarabine by continuous infusion for 7 days + anthracycline (daunorubicin or idarubicin) for 3 days; repeat marrow at day 14–21"
+      ],
+      [
+       "Consolidation",
+       "Destroy residual disease that morphology cannot see",
+       "Favourable risk: further cytarabine-based cycles (high-dose cytarabine); intermediate/adverse: allogeneic HSCT"
+      ],
+      [
+       "Maintenance",
+       "Prolonged outpatient therapy",
+       "Standard in ALL (up to 3 years); in AML only selected cases, e.g. azacitidine maintenance when curative therapy cannot be completed"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 978,
+       "page": 956
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 363,
+       "page": 363
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 414,
+       "page": 390
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 364,
+       "page": 364
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Targeted additions and alternatives",
+     "columns": [
+      "Situation",
+      "Treatment"
+     ],
+     "rows": [
+      [
+       "FLT3-ITD/TKD mutation, fit",
+       "7+3 + **midostaurin** (FLT3 inhibitor)"
+      ],
+      [
+       "Core-binding factor AML: t(8;21) or inv(16)",
+       "7+3 ± **gemtuzumab ozogamicin** (anti-CD33 antibody-drug conjugate)"
+      ],
+      [
+       "Secondary AML or MDS-related changes",
+       "**CPX-351** (liposomal cytarabine + daunorubicin)"
+      ],
+      [
+       "Unfit for intensive therapy",
+       "**Azacitidine + venetoclax** (BCL2 inhibitor); low-dose cytarabine; hydroxycarbamide for palliation"
+      ],
+      [
+       "IDH1 / IDH2 mutation",
+       "**Ivosidenib** / **enasidenib**"
+      ],
+      [
+       "Relapsed or refractory disease",
+       "Re-test mutations (clonal evolution): **gilteritinib** for FLT3; salvage MEC, FLAG-Ida, CLAM or gemtuzumab, aiming for allogeneic HSCT"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 363,
+       "page": 363
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 364,
+       "page": 364
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 415,
+       "page": 391
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Daunorubicin in 7+3 is examinable as **90 mg/m² under 60 years** and **60 mg/m² over 60** (Pocket Medicine). Davidson lists daunorubicin, cytarabine, etoposide, gemtuzumab, ATRA and arsenic trioxide as AML induction drugs.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 363,
+       "page": 363
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 979,
+       "page": 957
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Allogeneic stem cell transplantation",
+     "items": [
+      "The decision weighs **relapse risk** (cytogenetics, response, MRD) against **transplant-related mortality** (age, fitness, donor match).",
+      "**Favourable risk** (e.g. inv(16)): no benefit from allogeneic SCT in first remission.",
+      "**Intermediate risk:** consolidation, then usually allogeneic SCT. NPM1 MRD negativity may make transplant unnecessary.",
+      "**Adverse cytogenetics:** transplant in **first complete remission (CR1)**.",
+      "In high-risk acute leukaemia allogeneic HSCT raises 5-year survival from ~20% to ~50%. Reduced-intensity conditioning extends it to about age 65.",
+      "Costs: graft-versus-host disease (rash, diarrhoea, liver damage) in 30–50%; procedure mortality 20–40%, mainly from infection or GVHD."
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 414,
+       "page": 390
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 294,
+       "page": 257
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Acute promyelocytic leukaemia** makes up 10–15% of AML (Kumar; ~8% in US data). It almost always causes a **coagulopathy (DIC)**, which can worsen when treatment starts and is the main cause of early death. **Start ATRA as soon as APL is suspected**: it differentiates the promyelocytes and rapidly reverses the bleeding tendency. Non-high-risk APL is treated with **ATRA + arsenic trioxide** without chemotherapy and is cured in ~90%. High-risk APL (WBC >10 × 10^9/L) adds an anthracycline or gemtuzumab.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 415,
+       "page": 391
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 364,
+       "page": 364
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 980,
+       "page": 958
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 298,
+       "page": 261
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Differentiation syndrome** develops in about 25% of patients on ATRA: fever, lung infiltrates, breathlessness, oedema, hypotension and AKI. Treat with **dexamethasone 10 mg twice daily** plus supportive care such as diuresis.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 365,
+       "page": 365
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**CR is not cure.** Morphological remission is insensitive, so **without consolidation relapse is almost inevitable**. Detectable MRD strongly predicts recurrence.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 413,
+       "page": 389
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 297,
+       "page": 260
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 363,
+       "page": 363
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "hemonc-aml.c1",
+   "sectionId": "hemonc-aml.s1",
+   "front": "Marrow blast threshold that defines AML?",
+   "back": "**>20%** blasts in the marrow (usually hypercellular); below 20% with dysplasia = MDS.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 978,
+     "page": 956
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 424,
+     "page": 424
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c2",
+   "sectionId": "hemonc-aml.s1",
+   "front": "AML vs ALL frequency in adults and children?",
+   "back": "Adults: AML is ~4× commoner than ALL. Children: ALL predominates.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 977,
+     "page": 955
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c3",
+   "sectionId": "hemonc-aml.s1",
+   "front": "Median age at presentation of AML?",
+   "back": "About **65 years** (Kumar); 68 in US data. Incidence rises steeply after 50.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 412,
+     "page": 388
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 361,
+     "page": 361
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 977,
+     "page": 955
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c4",
+   "sectionId": "hemonc-aml.s1",
+   "front": "Two cytotoxic drug classes that cause therapy-related AML?",
+   "back": "**Alkylators** such as melphalan, and **topo-II inhibitors** such as etoposide.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 411,
+     "page": 387
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c5",
+   "sectionId": "hemonc-aml.s1",
+   "front": "What is CHIP?",
+   "back": "Clonal haemopoiesis of indeterminate potential: DNMT3A/ASXL1 mutations in older people without MDS or AML.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 405,
+     "page": 381
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c6",
+   "sectionId": "hemonc-aml.s2",
+   "front": "Fusion gene of APL and its effect?",
+   "back": "t(15;17) **PML-RARA**: poor response to retinoic acid, so myeloid maturation is blocked.",
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 296,
+     "page": 259
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 977,
+     "page": 955
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c7",
+   "sectionId": "hemonc-aml.s2",
+   "front": "Myeloid markers on AML immunophenotyping?",
+   "back": "**CD13, CD33, CD117** (precursor CD34, HLA-DR); myeloperoxidase positive.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 362,
+     "page": 362
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c8",
+   "sectionId": "hemonc-aml.s2",
+   "front": "Which FAB subtype is APL?",
+   "back": "**M3**.",
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "pdfPage": 436,
+     "page": 436
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c9",
+   "sectionId": "hemonc-aml.s3",
+   "front": "Infiltrative signs that favour AML over ALL?",
+   "back": "Gum hypertrophy and violaceous skin deposits (monocytic); DIC in APL. Testes, mediastinum and CNS favour ALL.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 412,
+     "page": 388
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 361,
+     "page": 361
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c10",
+   "sectionId": "hemonc-aml.s3",
+   "front": "Features of leucostasis?",
+   "back": "Hypoxia and lung infiltrates, headache, confusion, blurred vision with dilated retinal veins or papilloedema, TIA/stroke.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 412,
+     "page": 388
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 361,
+     "page": 361
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c11",
+   "sectionId": "hemonc-aml.s4",
+   "front": "Film finding pathognomonic of AML?",
+   "back": "**Auer rods**, rod-shaped inclusions in blast cytoplasm.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 412,
+     "page": 388
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 296,
+     "page": 259
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c12",
+   "sectionId": "hemonc-aml.s4",
+   "front": "Two checks before anthracycline and rasburicase?",
+   "back": "**Echocardiogram** (and ECG) before anthracyclines; **G6PD** before rasburicase.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 362,
+     "page": 362
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 412,
+     "page": 388
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c13",
+   "sectionId": "hemonc-aml.s4",
+   "front": "Coagulation screen in APL-related DIC?",
+   "back": "Prolonged PT and APTT, low fibrinogen, raised D-dimer.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 412,
+     "page": 388
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c14",
+   "sectionId": "hemonc-aml.s5",
+   "front": "ELN favourable-risk genetic lesions?",
+   "back": "t(15;17), t(8;21), inv(16)/t(16;16), NPM1 mutation without FLT3-ITD, biallelic CEBPA.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 362,
+     "page": 362
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c15",
+   "sectionId": "hemonc-aml.s5",
+   "front": "Davidson 5-year survival: APL vs poor-risk cytogenetics?",
+   "back": "APL ~**90%**; poor-risk ~**21%** (intermediate ~48%).",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c16",
+   "sectionId": "hemonc-aml.s5",
+   "front": "Definition and prognosis of refractory AML?",
+   "back": "No CR after **two cycles**; prognosis almost as bad as untreated leukaemia.",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 414,
+     "page": 390
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c17",
+   "sectionId": "hemonc-aml.s6",
+   "front": "Definition of neutropenic fever and first step?",
+   "back": "Temp >38°C for over 1 h in a neutropenic patient: start **immediate IV broad-spectrum antibiotics**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 979,
+     "page": 957
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c18",
+   "sectionId": "hemonc-aml.s6",
+   "front": "Biochemistry of tumour lysis syndrome?",
+   "back": "↑K, ↑urate, ↑phosphate, ↓calcium, with renal failure.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c19",
+   "sectionId": "hemonc-aml.s7",
+   "front": "What is \"7+3\" induction?",
+   "back": "Cytarabine by continuous infusion for **7 days** + anthracycline (daunorubicin/idarubicin) for **3 days**.",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 363,
+     "page": 363
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c20",
+   "sectionId": "hemonc-aml.s7",
+   "front": "Definition of complete remission?",
+   "back": "Normal counts (neutrophils >1, platelets >100 × 10^9/L, no transfusions) and **<5% marrow blasts**.",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 978,
+     "page": 956
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 363,
+     "page": 363
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c21",
+   "sectionId": "hemonc-aml.s7",
+   "front": "Treatment of ATRA differentiation syndrome?",
+   "back": "**Dexamethasone 10 mg twice daily** plus supportive care (e.g. diuresis).",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 365,
+     "page": 365
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.c22",
+   "sectionId": "hemonc-aml.s7",
+   "front": "Which AML patients go to allogeneic SCT in CR1?",
+   "back": "Those with **adverse cytogenetics** (and most intermediate risk); not favourable risk such as inv(16).",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 414,
+     "page": 390
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "hemonc-aml.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 69-year-old man was treated with melphalan for multiple myeloma 7 years ago and has been in remission since. He now has fatigue and recurrent infections. Marrow examination shows 40% myeloid blasts.",
+   "leadIn": "Which factor most likely contributed to his leukaemia?",
+   "options": [
+    "Previous alkylating agent therapy",
+    "Ionising radiation",
+    "Industrial benzene exposure",
+    "Germline TP53 mutation",
+    "Cigarette smoking"
+   ],
+   "answer": 0,
+   "explanation": "Melphalan is an alkylating agent. Therapy-related AML after alkylators typically appears after a latency of several years, as here.",
+   "whyNot": [
+    "",
+    "He has no radiation exposure in the history.",
+    "There is no occupational solvent exposure.",
+    "Li-Fraumeni presents with early-onset cancers in families, not AML after melphalan.",
+    "Smoking is a weak risk factor and the drug history is far more specific."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-aml.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 411,
+     "page": 387
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 977,
+     "page": 955
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 74-year-old woman has a macrocytic anaemia, neutrophils of 0.9 × 10^9/L and platelets of 40 × 10^9/L. Her marrow is hypercellular with dysplasia in several lineages, and myeloblasts make up 28% of nucleated cells.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Myelodysplastic syndrome",
+    "Acute myeloid leukaemia",
+    "Aplastic anaemia",
+    "Chronic myeloid leukaemia, chronic phase",
+    "Chronic lymphocytic leukaemia"
+   ],
+   "answer": 1,
+   "explanation": "Marrow blasts above 20% define AML even when dysplasia is present. This is probably AML with myelodysplasia-related changes.",
+   "whyNot": [
+    "MDS requires fewer than 20% marrow blasts.",
+    "",
+    "Aplastic anaemia gives a hypocellular marrow without excess blasts.",
+    "Chronic-phase CML shows maturing granulocytes and a low blast count.",
+    "CLL is a proliferation of mature lymphocytes, not myeloblasts."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-aml.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 978,
+     "page": 956
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 424,
+     "page": 424
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 977,
+     "page": 955
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 31-year-old woman has gum bleeding and bruises. Her fibrinogen is low and her D-dimer high. The marrow is full of heavily granular abnormal promyelocytes, and the team plans to start all-trans retinoic acid.",
+   "leadIn": "Which fusion gene is most likely present in the leukaemic cells?",
+   "options": [
+    "RUNX1-RUNX1T1",
+    "CBFB-MYH11",
+    "PML-RARA",
+    "BCR-ABL1",
+    "DEK-NUP214"
+   ],
+   "answer": 2,
+   "explanation": "Abnormal promyelocytes with DIC is acute promyelocytic leukaemia, caused by t(15;17) PML-RARA, which blocks maturation through the retinoic acid receptor.",
+   "whyNot": [
+    "t(8;21) is a core-binding factor AML without the typical promyelocyte picture.",
+    "inv(16) is the other core-binding factor AML.",
+    "",
+    "BCR-ABL1 is the Philadelphia fusion of CML and some ALL.",
+    "t(6;9) is an adverse-risk AML lesion, not APL."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-aml.s2"
+   },
+   "cites": [
+    {
+     "book": "kcEssentials",
+     "pdfPage": 296,
+     "page": 259
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 977,
+     "page": 955
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 415,
+     "page": 391
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 62-year-old woman received etoposide-containing chemotherapy for lymphoma 3 years ago. She now presents with pancytopenia and 45% myeloid blasts in her marrow.",
+   "leadIn": "Into which WHO 2016 group of AML does her disease best fit?",
+   "options": [
+    "AML with recurrent genetic abnormalities",
+    "AML with myelodysplasia-related changes",
+    "Therapy-related myeloid neoplasm",
+    "Myeloid sarcoma",
+    "AML not otherwise specified"
+   ],
+   "answer": 2,
+   "explanation": "AML after previous cytotoxics, including topoisomerase II inhibitors such as etoposide, is classed as a therapy-related myeloid neoplasm.",
+   "whyNot": [
+    "That group requires a defining genetic lesion, which is not given.",
+    "This group applies when AML evolves from MDS or shows MDS-type dysplasia.",
+    "",
+    "Myeloid sarcoma is an extramedullary mass of blasts.",
+    "NOS is used only when no more specific group fits; here the drug history gives one."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-aml.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 977,
+     "page": 955
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 411,
+     "page": 387
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 70-year-old man with newly diagnosed AML has a white count of 160 × 10^9/L. Over a few hours he becomes confused and breathless, with SpO2 86% on air, bilateral lung infiltrates and dilated retinal veins.",
+   "leadIn": "What is the most likely explanation?",
+   "options": [
+    "Leucostasis",
+    "Tumour lysis syndrome",
+    "Disseminated intravascular coagulation",
+    "CNS leukaemic infiltration",
+    "Neutropenic sepsis"
+   ],
+   "answer": 0,
+   "explanation": "A very high blast count slows flow in small vessels of the lung, brain and retina, causing hypoxia, confusion and fundal changes. This is leucostasis.",
+   "whyNot": [
+    "",
+    "TLS causes metabolic derangement and AKI, not retinal vein dilatation with hypoxia.",
+    "DIC causes bleeding and abnormal clotting tests rather than this picture.",
+    "CNS infiltration does not explain the hypoxia and lung infiltrates; it is unusual in non-monocytic AML.",
+    "He is not neutropenic; his white count is very high."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-aml.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 412,
+     "page": 388
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 361,
+     "page": 361
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 25-year-old man has fatigue, fever and petechiae. His full blood count shows anaemia, thrombocytopenia and circulating blasts.",
+   "leadIn": "Which examination finding most favours AML over ALL?",
+   "options": [
+    "Gum hypertrophy",
+    "Painless testicular enlargement",
+    "Distended neck veins with a mediastinal mass",
+    "Isolated cranial nerve palsy",
+    "Widespread petechiae"
+   ],
+   "answer": 0,
+   "explanation": "Gingival infiltration is a feature of AML, especially monocytic types. Testicular, mediastinal and CNS disease point to ALL.",
+   "whyNot": [
+    "",
+    "Testicular infiltration is typical of ALL.",
+    "A mediastinal mass with SVC obstruction suggests T-ALL.",
+    "CNS involvement is mainly a feature of ALL.",
+    "Petechiae reflect thrombocytopenia and occur in both."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-aml.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 412,
+     "page": 388
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 361,
+     "page": 361
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 66-year-old woman has a white count of 22 × 10^9/L with many blasts on her film.",
+   "leadIn": "Which finding on the film would establish that the leukaemia is myeloid?",
+   "options": [
+    "Auer rods in blast cytoplasm",
+    "Smudge (smear) cells",
+    "Hypersegmented neutrophils",
+    "Blasts with scanty cytoplasm and clefted nuclei",
+    "Rouleaux formation"
+   ],
+   "answer": 0,
+   "explanation": "Auer rods are pathognomonic of AML, though immunophenotyping confirms the lineage.",
+   "whyNot": [
+    "",
+    "Smudge cells are typical of CLL.",
+    "Hypersegmented neutrophils suggest megaloblastic anaemia.",
+    "Lymphoblasts with a high N:C ratio and clefted nuclei fit ALL.",
+    "Rouleaux reflect raised plasma proteins, as in myeloma."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-aml.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 412,
+     "page": 388
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 296,
+     "page": 259
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 193,
+     "page": 193
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 431,
+     "page": 431
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 965,
+     "page": 943
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 432,
+     "page": 408
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 48-year-old man of Mediterranean origin with AML and a white count of 140 × 10^9/L is about to start induction. His urate is already raised, and the team wants to give rasburicase.",
+   "leadIn": "Which test should be checked first?",
+   "options": [
+    "G6PD activity",
+    "Echocardiogram",
+    "HLA typing",
+    "Lumbar puncture",
+    "Direct antiglobulin test"
+   ],
+   "answer": 0,
+   "explanation": "Rasburicase is contraindicated in G6PD deficiency, so G6PD status is checked before it is given.",
+   "whyNot": [
+    "",
+    "An echocardiogram is needed before anthracyclines, not before rasburicase.",
+    "HLA typing plans transplant and does not affect rasburicase safety.",
+    "LP is not routine in AML and has no bearing on rasburicase.",
+    "The DAT tests for immune haemolysis, not for this drug contraindication."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-aml.s4"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 362,
+     "page": 362
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 432,
+     "page": 432
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "Several patients with newly diagnosed AML have genetic testing.",
+   "leadIn": "Which result places a patient in the favourable-risk group?",
+   "options": [
+    "Mutated NPM1 without FLT3-ITD",
+    "Wild-type NPM1 with high FLT3-ITD",
+    "Monosomy 7",
+    "Complex karyotype",
+    "TP53 mutation"
+   ],
+   "answer": 0,
+   "explanation": "In ELN 2017, an NPM1 mutation without FLT3-ITD (or with low ITD) is favourable.",
+   "whyNot": [
+    "",
+    "High FLT3-ITD with wild-type NPM1 is adverse.",
+    "Loss of chromosome 7 is an adverse cytogenetic change.",
+    "A complex karyotype is adverse.",
+    "TP53 mutation is adverse."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-aml.s5"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 362,
+     "page": 362
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 363,
+     "page": 363
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "All five patients below have AML treated with intent to cure.",
+   "leadIn": "Which patient has the poorest expected outcome?",
+   "options": [
+    "32-year-old with t(15;17)",
+    "40-year-old with inv(16)",
+    "45-year-old with t(8;21)",
+    "74-year-old with AML after MDS and a complex karyotype",
+    "50-year-old with normal karyotype and NPM1 mutation without FLT3-ITD"
+   ],
+   "answer": 3,
+   "explanation": "Older age, secondary AML and a complex karyotype are each adverse, and together they predict very poor survival.",
+   "whyNot": [
+    "APL has about 90% 5-year survival.",
+    "inv(16) is favourable (~70% 5-year survival).",
+    "t(8;21) is favourable (~65% 5-year survival).",
+    "",
+    "NPM1 mutation without FLT3-ITD is favourable."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-aml.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 414,
+     "page": 390
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 362,
+     "page": 362
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 52-year-old woman is on day 10 of induction for AML. Her temperature has been 38.7°C for 2 hours, and her neutrophils are 0.1 × 10^9/L. She is alert, and her blood pressure is normal.",
+   "leadIn": "What is the most appropriate immediate step?",
+   "options": [
+    "IV piperacillin-tazobactam plus gentamicin",
+    "Oral amoxicillin and review in 24 hours",
+    "Wait for blood culture results before any antibiotic",
+    "Empirical liposomal amphotericin B alone",
+    "G-CSF without antibiotics"
+   ],
+   "answer": 0,
+   "explanation": "Fever over 38°C for more than an hour in a neutropenic patient is treated as sepsis, with immediate parenteral broad-spectrum antibiotics after cultures.",
+   "whyNot": [
+    "",
+    "Oral narrow-spectrum treatment is unsafe in profound neutropenia.",
+    "Delaying antibiotics risks rapid Gram-negative deterioration.",
+    "Antifungals are added only if fever persists 3–5 days with evidence of fungal infection.",
+    "Parenteral broad-spectrum antibiotics are essential; omitting them leaves the infection untreated."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-aml.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 979,
+     "page": 957
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "On day 2 of induction, a man with AML and a presenting white count of 120 × 10^9/L has a potassium of 6.6 mmol/L, raised phosphate and urate, low calcium and a creatinine that has doubled.",
+   "leadIn": "Which measure would most likely have prevented this?",
+   "options": [
+    "IV hydration with allopurinol (or rasburicase) started before chemotherapy",
+    "Calcium supplements during induction",
+    "Delaying platelet transfusion",
+    "Prophylactic co-trimoxazole",
+    "Avoiding a central venous line"
+   ],
+   "answer": 0,
+   "explanation": "This is tumour lysis syndrome. Vigorous IV fluids with allopurinol, and rasburicase in high-risk patients, are started before treatment to prevent it.",
+   "whyNot": [
+    "",
+    "Calcium does not prevent lysis, and giving it with high phosphate is unhelpful.",
+    "Platelet policy does not affect tumour lysis.",
+    "Co-trimoxazole is Pneumocystis prophylaxis, mainly in ALL.",
+    "Central lines help deliver therapy and play no part in TLS."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-aml.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 978,
+     "page": 956
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 295,
+     "page": 258
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A fit 50-year-old man has newly diagnosed AML with a normal karyotype and no FLT3, NPM1 or IDH mutations.",
+   "leadIn": "What is the most appropriate induction treatment?",
+   "options": [
+    "Cytarabine for 7 days plus daunorubicin for 3 days",
+    "ATRA plus arsenic trioxide",
+    "Azacitidine plus venetoclax",
+    "Vincristine, prednisolone and asparaginase",
+    "Imatinib"
+   ],
+   "answer": 0,
+   "explanation": "Standard intensive induction for a fit adult is \"7+3\": continuous cytarabine with an anthracycline.",
+   "whyNot": [
+    "",
+    "ATRA/ATO is for APL.",
+    "Azacitidine with venetoclax is for patients unfit for intensive therapy.",
+    "This combination is ALL induction.",
+    "Imatinib targets BCR-ABL1 (CML, Ph-positive ALL)."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-aml.s7"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 363,
+     "page": 363
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 979,
+     "page": 957
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 29-year-old woman has gum bleeding and oozing from venepuncture sites. Fibrinogen is 0.9 g/L and D-dimer is very high. The film shows abnormal hypergranular promyelocytes. Cytogenetics will take several days.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Start ATRA immediately",
+    "Wait for PML-RARA confirmation before any treatment",
+    "Start therapeutic heparin",
+    "Refer for urgent allogeneic transplant",
+    "Start low-dose cytarabine"
+   ],
+   "answer": 0,
+   "explanation": "APL is an emergency because its coagulopathy causes early deaths. ATRA is started on suspicion: it differentiates promyelocytes and rapidly corrects the bleeding tendency.",
+   "whyNot": [
+    "",
+    "Waiting allows potentially fatal haemorrhage.",
+    "Anticoagulation would worsen bleeding.",
+    "Transplant is reserved for persisting molecular disease or relapse in APL.",
+    "Low-dose cytarabine is palliative therapy for unfit patients."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-aml.s7"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 364,
+     "page": 364
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 415,
+     "page": 391
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 298,
+     "page": 261
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q15",
+   "kind": "emq",
+   "pool": "worked",
+   "difficulty": 2,
+   "theme": "Diagnosis of patients with abnormal blood counts",
+   "leadIn": "For each patient below, pick the single best option from the list. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Acute myeloid leukaemia (non-promyelocytic)",
+    "Acute promyelocytic leukaemia",
+    "B-lymphoblastic leukaemia",
+    "T-lymphoblastic leukaemia/lymphoma",
+    "Chronic myeloid leukaemia, chronic phase",
+    "Chronic myeloid leukaemia, blast crisis",
+    "Chronic lymphocytic leukaemia",
+    "Myelodysplastic syndrome",
+    "Aplastic anaemia",
+    "Immune thrombocytopenia",
+    "Primary myelofibrosis"
+   ],
+   "items": [
+    {
+     "stem": "A 69-year-old man has had fatigue and three chest infections in 2 months, and his gums have become swollen. Hb 82 g/L, MCV 101 fL, WBC 38 × 10^9/L with blasts containing rod-shaped cytoplasmic inclusions, platelets 22 × 10^9/L. Fibrinogen is normal.",
+     "answer": 0,
+     "explanation": "Step 1: blasts in the blood with cytopenias mean acute leukaemia. Step 2: rod inclusions (Auer rods) make it myeloid. Step 3: gum infiltration fits a monocytic-type AML, and a normal fibrinogen without abnormal promyelocytes makes APL unlikely.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s4"
+     }
+    },
+    {
+     "stem": "A 76-year-old woman needs regular transfusions for a macrocytic anaemia and is neutropenic. Her marrow is hypercellular, with dysplastic changes in three lineages and 11% blasts.",
+     "answer": 7,
+     "explanation": "Step 1: dysplasia plus excess blasts means a clonal myeloid disorder. Step 2: the blast count is below 20%, so this is MDS, not AML. MDS can later transform to AML.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s1"
+     }
+    },
+    {
+     "stem": "A 58-year-old man has had 4 years of a high white count with the whole range of maturing granulocytes and a large spleen. He now has sweats and bone pain, platelets of 30 × 10^9/L and 45% blasts in the blood. He is known to carry the Philadelphia chromosome.",
+     "answer": 5,
+     "explanation": "Step 1: a long chronic phase with maturing granulocytes, splenomegaly and Ph-positivity is CML. Step 2: a sudden rise in blasts with falling platelets marks transformation. Blast crisis is usually myeloblastic (about 70%).",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 977,
+     "page": 955
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 978,
+     "page": 956
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 424,
+     "page": 424
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q16",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 46-year-old man achieves complete remission after one cycle of 7+3 for AML. His karyotype at diagnosis was complex, with monosomy 7. He is fit, and his brother is an HLA-identical match.",
+   "leadIn": "What is the most appropriate post-remission strategy?",
+   "options": [
+    "Allogeneic stem cell transplant in first remission",
+    "High-dose cytarabine cycles alone, then observation",
+    "Maintenance ATRA for 2 years",
+    "No further treatment, as he is already in remission",
+    "Azacitidine plus venetoclax"
+   ],
+   "answer": 0,
+   "explanation": "Reason in three steps. (1) Remission is morphological only, so further treatment is always needed. (2) His adverse cytogenetics mean a high relapse risk and a poor response to chemotherapy alone. (3) He is young, fit and has a matched sibling, so transplant-related mortality is acceptable. Transplant in CR1 therefore offers the best survival: allogeneic HSCT raises 5-year survival in high-risk disease from ~20% to ~50%.",
+   "whyNot": [
+    "",
+    "Chemotherapy-only consolidation suits favourable-risk disease; adverse-risk relapse risk stays high.",
+    "ATRA maintenance belongs to APL treatment.",
+    "Without consolidation, relapse is almost inevitable.",
+    "This regimen is for patients unfit for intensive therapy."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-aml.s7"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 414,
+     "page": 390
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 413,
+     "page": 389
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 298,
+     "page": 261
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q17",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Investigations in acute myeloid leukaemia",
+   "leadIn": "For each patient below, pick the single best option from the list. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Full blood count and blood film",
+    "Bone marrow aspirate and trephine",
+    "Flow cytometric immunophenotyping",
+    "Karyotype and FISH",
+    "FLT3 mutation analysis",
+    "Coagulation screen with fibrinogen and D-dimer",
+    "G6PD assay",
+    "Echocardiogram",
+    "HLA typing of patient and siblings",
+    "Lumbar puncture with CSF cytology",
+    "Blood cultures and chest X-ray",
+    "MRD assessment by flow cytometry or qPCR"
+   ],
+   "items": [
+    {
+     "stem": "A 63-year-old man who had a myocardial infarction 4 years ago is about to start daunorubicin-containing induction for AML. Which test assesses whether he can tolerate this drug class?",
+     "answer": 7,
+     "explanation": "Anthracyclines are cardiotoxic, so cardiac function is checked with an echocardiogram (and ECG) beforehand.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s4"
+     }
+    },
+    {
+     "stem": "A 41-year-old woman has newly diagnosed AML with a normal karyotype. Her haematologist must decide whether to add midostaurin to induction. Which test guides this?",
+     "answer": 4,
+     "explanation": "Two steps: midostaurin is a FLT3 inhibitor, so it is added only when a FLT3 (ITD or TKD) mutation is found.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s4"
+     }
+    },
+    {
+     "stem": "A 36-year-old man is in morphological remission after induction for NPM1-mutated AML. The team wants to know whether his remission is deep enough to avoid a transplant. Which test helps?",
+     "answer": 11,
+     "explanation": "MRD testing finds leukaemia below the microscopic level. NPM1 MRD negativity may move a patient into a lower-risk group and avoid transplant.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s5"
+     }
+    },
+    {
+     "stem": "A 27-year-old woman has petechiae and oozing from cannula sites. Her film shows abnormal granular promyelocytes. Which test best shows the immediate threat to her life?",
+     "answer": 5,
+     "explanation": "Suspected APL carries a high risk of DIC: prolonged PT and APTT, low fibrinogen and high D-dimer, which can cause fatal bleeding.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 412,
+     "page": 388
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 362,
+     "page": 362
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 363,
+     "page": 363
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 414,
+     "page": 390
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 410,
+     "page": 386
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q18",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Risk factors for acute myeloid leukaemia",
+   "leadIn": "For each patient below, pick the single best option from the list. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Alkylating agent chemotherapy",
+    "Topoisomerase II inhibitor chemotherapy",
+    "Industrial benzene exposure",
+    "Ionising radiation",
+    "Down syndrome",
+    "Fanconi anaemia",
+    "Li-Fraumeni syndrome",
+    "Myelodysplastic syndrome",
+    "Primary myelofibrosis",
+    "Paroxysmal nocturnal haemoglobinuria",
+    "HTLV-1 infection",
+    "Clonal haemopoiesis of indeterminate potential"
+   ],
+   "items": [
+    {
+     "stem": "A 71-year-old woman treated with melphalan for myeloma 6 years ago now has AML.",
+     "answer": 0,
+     "explanation": "Melphalan is an alkylating agent; AML follows after a latent period of several years.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s1"
+     }
+    },
+    {
+     "stem": "A 34-year-old man was treated 2 years ago with an etoposide-based regimen for a germ cell tumour. He now has AML.",
+     "answer": 1,
+     "explanation": "Etoposide inhibits topoisomerase II, a recognised cause of therapy-related AML.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s1"
+     }
+    },
+    {
+     "stem": "A 68-year-old man has had marrow fibrosis, a massive spleen and teardrop-shaped red cells for years. His blood now contains 30% blasts.",
+     "answer": 8,
+     "explanation": "Two steps: long-standing marrow fibrosis with splenomegaly is primary myelofibrosis, an MPN that transforms to AML at about 8% a year.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s1"
+     }
+    },
+    {
+     "stem": "A 58-year-old man who worked as a recovery worker at Chernobyl in 1986 now has AML.",
+     "answer": 3,
+     "explanation": "Ionising radiation after nuclear accidents or atomic bombs raises AML incidence.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s1"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 411,
+     "page": 387
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 360,
+     "page": 360
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 361,
+     "page": 361
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 977,
+     "page": 955
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q19",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Managing complications during treatment of acute leukaemia",
+   "leadIn": "For each patient below, pick the single best option from the list. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "IV piperacillin-tazobactam plus gentamicin",
+    "Add IV vancomycin",
+    "Liposomal amphotericin B",
+    "Oral fluconazole",
+    "High-dose IV aciclovir",
+    "Rasburicase",
+    "Haemodialysis",
+    "Platelet transfusion",
+    "Cryoprecipitate",
+    "Dexamethasone",
+    "Hydroxycarbamide with leukapheresis",
+    "High-dose co-trimoxazole"
+   ],
+   "items": [
+    {
+     "stem": "A 44-year-old woman on day 9 of AML induction has a temperature of 38.9°C for 90 minutes and neutrophils of 0.2 × 10^9/L. No source is found.",
+     "answer": 0,
+     "explanation": "Neutropenic fever needs immediate IV broad-spectrum cover, e.g. an aminoglycoside with piperacillin-tazobactam.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s6"
+     }
+    },
+    {
+     "stem": "The same patient remains febrile after 48 hours on that regimen. Her Hickman line exit site is red and tender, and blood cultures grow Gram-positive cocci in clusters.",
+     "answer": 1,
+     "explanation": "Two steps: Gram-positive cocci in clusters from a line infection are staphylococci, which need added vancomycin or teicoplanin.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s6"
+     }
+    },
+    {
+     "stem": "A 60-year-old man has had fever for 5 days on broad antibacterial cover during induction. Chest CT shows several nodules typical of invasive fungal infection.",
+     "answer": 2,
+     "explanation": "Persistent fever after 3–5 days with evidence of disseminated fungal infection calls for IV liposomal amphotericin B (or voriconazole, caspofungin).",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s6"
+     }
+    },
+    {
+     "stem": "A 26-year-old man with APL on day 4 of ATRA has fresh gum bleeding. His fibrinogen is 0.8 g/L.",
+     "answer": 8,
+     "explanation": "APL coagulopathy with low fibrinogen is corrected with cryoprecipitate, alongside platelets and FFP as needed.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 979,
+     "page": 957
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 413,
+     "page": 389
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q20",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Drug treatment of acute myeloid leukaemia",
+   "leadIn": "For each patient below, pick the single best option from the list. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Cytarabine plus daunorubicin (\"7+3\")",
+    "7+3 plus midostaurin",
+    "7+3 plus gemtuzumab ozogamicin",
+    "CPX-351 (liposomal cytarabine-daunorubicin)",
+    "Azacitidine plus venetoclax",
+    "Ivosidenib",
+    "Enasidenib",
+    "Gilteritinib",
+    "ATRA plus arsenic trioxide",
+    "ATRA plus arsenic trioxide plus an anthracycline",
+    "High-dose cytarabine",
+    "Imatinib"
+   ],
+   "items": [
+    {
+     "stem": "A fit 47-year-old man has newly diagnosed AML with a FLT3-ITD mutation.",
+     "answer": 1,
+     "explanation": "For fit patients with FLT3-mutated AML, the FLT3 inhibitor midostaurin is added to 7+3 induction.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s7"
+     }
+    },
+    {
+     "stem": "An 81-year-old woman with ECOG performance status 3 has newly diagnosed AML. She wants treatment but is not fit for intensive chemotherapy.",
+     "answer": 4,
+     "explanation": "Unfit patients (often ≥75 years or ECOG ≥3) receive azacitidine with the BCL2 inhibitor venetoclax.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s7"
+     }
+    },
+    {
+     "stem": "A 39-year-old woman has APL with a white count of 3.2 × 10^9/L.",
+     "answer": 8,
+     "explanation": "Non-high-risk APL (WBC ≤10 × 10^9/L) is treated chemotherapy-free with ATRA plus arsenic trioxide, curing about 90%.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s7"
+     }
+    },
+    {
+     "stem": "A 33-year-old man has APL with a white count of 26 × 10^9/L.",
+     "answer": 9,
+     "explanation": "Two steps: WBC >10 × 10^9/L defines high-risk APL, so an anthracycline (or gemtuzumab) is added to ATRA plus arsenic trioxide.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 363,
+     "page": 363
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 364,
+     "page": 364
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q21",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Acute complications of leukaemia and its treatment",
+   "leadIn": "For each patient below, pick the single best option from the list. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Leucostasis",
+    "Tumour lysis syndrome",
+    "Disseminated intravascular coagulation",
+    "Neutropenic sepsis",
+    "Differentiation syndrome",
+    "Superior vena cava obstruction",
+    "CNS leukaemic infiltration",
+    "Myeloid sarcoma (chloroma)",
+    "Herpes simplex reactivation",
+    "Pneumocystis pneumonia",
+    "Acute gout",
+    "Gingival leukaemic infiltration"
+   ],
+   "items": [
+    {
+     "stem": "A 64-year-old man with AML and a white count of 190 × 10^9/L becomes confused. His SpO2 is 87% on air, and fundoscopy shows papilloedema with dilated retinal veins.",
+     "answer": 0,
+     "explanation": "A very high blast count plugging small vessels of the brain, lung and retina is leucostasis.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s3"
+     }
+    },
+    {
+     "stem": "Two days after starting induction, a man whose presenting WBC was 120 × 10^9/L has potassium 6.6 mmol/L, phosphate 2.9 mmol/L, corrected calcium 1.8 mmol/L and a doubled creatinine.",
+     "answer": 1,
+     "explanation": "Rapid cell kill releases potassium, phosphate and urate; phosphate binds calcium; urate damages the kidney. This is tumour lysis syndrome.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s6"
+     }
+    },
+    {
+     "stem": "A 31-year-old woman with APL on day 9 of ATRA and arsenic trioxide develops fever, breathlessness, a 4 kg weight gain, ankle oedema, BP 88/50 mmHg and bilateral lung infiltrates. Blood cultures are negative.",
+     "answer": 4,
+     "explanation": "Fever, infiltrates, fluid retention and hypotension during ATRA therapy are differentiation syndrome, treated with dexamethasone.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s7"
+     }
+    },
+    {
+     "stem": "A 19-year-old man has lymphoblasts on his film, facial swelling, distended neck veins and a widened mediastinum on chest X-ray.",
+     "answer": 5,
+     "explanation": "Two steps: lymphoblasts with a mediastinal mass suggest T-lymphoblastic disease, and the mass compresses the SVC. This helps separate ALL from AML.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s3"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 412,
+     "page": 388
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 361,
+     "page": 361
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 365,
+     "page": 365
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q22",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 34-year-old woman with APL is on day 11 of ATRA and arsenic trioxide. She develops fever, dyspnoea, pulmonary infiltrates, peripheral oedema and a falling blood pressure. Cultures are negative.",
+   "leadIn": "What is the most appropriate specific treatment?",
+   "options": [
+    "Dexamethasone",
+    "Switch permanently to cytarabine and daunorubicin",
+    "IV furosemide alone",
+    "Broad-spectrum antibiotics alone",
+    "Platelet transfusion"
+   ],
+   "answer": 0,
+   "explanation": "This is ATRA differentiation syndrome (about 25% of patients). It is treated with dexamethasone 10 mg twice daily plus supportive care.",
+   "whyNot": [
+    "",
+    "Abandoning ATRA-based therapy loses its large benefit; the syndrome is treated, not avoided this way.",
+    "Diuresis is supportive only and does not treat the underlying syndrome.",
+    "Cultures are negative, and antibiotics do not address the cause.",
+    "Platelets do not treat this inflammatory syndrome."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-aml.s7"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 365,
+     "page": 365
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 57-year-old man with AML is septic, with a temperature of 39°C. His platelets are 15 × 10^9/L, and he has no bleeding.",
+   "leadIn": "What is the most appropriate approach to his platelet count?",
+   "options": [
+    "Transfuse platelets now",
+    "Transfuse only if the count falls below 10 × 10^9/L",
+    "Transfuse only if he bleeds",
+    "Give fresh frozen plasma instead",
+    "Give norethisterone"
+   ],
+   "answer": 0,
+   "explanation": "The platelet threshold is about 10 × 10^9/L in stable patients but 20 × 10^9/L when septic, so he needs platelets now.",
+   "whyNot": [
+    "",
+    "The lower threshold applies to stable, non-septic patients.",
+    "Prophylactic transfusion beats waiting for bleeding in AML.",
+    "FFP corrects clotting factors, not thrombocytopenia.",
+    "Norethisterone suppresses menstrual bleeding in women."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-aml.s6"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 413,
+     "page": 389
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 979,
+     "page": 957
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q24",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 3,
+   "theme": "Post-remission and later treatment decisions in AML",
+   "leadIn": "For each patient below, pick the single best option from the list. Any option can be the answer for one case, several cases or none.",
+   "options": [
+    "Cytarabine-based consolidation without transplant",
+    "Allogeneic stem cell transplant in first remission",
+    "ATRA plus arsenic trioxide consolidation",
+    "Gilteritinib",
+    "Enasidenib",
+    "Azacitidine plus venetoclax",
+    "Oral hydroxycarbamide for palliation",
+    "Maintenance mercaptopurine, methotrexate and vincristine",
+    "No further treatment; observe",
+    "Repeat 7+3 induction"
+   ],
+   "items": [
+    {
+     "stem": "A 36-year-old woman with inv(16) AML is in complete remission after induction.",
+     "answer": 0,
+     "explanation": "Favourable-risk disease is consolidated with further cytarabine-based cycles; allogeneic transplant in CR1 gives no benefit.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s7"
+     }
+    },
+    {
+     "stem": "A 44-year-old man with AML and a complex karyotype including monosomy 7 is in complete remission. His brother is an HLA-identical match.",
+     "answer": 1,
+     "explanation": "Adverse cytogenetics respond poorly to chemotherapy alone, so transplant is done in first complete remission.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s7"
+     }
+    },
+    {
+     "stem": "A 52-year-old woman relapses 8 months after completing therapy for AML. Repeat molecular testing now shows a FLT3-ITD mutation that was absent at diagnosis.",
+     "answer": 3,
+     "explanation": "Two steps: clonal evolution means mutations are re-tested at relapse, and a newly found FLT3 mutation is targeted with the potent FLT3 inhibitor gilteritinib.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s7"
+     }
+    },
+    {
+     "stem": "An 89-year-old bed-bound woman with severe heart failure has AML with a rising white count. She chooses symptom-focused care at home.",
+     "answer": 6,
+     "explanation": "In patients unfit for remission therapy, oral hydroxycarbamide can curb the leucocyte count without causing marrow failure.",
+     "studyRef": {
+      "sectionId": "hemonc-aml.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 414,
+     "page": 390
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 364,
+     "page": 364
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 979,
+     "page": 957
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 415,
+     "page": 391
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q25",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 58-year-old man with newly diagnosed AML has a white count of 210 × 10^9/L. He is confused and hypoxic, and his chest X-ray shows diffuse infiltrates.",
+   "leadIn": "What is the most appropriate immediate measure to reduce the white count?",
+   "options": [
+    "Hydroxycarbamide with or without leukapheresis",
+    "Red cell transfusion to Hb 100 g/L",
+    "Lumbar puncture with intrathecal chemotherapy",
+    "Rasburicase alone",
+    "Defer all therapy until the count falls"
+   ],
+   "answer": 0,
+   "explanation": "Symptomatic leucostasis needs rapid cytoreduction with hydroxycarbamide (hydroxyurea), with or without leukapheresis.",
+   "whyNot": [
+    "",
+    "A red cell transfusion does nothing to lower the blast count that is causing the leucostasis.",
+    "CNS-directed therapy does not lower the circulating blast count.",
+    "Rasburicase lowers urate but not the white count.",
+    "The count will not fall without treatment, and delay risks stroke or respiratory failure."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-aml.s6"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "pdfPage": 432,
+     "page": 432
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 979,
+     "page": 957
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 361,
+     "page": 361
+    }
+   ]
+  },
+  {
+   "id": "hemonc-aml.q26",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 1,
+   "stem": "A fit 45-year-old woman starts intensive induction chemotherapy for AML.",
+   "leadIn": "About what proportion of patients like her (fit, under 60) achieve complete remission?",
+   "options": [
+    "About 20%",
+    "About 40%",
+    "About 60%",
+    "About 80%",
+    "More than 95%"
+   ],
+   "answer": 3,
+   "explanation": "About 80% of fit adults under 60 reach complete remission. Of the rest, roughly half have resistant disease and half die of treatment complications.",
+   "whyNot": [
+    "This matches low-intensity therapy in frail patients (<20%).",
+    "This is nearer the overall cure rate in under-60s (~40%).",
+    "This underestimates CR in fit younger adults.",
+    "",
+    "Near-universal CR is seen in childhood ALL and non-high-risk APL, not AML overall."
+   ],
+   "studyRef": {
+    "sectionId": "hemonc-aml.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 980,
+     "page": 958
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 414,
+     "page": 390
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 978,
+     "page": 956
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 364,
+     "page": 364
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 415,
+     "page": 391
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "hemonc-aml.o1",
+   "sectionId": "hemonc-aml.s4",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 978,
+    "page": 956,
+    "figure": "Fig. 23.23"
+   },
+   "identify": "Marrow aspirate replaced by large blasts with folded nuclei and prominent nucleoli → **AML marrow infiltration** (blasts >20%)."
+  },
+  {
+   "id": "hemonc-aml.o2",
+   "sectionId": "hemonc-aml.s4",
+   "cite": {
+    "book": "fa2ck11",
+    "pdfPage": 430,
+    "page": 430,
+    "figure": "FIGURE 2.7-14"
+   },
+   "identify": "Red rod-shaped inclusion in a myeloblast cytoplasm → **Auer rod**, pathognomonic of AML (classic in APL/M3)."
+  },
+  {
+   "id": "hemonc-aml.o3",
+   "sectionId": "hemonc-aml.s4",
+   "cite": {
+    "book": "fa2ck11",
+    "pdfPage": 431,
+    "page": 431,
+    "figure": "FIGURE 2.7-15"
+   },
+   "identify": "Big, evenly sized myeloblasts whose nuclei are round to reniform, each with obvious nucleoli → **AML**; contrast with the lymphoblasts of ALL, which have a high N:C ratio."
+  },
+  {
+   "id": "hemonc-aml.o4",
+   "sectionId": "hemonc-aml.s4",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 413,
+    "page": 389,
+    "figure": "Fig. 17.8"
+   },
+   "identify": "Blast cell on the peripheral film (A) and a hypercellular marrow particle (B) → **acute leukaemia**."
+  },
+  {
+   "id": "hemonc-aml.o5",
+   "sectionId": "hemonc-aml.s3",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 934,
+    "page": 912,
+    "figure": "Clinical examination in blood disease"
+   },
+   "identify": "Swollen, overgrown gums in a patient with cytopenias → **leukaemic gum infiltration**, typical of AML."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:34:22.396Z",
+  "contentHash": "bc54a94f172d27fbdaa1d34a28f4ba23d0cf151ac7d3c18e8704f64c80c8cc9b"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:34:22.406Z",
+  "contentHash": "bc54a94f172d27fbdaa1d34a28f4ba23d0cf151ac7d3c18e8704f64c80c8cc9b",
+  "checkerVersion": "source-check-v1"
+ }
+}

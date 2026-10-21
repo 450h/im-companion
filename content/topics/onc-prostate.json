@@ -1,0 +1,3216 @@
+{
+ "topicId": "onc-prostate",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "onc-prostate.s1",
+   "title": "Definition, epidemiology & aetiology",
+   "objectiveIdx": [
+    0,
+    1,
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Prostate cancer is a malignant tumour of the prostate gland. Almost all (about **95%**) are **adenocarcinomas**, and they usually arise in the **peripheral (outermost) zone** of the gland.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 460,
+       "page": 438
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 723,
+       "page": 723
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1492,
+       "page": 1480
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Zone contrast: **benign prostatic enlargement (BPE) begins in the periurethral (transitional) zone**, so it compresses the urethra early. **Cancer begins peripherally**, so it is palpable on DRE but causes outflow symptoms late.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 459,
+       "page": 437
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 460,
+       "page": 438
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 987,
+       "page": 987
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 723,
+       "page": 723
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Epidemiology at a glance",
+     "columns": [
+      "Point",
+      "Figure",
+      "Source"
+     ],
+     "rows": [
+      [
+       "Ranking (UK)",
+       "Commonest malignancy in UK men; prevalence about 105 per 100 000",
+       "Davidson"
+      ],
+      [
+       "UK burden",
+       "About 47 000 new cases (1 in 8 men) and 12 000 deaths a year; lifetime risk 1 in 4 in black men",
+       "Kumar"
+      ],
+      [
+       "Age",
+       "Rare before 50 (Pocket: rare under 45); **mean age at presentation 70**",
+       "Davidson, Pocket"
+      ],
+      [
+       "Geography",
+       "Common in northern Europe and the USA (especially African Americans); rare in China and Japan; uncommon but rising in India",
+       "Davidson"
+      ],
+      [
+       "Latent disease",
+       "By age 80, about **80% of men** carry malignant foci, most of which never progress",
+       "Kumar, KC Essentials"
+      ],
+      [
+       "Global share",
+       "About 7% of all male cancers; sixth commonest cancer worldwide",
+       "Kumar"
+      ],
+      [
+       "USA",
+       "Commonest cancer in men and the second cause of male cancer death after lung; lifetime risk of diagnosis ~16% but of death only ~3%",
+       "Pocket, First Aid"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 460,
+       "page": 438
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1492,
+       "page": 1480
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 396,
+       "page": 396
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 988,
+       "page": 988
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 442,
+       "page": 405
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Risk factors",
+     "items": [
+      "**Age**: the strongest single risk factor",
+      "**Black / African-American ethnicity**",
+      "**Family history** of prostate cancer (and, per Kumar, of breast cancer in relatives)",
+      "**Genetics**: germline _BRCA2_ (5–7 × risk; Pocket also lists BRCA mutations generally), the homeobox gene _HOXB13_, and over 100 SNPs found by genome-wide association studies",
+      "Possible environmental factors (Step-Up): high-fat diet; herbicide/pesticide exposure in farming or chemical industry work"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 460,
+       "page": 438
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1492,
+       "page": 1480
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 723,
+       "page": 723
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 396,
+       "page": 396
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Pathogenesis is **androgen-driven**: Kumar calls it the most hormone-sensitive malignancy, with the **androgen receptor** central to growth. Tumour tissue can concentrate circulating androgens, keeping intratumoral levels up even when blood levels are low. Over time, resistance develops through receptor super-sensitivity, altered ligand binding (other steroids start to act as agonists) and, finally, androgen-receptor-independent growth. This is the basis of **castration resistance**.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 149,
+       "page": 128
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 398,
+       "page": 398
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Patterns of spread",
+     "items": [
+      "**Pelvic lymph nodes**: spread there early",
+      "**Bone**: common; mainly **lumbar spine and pelvis** (Step-Up adds the vertebral bodies and long bones of the legs)",
+      "Bone deposits are typically **osteosclerotic** (osteoblastic) rather than lytic"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 460,
+       "page": 438
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 723,
+       "page": 723
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1492,
+       "page": 1480
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 508,
+       "page": 485
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "BPE and prostate cancer can coexist, but **BPE is not a precursor of cancer**.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 986,
+       "page": 986
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "The books rank the disease differently: Davidson calls it the commonest UK male malignancy, Kumar the sixth commonest cancer worldwide, Step-Up the second commonest male cancer worldwide, and First Aid the commonest non-skin cancer in US men. First Aid and Pocket both rank it the **second commonest cause of male cancer death**, after lung cancer in First Aid's list.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 460,
+       "page": 438
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1492,
+       "page": 1480
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 723,
+       "page": 723
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 988,
+       "page": 988
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 396,
+       "page": 396
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.s2",
+   "title": "Clinical features",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Most men are **asymptomatic**: in Pocket, 78% are asymptomatic with localized disease at diagnosis. Others have **lower urinary tract symptoms identical to BPE**. These are _voiding_ symptoms (hesitancy, poor or slow stream, incomplete emptying) and _storage_ symptoms (frequency, urgency, nocturia).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1492,
+       "page": 1480
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 396,
+       "page": 396
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 459,
+       "page": 437
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 460,
+       "page": 438
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Because the tumour starts in the periphery and grows inwards, **urethral obstruction is a late sign**. By the time a cancer obstructs, it has often already spread to nodes or bone.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 723,
+       "page": 723
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "What the finger feels on DRE",
+     "columns": [
+      "Gland",
+      "Feel",
+      "Notes"
+     ],
+     "rows": [
+      [
+       "Normal",
+       "Feels like the thenar eminence",
+       "Median sulcus palpable"
+      ],
+      [
+       "BPE",
+       "Smooth, symmetrically enlarged, rubbery",
+       "May feel normal because hyperplasia is central"
+      ],
+      [
+       "Cancer",
+       "**Stony-hard, nodular, irregular**, like a knuckle; median sulcus may be lost",
+       "Once palpable, 60–70% have spread beyond the gland (Step-Up)"
+      ],
+      [
+       "Prostatitis",
+       "Enlarged and **tender**",
+       "Plus dysuria, perineal pain, fever if acute"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 459,
+       "page": 437
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 460,
+       "page": 438
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 725,
+       "page": 725
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 987,
+       "page": 987
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 724,
+       "page": 724
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**A normal DRE does not exclude cancer**: up to **45%** of tumours are impalpable (Davidson), and early carcinoma usually cannot be felt.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 988,
+       "page": 988
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Features of advanced / metastatic disease",
+     "items": [
+      "**Bone pain**, especially **back pain**: progressive and worst at night",
+      "Complications of bone deposits: **pathological fracture** and **spinal cord compression**",
+      "Weight loss, constitutional upset, **anaemia** or other cytopenias (marrow infiltration)",
+      "**Ureteric obstruction** (hydronephrosis, renal impairment)",
+      "**Lymphoedema** from metastases blocking lymphatic drainage"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1351,
+       "page": 1329
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 396,
+       "page": 396
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 988,
+       "page": 988
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 723,
+       "page": 723
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Routes to diagnosis",
+     "items": [
+      "PSA testing in an asymptomatic man",
+      "Outflow (LUTS) symptoms indistinguishable from BPE",
+      "Presentation with bone metastases",
+      "Incidental finding in tissue removed at TURP or prostatectomy for presumed benign disease"
+     ],
+     "cites": [
+      {
+       "book": "kcEssentials",
+       "pdfPage": 443,
+       "page": 406
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "In an older man with prostate cancer, new **low back pain** may be the first sign of a **vertebral metastasis**.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 724,
+       "page": 724
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.s3",
+   "title": "Investigations, PSA & diagnosis",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "The diagnosis rests on **serum PSA plus DRE**. A raised PSA and/or an abnormal DRE leads to **ultrasound-guided prostate biopsy** for histological confirmation. Davidson describes **transrectal (TRUS) biopsy**. Kumar describes **multiparametric MRI (mpMRI) first** and then biopsy, with **transperineal** biopsy superseding transrectal in several centres because it is more accurate and carries less sepsis risk. Pocket notes that 6–12 cores are taken and that mpMRI improves detection.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1492,
+       "page": 1480
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 397,
+       "page": 397
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "PSA basics",
+     "items": [
+      "A **serine protease** made by the prostate that liquefies semen",
+      "Raised in about **95%** of prostate cancers, but **not cancer-specific**",
+      "The higher the PSA, the higher the chance of cancer, but a **normal PSA does not exclude** it",
+      "Used after diagnosis to **monitor treatment response, progression and recurrence**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1346,
+       "page": 1324
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 726,
+       "page": 726
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 989,
+       "page": 989
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "PSA level and what it means",
+     "columns": [
+      "PSA (ng/mL)",
+      "Interpretation"
+     ],
+     "rows": [
+      [
+       "< 4",
+       "Still not safe: ~25% have cancer (Davidson); 15% of men > 62 with a normal DRE had T1 cancer on biopsy (Pocket)"
+      ],
+      [
+       "4–10",
+       "About **40%** have cancer on biopsy (Davidson)"
+      ],
+      [
+       "> 10",
+       "About 50% have cancer; strongly suggests malignancy (Kumar, KC, Step-Up)"
+      ],
+      [
+       "> 20",
+       "Bone metastases are **rare below 20** (Davidson); > 20 is also a high-risk feature (Kumar Box 40.7)"
+      ],
+      [
+       "> 100",
+       "**Almost always** means bone metastases"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 396,
+       "page": 396
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1492,
+       "page": 1480
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 442,
+       "page": 405
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 726,
+       "page": 726
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1494,
+       "page": 1482
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Non-malignant causes of a raised PSA",
+     "items": [
+      "Benign prostatic enlargement",
+      "Prostatitis",
+      "Acute urinary retention",
+      "Prostatic instrumentation or trauma: biopsy, TURP, prostatic massage",
+      "Recent ejaculation",
+      "Advancing age"
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 396,
+       "page": 396
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 725,
+       "page": 725
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 989,
+       "page": 989
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1346,
+       "page": 1324
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Classic trap: **a routine DRE does not significantly raise PSA**, but **prostatic massage, biopsy and TURP do**. The books disagree about cystoscopy: Step-Up and KC say it raises PSA, Pocket says it does not. Avoid it as an exam answer.",
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 725,
+       "page": 725
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 396,
+       "page": 396
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 442,
+       "page": 405
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "PSA refinements",
+     "items": [
+      "**Age-adjusted** reference ranges (PSA rises with age)",
+      "**PSA velocity**: a rise > 0.75 per year is an indication for biopsy",
+      "**Free-to-total ratio**: cancer-derived PSA is more protein-bound, so a **low free fraction** favours cancer",
+      "**PSA density**: PSA relative to gland volume"
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 725,
+       "page": 725
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 726,
+       "page": 726
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Who needs a biopsy? (Step-Up algorithm)",
+     "columns": [
+      "PSA and DRE",
+      "Action"
+     ],
+     "rows": [
+      [
+       "PSA > 10, any DRE",
+       "Biopsy"
+      ],
+      [
+       "Abnormal DRE, any PSA",
+       "Biopsy"
+      ],
+      [
+       "PSA 4.1–10, normal DRE",
+       "Biopsy usually advised"
+      ],
+      [
+       "PSA < 4, normal DRE",
+       "Annual follow-up"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 724,
+       "page": 724
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Counselling before a PSA test",
+     "columns": [
+      "For",
+      "Against"
+     ],
+     "rows": [
+      [
+       "Finds cancer at a treatable stage",
+       "High false-positive rate: **50–60%** of men with a raised PSA have no cancer"
+      ],
+      [
+       "DRE + PSA picks up up to 60% of cancers while still localized (Step-Up)",
+       "False negatives: **25%** of men with a normal PSA have cancer"
+      ],
+      [
+       "",
+       "Biopsy morbidity (sepsis, bleeding); overdiagnosis and overtreatment (impotence, incontinence); anxiety if biopsy is negative"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 725,
+       "page": 725
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "**Population screening** is of limited value: more than **700 men** must be screened to cure one man (Davidson). KC notes that annual PSA + DRE cuts mortality only slightly and that most major bodies do not recommend it. Pocket and First Aid frame it as a **shared decision from about age 50**, earlier (about 45) for Black men and men with an affected first-degree relative. Pocket adds that DRE is no longer recommended as a screening test.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 443,
+       "page": 406
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 397,
+       "page": 397
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 989,
+       "page": 989
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1493,
+      "page": 1481,
+      "figure": "Fig. 40.4"
+     },
+     "note": "Look at: transrectal ultrasound-guided biopsy. A rectal probe with a needle guide; antibiotic prophylaxis and periprostatic local anaesthetic are given before core biopsies."
+    },
+    {
+     "type": "pitfall",
+     "text": "PSA cut-offs vary by book: Davidson uses a 4–10 ng/mL band, Kumar calls > 3 abnormal and > 10 suggestive of cancer, KC uses > 4, and First Aid calls > 10 \"markedly raised\". **Follow Davidson** (4–10 → ~40% cancer; < 4 → ~25%), and remember the shared message: no cut-off is safe.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1492,
+       "page": 1480
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 442,
+       "page": 405
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 988,
+       "page": 988
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.s4",
+   "title": "Grading, staging & prognosis",
+   "objectiveIdx": [
+    5,
+    6
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Gleason grading** gives each growth pattern a grade from **1 (well differentiated, small uniform glands) to 5 (anaplastic sheets of cells without glands)**. Prostate cancer is multifocal and heterogeneous, so the **score adds the two most prevalent patterns**. The commonest pattern is written first: 3 + 4 means pattern 3 dominates. Scores of 2–6 are well differentiated, 7 moderately and 8–10 poorly differentiated.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1493,
+       "page": 1481,
+       "figure": "Fig. 40.5"
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 397,
+       "page": 397
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Gleason score → Grade Group (Pocket)",
+     "columns": [
+      "Grade Group",
+      "Gleason",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "1",
+       "3 + 3 = 6",
+       "Best prognosis"
+      ],
+      [
+       "2",
+       "3 + 4 = 7",
+       "Mostly pattern 3"
+      ],
+      [
+       "3",
+       "4 + 3 = 7",
+       "Mostly pattern 4: worse than 3 + 4"
+      ],
+      [
+       "4",
+       "4 + 4 = 8",
+       "Poorly differentiated"
+      ],
+      [
+       "5",
+       "9–10",
+       "Worst prognosis"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 397,
+       "page": 397
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1493,
+       "page": 1481
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Clinical stage groups (each has its own management arm)",
+     "columns": [
+      "Group",
+      "Definition",
+      "Step-Up letter stage"
+     ],
+     "rows": [
+      [
+       "**Localized**",
+       "Confined to the prostate",
+       "A: impalpable, confined; B: palpable nodule, still confined"
+      ],
+      [
+       "**Locally advanced**",
+       "Through the capsule (e.g. T3 N0) without distant metastases",
+       "C: beyond capsule, no metastasis"
+      ],
+      [
+       "**Metastatic**",
+       "Distant spread, usually to bone (± nodes)",
+       "D: metastatic"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 149,
+       "page": 128
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1494,
+       "page": 1482
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 726,
+       "page": 726
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Risk groups (Kumar)",
+     "columns": [
+      "Risk",
+      "PSA (ng/mL)",
+      "T stage",
+      "Gleason"
+     ],
+     "rows": [
+      [
+       "Low",
+       "< 10",
+       "T1–T2",
+       "6"
+      ],
+      [
+       "High",
+       "> 20",
+       "T3–T4",
+       "≥ 4 + 3 = 7"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1494,
+       "page": 1482
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Staging investigations",
+     "items": [
+      "**Pelvic MRI** for local extent (KC: endorectal-coil MRI)",
+      "**Isotope bone scan** if distant spread is suspected: metastases appear as hot spots; rarely positive if PSA < 20",
+      "**CT abdomen/pelvis** (± plain films of the pelvis and spine) to look for nodal and bony spread",
+      "Bone deposits are **osteosclerotic** on X-ray; ALP and acid phosphatase may rise with them"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 443,
+       "page": 406
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 988,
+       "page": 988
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 726,
+       "page": 726
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1492,
+       "page": 1480
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 508,
+       "page": 485
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Prognostic factors (Kumar Box 40.6)",
+     "columns": [
+      "Setting",
+      "Factors"
+     ],
+     "rows": [
+      [
+       "At diagnosis",
+       "Clinical stage, biopsy Gleason grade, serum PSA"
+      ],
+      [
+       "After radical surgery",
+       "Pathological stage, surgical margins, extracapsular / seminal-vesicle / nodal spread"
+      ],
+      [
+       "Metastatic hormone-resistant",
+       "Performance status, PSA, haemoglobin, albumin, alkaline phosphatase, LDH"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 1493,
+       "page": 1481
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Survival figures worth knowing",
+     "items": [
+      "Organ-confined disease: **95% 10-year survival**; with metastases: **10%** (Davidson)",
+      "Small incidental foci do not shorten life expectancy",
+      "About 95% of men diagnosed aged 50–69 in England survive at least 5 years",
+      "**75% of men over 80 die _with_, not _of_, their prostate cancer**",
+      "After prostatectomy, 5-year relapse-free survival is > 90% if organ-confined, ~75% with capsular extension, ~40% with seminal-vesicle invasion (Pocket)",
+      "Radical surgery or radiotherapy for gland-confined disease gives 80–90% 5-year survival (KC)"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1493,
+       "page": 1481
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 149,
+       "page": 128
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 398,
+       "page": 398
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 443,
+       "page": 406
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1492,
+       "page": 1480
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1493,
+      "page": 1481,
+      "figure": "Fig. 40.5"
+     },
+     "note": "Look at: the Gleason pattern scale, from small uniform glands (1) through stromal infiltration (3) and irregular masses (4) to gland-less sheets of cells (5)."
+    },
+    {
+     "type": "pearl",
+     "text": "**3 + 4 ≠ 4 + 3.** Both total 7, but 4 + 3 (Grade Group 3) is worse, and Kumar's high-risk threshold starts at **4 + 3**.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 397,
+       "page": 397
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1494,
+       "page": 1482
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.s5",
+   "title": "Differential diagnosis",
+   "objectiveIdx": [
+    7
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Prostate conditions compared",
+     "columns": [
+      "Condition",
+      "Typical patient / symptoms",
+      "DRE",
+      "Key test"
+     ],
+     "rows": [
+      [
+       "**BPE**",
+       "Older man; slowly progressive LUTS; may present with acute retention (alcohol, constipation, infection) or painless chronic retention with nocturnal incontinence",
+       "Smooth, uniformly enlarged, rubbery",
+       "Clinical diagnosis; PSA may be mildly raised"
+      ],
+      [
+       "**Prostatitis**",
+       "Frequency, dysuria, painful ejaculation, perineal/groin pain; systemically unwell if acute",
+       "Enlarged and **tender**",
+       "Culture of urine or discharge after prostatic massage; quinolone for 4–6 weeks"
+      ],
+      [
+       "**Prostate cancer**",
+       "Often asymptomatic or BPE-like LUTS; later bone pain, weight loss",
+       "Hard, nodular, irregular (or normal)",
+       "PSA, imaging, biopsy"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 459,
+       "page": 437
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 460,
+       "page": 438
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 987,
+       "page": 987
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 442,
+       "page": 405
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**PSA cannot distinguish** cancer from BPE or prostatitis because all three raise it. A raised PSA with LUTS still usually leads to referral and biopsy.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 1346,
+       "page": 1324
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 442,
+       "page": 405
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 989,
+       "page": 989
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Bone pain or bone lesions in an older man: other causes",
+     "items": [
+      "Prostate deposits are characteristically **osteosclerotic**",
+      "Metastases from **lung, kidney and thyroid** are mainly **osteolytic**; breast deposits are usually lytic too",
+      "**Multiple myeloma**: lytic lesions, and the bone scan may be falsely negative because osteoblast activity is suppressed",
+      "Primary bone tumours: rare, and mostly in the young"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 508,
+       "page": 485
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1351,
+       "page": 1329
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "BPE affects **more than 80% of men by 80** and arises in the central/periurethral zone, so a gland that is **hard or irregular** rather than rubbery should prompt suspicion of cancer.",
+     "cites": [
+      {
+       "book": "fa2ck11",
+       "pdfPage": 986,
+       "page": 986
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 987,
+       "page": 987
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.s6",
+   "title": "Management",
+   "objectiveIdx": [
+    8
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Management by disease extent",
+     "columns": [
+      "Setting",
+      "Approach",
+      "Key facts"
+     ],
+     "rows": [
+      [
+       "Localized, low-volume low-grade (Gleason ≤ 6)",
+       "**Active surveillance**",
+       "Serial PSA, DRE, repeat mpMRI and biopsies; treat only if the cancer becomes more aggressive"
+      ],
+      [
+       "Localized, life expectancy > 10 years",
+       "**Radical treatment**: (robot-assisted) radical prostatectomy, external-beam radiotherapy or brachytherapy (implanted radioactive seeds)",
+       "Equivalent survival; they differ in side-effects. Radiotherapy is often chosen by older men who want to avoid surgery"
+      ],
+      [
+       "Older / frail, low-grade, short life expectancy",
+       "**Watchful waiting**",
+       "Pocket: asymptomatic, life expectancy ≤ 5 years and lower-risk disease → no work-up or treatment until symptoms"
+      ],
+      [
+       "Locally advanced (T3 N0)",
+       "**Androgen deprivation + radiotherapy**",
+       "Raises 10-year survival from 61% (hormones alone) to **71%**"
+      ],
+      [
+       "Metastatic, hormone-sensitive",
+       "**Androgen deprivation therapy (ADT)**, often intensified",
+       "ADT palliates ~70% for a median of ~2 years. ADT + docetaxel, or + abiraterone/enzalutamide/apalutamide, improves overall survival"
+      ],
+      [
+       "Castration-resistant",
+       "**Continue ADT** and add further agents",
+       "Abiraterone + prednisone, enzalutamide/apalutamide/darolutamide; docetaxel/cabazitaxel; targeted or immune therapy where indicated"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1493,
+       "page": 1481
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 149,
+       "page": 128
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 397,
+       "page": 397
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 398,
+       "page": 398
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 988,
+       "page": 988
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 1494,
+      "page": 1482,
+      "figure": "Fig. 40.6"
+     },
+     "note": "Look at: the management algorithm. Diagnosis → staging. Localized → radical treatment or active surveillance; locally advanced → ADT + radiotherapy; metastatic → ADT and palliative care."
+    },
+    {
+     "type": "table",
+     "title": "Radical treatments: side-effects",
+     "columns": [
+      "Treatment",
+      "Typical complications"
+     ],
+     "rows": [
+      [
+       "Radical prostatectomy",
+       "**Erectile dysfunction and urinary incontinence**, the commonest complications; worse than with radiotherapy in the short term, similar after some years"
+      ],
+      [
+       "Radiotherapy (external beam or brachytherapy)",
+       "**Radiation proctitis** and GI symptoms; erectile dysfunction"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 726,
+       "page": 726
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 397,
+       "page": 397
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 988,
+       "page": 988
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 1493,
+       "page": 1481
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 989,
+       "page": 989
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Endocrine (androgen-deprivation) therapy",
+     "columns": [
+      "Class",
+      "Examples",
+      "How it works / key point"
+     ],
+     "rows": [
+      [
+       "GnRH (LHRH) agonist",
+       "Goserelin, leuprorelin",
+       "Constant receptor occupancy abolishes the pulsatile signal, so LH/FSH and then testosterone fall. **Initial testosterone surge → tumour flare**, so start under antiandrogen cover. As effective as orchidectomy"
+      ],
+      [
+       "GnRH antagonist",
+       "Degarelix",
+       "Lowers testosterone **without an initial surge**, so no flare"
+      ],
+      [
+       "Androgen-receptor blockers",
+       "Bicalutamide, cyproterone acetate, flutamide, nilutamide; more potent: enzalutamide, apalutamide, darolutamide",
+       "Block testosterone action at the tumour cell"
+      ],
+      [
+       "Androgen-synthesis inhibitor",
+       "Abiraterone (with prednisone)",
+       "Inhibits **CYP17**, a key enzyme in testosterone synthesis"
+      ],
+      [
+       "Surgical castration",
+       "Bilateral orchidectomy",
+       "Very effective but invasive, often unacceptable and seldom needed"
+      ],
+      [
+       "Others",
+       "Corticosteroids, oestrogens",
+       "Sometimes help once castration-refractory"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 149,
+       "page": 128
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 398,
+       "page": 398
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1354,
+       "page": 1332
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Tumour flare**: in the first week a GnRH agonist raises LH and testosterone, which can cause a tumour flare in metastatic disease. Cover the start with an antiandrogen (e.g. bicalutamide, flutamide) or use the GnRH antagonist **degarelix** instead.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 149,
+       "page": 128
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Non-hormonal and bone-directed therapy",
+     "items": [
+      "**Docetaxel** chemotherapy (also cabazitaxel in castration-resistant disease)",
+      "**PARP inhibitor olaparib** for DNA-repair-deficient tumours (_BRCA2_; Pocket adds BRCA1/ATM)",
+      "**Pembrolizumab** for MSI-high / Lynch-associated tumours; **sipuleucel-T** vaccine (Pocket)",
+      "**Radium-223** for bone-only disease: fewer skeletal events and longer survival",
+      "**Zoledronic acid or denosumab** to reduce skeletal-related events",
+      "**Palliative radiotherapy** (external beam, or systemic strontium-89) for painful deposits, alongside analgesia"
+     ],
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 149,
+       "page": 128
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 150,
+       "page": 129
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 398,
+       "page": 398
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1351,
+       "page": 1329
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1353,
+       "page": 1331
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Docetaxel framing differs. Davidson describes it **after hormone failure**, with a modest gain of about 3 months. Kumar and Pocket stress that **adding it early to ADT in metastatic hormone-sensitive disease** improves overall survival, especially with high-volume disease. Know both, and quote Davidson's ~3 months for the post-hormone setting.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 149,
+       "page": 128
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 398,
+       "page": 398
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "**Adjuvant ADT after radical prostatectomy has not improved survival**, but ADT given **before and during radiotherapy** does.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 149,
+       "page": 128
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 1354,
+       "page": 1332
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Castration resistance and follow-up",
+     "items": [
+      "A small proportion never respond to ADT; most respond for 1–2 years and then progress (Davidson)",
+      "**Castration-resistant** = progression despite castrate androgen levels. **Always continue ADT** while adding further treatment",
+      "After curative treatment: **PSA every 6 months for 5 years**; a rising PSA signals recurrence"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 461,
+       "page": 439
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 398,
+       "page": 398
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 726,
+       "page": 726
+      },
+      {
+       "book": "fa2ck11",
+       "pdfPage": 989,
+       "page": 989
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "onc-prostate.c1",
+   "sectionId": "onc-prostate.s1",
+   "front": "Histological type and usual zone of origin of prostate cancer?",
+   "back": "Adenocarcinoma (~95%), arising in the **peripheral zone** (the outermost part of the gland)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 460,
+     "page": 438
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 723,
+     "page": 723
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.c2",
+   "sectionId": "onc-prostate.s1",
+   "front": "In which prostatic zone does BPE begin?",
+   "back": "The **periurethral (transitional) zone**, so it obstructs the urethra early",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 459,
+     "page": 437
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.c3",
+   "sectionId": "onc-prostate.s1",
+   "front": "Mean age at presentation of prostate cancer (Davidson)?",
+   "back": "**70 years**; rare before 50",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 460,
+     "page": 438
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.c4",
+   "sectionId": "onc-prostate.s1",
+   "front": "How much does germline _BRCA2_ raise prostate cancer risk, and which drug class targets these tumours?",
+   "back": "**5–7 ×** risk; DNA-repair-deficient tumours respond to **PARP inhibitors** (olaparib)",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1492,
+     "page": 1480
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 150,
+     "page": 129
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.c5",
+   "sectionId": "onc-prostate.s1",
+   "front": "Main sites of prostate cancer spread?",
+   "back": "Early to **pelvic lymph nodes**; bone, mainly the **lumbar spine and pelvis**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 460,
+     "page": 438
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.c6",
+   "sectionId": "onc-prostate.s2",
+   "front": "What proportion of prostate cancers are impalpable on DRE (Davidson)?",
+   "back": "**Up to 45%**, so a normal DRE does not exclude cancer",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.c7",
+   "sectionId": "onc-prostate.s2",
+   "front": "DRE findings that suggest prostate cancer?",
+   "back": "Stony-hard, nodular, irregular gland, with **loss of the median sulcus**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 725,
+     "page": 725
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 724,
+     "page": 724
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.c8",
+   "sectionId": "onc-prostate.s3",
+   "front": "PSA false-positive and false-negative rates (Davidson)?",
+   "back": "False positive **50–60%** (raised PSA, no cancer); false negative **25%** (normal PSA, cancer present)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.c9",
+   "sectionId": "onc-prostate.s3",
+   "front": "Does a routine DRE significantly raise PSA?",
+   "back": "**No.** Prostatic massage, biopsy, TURP, retention, prostatitis and ejaculation do",
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 725,
+     "page": 725
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 396,
+     "page": 396
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.c10",
+   "sectionId": "onc-prostate.s3",
+   "front": "Number needed to screen with PSA to cure one man (Davidson)?",
+   "back": "**More than 700**, which is why population screening is of limited value",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.c11",
+   "sectionId": "onc-prostate.s4",
+   "front": "PSA level that almost always means bone metastases, and the level below which they are rare?",
+   "back": "**> 100 ng/mL** almost always; rare if **< 20 ng/mL**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.c12",
+   "sectionId": "onc-prostate.s4",
+   "front": "Grade Group of Gleason 3 + 4 versus 4 + 3?",
+   "back": "3 + 4 = **Grade Group 2**; 4 + 3 = **Grade Group 3** (worse). The first number is the commonest pattern",
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 397,
+     "page": 397
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.c13",
+   "sectionId": "onc-prostate.s4",
+   "front": "Kumar low-risk versus high-risk criteria?",
+   "back": "Low: PSA < 10, T1–T2, Gleason 6. High: PSA > 20, T3–T4, Gleason ≥ 4 + 3",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1494,
+     "page": 1482
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.c14",
+   "sectionId": "onc-prostate.s4",
+   "front": "10-year survival: organ-confined vs metastatic disease (Davidson)?",
+   "back": "**95%** vs **10%**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.c15",
+   "sectionId": "onc-prostate.s5",
+   "front": "Typical X-ray appearance of prostate bone metastases?",
+   "back": "**Osteosclerotic** (osteoblastic); lung, kidney and thyroid deposits are mainly lytic",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 508,
+     "page": 485
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1492,
+     "page": 1480
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.c16",
+   "sectionId": "onc-prostate.s5",
+   "front": "Prostatitis: DRE finding and treatment?",
+   "back": "Enlarged, **tender** gland; a **quinolone for 4–6 weeks**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 459,
+     "page": 437
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.c17",
+   "sectionId": "onc-prostate.s6",
+   "front": "Why must a GnRH agonist be covered when it is started?",
+   "back": "It first **raises LH and testosterone → tumour flare**. Cover with an antiandrogen, or use the antagonist **degarelix**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 149,
+     "page": 128
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.c18",
+   "sectionId": "onc-prostate.s6",
+   "front": "Mechanism of abiraterone?",
+   "back": "Inhibits **CYP17**, blocking androgen synthesis (given with prednisone)",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 149,
+     "page": 128
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 398,
+     "page": 398
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.c19",
+   "sectionId": "onc-prostate.s6",
+   "front": "Best treatment for locally advanced (T3 N0) disease and its benefit?",
+   "back": "**ADT + radiotherapy**: 10-year survival rises from 61% to **71%**",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 149,
+     "page": 128
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.c20",
+   "sectionId": "onc-prostate.s6",
+   "front": "Life expectancy needed before radical prostatectomy or radiotherapy is offered (Davidson)?",
+   "back": "**More than 10 years**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "onc-prostate.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 69-year-old man has a hard nodule felt on the posterior surface of the prostate during rectal examination. Biopsy confirms the commonest histological type of prostate cancer.",
+   "leadIn": "In which part of the gland has this tumour most likely arisen?",
+   "options": [
+    "Peripheral zone",
+    "Transitional (periurethral) zone",
+    "Prostatic urethral urothelium",
+    "Seminal vesicles",
+    "Bladder neck"
+   ],
+   "answer": 0,
+   "explanation": "Prostate adenocarcinoma usually arises in the **peripheral (outermost) zone**. Because it starts at the periphery and only later grows inwards, it can be felt as a hard nodule on DRE while urethral obstruction comes late.",
+   "whyNot": [
+    "",
+    "The transitional/periurethral zone is where **BPE** begins, not most cancers.",
+    "Urothelium gives rise to urothelial carcinoma; prostate cancers are almost all adenocarcinomas of the gland.",
+    "Seminal-vesicle involvement is local **extension** of an established tumour, a poor prognostic sign, not the site of origin.",
+    "The bladder neck is not the site of origin of prostatic adenocarcinoma."
+   ],
+   "studyRef": {
+    "sectionId": "onc-prostate.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 460,
+     "page": 438
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 459,
+     "page": 437
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 723,
+     "page": 723
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 398,
+     "page": 398
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 56-year-old man asks about his cancer risk. His sister developed breast cancer at 38 and his father died of metastatic prostate cancer. Genetic testing shows a pathogenic germline variant in a DNA-repair gene. His oncologist notes that, if he develops prostate cancer, the tumour may respond to a PARP inhibitor.",
+   "leadIn": "Which gene is most likely affected?",
+   "options": [
+    "BRCA2",
+    "APC",
+    "VHL",
+    "RET",
+    "NF1"
+   ],
+   "answer": 0,
+   "explanation": "**BRCA2** carriage raises prostate cancer risk **5–7 fold**, and Kumar links prostate cancer risk to a family history of prostate or breast cancer. Tumours with this DNA-repair defect respond to **PARP inhibitors** such as olaparib (Pocket also lists BRCA1 and ATM).",
+   "whyNot": [
+    "",
+    "APC (familial adenomatous polyposis) is not one of the prostate-cancer genes the sources name, and it does not predict PARP-inhibitor response.",
+    "VHL (renal cancer syndrome) is not one of the prostate-cancer genes the sources name, and it does not predict PARP-inhibitor response.",
+    "RET (MEN 2) is not one of the prostate-cancer genes the sources name, and it does not predict PARP-inhibitor response.",
+    "NF1 (neurofibromatosis) is not one of the prostate-cancer genes the sources name, and it does not predict PARP-inhibitor response."
+   ],
+   "studyRef": {
+    "sectionId": "onc-prostate.s1"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1492,
+     "page": 1480
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 150,
+     "page": 129
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 398,
+     "page": 398
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q3",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Presentations of prostate disease",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Benign prostatic enlargement",
+    "Localized prostate cancer",
+    "Metastatic prostate cancer",
+    "Acute bacterial prostatitis",
+    "Chronic pelvic pain syndrome",
+    "Urothelial bladder cancer",
+    "Multiple myeloma",
+    "Urethral stricture",
+    "Renal colic",
+    "Chronic urinary retention"
+   ],
+   "items": [
+    {
+     "stem": "A 66-year-old man has had nocturia and hesitancy for a year. He feels well. DRE reveals a **stony-hard irregular nodule** in the left lobe, and the median sulcus is difficult to define. PSA is 8 ng/mL. A bone scan is normal.",
+     "answer": 1,
+     "explanation": "A hard irregular nodule with loss of the median sulcus points to cancer, and the normal bone scan with modest PSA suggests no distant spread, so this is **localized prostate cancer**. BPE would feel smooth and rubbery.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s2"
+     }
+    },
+    {
+     "stem": "A 74-year-old man has two months of **low back pain that is worst at night**. He has lost 6 kg and his haemoglobin is 96 g/L. DRE shows a hard, craggy gland.",
+     "answer": 2,
+     "explanation": "Progressive night-time back pain, weight loss and anaemia with a malignant-feeling gland indicate **metastatic prostate cancer** with bony and marrow involvement.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s2"
+     }
+    },
+    {
+     "stem": "A 41-year-old man has had **fever, rigors, dysuria and perineal pain** for 2 days. Ejaculation is painful. The prostate is enlarged and **exquisitely tender** on gentle examination.",
+     "answer": 3,
+     "explanation": "Young age, systemic upset, perineal pain, painful ejaculation and a tender enlarged gland describe **acute bacterial prostatitis**. Cancer and BPE are painless on DRE.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 459,
+     "page": 437
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 460,
+     "page": 438
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1351,
+     "page": 1329
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q4",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Choosing the next investigation in prostate disease",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Serum PSA",
+    "Ultrasound-guided prostate biopsy",
+    "Isotope bone scan",
+    "CT abdomen and pelvis",
+    "Urine culture after prostatic massage",
+    "Flexible cystoscopy",
+    "Serum protein electrophoresis",
+    "Urodynamic pressure-flow studies",
+    "Repeat PSA in 12 months",
+    "Renal ultrasound"
+   ],
+   "items": [
+    {
+     "stem": "A 61-year-old man has a **hard nodule** on DRE. His PSA is 2.6 ng/mL.",
+     "answer": 1,
+     "explanation": "An abnormal DRE warrants **biopsy whatever the PSA**: up to a quarter of men with a \"normal\" PSA have cancer. Repeating the PSA would miss the point.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s3"
+     }
+    },
+    {
+     "stem": "A 70-year-old man has newly diagnosed Gleason 4 + 4 adenocarcinoma. PSA is 48 ng/mL, and he has developed aching in his lumbar spine.",
+     "answer": 2,
+     "explanation": "Distant spread is suspected (PSA well above 20 with new bone pain), so the next step is an **isotope bone scan**, the most sensitive test for bone metastases, where deposits show as hot spots. CT of the abdomen and pelvis looks mainly for nodal spread.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s4"
+     }
+    },
+    {
+     "stem": "A 45-year-old man has had three months of **recurrent perineal discomfort and painful ejaculation**, without fever. The prostate is mildly tender. He wants to know whether this is an infection.",
+     "answer": 4,
+     "explanation": "Two steps: the picture is chronic prostatitis, and the question is bacterial versus non-bacterial (chronic pelvic pain syndrome). Bacterial prostatitis is confirmed by **culture of urine or discharge obtained after prostatic massage**.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 459,
+     "page": 437
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 724,
+     "page": 724
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 508,
+     "page": 485
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1351,
+     "page": 1329
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 988,
+     "page": 988
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 64-year-old man has a transperineal biopsy. The pathologist reports that most of the tumour shows Gleason pattern 4, with a smaller component of pattern 3.",
+   "leadIn": "What is his Grade Group?",
+   "options": [
+    "Grade Group 1",
+    "Grade Group 2",
+    "Grade Group 3",
+    "Grade Group 4",
+    "Grade Group 5"
+   ],
+   "answer": 2,
+   "explanation": "The dominant pattern is written first, so this is **Gleason 4 + 3 = 7**, which is **Grade Group 3**. It behaves worse than 3 + 4 (Grade Group 2) despite the same total.",
+   "whyNot": [
+    "Grade Group 1 is 3 + 3 = 6.",
+    "Grade Group 2 is 3 + 4 = 7, where pattern 3 predominates.",
+    "",
+    "Grade Group 4 is 4 + 4 = 8.",
+    "Grade Group 5 covers scores of 9–10."
+   ],
+   "studyRef": {
+    "sectionId": "onc-prostate.s4"
+   },
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 397,
+     "page": 397
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1493,
+     "page": 1481
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 72-year-old man has metastatic prostate cancer that has progressed despite castrate testosterone levels. His oncologist is estimating his prognosis before discussing further treatment.",
+   "leadIn": "Which blood test is a recognised prognostic factor in this setting?",
+   "options": [
+    "Lactate dehydrogenase",
+    "Serum amylase",
+    "Carcinoembryonic antigen",
+    "Thyroid-stimulating hormone",
+    "Serum ferritin"
+   ],
+   "answer": 0,
+   "explanation": "In metastatic hormone-resistant disease, prognosis depends on **performance status, PSA, haemoglobin, albumin, alkaline phosphatase and LDH**.",
+   "whyNot": [
+    "",
+    "Amylase is not among Kumar's prognostic factors for metastatic hormone-resistant disease.",
+    "CEA is a marker for colorectal and other gastrointestinal cancers, not a listed prostate prognostic factor.",
+    "TSH is not among Kumar's prognostic factors for metastatic hormone-resistant disease.",
+    "Ferritin is not among Kumar's prognostic factors for metastatic hormone-resistant disease."
+   ],
+   "studyRef": {
+    "sectionId": "onc-prostate.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1493,
+     "page": 1481
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1346,
+     "page": 1324
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q7",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Causes of a raised PSA",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Prostate adenocarcinoma",
+    "Benign prostatic enlargement",
+    "Acute bacterial prostatitis",
+    "Recent prostate biopsy",
+    "Acute urinary retention",
+    "Recent ejaculation",
+    "Routine digital rectal examination",
+    "Transurethral resection of the prostate",
+    "Multiple myeloma"
+   ],
+   "items": [
+    {
+     "stem": "A 71-year-old man has had slowly worsening nocturia and a weak stream for 10 years. The prostate is **smooth, symmetrically enlarged and rubbery**. PSA is 5.4 ng/mL, and mpMRI shows a large gland with no suspicious lesion.",
+     "answer": 1,
+     "explanation": "A long history of LUTS with a smooth rubbery gland and no suspicious lesion fits **BPE**, a common benign cause of a mildly raised PSA.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s5"
+     }
+    },
+    {
+     "stem": "A 63-year-old man had a PSA of 1.9 ng/mL a year ago. He is now admitted unable to pass urine for 14 hours, with a **painful, distended bladder**, and is catheterised. A PSA sent on admission is 9.6 ng/mL.",
+     "answer": 4,
+     "explanation": "Two steps: the presentation is acute retention, and retention itself raises PSA. The level should be repeated once the episode has settled before cancer is pursued.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "pocket8",
+     "pdfPage": 396,
+     "page": 396
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 725,
+     "page": 725
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 989,
+     "page": 989
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 460,
+     "page": 438
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 73-year-old man has aching in his pelvis and lower back. Plain X-rays show multiple **dense, sclerotic** lesions in the pelvis and lumbar vertebrae. Alkaline phosphatase is raised.",
+   "leadIn": "Which primary tumour is most likely?",
+   "options": [
+    "Prostate carcinoma",
+    "Renal cell carcinoma",
+    "Thyroid carcinoma",
+    "Bronchial carcinoma",
+    "Multiple myeloma"
+   ],
+   "answer": 0,
+   "explanation": "Osteosclerotic (osteoblastic) metastases are **characteristic of prostate cancer**, and the pelvis and lumbar spine are its favourite bony sites.",
+   "whyNot": [
+    "",
+    "Renal deposits are typically lytic.",
+    "Thyroid deposits are typically lytic.",
+    "Lung deposits are mainly lytic.",
+    "Myeloma causes lytic lesions, not sclerotic ones."
+   ],
+   "studyRef": {
+    "sectionId": "onc-prostate.s5"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 508,
+     "page": 485
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 460,
+     "page": 438
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1351,
+     "page": 1329
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q9",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "theme": "Management of prostate cancer",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Active surveillance",
+    "Radical prostatectomy",
+    "Androgen deprivation plus radiotherapy",
+    "GnRH agonist alone",
+    "Docetaxel plus androgen deprivation",
+    "Olaparib",
+    "Radium-223",
+    "Watchful waiting until symptoms",
+    "Bilateral orchidectomy",
+    "Abiraterone with prednisone added to ADT",
+    "Palliative radiotherapy to bone",
+    "Bicalutamide monotherapy"
+   ],
+   "items": [
+    {
+     "stem": "A fit 60-year-old man has a PSA of 6 ng/mL, an impalpable tumour (T1c) and a small volume of Gleason 3 + 3 on biopsy. He is keen to avoid incontinence and erectile problems if possible.",
+     "answer": 0,
+     "explanation": "Low-volume, low-grade (Gleason ≤ 6) disease suits **active surveillance**: serial PSA, DRE, repeat mpMRI and biopsy, with radical treatment only if it progresses.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s6"
+     }
+    },
+    {
+     "stem": "A 68-year-old man has Gleason 4 + 4 cancer. MRI shows **extension through the capsule into the seminal vesicle**, with no nodal disease, and bone scan and CT are clear.",
+     "answer": 2,
+     "explanation": "This is locally advanced (T3 N0 M0) disease. **ADT combined with radiotherapy** improves 10-year survival over hormones alone (61% → 71%).",
+     "studyRef": {
+      "sectionId": "onc-prostate.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 149,
+     "page": 128
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1493,
+     "page": 1481
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q10",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Drugs used in prostate cancer",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Goserelin",
+    "Degarelix",
+    "Bicalutamide",
+    "Enzalutamide",
+    "Abiraterone",
+    "Docetaxel",
+    "Olaparib",
+    "Radium-223",
+    "Denosumab",
+    "Tamsulosin",
+    "Finasteride",
+    "Pembrolizumab"
+   ],
+   "items": [
+    {
+     "stem": "A 70-year-old man has castration-resistant disease. He starts a tablet that **inhibits CYP17**, cutting androgen synthesis, and must take prednisone with it.",
+     "answer": 4,
+     "explanation": "**Abiraterone** is the androgen-synthesis inhibitor acting on CYP17. It is given with prednisone.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s6"
+     }
+    },
+    {
+     "stem": "A 75-year-old man has new vertebral metastases and borderline leg weakness. His oncologist wants castrate testosterone **without any initial testosterone surge**.",
+     "answer": 1,
+     "explanation": "GnRH agonists cause an initial surge and flare risk, which is dangerous with threatened cord compression. The GnRH **antagonist degarelix** avoids the surge.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s6"
+     }
+    },
+    {
+     "stem": "A 63-year-old man with metastatic castration-resistant disease carries a germline **BRCA2** variant. He starts an oral drug that stops cancer cells repairing DNA strand breaks.",
+     "answer": 6,
+     "explanation": "**Olaparib** is a PARP inhibitor, effective in DNA-repair-deficient (BRCA2-associated) prostate cancer.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s6"
+     }
+    },
+    {
+     "stem": "A 78-year-old man has castration-resistant disease confined to bone, with multiple painful deposits and no visceral metastases. He is offered a bone-targeted treatment that both **reduces skeletal events and improves overall survival**.",
+     "answer": 7,
+     "explanation": "**Radium-223** is used in bone-only disease and, unlike denosumab, is credited with improving overall survival as well as reducing skeletal events (Pocket).",
+     "studyRef": {
+      "sectionId": "onc-prostate.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 149,
+     "page": 128
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 150,
+     "page": 129
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 398,
+     "page": 398
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 66-year-old man has a PSA of 6.8 ng/mL and a normal DRE. He asks how likely it is that he has cancer.",
+   "leadIn": "According to Davidson, roughly what proportion of men in his PSA band have cancer on biopsy?",
+   "options": [
+    "About 10%",
+    "About 25%",
+    "About 40%",
+    "About 60%",
+    "About 95%"
+   ],
+   "answer": 2,
+   "explanation": "Davidson quotes about **40%** of men with a PSA of 4–10 ng/mL having cancer on biopsy. Even below 4 ng/mL, about 25% do.",
+   "whyNot": [
+    "Too low for this band.",
+    "About 25% applies to men with a PSA **below 4** ng/mL.",
+    "",
+    "Higher than the figure quoted for this band.",
+    "95% is the proportion of prostate cancers with a raised PSA, not the chance of cancer at this level."
+   ],
+   "studyRef": {
+    "sectionId": "onc-prostate.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1346,
+     "page": 1324
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 3,
+   "stem": "A 71-year-old man with newly diagnosed metastatic prostate cancer and multiple vertebral deposits is started on monthly goserelin and nothing else. Ten days later his back pain is much worse and he has new bilateral leg weakness.",
+   "leadIn": "What is the most likely explanation?",
+   "options": [
+    "Initial rise in LH and testosterone causing tumour flare",
+    "Development of castration-resistant disease",
+    "Direct neurotoxicity of goserelin",
+    "Hypocalcaemia from suppressed bone turnover",
+    "Radiation myelitis"
+   ],
+   "answer": 0,
+   "explanation": "A GnRH agonist first **stimulates** LH and testosterone release before suppressing it. In metastatic disease this can cause a **tumour flare**, here threatening the spinal cord. The start should have been covered with an antiandrogen, or degarelix used instead.",
+   "whyNot": [
+    "",
+    "Castration resistance appears after months to years of response, not within 10 days of starting.",
+    "Goserelin is not neurotoxic. The deterioration is hormonal flare of tumour.",
+    "Not a recognised effect of starting goserelin, and it would not explain cord compression.",
+    "He has not received radiotherapy."
+   ],
+   "studyRef": {
+    "sectionId": "onc-prostate.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 149,
+     "page": 128
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 55-year-old man asks his GP whether he should have a PSA blood test. The GP counsels him about the test's limitations.",
+   "leadIn": "Which statement is accurate?",
+   "options": [
+    "About a quarter of men with a normal PSA have prostate cancer",
+    "A raised PSA confirms the diagnosis",
+    "A routine rectal examination just before the test markedly raises PSA",
+    "Screening cures one man for every 10 tested",
+    "Most men with a raised PSA have cancer"
+   ],
+   "answer": 0,
+   "explanation": "Davidson's counselling points: **false-negative rate ~25%** (normal PSA, cancer present) and **false-positive rate 50–60%** (raised PSA, no cancer). Over 700 men must be screened to cure one.",
+   "whyNot": [
+    "",
+    "A raised PSA only opens the discussion about biopsy; BPE and prostatitis also raise it.",
+    "A routine DRE does not significantly raise PSA; prostatic massage does.",
+    "The figure is more than 700 screened per cure.",
+    "The false-positive rate is 50–60%, so most men with a raised PSA do **not** have cancer."
+   ],
+   "studyRef": {
+    "sectionId": "onc-prostate.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 725,
+     "page": 725
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "stem": "A 67-year-old man has a PSA of 24 ng/mL. The tumour is palpable but confined to the gland (T2), biopsy shows Gleason 3 + 4, and staging scans show no spread.",
+   "leadIn": "Which category best describes his disease?",
+   "options": [
+    "Low-risk localized disease",
+    "High-risk localized disease",
+    "Locally advanced disease",
+    "Metastatic hormone-sensitive disease",
+    "Castration-resistant disease"
+   ],
+   "answer": 1,
+   "explanation": "He cannot be low risk, because his PSA is above 10. His **PSA > 20** meets Kumar's high-risk threshold, so of these options he is best described as **high-risk**. The disease is still organ-confined (T2, scans clear), so it is neither locally advanced nor metastatic.",
+   "whyNot": [
+    "Low risk needs PSA < 10, T1–T2 and Gleason 6.",
+    "",
+    "Locally advanced means spread through the capsule (T3), and his is T2.",
+    "Scans show no distant spread.",
+    "He has had no hormone treatment."
+   ],
+   "studyRef": {
+    "sectionId": "onc-prostate.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1494,
+     "page": 1482
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 149,
+     "page": 128
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q15",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 76-year-old man has 6 weeks of thoracic and lumbar back pain that wakes him at night. DRE reveals a hard, irregular prostate. PSA is 140 ng/mL.",
+   "leadIn": "What is the most appropriate next investigation?",
+   "options": [
+    "Isotope bone scan",
+    "Repeat PSA in 3 months",
+    "Urodynamic pressure-flow studies",
+    "Flexible cystoscopy",
+    "Serum protein electrophoresis"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: a hard irregular gland and night-time back pain suggest prostate cancer with bone spread. Step 2: Davidson says a **PSA > 100 ng/mL almost always indicates bone metastases**, and a bone scan is warranted when distant spread is suspected. Step 3: an **isotope bone scan** is the sensitive test, showing deposits as hot spots. Biopsy will still be needed for histology, but the bone scan answers the staging question his symptoms raise.",
+   "whyNot": [
+    "",
+    "Waiting is wrong with suspected spinal metastases and a PSA this high.",
+    "Urodynamics assess outflow obstruction, not malignancy or spread.",
+    "Cystoscopy examines the bladder and urethra, not bone.",
+    "Electrophoresis looks for myeloma. Here the craggy gland and very high PSA point to prostate, and myeloma deposits are lytic."
+   ],
+   "studyRef": {
+    "sectionId": "onc-prostate.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1351,
+     "page": 1329
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1492,
+     "page": 1480
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 508,
+     "page": 485
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q16",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 2,
+   "stem": "A 62-year-old man attends for a check-up. He has no urinary symptoms. DRE reveals a **firm, irregular nodule** in the right lobe. PSA is 3.0 ng/mL.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Ultrasound-guided prostate biopsy",
+    "Reassure him because the PSA is normal",
+    "Repeat the PSA in 12 months",
+    "Start tamsulosin",
+    "Start finasteride"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: the DRE is abnormal, and a hard irregular nodule is the classic malignant feel. Step 2: a \"normal\" PSA does not exclude cancer, since about 25% of men with a PSA below 4 have cancer. Step 3: Davidson recommends biopsy for a raised PSA **and/or** an abnormal DRE, and Step-Up says biopsy for an abnormal DRE whatever the PSA. So he needs an **ultrasound-guided biopsy** (often after mpMRI, per Kumar).",
+   "whyNot": [
+    "",
+    "The PSA has a 25% false-negative rate, and an abnormal DRE overrides it.",
+    "Delay would be appropriate only with a normal DRE and PSA.",
+    "An alpha-blocker treats BPE symptoms, and he has none.",
+    "A 5α-reductase inhibitor is a treatment for symptomatic BPE; it does nothing to diagnose a suspicious nodule."
+   ],
+   "studyRef": {
+    "sectionId": "onc-prostate.s3"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 724,
+     "page": 724
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 460,
+     "page": 438
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1492,
+     "page": 1480
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q17",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 70-year-old man with bone-metastatic prostate cancer responded well to goserelin for 2 years. His PSA has now risen on three successive readings, his testosterone remains at castrate levels, and new hip pain has appeared. He is fit.",
+   "leadIn": "What is the most appropriate management?",
+   "options": [
+    "Continue ADT and add docetaxel",
+    "Stop goserelin because it has failed",
+    "Radical prostatectomy",
+    "Return to active surveillance",
+    "Start finasteride"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: progression despite castrate testosterone defines **castration-resistant** disease, the usual course after 1–2 years of ADT response. Step 2: **ADT is always continued**, because the tumour still depends partly on androgens. Step 3: further treatment is added. Davidson describes **docetaxel** at this point, with a modest survival gain of about 3 months. Abiraterone or enzalutamide are other options, and painful deposits can have palliative radiotherapy.",
+   "whyNot": [
+    "",
+    "Stopping ADT lets testosterone recover and fuels the tumour; continue it.",
+    "Surgery has no role once the disease is metastatic.",
+    "Surveillance is only for low-risk localized disease.",
+    "Finasteride is a BPE drug with no role in castration-resistant cancer."
+   ],
+   "studyRef": {
+    "sectionId": "onc-prostate.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 398,
+     "page": 398
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 149,
+     "page": 128
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q18",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Choosing treatment in prostate cancer",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Active surveillance",
+    "Watchful waiting with symptom-directed care",
+    "Robot-assisted radical prostatectomy",
+    "Brachytherapy",
+    "Androgen deprivation combined with radiotherapy",
+    "Goserelin started with bicalutamide cover",
+    "Degarelix",
+    "ADT plus docetaxel",
+    "Continue ADT and add enzalutamide",
+    "Olaparib",
+    "Pembrolizumab",
+    "Radium-223",
+    "Zoledronic acid alone"
+   ],
+   "items": [
+    {
+     "stem": "A fit 57-year-old man has Gleason 4 + 3 cancer, T2, PSA 11 ng/mL, with no spread. He wants curative treatment. He has **ulcerative colitis with frequent flares**.",
+     "answer": 2,
+     "explanation": "Two steps: he needs radical treatment (life expectancy well over 10 years, and Gleason 4 + 3 with PSA > 10 rules out active surveillance), and radiotherapy causes radiation proctitis and GI symptoms, a poor choice with active colitis. **Radical prostatectomy** is the better curative option.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s6"
+     }
+    },
+    {
+     "stem": "An 86-year-old man with severe heart failure has a PSA of 7 ng/mL and Gleason 3 + 3 disease found incidentally. He has no symptoms, and his life expectancy is well under 5 years.",
+     "answer": 1,
+     "explanation": "Older men with low-grade disease and limited life expectancy are managed by **watchful waiting**, with no further work-up or treatment until symptoms appear. Many die with, not of, the cancer.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s6"
+     }
+    },
+    {
+     "stem": "A 69-year-old man has just been found to have a **vertebral deposit compressing the theca**, and his legs are weak. Androgen deprivation must start today with a drug that causes **no initial rise in LH or testosterone** at all.",
+     "answer": 6,
+     "explanation": "A GnRH agonist such as goserelin raises LH and testosterone in the first week; antiandrogen cover blocks the effect of that rise but does not stop it happening. The GnRH **antagonist degarelix**, Kumar's alternative, lowers testosterone with no initial surge.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s6"
+     }
+    },
+    {
+     "stem": "A 66-year-old man has castration-resistant disease. Tumour sequencing shows **microsatellite instability (MSI-high)**, and he has a family history of Lynch syndrome.",
+     "answer": 10,
+     "explanation": "MSI-high / Lynch-associated tumours respond to the checkpoint inhibitor **pembrolizumab**.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s6"
+     }
+    },
+    {
+     "stem": "A 73-year-old man has castration-resistant disease with painful metastases **confined to bone**. CT shows no visceral or nodal disease. He wants a treatment that also prolongs survival.",
+     "answer": 11,
+     "explanation": "**Radium-223** is used in bone-only disease and improves overall survival. Pocket credits zoledronic acid and denosumab only with reducing skeletal-related events.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1493,
+     "page": 1481
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 149,
+     "page": 128
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 397,
+     "page": 397
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 398,
+     "page": 398
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 989,
+     "page": 989
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q19",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Source of bone lesions",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Prostate carcinoma",
+    "Bronchial carcinoma",
+    "Renal cell carcinoma",
+    "Thyroid carcinoma",
+    "Multiple myeloma",
+    "Lymphoma",
+    "Breast carcinoma",
+    "Primary osteosarcoma"
+   ],
+   "items": [
+    {
+     "stem": "A 77-year-old man has pelvic pain. X-rays show **dense sclerotic** deposits in the iliac bones, alkaline phosphatase is raised and PSA is 260 ng/mL.",
+     "answer": 0,
+     "explanation": "Osteosclerotic metastases with a very high PSA are classic for **prostate carcinoma**.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s5"
+     }
+    },
+    {
+     "stem": "A 69-year-old man has rib and back pain, anaemia and a high ESR. X-rays show **punched-out lytic lesions**, but an isotope bone scan is reported as **normal**.",
+     "answer": 4,
+     "explanation": "Two steps: lytic lesions argue against prostate, and a falsely negative bone scan happens when osteoblast activity is suppressed, as in **multiple myeloma**.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s5"
+     }
+    },
+    {
+     "stem": "A 58-year-old woman has a pathological fracture of the femoral shaft. The fracture followed only minor trauma, and no primary tumour has yet been identified.",
+     "answer": 6,
+     "explanation": "**Breast cancer** causes about 53% of pathological fractures. Prostate accounts for only about 3%.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 508,
+     "page": 485
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 1351,
+     "page": 1329
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q20",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 67-year-old man was treated for localized prostate cancer 8 months ago. He now has urgency to open his bowels, tenesmus and intermittent rectal bleeding. He has no urinary incontinence.",
+   "leadIn": "Which treatment did he most likely receive?",
+   "options": [
+    "External-beam radiotherapy",
+    "Robot-assisted radical prostatectomy",
+    "Active surveillance",
+    "Goserelin monotherapy",
+    "Bicalutamide monotherapy"
+   ],
+   "answer": 0,
+   "explanation": "Radiotherapy to the prostate irradiates the adjacent rectum, causing **radiation proctitis** and GI symptoms (as well as erectile dysfunction). Prostatectomy is associated with incontinence and erectile dysfunction.",
+   "whyNot": [
+    "",
+    "Prostatectomy typically causes incontinence and erectile dysfunction, not proctitis.",
+    "Surveillance involves no treatment, so no treatment toxicity.",
+    "ADT causes hormonal effects, not proctitis.",
+    "Antiandrogens do not damage the rectum."
+   ],
+   "studyRef": {
+    "sectionId": "onc-prostate.s6"
+   },
+   "cites": [
+    {
+     "book": "fa2ck11",
+     "pdfPage": 988,
+     "page": 988
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 726,
+     "page": 726
+    },
+    {
+     "book": "fa2ck11",
+     "pdfPage": 989,
+     "page": 989
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 397,
+     "page": 397
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q21",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 1,
+   "stem": "A 63-year-old man has prostate cancer confined to the gland, with no evidence of metastasis.",
+   "leadIn": "According to Davidson, what is his approximate 10-year survival, provided he does not die of another cause?",
+   "options": [
+    "95%",
+    "75%",
+    "50%",
+    "25%",
+    "10%"
+   ],
+   "answer": 0,
+   "explanation": "Davidson quotes **95% 10-year survival** for tumour confined to the prostate, falling to **10%** with metastases.",
+   "whyNot": [
+    "",
+    "Lower than the figure for organ-confined disease.",
+    "Lower than the figure for organ-confined disease.",
+    "Lower than the figure for organ-confined disease.",
+    "10% is the figure for metastatic disease."
+   ],
+   "studyRef": {
+    "sectionId": "onc-prostate.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q22",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Acting on PSA and DRE results",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Reassure and repeat PSA in 12 months",
+    "Ultrasound-guided prostate biopsy",
+    "Isotope bone scan",
+    "Treat infection, then repeat PSA",
+    "Pelvic MRI for local staging",
+    "Active surveillance",
+    "Start androgen deprivation",
+    "Urethral catheterisation",
+    "CT of the chest"
+   ],
+   "items": [
+    {
+     "stem": "A 57-year-old man with no symptoms has a PSA of 1.8 ng/mL and a normal-feeling prostate.",
+     "answer": 0,
+     "explanation": "A PSA below 4 with a normal DRE needs only **annual follow-up** in the Step-Up algorithm.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s3"
+     }
+    },
+    {
+     "stem": "A 60-year-old man has a PSA of 12 ng/mL. His prostate feels smooth and normal.",
+     "answer": 1,
+     "explanation": "A PSA over 10 carries a cancer risk of about 50% or more, so **biopsy** is indicated whatever the DRE shows.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s3"
+     }
+    },
+    {
+     "stem": "A 65-year-old man has just had biopsy-proven Gleason 3 + 4 cancer. PSA is 9 ng/mL and he has no bone pain.",
+     "answer": 4,
+     "explanation": "Two steps: the next task is staging, and with a PSA under 20 and no bone symptoms, distant spread is unlikely. **Pelvic MRI** to define local extent comes first.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 724,
+     "page": 724
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 726,
+     "page": 726
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 442,
+     "page": 405
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q23",
+   "kind": "sba",
+   "pool": "exam",
+   "difficulty": 2,
+   "stem": "A 68-year-old man has just been diagnosed with prostate adenocarcinoma.",
+   "leadIn": "Which site does this tumour typically spread to early?",
+   "options": [
+    "Pelvic lymph nodes",
+    "Liver",
+    "Brain",
+    "Adrenal glands",
+    "Skin"
+   ],
+   "answer": 0,
+   "explanation": "Davidson notes that spread to **pelvic lymph nodes occurs early**. Bone (lumbar spine, pelvis) is the commonest distant site.",
+   "whyNot": [
+    "",
+    "Liver involvement is not the typical early pattern.",
+    "Brain metastases are not the typical early pattern.",
+    "Adrenal deposits are not the typical early pattern.",
+    "Skin deposits are not a feature of early spread."
+   ],
+   "studyRef": {
+    "sectionId": "onc-prostate.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 460,
+     "page": 438
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q24",
+   "kind": "emq",
+   "pool": "mock",
+   "difficulty": 2,
+   "theme": "Extent and stage of prostate cancer",
+   "leadIn": "For each patient below, choose the single most appropriate option from the list. Any option can be the answer for several patients, or for none.",
+   "options": [
+    "Low-risk localized disease",
+    "High-risk localized disease",
+    "Locally advanced disease",
+    "Metastatic hormone-sensitive disease",
+    "Metastatic castration-resistant disease",
+    "Biochemical recurrence after radical treatment",
+    "Benign prostatic enlargement",
+    "Chronic bacterial prostatitis"
+   ],
+   "items": [
+    {
+     "stem": "A 66-year-old man has Gleason 4 + 3 cancer. MRI shows the tumour breaching the capsule and invading the seminal vesicle. CT and bone scan show no other disease.",
+     "answer": 2,
+     "explanation": "Extension beyond the capsule without distant spread (T3 N0 M0) is **locally advanced** disease, best treated with ADT plus radiotherapy.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s4"
+     }
+    },
+    {
+     "stem": "A 72-year-old man with bone metastases has taken leuprorelin for 18 months. His PSA has risen on three readings, while his serum testosterone remains at castrate level.",
+     "answer": 4,
+     "explanation": "Progression despite castrate androgen levels defines **castration-resistant** disease. ADT is continued and further agents are added.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s4"
+     }
+    },
+    {
+     "stem": "A 59-year-old man had a raised PSA on a check-up (5 ng/mL). The prostate feels normal (T1c), biopsy shows small-volume Gleason 3 + 3 and staging shows no spread.",
+     "answer": 0,
+     "explanation": "PSA under 10, T1–T2 and Gleason 6 meet all the **low-risk** criteria, which makes him suitable for active surveillance.",
+     "studyRef": {
+      "sectionId": "onc-prostate.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 1494,
+     "page": 1482
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 149,
+     "page": 128
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 398,
+     "page": 398
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 726,
+     "page": 726
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 1493,
+     "page": 1481
+    }
+   ]
+  },
+  {
+   "id": "onc-prostate.q25",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "A 69-year-old man with metastatic prostate cancer receives depot goserelin every month. After the first few weeks his testosterone falls to castrate levels and stays there.",
+   "leadIn": "What is the mechanism of this sustained effect?",
+   "options": [
+    "Continuous occupation of pituitary GnRH receptors abolishes pulsatile LH release",
+    "Direct blockade of the androgen receptor on tumour cells",
+    "Inhibition of the CYP17 enzyme",
+    "Inhibition of 5α-reductase",
+    "Destruction of testicular Leydig cells"
+   ],
+   "answer": 0,
+   "explanation": "GnRH analogues **continuously occupy pituitary receptors**, so the pituitary stops responding to natural GnRH pulses. LH and FSH fall, and testosterone with them, after an initial rise.",
+   "whyNot": [
+    "",
+    "That is how bicalutamide and enzalutamide work.",
+    "That is abiraterone.",
+    "That is finasteride, used for BPE.",
+    "Goserelin does not destroy testicular tissue; orchidectomy removes it surgically."
+   ],
+   "studyRef": {
+    "sectionId": "onc-prostate.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 461,
+     "page": 439
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 149,
+     "page": 128
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 460,
+     "page": 438
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "onc-prostate.o1",
+   "sectionId": "onc-prostate.s4",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 1493,
+    "page": 1481,
+    "figure": "Fig. 40.5"
+   },
+   "identify": "Gleason pattern scale: identify the pattern from gland architecture. Pattern 1 has small uniform glands; pattern 3 shows infiltration at the margins; pattern 4 has irregular masses with few glands; pattern 5 has sheets of cells with no glands. Score = commonest + next commonest pattern."
+  },
+  {
+   "id": "onc-prostate.o2",
+   "sectionId": "onc-prostate.s1",
+   "cite": {
+    "book": "fa2ck11",
+    "pdfPage": 988,
+    "page": 988,
+    "figure": "FIGURE 2.15-17"
+   },
+   "identify": "Structure of the prostate, shown beside First Aid's DRE findings: cancer may be felt as a **palpable nodule or area of induration**, but early carcinoma is usually not detectable on examination."
+  },
+  {
+   "id": "onc-prostate.o3",
+   "sectionId": "onc-prostate.s3",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 1493,
+    "page": 1481,
+    "figure": "Fig. 40.4"
+   },
+   "identify": "Transrectal ultrasound-guided prostate biopsy: rectal probe with needle guide. Preparation is prophylactic antibiotics, then ultrasound-guided periprostatic local anaesthetic before the core biopsies are taken."
+  },
+  {
+   "id": "onc-prostate.o4",
+   "sectionId": "onc-prostate.s6",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 1494,
+    "page": 1482,
+    "figure": "Fig. 40.6"
+   },
+   "identify": "Management algorithm: localized → radical treatment or active surveillance; locally advanced → ADT + radiotherapy; metastatic → ADT and palliative care."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:30:59.781Z",
+  "contentHash": "0375cdc9a2376cab09234b2da8f1befd3ce81734355c36ee314ffef87c27df55"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:30:59.794Z",
+  "contentHash": "0375cdc9a2376cab09234b2da8f1befd3ce81734355c36ee314ffef87c27df55",
+  "checkerVersion": "source-check-v1"
+ }
+}

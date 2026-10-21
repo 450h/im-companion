@@ -1,0 +1,2548 @@
+{
+ "topicId": "heme-g6pd",
+ "contentVersion": "2026.10.22.1",
+ "sections": [
+  {
+   "id": "heme-g6pd.s1",
+   "title": "Definition and epidemiology",
+   "objectiveIdx": [
+    0
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "G6PD deficiency is an **inherited red cell enzymopathy**. Glucose-6-phosphate dehydrogenase is the key enzyme of the **hexose monophosphate (HMP) shunt**, and lacking it leaves red cells open to oxidant damage and **episodic haemolysis**. It is the **most common human enzymopathy**, affecting roughly **10% of the world population**, and the commonest red cell enzyme defect that causes haemolytic anaemia.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 970,
+       "page": 948
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 254,
+       "page": 217
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 830,
+       "page": 830
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Where it fits in the haemolysis classification",
+     "items": [
+      "**Inherited** haemolytic anaemias split into membrane defects (spherocytosis, elliptocytosis), haemoglobin defects (thalassaemia, sickle cell) and **enzyme defects**",
+      "Enzyme defects of the **HMP shunt**: G6PD deficiency",
+      "Enzyme defects of **glycolysis**: pyruvate kinase deficiency (the second commonest red cell enzyme defect)",
+      "Acquired causes (immune, mechanical, infective, oxidant drugs) form the other main branch"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 968,
+       "page": 946,
+       "figure": "Fig. 23.19"
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 184,
+       "page": 184
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Who gets it",
+     "items": [
+      "Common in **Africa, the Mediterranean, the Middle East and South-east Asia**",
+      "Mostly **males** (X-linked recessive)",
+      "Its spread **mirrors the malaria belt**: heterozygotes are protected against malarial parasitisation, so the gene stays common"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 970,
+       "page": 948
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 373,
+       "page": 349
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 255,
+       "page": 218
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 330,
+       "page": 330
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 185,
+       "page": 185
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Exam link: a **male of African, Mediterranean or Middle Eastern origin** with sudden haemolysis after a drug, an infection or broad beans is G6PD deficiency until proved otherwise.",
+     "cites": [
+      {
+       "book": "pocket8",
+       "pdfPage": 330,
+       "page": 330
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 185,
+       "page": 185
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.s2",
+   "title": "Pathogenesis and inheritance",
+   "objectiveIdx": [
+    1
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Red cells make **ATP by glycolysis**, while the **HMP shunt makes NADPH**. G6PD oxidises glucose-6-phosphate and reduces NADP to **NADPH**, which keeps **glutathione reduced**. Reduced glutathione protects the cell from oxidants. In red cells this reaction is the **only source of NADPH**, so a deficient cell cannot defend itself against oxidant stress.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 970,
+       "page": 948
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 373,
+       "page": 349
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 255,
+       "page": 218
+      }
+     ]
+    },
+    {
+     "type": "diagram",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Oxidative haemolysis pathway in G6PD deficiency\">\n<rect x=\"10\" y=\"20\" width=\"170\" height=\"50\" rx=\"8\" fill=\"#e8f0fe\" stroke=\"#3b5bdb\"/>\n<text x=\"95\" y=\"42\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\">Glucose-6-phosphate</text>\n<text x=\"95\" y=\"60\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">(HMP shunt)</text>\n<line x1=\"180\" y1=\"45\" x2=\"240\" y2=\"45\" stroke=\"#333\" stroke-width=\"2\"/>\n<polygon points=\"240,40 250,45 240,50\" fill=\"#333\"/>\n<text x=\"215\" y=\"35\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" font-family=\"sans-serif\">G6PD</text>\n<rect x=\"250\" y=\"20\" width=\"150\" height=\"50\" rx=\"8\" fill=\"#e8f0fe\" stroke=\"#3b5bdb\"/>\n<text x=\"325\" y=\"42\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\">NADP to NADPH</text>\n<text x=\"325\" y=\"60\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">(only red cell source)</text>\n<line x1=\"400\" y1=\"45\" x2=\"450\" y2=\"45\" stroke=\"#333\" stroke-width=\"2\"/>\n<polygon points=\"450,40 460,45 450,50\" fill=\"#333\"/>\n<rect x=\"460\" y=\"20\" width=\"170\" height=\"50\" rx=\"8\" fill=\"#e8f0fe\" stroke=\"#3b5bdb\"/>\n<text x=\"545\" y=\"42\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\">Reduced glutathione</text>\n<text x=\"545\" y=\"60\" text-anchor=\"middle\" font-size=\"11\" font-family=\"sans-serif\">neutralises oxidants</text>\n<rect x=\"10\" y=\"120\" width=\"230\" height=\"50\" rx=\"8\" fill=\"#fff4e6\" stroke=\"#e8590c\"/>\n<text x=\"125\" y=\"142\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\">Oxidant stress: drugs,</text>\n<text x=\"125\" y=\"160\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\">fava beans, infection, DKA</text>\n<line x1=\"240\" y1=\"145\" x2=\"290\" y2=\"145\" stroke=\"#333\" stroke-width=\"2\"/>\n<polygon points=\"290,140 300,145 290,150\" fill=\"#333\"/>\n<rect x=\"300\" y=\"120\" width=\"330\" height=\"50\" rx=\"8\" fill=\"#fff4e6\" stroke=\"#e8590c\"/>\n<text x=\"465\" y=\"142\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\">Low G6PD: haemoglobin denatures</text>\n<text x=\"465\" y=\"160\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\">into Heinz bodies</text>\n<line x1=\"380\" y1=\"170\" x2=\"250\" y2=\"220\" stroke=\"#333\" stroke-width=\"2\"/>\n<polygon points=\"252,214 242,223 256,224\" fill=\"#333\"/>\n<line x1=\"550\" y1=\"170\" x2=\"550\" y2=\"220\" stroke=\"#333\" stroke-width=\"2\"/>\n<polygon points=\"545,220 550,230 555,220\" fill=\"#333\"/>\n<rect x=\"60\" y=\"230\" width=\"280\" height=\"55\" rx=\"8\" fill=\"#fde8e8\" stroke=\"#c92a2a\"/>\n<text x=\"200\" y=\"252\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\">Spleen removes Heinz bodies:</text>\n<text x=\"200\" y=\"271\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\">bite cells</text>\n<rect x=\"400\" y=\"230\" width=\"230\" height=\"55\" rx=\"8\" fill=\"#fde8e8\" stroke=\"#c92a2a\"/>\n<text x=\"515\" y=\"252\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\">Intravascular haemolysis:</text>\n<text x=\"515\" y=\"271\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\">anaemia, jaundice, dark urine</text>\n</svg>",
+     "alt": "Flow: G6PD makes NADPH to keep glutathione reduced. With oxidant stress and low G6PD, Hb denatures into Heinz bodies; the spleen removes them (bite cells) and cells lyse intravascularly (anaemia, jaundice, dark urine).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 970,
+       "page": 948
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 373,
+       "page": 349
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 832,
+       "page": 832
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 833,
+       "page": 833
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 330,
+       "page": 330
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "From oxidant to haemolysis",
+     "items": [
+      "Oxidant exposure leads to H2O2 accumulation, then **haemoglobin denatures** and precipitates as **Heinz bodies**",
+      "Heinz bodies attach to the membrane, making cells **stiff** and liable to splenic sequestration",
+      "Splenic macrophages pluck Heinz bodies out, leaving **bite cells**",
+      "Lysis is **mainly intravascular**: free Hb saturates haptoglobin, forms methaemalbumin, and spills as **haemoglobinuria**, later **haemosiderinuria**",
+      "Shunt (G6PD) defects cause **episodic** haemolysis with oxidant stress; glycolytic defects (PK) cause **chronic** haemolysis"
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 832,
+       "page": 832
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 833,
+       "page": 833
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 969,
+       "page": 947
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 970,
+       "page": 948
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Inheritance",
+     "columns": [
+      "Who",
+      "Usual consequence"
+     ],
+     "rows": [
+      [
+       "Hemizygous male",
+       "Affected (gene on the **X chromosome**, Xq, near the factor VIII gene)"
+      ],
+      [
+       "Homozygous female",
+       "Affected (rare)"
+      ],
+      [
+       "Heterozygous female",
+       "Carrier. Lyonization gives **two red cell populations** (normal and deficient). Usually affected only in the **neonatal period** or with **skewed X-inactivation**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 970,
+       "page": 948
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 374,
+       "page": 350
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Davidson stresses that carrier females are **usually** spared (neonatal period or skewed X-inactivation aside). Kumar adds that, because of lyonization, heterozygotes **can** have clinical problems. In the exam, choose \"female carrier with skewed X-inactivation\" for a woman with significant haemolysis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 374,
+       "page": 350
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.s3",
+   "title": "Types (variants)",
+   "objectiveIdx": [
+    2
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "More than **400 subtypes** of G6PD exist, mostly from **missense** (single amino acid) mutations. WHO groups variants by **how low the enzyme activity is** and **how severe the haemolysis is**. The normal-activity type found in almost all Caucasians and about 70% of people of African descent is **type B+**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 374,
+       "page": 350
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "The two common deficient variants",
+     "columns": [
+      "Feature",
+      "African (A−) type",
+      "Mediterranean type"
+     ],
+     "rows": [
+      [
+       "Who",
+       "People of African ancestry (about 10% of Afro-Caribbeans)",
+       "Mediterranean (Caucasian) populations; East Asian forms also severe"
+      ],
+      [
+       "Enzyme level",
+       "Mild deficiency (about 15% of normal in East and West Africans)",
+       "Severe deficiency (can be as low as 1%)"
+      ],
+      [
+       "Which cells are deficient",
+       "**Older** cells only; young cells have near-normal activity",
+       "**Young and old** cells both very low"
+      ],
+      [
+       "Course of an attack",
+       "Usually mild and **self-limiting** as new reticulocytes resist lysis",
+       "Hb can **fall precipitously**; may be **fatal** without urgent transfusion"
+      ],
+      [
+       "Classic trigger",
+       "Infection, primaquine, sulphonamides",
+       "**Fava beans**, oxidant drugs"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 374,
+       "page": 350
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 831,
+       "page": 831
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Prevalence is high in East and West Africa: up to **one man in five** is affected there, along with about **4% of women** (the homozygotes).",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Variant labels are muddled in print: Davidson's text uses \"A+\" for both a normal and a deficient African variant and calls the Mediterranean form \"B+\", whereas Kumar and Step-Up name the deficient forms **A− (African)** and **Mediterranean**. Learn the behaviour: **A− = mild, self-limiting; Mediterranean = severe, transfusion-dependent**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 374,
+       "page": 350
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 831,
+       "page": 831
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.s4",
+   "title": "Clinical features and precipitants",
+   "objectiveIdx": [
+    3
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Clinical presentations",
+     "items": [
+      "**Acute drug-induced haemolysis** (usually dose-related)",
+      "Haemolysis with **infection or acute illness** (including DKA)",
+      "**Neonatal jaundice**",
+      "**Chronic** compensated haemolytic anaemia",
+      "**Favism** (broad bean ingestion)"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 374,
+       "page": 350
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 255,
+       "page": 218
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 330,
+       "page": 330
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "An attack is a **rapid intravascular haemolysis**: symptoms of **anaemia**, **jaundice** and **dark urine** (haemoglobinuria), starting after the trigger. Longer-term pointers include **gallstones** and **splenomegaly**. Between attacks the blood count is normal.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 374,
+       "page": 350
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 832,
+       "page": 832
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 185,
+       "page": 185
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Recognised precipitants",
+     "columns": [
+      "Group",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Antimalarials",
+       "**Primaquine**, quinine, chloroquine, pyrimethamine, pamaquin"
+      ],
+      [
+       "Antibacterials",
+       "**Sulphonamides** (incl. co-trimoxazole, sulfasalazine), **nitrofurantoin**, quinolones (**ciprofloxacin**), chloramphenicol"
+      ],
+      [
+       "Analgesics",
+       "Aspirin, phenacetin"
+      ],
+      [
+       "Others",
+       "**Dapsone**, vitamin K, probenecid, quinidine, **methylene blue**, rasburicase, doxorubicin, dimercaprol"
+      ],
+      [
+       "Non-drug",
+       "**Fava beans**, **naphthalene mothballs**, **infection**, **DKA**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 374,
+       "page": 350
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 330,
+       "page": 330
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 185,
+       "page": 185
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 831,
+       "page": 831
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "G6PD deficiency is a **pharmacodynamic** pharmacogenetic variant: oxidant drugs, including the antimalarials chloroquine and primaquine, raise the risk of haemolysis.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 42,
+       "page": 20
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Primaquine** (radical cure of _P. vivax_/_P. ovale_), **dapsone** and **sulphonamides** are the drug triggers most often examined. Dapsone also causes methaemoglobinaemia.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 150,
+       "page": 128
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 145,
+       "page": 123
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 831,
+       "page": 831
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.s5",
+   "title": "Favism",
+   "objectiveIdx": [
+    4
+   ],
+   "blocks": [
+    {
+     "type": "para",
+     "text": "**Favism** is acute haemolysis after eating **broad (fava) beans, _Vicia fava_**. It is the **classically described precipitant** of haemolysis in G6PD deficiency and one of its recognised clinical syndromes.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 374,
+       "page": 350
+      },
+      {
+       "book": "zerotofinals",
+       "pdfPage": 185,
+       "page": 185
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Key points",
+     "items": [
+      "Most severe in the **Mediterranean variant**, where both young and old red cells lack enzyme",
+      "May need **transfusion** until the trigger has cleared",
+      "Listed with drugs, infection and DKA as a precipitant",
+      "Prevention: avoid fava beans, as well as known oxidant drugs"
+     ],
+     "cites": [
+      {
+       "book": "stepup6",
+       "pdfPage": 831,
+       "page": 831
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 330,
+       "page": 330
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Classic stem: a **young man of Mediterranean origin** becomes **pale, jaundiced, with dark urine** a day or two after a meal of broad beans, with a negative Coombs test and bite cells on the film.",
+     "cites": [
+      {
+       "book": "zerotofinals",
+       "pdfPage": 185,
+       "page": 185
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 831,
+       "page": 831
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.s6",
+   "title": "Investigations",
+   "objectiveIdx": [
+    5
+   ],
+   "blocks": [
+    {
+     "type": "table",
+     "title": "Laboratory evidence of haemolysis",
+     "columns": [
+      "Any haemolysis",
+      "Extra features if intravascular"
+     ],
+     "rows": [
+      [
+       "Low Hb",
+       "Low haptoglobin"
+      ],
+      [
+       "Raised unconjugated bilirubin",
+       "Raised methaemalbumin"
+      ],
+      [
+       "Raised LDH",
+       "Haemoglobinuria"
+      ],
+      [
+       "Reticulocytosis (polychromasia)",
+       "Urinary haemosiderin (always means intravascular)"
+      ],
+      [
+       "Raised urinary urobilinogen",
+       ""
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 968,
+       "page": 946
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 969,
+       "page": 947
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 330,
+       "page": 330
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Blood film during an attack",
+     "items": [
+      "**Non-spherocytic** intravascular haemolysis",
+      "**Bite cells**: normal-sized cells that look partly eaten (suggest oxidative haemolysis)",
+      "**Blister cells**: Hb pulled away from part of the membrane",
+      "Irregular, small, contracted cells; **polychromasia**",
+      "**Heinz bodies** (denatured Hb), seen with a **supravital stain such as methyl violet**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 968,
+       "page": 946
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 374,
+       "page": 350
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 833,
+       "page": 833
+      }
+     ]
+    },
+    {
+     "type": "bullets",
+     "title": "Confirming the enzyme defect",
+     "items": [
+      "**Screening tests** detect reduced ability to reduce dyes",
+      "**Direct (quantitative) G6PD assay** in those with low screening results; a low level is diagnostic",
+      "**Direct Coombs (DAT) test negative**: it is a non-immune haemolysis. A positive DAT points instead to autoimmune haemolysis, haemolytic disease of the newborn or a transfusion reaction",
+      "Algorithm: haemolysis markers present, DAT negative, then bite cells, blister cells or Heinz bodies point to an **enzyme defect** (G6PD or PK)"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 833,
+       "page": 833
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 970,
+       "page": 948,
+       "figure": "Fig. 23.20"
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 248,
+       "page": 211,
+       "figure": "Fig. 5.2"
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**False-normal G6PD level** soon after an attack: the oldest, most deficient cells have already lysed and **reticulocytes carry more enzyme**. If suspicion remains, **repeat the assay about 3 months later**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 374,
+       "page": 350
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 833,
+       "page": 833
+      },
+      {
+       "book": "pocket8",
+       "pdfPage": 330,
+       "page": 330
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "**Heterozygous females** are hard to diagnose because lyonization gives levels from very low to normal. Borderline activity carries only a minimal risk of significant haemolysis.",
+     "cites": [
+      {
+       "book": "kumar10",
+       "pdfPage": 374,
+       "page": 350
+      }
+     ]
+    },
+    {
+     "type": "pitfall",
+     "text": "Step-Up lists G6PD deficiency among causes of spherocytosis, but Davidson describes the attack as **non-spherocytic** haemolysis. Follow Davidson: **bite and blister cells**, not spherocytes, are the film clue for G6PD.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 828,
+       "page": 828
+      }
+     ]
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 374,
+      "page": 350,
+      "figure": "Fig. 16.25"
+     },
+     "note": "Look at: blister cells (arrowed), where Hb has separated from part of the membrane, in G6PD deficiency."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "stepup6",
+      "pdfPage": 832,
+      "page": 832,
+      "figure": "FIGURE 9-9"
+     },
+     "note": "Look at: bite cells, red cells with a semicircular piece missing after splenic removal of Heinz bodies."
+    },
+    {
+     "type": "figureRef",
+     "cite": {
+      "book": "kumar10",
+      "pdfPage": 363,
+      "page": 339,
+      "figure": "Fig. 16.14"
+     },
+     "note": "Haemolysis algorithm: the film branch (bite cells, blister cells, Heinz bodies) leads to enzyme defects such as G6PD."
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.s7",
+   "title": "Management",
+   "objectiveIdx": [
+    6
+   ],
+   "blocks": [
+    {
+     "type": "bullets",
+     "title": "Acute haemolytic episode",
+     "items": [
+      "**Stop** the precipitating drug or food",
+      "**Treat any underlying infection**",
+      "Maintain **hydration**",
+      "**Red cell transfusion** when needed; it can be **life-saving** (especially the Mediterranean variant)",
+      "**Splenectomy is not usually helpful**"
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 971,
+       "page": 949
+      },
+      {
+       "book": "kumar10",
+       "pdfPage": 374,
+       "page": 350
+      },
+      {
+       "book": "stepup6",
+       "pdfPage": 833,
+       "page": 833
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 255,
+       "page": 218
+      }
+     ]
+    },
+    {
+     "type": "para",
+     "text": "Long-term care rests on **avoiding precipitants**: oxidant drugs, fava beans and mothballs. The classic prescribing scenario is malaria. **Primaquine** clears the liver hypnozoites of _P. vivax_ and _P. ovale_ but can cause haemolysis in G6PD deficiency, so **G6PD status must be checked before starting it**.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 150,
+       "page": 128
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 65,
+       "page": 28
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 66,
+       "page": 29
+      },
+      {
+       "book": "davidson24",
+       "pdfPage": 299,
+       "page": 277
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Primaquine after chloroquine (non-falciparum malaria)",
+     "columns": [
+      "Situation",
+      "Primaquine regimen"
+     ],
+     "rows": [
+      [
+       "P. vivax, G6PD normal",
+       "30 mg daily for 14 days"
+      ],
+      [
+       "P. ovale, G6PD normal",
+       "15 mg daily for 14 days"
+      ],
+      [
+       "Mild to moderate G6PD deficiency",
+       "**0.75 mg/kg once weekly for 8 weeks**"
+      ]
+     ],
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 299,
+       "page": 277
+      },
+      {
+       "book": "kcEssentials",
+       "pdfPage": 66,
+       "page": 29
+      }
+     ]
+    },
+    {
+     "type": "pearl",
+     "text": "Primaquine more often causes **cyanosis from methaemoglobin** than haemolysis. This is common but not dangerous.",
+     "cites": [
+      {
+       "book": "davidson24",
+       "pdfPage": 299,
+       "page": 277
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "heme-g6pd.c1",
+   "sectionId": "heme-g6pd.s1",
+   "front": "Which metabolic pathway does G6PD belong to?",
+   "back": "The **hexose monophosphate (pentose phosphate) shunt**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.c2",
+   "sectionId": "heme-g6pd.s1",
+   "front": "Why does the distribution of G6PD deficiency follow the malaria belt?",
+   "back": "Heterozygotes are **protected against malarial parasitisation**",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.c3",
+   "sectionId": "heme-g6pd.s1",
+   "front": "Roughly what share of the world population has G6PD deficiency?",
+   "back": "About **10%**. It is the commonest human enzymopathy",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.c4",
+   "sectionId": "heme-g6pd.s2",
+   "front": "Why are red cells uniquely vulnerable when G6PD is lacking?",
+   "back": "G6PD is their **only source of NADPH**, which keeps glutathione reduced against oxidants",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 373,
+     "page": 349
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.c5",
+   "sectionId": "heme-g6pd.s2",
+   "front": "Mode of inheritance of G6PD deficiency?",
+   "back": "**X-linked** (recessive). Males and rare homozygous females are affected; females are carriers",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 830,
+     "page": 830
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.c6",
+   "sectionId": "heme-g6pd.s2",
+   "front": "How do bite cells form?",
+   "back": "Splenic macrophages **remove Heinz bodies** (denatured Hb) from red cells",
+   "cites": [
+    {
+     "book": "stepup6",
+     "pdfPage": 833,
+     "page": 833
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.c7",
+   "sectionId": "heme-g6pd.s3",
+   "front": "Why is haemolysis self-limiting in the African A− variant?",
+   "back": "Only **older** cells are deficient; young cells from the marrow have near-normal enzyme activity",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 374,
+     "page": 350
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 831,
+     "page": 831
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.c8",
+   "sectionId": "heme-g6pd.s3",
+   "front": "Which G6PD variant can cause a precipitous, potentially fatal Hb fall?",
+   "back": "The **Mediterranean** variant: young and old cells both have very low activity",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 374,
+     "page": 350
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.c9",
+   "sectionId": "heme-g6pd.s4",
+   "front": "Name four antimicrobials that precipitate haemolysis in G6PD deficiency",
+   "back": "Primaquine, sulphonamides, nitrofurantoin, ciprofloxacin (also dapsone, quinine, chloroquine)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.c10",
+   "sectionId": "heme-g6pd.s4",
+   "front": "Which household product can trigger haemolysis in G6PD deficiency?",
+   "back": "**Naphthalene mothballs**",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 374,
+     "page": 350
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.c11",
+   "sectionId": "heme-g6pd.s5",
+   "front": "What is favism?",
+   "back": "Acute haemolysis after eating **broad (fava) beans, _Vicia fava_**, in G6PD deficiency",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.c12",
+   "sectionId": "heme-g6pd.s6",
+   "front": "Name the blood film findings during a G6PD haemolytic attack",
+   "back": "**Bite cells**, **blister cells**, small irregular cells, polychromasia, and **Heinz bodies** on supravital stain (methyl violet)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.c13",
+   "sectionId": "heme-g6pd.s6",
+   "front": "Why can the G6PD level be falsely normal just after an attack?",
+   "back": "Deficient old cells have lysed and **reticulocytes have higher enzyme levels**; repeat at about 3 months",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 833,
+     "page": 833
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.c14",
+   "sectionId": "heme-g6pd.s6",
+   "front": "Expected direct Coombs test result in G6PD haemolysis?",
+   "back": "**Negative**: it is a non-immune haemolysis",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 248,
+     "page": 211
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.c15",
+   "sectionId": "heme-g6pd.s7",
+   "front": "Three steps in managing an acute G6PD haemolytic episode?",
+   "back": "Stop the precipitant, treat infection, **transfuse** if needed (can be life-saving)",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 374,
+     "page": 350
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.c16",
+   "sectionId": "heme-g6pd.s7",
+   "front": "Primaquine regimen in mild to moderate G6PD deficiency?",
+   "back": "**0.75 mg/kg once weekly for 8 weeks**, with chloroquine",
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 299,
+     "page": 277
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 66,
+     "page": 29
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.c17",
+   "sectionId": "heme-g6pd.s7",
+   "front": "Is splenectomy useful in G6PD deficiency?",
+   "back": "**Not usually**",
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 374,
+     "page": 350
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "heme-g6pd.q1",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A genetics tutor notes that G6PD deficiency is very common in West Africa, the Mediterranean and South-east Asia, regions that historically had a heavy malaria burden.",
+   "leadIn": "What best explains this geographical pattern?",
+   "options": [
+    "Heterozygotes are protected against malarial parasitisation",
+    "Antimalarial drug use has induced new G6PD mutations",
+    "Fava bean cultivation selected for the deficient allele",
+    "Consanguinity concentrates an autosomal recessive allele",
+    "Malaria infection directly inactivates the G6PD enzyme"
+   ],
+   "answer": 0,
+   "explanation": "The distribution parallels the malaria belt because carrying a deficient allele gives **protection against malarial parasitisation**, keeping the gene common.",
+   "whyNot": [
+    "",
+    "Drugs trigger haemolysis in people who are already deficient; they do not create the mutation.",
+    "Fava beans precipitate haemolysis; they are not the selective force behind the gene's distribution.",
+    "The gene is X-linked, not autosomal recessive.",
+    "The deficiency is inherited, not acquired from infection."
+   ],
+   "studyRef": {
+    "sectionId": "heme-g6pd.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q2",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 22-year-old man of Nigerian descent has had two episodes of jaundice and dark urine, each a few days after starting an antibiotic. Between episodes his blood count is normal. The direct Coombs test is negative and osmotic fragility is normal.",
+   "leadIn": "In which category of haemolytic anaemia does his most likely diagnosis belong?",
+   "options": [
+    "Inherited red cell membrane defect",
+    "Inherited haemoglobin defect",
+    "Inherited enzyme defect of the hexose monophosphate shunt",
+    "Inherited enzyme defect of the glycolytic pathway",
+    "Acquired autoimmune haemolysis"
+   ],
+   "answer": 2,
+   "explanation": "Episodic, drug-triggered, Coombs-negative haemolysis in a young man of African origin suggests **G6PD deficiency**, an inherited enzyme defect of the **HMP shunt**. Shunt defects cause **episodic** haemolysis with oxidant stress.",
+   "whyNot": [
+    "Membrane defects such as hereditary spherocytosis give chronic haemolysis with abnormal osmotic fragility.",
+    "Haemoglobin defects (thalassaemia, sickle cell) do not typically flare only after antibiotics with a normal count in between.",
+    "",
+    "Glycolytic defects such as pyruvate kinase deficiency cause chronic, not drug-triggered episodic, haemolysis.",
+    "Autoimmune haemolysis would give a positive direct Coombs test."
+   ],
+   "studyRef": {
+    "sectionId": "heme-g6pd.s1"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 968,
+     "page": 946,
+     "figure": "Fig. 23.19"
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 830,
+     "page": 830
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q3",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A student asks why mature red cells suffer oxidant damage when G6PD activity is low, while other body cells are much less affected.",
+   "leadIn": "What is the best explanation?",
+   "options": [
+    "G6PD is the red cell's only source of NADPH for keeping glutathione reduced",
+    "G6PD is the main source of ATP for the red cell membrane pumps",
+    "G6PD anchors complement-regulatory proteins to the red cell membrane",
+    "G6PD stabilises spectrin within the red cell cytoskeleton",
+    "G6PD prevents polymerisation of deoxygenated haemoglobin"
+   ],
+   "answer": 0,
+   "explanation": "In red cells the G6PD reaction is the **only source of NADPH**, which keeps **glutathione reduced** to protect the cell from oxidants.",
+   "whyNot": [
+    "",
+    "ATP comes from glycolysis; loss of ATP describes pyruvate kinase deficiency.",
+    "Complement-protecting proteins (CD55, CD59) depend on GPI anchors, which are lost in PNH.",
+    "Cytoskeletal protein defects underlie hereditary spherocytosis and elliptocytosis.",
+    "Polymerisation of deoxygenated Hb describes sickle-cell disease."
+   ],
+   "studyRef": {
+    "sectionId": "heme-g6pd.s2"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 373,
+     "page": 349
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q4",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A man with G6PD deficiency and his wife, who has normal G6PD activity and no family history, plan to have children.",
+   "leadIn": "What is the expected outcome for their children?",
+   "options": [
+    "All sons affected and all daughters unaffected",
+    "All daughters carriers and all sons unaffected",
+    "Half of the sons affected and half of the daughters carriers",
+    "One in four children affected regardless of sex",
+    "All children carriers but none affected"
+   ],
+   "answer": 1,
+   "explanation": "The gene is **X-linked**. A father passes his X only to daughters, who all become **carriers**, and his Y to sons, who are **unaffected**.",
+   "whyNot": [
+    "Sons receive the father's Y chromosome, not his X.",
+    "",
+    "This pattern fits a carrier mother, not an affected father.",
+    "A one-in-four risk fits autosomal recessive inheritance from two carriers.",
+    "Sons inherit no X from the father, so they cannot be carriers."
+   ],
+   "studyRef": {
+    "sectionId": "heme-g6pd.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q5",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 30-year-old Ghanaian man develops haemolysis after co-trimoxazole for pneumonia. His haemoglobin falls from 145 to 112 g/L and then recovers over the following week with a reticulocytosis.",
+   "leadIn": "Why is his haemolysis self-limiting?",
+   "options": [
+    "Young red cells in his variant have near-normal G6PD activity",
+    "His spleen is enlarged and removes the drug",
+    "Anti-red cell antibodies are cleared after the drug stops",
+    "His deficiency affects only the red cell membrane",
+    "Co-trimoxazole is too weak an oxidant to cause sustained lysis"
+   ],
+   "answer": 0,
+   "explanation": "In the **African A− variant** only **older** cells are deficient. Once they have lysed, the young marrow-derived cells with near-normal enzyme activity resist further haemolysis.",
+   "whyNot": [
+    "",
+    "The spleen sequesters damaged red cells; it does not clear the drug.",
+    "G6PD haemolysis is non-immune and Coombs-negative.",
+    "G6PD deficiency is a metabolic (enzyme) defect, not a membrane defect.",
+    "Sulphonamides are recognised precipitants; self-limitation reflects the variant, not drug potency."
+   ],
+   "studyRef": {
+    "sectionId": "heme-g6pd.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 374,
+     "page": 350
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 831,
+     "page": 831
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q6",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "Two men with G6PD deficiency each take the same oxidant drug: one of West African origin and one from Sardinia. The Sardinian man needs an urgent transfusion, while the other recovers spontaneously.",
+   "leadIn": "Which feature of the Sardinian man's variant best explains the difference?",
+   "options": [
+    "Very low enzyme activity in both young and old red cells",
+    "Enzyme activity reduced only in ageing red cells",
+    "Normal enzyme activity with an unstable membrane",
+    "An autosomal dominant mode of inheritance",
+    "An associated pyruvate kinase deficiency"
+   ],
+   "answer": 0,
+   "explanation": "In the **Mediterranean variant** young and old red cells both have very low activity (as low as about 1%). After oxidant stress Hb can fall precipitously and **urgent transfusion** may be needed.",
+   "whyNot": [
+    "",
+    "Deficiency limited to older cells describes the milder African A− variant.",
+    "G6PD variants differ in enzyme activity, not membrane stability.",
+    "All G6PD variants are X-linked.",
+    "Pyruvate kinase deficiency is a separate glycolytic disorder."
+   ],
+   "studyRef": {
+    "sectionId": "heme-g6pd.s3"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 374,
+     "page": 350
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 831,
+     "page": 831
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q7",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 35-year-old man of Middle Eastern origin is treated for a urinary infection. Three days later he notices dark urine and his sclerae turn yellow. Hb has fallen from 150 to 98 g/L and the direct Coombs test is negative. He takes amlodipine and omeprazole regularly.",
+   "leadIn": "Which drug is the most likely precipitant?",
+   "options": [
+    "Nitrofurantoin",
+    "Amlodipine",
+    "Omeprazole",
+    "Paracetamol",
+    "Amoxicillin"
+   ],
+   "answer": 0,
+   "explanation": "**Nitrofurantoin** is a recognised oxidant precipitant of haemolysis in G6PD deficiency. The new drug, the timing and Coombs-negative haemolysis in a man from an at-risk population all point to it.",
+   "whyNot": [
+    "",
+    "Long-standing amlodipine is not a listed precipitant and does not fit the new timing.",
+    "Omeprazole is not listed as a G6PD precipitant and was not new.",
+    "Paracetamol is not among the listed analgesic precipitants (aspirin, phenacetin).",
+    "Amoxicillin is not a listed precipitant; drug-induced immune haemolysis would be Coombs-positive."
+   ],
+   "studyRef": {
+    "sectionId": "heme-g6pd.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 374,
+     "page": 350
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 330,
+     "page": 330
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q8",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 19-year-old man with known G6PD deficiency develops acute haemolysis after starting ciprofloxacin. He reports passing cola-coloured urine.",
+   "leadIn": "What does the dark urine most likely reflect?",
+   "options": [
+    "Haemoglobinuria from intravascular haemolysis",
+    "Conjugated bilirubin from biliary obstruction",
+    "Myoglobin from muscle breakdown",
+    "Visible haematuria from glomerulonephritis",
+    "Excess urinary urobilinogen alone"
+   ],
+   "answer": 0,
+   "explanation": "G6PD attacks are **rapid intravascular haemolysis**: free Hb saturates haptoglobin and spills into the urine as **haemoglobinuria**, giving dark urine with anaemia and jaundice.",
+   "whyNot": [
+    "",
+    "Haemolytic jaundice is unconjugated, so bilirubin does not pass into urine.",
+    "Nothing here suggests muscle injury; the setting is oxidant haemolysis.",
+    "There is no nephritic picture; the trigger and haemolysis explain the urine.",
+    "Urobilinogen rises in haemolysis but does not cause cola-coloured urine; free Hb does."
+   ],
+   "studyRef": {
+    "sectionId": "heme-g6pd.s4"
+   },
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 374,
+     "page": 350
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 969,
+     "page": 947
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 832,
+     "page": 832
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q9",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 24-year-old Greek man becomes weak, pale and jaundiced, with dark urine, 36 hours after a family meal that included a dish of fresh broad beans. The film shows bite and blister cells and the direct Coombs test is negative.",
+   "leadIn": "What is the most likely diagnosis?",
+   "options": [
+    "Favism due to G6PD deficiency",
+    "Hereditary spherocytosis",
+    "Warm autoimmune haemolytic anaemia",
+    "Paroxysmal nocturnal haemoglobinuria",
+    "Pyruvate kinase deficiency"
+   ],
+   "answer": 0,
+   "explanation": "Acute haemolysis after **broad (fava) beans** in a Mediterranean man, with bite and blister cells and a negative DAT, is **favism** due to G6PD deficiency.",
+   "whyNot": [
+    "",
+    "Hereditary spherocytosis shows spherocytes and is not triggered by food.",
+    "Warm AIHA gives spherocytes and a positive direct Coombs test.",
+    "PNH causes complement-mediated haemolysis, most noticeable in early-morning urine, unrelated to diet.",
+    "PK deficiency causes chronic haemolysis with prickle cells, not food-triggered attacks."
+   ],
+   "studyRef": {
+    "sectionId": "heme-g6pd.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "zerotofinals",
+     "pdfPage": 185,
+     "page": 185
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q10",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 7-year-old boy of Mediterranean origin recovered after a transfusion for severe favism. His parents ask how to prevent further episodes.",
+   "leadIn": "What is the most appropriate advice?",
+   "options": [
+    "Avoid fava beans and known oxidant drugs for life",
+    "Arrange elective splenectomy",
+    "Start long-term oral prednisolone",
+    "Plan regular monthly transfusions",
+    "Avoid all antibiotics for life"
+   ],
+   "answer": 0,
+   "explanation": "Management of G6PD deficiency rests on **avoiding precipitants**: fava beans and oxidant drugs. Infections should still be treated.",
+   "whyNot": [
+    "",
+    "Splenectomy is not usually helpful in G6PD deficiency.",
+    "This is non-immune haemolysis; steroids have no role.",
+    "Between attacks the blood count is normal, so regular transfusion is not needed.",
+    "Only specific oxidant antibiotics are a risk, and infection itself must be treated."
+   ],
+   "studyRef": {
+    "sectionId": "heme-g6pd.s5"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 374,
+     "page": 350
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 255,
+     "page": 218
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q11",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 1,
+   "stem": "A 28-year-old man of Iraqi origin has an acute haemolytic episode after starting dapsone. A blood film is examined.",
+   "leadIn": "Which film finding is most characteristic of his condition during the attack?",
+   "options": [
+    "Bite and blister cells",
+    "Spherocytes with a positive direct Coombs test",
+    "Prickle cells resembling holly leaves",
+    "Red cell fragments",
+    "Sickle cells"
+   ],
+   "answer": 0,
+   "explanation": "An oxidant attack in G6PD deficiency gives a **non-spherocytic** film with **bite cells** and **blister cells**, plus Heinz bodies on supravital staining.",
+   "whyNot": [
+    "",
+    "Spherocytes with a positive DAT suggest autoimmune haemolysis.",
+    "Prickle cells are typical of pyruvate kinase deficiency.",
+    "Fragments indicate mechanical or microangiopathic haemolysis.",
+    "Sickle cells indicate sickle-cell disease."
+   ],
+   "studyRef": {
+    "sectionId": "heme-g6pd.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 968,
+     "page": 946
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q12",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 33-year-old man has acute haemolysis 2 days after starting a sulphonamide. Bilirubin and LDH are raised and haptoglobin is undetectable.",
+   "leadIn": "What result is expected on the direct antiglobulin (Coombs) test?",
+   "options": [
+    "Negative, because the haemolysis is non-immune",
+    "Positive for IgG, because the drug forms a hapten",
+    "Positive, because of cold-reacting IgM antibodies",
+    "Positive, because haptoglobin is undetectable",
+    "Uninterpretable until the reticulocytosis settles"
+   ],
+   "answer": 0,
+   "explanation": "G6PD haemolysis is oxidative and **non-immune**, so the DAT is **negative**. A positive DAT points to autoimmune haemolysis, haemolytic disease of the newborn or a transfusion reaction.",
+   "whyNot": [
+    "",
+    "An IgG-positive DAT indicates antibody-mediated haemolysis, not oxidant damage.",
+    "Cold (usually IgM) antibodies cause immune haemolysis; this oxidative picture is non-immune.",
+    "Low haptoglobin reflects intravascular haemolysis of any cause; it does not make the DAT positive.",
+    "Reticulocytosis affects the G6PD level, not the DAT."
+   ],
+   "studyRef": {
+    "sectionId": "heme-g6pd.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948,
+     "figure": "Fig. 23.20"
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 330,
+     "page": 330
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 248,
+     "page": 211
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q13",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 40-year-old man of African origin with pneumonia develops haemolysis 3 days into co-trimoxazole. Hb is 101 g/L and stable, he is haemodynamically well, and he still has fever and crackles.",
+   "leadIn": "What is the most appropriate next step?",
+   "options": [
+    "Stop co-trimoxazole and continue treating the pneumonia with another antibiotic",
+    "Continue co-trimoxazole and add folic acid",
+    "Start high-dose prednisolone",
+    "Refer for urgent splenectomy",
+    "Stop all antibiotics until the haemolysis settles"
+   ],
+   "answer": 0,
+   "explanation": "Management is to **stop the precipitant** and **treat the underlying infection**, since infection itself provokes haemolysis. Transfusion is kept for severe anaemia.",
+   "whyNot": [
+    "",
+    "Continuing the oxidant drug keeps provoking haemolysis.",
+    "Steroids treat immune haemolysis, not G6PD deficiency.",
+    "Splenectomy is not usually helpful in G6PD deficiency.",
+    "Untreated infection is itself a trigger, so it must still be treated."
+   ],
+   "studyRef": {
+    "sectionId": "heme-g6pd.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 374,
+     "page": 350
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q14",
+   "kind": "sba",
+   "pool": "quiz",
+   "quizScope": "section",
+   "difficulty": 2,
+   "stem": "A 26-year-old Sicilian man ate broad beans 2 days ago. He is confused, with pulse 128/min, BP 92/58 mmHg, Hb 52 g/L (falling) and dark urine.",
+   "leadIn": "What is the most important immediate treatment?",
+   "options": [
+    "Urgent red cell transfusion",
+    "Oral folic acid",
+    "Intravenous methylene blue",
+    "Emergency splenectomy",
+    "Oral prednisolone"
+   ],
+   "answer": 0,
+   "explanation": "Severe haemolysis in the **Mediterranean variant** can be fatal; **urgent transfusion** may be life-saving.",
+   "whyNot": [
+    "",
+    "Folic acid does not correct an acute life-threatening fall in Hb.",
+    "Methylene blue is itself a listed precipitant of haemolysis in G6PD deficiency.",
+    "Splenectomy is not usually helpful.",
+    "Glucocorticoids treat autoimmune, not oxidative, haemolysis."
+   ],
+   "studyRef": {
+    "sectionId": "heme-g6pd.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 374,
+     "page": 350
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 330,
+     "page": 330
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q15",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Causes of haemolytic anaemia",
+   "leadIn": "Pick the best match from the list for every case below. Any option can fit several cases, one case, or none.",
+   "options": [
+    "G6PD deficiency",
+    "Hereditary spherocytosis",
+    "Pyruvate kinase deficiency",
+    "Pyrimidine 5′ nucleotidase deficiency",
+    "Warm autoimmune haemolytic anaemia",
+    "Cold agglutinin disease",
+    "Paroxysmal nocturnal haemoglobinuria",
+    "Microangiopathic haemolytic anaemia",
+    "South-east Asian ovalocytosis",
+    "Clostridium perfringens sepsis"
+   ],
+   "items": [
+    {
+     "stem": "A 27-year-old man from Thailand is given primaquine after treatment for vivax malaria. On day 3 he has dark urine and Hb has fallen by 40 g/L. The film shows bite cells and the direct Coombs test is negative.",
+     "answer": 0,
+     "explanation": "An oxidant antimalarial, bite cells and a negative DAT in a man from South-east Asia indicate **G6PD deficiency**.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s4"
+     }
+    },
+    {
+     "stem": "A 21-year-old woman, whose parents are first cousins, has had mild lifelong anaemia and jaundice. The film shows distorted \"prickle\" cells resembling holly leaves. Red cell enzyme activity is 10% of normal for one glycolytic enzyme.",
+     "answer": 2,
+     "explanation": "Chronic haemolysis, autosomal recessive (consanguinity) and prickle cells point to **pyruvate kinase deficiency**, a glycolytic defect.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s6"
+     }
+    },
+    {
+     "stem": "A 52-year-old woman with SLE has fatigue and jaundice. The film shows spherocytes and polychromasia, and the direct Coombs test is positive for IgG.",
+     "answer": 4,
+     "explanation": "Spherocytes with an IgG-positive DAT, secondary to an autoimmune disease, mean **warm AIHA**.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s6"
+     }
+    },
+    {
+     "stem": "A 74-year-old man has painful blue fingertips and ear lobes in winter. The automated MCV is spuriously high and the film shows red cell agglutination.",
+     "answer": 5,
+     "explanation": "Acrocyanosis and agglutination with a spuriously high MCV in an older man indicate **cold agglutinin disease**, sometimes linked to an underlying low-grade B-cell lymphoma.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 968,
+     "page": 946
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q16",
+   "kind": "emq",
+   "pool": "quiz",
+   "quizScope": "topic",
+   "difficulty": 2,
+   "theme": "Precipitants of haemolysis in G6PD deficiency",
+   "leadIn": "Pick the best match from the list for every case below. Any option can fit several cases, one case, or none.",
+   "options": [
+    "Primaquine",
+    "Dapsone",
+    "Nitrofurantoin",
+    "Ciprofloxacin",
+    "Rasburicase",
+    "Naphthalene",
+    "Fava beans",
+    "Diabetic ketoacidosis",
+    "Aspirin",
+    "Vitamin K",
+    "Methylene blue",
+    "Quinine"
+   ],
+   "items": [
+    {
+     "stem": "A 4-year-old boy is brought in pale and jaundiced, with dark urine. Two days earlier his mother found him chewing small white balls that she keeps in the wardrobe to protect woollen clothes.",
+     "answer": 5,
+     "explanation": "Mothballs contain **naphthalene**, which can trigger haemolysis in G6PD deficiency. The trigger has to be inferred from the household product.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s4"
+     }
+    },
+    {
+     "stem": "A 30-year-old man returns from India with fever. Thick films show _P. vivax_. After a course of chloroquine he is given a 14-day drug to eradicate the liver stage. On day 3 of this drug he becomes jaundiced, with bite cells on the film.",
+     "answer": 0,
+     "explanation": "The drug used for **radical cure** of _P. vivax_ (liver hypnozoites) is **primaquine**, a classic precipitant. G6PD status should have been checked first.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s7"
+     }
+    },
+    {
+     "stem": "A 16-year-old boy with type 1 diabetes is admitted vomiting, with pH 7.08 and high ketones. He has had no new medication. On day 2 Hb has fallen from 142 to 96 g/L, unconjugated bilirubin is raised and the film shows blister cells.",
+     "answer": 7,
+     "explanation": "With no drug exposure, the acute metabolic illness itself (**DKA**) is the recognised trigger of haemolysis.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s4"
+     }
+    },
+    {
+     "stem": "A 23-year-old Cypriot man becomes jaundiced with cola-coloured urine a day after eating a traditional dish made with fresh broad beans.",
+     "answer": 6,
+     "explanation": "**Fava (broad) beans** cause favism, the classically described precipitant, typically severe in the Mediterranean variant.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s5"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "kumar10",
+     "pdfPage": 374,
+     "page": 350
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 150,
+     "page": 128
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 330,
+     "page": 330
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q17",
+   "kind": "sba",
+   "pool": "worked",
+   "difficulty": 3,
+   "stem": "A 25-year-old Nigerian man had acute haemolysis 4 days after starting primaquine. The drug was stopped. On day 6 his reticulocyte count is 14% and a quantitative G6PD assay is reported as within the normal range. His brother has G6PD deficiency.",
+   "leadIn": "What is the best interpretation of the normal G6PD result?",
+   "options": [
+    "It may be falsely normal; repeat the assay about 3 months after the episode",
+    "It excludes G6PD deficiency; look for an autoimmune cause",
+    "It confirms the haemolysis was a primaquine allergy",
+    "It shows he is a heterozygous carrier",
+    "It indicates pyruvate kinase deficiency instead"
+   ],
+   "answer": 0,
+   "explanation": "Step 1: the picture (oxidant drug, man of African origin, affected brother) strongly suggests G6PD deficiency. Step 2: right after an attack the **oldest, most deficient cells have already lysed**. Step 3: the circulation is now rich in **reticulocytes, which carry more enzyme**, so the assay can be **falsely normal**. Step 4: repeat the test once the red cell population has turned over, about **3 months later**.",
+   "whyNot": [
+    "",
+    "A normal level during reticulocytosis does not exclude deficiency, and the history points away from autoimmunity.",
+    "Primaquine haemolysis in G6PD deficiency is a pharmacodynamic effect, not an allergy.",
+    "Males are hemizygous; they cannot be heterozygous carriers.",
+    "PK deficiency causes chronic haemolysis, not drug-triggered attacks."
+   ],
+   "studyRef": {
+    "sectionId": "heme-g6pd.s6"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 833,
+     "page": 833
+    },
+    {
+     "book": "pocket8",
+     "pdfPage": 330,
+     "page": 330
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q18",
+   "kind": "emq",
+   "pool": "worked",
+   "difficulty": 2,
+   "theme": "Blood film findings in haemolytic states",
+   "leadIn": "Pick the best match from the list for every case below. Any option can fit several cases, one case, or none.",
+   "options": [
+    "Bite cells",
+    "Blister cells",
+    "Heinz bodies",
+    "Spherocytes",
+    "Red cell fragments",
+    "Sickle cells",
+    "Prickle cells",
+    "Coarse basophilic stippling",
+    "Red cell agglutination",
+    "Ovalocytes and stomatocytes",
+    "Leucoerythroblastic film"
+   ],
+   "items": [
+    {
+     "stem": "A 31-year-old man has an oxidant haemolytic attack after sulfasalazine. Besides the routine film, the laboratory makes a supravital preparation with methyl violet, which shows dark inclusions inside the red cells.",
+     "answer": 2,
+     "explanation": "Step 1: an oxidant drug denatures Hb. Step 2: denatured Hb precipitates as inclusions. Step 3: these need a **supravital stain such as methyl violet** to be seen, so they are **Heinz bodies**.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s6"
+     }
+    },
+    {
+     "stem": "A 66-year-old man had aortic valve replacement with a mechanical prosthesis 5 years ago. Echocardiography shows a periprosthetic leak. He has anaemia, raised LDH and haemosiderin in the urine.",
+     "answer": 4,
+     "explanation": "Step 1: shear stress from a leaking valve damages red cells mechanically. Step 2: mechanical haemolysis gives **red cell fragments**, with markers of intravascular haemolysis.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s6"
+     }
+    },
+    {
+     "stem": "A 38-year-old man who strips old lead paint in a renovation business is found to be anaemic. The film shows coarse dots in many red cells, because lead inhibits an enzyme involved in breaking down reticulocyte RNA.",
+     "answer": 7,
+     "explanation": "Step 1: lead inhibits **pyrimidine 5′ nucleotidase**. Step 2: excess ribonucleoprotein accumulates. Step 3: this appears as **coarse basophilic stippling**.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 968,
+     "page": 946
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q19",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 3,
+   "theme": "Genotype and variant behind a G6PD-related presentation",
+   "leadIn": "Pick the best match from the list for every case below. Any option can fit several cases, one case, or none.",
+   "options": [
+    "African A− variant (hemizygous male)",
+    "Mediterranean variant (hemizygous male)",
+    "Normal-activity B+ enzyme",
+    "Heterozygous female with balanced X-inactivation",
+    "Heterozygous female with skewed X-inactivation",
+    "Homozygous deficient female",
+    "Pyruvate kinase deficiency",
+    "Pyrimidine 5′ nucleotidase deficiency"
+   ],
+   "items": [
+    {
+     "stem": "A 29-year-old Ghanaian man has haemolysis after starting a sulphonamide for pneumonia. Hb falls by about 30 g/L, then recovers within days even though the course is completed, because the new red cells resist lysis.",
+     "answer": 0,
+     "explanation": "Mild, self-limiting haemolysis because young cells have near-normal enzyme activity is the **African A− variant**.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s3"
+     }
+    },
+    {
+     "stem": "A 22-year-old man from Cyprus has Hb falling from 148 to 54 g/L within 48 hours of eating broad beans and needs urgent transfusion. G6PD activity measured months later is about 1% of normal.",
+     "answer": 1,
+     "explanation": "Precipitous haemolysis with enzyme as low as about 1%, triggered by fava beans, means the **Mediterranean variant**.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s3"
+     }
+    },
+    {
+     "stem": "A 34-year-old woman whose father has G6PD deficiency develops significant haemolysis on primaquine. Her red cells form two populations, and most of them are enzyme-deficient.",
+     "answer": 4,
+     "explanation": "Two-step: her father's X makes her an **obligate heterozygote**. Carriers are usually spared, so clinically significant haemolysis implies **skewed X-inactivation**.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s2"
+     }
+    },
+    {
+     "stem": "A 25-year-old woman whose father has G6PD deficiency is screened before malaria prophylaxis. Her G6PD activity is borderline, and she has never had haemolysis despite previous courses of chloroquine.",
+     "answer": 3,
+     "explanation": "An obligate carrier with borderline activity and no haemolysis is a **heterozygote with balanced lyonization**. Borderline activity carries minimal risk.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s2"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 374,
+     "page": 350
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 831,
+     "page": 831
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q20",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Investigation of suspected haemolysis",
+   "leadIn": "Pick the best match from the list for every case below. Any option can fit several cases, one case, or none.",
+   "options": [
+    "Supravital stain of the blood film",
+    "G6PD screening (dye-reduction) test",
+    "Quantitative G6PD enzyme assay",
+    "Repeat G6PD assay about 3 months after recovery",
+    "Direct antiglobulin (Coombs) test",
+    "Indirect antiglobulin test",
+    "Serum haptoglobin",
+    "Urinary haemosiderin",
+    "Reticulocyte count",
+    "Osmotic fragility test"
+   ],
+   "items": [
+    {
+     "stem": "A 36-year-old man had an episode of dark urine 5 days ago after an antimalarial and is now recovering. The clinician wants evidence that red cells were lysed within the circulation rather than in the spleen, using a urine sample.",
+     "answer": 7,
+     "explanation": "Haemoglobin filtered by the kidney is stored as haemosiderin in tubular cells, which are later shed. **Haemosiderinuria** always indicates intravascular haemolysis.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s6"
+     }
+    },
+    {
+     "stem": "A 27-year-old man of Mediterranean origin has a low result on a dye-reduction screening test for G6PD.",
+     "answer": 2,
+     "explanation": "Screening tests detect reduced dye reduction. A **direct (quantitative) G6PD assay** follows in those with low screening values.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s6"
+     }
+    },
+    {
+     "stem": "A 58-year-old woman develops anaemia, jaundice and spherocytes on the film 4 months after starting methyldopa for hypertension.",
+     "answer": 4,
+     "explanation": "Methyldopa is a cause of secondary warm autoimmune haemolysis. Spherocytes suggest an immune process, confirmed with the **direct Coombs test**.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s6"
+     }
+    },
+    {
+     "stem": "A 24-year-old man had primaquine-induced haemolysis last week. His G6PD level today, with a high reticulocyte count, is normal, but his brother is G6PD deficient.",
+     "answer": 3,
+     "explanation": "Two-step: reticulocytes carry more enzyme, so the result may be **falsely normal**. **Repeat at about 3 months**.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s6"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 969,
+     "page": 947
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 968,
+     "page": 946,
+     "figure": "Fig. 23.19"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 833,
+     "page": 833
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q21",
+   "kind": "emq",
+   "pool": "practice",
+   "difficulty": 2,
+   "theme": "Management decisions in G6PD deficiency",
+   "leadIn": "Pick the best match from the list for every case below. Any option can fit several cases, one case, or none.",
+   "options": [
+    "Stop the precipitant and give supportive care",
+    "Urgent red cell transfusion",
+    "Primaquine 30 mg daily for 14 days",
+    "Primaquine 15 mg daily for 14 days",
+    "Primaquine 0.75 mg/kg once weekly for 8 weeks",
+    "Splenectomy",
+    "Oral prednisolone",
+    "Rituximab"
+   ],
+   "items": [
+    {
+     "stem": "A 33-year-old man with _P. vivax_ malaria has completed chloroquine. His G6PD activity is normal. Radical cure is planned.",
+     "answer": 2,
+     "explanation": "With normal G6PD, _P. vivax_ radical cure uses **primaquine 30 mg daily for 14 days**.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s7"
+     }
+    },
+    {
+     "stem": "A 41-year-old woman with _P. ovale_ malaria has completed chloroquine. Her G6PD status has been checked and is normal.",
+     "answer": 3,
+     "explanation": "For _P. ovale_ with normal G6PD the regimen is **primaquine 15 mg daily for 14 days**.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s7"
+     }
+    },
+    {
+     "stem": "A 28-year-old man with _P. vivax_ malaria is found to have mild to moderate G6PD deficiency.",
+     "answer": 4,
+     "explanation": "Mild to moderate deficiency allows **0.75 mg/kg once weekly for 8 weeks**, given with chloroquine.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s7"
+     }
+    },
+    {
+     "stem": "A 19-year-old Lebanese man is drowsy and tachycardic 2 days after eating broad beans. Hb is 48 g/L and still falling.",
+     "answer": 1,
+     "explanation": "Life-threatening haemolysis, typical of the Mediterranean variant, needs **urgent transfusion**, which may be life-saving.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s7"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 299,
+     "page": 277
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 66,
+     "page": 29
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "kumar10",
+     "pdfPage": 374,
+     "page": 350
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q22",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A male infant born at term to parents of Kurdish origin develops jaundice on day 2. His maternal uncle had dark urine after antimalarial treatment. The mother's blood group is O RhD-positive, the baby is A RhD-positive, and the baby's direct Coombs test is negative. The film shows no spherocytes.",
+   "leadIn": "What is the most likely cause of the jaundice?",
+   "options": [
+    "G6PD deficiency",
+    "ABO haemolytic disease of the newborn",
+    "RhD haemolytic disease of the newborn",
+    "Hereditary spherocytosis",
+    "Pyruvate kinase deficiency"
+   ],
+   "answer": 0,
+   "explanation": "Neonatal jaundice is a recognised presentation of G6PD deficiency. Two clues fit: X-linked inheritance through the mother (her brother is affected) and a **negative DAT** with no spherocytes, which argues against immune causes.",
+   "whyNot": [
+    "",
+    "Haemolytic disease of the newborn is antibody-mediated, so the DAT would be expected to be positive, and ABO incompatibility is a recognised cause of spherocytes.",
+    "Mother and baby are both RhD-positive, and the DAT is negative.",
+    "Hereditary spherocytosis shows spherocytes on the film.",
+    "PK deficiency is autosomal recessive and the family history points to an X-linked trait."
+   ],
+   "studyRef": {
+    "sectionId": "heme-g6pd.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "kcEssentials",
+     "pdfPage": 255,
+     "page": 218
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948,
+     "figure": "Fig. 23.20"
+    },
+    {
+     "book": "stepup6",
+     "pdfPage": 828,
+     "page": 828
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q23",
+   "kind": "sba",
+   "pool": "practice",
+   "difficulty": 2,
+   "stem": "A 37-year-old man with known mild G6PD deficiency is on a weekly primaquine regimen for _P. vivax_. He notices bluish lips. Hb, bilirubin and LDH are unchanged from baseline and he feels well.",
+   "leadIn": "What is the most likely explanation?",
+   "options": [
+    "Methaemoglobin formation from primaquine",
+    "Acute intravascular haemolysis",
+    "Recrudescent malaria with anaemia",
+    "Cold agglutinin-mediated acrocyanosis",
+    "Hypoxaemia from malarial lung injury"
+   ],
+   "answer": 0,
+   "explanation": "Primaquine more often causes **cyanosis from methaemoglobin** than haemolysis. It is common but not dangerous. Unchanged haemolysis markers argue against an attack.",
+   "whyNot": [
+    "",
+    "Stable Hb, bilirubin and LDH make active haemolysis unlikely.",
+    "Nothing suggests recurrent fever or new anaemia.",
+    "Cold agglutinin disease causes cold-induced acrocyanosis of the extremities in older patients, with agglutination on the film.",
+    "He is well, with no respiratory symptoms."
+   ],
+   "studyRef": {
+    "sectionId": "heme-g6pd.s7"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 299,
+     "page": 277
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q24",
+   "kind": "emq",
+   "pool": "exam",
+   "difficulty": 2,
+   "theme": "Causes of haemoglobinuria (dark urine) with haemolysis",
+   "leadIn": "Pick the best match from the list for every case below. Any option can fit several cases, one case, or none.",
+   "options": [
+    "G6PD deficiency",
+    "Paroxysmal nocturnal haemoglobinuria",
+    "Falciparum malaria (blackwater fever)",
+    "March haemoglobinuria",
+    "Mechanical heart valve haemolysis",
+    "Haemolytic transfusion reaction",
+    "Clostridium perfringens sepsis",
+    "Warm autoimmune haemolytic anaemia",
+    "Thermal injury (burns)"
+   ],
+   "items": [
+    {
+     "stem": "A 26-year-old man from Ghana is given nitrofurantoin. Three days later he has dark urine, Hb has fallen by 35 g/L, and the film shows bite cells. Between such episodes his blood count is normal.",
+     "answer": 0,
+     "explanation": "Drug-triggered, episodic, oxidative haemolysis with bite cells means **G6PD deficiency**.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s4"
+     }
+    },
+    {
+     "stem": "A 35-year-old woman has recurrent episodes of dark urine that is most noticeable first thing in the morning. Tests show red cells lacking GPI-anchored complement-regulatory proteins.",
+     "answer": 1,
+     "explanation": "Loss of the GPI-anchored CD55/CD59 makes cells sensitive to complement, which is **PNH**, with haemoglobinuria most marked in early-morning urine.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s2"
+     }
+    },
+    {
+     "stem": "A 42-year-old man has fever 10 days after returning from Nigeria, where he took no prophylaxis. He is confused and passing black urine, with a high parasitaemia on the film.",
+     "answer": 2,
+     "explanation": "Severe falciparum infection with intravascular haemolysis and black urine is **blackwater fever**.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s4"
+     }
+    },
+    {
+     "stem": "A 29-year-old man notices red-brown urine after completing a marathon. He is otherwise well, with no anaemia at rest and a normal film the following week.",
+     "answer": 3,
+     "explanation": "Red cell damage in the capillaries of the feet during prolonged running or marching is **march haemoglobinuria**.",
+     "studyRef": {
+      "sectionId": "heme-g6pd.s4"
+     }
+    }
+   ],
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 971,
+     "page": 949
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 972,
+     "page": 950
+    },
+    {
+     "book": "davidson24",
+     "pdfPage": 969,
+     "page": 947
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q25",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 2,
+   "stem": "In a lecture on pharmacogenetics, inherited conditions are grouped by whether the variant changes drug handling (pharmacokinetic) or the body's response to the drug (pharmacodynamic). G6PD deficiency increases the risk of haemolysis with oxidant antimalarials.",
+   "leadIn": "How is G6PD deficiency classified in this scheme?",
+   "options": [
+    "Pharmacodynamic variant",
+    "Pharmacokinetic variant: slow acetylation",
+    "Pharmacokinetic variant: poor oxidation by CYP2D6",
+    "Pharmacokinetic variant: reduced inactivation by plasma pseudocholinesterase",
+    "Pharmacokinetic variant: reduced prodrug activation by CYP2C19"
+   ],
+   "answer": 0,
+   "explanation": "Davidson places G6PD deficiency among the **pharmacodynamic** variants: the drug is handled normally, but oxidant drugs such as chloroquine and primaquine raise the risk of **haemolysis**.",
+   "whyNot": [
+    "",
+    "Slow acetylation is a pharmacokinetic variant that increases responses to isoniazid, hydralazine and procainamide.",
+    "Poor CYP2D6 oxidation is a pharmacokinetic variant affecting nortriptyline and codeine.",
+    "Pseudocholinesterase deficiency is a pharmacokinetic variant that prolongs suxamethonium paralysis.",
+    "Reduced CYP2C19 activation is a pharmacokinetic variant that weakens the antiplatelet effect of clopidogrel."
+   ],
+   "studyRef": {
+    "sectionId": "heme-g6pd.s4"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 42,
+     "page": 20
+    }
+   ]
+  },
+  {
+   "id": "heme-g6pd.q26",
+   "kind": "sba",
+   "pool": "mock",
+   "difficulty": 3,
+   "stem": "A 30-year-old woman's brother has G6PD deficiency. Their parents are unaffected, and her husband has normal G6PD activity. She is pregnant with a boy.",
+   "leadIn": "What is the probability that her son will be affected?",
+   "options": [
+    "1 in 4",
+    "1 in 2",
+    "1 in 8",
+    "1 in 1 (certain)",
+    "Effectively zero"
+   ],
+   "answer": 0,
+   "explanation": "Two steps. The brother's deficiency came from their **carrier mother** (X-linked), so this woman has a **1 in 2** chance of being a carrier. A carrier passes the affected X to a son with probability 1 in 2. Overall risk is 1/2 × 1/2 = **1 in 4**.",
+   "whyNot": [
+    "",
+    "1 in 2 would apply only if she were a known carrier.",
+    "1 in 8 wrongly adds a further halving step.",
+    "Certainty would require her to be homozygous deficient.",
+    "Sons receive their X from the mother, so her carrier status matters even though her husband is normal."
+   ],
+   "studyRef": {
+    "sectionId": "heme-g6pd.s2"
+   },
+   "cites": [
+    {
+     "book": "davidson24",
+     "pdfPage": 970,
+     "page": 948
+    }
+   ]
+  }
+ ],
+ "ospe": [
+  {
+   "id": "heme-g6pd.o1",
+   "sectionId": "heme-g6pd.s6",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 374,
+    "page": 350,
+    "figure": "Fig. 16.25"
+   },
+   "identify": "**Blister cells** (Hb separated from part of the membrane), indicating oxidative haemolysis in **G6PD deficiency**"
+  },
+  {
+   "id": "heme-g6pd.o2",
+   "sectionId": "heme-g6pd.s6",
+   "cite": {
+    "book": "stepup6",
+    "pdfPage": 832,
+    "page": 832,
+    "figure": "FIGURE 9-9"
+   },
+   "identify": "**Bite cells**: red cells with a bite-shaped defect after splenic removal of Heinz bodies, suggesting **G6PD deficiency**"
+  },
+  {
+   "id": "heme-g6pd.o3",
+   "sectionId": "heme-g6pd.s2",
+   "cite": {
+    "book": "kumar10",
+    "pdfPage": 373,
+    "page": 349,
+    "figure": "Fig. 16.24"
+   },
+   "identify": "Red cell glucose metabolism: pick out the **G6PD step in the hexose monophosphate shunt** that generates **NADPH** to keep glutathione reduced, separate from glycolysis (pyruvate kinase)."
+  },
+  {
+   "id": "heme-g6pd.o4",
+   "sectionId": "heme-g6pd.s6",
+   "cite": {
+    "book": "davidson24",
+    "pdfPage": 970,
+    "page": 948,
+    "figure": "Fig. 23.20"
+   },
+   "identify": "**Direct antiglobulin (Coombs) test**: agglutination means antibody is bound to red cells (immune haemolysis). It is **negative** in G6PD deficiency."
+  }
+ ],
+ "copyCheck": {
+  "passedAt": "2026-10-21T19:33:19.711Z",
+  "contentHash": "61ff36e39e8192d947869d52efb84130d36fdb2c9266c5400a5e47d6870a833b"
+ },
+ "sourceCheck": {
+  "passedAt": "2026-10-21T19:33:19.721Z",
+  "contentHash": "61ff36e39e8192d947869d52efb84130d36fdb2c9266c5400a5e47d6870a833b",
+  "checkerVersion": "source-check-v1"
+ }
+}
