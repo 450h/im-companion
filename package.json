@@ -27,7 +27,8 @@
     "test:e2e": "npm run build && playwright test",
     "dist": "npm run build && electron-builder --win --publish never",
     "content:tools": "node scripts/content-tools.mjs",
-    "make-icon": "electron scripts/make-icon.cjs"
+    "make-icon": "electron scripts/make-icon.cjs",
+    "screenshots": "npm run build && playwright test -c playwright.showcase.config.ts"
   },
   "dependencies": {
     "zod": "4.6.7"
