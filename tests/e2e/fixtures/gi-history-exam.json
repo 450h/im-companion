@@ -1,0 +1,34 @@
+{
+ "topicId": "gi-history-exam",
+ "contentVersion": "2026.10.20.1",
+ "sections": [
+  {
+   "id": "gi-history-exam.s1",
+   "title": "Fixture: history taking",
+   "objectiveIdx": [0],
+   "blocks": [
+    { "type": "para", "text": "Fixture text for automated tests: ask about **pain**, appetite and bowel habit.", "cites": [{ "book": "talley8", "page": 150 }] },
+    { "type": "pearl", "text": "Fixture pearl: weight loss is a red flag.", "cites": [{ "book": "talley8", "page": 151 }] }
+   ]
+  },
+  {
+   "id": "gi-history-exam.s2",
+   "title": "Fixture: physical exam",
+   "objectiveIdx": [1],
+   "blocks": [
+    { "type": "bullets", "items": ["Fixture: inspect", "Fixture: palpate"], "cites": [{ "book": "talley8", "page": 160 }] }
+   ]
+  }
+ ],
+ "cards": [
+  { "id": "gi-history-exam.c1", "sectionId": "gi-history-exam.s1", "front": "Fixture card front", "back": "Fixture card back", "cites": [{ "book": "talley8", "page": 150 }] }
+ ],
+ "questions": [
+  { "id": "gi-history-exam.q1", "kind": "sba", "pool": "quiz", "quizScope": "section", "difficulty": 1, "stem": "Fixture stem one.", "leadIn": "Pick the fixture answer.", "options": ["Alpha", "Bravo", "Charlie", "Delta", "Echo"], "answer": 0, "explanation": "Fixture explanation one.", "whyNot": ["", "w", "w", "w", "w"], "studyRef": { "sectionId": "gi-history-exam.s1" }, "cites": [{ "book": "talley8", "page": 150 }] },
+  { "id": "gi-history-exam.q2", "kind": "sba", "pool": "quiz", "quizScope": "section", "difficulty": 1, "stem": "Fixture stem two.", "leadIn": "Pick the fixture answer.", "options": ["Alpha", "Bravo", "Charlie", "Delta", "Echo"], "answer": 1, "explanation": "Fixture explanation two.", "whyNot": ["w", "", "w", "w", "w"], "studyRef": { "sectionId": "gi-history-exam.s1" }, "cites": [{ "book": "talley8", "page": 150 }] },
+  { "id": "gi-history-exam.q3", "kind": "sba", "pool": "quiz", "quizScope": "section", "difficulty": 1, "stem": "Fixture stem three.", "leadIn": "Pick the fixture answer.", "options": ["Alpha", "Bravo", "Charlie", "Delta", "Echo"], "answer": 0, "explanation": "Fixture explanation three.", "whyNot": ["", "w", "w", "w", "w"], "studyRef": { "sectionId": "gi-history-exam.s2" }, "cites": [{ "book": "talley8", "page": 160 }] },
+  { "id": "gi-history-exam.q4", "kind": "sba", "pool": "quiz", "quizScope": "topic", "difficulty": 1, "stem": "Fixture topic quiz stem.", "leadIn": "Pick the fixture answer.", "options": ["Alpha", "Bravo", "Charlie", "Delta", "Echo"], "answer": 0, "explanation": "Fixture explanation four.", "whyNot": ["", "w", "w", "w", "w"], "studyRef": { "sectionId": "gi-history-exam.s2" }, "cites": [{ "book": "talley8", "page": 160 }] },
+  { "id": "gi-history-exam.q5", "kind": "sba", "pool": "practice", "difficulty": 1, "stem": "Fixture practice stem.", "leadIn": "Pick the fixture answer.", "options": ["Alpha", "Bravo", "Charlie", "Delta", "Echo"], "answer": 0, "explanation": "Fixture explanation five.", "whyNot": ["", "w", "w", "w", "w"], "studyRef": { "sectionId": "gi-history-exam.s1" }, "cites": [{ "book": "talley8", "page": 150 }] }
+ ],
+ "ospe": []
+}

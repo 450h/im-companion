@@ -1,0 +1,1940 @@
+{
+  "course": "Med 611 Internal Medicine (MBBS)",
+  "exams": {
+    "midterm": {
+      "date": "2026-12-01",
+      "format": "EMQs + OSPE slide exam"
+    },
+    "final": {
+      "date": "2027-01-05",
+      "format": "MCQs (single best answer)"
+    }
+  },
+  "systems": [
+    {
+      "id": "gi",
+      "title": "Gastroenterology & Hepatology",
+      "order": 1
+    },
+    {
+      "id": "id",
+      "title": "Infectious Diseases",
+      "order": 2
+    },
+    {
+      "id": "neph",
+      "title": "Nephrology",
+      "order": 3
+    },
+    {
+      "id": "cardio",
+      "title": "Cardiology",
+      "order": 4
+    },
+    {
+      "id": "resp",
+      "title": "Respiratory",
+      "order": 5
+    },
+    {
+      "id": "rheum",
+      "title": "Rheumatology",
+      "order": 6
+    },
+    {
+      "id": "endo",
+      "title": "Endocrinology",
+      "order": 7
+    },
+    {
+      "id": "heme",
+      "title": "Hematology",
+      "order": 8
+    },
+    {
+      "id": "hemonc",
+      "title": "Hemato-oncology",
+      "order": 9
+    },
+    {
+      "id": "onc",
+      "title": "Oncology",
+      "order": 10
+    }
+  ],
+  "topics": [
+    {
+      "id": "gi-history-exam",
+      "systemId": "gi",
+      "title": "History & physical exam",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "standard",
+      "studyHours": 0.5,
+      "objectives": [
+        "History taking",
+        "Relevant physical exam"
+      ],
+      "order": 1
+    },
+    {
+      "id": "gi-cirrhosis",
+      "systemId": "gi",
+      "title": "Chronic liver disease & cirrhosis",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.75,
+      "objectives": [
+        "Definition (clinical & pathological)",
+        "Etiology (including hepatitis)",
+        "Symptoms & signs",
+        "Hepatorenal syndrome",
+        "Hepatoma",
+        "Spontaneous bacterial peritonitis",
+        "Hepatic encephalopathy",
+        "Portal hypertension & variceal bleeding",
+        "Other complications",
+        "Investigations",
+        "Ascites & its differential diagnosis",
+        "Management",
+        "Liver transplantation (indications & management)"
+      ],
+      "order": 2
+    },
+    {
+      "id": "gi-gi-bleeding",
+      "systemId": "gi",
+      "title": "Gastrointestinal bleeding",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.0,
+      "objectives": [
+        "Etiology of upper GI bleeding",
+        "Etiology of lower GI bleeding",
+        "Differentiating melena from bleeding per rectum",
+        "Clinical presentation",
+        "Investigations of GI bleeding (acute & chronic)",
+        "Emergency treatment",
+        "Long-term management"
+      ],
+      "order": 3
+    },
+    {
+      "id": "gi-pud-gerd",
+      "systemId": "gi",
+      "title": "Peptic ulcer disease & GERD",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "high",
+      "studyHours": 1.5,
+      "objectives": [
+        "Etiology of gastric & duodenal ulcers",
+        "Etiology of GERD",
+        "Risk factors for PUD",
+        "Risk factors for GERD",
+        "Clinical presentations",
+        "Investigations including upper GI endoscopy",
+        "Complications of PUD",
+        "Complications of GERD",
+        "PUD as an acute emergency",
+        "Management of PUD",
+        "Drug therapy for GERD"
+      ],
+      "order": 4
+    },
+    {
+      "id": "gi-ibd",
+      "systemId": "gi",
+      "title": "Inflammatory bowel disease",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "high",
+      "studyHours": 1.5,
+      "objectives": [
+        "Definition",
+        "Etiology of ulcerative colitis (UC)",
+        "Etiology of Crohn's disease (CD)",
+        "Pathological changes in IBD",
+        "GI manifestations of IBD",
+        "Extraintestinal manifestations of IBD",
+        "Investigations for IBD",
+        "Endoscopic findings in UC & CD",
+        "Complications of IBD",
+        "Management of IBD",
+        "Management of IBD complications"
+      ],
+      "order": 5
+    },
+    {
+      "id": "gi-biliary",
+      "systemId": "gi",
+      "title": "Biliary tract diseases",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.0,
+      "objectives": [
+        "Types of biliary tract disease",
+        "Etiologies of the different types of biliary tract disease",
+        "Clinical manifestations",
+        "Investigations",
+        "Value of ultrasound in diagnosing biliary tract disease",
+        "Antibodies in biliary tract diseases",
+        "Medical management of biliary tract diseases"
+      ],
+      "order": 6
+    },
+    {
+      "id": "gi-pancreas",
+      "systemId": "gi",
+      "title": "Pancreatic diseases",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.25,
+      "objectives": [
+        "Anatomical background",
+        "Etiology & risk factors for acute pancreatitis",
+        "Pathogenesis of chronic pancreatitis",
+        "Clinical presentation of acute pancreatitis",
+        "Spectrum of chronic pancreatic diseases",
+        "Investigations for acute & chronic pancreatitis",
+        "Emergency treatment of acute pancreatitis",
+        "Management of chronic pancreatitis",
+        "Carcinoma of the head of the pancreas"
+      ],
+      "order": 7
+    },
+    {
+      "id": "gi-hcc",
+      "systemId": "gi",
+      "title": "Hepatocellular carcinoma",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.0,
+      "objectives": [
+        "Risk factors",
+        "Clinical manifestations",
+        "Investigations: blood tests",
+        "Investigations: imaging",
+        "Investigations: liver biopsy",
+        "Differential diagnosis of hepatic focal lesions",
+        "Treatment: surgery (resection, transplantation)",
+        "Treatment: ablation (radiofrequency, cryo-, alcohol), chemoembolization, targeted therapy, immunotherapy, supportive care"
+      ],
+      "order": 8
+    },
+    {
+      "id": "gi-malabsorption",
+      "systemId": "gi",
+      "title": "Malabsorption",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Causes & risk factors",
+        "Symptoms & signs",
+        "Investigations: stool tests, blood tests & enzymatic assays, breath tests",
+        "Investigations: imaging & biopsy",
+        "Complications",
+        "Treatment options"
+      ],
+      "order": 9
+    },
+    {
+      "id": "id-history-exam",
+      "systemId": "id",
+      "title": "History & physical exam",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "standard",
+      "studyHours": 0.5,
+      "objectives": [
+        "History taking",
+        "Relevant physical exam"
+      ],
+      "order": 10
+    },
+    {
+      "id": "id-covid19",
+      "systemId": "id",
+      "title": "COVID-19",
+      "assessedIn": [
+        "final"
+      ],
+      "priority": "high",
+      "studyHours": 1.0,
+      "objectives": [
+        "Modes of transmission",
+        "Causative agent",
+        "Clinical manifestations",
+        "Complications",
+        "Management",
+        "Vaccination",
+        "Preventive measures"
+      ],
+      "order": 11
+    },
+    {
+      "id": "id-antimicrobials",
+      "systemId": "id",
+      "title": "Antimicrobial agents & their abuse",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 0.75,
+      "objectives": [
+        "Gram-positive antibacterial coverage",
+        "Gram-negative antibacterial coverage",
+        "Antimycobacterial agents",
+        "Antiviral agents",
+        "Antifungal agents",
+        "Abuse of antibiotics"
+      ],
+      "order": 12
+    },
+    {
+      "id": "id-tuberculosis",
+      "systemId": "id",
+      "title": "Tuberculosis",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.25,
+      "objectives": [
+        "Causative organism",
+        "High-risk groups (epidemiology)",
+        "Clinical presentation",
+        "Investigations & diagnosis",
+        "Management & its complications",
+        "Latent TB & pleural TB",
+        "Tuberculin skin test",
+        "Chemoprophylaxis for latent TB",
+        "Drug-resistant TB",
+        "Pleural TB"
+      ],
+      "order": 13
+    },
+    {
+      "id": "id-viral-infections",
+      "systemId": "id",
+      "title": "Common viral infections",
+      "assessedIn": [
+        "final"
+      ],
+      "priority": "high",
+      "studyHours": 0.75,
+      "objectives": [
+        "Chickenpox",
+        "Dengue fever",
+        "Shingles",
+        "Infectious mononucleosis",
+        "CMV"
+      ],
+      "order": 14
+    },
+    {
+      "id": "id-fuo",
+      "systemId": "id",
+      "title": "Fever of unknown origin",
+      "assessedIn": [
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 0.5,
+      "objectives": [
+        "Definition & diagnostic criteria",
+        "Possible etiologies",
+        "Investigations",
+        "Management"
+      ],
+      "order": 15
+    },
+    {
+      "id": "id-malaria",
+      "systemId": "id",
+      "title": "Malaria",
+      "assessedIn": [
+        "final",
+        "osce"
+      ],
+      "priority": "medium",
+      "studyHours": 0.75,
+      "objectives": [
+        "Causative organisms & types",
+        "Clinical presentations by organism",
+        "Investigations & diagnosis",
+        "Treatment",
+        "Complications"
+      ],
+      "order": 16
+    },
+    {
+      "id": "id-brucellosis",
+      "systemId": "id",
+      "title": "Brucellosis",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 0.75,
+      "objectives": [
+        "Causative organism",
+        "Modes of transmission",
+        "Symptoms",
+        "Diagnosis",
+        "Treatment"
+      ],
+      "order": 17
+    },
+    {
+      "id": "id-typhoid",
+      "systemId": "id",
+      "title": "Typhoid fever",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 0.75,
+      "objectives": [
+        "Causative organism",
+        "Modes of transmission",
+        "Symptoms",
+        "Diagnosis",
+        "Treatment"
+      ],
+      "order": 18
+    },
+    {
+      "id": "id-meningoencephalitis",
+      "systemId": "id",
+      "title": "Meningo-encephalitis",
+      "assessedIn": [
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.0,
+      "objectives": [
+        "Acute bacterial meningitis: causative organisms",
+        "Acute bacterial meningitis: clinical presentation",
+        "Acute bacterial meningitis: diagnosis",
+        "Acute bacterial meningitis: management",
+        "Acute viral encephalitis: causative organisms",
+        "Acute viral encephalitis: presentation",
+        "Acute viral encephalitis: investigations & diagnosis",
+        "Acute viral encephalitis: management"
+      ],
+      "order": 19
+    },
+    {
+      "id": "id-std",
+      "systemId": "id",
+      "title": "Sexually transmitted diseases",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 0.75,
+      "objectives": [
+        "HIV",
+        "Syphilis",
+        "Gonorrhea",
+        "Trichomoniasis",
+        "Genital herpes"
+      ],
+      "order": 20
+    },
+    {
+      "id": "id-parasitic",
+      "systemId": "id",
+      "title": "Parasitic & protozoal infections",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 0.5,
+      "objectives": [
+        "Amoebiasis",
+        "Giardiasis",
+        "Leishmaniasis"
+      ],
+      "order": 21
+    },
+    {
+      "id": "neph-history-exam",
+      "systemId": "neph",
+      "title": "History & physical exam",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "standard",
+      "studyHours": 0.5,
+      "objectives": [
+        "History taking",
+        "Relevant physical exam"
+      ],
+      "order": 22
+    },
+    {
+      "id": "neph-acid-base",
+      "systemId": "neph",
+      "title": "Acid-base disorders",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 0.5,
+      "objectives": [
+        "Approach to acid-base abnormalities",
+        "Interpretation of results showing single or mixed abnormalities",
+        "Compensation of the primary disorder",
+        "Clinical manifestations"
+      ],
+      "order": 23
+    },
+    {
+      "id": "neph-fluid-electrolytes",
+      "systemId": "neph",
+      "title": "Fluid & electrolytes",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 0.75,
+      "objectives": [
+        "Water balance",
+        "Hyponatremia",
+        "Hypernatremia",
+        "Hypokalemia",
+        "Hyperkalemia"
+      ],
+      "order": 24
+    },
+    {
+      "id": "neph-aki",
+      "systemId": "neph",
+      "title": "Acute kidney injury",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.25,
+      "objectives": [
+        "Definition",
+        "Stages of AKI",
+        "Etiological classification of AKI",
+        "Pathophysiology of common causes of AKI",
+        "Clinical manifestations of AKI",
+        "Investigations & diagnosis",
+        "Management of common causes of AKI",
+        "Complications",
+        "Indications for dialysis"
+      ],
+      "order": 25
+    },
+    {
+      "id": "neph-ckd",
+      "systemId": "neph",
+      "title": "Chronic kidney disease",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition & stages of CKD",
+        "Etiologies & pathogenesis of CKD",
+        "Symptoms & signs",
+        "Investigations",
+        "Management (conservative, dialysis, transplant)",
+        "Dialysis access & complications (line-related sepsis)",
+        "Transplant indications, drugs & complications"
+      ],
+      "order": 26
+    },
+    {
+      "id": "neph-systemic-disease",
+      "systemId": "neph",
+      "title": "Kidney in systemic diseases",
+      "assessedIn": [
+        "final"
+      ],
+      "priority": "high",
+      "studyHours": 0.75,
+      "objectives": [
+        "Diabetic kidney disease",
+        "Hypertensive nephrosclerosis",
+        "Lupus nephritis",
+        "Renal vasculitis",
+        "Drug-induced nephropathy"
+      ],
+      "order": 27
+    },
+    {
+      "id": "neph-glomerulopathies",
+      "systemId": "neph",
+      "title": "Glomerulopathies",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.0,
+      "objectives": [
+        "Classification (nephrotic, nephritic)",
+        "Etiologies (primary, secondary)",
+        "Clinical manifestations",
+        "Investigations & diagnosis (including histopathology)",
+        "Management",
+        "Complications",
+        "Glomerulopathies with hypocomplementemia"
+      ],
+      "order": 28
+    },
+    {
+      "id": "neph-calcium-phosphate",
+      "systemId": "neph",
+      "title": "Calcium-phosphate metabolism",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 0.75,
+      "objectives": [
+        "Hypocalcemia: causes, symptoms & signs, investigations, management",
+        "Hypercalcemia: causes, symptoms & signs, investigations, management",
+        "Hypophosphatemia: causes, symptoms & signs, investigations, management",
+        "Hyperphosphatemia: causes, symptoms & signs, investigations, management",
+        "Parathyroid disease (primary, secondary, tertiary)"
+      ],
+      "order": 29
+    },
+    {
+      "id": "cardio-history-exam",
+      "systemId": "cardio",
+      "title": "History & physical exam",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "standard",
+      "studyHours": 0.5,
+      "objectives": [
+        "History taking",
+        "Relevant physical exam"
+      ],
+      "order": 30
+    },
+    {
+      "id": "cardio-ihd",
+      "systemId": "cardio",
+      "title": "Ischemic heart disease",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 0.75,
+      "objectives": [
+        "Approach to management",
+        "Investigations",
+        "Medical treatment",
+        "Revascularization",
+        "Complications"
+      ],
+      "order": 31
+    },
+    {
+      "id": "cardio-hypertension",
+      "systemId": "cardio",
+      "title": "Hypertension",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Types: primary & secondary",
+        "Causes",
+        "Symptoms & signs",
+        "Investigations for primary hypertension",
+        "Investigations for secondary hypertension",
+        "Complications",
+        "Management"
+      ],
+      "order": 32
+    },
+    {
+      "id": "cardio-valvular",
+      "systemId": "cardio",
+      "title": "Valvular heart disease",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.25,
+      "objectives": [
+        "Etiology",
+        "Rheumatic fever",
+        "Age distribution",
+        "Mitral stenosis & regurgitation",
+        "Aortic stenosis & regurgitation",
+        "Symptoms & signs",
+        "Investigations",
+        "Complications",
+        "Management: medical & surgical",
+        "Management: surgical"
+      ],
+      "order": 33
+    },
+    {
+      "id": "cardio-heart-failure",
+      "systemId": "cardio",
+      "title": "Heart failure & anti-failure drugs",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 0.75,
+      "objectives": [
+        "Definition & normal cardiac function",
+        "Etiology of left-sided heart failure",
+        "Etiology of right-sided heart failure",
+        "Symptoms & signs",
+        "Investigations",
+        "Management"
+      ],
+      "order": 34
+    },
+    {
+      "id": "cardio-arrhythmias",
+      "systemId": "cardio",
+      "title": "Arrhythmias",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "high",
+      "studyHours": 1.5,
+      "objectives": [
+        "Definition",
+        "Etiology",
+        "Atrial fibrillation & flutter",
+        "AV nodal arrhythmias",
+        "Ventricular arrhythmias",
+        "Heart block (types)",
+        "Symptoms & signs",
+        "Investigations including electrophysiological studies",
+        "ECG examples",
+        "Complications",
+        "Antiarrhythmic drugs",
+        "Ablation & radiofrequency"
+      ],
+      "order": 35
+    },
+    {
+      "id": "cardio-endocarditis",
+      "systemId": "cardio",
+      "title": "Infective endocarditis",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Etiology of left-sided endocarditis",
+        "Etiology of right-sided endocarditis",
+        "Clinical picture",
+        "Investigations",
+        "Complications",
+        "Approach to management"
+      ],
+      "order": 36
+    },
+    {
+      "id": "cardio-shock",
+      "systemId": "cardio",
+      "title": "Shock",
+      "assessedIn": [
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Etiology of cardiogenic shock",
+        "Etiology of septic shock",
+        "Etiology of hypovolemic shock",
+        "Clinical picture",
+        "Investigations",
+        "Management"
+      ],
+      "order": 37
+    },
+    {
+      "id": "cardio-cardiomyopathy",
+      "systemId": "cardio",
+      "title": "Cardiomyopathy",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.25,
+      "objectives": [
+        "Types of cardiomyopathies",
+        "Causes of dilated cardiomyopathy (emphasis on viral causes)",
+        "Etiology of hypertrophic obstructive cardiomyopathy",
+        "Causes of restrictive cardiomyopathy",
+        "Stages of heart failure due to cardiomyopathy",
+        "Investigations & diagnosis: family history, blood tests, chest X-ray, ECG",
+        "Investigations & diagnosis: echocardiography, stress test, genetic studies",
+        "Management: medications",
+        "Management: pacemaker, defibrillators, ventricular assist devices, ablation",
+        "Cardiac transplantation"
+      ],
+      "order": 38
+    },
+    {
+      "id": "cardio-pericarditis",
+      "systemId": "cardio",
+      "title": "Pericarditis & myocarditis",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 0.75,
+      "objectives": [
+        "Causes (emphasis on viral, tuberculous & uremic etiology)",
+        "Symptoms & signs",
+        "Investigations",
+        "Complications: constrictive pericarditis, cardiac tamponade, impaired cardiac function",
+        "Management"
+      ],
+      "order": 39
+    },
+    {
+      "id": "resp-history-exam",
+      "systemId": "resp",
+      "title": "History & physical exam",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "standard",
+      "studyHours": 0.5,
+      "objectives": [
+        "History taking",
+        "Relevant physical exam"
+      ],
+      "order": 40
+    },
+    {
+      "id": "resp-general",
+      "systemId": "resp",
+      "title": "General pulmonology & health promotion",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 0.5,
+      "objectives": [
+        "Recognize the cardinal signs and symptoms of respiratory disease",
+        "Master the skills of examining the respiratory system",
+        "Health education"
+      ],
+      "order": 41
+    },
+    {
+      "id": "resp-asthma",
+      "systemId": "resp",
+      "title": "Bronchial asthma",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.25,
+      "objectives": [
+        "Definition of asthma",
+        "Precipitants of an asthma attack",
+        "Types of asthma",
+        "Classification & assessment of asthma control",
+        "Signs & symptoms",
+        "Investigations (emphasis on pulmonary function test interpretation)",
+        "Management of bronchial asthma & of the acute attack",
+        "Complications of asthma (status asthmaticus)",
+        "Complications of management"
+      ],
+      "order": 42
+    },
+    {
+      "id": "resp-copd",
+      "systemId": "resp",
+      "title": "COPD",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.25,
+      "objectives": [
+        "Definition of COPD",
+        "Signs & symptoms of stable COPD",
+        "Definition of COPD exacerbation",
+        "Precipitants of COPD exacerbation",
+        "Investigations for diagnosing COPD (emphasis on PFT)",
+        "Investigations for diagnosing COPD exacerbation",
+        "Management of stable COPD & of exacerbations",
+        "Role of vaccination",
+        "Pulmonary & extrapulmonary manifestations and complications of COPD"
+      ],
+      "order": 43
+    },
+    {
+      "id": "resp-suppurative",
+      "systemId": "resp",
+      "title": "Suppurative lung disease (bronchiectasis, lung abscess)",
+      "assessedIn": [
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 0.5,
+      "objectives": [
+        "Definition of bronchiectasis",
+        "Causes of bronchiectasis",
+        "Investigations",
+        "Management of bronchiectasis"
+      ],
+      "order": 44
+    },
+    {
+      "id": "resp-pe",
+      "systemId": "resp",
+      "title": "Pulmonary embolism",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.0,
+      "objectives": [
+        "Signs & symptoms of PE",
+        "Risk stratification of PE",
+        "Differential diagnosis of the common symptoms & signs of PE",
+        "Investigations of PE",
+        "Management of PE",
+        "Anticoagulant treatment",
+        "Complications of PE"
+      ],
+      "order": 45
+    },
+    {
+      "id": "resp-pneumonia",
+      "systemId": "resp",
+      "title": "Pneumonia",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.0,
+      "objectives": [
+        "Etiology of pneumonia",
+        "Definitions of pneumonia",
+        "Investigations",
+        "Management",
+        "Complications of pneumonia",
+        "Prevention of pneumonia",
+        "Hospital practice for pneumonia in the COVID-19 era"
+      ],
+      "order": 46
+    },
+    {
+      "id": "resp-pleural-effusion",
+      "systemId": "resp",
+      "title": "Pleural effusion",
+      "assessedIn": [
+        "final"
+      ],
+      "priority": "high",
+      "studyHours": 0.75,
+      "objectives": [
+        "Symptoms & signs of pleural effusion",
+        "Investigations (thoracocentesis, role of ultrasound)",
+        "Etiology of pleural effusion",
+        "Management",
+        "Complications of pleural effusion",
+        "Various pleural diseases"
+      ],
+      "order": 47
+    },
+    {
+      "id": "resp-ild",
+      "systemId": "resp",
+      "title": "Interstitial lung disease",
+      "assessedIn": [
+        "final",
+        "osce"
+      ],
+      "priority": "medium",
+      "studyHours": 0.75,
+      "objectives": [
+        "Definition",
+        "Etiology",
+        "Types of ILD",
+        "Clinical manifestations",
+        "Investigations including PFT",
+        "Management of IPF"
+      ],
+      "order": 48
+    },
+    {
+      "id": "rheum-history-exam",
+      "systemId": "rheum",
+      "title": "History & physical exam",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "standard",
+      "studyHours": 0.5,
+      "objectives": [
+        "Recognize the cardinal signs and symptoms of rheumatological disease",
+        "Master the skills of examining the musculoskeletal system"
+      ],
+      "order": 49
+    },
+    {
+      "id": "rheum-ra",
+      "systemId": "rheum",
+      "title": "Rheumatoid arthritis",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.0,
+      "objectives": [
+        "Signs & symptoms suggestive of RA and its differential diagnosis",
+        "Diagnostic criteria",
+        "Extra-articular manifestations of RA",
+        "Investigations of RA",
+        "Complications of RA",
+        "Management of RA",
+        "Complications of management",
+        "Mechanism of action of medications"
+      ],
+      "order": 50
+    },
+    {
+      "id": "rheum-sle",
+      "systemId": "rheum",
+      "title": "Systemic lupus erythematosus",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.25,
+      "objectives": [
+        "Clinical manifestations of SLE",
+        "Classification criteria for SLE",
+        "Laboratory abnormalities used in diagnosis & monitoring of SLE",
+        "Pathological classes & presentations of lupus nephritis",
+        "Management principles of SLE",
+        "SLE prognosis",
+        "Secondary antiphospholipid syndrome",
+        "Drug-induced SLE (common medications & classical presentation)",
+        "Mechanism of action & adverse effects of common medications (steroids, hydroxychloroquine, azathioprine, cyclophosphamide, rituximab, mycophenolate mofetil)"
+      ],
+      "order": 51
+    },
+    {
+      "id": "rheum-monoarthritis",
+      "systemId": "rheum",
+      "title": "Monoarthritis",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 0.5,
+      "objectives": [
+        "History & physical examination",
+        "Common, uncommon & rare causes",
+        "Focus on septic arthritis, gout, pseudogout, hemarthrosis & trauma (presentation, diagnosis, management)",
+        "Differentiating inflammatory, non-inflammatory & septic arthritis by joint aspiration"
+      ],
+      "order": 52
+    },
+    {
+      "id": "rheum-spondyloarthropathy",
+      "systemId": "rheum",
+      "title": "Spondyloarthropathies",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 0.5,
+      "objectives": [
+        "Causes of spondyloarthropathies",
+        "Common investigations for diagnosis",
+        "Management"
+      ],
+      "order": 53
+    },
+    {
+      "id": "rheum-vasculitis",
+      "systemId": "rheum",
+      "title": "Vasculitis",
+      "assessedIn": [
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 0.5,
+      "objectives": [
+        "Classification & differential (large, medium, small vessel)",
+        "Investigations",
+        "Management"
+      ],
+      "order": 54
+    },
+    {
+      "id": "endo-history-exam",
+      "systemId": "endo",
+      "title": "History & physical exam",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "standard",
+      "studyHours": 0.5,
+      "objectives": [
+        "History taking",
+        "Relevant physical exam"
+      ],
+      "order": 55
+    },
+    {
+      "id": "endo-diabetes",
+      "systemId": "endo",
+      "title": "Diabetes mellitus",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "high",
+      "studyHours": 1.5,
+      "objectives": [
+        "Definition",
+        "Classification & types",
+        "Epidemiology",
+        "Pathogenesis",
+        "Etiology",
+        "Clinical features",
+        "Investigations & diagnosis",
+        "Chronic complications (nephropathy, retinopathy, neuropathy, dermopathy, diabetic foot)",
+        "Acute complications (DKA, HHS, lactic acidosis, hypoglycemia)",
+        "Management (acute emergencies, insulin therapy, oral hypoglycemic agents)",
+        "Prevention"
+      ],
+      "order": 56
+    },
+    {
+      "id": "endo-hypothyroidism",
+      "systemId": "endo",
+      "title": "Hypothyroidism",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Pathophysiology",
+        "Etiology",
+        "Clinical features",
+        "Investigations & diagnosis",
+        "Differential diagnosis",
+        "Complications (myxedema coma)",
+        "Management"
+      ],
+      "order": 57
+    },
+    {
+      "id": "endo-hyperthyroidism",
+      "systemId": "endo",
+      "title": "Hyperthyroidism",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Pathophysiology",
+        "Etiology",
+        "Clinical features",
+        "Investigations & diagnosis",
+        "Differential diagnosis",
+        "Complications (thyroid storm)",
+        "Management"
+      ],
+      "order": 58
+    },
+    {
+      "id": "endo-acromegaly",
+      "systemId": "endo",
+      "title": "Acromegaly & gigantism",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Gigantism",
+        "Pathophysiology",
+        "Etiology",
+        "Clinical features",
+        "Investigations & diagnosis",
+        "Complications",
+        "Management (surgery, medical therapy)"
+      ],
+      "order": 59
+    },
+    {
+      "id": "endo-prolactinoma",
+      "systemId": "endo",
+      "title": "Prolactinoma & hyperprolactinemia",
+      "assessedIn": [
+        "final"
+      ],
+      "priority": "high",
+      "studyHours": 0.75,
+      "objectives": [
+        "Definition",
+        "Pathophysiology",
+        "Etiology",
+        "Clinical features",
+        "Investigations & diagnosis",
+        "Management (medical treatment, surgery, radiotherapy)"
+      ],
+      "order": 60
+    },
+    {
+      "id": "endo-cushing",
+      "systemId": "endo",
+      "title": "Cushing's syndrome",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Cushing's disease",
+        "Pathophysiology",
+        "Etiology",
+        "Clinical features",
+        "Investigations & diagnosis",
+        "Management (medical therapy, surgery)"
+      ],
+      "order": 61
+    },
+    {
+      "id": "endo-addison",
+      "systemId": "endo",
+      "title": "Addison's disease",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 0.75,
+      "objectives": [
+        "Definition",
+        "Pathophysiology",
+        "Etiology",
+        "Clinical features",
+        "Investigations & diagnosis",
+        "Management (corticosteroids)"
+      ],
+      "order": 62
+    },
+    {
+      "id": "endo-conn",
+      "systemId": "endo",
+      "title": "Primary aldosteronism (Conn's syndrome)",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 0.75,
+      "objectives": [
+        "Definition",
+        "Pathophysiology",
+        "Etiology",
+        "Clinical features",
+        "Investigations & diagnosis",
+        "Management (surgery, medical therapy)"
+      ],
+      "order": 63
+    },
+    {
+      "id": "endo-pheochromocytoma",
+      "systemId": "endo",
+      "title": "Pheochromocytoma",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 0.75,
+      "objectives": [
+        "Definition",
+        "Pathology",
+        "Etiology",
+        "Clinical features",
+        "Investigations & diagnosis",
+        "Management (surgery, medical therapy)"
+      ],
+      "order": 64
+    },
+    {
+      "id": "heme-history-exam",
+      "systemId": "heme",
+      "title": "History & physical exam",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "standard",
+      "studyHours": 0.5,
+      "objectives": [
+        "History taking",
+        "Relevant physical exam"
+      ],
+      "order": 65
+    },
+    {
+      "id": "heme-sickle-cell",
+      "systemId": "heme",
+      "title": "Sickle cell disease",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.25,
+      "objectives": [
+        "Definition",
+        "Pathogenesis",
+        "Sickle cell types",
+        "Clinical features",
+        "Types of crises",
+        "Clinical features of crises",
+        "Investigations",
+        "Complications",
+        "Management",
+        "Sickle cell trait"
+      ],
+      "order": 66
+    },
+    {
+      "id": "heme-thalassemia",
+      "systemId": "heme",
+      "title": "Thalassemia",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Classification (types)",
+        "Pathogenesis",
+        "Clinical features of non-transfusion-dependent thalassemia",
+        "Clinical features of transfusion-dependent thalassemia",
+        "Complications",
+        "Management"
+      ],
+      "order": 67
+    },
+    {
+      "id": "heme-g6pd",
+      "systemId": "heme",
+      "title": "G6PD deficiency",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Pathogenesis",
+        "Types (variants)",
+        "Clinical features",
+        "Favism",
+        "Investigations",
+        "Management"
+      ],
+      "order": 68
+    },
+    {
+      "id": "heme-aiha",
+      "systemId": "heme",
+      "title": "Autoimmune hemolytic anemia",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Classification",
+        "Etiology",
+        "Pathogenesis",
+        "Clinical features",
+        "Investigations",
+        "Differential diagnosis",
+        "Management"
+      ],
+      "order": 69
+    },
+    {
+      "id": "heme-iron-deficiency",
+      "systemId": "heme",
+      "title": "Iron deficiency anemia",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Iron metabolism",
+        "Causes",
+        "Clinical features",
+        "Investigations",
+        "Differential diagnosis of microcytosis",
+        "Management"
+      ],
+      "order": 70
+    },
+    {
+      "id": "heme-megaloblastic",
+      "systemId": "heme",
+      "title": "Megaloblastic anemia",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Vitamin B12 & folate metabolism",
+        "Pathogenesis",
+        "Etiology",
+        "Clinical features",
+        "Investigations",
+        "Differential diagnosis of macrocytosis",
+        "Management"
+      ],
+      "order": 71
+    },
+    {
+      "id": "heme-itp",
+      "systemId": "heme",
+      "title": "Immune thrombocytopenic purpura",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Etiology",
+        "Pathogenesis",
+        "Clinical features",
+        "Investigations",
+        "Differential diagnosis",
+        "Management"
+      ],
+      "order": 72
+    },
+    {
+      "id": "heme-ttp",
+      "systemId": "heme",
+      "title": "Thrombotic thrombocytopenic purpura",
+      "assessedIn": [
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Etiology",
+        "Pathogenesis",
+        "Clinical features",
+        "Investigations",
+        "Differential diagnosis",
+        "Management"
+      ],
+      "order": 73
+    },
+    {
+      "id": "heme-vte",
+      "systemId": "heme",
+      "title": "Venous thromboembolism",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.75,
+      "objectives": [
+        "Definitions (DVT, PE)",
+        "Pathogenesis",
+        "Epidemiology",
+        "Risk factors",
+        "Risk assessment",
+        "Clinical features",
+        "Investigations",
+        "Diagnosis & thrombophilia screening",
+        "Scoring systems",
+        "Differential diagnosis",
+        "Complications",
+        "Management",
+        "Prevention"
+      ],
+      "order": 74
+    },
+    {
+      "id": "heme-hemophilia",
+      "systemId": "heme",
+      "title": "Hemophilia A & B",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Incidence & prevalence",
+        "Mode of inheritance",
+        "Clinical features",
+        "Differential diagnosis",
+        "Complications",
+        "Management"
+      ],
+      "order": 75
+    },
+    {
+      "id": "heme-vwd",
+      "systemId": "heme",
+      "title": "Von Willebrand disease",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Incidence & prevalence",
+        "Mode of inheritance",
+        "Pathogenesis",
+        "Clinical features",
+        "Classification & types",
+        "Differential diagnosis & complications",
+        "Management"
+      ],
+      "order": 76
+    },
+    {
+      "id": "hemonc-history-exam",
+      "systemId": "hemonc",
+      "title": "History & physical exam",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "standard",
+      "studyHours": 0.5,
+      "objectives": [
+        "History taking",
+        "Relevant physical exam"
+      ],
+      "order": 77
+    },
+    {
+      "id": "hemonc-aml",
+      "systemId": "hemonc",
+      "title": "Acute myeloid leukemia",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "high",
+      "studyHours": 1.25,
+      "objectives": [
+        "Definition",
+        "Incidence & prevalence",
+        "Etiology & risk factors",
+        "Pathogenesis",
+        "Classification (WHO/FAB)",
+        "Clinical features",
+        "Investigations",
+        "Risk groups",
+        "Prognosis",
+        "Management (supportive, specific chemotherapy, bone marrow transplantation)"
+      ],
+      "order": 78
+    },
+    {
+      "id": "hemonc-cml",
+      "systemId": "hemonc",
+      "title": "Chronic myeloid leukemia",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Incidence & prevalence",
+        "Pathogenesis",
+        "Phases of disease",
+        "Clinical features",
+        "Investigations & diagnosis",
+        "Management (targeted therapy) & prognosis"
+      ],
+      "order": 79
+    },
+    {
+      "id": "hemonc-cll",
+      "systemId": "hemonc",
+      "title": "Chronic lymphocytic leukemia",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.25,
+      "objectives": [
+        "Definition",
+        "Incidence & prevalence",
+        "Etiology",
+        "Pathogenesis",
+        "Clinical features",
+        "Investigations & diagnosis",
+        "Staging systems & risk groups",
+        "Prognosis & management (supportive, specific)",
+        "Complications (transformation)"
+      ],
+      "order": 80
+    },
+    {
+      "id": "onc-history-exam",
+      "systemId": "onc",
+      "title": "History & physical exam",
+      "assessedIn": [
+        "mid",
+        "final",
+        "osce"
+      ],
+      "priority": "standard",
+      "studyHours": 0.5,
+      "objectives": [
+        "History taking",
+        "Relevant physical exam"
+      ],
+      "order": 81
+    },
+    {
+      "id": "onc-breast",
+      "systemId": "onc",
+      "title": "Breast cancer",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "high",
+      "studyHours": 1.25,
+      "objectives": [
+        "Etiology, pathology & screening",
+        "Histological types (non-invasive, invasive)",
+        "Clinical features",
+        "Investigations",
+        "Staging",
+        "Management of early & advanced disease",
+        "Surgery",
+        "Radiotherapy",
+        "Chemotherapy",
+        "Targeted therapy"
+      ],
+      "order": 82
+    },
+    {
+      "id": "onc-lymphoma",
+      "systemId": "onc",
+      "title": "Hodgkin & non-Hodgkin lymphoma",
+      "assessedIn": [
+        "final",
+        "osce"
+      ],
+      "priority": "high",
+      "studyHours": 1.25,
+      "objectives": [
+        "Definition",
+        "Etiology",
+        "Incidence & prevalence",
+        "Pathogenesis",
+        "Classification, types & histology",
+        "Clinical features",
+        "Investigations & diagnosis",
+        "Staging systems & prognostic factors",
+        "Management (early stage, advanced stage)",
+        "Chemotherapy & targeted therapy"
+      ],
+      "order": 83
+    },
+    {
+      "id": "onc-dlbcl",
+      "systemId": "onc",
+      "title": "Diffuse large B-cell lymphoma",
+      "assessedIn": [
+        "final"
+      ],
+      "priority": "high",
+      "studyHours": 0.75,
+      "objectives": [
+        "Incidence & prevalence",
+        "Pathogenesis",
+        "Clinical features",
+        "Investigations & diagnosis",
+        "Management (early & advanced stage), including chemotherapy",
+        "Prognosis"
+      ],
+      "order": 84
+    },
+    {
+      "id": "onc-lung",
+      "systemId": "onc",
+      "title": "Lung cancer",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Etiology & risk factors",
+        "Incidence & prevalence",
+        "Pathogenesis",
+        "Clinical features (pulmonary & extrapulmonary)",
+        "Histologic subtypes (non-small cell, small cell)",
+        "Investigations, diagnosis & staging",
+        "Management (surgery, radiotherapy, chemotherapy)"
+      ],
+      "order": 85
+    },
+    {
+      "id": "onc-prostate",
+      "systemId": "onc",
+      "title": "Prostate cancer",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.25,
+      "objectives": [
+        "Definition",
+        "Incidence & prevalence",
+        "Etiology & pathogenesis",
+        "Clinical features",
+        "Investigations & diagnosis",
+        "Staging (localized, locally advanced, metastatic)",
+        "Prognostic factors",
+        "Differential diagnosis",
+        "Management (surgery, endocrine therapy, chemotherapy)"
+      ],
+      "order": 86
+    },
+    {
+      "id": "onc-tls",
+      "systemId": "onc",
+      "title": "Tumor lysis syndrome",
+      "assessedIn": [
+        "final"
+      ],
+      "priority": "high",
+      "studyHours": 0.5,
+      "objectives": [
+        "Definition",
+        "Etiology",
+        "Pathogenesis",
+        "Investigations & management"
+      ],
+      "order": 87
+    },
+    {
+      "id": "onc-svco",
+      "systemId": "onc",
+      "title": "Superior vena cava obstruction",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 0.75,
+      "objectives": [
+        "Definition",
+        "Etiology",
+        "Clinical features",
+        "Investigations",
+        "Complications",
+        "Management (steroids, chemotherapy, interventional stenting)"
+      ],
+      "order": 88
+    },
+    {
+      "id": "onc-febrile-neutropenia",
+      "systemId": "onc",
+      "title": "Febrile neutropenia",
+      "assessedIn": [
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 1.0,
+      "objectives": [
+        "Definition",
+        "Etiology",
+        "Pathogenesis",
+        "Clinical features",
+        "Investigations",
+        "Complications",
+        "Management"
+      ],
+      "order": 89
+    },
+    {
+      "id": "onc-paraneoplastic",
+      "systemId": "onc",
+      "title": "Paraneoplastic syndromes",
+      "assessedIn": [
+        "mid",
+        "final"
+      ],
+      "priority": "medium",
+      "studyHours": 0.5,
+      "objectives": [
+        "Definition",
+        "Pathogenesis",
+        "Types & common tumor associations"
+      ],
+      "order": 90
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+# electron-builder config (docs/04 §5, SECURITY §11 fuses). Windows only (D11). Unsigned (D2).
+# appId and productName are the app identity (one-way door, 04 §7). Never change after v0.1.0.
+appId: io.github.450h.im-companion
+productName: MED 222 IM Companion
+copyright: Copyright © 2026 450h
+directories:
+  output: dist
+  buildResources: build
+files:
+  - out/**
+  - package.json
+  - '!**/*.map'
+extraResources:
+  - from: content
+    to: content
+    filter:
+      - '**/*.json'
+      - 'images/**'
+      - '!**/*.md'
+asar: true
+icon: build/icon.ico
+publish: null
+
+# Hardening fuses (SECURITY §11). E2E runs against the unpackaged out/ build.
+electronFuses:
+  runAsNode: false
+  enableNodeOptionsEnvironmentVariable: false
+  enableNodeCliInspectArguments: false
+  onlyLoadAppFromAsar: true
+  enableEmbeddedAsarIntegrityValidation: true
+  grantFileProtocolExtraPrivileges: false
+  enableCookieEncryption: true
+
+win:
+  target:
+    - target: nsis
+      arch: [x64]
+    - target: portable
+      arch: [x64]
+  signAndEditExecutable: true
+
+nsis:
+  oneClick: false
+  perMachine: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  shortcutName: MED 222 IM Companion
+  artifactName: MED-222-IM-Companion-Setup-${version}.${ext}
+  deleteAppDataOnUninstall: false
+
+portable:
+  artifactName: MED-222-IM-Companion-${version}-portable.${ext}

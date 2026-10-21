@@ -1,0 +1,30 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: windows-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run guard:copyright
+      - run: npm run typecheck
+      - run: npm run lint
+      # Unit + engine + content lint (requires source/copy-check hashes on every topic).
+      - run: npm test
+      - run: npm audit --audit-level=high
+      - run: npm run build
+      - name: E2E smoke (unpackaged build)
+        run: npx playwright test

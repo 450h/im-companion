@@ -1,0 +1,31 @@
+name: Feature request
+description: Suggest an improvement to the planner, study modes or app
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: The study situation, e.g. "I fell behind by 3 days and…"
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help?
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options: [Planner / tracker, Reading / summaries, Flashcards, Questions / exams, EMQ Volumes, Progress views, Install / updates, Other]
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: This doesn't require putting textbook pages, figures or questions into the app (see ADR-0003)
+          required: true

@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+out/
+dist/
+build-cache/
+*.tsbuildinfo
+
+# Environment & secrets — NEVER commit real values
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# COPYRIGHT GUARD (ADR-0003) — source books and anything extracted from them never enter the repo
+*.pdf
+*.PDF
+Med_source/
+.work/
+**/page-images/
+**/pages/*.png
+
+# Python (build-time extraction scripts)
+__pycache__/
+*.pyc
+.venv/
+
+# Local app data used in development/tests (never commit real progress)
+.dev-data/
+test-data/
+tests/e2e/screenshots/
+test-results/
+playwright-report/
+/progress.json
+logs/
+
+# Testing / logs / OS / editor
+coverage/
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# OCR model downloaded by tesseract.js at build time
+*.traineddata

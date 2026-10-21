@@ -1,0 +1,37 @@
+name: Bug report
+description: Something is wrong with the app (a crash, a wrong plan date or status, a UI problem)
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting! For a **wrong medical fact or question**, use the "Content error" form instead. For security issues use Security → Report a vulnerability.
+  - type: input
+    id: version
+    attributes:
+      label: App version
+      description: Settings → About
+      placeholder: 0.1.0
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options: [Plan / schedule dates, Task status / auto-logging, Spaced reviews, Flashcards, Quizzes & exams, EMQ Volumes answer sheet, Progress / dashboard, Reader / search / notes, Backups / import / export, Install / update / startup, Other]
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: For plan issues, include your track, start date, study days and hours per day.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected vs actual
+      description: For planner behaviour, say which rule in docs/05-data-model.md (R-1…R-12) you expected, if you know.
+    validations:
+      required: true
